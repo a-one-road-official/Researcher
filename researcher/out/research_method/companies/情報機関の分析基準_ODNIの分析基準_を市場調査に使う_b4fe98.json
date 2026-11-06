@@ -8,7 +8,7 @@
  ],
  "context": "型",
  "kind": "market",
- "researched_at": "2026-11-06T15:05:42.804318+00:00",
+ "researched_at": "2026-11-06T19:25:35.101447+00:00",
  "evidence": {
   "検索結果の抜粋": [
    {
@@ -58,6 +58,396 @@
    {
     "quote": "How to update ODNI ICD 203 Analytic standards - LinkedIn Do we need to update the 9 ODNI ICD 203 Analytic standards for the AI Era? 🔎 Quality and Credibility: Properly describe the quality and credibility of sources, data, and methodologies.",
     "url": "https://www.linkedin.com/posts/nick-smith-35654346_intelligence-osint-geoint-activity-7232359619031896064-Eclm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、こうした公開情報からの人物特定の技法は、前述の攻撃者によるソーシャルエンジニアリングと表裏一体である点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合が不注意でデータを露出させた場合、たとえば保護されていないウェブサイトのディレクトリやWi-Fiの位置情報の公開データベースなどは、合法的に入手できる限り分析が許される",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は第三者のデータ提供者にも注意を払うべきである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、こうした間接的な代理指標は誤差や見せかけの相関を含みうるため、複数の情報源で裏づけて初めて信頼できる推論になる点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意すべきなのは、重要な非公開の財務情報は内部情報にあたりうる点である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意すべきなのは、AIには質の高いデータを与え、適切な問いで導く必要があるという点である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GMOインターネットグループ. (2025). OSINTとは？活用時の注意点と具体的プロセスを詳しく解説. GMOインターネットグループ サイバーセキュリティ.",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "またこの文章は分析者と意思決定者が別の役割であることが前提に書かれているが、意思決定者が自分で分析する場合でも注意すべき点は全く同じである",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者はバイアスを明らかにし緩和する推論の技法と実務的な仕組みを用いなければならない",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス、利害関係、視野狭窄、自己欺瞞、願望、思い込み、好みなど客観性を失わせる要因は数多い",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この4つのことは、分析を語る上では間違いなく基準となるものだ",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACHが対抗しようとしている認知バイアスは、OSINT調査者の職業病でもあります",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 1",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 2",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バイアス 3",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5つの「Analytic Standards」",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -406,6 +796,724 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この流れは、商業的な市場調査における「目的の設定、仮説の立案、調査の設計、データの収集、分析、意思決定」という調査設計と構造的によく似ており、両者を比べるための共通の物差しになる(矢野経済研究所, n.d.; SATORI, 2025)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や成長率の推計が情報源によって大きく食い違う例が確認されたため、一つの情報源に頼らず、複数の情報源で裏づけること(トライアンギュレーション)を方法論上の原則とした",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "要点は、公開データを実行に移せるインテリジェンスに変える手順、すなわち情報を検証し、文脈の中で分析し、意思決定者に使いやすい形で届ける手順を備えることである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報源の質と信頼性を記述すること、主要な判断に伴う不確実性を明示すること、根拠となる情報と分析官の仮定を区別すること、代替仮説を検討すること、顧客にとっての意味を示すこと、明快で論理的な論証を用いることなどが、すべての分析製品が満たすべき技法基準とされる(ODNI, 2015)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この検証の段階では、複数の情報源による裏づけを通じて情報の出所と信頼性を確かめることが、実務上の要点として強調されている(三和コムテック, 2025; GMOインターネットグループ, 2025)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ論考は、協力者の側が大規模言語モデルでもっともらしい偽情報を作って渡す危険にも触れており、AIは情報源の検証をこれまで以上に重要にする(Mulligan, 2026)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防衛分野の信号情報市場は2026年に約196億ドルで、年平均約6.05%の成長率で2031年には約263億ドルに達すると推計される(Mordor Intelligence, 2026)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、この市場の規模や成長率の推計は情報源によって大きく食い違っており(SDKI Analytics, 2025)、一つの推計に頼らず複数の情報源で裏づける必要がある",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計測・痕跡情報は、地震活動と大気試料の監視で核実験の実施を探知する軍備管理の検証や、固有のレーダー特性から敵の装備を識別する戦場情報で、大きな成果を挙げてきた",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "衛星画像は画像情報の一種だが、車の台数を数える、影の長さから建設の進み具合を推定する、夜間の光の量から経済活動を推定するといったパターンを分析するとき、それは公開画像に対して計測・痕跡情報の方法で分析を行っていることになる",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際、ジャーナリストや投資家はこの種の作業を行うことが知られており、工場の煙突を観察したり、ドローンで撮影したりして、工場の産出量や貯蔵施設の在庫を推定してきた",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば小売業者は、市場全体の消費支出の動向を把握し、競合の売上を推定するために、合法的に提供され匿名化された集計済みのクレジットカード取引データを使える",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人間は「最初の仮説に合う証拠」ばかり集めてしまう",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を洗い出す（最低3つ）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公文書・自組織の一次ログ・長期の検証実績がある情報源",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実名の専門家ブログ・検証歴のあるコミュニティ",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "独立系統2つ以上で一致＋自分でも検証できた",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "裏取りは1系統だが、技術的整合性を自分で確認済み",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "未確認で、既知の情報と食い違いあり",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "逆に、出自不明のリーク（F）でも中身が独立に検証できれば F1〜F2 になります",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "独立性の検証は、格付け運用とセットで必ず組み込んでください",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "格付けは記録してこそ資産になる——再検証可能な調査の作り方",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "B2（実績あるベンダー／PDNSで自己検証済）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACH（Analysis of Competing Hypotheses＝競合仮説分析）は、CIAに45年在籍したリチャーズ・ヒュアーが1970年代に開発した構造化分析技法です",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "核心は、1つの仮説を「証明」しようとするのではなく、",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の対立仮説を並べて「どの仮説が最も反証されにくいか」を選ぶ",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本命の仮説だけでなく、対立仮説と「この情報自体が偽情報・偽旗である」という仮説を必ず含める",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例研究は、インテリジェンスの考え方を取り入れることが戦略上の優位につながることを示している",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像データや取引データなどの代替データを投資判断に使うヘッジファンドや、デューデリジェンスと競合分析のために民間の調査会社を使う事例がその例である(Black Cube, n.d.)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の各節では、各分野の詳しい比較分析、企業での応用事例、倫理的に実践するための指針を示す",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各分野について、CIA(米国)、モサド(イスラエル)、MI6(英国)、KGB(ソ連・ロシア)がどのように情報を集めてきたかを概観し、それぞれに固有の手法や歴史上の事例を示す",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本報告書は、インテリジェンスに関する文献や経済報道の事例研究を含む公開情報源に基づいている",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インテリジェンスを活かした経営戦略が実際に機能する様子を示すため、実社会の事例を収めた",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.3 応用と事例",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この事例は、公開情報を巧みに分析すれば、実行に移せる市場情報を生み出せることを示している",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今日のデジタル社会でも、対面での諜報と情報源の育成は続いており、企業や外交の場で潜入工作員が摘発された近年の事例がそれを裏づけている",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "衛星画像で小売の業績を予測した事例研究は、型破りなデータでも、適切に計測して分析すれば収益につながる知見に変わることを示している",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実例として、戦略のために金融情報を活用する代表的な例は、自社の業界における投資の流れとベンチャー資金を追跡することである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員が競合から勧誘される事例の急増など、自社の専有情報に対する異常な関心を監視する",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "United Press International. (2001, September 7). P&G, Unilever settle corporate spying case. UPI Archives.",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿の後続セクションでは、各インテリジェンス分野の比較分析、ビジネスへの応用事例、および倫理的な実施ガイドラインについて詳細に論じる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本研究は、インテリジェンス文献およびビジネスニュースのケーススタディなどの公開情報に基づいている",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、インテリジェンス主導のビジネス戦略が実際にどのように機能するかを示すため、実例を交えて解説する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、CIAの「Open Source Enterprise（旧Open Source Center）」は、世界中の公開情報を体系的に収集し、生のデータを政策立案者向けのインテリジェンスレポートに変換している（CIA, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ヘッジファンドやコンサルティング企業は、公開データセットを活用して経済指標を分析する戦略を構築している",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この情報を活用した投資家は、後に発表された企業業績の好結果により、市場で優位性を確立することができた",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、衛星画像を用いた駐車場の分析は合法であるものの、一般に広くアクセス可能な情報ではなく、特定のツールを持つ者のみが利用可能である",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.3.3 イスラエルの事例と証拠の限界",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.8.2 中国の事例が示す対照的な型",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上司や同僚に嫌われるから都合の悪い結果を出したくない、クライアントが望んでいるからうまくいったと報告したい",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キャンペーンが終わってから結果を見てもそのキャンペーンはもう修正できない",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検討した結果、今手元にあるデータだけで分析を行うことは多々あるが、最初から選択肢を限るのとはまったく違う",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国連邦政府の場合、国防に関連する組織、インテリジェンス組織という国家安全保障に関連するために秘密が多いような部門であっても、国民のための政府であるから、当然に法律に基づき内部監査が実施され、その結果は秘密に該当しなければ公開されます",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さて、国防総省監察官室が、国家情報分析の作成と評価を統制する情報コミュニティー (Intelligence Community; IC) の分析標準である「情報コミュニティ指令203号：分析標準 (INTELLIGENCE COMMUNITY DIRECTIVE NUMBER 203: ANALYTIC STANDARDS) に基づく監査を実施し、その結果を公表していますね",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、USCYBERCOMには、教育訓練のための教材やプログラムの改善を目指す、分析情報製品のレビューと評価の内部プログラムがなかった",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新人分析官に対するICD203の初期トレーニングが行われなかった結果、全情報源の情報分析官の中には、分析技術標準に不慣れな者もいるかもしれない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(U) 調査結果 サービスインテリジェンスセンターとUSCYBERCOMは分析標準を運用化するプログラムを実施していたが、トラデクラフトの評価と訓練に課題を抱えていた",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らす",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析成果物評価の結果は、分析知識、技能、能力、および技術に関する教育および訓練 のための教材およびプログラムの改善に使用される",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは、重大な判断が重大な不確実性や複雑性（将来のトレンド予測など）と闘わなければならない場合や、確率の低い事象が大きな影響を与える結果をもたらす可能性がある場合に、特に重要である",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "したがって、分析成果物は、可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らすべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(2) 分析情報成果物レビューの結果を作成し、議会及び関連する IC 要素に報告する；",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実例：自社を騙るフィッシングサイト、設置者は誰か（架空シナリオ）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果・SNS投稿・リークデータ・ベンダーレポート——これらは評価（格付け）と分析を経てはじめて、意思決定に使える「インテリジェンス」になります",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "vendor-blog.example/report-2026",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "osint-log.example/records/2026-0142",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "vendor-blog.example（初出＝同ベンダー）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "この記事では、プログラミング初心者・セキュリティ初心者でも理解できるように、GitHubの仕組みから使い方、プログラムのアップロード、さらにはサーバを借りて自分のサービスを公開するところまで、ステップごとに丁寧に解説します",
@@ -469,6 +1577,48 @@
    },
    {
     "quote": "エージェント・サーバー・インデクサー・ダッシュボードの4つの部品を「防犯カメラ・警備室・録画保管庫・監視モニター」にたとえて1枚の図で整理し、できること8つ、SSH総当たり攻撃を見つける流れ、必要なスペックと導入手順、向いている人の診断、よくある勘違い、Wazuh自身の脆弱性CVE-2025-24016の教訓までまとめました",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マルウェア解析と仮想環境とInetsimの活用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "INetSimの仕組みから実際の使い方を解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "INetSimの仕組みから実際の使い方まで、セキュリティの初心者でも理解できるように 丁寧に解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Magnet Forensics / FTKの使い方、応用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実行中のプロセスにJavaScriptコードを注入し、関数の呼び出し・引数・戻り値を監視・改ざんできる動的計装フレームワークです",
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -911,1108 +2061,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この流れは、商業的な市場調査における「目的の設定、仮説の立案、調査の設計、データの収集、分析、意思決定」という調査設計と構造的によく似ており、両者を比べるための共通の物差しになる(矢野経済研究所, n.d.; SATORI, 2025)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や成長率の推計が情報源によって大きく食い違う例が確認されたため、一つの情報源に頼らず、複数の情報源で裏づけること(トライアンギュレーション)を方法論上の原則とした",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "要点は、公開データを実行に移せるインテリジェンスに変える手順、すなわち情報を検証し、文脈の中で分析し、意思決定者に使いやすい形で届ける手順を備えることである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報源の質と信頼性を記述すること、主要な判断に伴う不確実性を明示すること、根拠となる情報と分析官の仮定を区別すること、代替仮説を検討すること、顧客にとっての意味を示すこと、明快で論理的な論証を用いることなどが、すべての分析製品が満たすべき技法基準とされる(ODNI, 2015)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この検証の段階では、複数の情報源による裏づけを通じて情報の出所と信頼性を確かめることが、実務上の要点として強調されている(三和コムテック, 2025; GMOインターネットグループ, 2025)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じ論考は、協力者の側が大規模言語モデルでもっともらしい偽情報を作って渡す危険にも触れており、AIは情報源の検証をこれまで以上に重要にする(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防衛分野の信号情報市場は2026年に約196億ドルで、年平均約6.05%の成長率で2031年には約263億ドルに達すると推計される(Mordor Intelligence, 2026)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、この市場の規模や成長率の推計は情報源によって大きく食い違っており(SDKI Analytics, 2025)、一つの推計に頼らず複数の情報源で裏づける必要がある",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計測・痕跡情報は、地震活動と大気試料の監視で核実験の実施を探知する軍備管理の検証や、固有のレーダー特性から敵の装備を識別する戦場情報で、大きな成果を挙げてきた",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "衛星画像は画像情報の一種だが、車の台数を数える、影の長さから建設の進み具合を推定する、夜間の光の量から経済活動を推定するといったパターンを分析するとき、それは公開画像に対して計測・痕跡情報の方法で分析を行っていることになる",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際、ジャーナリストや投資家はこの種の作業を行うことが知られており、工場の煙突を観察したり、ドローンで撮影したりして、工場の産出量や貯蔵施設の在庫を推定してきた",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば小売業者は、市場全体の消費支出の動向を把握し、競合の売上を推定するために、合法的に提供され匿名化された集計済みのクレジットカード取引データを使える",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人間は「最初の仮説に合う証拠」ばかり集めてしまう",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を洗い出す（最低3つ）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公文書・自組織の一次ログ・長期の検証実績がある情報源",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実名の専門家ブログ・検証歴のあるコミュニティ",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "独立系統2つ以上で一致＋自分でも検証できた",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "裏取りは1系統だが、技術的整合性を自分で確認済み",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "未確認で、既知の情報と食い違いあり",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "逆に、出自不明のリーク（F）でも中身が独立に検証できれば F1〜F2 になります",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "独立性の検証は、格付け運用とセットで必ず組み込んでください",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "格付けは記録してこそ資産になる——再検証可能な調査の作り方",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "B2（実績あるベンダー／PDNSで自己検証済）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACH（Analysis of Competing Hypotheses＝競合仮説分析）は、CIAに45年在籍したリチャーズ・ヒュアーが1970年代に開発した構造化分析技法です",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "核心は、1つの仮説を「証明」しようとするのではなく、",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の対立仮説を並べて「どの仮説が最も反証されにくいか」を選ぶ",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本命の仮説だけでなく、対立仮説と「この情報自体が偽情報・偽旗である」という仮説を必ず含める",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、こうした公開情報からの人物特定の技法は、前述の攻撃者によるソーシャルエンジニアリングと表裏一体である点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合が不注意でデータを露出させた場合、たとえば保護されていないウェブサイトのディレクトリやWi-Fiの位置情報の公開データベースなどは、合法的に入手できる限り分析が許される",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は第三者のデータ提供者にも注意を払うべきである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、こうした間接的な代理指標は誤差や見せかけの相関を含みうるため、複数の情報源で裏づけて初めて信頼できる推論になる点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意すべきなのは、重要な非公開の財務情報は内部情報にあたりうる点である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意すべきなのは、AIには質の高いデータを与え、適切な問いで導く必要があるという点である",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GMOインターネットグループ. (2025). OSINTとは？活用時の注意点と具体的プロセスを詳しく解説. GMOインターネットグループ サイバーセキュリティ.",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "またこの文章は分析者と意思決定者が別の役割であることが前提に書かれているが、意思決定者が自分で分析する場合でも注意すべき点は全く同じである",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者はバイアスを明らかにし緩和する推論の技法と実務的な仕組みを用いなければならない",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス、利害関係、視野狭窄、自己欺瞞、願望、思い込み、好みなど客観性を失わせる要因は数多い",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この4つのことは、分析を語る上では間違いなく基準となるものだ",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACHが対抗しようとしている認知バイアスは、OSINT調査者の職業病でもあります",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 1",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 2",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バイアス 3",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "直すための更新にも落とし穴がある本体の弱点（CVE-2026-119977）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5つの「Analytic Standards」",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事例研究は、インテリジェンスの考え方を取り入れることが戦略上の優位につながることを示している",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画像データや取引データなどの代替データを投資判断に使うヘッジファンドや、デューデリジェンスと競合分析のために民間の調査会社を使う事例がその例である(Black Cube, n.d.)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の各節では、各分野の詳しい比較分析、企業での応用事例、倫理的に実践するための指針を示す",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各分野について、CIA(米国)、モサド(イスラエル)、MI6(英国)、KGB(ソ連・ロシア)がどのように情報を集めてきたかを概観し、それぞれに固有の手法や歴史上の事例を示す",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本報告書は、インテリジェンスに関する文献や経済報道の事例研究を含む公開情報源に基づいている",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インテリジェンスを活かした経営戦略が実際に機能する様子を示すため、実社会の事例を収めた",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.3 応用と事例",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この事例は、公開情報を巧みに分析すれば、実行に移せる市場情報を生み出せることを示している",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今日のデジタル社会でも、対面での諜報と情報源の育成は続いており、企業や外交の場で潜入工作員が摘発された近年の事例がそれを裏づけている",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "衛星画像で小売の業績を予測した事例研究は、型破りなデータでも、適切に計測して分析すれば収益につながる知見に変わることを示している",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実例として、戦略のために金融情報を活用する代表的な例は、自社の業界における投資の流れとベンチャー資金を追跡することである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員が競合から勧誘される事例の急増など、自社の専有情報に対する異常な関心を監視する",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "United Press International. (2001, September 7). P&G, Unilever settle corporate spying case. UPI Archives.",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿の後続セクションでは、各インテリジェンス分野の比較分析、ビジネスへの応用事例、および倫理的な実施ガイドラインについて詳細に論じる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本研究は、インテリジェンス文献およびビジネスニュースのケーススタディなどの公開情報に基づいている",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、インテリジェンス主導のビジネス戦略が実際にどのように機能するかを示すため、実例を交えて解説する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、CIAの「Open Source Enterprise（旧Open Source Center）」は、世界中の公開情報を体系的に収集し、生のデータを政策立案者向けのインテリジェンスレポートに変換している（CIA, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ヘッジファンドやコンサルティング企業は、公開データセットを活用して経済指標を分析する戦略を構築している",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この情報を活用した投資家は、後に発表された企業業績の好結果により、市場で優位性を確立することができた",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、衛星画像を用いた駐車場の分析は合法であるものの、一般に広くアクセス可能な情報ではなく、特定のツールを持つ者のみが利用可能である",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.3.3 イスラエルの事例と証拠の限界",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.8.2 中国の事例が示す対照的な型",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上司や同僚に嫌われるから都合の悪い結果を出したくない、クライアントが望んでいるからうまくいったと報告したい",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キャンペーンが終わってから結果を見てもそのキャンペーンはもう修正できない",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検討した結果、今手元にあるデータだけで分析を行うことは多々あるが、最初から選択肢を限るのとはまったく違う",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国連邦政府の場合、国防に関連する組織、インテリジェンス組織という国家安全保障に関連するために秘密が多いような部門であっても、国民のための政府であるから、当然に法律に基づき内部監査が実施され、その結果は秘密に該当しなければ公開されます",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さて、国防総省監察官室が、国家情報分析の作成と評価を統制する情報コミュニティー (Intelligence Community; IC) の分析標準である「情報コミュニティ指令203号：分析標準 (INTELLIGENCE COMMUNITY DIRECTIVE NUMBER 203: ANALYTIC STANDARDS) に基づく監査を実施し、その結果を公表していますね",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果、USCYBERCOMには、教育訓練のための教材やプログラムの改善を目指す、分析情報製品のレビューと評価の内部プログラムがなかった",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新人分析官に対するICD203の初期トレーニングが行われなかった結果、全情報源の情報分析官の中には、分析技術標準に不慣れな者もいるかもしれない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(U) 調査結果 サービスインテリジェンスセンターとUSCYBERCOMは分析標準を運用化するプログラムを実施していたが、トラデクラフトの評価と訓練に課題を抱えていた",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らす",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析成果物評価の結果は、分析知識、技能、能力、および技術に関する教育および訓練 のための教材およびプログラムの改善に使用される",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは、重大な判断が重大な不確実性や複雑性（将来のトレンド予測など）と闘わなければならない場合や、確率の低い事象が大きな影響を与える結果をもたらす可能性がある場合に、特に重要である",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "したがって、分析成果物は、可能な限り明確かつ正確に判断を表現し、結果や展開の可能性、時期、性質に言及することで曖昧さを減らすべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(2) 分析情報成果物レビューの結果を作成し、議会及び関連する IC 要素に報告する；",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実例：自社を騙るフィッシングサイト、設置者は誰か（架空シナリオ）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果・SNS投稿・リークデータ・ベンダーレポート——これらは評価（格付け）と分析を経てはじめて、意思決定に使える「インテリジェンス」になります",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "vendor-blog.example/report-2026",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "osint-log.example/records/2026-0142",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "vendor-blog.example（初出＝同ベンダー）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -2029,12 +2077,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "url": "https://note.com/everprogress/n/ndfc934686a89",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/everprogress/n/ndfc934686a89",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
     "status": "ok",
     "method": "http"
    },
@@ -2059,7 +2107,7 @@
     "method": "browser"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=4c16f162a917e9df58af730d499189fb",
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=3c238eac2d700f5c2a32f53f983119d8",
     "status": "ok",
     "method": "http"
    },
@@ -2074,7 +2122,7 @@
     "method": "browser"
    },
    {
-    "url": "https://www.amazon.ca/%E5%85%A8%E8%A8%B3%E6%B3%A8-%E7%B1%B3%E5%9B%BD%E6%83%85%E5%A0%B1%E6%A9%9F%E9%96%A2%E3%81%AE%E5%88%86%E6%9E%90%E6%8A%80%E8%A1%93-CIA%E3%83%BBODNI%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99%E3%81%AB%E5%AD%A6%E3%81%B6%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC%E3%83%BB%E5%87%BA%E5%85%B8%E8%A9%95%E4%BE%A1%E3%83%BB%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%E3%81%AE%E6%8A%80%E6%B3%95-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80-%E5%9B%BD%E5%AE%B6%E6%83%85%E5%A0%B1%E9%95%B7%E5%AE%98%E5%AE%A4/dp/B0H6TP8KBH",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -2144,14 +2192,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.intelligence.gov/mission/our-values/objectivity",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
     "status": "http_403",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.intelligence.gov/mission/our-values/objectivity",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
@@ -2181,8 +2229,8 @@
    "results": [
     "https://note.com/everprogress/n/nde8351a93d60",
     "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/everprogress/n/ndfc934686a89",
+    "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/everprogress/n/ne12359f56406",
     "https://note.com/everprogress/n/n92645fb8d178",
     "https://note.com/everprogress/n/nf346913f2dde",
@@ -2217,7 +2265,7 @@
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
     "https://www.brainpad.co.jp/brandwatch/blog/5829/",
     "https://www.ninout.ai/blog/posts/%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95%EF%BD%9C%E5%AE%9A%E9%87%8F%E3%83%BB%E5%AE%9A%E6%80%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%88%86%E6%9E%90%E3%81%97/",
-    "https://www.macromill.com/service/column/researcher-071/",
+    "https://kmcinc.co.jp/service/expanding-overseas-support/market-research-and-analysis/",
     "https://note.com/everprogress/n/n28fc53b2c5cc"
    ]
   },
@@ -2240,15 +2288,14 @@
    "query": "ODNI analytic standards applied business research",
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
     "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
     "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1923&context=jss",
     "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
     "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
     "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
-    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
-    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf"
+    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0"
    ]
   },
   {
@@ -2263,19 +2310,19 @@
     "https://note.com/brainy_skink2870/n/nbbb59dbaf401",
     "https://note.com/masa1992/n/nf52dbcb4991b",
     "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
-    "https://note.com/_takumi_inoue_/n/n55a151a58d58"
+    "https://note.com/tatsuya_sabato/n/n50ba073d3af7"
    ]
   },
   {
    "query": "site:x.com 情報機関の分析基準（ODNIの分析基準）を市場調査に使う",
    "results": [
+    "https://x.com/qqOoUmYgbI80868/status/2035218895028855059",
     "https://x.com/RibbonChieko/status/2089975733729083399",
     "https://x.com/SON_SC/status/2059980313863024644",
     "https://x.com/seculligence/status/2062263299614376387",
     "https://x.com/i/trending/2034947663532056912",
-    "https://x.com/qqOoUmYgbI80868/status/2035218895028855059",
     "https://x.com/01ra66it/status/2046033752909021596",
-    "https://x.com/Dr_Extension/status/1981706967581335593"
+    "https://x.com/K_Ichida/status/2072276026097336767"
    ]
   },
   {
@@ -2283,11 +2330,11 @@
    "results": [
     "https://www.linkedin.com/posts/osint-foundation_osint-opensourceintelligence-intelligence-activity-7416462289769390080-zdSW",
     "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
+    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
     "https://www.linkedin.com/pulse/key-china-content-from-odnis-annual-threat-assessment-andrew-erickson",
     "https://jp.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford?tl=ja",
-    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
-    "https://www.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_odni-と-cia-が-2024-年から-2026-年に向けたインテリジェンス-activity-7172736893980278784-aE4_",
-    "https://jp.linkedin.com/pulse/strengthening-market-vigilance-crucial-role-industry-khavanov-phd-anqtf?tl=ja"
+    "https://jp.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_速報国家情報局国家情報会議新設など盛り込む法案が閣議決定インテリジェンス-activity-7438325508221751296-Ldua",
+    "https://www.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_odni-と-cia-が-2024-年から-2026-年に向けたインテリジェンス-activity-7172736893980278784-aE4_"
    ]
   },
   {
@@ -2298,8 +2345,8 @@
     "https://www.facebook.com/dni.gov/posts/the-office-of-the-director-of-national-intelligence-today-released-the-2026-annu/1416617887162345/",
     "https://www.facebook.com/masahide.tsukahara.9/posts/28583545414630628/",
     "https://www.facebook.com/100012434656292/posts/ギャバード-国家情報長官dniはなぜ辞任したのか-アメリカインテリジェンスコミュニティにおけるdni-ciadni-nsadni-fbi間の権限関係とdigの役/2428429477581517/",
-    "https://www.facebook.com/zentekkin/photos/工業建築工事の積算基準が市場単価方式から標準労務費に変わる-建設工業新聞公共建築工事の積算基準国交省が市場単価見直し歩掛かり設定し積み上げ式に国土交通省は公共建/1108214158072793/",
-    "https://www.facebook.com/kharagucih/videos/odni公式サイトで確認したギャバード文書の検証-httpsstreamyardcomk8tpy325j8cj/4539697196355341/"
+    "https://www.facebook.com/kharagucih/videos/odni公式サイトで確認したギャバード文書の検証-httpsstreamyardcomk8tpy325j8cj/4539697196355341/",
+    "https://www.facebook.com/epochtimes.jp/posts/米議会の要請を受け米情報機関を統括する国家情報長官室odniは6月25日未確認飛行物体ufoの目撃情報や分析に関する報告書を公開したこれらの物体の正体は依然とし/4299664850110427/"
    ]
   },
   {
@@ -2309,9 +2356,9 @@
     "https://note.com/shinu/n/n92a701e0f992",
     "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
     "https://note.com/everprogress/n/ne12359f56406",
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://manamina.valuesccg.com/articles/5262",
     "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
     "https://hon-dana.seesaa.net/article/521698239.html"
@@ -2340,16 +2387,69 @@
     "https://www.linkedin.com/company/iarpa-odni",
     "https://www.linkedin.com/company/odni",
     "https://www.linkedin.com/jobs/view/senior-target-intel-analyst-at-amentum-4485371649",
-    "https://www.linkedin.com/in/barryzulauf",
     "https://www.linkedin.com/in/docfstclair",
+    "https://www.linkedin.com/in/barryzulauf",
     "https://www.linkedin.com/in/brian-holmes-ph-d-287561155",
     "https://www.linkedin.com/in/william-hickman",
-    "https://www.linkedin.com/jobs/view/investigative-analyst-at-office-of-the-director-of-national-intelligence-4469142170"
+    "https://www.linkedin.com/posts/stephen-marrin-53b3b21_hi-all-quick-questionin-us-government-activity-7395915290028507137-yE-a"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 14,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "マルウェア解析と仮想環境とInetsimの活用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "INetSimの仕組みから実際の使い方を解説",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "INetSimの仕組みから実際の使い方まで、セキュリティの初心者でも理解できるように 丁寧に解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Magnet Forensics / FTKの使い方、応用方法",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実行中のプロセスにJavaScriptコードを注入し、関数の呼び出し・引数・戻り値を監視・改ざんできる動的計装フレームワークです",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 15,
  "first_researched_at": "2026-11-05T00:48:39.389212+00:00"
 }

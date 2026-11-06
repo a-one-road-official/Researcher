@@ -203,9 +203,9 @@
   - 「>手順⑩：ROA（総資産利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
   - 「株のファンダメンタル分析とは、企業の財務状況や業績状況のデータをもとに、分析を行う方法です」（https://note.com/billye/n/n1b91b3c986af）
   - 「Choose how to sign in」（https://guides.nyu.edu/finance/private-companies）
-  - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ | キャリアパーク就職エージェント」（https://careerpark-agent.jp/column/67587）
-  - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！」（https://careerpark-agent.jp/column/67587）
-  - 「企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう」（https://careerpark-agent.jp/column/67587）
+  - 「この記事では、企業研究ノートの作り方を5つのステップで解説します」（https://careerticket.jp/media/article/320/）
+  - 「ノートに記載すべき10個の基本項目や、効果的な活用方法も紹介するのでぜひ最後までご覧ください」（https://careerticket.jp/media/article/320/）
+  - 「企業研究ノートの作り方5ステップ」（https://careerticket.jp/media/article/320/）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -233,11 +233,11 @@
   - 「貸借対照表、損益計算書、キャッシュフロー計算書など、決算書の資料の種類や内容を理解しても、ただ数値を眺めているだけでは、「その企業が安全なのか」「割安の株なのか、割高の株なのか」ということは、判断ができません」（https://note.com/billye/n/n1b91b3c986af）
   - 「そこで、決算書に書かれている数字を使って、株式投資のポイントとなる指標を確認することで、企業の分析を行う必要があります」（https://note.com/billye/n/n1b91b3c986af）
   - 「そして、ファンダメンタル分析に慣れてくると、企業が公開している決算書や財務諸表を読み解くのが、より効率的にできるようになり、指標への理解も深まります」（https://note.com/billye/n/n1b91b3c986af）
-  - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
-  - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
-  - 「ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
-  - 「ホームページや採用ぺージでも企業研究ノートに必要な項目を調べることができます」（https://careerpark-agent.jp/column/67587）
-  - 「また企業によっては、社員インタビューや社員に対するアンケートなどをホームページや採用ページで掲載しているところもあります」（https://careerpark-agent.jp/column/67587）
+  - 「9.採用情報」（https://careerticket.jp/media/article/320/）
+  - 「採用HPのメッセージや、説明会で感じた社員の雰囲気をありのままに記録します」（https://careerticket.jp/media/article/320/）
+  - 「まずは、企業の公式サイトやIR情報、採用ページを隅々まで確認し、数字や理念などを書き出すことから始めましょう」（https://careerticket.jp/media/article/320/）
+  - 「公式サイトは最も信頼できる一次情報であり、企業の「公式な意思」が反映されています」（https://careerticket.jp/media/article/320/）
+  - 「紹介する企業はすべて事前に直接取材を行っているため、求人票だけでは見えない職場の雰囲気をお伝えでき、あなたの企業研究ノートをより深みのある内容へとアップデートできるでしょう」（https://careerticket.jp/media/article/320/）
 - 失敗・落とし穴：
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
   - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
@@ -261,15 +261,15 @@
   - 「course, and there’s a more detailed “small business valuation” example in the」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「Complete 9 case studies」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「These are true “small businesses” that are dependent on the owner, who tends to be highly involved in day-to-day operations. Examples include a barber shop, a doctor’s office, M&I and BIWS, and any company with “Wall Street” in its title.」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「企業分析の結果と自分の思考との共通点を探してみてください」（https://careerticket.jp/media/article/320/）
+  - 「手書きのノートではなく、パソコンやスマホを活用して企業研究の結果を管理するのもおすすめです」（https://careerticket.jp/media/article/320/）
+  - 「近年では、履歴書をスマホやパソコンで作成するケースも増えています」（https://careerticket.jp/media/article/320/）
+  - 「具体的な数字や事業事例を引用することで、ほかの学生と差別化された、中身の濃い志望動機になるでしょう」（https://careerticket.jp/media/article/320/）
+  - 「就活中は企業研究だけでなく、スケジュールや自己分析の結果など、あらゆる情報を整理しなければなりません」（https://careerticket.jp/media/article/320/）
+  - 「準備不足からくる不安は表情や声に現れやすく、面接官に「自社への関心が薄い」という印象を与えてしまい、結果として合格率を下げてしまう可能性があります」（https://careerticket.jp/media/article/320/）
+  - 「多くの社数をこなすよりも、「なぜこの会社なのか？」という問いに自信をもって答えられる企業を増やすほうが、結果として合格率は高まるでしょう」（https://careerticket.jp/media/article/320/）
   - 「たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね」（https://careerpark-agent.jp/column/67587）
   - 「複数の分野に事業を展開している場合があり、それが一般的に知られていないケースもあります」（https://www.theport.jp/portcareer/article/27262/）
-  - 「同業他社でも事業内容が微妙に異なるケースがあるので、ノートにまとめ、自分が携わる可能性のある仕事を把握しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
-  - 「という結果が出ているので、これを目安にしてみると良いでしょう」（https://www.theport.jp/portcareer/article/27262/）
-  - 「また、休暇日数が多くとも有給取得率は低いというケースもあるので、」（https://www.theport.jp/portcareer/article/27262/）
-  - 「その結果に対して企業はどう説明しているのかよく確認しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
-  - 「志望動機【例文17選】ES・履歴書での書き方と職種・業界別の実例」（https://www.onecareer.jp/articles/3345）
-  - 「大事なことは、調べたことと自己分析の結果をつなげることです」（https://www.onecareer.jp/articles/3345）
-  - 「企業によっては複数の事業を展開しているケースもあるため、抜け漏れのないリサーチが求められます」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
 - 検索結果の抜粋：
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
@@ -1586,10 +1586,10 @@
   - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「仕組みと具体的な使い方、セキュリティ診断・情報漏えい調査への活用例から、悪用時の法的リスクまで解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「エージェント・サーバー・インデクサー・ダッシュボードの4つの部品を「防犯カメラ・警備室・録画保管庫・監視モニター」にたとえて1枚の図で整理し、できること8つ、SSH総当たり攻撃を見つける流れ、必要なスペックと導入手順、向いている人の診断、よくある勘違い、Wazuh自身の脆弱性CVE-2025-24016の教訓までまとめました」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界｜Makoto Suhara（須原誠）」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「本報告書は、世界の主要な情報機関であるCIA、モサド、MI6、KGBがどのように情報を集め、分析しているのかを整理し、その方法論を企業の市場調査にどう活かせるかを検討するものである」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「マルウェア解析と仮想環境とInetsimの活用方法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「INetSimの仕組みから実際の使い方を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「INetSimの仕組みから実際の使い方まで、セキュリティの初心者でも理解できるように 丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1639,6 +1639,7 @@
   - 「CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う」（https://note.com/everprogress/n/nde8351a93d60）
 - 実例：
+  - 「本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る」（https://note.com/everprogress/n/nde8351a93d60）
   - 「事例研究は、インテリジェンスの考え方を取り入れることが戦略上の優位につながることを示している」（https://note.com/everprogress/n/nde8351a93d60）
   - 「画像データや取引データなどの代替データを投資判断に使うヘッジファンドや、デューデリジェンスと競合分析のために民間の調査会社を使う事例がその例である(Black Cube, n.d.)」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1653,7 +1654,6 @@
   - 「衛星画像で小売の業績を予測した事例研究は、型破りなデータでも、適切に計測して分析すれば収益につながる知見に変わることを示している」（https://note.com/everprogress/n/nde8351a93d60）
   - 「実例として、戦略のために金融情報を活用する代表的な例は、自社の業界における投資の流れとベンチャー資金を追跡することである」（https://note.com/everprogress/n/nde8351a93d60）
   - 「従業員が競合から勧誘される事例の急増など、自社の専有情報に対する異常な関心を監視する」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「United Press International. (2001, September 7). P&G, Unilever settle corporate spying case. UPI Archives.」（https://note.com/everprogress/n/nde8351a93d60）
 - 検索結果の抜粋：
   - 「Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203」（https://archive.dni.gov/files/documents/ICD/ICD-203.pdf）
   - 「5つの「Analytic Standards」｜データ分析とインテリジェンス — Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。」（https://note.com/shinu/n/n92a701e0f992）
@@ -3745,11 +3745,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4054,8 +4054,8 @@
   - 「ただし判定根拠が分からないため、なぜ統合されたのかを後から検証できません」（https://sharebook.mybridge.com/blog/article13）
   - 「あわせて、誤統合が発生した場合の修正対応と成果物の検証方法を契約前に明確にしておくことが重要です」（https://sharebook.mybridge.com/blog/article13）
   - 「名寄せとは、氏名・住所・電話番号・法人番号など複数の項目を照合し、同一人物や同一企業を識別して顧客データを統合する作業です」（https://sharebook.mybridge.com/blog/article13）
-  - 「また、このv1では全入力の生成元が検証用DBに存在するため、unmatched率と偽陰性率が一致します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「「どれだけ客観的に検証できるか」、つまりオラクルの有無で並べる」（https://note.com/zephel01/n/n42f04bb3e886）
+  - 「指示追従は、文字数・JSON妥当性・正規表現みたいにプログラムで検証できる制約なら、judge なしで完全に客観判定できる」（https://note.com/zephel01/n/n42f04bb3e886）
 - 一次情報の探し方：
   - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -4081,13 +4081,13 @@
   - 「9. 名寄せでよくある失敗例」（https://sharebook.mybridge.com/blog/article13）
   - 「大量の名刺を一括処理するコツと注意点も紹介」（https://sharebook.mybridge.com/blog/article13）
   - 「エクセルでの名刺管理の手順や必要な項目、名刺画像の取込方、楽な入力法といった具体的な方法から、注意すべきポイントなどを解説しています」（https://sharebook.mybridge.com/blog/article13）
+  - 「しかもジャッジを候補モデル自身にすると、自分の出力を高く付ける self-enhancement bias（MT-Bench で報告された傾向）が入る」（https://note.com/zephel01/n/n42f04bb3e886）
+  - 「どの採点器も最後は「成功か失敗か、品質0〜100」という同じ形に正規化して返す」（https://note.com/zephel01/n/n42f04bb3e886）
   - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「人手に戻る件数と、自動処理に混ざる誤りを、一つの数字で表そうとしないための2軸です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「この条件で自動確定した1,363件では、誤りが観測されませんでした」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「DBに存在しない企業を混ぜる評価では、同じ集計式をそのまま使えない点にも注意が必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「この合成セットでのconfident判定の誤り」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「このセットでは、0.70の点でも誤りが観測されていないからです」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 実例：
   - 「5.6 マッチング結果を確認してデータを統合する」（https://sharebook.mybridge.com/blog/article13）
   - 「統合結果を関係部門に共有し、実際の運用で不整合が生じていないかを確認することで、判定ルールが妥当だったかを最終的に見極められます」（https://sharebook.mybridge.com/blog/article13）

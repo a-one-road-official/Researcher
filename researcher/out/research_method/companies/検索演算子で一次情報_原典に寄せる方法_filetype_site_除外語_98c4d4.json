@@ -8,256 +8,8 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-06T15:19:21.928142+00:00",
+ "researched_at": "2026-11-06T19:23:46.560513+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "検索ボックスに特定の記号や英単語を組み合わせるだけで、検索結果を劇的に絞り込めます",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば「site:」の場合、「site: example.com」（スペースあり）では機能しません",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「site:example.com」（スペースなし）と入力します",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と、そのキーワードを含むページを検索結果から除外できます",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ため、スペース区切りと結果は変わりません",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本語は単語間にスペースがないため、英語ほど正確に機能しないケースがあります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし現在のGoogleでは、範囲指定よりも検索意図が優先されるため、必ずしも結果が厳密に絞り込まれるわけではありません",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「円」「$」などの通貨単位を付けると正しく機能しないケースが増えています",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "data.go.jpはCSVがインデックスされていないケースが多いため、統計データ探しはe-stat.go.jpを指定するのが確実です",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、コマンドを増やしすぎると検索結果が極端に少なくなったり、0件になったりすることがあるため、必要最小限の組み合わせから試すことをおすすめします",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索コマンドを使っても結果が0件になります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コマンドの組み合わせや条件が厳しすぎると結果が0件になります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずコマンドを1つに減らして試し、結果が出るか確認してください",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、after:/before:の日付が間違っていると意図した期間と異なる結果が出ることもあります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果ページ右上のメニューや「ツール」ボタンから開けます",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This guide covers the operators that work in 2026, with examples you can copy. No deprecated commands that old SEO articles still recommend. Just the queries that actually filter results.",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Searches for results matching one term or the other. Must be uppercase",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Search Operators: Complete Guide + 50 Examples (2026) | Cited",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Real use case: Finding competitor backlinks. Instead of manually browsing a competitor's site, use:",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com keyword",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:competitor.com filetype:pdf case study",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "surfaces downloadable case studies competitors use for sales. This reveals their positioning, customer types, and results metrics.",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:example.com inurl:blog",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that \"keywords can be entered as upper- or lowercase and are not case-sensitive,\" but quotation marks enforce exact matching regardless of Google's synonym expansion.",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "cache:example.com/page-url",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Returns results containing either term (must be uppercase).",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that \"Google automatically puts an AND in between your search terms,\" so OR must be explicit and uppercase to function.",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "intext:\"case study\" site:competitor.com",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— Case study mentions in content",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 1: Competitor content gap analysis",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: Guest post prospecting",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 3: Press mention monitoring",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Google Search Operators: Full List & Examples | GreenGeeks",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Google Search Operators: Full List & Examples",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Google search operators are short commands you add to a query to filter results by site, file type, title text, date, or other attributes. The three most useful for everyday work are site:, filetype:, and quoted exact-match phrases like “annual report 2024”. Together they cover most of the cases where a regular keyword search returns too much extraneous material.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most operator names are case-insensitive. SITE: and site: behave identically. Two exceptions matter. OR and AROUND(N) only work in capital letters; lowercase versions are ignored. The parenthetical number in AROUND(N) must be a positive integer with no spaces inside the parentheses.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Working. OR must be uppercase.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Working. Strict on punctuation in some cases.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Working. AROUND must be uppercase.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OR (capitalised) or the pipe | returns results matching either term. Wrap alternatives in parentheses for clarity: site:example.com (intitle:guide OR intitle:tutorial). The parentheses are not strictly required but they make the query readable when you stack three or more operators.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case sensitivity for OR and AROUND. Lowercase or is treated as a normal word, so cats or dogs matches pages containing the word “or”. Lowercase around(5) is ignored. Both must be uppercase.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "これを使うことで「特定のサイト内だけ検索」「PDFファイルだけ表示」「キーワードを完全一致で探す」など、通常の検索では難しい絞り込みが簡単にできます",
@@ -769,6 +521,254 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "検索ボックスに特定の記号や英単語を組み合わせるだけで、検索結果を劇的に絞り込めます",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば「site:」の場合、「site: example.com」（スペースあり）では機能しません",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「site:example.com」（スペースなし）と入力します",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と、そのキーワードを含むページを検索結果から除外できます",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ため、スペース区切りと結果は変わりません",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本語は単語間にスペースがないため、英語ほど正確に機能しないケースがあります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし現在のGoogleでは、範囲指定よりも検索意図が優先されるため、必ずしも結果が厳密に絞り込まれるわけではありません",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「円」「$」などの通貨単位を付けると正しく機能しないケースが増えています",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "data.go.jpはCSVがインデックスされていないケースが多いため、統計データ探しはe-stat.go.jpを指定するのが確実です",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、コマンドを増やしすぎると検索結果が極端に少なくなったり、0件になったりすることがあるため、必要最小限の組み合わせから試すことをおすすめします",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索コマンドを使っても結果が0件になります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コマンドの組み合わせや条件が厳しすぎると結果が0件になります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずコマンドを1つに減らして試し、結果が出るか確認してください",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、after:/before:の日付が間違っていると意図した期間と異なる結果が出ることもあります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果ページ右上のメニューや「ツール」ボタンから開けます",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This guide covers the operators that work in 2026, with examples you can copy. No deprecated commands that old SEO articles still recommend. Just the queries that actually filter results.",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Searches for results matching one term or the other. Must be uppercase",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Search Operators: Complete Guide + 50 Examples (2026) | Cited",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Real use case: Finding competitor backlinks. Instead of manually browsing a competitor's site, use:",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com keyword",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:competitor.com filetype:pdf case study",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "surfaces downloadable case studies competitors use for sales. This reveals their positioning, customer types, and results metrics.",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:example.com inurl:blog",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that \"keywords can be entered as upper- or lowercase and are not case-sensitive,\" but quotation marks enforce exact matching regardless of Google's synonym expansion.",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "cache:example.com/page-url",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Returns results containing either term (must be uppercase).",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that \"Google automatically puts an AND in between your search terms,\" so OR must be explicit and uppercase to function.",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "intext:\"case study\" site:competitor.com",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— Case study mentions in content",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: Competitor content gap analysis",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: Guest post prospecting",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: Press mention monitoring",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google Search Operators: Full List & Examples | GreenGeeks",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google Search Operators: Full List & Examples",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google search operators are short commands you add to a query to filter results by site, file type, title text, date, or other attributes. The three most useful for everyday work are site:, filetype:, and quoted exact-match phrases like “annual report 2024”. Together they cover most of the cases where a regular keyword search returns too much extraneous material.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most operator names are case-insensitive. SITE: and site: behave identically. Two exceptions matter. OR and AROUND(N) only work in capital letters; lowercase versions are ignored. The parenthetical number in AROUND(N) must be a positive integer with no spaces inside the parentheses.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Working. OR must be uppercase.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Working. Strict on punctuation in some cases.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Working. AROUND must be uppercase.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OR (capitalised) or the pipe | returns results matching either term. Wrap alternatives in parentheses for clarity: site:example.com (intitle:guide OR intitle:tutorial). The parentheses are not strictly required but they make the query readable when you stack three or more operators.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case sensitivity for OR and AROUND. Lowercase or is treated as a normal word, so cats or dogs matches pages containing the word “or”. Lowercase around(5) is ignored. Both must be uppercase.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -785,22 +785,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/super_phlox114/n/na80f971322ef",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/kyotomori/n/nd498747a7c3e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
+    "url": "https://note.com/science_summary/n/n223612b7a530",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://note.com/science_summary/n/n223612b7a530",
+    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/super_phlox114/n/na80f971322ef",
     "status": "ok",
     "method": "http"
    },
@@ -830,12 +830,17 @@
     "method": "http"
    },
    {
-    "url": "https://help.hcl-software.com/notes/11.0.1/ja/client/sch_refine_query_r.html",
+    "url": "https://help.hcl-software.com/notes/11.0.0/nl/ja/sch_refine_query_r.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altenas.jp/blog/search-command",
     "status": "ok",
     "method": "http"
    },
@@ -855,12 +860,7 @@
     "method": "http"
    },
    {
-    "url": "https://altenas.jp/blog/search-command",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://seoagent.jp/blog/search-operators/",
+    "url": "https://wepress.web-magazine.jp/2024/02/05/20240205/",
     "status": "ok",
     "method": "http"
    },
@@ -900,19 +900,19 @@
     "method": "http"
    },
    {
-    "url": "https://libguides.tulane.edu/la_info/search_strategies",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5037943/",
+    "url": "https://libguides.tulane.edu/la_info/search_strategies",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://libguides.uccs.edu/history/creating-searches",
@@ -932,14 +932,11 @@
    "results": [
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
-    "https://note.com/super_phlox114/n/na80f971322ef",
     "https://note.com/kyotomori/n/nd498747a7c3e",
-    "https://note.com/fresh_impala9007/n/n62355267896c",
     "https://note.com/science_summary/n/n223612b7a530",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/nana_882391/n/nfc50f20bd0b3",
-    "https://note.com/mdp/n/nc204d39d34bc",
-    "https://note.com/harenohi_design/n/n976ff51ae1a1"
+    "https://note.com/super_phlox114/n/na80f971322ef",
+    "https://note.com/mdp/n/nc204d39d34bc"
    ]
   },
   {
@@ -950,25 +947,24 @@
     "https://note.com/mdp/n/nc204d39d34bc",
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
-    "https://help.hcl-software.com/notes/11.0.1/ja/client/sch_refine_query_r.html",
+    "https://help.hcl-software.com/notes/11.0.0/nl/ja/sch_refine_query_r.html",
     "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
-    "https://note.com/hikaru_thinks/n/nebc54c341963"
+    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators"
    ]
   },
   {
    "query": "検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語） やり方",
    "results": [
-    "https://www.rhcnet.com/article/google_operator_.html",
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
+    "https://www.rhcnet.com/article/google_operator_.html",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
+    "https://altenas.jp/blog/search-command",
     "https://hack.nikkei.com/blog/search_operator/",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://ischool.co.jp/2018-11-09/",
-    "https://altenas.jp/blog/search-command",
-    "https://seoagent.jp/blog/search-operators/",
+    "https://wepress.web-magazine.jp/2024/02/05/20240205/",
     "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
@@ -978,12 +974,12 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://www.rhcnet.com/article/google_operator_.html",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://altenas.jp/blog/search-command",
-    "https://seojapan.com/column/search-modifiers-best-10/",
+    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
-    "https://jp.strikingly.com/content/blog/google-search/",
+    "https://seojapan.com/column/search-modifiers-best-10/",
     "https://ischool.co.jp/2018-11-09/",
+    "https://jp.strikingly.com/content/blog/google-search/",
     "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
    ]
   },
@@ -991,13 +987,13 @@
    "query": "search operators primary sources filetype site research",
    "results": [
     "https://libguides.ecu.edu/Gale/teaching",
-    "https://libguides.tulane.edu/la_info/search_strategies",
     "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
     "https://www.youtube.com/watch?v=25SBiqo-vPM",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5037943/",
+    "https://libguides.tulane.edu/la_info/search_strategies",
+    "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
     "https://libguides.uccs.edu/history/creating-searches",
     "https://primarysources.yale.edu/search-strategies",
-    "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
+    "https://libguides.libraries.claremont.edu/c.php?g=705432&p=5009627",
     "https://academia.stackexchange.com/questions/160410/is-there-a-search-tool-for-finding-primary-sources-in-us-history",
     "https://www.denis-iakimenko.com/blog/google-search-operators"
    ]
@@ -1009,9 +1005,9 @@
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/kyotomori/n/nd498747a7c3e",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/nana_882391/n/nfc50f20bd0b3",
-    "https://note.com/mdp/n/nc204d39d34bc",
-    "https://note.com/fresh_impala9007/n/n62355267896c"
+    "https://note.com/fresh_impala9007/n/n62355267896c",
+    "https://note.com/harenohi_design/n/n976ff51ae1a1",
+    "https://note.com/nana_882391/n/nfc50f20bd0b3"
    ]
   },
   {
@@ -1028,7 +1024,15 @@
   },
   {
    "query": "site:linkedin.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
-   "results": []
+   "results": [
+    "https://www.linkedin.com/posts/cyberedition_google-dorking-commands-part-2-taking-activity-7368832616797532162-IMq_",
+    "https://www.linkedin.com/pulse/understanding-googles-indexable-file-types-guide-avilash-chakraborty-ci4ac",
+    "https://training.talent.linkedin.com/use-boolean-logic-ja",
+    "https://jp.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f?tl=ja",
+    "https://jp.linkedin.com/pulse/seoの本質は一次情報にあり記事の信頼性と順位を爆上げする方法-剛-柏崎-hwatc",
+    "https://jp.linkedin.com/pulse/seoで一次情報が重要な理由とは二次情報との違いと活用方法-剛-柏崎-p6mxc",
+    "https://jp.linkedin.com/pulse/google-x-ray-search-advanced-tool-sourcing-top-talent-amant-gupta?tl=ja"
+   ]
   },
   {
    "query": "site:facebook.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
@@ -1045,14 +1049,14 @@
   {
    "query": "検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語） note 社長",
    "results": [
-    "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://kinsta.com/jp/blog/google-search-operators/",
-    "https://www.rhcnet.com/article/google_operator_.html",
-    "https://note.com/mdp/n/nc204d39d34bc",
+    "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
-    "https://help.hcl-software.com/notes/11.0.0/nl/ja/sch_refine_query_r.html",
-    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
+    "https://note.com/mdp/n/nc204d39d34bc",
+    "https://www.rhcnet.com/article/google_operator_.html",
+    "https://note.com/buuchan2/n/n95bfba9e6369",
     "https://hack.nikkei.com/blog/search_operator/",
+    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
@@ -1090,6 +1094,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }
