@@ -212,14 +212,31 @@ def rows_for(topic):
 
 DIPOINT = re.compile(r"\s*(%|％)?\s*(ポイント|pt\b|ﾎﾟｲﾝﾄ)")
 DIWORD = re.compile(r"(DI|判断指数|ディフュージョン|不足超|過剰超)")
+# 2026-11-07 4-60（Thunderbit「trafilatura レビュー」：本文と定型文は手書きのセレクタでなく中身の手がかりで分ける。
+# 走査の失敗から：research_method の 64p.org の記事の引用8件が全部サイドバーの記事一覧の題名（句読点も数字も無い短い行）だった）。
+# 1つのURLの引用が5件以上あり、その6割以上が「40字以下・句読点なし・数字なし」の題名の型なら、そのURLは一覧・目次のページとみなし、
+# 同じURLの句読点の無い短い数字入りの行も事実にしない
+LISTLINE = re.compile(r"^[^。、,.，．]{1,40}$")
+def listpage_urls(d):
+    per = {}
+    for items in (d.get("evidence") or {}).values():
+        for it in items or []:
+            q = unicodedata.normalize("NFKC", it.get("quote", "") or "").strip()
+            per.setdefault(it.get("url", ""), []).append(bool(LISTLINE.match(q)) and not NUM.search(q))
+    return {u for u, f in per.items() if u and len(f) >= 5 and sum(f) / len(f) >= 0.6}
+
 def rows_from_doc(topic, d):
     if True:
         name = d.get("name", "")
+        lpu = listpage_urls(d)
         for cat, items in (d.get("evidence") or {}).items():
             for it in items or []:
                 q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 q = join_okuman(q)
-                if is_job_search(url): drop(topic, "求人サイトの検索結果ページ（4-31）"); continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
+                if is_job_search(url): drop(topic, "求人サイトの検索結果ページ（4-31）"); continue
+                if url in lpu and LISTLINE.match(q.strip()):
+                    if NUM.search(q): drop(topic, "一覧・目次のページの題名の行（4-60）")
+                    continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
                 if HEADLINE.search(q) or "抜粋" in cat:
                     if NUM.search(q): drop(topic, "見出し・題名・検索結果の抜粋（4-5）")
                     continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
@@ -308,6 +325,10 @@ GOLD = [
     ("階級でない金額は残す（4-40）", "売上高は5,000万円だった", "https://example.go.jp/a", [(5000, "万円")]),
     ("DIの%ポイントは割合にしない（4-48）", "雇用人員判断DIはマイナス35%ポイントと不足超", "https://www5.cao.go.jp/a", []),
 ]
+GOLD_DOCS = [  # 2026-11-07 4-60：1つの文書の中で決まる判定（一覧・目次のページ）
+    ("一覧ページの題名の数字（4-60）", ["記事A 正規表現の実装", "記事B LSM フレームワーク", "記事C 仮想化の手引き", "記事D 3つの設定方法", "記事E 入力メソッド"], "https://example.org/notes/x", []),
+    ("本文の数字は残す（4-60）", ["加工賃収入は3,000万円だった。", "従業者は12人である。", "設備は2台で、稼働は昼だけ。", "取引先は5社に増えた。", "受注の半分は県外から。"], "https://example.go.jp/a", [(3000, "万円"), (12, "人")]),
+]
 # 2026-11-06 4-47：正解例との照合を「通った件数」だけでなく、拾った値ごとに TP（拾うべきを拾った）・FP（拾ってはいけない混入）・
 # FN（拾うべきを落とした）に分け、精度＝TP/(TP+FP)・再現率＝TP/(TP+FN)・F1 を出す（AWS Entity Resolution の精度の測り方）。
 # A1 では混入（FP）のほうが落とし（FN）より害が大きい（4-8）ので、精度が1を割ったら先に直す
@@ -324,6 +345,16 @@ def gold_check():
             else: fp += 1
         fn += len(rest)
         if got != exp: bad.append(f"- ✗ {label}：「{q}」→ 期待 {want}／実際 {got}")
+    for label, qs, url, want in GOLD_DOCS:
+        d = {"name": "__gold__", "evidence": {"テスト": [{"quote": q, "url": url} for q in qs]}}
+        got = sorted((round(r["値"], 4), r["単位"]) for r in rows_from_doc("__gold__", d) if r["単位"] in ("万円", "人"))
+        exp = sorted((round(v, 4), u) for v, u in want)
+        rest = list(exp)
+        for g0 in got:
+            if g0 in rest: tp += 1; rest.remove(g0)
+            else: fp += 1
+        fn += len(rest)
+        if got != exp: bad.append(f"- ✗ {label}：{qs[0]} ほか → 期待 {want}／実際 {got}")
     OUTLIERS.pop("__gold__", None); DROPS.pop("__gold__", None)
     pr = tp / (tp + fp) if tp + fp else 1.0; rc = tp / (tp + fn) if tp + fn else 1.0
     f1 = 2 * pr * rc / (pr + rc) if pr + rc else 0.0
@@ -1073,6 +1104,19 @@ def scan(topic):
             if mix: md.append(f"  - ⚠ 範囲が違う数字の疑い {len(mix)}件（合算・〜を含む・範囲の語）：何を含む数字かをそろえてから突き合わせる。合算の決算は対象の事業を切り分ける（4-49）")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
                 md.append(f"  - 【推定】保守側の値（低い側に寄せる・低確度）：{conservative(vals):g}{u}")
+            # 2026-11-07 4-60（SellersGPT「食い違う市場データを確かさを作らずに突き合わせる」：食い違いは誤りの印でなく診断の手がかり。
+            # 元の値を残したまま、どの次元（期間・定義・範囲・版・方法）で食い違うかを先に名指しする）。
+            # 中央値より下の値の組と上の値の組で、年・定義・版・規模・出どころの種類・予測の印の集合が重ならない次元を出す
+            if gr == "【食い違い】" and len(g) >= 2:
+                pv = sorted(r["値"] for r in g if r["値"] > 0)
+                if pv:
+                    md0 = statistics.median(pv)
+                    lo_g = [r for r in g if 0 < r["値"] <= md0]; hi_g = [r for r in g if r["値"] > md0]
+                    dims = []
+                    for fld, lab in (("年", "期間"), ("定義", "定義"), ("版", "版"), ("規模", "規模の範囲"), ("一次", "出どころの種類"), ("予測", "実績か見通しか")):
+                        a0 = {r.get(fld) or "（無印）" for r in lo_g}; b0 = {r.get(fld) or "（無印）" for r in hi_g}
+                        if lo_g and hi_g and not (a0 & b0): dims.append(f"{lab}（低い側 {'/'.join(sorted(a0))[:40]}｜高い側 {'/'.join(sorted(b0))[:40]}）")
+                    md.append("  - 食い違いの次元（4-60）：" + ("、".join(dims) + "で分かれる。そろう組どうしでだけ比べる" if dims else "期間・定義・版・規模・種類では分かれない。同じ対象かと単位を本文で確かめ、解けるまで両端を残す"))
             # 2026-11-05 4-15：外れ値に引っ張られた幅か、全体が散っているかを見るため四分位も出す（感度の確認）
             if len(vals) >= 4:
                 qs = statistics.quantiles(vals, n=4)
