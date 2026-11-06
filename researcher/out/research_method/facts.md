@@ -1122,6 +1122,7 @@
   - 「One of the greatest takeaways from learning about equity research will be understanding how to view a business or company as if you personally own it. That is, equity analysts value businesses based on what they think those businesses would be worth if they bought the entire business, not based on what the stock price is today.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Equity Research teaches people not only what to think but also how to think about companies. The Equity Research process teaches an individual to think within a structure, build a structured approach to analytical thinking, and develop the strategic mindset needed for virtually any decision-making role.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Conducting equity research provides much more than just insight into finance; it provides insights into how to think about running and managing a business. Analyzing the structure, industry, management, and financial statements of companies helps the researcher learn how to evaluate each company's business operation.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「Move from triage to model to write-up in order; skipping steps creates gaps that show up in the final recommendation.」（https://blog.tickerplace.com/blog/step-by-step-equity-research）
   - 「前提として、なかのアセットマネジメントでは、企業取材の決まった「型」はありません」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「ミダスキャピタルは「世界に冠たる企業群を創る」ために上場企業の経営経験者らによって設立された、ビジョン共感型のプライベートエクイティファンドです」（https://note.com/shusuketerada/n/n348a235c7530）
   - 「そのような中で、株式投資の世界で戦う一人の投資家として、「どうすれば長期的に市場を上回る成果を出せるのか」を日々模索し、悩み、そして現時点でたどり着いた一つの「型」があります」（https://note.com/nakanoam/n/nafb26eef1ed8）
@@ -1130,7 +1131,6 @@
   - 「しかし、決算短信や説明会資料といった「定型的な開示資料」には載っていない、」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「企業向けには情報発信SaaS「note pro」と、協賛型の投稿コンテスト「noteコンテスト」などの法人向けサービスを提供」（https://note.com/persistence_100/n/nfb79a8def8c6）
   - 「理由：売上は毎四半期増加し、有料購読や法人契約といったストック型の収益が下支えします」（https://note.com/persistence_100/n/nfb79a8def8c6）
-  - 「主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆」（https://note.com/investers_notes/all）
 - 突き合わせ・推定：
   - 「① 「自分なりの仮説」を持って情報に接する」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「このことわざは、企業の「本質的価値」の推計に重要な教訓を与えてくれると思います」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1196,6 +1196,7 @@
   - 「その思考プロセスと、企業取材の実際について、事例を交えながらお話させていただきたいと思います」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「それは、開示されている一つのセグメントの中に、性質の異なるビジネスが混ざってしまっているケースです」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 検索結果の抜粋：
+  - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノート） — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -3211,7 +3212,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -5597,6 +5598,9 @@
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5606,6 +5610,7 @@
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -6767,11 +6772,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -7253,11 +7258,11 @@
 
 ## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
