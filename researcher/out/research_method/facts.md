@@ -202,10 +202,10 @@
   - 「>手順⑨：ROE（自己資本利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
   - 「>手順⑩：ROA（総資産利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
   - 「株のファンダメンタル分析とは、企業の財務状況や業績状況のデータをもとに、分析を行う方法です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「Choose how to sign in」（https://guides.nyu.edu/finance/private-companies）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ | キャリアパーク就職エージェント」（https://careerpark-agent.jp/column/67587）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！」（https://careerpark-agent.jp/column/67587）
   - 「企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう」（https://careerpark-agent.jp/column/67587）
-  - 「3ステップで完成！ 企業研究ノートの作り方」（https://careerpark-agent.jp/column/67587）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -2138,6 +2138,7 @@
   - 「Claudeのコメント: 2025年のレアアース輸出規制が残した報復への恐れが、EUの関税判断と加盟国の足並みを先回りで縛っており、経済的威圧は発動しなくても抑止として働き続けることを示す事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「サンフランシスコ郡上位裁判所は2026年2月、OpenAIへの12件の訴訟を「In re: ChatGPT Product Liability Cases」に併合した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 検索結果の抜粋：
+  - 「Top 15 Free OSINT Tools To Collect Data From Open Sources — Top 15 Free OSINT Tools To Collect Data From Open Sources Recorded Future https://www.recordedfuture.com > osi...」（https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools）
   - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
   - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...」（https://note.com/itta_usa/n/nd300923856e1）
   - 「オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。」（https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス）
@@ -2152,7 +2153,6 @@
   - 「OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.」（https://www.neotas.com/osint-tools-and-techniques/）
   - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
   - 「Complete Osint Guide. In cybersecurity, some of the most ... — Aug 13, 2025 · In this guide, we’ll cover key OSINT techniques, tools, and workflows for gathering actionable intelligence. What is OSINT and Why It Matters. OSINT involves collecting data from public...」（https://medium.com/@lakeshriyasha/complete-osint-guide-2496e118c813）
-  - 「【第14章】OSINT実践編：公開情報からここまでわかるなんて…！ #初心... — Aug 11, 2025 · 🔎 第14章：OSINT実践編 こんにちは、守山しずくです🌸 今回は、誰でもアクセスできる“公開情報”を活用して、情報を収集・分析する技術「OSINT（Open Source Intelligence）」を実際に体験してみましょう！」（https://qiita.com/securitytimes/items/5c380709711cfedae0bc）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -3741,11 +3741,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3781,7 +3781,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -4198,8 +4198,8 @@
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
   - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -4730,38 +4730,40 @@
 ## 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）（revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/paper/report0810.pdf）
-  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/paper/report0810.pdf）
-  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/paper/report0810.pdf）
-  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/paper/report0810.pdf）
-  - 「集中型機構ともいえる＊2」（https://nira.or.jp/paper/report0810.pdf）
-  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/paper/report0810.pdf）
-  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/paper/report0810.pdf）
-  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/paper/report0810.pdf）
-  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
-  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/paper/report0810.pdf）
-  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/paper/report0810.pdf）
-  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/paper/report0810.pdf）
-  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/paper/report0810.pdf）
+  - 「deliveries or a redefinition of methodological principles. If first estimates of macroeconomic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「5A more detailed methodological description of the working group can be found here: https://www.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「statistikportal.de/de/vgrdl/methoden-und-informationen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「accounting system such as revised methods, definitions, or classifications. Ongoing revisions」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「de/vgrdl/methoden-und-informationen#revisionen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「in German GDP growth estimates, for an improvement of calculation methods for the first」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「on the methodological guide of the working group, I suggest that mainly three reasons are」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「9The detailed methodological guide can be found here: https://www.statistikportal.de/de/vgrdl/」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「methoden-und-informationen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「Additional explanations for the previous results might be found in the methodological」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「10The methodological guide of the Working Group Employment Accounts can be found here:https://www.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「statistikportal.de/de/etr/definitionen-und-methoden#methoden.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「in real-time. More precisely, I apply the methodology by Lehmann and Wikman (2023) and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「model. Second, I introduce the main steps undertaken in the real-time setup. Finally, I」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「(VB) methods as introduced by Gefanget al.(2020). For the German case, Lehmann and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 - 突き合わせ・推定：
-  - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
-  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/paper/report0810.pdf）
-  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/paper/report0810.pdf）
-  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/paper/report0810.pdf）
-  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/paper/report0810.pdf）
-  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/paper/report0810.pdf）
-  - 「現行推計では、供給」（https://nira.or.jp/paper/report0810.pdf）
-  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/paper/report0810.pdf）
+  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「We further argue that first-available official estimates should be used for the left-hand-side variable」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「when estimating the forecasting equation. First-available estimates ought to be used on the」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「growth and early estimates of (say) employment growth will typically be different from that」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「between GDP growth and estimates of employment growth available several years after the fact. It」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「release is an efficient estimate of subsequent releases, meaning that revisions to the initial release」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「this additional information is extraneous noise. Even if the government’s initial estimates are not」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
 - 一次情報の探し方：
+  - 「The vintages are organized in sheets representing single aggregate-state-combinations that」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「statistikportal.de/sites/default/files/2022-09/vgrdl_Qualitaetsbericht_2022.pdf.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/paper/report0810.pdf）
   - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/paper/report0810.pdf）
   - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/paper/report0810.pdf）
@@ -4775,40 +4777,38 @@
   - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/paper/report0810.pdf）
   - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
   - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
-  - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/paper/report0810.pdf）
-  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/paper/report0810.pdf）
 - 失敗・落とし穴：
+  - 「data. The study of Aruoba (2008) diagnoses revisions to US national accounts to be biased」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「unbiased, efficientandunpredictable. Itturnsoutthatthefirstestimatesinregionalaccounts」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「the exception of gross fixed capital formation—are unbiased, efficient and accurate.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「tant properties. First, they should be unbiased in the sense: E」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「Unbiasedness can be investigated across the regressions by testing whetherα = 0. If up-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「and downward revisions equalize, no systematic bias in any direction exists. Efficiency of the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「together with thep-values from the tests on unbiasedness, efficiency, and predictability.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「and Saarland values for 2009 might possibly be severely biased due to the influence of general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「growth are unbiased, efficient, and the revisions are not predictable (see Table 3). This is」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「consumption, which can severely bias the transition from production to gross value added.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「quarterly employment figures for Germany are biased, inefficient and not optimal. As the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「gether, the first estimates of real gross domestic product growth show no systematic bias.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「National Accounts: accuracy, unbiasedness and efficiency in preliminary figures.Empirical」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
   - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
-  - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/paper/report0810.pdf）
-  - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
-  - 「to assess bias, efficiency, correlation, seasonality, and the relative」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「The mean revision quantifies systematic bias in the revisions:」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「\text{Bias} = \bar{r} = \frac{1}{N} \sum_{t=1}^{N} r_t^{f}」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「"Bias (robust p-value)"」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「#> • Significant upward bias detected (p = 0 )」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「#> • Significant upward bias detected (p = 0.001 )」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「predictability, and potential biases in data revisions.」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「efficient and unbiased」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「have a systematic bias.」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
-  - 「#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
 - 実例：
-  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/paper/report0810.pdf）
-  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/paper/report0810.pdf）
-  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/paper/report0810.pdf）
-  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/paper/report0810.pdf）
-  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/paper/report0810.pdf）
-  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/paper/report0810.pdf）
-  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/paper/report0810.pdf）
-  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
-  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
-  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/paper/report0810.pdf）
-  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/paper/report0810.pdf）
-  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/paper/report0810.pdf）
-  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/paper/report0810.pdf）
-  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/paper/report0810.pdf）
+  - 「example, macroeconomic aggregates is missing, whereas this is fairly standard for national-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「aggregates READ-GER contains, for example, real gross domestic product, total domestic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「policies (for example, optimal interest rates) on well grounded information sets. Thus, well-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「1In case of Norway, Helliesenet al. (2022) state that growth rates of real national accounts figures—with」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「For example, the Statistical Office Bavaria calculates annual GDP for all 16 German states」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「for example, German GDP is not calculated by summing up the state values. Instead, it is」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「are labeled as, for example,V1–1. The identifier prior to the hyphen, V1, is the running」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「three examples for the unique identifier. V2–3 is the sheet that comprises nominal gross」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「the calculation base. For example, the March 2005 vintage is based on information from」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「Over the years, the working group faced some severe issues, for example, by switching」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「General revisions take place periodically, usually each five years. In my case, the general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「As example, let us take the year 2015. The first update for the year 2015 becomes available」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「references to calculate, for example, labor productivity measured as GDP per employee or」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「affected as their evaluation period does not overlap with a general revision (for example, the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「state is also an interesting case as all first updates in the years 2012 to 2019 underestimate」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
@@ -5738,7 +5738,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -6042,12 +6042,36 @@
   - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
   - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
   - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+- 突き合わせ・推定：
+  - 「ただし、この研究では多言語抽出を検証していません」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「ただし、そのラベルは検証なしに今回の形状を超えて持ち出すべきではありません」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「jusText の最大の売りである stoplist を持っていても、多言語抽出は未検証です」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「その点、ここでは検証版と配布版が同じでした」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った」（https://thunderbit.com/ja/blog/trafilatura-review）
 - 一次情報の探し方：
   - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
   - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています」（https://thunderbit.com/ja/blog/trafilatura-review）
 - 失敗・落とし穴：
   - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
   - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「どちらか片方だけ見ると、選ぶべきツールを誤ります」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「そのフィクスチャにはボイラープレートがないため平均の対象外になり、実際の失敗が完璧なスコアに隠れていました」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「測っている量が違うため、片方をもう片方として扱うのは誤りです」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「元のテストベッドを見えなかった6つのうち2つがあり、そのうち1つは完璧な再現率の裏に完全失敗を隠していました」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「注意点は 3 つあります」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「を返す、落ち着いた失敗挙動」（https://thunderbit.com/ja/blog/trafilatura-review）
 - 実例：
   - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
   - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
@@ -6059,7 +6083,11 @@
   - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
   - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
   - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+  - 「最長の段落が151文字の文書でスイープした結果がこちらです」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「どれも「ページには主となる散文が1つある」という前提で作られており、商品一覧、検索結果ページ、ダッシュボードはその前提を崩します」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「リストだけの記事、短い段落、プロモーションの兄弟要素、ほぼ空のページ、そして「何も返さないほうがまし」なケースを含めます」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「記事ではないページ――商品一覧、検索結果、ダッシュボード――も未対象です」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
+  - 「結果は 1 回の呼び出しで」（https://thunderbit.com/ja/blog/trafilatura-review）
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り

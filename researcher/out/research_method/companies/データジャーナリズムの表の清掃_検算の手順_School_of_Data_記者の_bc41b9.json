@@ -8,7 +8,7 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-06T11:34:28.510193+00:00",
+ "researched_at": "2026-11-06T15:23:44.875325+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -218,17 +218,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/agentai/n/n58c42da1fd14",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/kizashi_note/n/n6da9f1204a77",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/aijitanlab365/n/ne7fbe6f8a82c",
     "status": "ok",
     "method": "http"
    },
@@ -238,12 +228,57 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/aijitanlab365/n/ne7fbe6f8a82c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "url": "https://note.com/biostatsyy/n/nc5d9fe932b45",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazukio/n/nedb9fb057839",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazukio/n/n6d006d6486c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "status": "ok",
     "method": "http"
    },
@@ -253,7 +288,37 @@
     "method": "http"
    },
    {
+    "url": "https://data-viz-lab.com/survey-data-cleaning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://data-viz-lab.com/how-to-data-cleaning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.asahi.com/miraimedia/dj/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://data-journalism.org/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
     "status": "ok",
     "method": "http"
    },
@@ -268,49 +333,34 @@
     "method": "http"
    },
    {
-    "url": "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://www.esg-hp.com/kakoturezure.html",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.datacamp.com/blog/infographic-data-cleaning-checklist",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://gijn.org/stories/data-cleaning-tools-and-techniques-for-non-coders/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ovaledge.com/blog/data-cleaning-techniques",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://guides.library.stonybrook.edu/c.php?g=1417828&p=10508533",
+    "url": "https://datamgmtinedresearch.com/clean",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -319,67 +369,72 @@
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） site:note.com",
    "results": [
     "https://note.com/lofty_llama4345/n/n6c3cf7d35ebe",
-    "https://note.com/agentai/n/n58c42da1fd14",
     "https://note.com/kizashi_note/n/n6da9f1204a77",
-    "https://note.com/aijitanlab365/n/ne7fbe6f8a82c",
     "https://note.com/skobayashi/n/n4030751cdb6d",
+    "https://note.com/aijitanlab365/n/ne7fbe6f8a82c",
     "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
     "https://note.com/biostatsyy/n/nc5d9fe932b45",
-    "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
-    "https://note.com/ai_scout_jp/n/n914978199458",
     "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note",
    "results": [
-    "https://data-viz-lab.com/data-cleansing-methods",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://journalism.visualizing.jp/simon-rogers-workflow/"
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://note.com/kazukio/n/n6d006d6486c3",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
+    "https://note.com/asahi_ictrad/m/m2138fada841b/hashtag/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
+    "https://data-viz-lab.com/data-cleansing-methods"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） やり方",
    "results": [
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://data-viz-lab.com/data-cleansing-methods",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
+    "https://data-viz-lab.com/survey-data-cleaning",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/"
+    "https://data-viz-lab.com/how-to-data-cleaning"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） 事例",
    "results": [
-    "http://www.esg-hp.com/kakoturezure.html",
-    "https://data-viz-lab.com/data-cleansing-methods",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing"
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "http://www.asahi.com/miraimedia/dj/case/",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "https://data-viz-lab.com/survey-data-cleaning",
+    "https://data-journalism.org/en/",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://data-viz-lab.com/data-cleansing-methods"
    ]
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks",
    "results": [
-    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "https://www.datacamp.com/blog/infographic-data-cleaning-checklist",
-    "https://gijn.org/stories/data-cleaning-tools-and-techniques-for-non-coders/",
-    "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
     "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://guides.library.stonybrook.edu/c.php?g=1417828&p=10508533",
-    "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
-    "https://numerous.ai/blog/data-cleaning-checklist",
+    "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
+    "https://www.tableau.com/learn/articles/what-is-data-cleaning",
     "https://www.ovaledge.com/blog/data-cleaning-techniques",
-    "https://www.displayr.com/resources/the-ultimate-data-cleaning-tidying-checklist/"
+    "https://datamgmtinedresearch.com/clean",
+    "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
+    "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
+    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1198040/",
+    "https://www.datacamp.com/blog/infographic-data-cleaning-checklist"
    ]
   },
   {
@@ -388,10 +443,10 @@
     "https://note.com/lofty_llama4345/n/n6c3cf7d35ebe",
     "https://note.com/kizashi_note/n/n6da9f1204a77",
     "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d",
-    "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
     "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
-    "https://note.com/ai_income_work/n/n663e5e262c4f",
-    "https://note.com/cool_duck5007/n/n9cfdccad0f37"
+    "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
+    "https://note.com/datadrivenjapan/n/nc8f78e98fbf9",
+    "https://note.com/ai_scout_jp/n/n914978199458"
    ]
   },
   {
@@ -400,8 +455,8 @@
     "https://x.com/compalyze/status/2075747108737675610",
     "https://x.com/itarutomy/status/2073743949731442754",
     "https://x.com/machinotobira/status/2113434000081682716",
-    "https://x.com/kouinjuku2025/status/2109578834722824248",
     "https://x.com/sudo_nikkei/status/2025872468297056562",
+    "https://x.com/kouinjuku2025/status/2109578834722824248",
     "https://x.com/kaz_ogiwara/status/2109288752334127607",
     "https://x.com/nekonoizumi/status/1723341665166033003"
    ]
@@ -415,10 +470,7 @@
     "https://jp.linkedin.com/pulse/data-driven-journalism-unleashing-power-information-probyto?tl=ja",
     "https://jp.linkedin.com/pulse/data-driven-journalism-data-science-sabha-a-sm5cf?tl=ja",
     "https://jp.linkedin.com/pulse/data-janitor-trap-why-80-industrial-ai-projects-fail-tamer-ramzy-qxrpc?tl=ja",
-    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja",
-    "https://jp.linkedin.com/posts/gifu-wada-naoya_データジャーナリズム-ソリューションジャーナリズム-阪神淡路大震災-activity-7504394807205756928-JuxF",
-    "https://jp.linkedin.com/pulse/google-tackles-data-janitor-problem-its-newest-launch-douglas-bailey-n7u2f?tl=ja",
-    "https://jp.linkedin.com/pulse/5-minute-test-whether-your-data-clean-enough-analyze-jordan-carpenter-ohyic?tl=ja"
+    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja"
    ]
   },
   {
@@ -436,48 +488,54 @@
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note 社長",
    "results": [
-    "https://data-viz-lab.com/data-cleansing-methods",
-    "https://note.com/kizashi_note/n/n6da9f1204a77",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://datajournalismjp.github.io/handbook/はじめに.html"
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://note.com/kazukio/n/n6d006d6486c3",
+    "https://www.asahi.com/special/datajournalism/",
+    "https://data-journalism.org/en/",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://data-viz-lab.com/data-cleansing-methods"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） X 投稿",
    "results": [
-    "https://data-viz-lab.com/data-cleansing-methods",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/"
+    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://data-journalism.org/en/",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://www.asahi.com/special/datajournalism/",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
+    "https://gijn.org/stories/data-cleaning-tools-and-techniques-for-non-coders/",
+    "https://data-viz-lab.com/data-cleansing-methods"
    ]
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks site:linkedin.com",
    "results": [
     "https://www.linkedin.com/top-content/science/best-practices-for-data-management/how-to-validate-data-before-acting/",
-    "https://www.linkedin.com/pulse/newmind-ai-journal-198-newmind-ai-kioxf",
-    "https://www.linkedin.com/posts/connorgillivan_google-gives-away-its-seo-tools-for-free-activity-7512103610772570112-KIcU",
-    "https://jm.linkedin.com/in/phillipa-ritchie-698b901b7",
-    "https://www.linkedin.com/posts/bouchernicolas_the-4-claude-plugins-every-finance-professional-activity-7518658381771948033-qmeQ",
+    "https://www.linkedin.com/in/%F0%9F%8E%AF-ming-tommy-tang-40650014",
+    "https://www.linkedin.com/in/tracy-j-mao-12139b1a1",
+    "https://in.linkedin.com/in/chayan-banerjee",
+    "https://id.linkedin.com/in/sarifmj",
     "https://ng.linkedin.com/in/ehichioya-david-ebaluegbe-646240284",
-    "https://www.linkedin.com/posts/drbrittnekakulla_play-on-purpose-aarp-study-explores-why-activity-7519352243607855104-F577",
-    "https://www.linkedin.com/in/benlcollins",
-    "https://in.linkedin.com/in/sonalli-jollyy-31a64b167",
-    "https://uk.linkedin.com/in/madhumithaa-purushothaman"
+    "https://ca.linkedin.com/in/kartiw",
+    "https://www.linkedin.com/posts/search-engine-journal_if-your-rank-tracker-showed-big-ranking-dips-activity-7519370817336492033-VAws",
+    "https://www.linkedin.com/in/emikoroe",
+    "https://www.linkedin.com/in/glennhofmann"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ20頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ20頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T15:23:56.343731+00:00"
 }

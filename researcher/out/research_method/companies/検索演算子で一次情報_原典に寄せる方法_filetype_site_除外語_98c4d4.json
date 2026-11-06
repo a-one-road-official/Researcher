@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-06T10:49:08.384096+00:00",
+ "researched_at": "2026-11-06T15:19:21.928142+00:00",
  "evidence": {
   "実例": [
    {
@@ -253,32 +253,6 @@
    },
    {
     "quote": "Case sensitivity for OR and AROUND. Lowercase or is treated as a normal word, so cats or dogs matches pages containing the word “or”. Lowercase around(5) is ignored. Both must be uppercase.",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "after:/before:で表示されるページは、Googleが推定した公開日時が基準になります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "site:で表示される件数はあくまでGoogleの推定値であり、実際のインデックス数と大きく乖離することがあります",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "queries is an estimate, not an exact count. It's often wrong. Use it to get a rough sense of scale, not a precise figure.",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Date approximations. before: and after: use Google’s indexed-date estimate, which is not the same as the page’s published date. For research that requires exact publication dates, verify against the page itself or use the publisher’s archive.",
     "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -769,6 +743,32 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "after:/before:で表示されるページは、Googleが推定した公開日時が基準になります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "site:で表示される件数はあくまでGoogleの推定値であり、実際のインデックス数と大きく乖離することがあります",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "queries is an estimate, not an exact count. It's often wrong. Use it to get a rough sense of scale, not a precise figure.",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Date approximations. before: and after: use Google’s indexed-date estimate, which is not the same as the page’s published date. For research that requires exact publication dates, verify against the page itself or use the publisher’s archive.",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -776,11 +776,6 @@
   "pass3": [
    {
     "url": "https://note.com/zero_impact_edu/n/n0e08081a3573",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mdp/n/nc204d39d34bc",
     "status": "ok",
     "method": "http"
    },
@@ -800,7 +795,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
+    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/science_summary/n/n223612b7a530",
     "status": "ok",
     "method": "http"
    },
@@ -811,6 +811,11 @@
    },
    {
     "url": "https://kinsta.com/jp/blog/google-search-operators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mdp/n/nc204d39d34bc",
     "status": "ok",
     "method": "http"
    },
@@ -830,23 +835,18 @@
     "method": "http"
    },
    {
-    "url": "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
+    "url": "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
+    "url": "https://hack.nikkei.com/blog/search_operator/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://hack.nikkei.com/blog/search_operator/",
-    "status": "ok",
     "method": "http"
    },
    {
@@ -875,7 +875,7 @@
     "method": "http"
    },
    {
-    "url": "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=ja",
+    "url": "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -885,12 +885,12 @@
     "method": "http"
    },
    {
-    "url": "https://minto.tech/google-search-operators-advanced-guide/",
+    "url": "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=ja",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://func.jp/google-search-command/",
+    "url": "https://minto.tech/google-search-operators-advanced-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -900,19 +900,19 @@
     "method": "http"
    },
    {
-    "url": "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://libguides.tulane.edu/la_info/search_strategies",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
+    "url": "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5037943/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://libguides.uccs.edu/history/creating-searches",
@@ -931,12 +931,15 @@
    "query": "検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語） site:note.com",
    "results": [
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
-    "https://note.com/mdp/n/nc204d39d34bc",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/super_phlox114/n/na80f971322ef",
     "https://note.com/kyotomori/n/nd498747a7c3e",
+    "https://note.com/fresh_impala9007/n/n62355267896c",
+    "https://note.com/science_summary/n/n223612b7a530",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/fresh_impala9007/n/n62355267896c"
+    "https://note.com/nana_882391/n/nfc50f20bd0b3",
+    "https://note.com/mdp/n/nc204d39d34bc",
+    "https://note.com/harenohi_design/n/n976ff51ae1a1"
    ]
   },
   {
@@ -961,8 +964,8 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
-    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://hack.nikkei.com/blog/search_operator/",
+    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://ischool.co.jp/2018-11-09/",
     "https://altenas.jp/blog/search-command",
     "https://seoagent.jp/blog/search-operators/",
@@ -975,75 +978,68 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://www.rhcnet.com/article/google_operator_.html",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://altenas.jp/blog/search-command",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
-    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
+    "https://altenas.jp/blog/search-command",
     "https://seojapan.com/column/search-modifiers-best-10/",
-    "https://ischool.co.jp/2018-11-09/",
+    "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://jp.strikingly.com/content/blog/google-search/",
-    "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=ja"
+    "https://ischool.co.jp/2018-11-09/",
+    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
    ]
   },
   {
    "query": "search operators primary sources filetype site research",
    "results": [
     "https://libguides.ecu.edu/Gale/teaching",
-    "https://www.youtube.com/watch?v=25SBiqo-vPM",
-    "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
     "https://libguides.tulane.edu/la_info/search_strategies",
-    "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
+    "https://review.gale.com/2023/03/21/finding-primary-sources-using-alternative-search-tools/",
+    "https://www.youtube.com/watch?v=25SBiqo-vPM",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5037943/",
     "https://libguides.uccs.edu/history/creating-searches",
     "https://primarysources.yale.edu/search-strategies",
+    "https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators",
     "https://academia.stackexchange.com/questions/160410/is-there-a-search-tool-for-finding-primary-sources-in-us-history",
-    "https://uscupstate.libguides.com/hist300-historicalstudies/google-for-primary-sources"
+    "https://www.denis-iakimenko.com/blog/google-search-operators"
    ]
   },
   {
    "query": "site:note.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
    "results": [
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
-    "https://note.com/mdp/n/nc204d39d34bc",
-    "https://note.com/nana_882391/n/nfc50f20bd0b3",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
-    "https://note.com/nana_882391/n/n35ce95bb325e",
     "https://note.com/kyotomori/n/nd498747a7c3e",
+    "https://note.com/nana_882391/n/n35ce95bb325e",
+    "https://note.com/nana_882391/n/nfc50f20bd0b3",
+    "https://note.com/mdp/n/nc204d39d34bc",
     "https://note.com/fresh_impala9007/n/n62355267896c"
    ]
   },
   {
    "query": "site:x.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
    "results": [
-    "https://x.com/cat_meety/status/2115318737519923600",
     "https://x.com/uchita_success/status/2093514295778877913",
-    "https://x.com/ChiseGomen/status/2110118589600837924",
-    "https://x.com/ss_shiratori/status/2114921116800311315",
+    "https://x.com/saruchan_money/status/2059388949949464730",
     "https://x.com/xkaseki413/status/2051160097288839258",
-    "https://x.com/BaronLeon86/status/2056003869734535543",
-    "https://x.com/shibakatze/status/2068629304033075563"
+    "https://help.x.com/ja/using-x/x-advanced-search",
+    "https://help.x.com/ja/using-x/x-search",
+    "https://x.com/shibakatze/status/2068629304033075563",
+    "https://x.com/BaronLeon86/status/2056003869734535543"
    ]
   },
   {
    "query": "site:linkedin.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
-   "results": [
-    "https://www.linkedin.com/posts/cyberedition_google-dorking-commands-part-2-taking-activity-7368832616797532162-IMq_",
-    "https://www.linkedin.com/pulse/understanding-googles-indexable-file-types-guide-avilash-chakraborty-ci4ac",
-    "https://training.talent.linkedin.com/use-boolean-logic-ja",
-    "https://jp.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f?tl=ja",
-    "https://jp.linkedin.com/pulse/seoの本質は一次情報にあり記事の信頼性と順位を爆上げする方法-剛-柏崎-hwatc",
-    "https://jp.linkedin.com/pulse/seoで一次情報が重要な理由とは二次情報との違いと活用方法-剛-柏崎-p6mxc",
-    "https://jp.linkedin.com/pulse/improve-your-job-search-results-google-x-ray-rich-do?tl=ja"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
    "results": [
     "https://www.facebook.com/public/列番号を数えるCOLUMNS関数の指定方法を解説-what-filetype:pdf/",
-    "https://www.facebook.com/public/VLOOKUP関数で複数の条件を設定・抽出する方法を解説-U-NOTE-filetype:doc/",
     "https://www.facebook.com/public/VLOOKUP関数で複数の条件を設定・抽出する方法を解説-U-NOTE-what-filetype:svg/",
     "https://www.facebook.com/groups/880912055374027/posts/3852178711580665/",
     "https://www.facebook.com/yeswecan.jp/posts/claris-filemaker-2025-の新機能より直感的な検索を自然言語で検索実行-スクリプトステップ概要編少し複雑な検索を行う場合演算子や検索除外などを/1427295775672083/",
+    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1345123027226517/",
     "https://www.facebook.com/lany.co.jp/posts/639476175308809/",
-    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1345123027226517/"
+    "https://www.facebook.com/groups/8718542291572772/posts/27031017856565270/"
    ]
   },
   {
@@ -1094,6 +1090,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }
