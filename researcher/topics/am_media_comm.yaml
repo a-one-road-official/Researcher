@@ -1,0 +1,40 @@
+# 本人の指示（2026-11-07）：「入り口はメディアとかでいい。メディアやコミュニティを通じてペインを理解していきたい」。
+# AM（特に金属・エンプラ・カーボン）のメディア・コミュニティ・研究会・業界団体・展示会を日本と海外で1社（1団体）ずつ三重確認：
+# 創業年度・株主（運営母体）・売上・人数・読者数/会員数/来場者数・何でどう稼いでいるか（広告・スポンサー・会員費・イベント・調査レポート・送客の手数料）・
+# 読者/会員は誰か（大手か中小か・職種）・大手（出版社・商社・装置メーカー）が運営しているか。事実だけ引用。解釈しない。
+title: AMのメディア・コミュニティ（日本・海外）：運営母体・規模・稼ぎ方・読者と会員
+input: researcher/inputs/am_media_comm.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
+  設立: [Founded, Established, founded in, 設立, 創業]
+  従業員数: [Employees, Team size, employees, 従業員]
+  所在地: [Headquarters, Location, HQ, 所在地]
+  売上高: [Revenue, ARR, Turnover, 売上]
+  代表者: [CEO, Founder, Co-founder, 代表]
+
+evidence:
+  稼ぎ方: [広告, 広告掲載, スポンサー, 協賛, 会費, 年会費, 会員, 有料会員, 購読, subscription, membership, sponsor, sponsorship, advertising, advertise, media kit, rate card, レポート販売, research report, イベント, 出展料, 参加費, ticket, webinar, ウェビナー, リード, lead generation]
+  規模: [読者, 購読者, PV, ページビュー, UU, 会員数, 会員企業, 来場者, 参加者, 登録者, subscribers, readers, monthly visitors, page views, members, attendees, newsletter]
+  読者・会員は誰か: [エンジニア, 技術者, 設計者, 経営者, 購買, 調達, 研究者, 大手, 中小, 製造業, 航空, 防衛, 自動車, 医療, audience, readership, decision makers, engineers]
+  運営母体: [運営, 発行, 主催, 事務局, 運営会社, 親会社, published by, organized by, owned by, a division of, part of]
+  AMの扱い: [3Dプリンタ, 3Dプリンター, 積層造形, 付加製造, 金属AM, additive manufacturing, 3D printing, metal AM]
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 親会社, 資本提携, 出資, 筆頭株主, shareholder, ownership, owned by, stake in, parent company, subsidiary of, backed by]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
+  売上: [revenue, turnover, sales, 売上, 売上高, 億円, 百万円, million, billion]
+  黒字・収益性: [profitable, profit, EBITDA, net income, net loss, operating income, 黒字, 赤字, 営業利益, 純利益, 採算]
+  存続: [liquidation, bankruptcy, shut down, closed, ceased, acquired, acquisition, merged, 清算, 破産, 買収, 撤退, 事業譲渡]
+
+subpage_keywords: [about, advertise, advertising, media-kit, mediakit, sponsor, membership, join, events, newsletter, subscribe, company, 会社概要, 広告, 入会, 会員]
+image_keywords: [media, kit, advertise]
+
+external_queries:
+  - "{name} 会社概要 運営 設立"
+  - "{name} 広告 料金 OR media kit OR rate card"
+  - "{name} 会員数 OR 読者数 OR subscribers OR readers"
+  - "{name} 売上 OR revenue OR acquired"
+  - "{name} スポンサー OR sponsorship OR 協賛"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 5}

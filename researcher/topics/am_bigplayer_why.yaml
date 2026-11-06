@@ -1,0 +1,41 @@
+# 本人の指示（2026-11-07）：「伸びてる市場なのに、なんで大手が入れてないのか（あるいは入れてるのか）をもっと掘り下げたい」。
+# 日本のAM（樹脂以外：金属・エンプラ・カーボン）の受託・販売・窓口・内製に、大手が「いつ入ったか・いつ出たか・なぜか（本人・会社の発言）」を1社ずつ三重確認。
+# 撤退・縮小の理由、参入しない理由、入っている会社のAMの売上・台数・人数・客の業界。IR・決算説明・有価証券報告書・社長インタビュー・報道。事実だけ引用。解釈しない。
+title: 日本のAMに大手は入っているか・出たか・なぜか（会社ごとの参入・撤退の時期と理由）
+input: researcher/inputs/am_bigplayer_why.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
+  設立: [Founded, Established, founded in, 設立, 創業]
+  従業員数: [Employees, Team size, employees, 従業員]
+  所在地: [Headquarters, Location, HQ, 所在地]
+  売上高: [Revenue, ARR, Turnover, 売上]
+  代表者: [CEO, Founder, Co-founder, 代表]
+
+evidence:
+  参入の時期と形: [参入, 開始, 立ち上げ, 設立, 発売, 受託を開始, 販売を開始, 提携, 買収, 出資, 代理店契約, 総代理店, 独占, launched, entered, acquired]
+  撤退・縮小の時期と理由: [撤退, 終了, 縮小, 停止, 譲渡, 見直し, 選択と集中, 撤退理由, 採算, 赤字, 減損, 需要が, 想定を下回, 伸び悩, 頭打ち, 再編, exit, discontinue, wind down, impairment]
+  参入しない・慎重な理由の発言: [理由, 課題, 難しい, 品質保証, 認証, 量産, コスト, 単価, 小ロット, 需要, 市場が小さい, 人材, ノウハウ, 後処理, 検査, 責任, リスク]
+  AMの規模: [3Dプリンタ, 3Dプリンター, 積層造形, 付加製造, 金属AM, 台数, 拠点, 人員, 売上, 受注, 案件数, 顧客数, 億円]
+  客の業界: [航空, 宇宙, 防衛, 自動車, 半導体, 医療, エネルギー, 金型, 産業機械, 重工, 研究開発, 試作, 量産]
+  素材: [金属, チタン, アルミ, 銅, ニッケル, インコネル, エンプラ, PEEK, カーボン, CFRP, 炭素繊維, 樹脂]
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 親会社, 資本提携, 出資, 筆頭株主, shareholder, ownership, owned by, stake in, parent company, subsidiary of, backed by]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
+  売上: [revenue, turnover, sales, 売上, 売上高, 億円, 百万円, million, billion]
+  黒字・収益性: [profitable, profit, EBITDA, net income, net loss, operating income, 黒字, 赤字, 営業利益, 純利益, 採算]
+  存続: [liquidation, bankruptcy, shut down, closed, ceased, acquired, acquisition, merged, 清算, 破産, 買収, 撤退, 事業譲渡]
+
+subpage_keywords: [about, company, ir, news, press, release, business, service, 3d, additive, am, case, interview, history, 沿革]
+image_keywords: [ir, business]
+
+external_queries:
+  - "{name} 3Dプリンタ 撤退 OR 縮小 OR 終了"
+  - "{name} 3Dプリンタ 参入 OR 開始 OR 買収"
+  - "{name} 積層造形 事業 売上"
+  - "{name} 3Dプリンター 社長 インタビュー 課題"
+  - "{name} 決算説明 3Dプリンタ"
+  - "{name} 会社概要 設立 株主"
+
+limits: {pages: 30, subpages: 25, pdfs: 10, images: 6, external_per_query: 5}
