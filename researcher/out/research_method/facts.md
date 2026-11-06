@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・117品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・119品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1202,6 +1202,7 @@
 - 文脈：凄腕・型
 - 手順・やり方：
   - 「境界型防御とゼロトラストの違い｜認証・認可と移行・運用の確認点」（https://renue.co.jp/posts/consulting-strategy-department-guide）
+  - 「DevExとは？DORAの5指標・DX Core 4で開発者体験を測定・改善する方法」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「労働集約型モデルが成立しなくなった場合、フィーベースの再設計が必要」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「マネタイズ方法等の技術関連・ビジネス関連の情報も必要になります」（https://www.arts-crafts.co.jp/post-16243/）
@@ -1215,7 +1216,6 @@
   - 「対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「renueは自社開発のAIツールを自社運用する「自社実証型」AIコンサルティングファームです」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 - 突き合わせ・推定：
   - 「● 2. 仮説構築の「たたき台」」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -2491,14 +2491,16 @@
   - 「AI Skillを社外へ無料配布するときの一仕事の決め方、個別の有料支援との境界、取得・利用完了・相談を別々に確かめる方法を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「この手順をあらかじめ定めておくことで、自動化されたプロセスが途切れることなく機能し続けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「そのため、人が情報源となる一次資料にアクセスし、事実と合致しているかを見極めるステップを調査記録に組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提となる情報の提示から、AIによる探索と集約、そして最終的な証拠・例外・権限のチェックに至るまでの実務の手順を一つのつながりとして残します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「公式ドキュメントで裏を取った3つのズレと、.claude/agents への固定方法、Fable 5がOpus 5のちょうど2倍単価であることから導ける損益分岐を解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「助成金・補助金の調べ方｜AIで候補を整理し原典で確かめる手順」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「MECEのコツと『AIで広げ、人間で絞る』作法、末端ノードをナレッジグラフで継続更新する反復ループまでを、実務者向けにやさしく解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIで作ったWebサイトを誰が更新する？公開前確認と復旧で決める運用方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Notion Sites、WordPress、Netlifyの公開境界を比べ、確認と復旧の担当を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
+  - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2512,13 +2514,13 @@
   - 「最後に、検証を通過した確かな事実だけを、」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIへ任せる比較表と、人が決める採用要件・募集条件を分けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「半導体R&D／知財／新規事業／マーケ向けに、『前工程／後工程／装置／材料』の4層フレームワークと、論文・特許・IR資料の3ソース統合フローで、半導体材料の技術トレンド調査をAIで叩き台まで作る7ステップを解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「市場の白地と特許の白地の違い、ナレッジグラフ型AI調査エージェントで白地を見つける手順、R&D企画・新規事業・知財の職種別実例、2026年のトレンド、月曜日から試せる3つの一歩まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「2026年に増えすぎたAIモデルを『タスクの変数量 × 推論深度』の2軸で整理し、企業のAI推進担当・エンジニア・非エンジニアの3層それぞれの使い分けを一次情報ベースで解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2528,12 +2530,11 @@
   - 「It was 2022, my third year running outbound for a B2B team. I had 200 private companies to tier by size. No filings. No earnings call. Just names and websites. So I eyeballed one mid-market firm into the “small” bucket and pitched them our starter package.」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「手元に集めた論文PDFの中から、技術調査や企画の目的に合う文献をAIで探して比較する際、対象範囲・発行年と版・引用根拠をどのように確かめればよいでしょうか」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 失敗・落とし穴：
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「動画は、読者の注意を引き付け、情報を効果的に伝えるのに優れたメディアです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/how-to-conference-survey-2026/）
   - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「特に注意したいのは、同じ研究の異なる版を別の独立した研究として数えてしまうことや、PDFファイルをパソコンにダウンロードした日時を、論文の発行日時と混同してしまうことです」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2545,10 +2546,13 @@
   - 「※なお、全文をAIツールに読み込ませる際、オークランド大学図書館は、同大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「AIの出力は鵜呑みにせず、必ずリンク先の原文の文脈へ遡り、人間が評価条件を確認して採否を決めてください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「オークランド大学図書館の調査ワークフローでは、大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意を促しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
   - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「新規事業テーマ探索・顧客課題深掘り・意思決定の3ユースケース別に、実物テンプレとそのまま使えるAIプロンプトを公開します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「市場の白地と特許の白地の違い、ナレッジグラフ型AI調査エージェントで白地を見つける手順、R&D企画・新規事業・知財の職種別実例、2026年のトレンド、月曜日から試せる3つの一歩まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「5つの専門AIエージェントを持つSkyworkとは？DeepResearchの性能、活用事例や比較を徹底レビュー！」（https://media.deskrex.ai/how-to-conference-survey-2026/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2558,10 +2562,6 @@
   - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「されており、引用元のURLが実在しない捏造であるケースも一定割合で発生します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIは収集可能なWeb上の情報を平準化してまとめますが、特定の顧客にのみ適用されている非公開の条件や、期間限定のキャンペーンといった通常とは異なるケースまでは完全に捉えきれません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このとき、単に複数のツールを場当たり的に使うのではなく、何を前提となるデータとして渡し、どのように処理を実行させ、どのような結果を受け取り、最終的に人間がどこを確かめるのかという一連の流れを記録しながら進行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「問いが明確になったら、その結果を次の二次情報収集ツールへ引き継ぎます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -5433,7 +5433,7 @@
   - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -7159,3 +7159,76 @@
 - 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 - 実例：記載なし（読んだ24頁・検索12回）
+
+## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
+- 文脈：突き合わせ・推定
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
+
+## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説 | Scholar Compass」（https://scholarcompass.net/columns/184）
+  - 「研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります」（https://scholarcompass.net/columns/184）
+  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションとは、複数のデータ・方法・研究者・理論を組み合わせ、同じ現象を多角的に検証することで、研究の妥当性・信頼性を高める方法」（https://scholarcompass.net/columns/184）
+  - 「データ・研究者・理論・方法論の4種類」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションとは、一つの現象を研究する際に、複数のデータ・方法・研究者・理論といった異なる視点を組み合わせ、結論の妥当性・信頼性を高める方法です」（https://scholarcompass.net/columns/184）
+  - 「複数の観測点（データ・方法など）から同じ現象を捉えることで、より確からしい理解に近づく」（https://scholarcompass.net/columns/184）
+  - 「デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています」（https://scholarcompass.net/columns/184）
+  - 「面接と観察、質問紙と面接など、複数の方法で同じ現象を調べる」（https://scholarcompass.net/columns/184）
+  - 「異なる集団・場面・時期からデータを得て、比較・照合する方法です」（https://scholarcompass.net/columns/184）
+  - 「複数の研究者が同じ研究に従事し、観察や分析を独立に行って突き合わせる方法です」（https://scholarcompass.net/columns/184）
+  - 「一つのデータを、複数の理論的枠組みから解釈する方法です」（https://scholarcompass.net/columns/184）
+  - 「複数の方法（手法）で同じ現象を調べる方法です」（https://scholarcompass.net/columns/184）
+  - 「さらに、同じ方法の中で複数の手段を使う「方法内（within-method）」と、質的方法と量的方法など異なる方法を組み合わせる「方法間（between-method）」に分けられることもあります」（https://scholarcompass.net/columns/184）
+  - 「例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です」（https://scholarcompass.net/columns/184）
+- 突き合わせ・推定：
+  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
+  - 「もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションとは、複数のデータ・方法・研究者・理論を組み合わせ、同じ現象を多角的に検証することで、研究の妥当性・信頼性を高める方法」（https://scholarcompass.net/columns/184）
+  - 「読みは「トライアンギュレーション」（トリアンギュレーションとも表記）、英語は「triangulation」」（https://scholarcompass.net/columns/184）
+  - 「単一でも二元的でもなく、三次元以上の多角的な視点を想定することから「三角測量」と呼ばれます」（https://scholarcompass.net/columns/184）
+  - 「2人以上の研究者が同じ研究に関わり、観察・分析を突き合わせる」（https://scholarcompass.net/columns/184）
+  - 「複数の理論・仮説の枠組みからデータを解釈する」（https://scholarcompass.net/columns/184）
+  - 「異なる集団・場面・時期からデータを得て、比較・照合する方法です」（https://scholarcompass.net/columns/184）
+  - 「複数の研究者が同じ研究に従事し、観察や分析を独立に行って突き合わせる方法です」（https://scholarcompass.net/columns/184）
+  - 「：複数の視点の食い違いから、新たな問いや解釈が生まれることがある」（https://scholarcompass.net/columns/184）
+  - 「結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーション・デザイン（Triangulation Design）が挙げられます（Creswell et al., 2007）」（https://scholarcompass.net/columns/184）
+  - 「し、両者を突き合わせて研究課題の理解を深めるデザインです」（https://scholarcompass.net/columns/184）
+  - 「：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります」（https://scholarcompass.net/columns/184）
+  - 「複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証し、結論の確からしさを高める方法」（https://scholarcompass.net/columns/184）
+- 一次情報の探し方：
+  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「PDF (2.2 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+- 失敗・落とし穴：
+  - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
+  - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
+  - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
+  - 「：方法を増やすこと自体が目的化しないよう注意が必要です」（https://scholarcompass.net/columns/184）
+  - 「食い違いは失敗ではなく、重要な手がかりです」（https://scholarcompass.net/columns/184）
+  - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「Moreover, each class of data generated -interviews, questionnaires, observation and physical evidence- is potentially biased and its specificity may be threatened. Ideally, data should converge,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+  - 「the greatest goal of triangulation is to control the personal bias of researchers and cover the intrinsic deficiencies of a single researcher or a unique theory, or the same method of study and, thus, increase the validity of the results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+- 実例：
+  - 「ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます」（https://scholarcompass.net/columns/184）
+  - 「例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます」（https://scholarcompass.net/columns/184）
+  - 「例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です」（https://scholarcompass.net/columns/184）
+  - 「重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です」（https://scholarcompass.net/columns/184）
+  - 「結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます」（https://scholarcompass.net/columns/184）
+  - 「また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です」（https://scholarcompass.net/columns/184）
+  - 「結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます」（https://scholarcompass.net/columns/184）
+  - 「：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります」（https://scholarcompass.net/columns/184）
+  - 「Q4. 結果が食い違ったらどうすればいいですか？」（https://scholarcompass.net/columns/184）
+  - 「なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する」（https://scholarcompass.net/columns/184）
+  - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）

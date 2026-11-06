@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・114品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・116品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5954,14 +5954,163 @@
 
 ## 生産動態統計 金型 年報の生産金額・数量の時系列を e-Stat の統計コードで（00550030・金型の一次の系列・4-30）（METI production dynamics statistics dies and molds annual production value e-Stat）
 - 文脈：統計・金型
-- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
-- 事業所数・社数：記載なし（読んだ31頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
-- 生産能力・設備：記載なし（読んだ31頁・検索18回）
-- 10年推移：記載なし（読んだ31頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ30頁・検索18回）
+- 事業所数・社数：記載なし（読んだ30頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ30頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ30頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ30頁・検索18回）
+- 生産能力・設備：記載なし（読んだ30頁・検索18回）
+- 10年推移：記載なし（読んだ30頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+
+## 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）（Japan shipbuilding workforce actual annual MLIT maritime report SAJ）
+- 文脈：供給・造船
+- 社員数・平均社員数：
+  - 「従業員数： 7.0万人」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 日本造船業の就労者数等は、2016年には9万人を超えていたが、現在は7.6万人にまで減少」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（1.8億円要求中）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外国人 ５.４万人（2023年7月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「4.67.0従 業 員 （ 万 人 ）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「人民元安90.00」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「造船業に従事する就労者等は、約７～８万人で推移」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（１号特定技能外国人：8,182人、２号特定技能外国人：12人（令和６年３月末時点速報値））」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「また、技能実習制度については、令和９年から人材確保及び人材育成を目的とする新たな制度（育成就労制」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+- 受注金額・加工賃収入：
+  - 「売上規模： 3.0兆円」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「状況を見て検討し、総額3,500億円規模を目指す」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「⚫ 令和7年度補正予算で1,200億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官:3,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民:2,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（民:3,500億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「1,200億円」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「120億円：～2030」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「150億円※１：～2026」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民約2,510億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「国庫債務負担行為）として151億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 1人あたり・1社あたり金額：
+  - 「③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「③造船業における人材の確保・育成 令和７年度要求額：１３７百万円（令和６年度予算額： ５９百万円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和７年度要求額：２２０百万円」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「（５か年国庫債務負担行為総額１０,５８５百万円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+- 10年推移：
+  - 「※2023年竣工隻数ベース」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「1出典： SHIPPING NOW 2024-2025, SHIPPING NOW 2025-2026」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「建造量自体は横ばいで推移も、海」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「上荷動き量の増加と韓国・中国の台頭により、足元のシェアは13%程度まで低下」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 今後、2010年前後に大量竣工した船舶のリプレース需要に加え、国際海運の2050年GHG排出ゼロ」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「目標実現に向けた次世代船舶への転換需要により、新造船需要はしばらく底堅く推移する見込み」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 一方、日本の造船所は分散立地しており設備も老朽化が進行、労働人口の減少等により造船所の縮」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「本的向上に向けて、10年間の基金を創設し、３年程度」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 日本造船業の就労者数等は、2016年には9万人を超えていたが、現在は7.6万人にまで減少」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「ヤードの4社は、2023年12月に世界初となる国産エンジンを搭載した」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「2025年10月にアンモニア燃料エンジンの商用機が完成、」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「2022年子会社化」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「2015年商船事業分社」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「2018年持ち株会社化、」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+- 人手と仕事の差：
+  - 「● 一方、人口減少に伴い、造船・舶用事業者の人手不足はさらに深刻化していく」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「・人手不足への対応 ・船舶の効率的な建造 ・国際競争力の強化」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「国内の人口減少に伴い、造船業では若年層を中心に人手不足が」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ24頁・検索18回）
+- 事業所数・社数：記載なし（読んだ24頁・検索18回）
+- 生産能力・設備：記載なし（読んだ24頁・検索18回）
+
+## 造船業の就労者数が増えている・横ばいとする資料（反対の向き・外国人材を含む総数・4-56）（Japan shipbuilding workers increase foreign workers total）
+- 文脈：供給・造船
+- 痛み・損（深さの印）：
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「三菱造船が下関の建造能力を2倍にする2段階の手順を説明、日米シンポで造船拡大の壁に「人材」「需要」、世界の受注残は中国64%・日本6%」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「四半期現在の受注残総額は 340 億ユーロで、2029 年まで引渡しが続く新造船 57 隻の」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「同造船所の受注残は、フィンランド海軍向けコルベット 4 隻と TT-Line 向けのカーフ」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「くの中小造船会社は、2008 年の世界金融危機により経営難に陥り、廃業や売却などが」（https://www.jstra.jp/PDF/report6_2023.pdf）
+- 事業所数・社数：
+  - 「事業所数：約1,100事業所」（https://www.mlit.go.jp/common/001118262.pdf）
+  - 「事業所数：約1,000事業所」（https://www.mlit.go.jp/common/001118262.pdf）
+- 社員数・平均社員数：
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外国人 ５.４万人（2023年7月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「4.67.0従 業 員 （ 万 人 ）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「人民元安90.00」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「造船業に従事する就労者等は、約７～８万人で推移」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（１号特定技能外国人：8,182人、２号特定技能外国人：12人（令和６年３月末時点速報値））」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「また、技能実習制度については、令和９年から人材確保及び人材育成を目的とする新たな制度（育成就労制」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2. 深読み①：造船で働く人は9年で約1.4万人減った」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「3. 深読み②：現場の5人に1人は外国人材に」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「4. 深読み③：国の「建造能力倍増」計画と人の計算」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「5. 深読み④：各社の打ち手──人を集める、人を育てる、人の仕事を減らす」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 受注金額・加工賃収入：
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年9月第2週｜再生基金5件追加で9,000億円規模・世界初の水素エンジン披露・尾道造船は無人艇へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船業再生基金は第2弾5件認定で累計9,000億円規模に、J-ENGは世界初の低速2スト水素エンジンを披露、尾道造船は米新興と無人揚陸艇へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年8月第4週｜川崎汽船が11年ぶりVLCC国内発注・概算要求は144億円＋「事項要求」・中国はLNG船開発加速」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「川崎汽船が11年ぶりにVLCC3隻を日本シップヤードへ発注、海事局の概算要求は144億円＋2年連続の「事項要求」に」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船業再生基金（10年3,500億円）の認定8件・最大約3,110億円、GX移行債の補助事業（設備投資累計約2,050億円）、GI基金を一覧で解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「■鍋屋バイテック会社（資本金 9,600 万円、従業員数 435 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■株式会社三松（資本金 8,500 万円、従業員数 178 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■シナノケンシ株式会社（資本金 6 億 5,000 万円、従業員数 連結 4，000 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「⚫ 令和7年度補正予算で1,200億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官:3,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 1人あたり・1社あたり金額：
+  - 「■鍋屋バイテック会社（資本金 9,600 万円、従業員数 435 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■株式会社三松（資本金 8,500 万円、従業員数 178 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■シナノケンシ株式会社（資本金 6 億 5,000 万円、従業員数 連結 4，000 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「即ち従業員一人当たり 20.7 時間のトレーニングを提供した」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「労働生産性は 2015 ～2018 年期に急上昇した」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「労働生産性は、パンデミック中の急激な低下を除き、過去 10 年に 7％上昇した」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「過去 10 年間に労働生産性も上昇したが、労働コストの」（https://www.jstra.jp/PDF/report6_2023.pdf）
+  - 「労働生産性も過去 10 年間に約 10％上昇したが、労働コストよりも上昇率は緩やか」（https://www.jstra.jp/PDF/report6_2023.pdf）
+- 生産能力・設備：
+  - 「造船業再生基金（10年3,500億円）の認定8件・最大約3,110億円、GX移行債の補助事業（設備投資累計約2,050億円）、GI基金を一覧で解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 10年推移：
+  - 「2025年6月19日」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「外国人 ５.４万人（2023年7月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（2021年）暦年」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「※2023年竣工船（隻数ベース）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「（2024年12月）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「出典：IHS Markit （建造量）、Clarkson （海上荷動量） ※海上荷動量はトンベースであり、2024年は推計値」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「世界的に建造需要が低迷する中、中国が建造量を維持しシェアを増大する一方、日本は2019年以」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「降、建造量・シェアがともに減少」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「韓国も2019年以降、建造量が減少」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「20022003200420052006200720082009201020112012201320142015201620172018201920202021202220232024」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「2021年以降、コンテナ船・LNG運搬」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「船の受注を中国と韓国が大きく獲得し、日本のシェアは15-16%で推移していたが、2024年には８％に下落」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+  - 「2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の３～４割程度（2010年代後半は」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+- 人手と仕事の差：
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「理由は、人手不足で船を造るペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「人手不足は、このうち」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ここ数週間のニュースを並べると、造船・舶用各社の人手不足への対応は、大きく3つに分けられます」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「をつくることが、人手不足への中長期の答えになりそうです（後段は筆者の見立てです）」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「働く側から見れば、人手不足は」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「──人件費や外注費の増加、寮・社宅などへの投資がどう表れるか」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「人手不足の分野で、一定の技能と日本語能力を持つ外国人が働けるようにする在留資格」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「──理由は人手不足で建造ペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「今週の必修ニュース｜9月の輸出船受注17隻・造船向け鋼材は人手不足で1割減」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

@@ -1,0 +1,975 @@
+{
+ "name": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+ "en": "Japan shipbuilding workforce actual annual MLIT maritime report SAJ",
+ "aliases": [
+  "造船業 就労者数 推移 実績 海事レポート",
+  "日本造船工業会 造船関係資料 就労者",
+  "造船 就労者 増加 推移"
+ ],
+ "context": "供給・造船",
+ "kind": "market",
+ "researched_at": "2026-11-06T13:04:18.086777+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "従業員数： 7.0万人",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 日本造船業の就労者数等は、2016年には9万人を超えていたが、現在は7.6万人にまで減少",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（1.8億円要求中）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外航 日本人 ０.２万人（2023年10月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人 ５.４万人（2023年7月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.67.0従 業 員 （ 万 人 ）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人民元安90.00",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船業に従事する就労者等は、約７～８万人で推移",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１号特定技能外国人：8,182人、２号特定技能外国人：12人（令和６年３月末時点速報値））",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、技能実習制度については、令和９年から人材確保及び人材育成を目的とする新たな制度（育成就労制",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "売上規模： 3.0兆円",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "状況を見て検討し、総額3,500億円規模を目指す",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（民:3,500億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,200億円",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "120億円：～2030",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150億円※１：～2026",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備整備支援 約960億円※２：2025～2029",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国庫債務負担行為）として151億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の生産基盤強化補助（R6年度開始分 5年間 ６００億円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の生産基盤強化補助（R７年度開始分 5年間 300億円要求中）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助（１０６億円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（1.8億円要求中）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（１２０億円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度：94億円（令和６～10年度：600億円,令和7～11年度：300億円（要求中））",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度 94億円",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6～10年度 合計600億円",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7～11年度 合計300億円（要求中）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合計900億円",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "120億円が拠出される",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最大120億円程度",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は、令和４年９月に第１次研究開発ビジョンを策定し、総額2,500億円の支援対象テーマを決定",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年８月には第２次研究開発ビジョンを策定し、新たに総額2,500億円分の支援対象テーマを決定",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③造船業における人材の確保・育成 令和７年度要求額：１３７百万円（令和６年度予算額： ５９百万円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度要求額：２２０百万円",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５か年国庫債務負担行為総額１０,５８５百万円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "※2023年竣工隻数ベース",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1出典： SHIPPING NOW 2024-2025, SHIPPING NOW 2025-2026",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建造量自体は横ばいで推移も、海",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上荷動き量の増加と韓国・中国の台頭により、足元のシェアは13%程度まで低下",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 今後、2010年前後に大量竣工した船舶のリプレース需要に加え、国際海運の2050年GHG排出ゼロ",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目標実現に向けた次世代船舶への転換需要により、新造船需要はしばらく底堅く推移する見込み",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 一方、日本の造船所は分散立地しており設備も老朽化が進行、労働人口の減少等により造船所の縮",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本的向上に向けて、10年間の基金を創設し、３年程度",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 日本造船業の就労者数等は、2016年には9万人を超えていたが、現在は7.6万人にまで減少",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ヤードの4社は、2023年12月に世界初となる国産エンジンを搭載した",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月にアンモニア燃料エンジンの商用機が完成、",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年子会社化",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年商船事業分社",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年持ち株会社化、",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年香焼工場譲渡",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年竣工船（隻数ベース）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 海上輸送量の増加や過去の大量に建造された船舶の代替需要等によって、 2030年代には8000万から１億総ト",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン規模まで建造需要が増加していくと各機関は予測",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船工業会予測： 第33回海事立国フォーラム 日本造船工業会講演資料（2024年2月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Clarksons予測： Clarkson Shipbuilding Forecast Club資料（2024年3月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OECD予測： Monitoring developments of ship demand and supply（2025年4月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のシェアは15-16%で推移してい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たが、2024年には８％に下落",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017 2018 2019 2020 2021 2022 2023 2024",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船所の建造量推移 日本船主の新造船発注量推移",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 他方で、2020年以降、日本造船所の建造能力はおおむね1,000万総トン前後の船舶しか建造しておらず、日本",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の３～４割程度（2010年代後半は",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 造船業に従事する日本人就労者数は、中期的に減少傾向が継続",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2023年竣工船（隻数ベース）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船企業グループ別の建造量（2023年）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2019年11月)",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2023年5月）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年1月）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年より増加に転じ、現在は約３.",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長期的な増加が見込まれ、生産基盤",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "202420232022202120202019",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○受注量は2020年頃まで低迷したが、",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021～23年にかけて高水準が継続",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20242019 2020 2021 2022 2023",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "202420232019 2020 2021 2022",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 2023年の建造ベース",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年４月、三菱重工業の横浜製作所で米海軍・横須賀基地所属のイージス艦の整備を初",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月に補給艦の整備も実施",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年４月、日米首脳会談において、日本の民間施設で前方に展開された米海軍艦船の整備",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 2005 2010 2015 2020 2025 2030",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的な船舶の建造需要の増加が見込まれる一方で、我が国船舶産業の技術・供給基盤は盤石とはいえず、",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月19日",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外航 日本人 ０.２万人（2023年10月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人 ５.４万人（2023年7月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年）暦年",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2023年竣工船（隻数ベース）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2024年12月）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：IHS Markit （建造量）、Clarkson （海上荷動量） ※海上荷動量はトンベースであり、2024年は推計値",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界的に建造需要が低迷する中、中国が建造量を維持しシェアを増大する一方、日本は2019年以",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③造船業における人材の確保・育成 令和７年度要求額：１３７百万円（令和６年度予算額： ５９百万円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度要求額：２２０百万円",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５か年国庫債務負担行為総額１０,５８５百万円）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "● 一方、人口減少に伴い、造船・舶用事業者の人手不足はさらに深刻化していく",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足への対応 ・船舶の効率的な建造 ・国際競争力の強化",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の人口減少に伴い、造船業では若年層を中心に人手不足が",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sajn.or.jp/info/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sajn.or.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00600300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logishift.net/gov/mlit-maritime-report-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/k-toukei/zousensokuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00600300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/kanto/content/000364784.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en/full-report/component-5.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jittiusa.org/jittijournal-1/japan%E2%80%99s-initiatives-on-revitalizing-the-shipbuilding-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/8888/shipbuilding-industry-in-japan/?srsltid=AYCX9vLEzFGBlLX7Bsqse1py4U8EEIOYDzAbn8P3sTemT6g2HnBZJw7T",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.breakwaveadvisors.com/insights/2025/10/30/japans-shipbuilding-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://capitallinkshipping.com/japan-targets-18m-gross-tons-of-shipbuilding-capacity-within-10-years/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 人手不足 受注 断る",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://logishift.net/gov/mlit-maritime-report-2026/"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 受注残 人手不足",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 人手不足 損失 億円",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 推移",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 統計 PDF",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 従業者規模別",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 1人当たり 万円",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） 2015 2025",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf"
+   ]
+  },
+  {
+   "query": "Japan shipbuilding workforce actual annual MLIT maritime report SAJ Japan statistics",
+   "results": [
+    "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en/full-report/component-5.html",
+    "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
+    "https://www.jittiusa.org/jittijournal-1/japan%E2%80%99s-initiatives-on-revitalizing-the-shipbuilding-industry",
+    "https://www.statista.com/topics/8888/shipbuilding-industry-in-japan/?srsltid=AYCX9vLEzFGBlLX7Bsqse1py4U8EEIOYDzAbn8P3sTemT6g2HnBZJw7T",
+    "https://www.breakwaveadvisors.com/insights/2025/10/30/japans-shipbuilding-industry",
+    "https://capitallinkshipping.com/japan-targets-18m-gross-tons-of-shipbuilding-capacity-within-10-years/",
+    "https://www.brsshipbrokers.com/en/news/japan-s-shipbuilding-industry-reaction-to-maintain-its-global-orderbook-share-consolidation-and-modernization",
+    "https://www.spf.org/iina/en/articles/kawakami_08.html",
+    "https://www.lowyinstitute.org/the-interpreter/japan-aims-for-a-shipbuilding-revival",
+    "https://www.mlit.go.jp/maritime/content/001912014.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+   "results": [
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/loyal_ivy9071/n/n9f8ac4bd7d24",
+    "https://note.com/s_shindan/n/nc2017629c6da",
+    "https://note.com/deltacf/n/nea6920f7f035",
+    "https://note.com/deltacf/n/na8708285e367",
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://note.com/deltacf/n/nc49e89027e4f",
+    "https://note.com/s_shindan/n/nbc95061e458d",
+    "https://note.com/cozyiwasaki/n/n74f63fa91580"
+   ]
+  },
+  {
+   "query": "site:x.com 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+   "results": [
+    "https://x.com/MLIT_JAPAN/status/2107701358241735159",
+    "https://x.com/SolomonSol71488/status/2090409332999438788",
+    "https://x.com/Tokishun1/status/2107811058434052488",
+    "https://x.com/nikkei/status/2090408737374658693",
+    "https://x.com/ship_investor/status/2059589136861028404",
+    "https://x.com/overk0823/status/2022893352929366497",
+    "https://x.com/TDB_PR/status/2034081360839905713"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+   "results": [
+    "https://jp.linkedin.com/company/今治造船（株）",
+    "https://jp.linkedin.com/company/kaijipress",
+    "https://www.linkedin.com/posts/hirofumi-yamamoto-maritime-bridge_〆inside-report-series-3-can-japans-shipbuilding-activity-7326192003526860800-ngba",
+    "https://jp.linkedin.com/posts/正之-塩澤-8aa196140_国交省の最新データから内航海運の船員不足は解消できるのかまーす-海運業の-activity-7303042589786546176-RG-Y",
+    "https://jp.linkedin.com/company/japanmaritimedaily",
+    "https://www.linkedin.com/posts/jrcs-co-ltd_marineday-海の日-海事関係功労者大臣表彰-activity-7097706210337984513-d773",
+    "https://jp.linkedin.com/posts/murata-akiko-村田明子-b7857a333_海事プレス社創立70周年特別企画未来を探せ70の視点海事産業の未来は人々-activity-7471157355632689152-ndhS"
+   ]
+  },
+  {
+   "query": "site:facebook.com 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）",
+   "results": [
+    "https://www.facebook.com/marinenet.tokyo/posts/1533885686691096/",
+    "https://www.facebook.com/kinkikaiji/photos/海事レポート2014冊子が入荷しました国土交通省海事局のホームページに掲載の海事レポート2014の冊子です少しですが在庫もあるので興味のある方はお電話ください-/443467045794559/",
+    "https://www.facebook.com/kinkikaiji/photos/日本海事新聞-電子版-httpswwwjmdcojp2025年10月01日-デイリー版2面-外航全般-より国交省海事局海事レポート2025海事分野の最新情報を紹/1223317776500110/",
+    "https://www.facebook.com/JapanMaritimeDaily/photos/2026年03月23日付のヘッドライン第2回造船wglng船建造-国支援を船舶修繕国際戦略官民投資工程表策定へ解説造船サイドは慎重内航海運の標準的な考え方適切な/1583781950422353/",
+    "https://www.facebook.com/japanplanninginstitute/posts/️造船レポートjpi日本計画研究所ウィークリーニュース-2026721号️造船業は再び世界で戦えるのか脱炭素自動化時代に問われる海洋産業の競争力日本は海運と造船/1658073486319645/",
+    "https://www.facebook.com/SankeiShimbun/posts/日本の船は日本で-造船業再生へ政府検討会開催国土交通省と内閣府は23日造船業再生に向けた検討会の初会合を行った今後10年間の官民投資のロードマップ行程表を年内に/1320725056759502/",
+    "https://www.facebook.com/grasp.mlit/photos/vol60-造船所のある街そこで働く人々最近注目の造船を特集️長年国内外の船主向けの新造船営業に従事され培った営業の視点を生かしグループの成長戦略を練る今治造船/903524102072220/"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） note 社長",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57） X 投稿",
+   "results": [
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://sajn.or.jp/info/page/2/",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf",
+    "https://www.e-stat.go.jp/statistics/00600300"
+   ]
+  },
+  {
+   "query": "Japan shipbuilding workforce actual annual MLIT maritime report SAJ site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/yuki-inoue-37a527286",
+    "https://www.linkedin.com/posts/japanmaritimedaily_shipbuilding-shipping-maritime-activity-7413796013326532609-UIzN",
+    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
+    "https://jp.linkedin.com/in/hideaki-saito-7a849713",
+    "https://jp.linkedin.com/in/shin-imai-aab8175b",
+    "https://ky.linkedin.com/company/japan-marine-united-corporation",
+    "https://www.linkedin.com/pulse/japans-shipbuilding-industry-capacity-constraints-structural-liu-wkfpe",
+    "https://www.linkedin.com/posts/japanmaritimedaily_shipbuilding-saj-yukitohigaki-activity-7408680202349838337-pcf0"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ24頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ24頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ24頁・検索18回）"
+ }
+}
