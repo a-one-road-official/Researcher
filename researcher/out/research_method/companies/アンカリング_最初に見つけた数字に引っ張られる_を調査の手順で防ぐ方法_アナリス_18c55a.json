@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-06T06:10:30.417367+00:00",
+ "researched_at": "2026-11-06T09:45:02.284217+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -89,17 +89,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://anagrams.jp/blog/anchoring-effect/",
+    "url": "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/5458/",
+    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://shinji.design/anchoring-effect-negotiation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
     "status": "ok",
     "method": "http"
    },
@@ -114,17 +114,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
+    "url": "https://tob-research.com/bias-anchoring/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://namikasagara.jp/column/anchoring-effect/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://senkohome.com/cognitive-bias-anchoring/",
+    "url": "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
     "status": "ok",
     "method": "http"
    },
@@ -134,13 +129,13 @@
     "method": "http"
    },
    {
-    "url": "https://thedecisionlab.com/biases/anchoring-bias",
+    "url": "https://senkohome.com/cognitive-bias-anchoring/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167487018304057",
-    "status": "http_403",
+    "url": "https://thedecisionlab.com/biases/anchoring-bias",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -149,19 +144,24 @@
     "method": "browser"
    },
    {
-    "url": "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.tandfonline.com/doi/full/10.1080/12460125.2020.1840705",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/psychology/comments/6nokw2/anchoring_effect_how_the_mind_is_biased_by_first/",
+    "url": "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s42001-021-00158-0",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/anchoring-cognitive-bias/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -175,9 +175,9 @@
     "https://note.com/time_mach_effect/n/na610dbaaf05e",
     "https://note.com/sharalyn/n/n34ea9a77514f",
     "https://note.com/nakanoam/n/nff7e26d46191",
+    "https://note.com/tatsuya_sabato/n/n46e098e008b4",
     "https://note.com/takachaneru/n/nf39b25291052",
     "https://note.com/tatsuya_sabato/n/n2ad977e15a8c",
-    "https://note.com/tatsuya_sabato/n/n46e098e008b4",
     "https://note.com/structuring_labo/n/n19771a167659"
    ]
   },
@@ -193,7 +193,7 @@
     "https://blog.bizboost.co.jp/anchoring-in-marketing",
     "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
     "https://baike.baidu.com/ja/item/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%AA%E3%83%B3%E3%82%B0%E5%8A%B9%E6%9E%9C/1190063",
-    "https://note.com/tad_shimizu/n/n36afd517589f"
+    "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
   {
@@ -204,10 +204,10 @@
     "https://www.kaonavi.jp/dictionary/anchoring-koka/",
     "https://blog.bizboost.co.jp/anchoring-in-marketing",
     "https://corp.miidas.jp/assessment/16044/",
-    "https://cir.nii.ac.jp/crid/1390001205676631808",
     "https://ferret-one.com/blog/anchoring-effect",
     "https://www.jcss.gr.jp/meetings/jcss2016/proceedings/pdf/JCSS2016_OS06-4.pdf",
-    "https://anagrams.jp/blog/anchoring-effect/",
+    "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
+    "https://www.issoh.co.jp/column/details/5458/",
     "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
@@ -220,9 +220,9 @@
     "https://www.kaonavi.jp/dictionary/anchoring-koka/",
     "https://corp.miidas.jp/assessment/16044/",
     "https://smbiz.asahi.com/article/15043967",
+    "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
     "https://ferret-one.com/blog/anchoring-effect",
     "https://dym.asia/media/anchoring-effect/",
-    "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
     "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
@@ -230,15 +230,15 @@
    "query": "anchoring bias analyst research first number prevention",
    "results": [
     "https://thedecisionlab.com/biases/anchoring-bias",
-    "https://www.sciencedirect.com/science/article/abs/pii/S0167487018304057",
     "https://medium.com/illumination/anchoring-bias-how-your-mind-tricks-you-into-wrong-decisions-c60b1ef8728e",
-    "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
     "https://www.tandfonline.com/doi/full/10.1080/12460125.2020.1840705",
-    "https://www.reddit.com/r/psychology/comments/6nokw2/anchoring_effect_how_the_mind_is_biased_by_first/",
+    "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
+    "https://link.springer.com/article/10.1007/s42001-021-00158-0",
     "https://www.ebsco.com/research-starters/social-sciences-and-humanities/anchoring-cognitive-bias/",
+    "https://www.reddit.com/r/psychology/comments/6nokw2/anchoring_effect_how_the_mind_is_biased_by_first/",
     "https://www.suebehaviouraldesign.com/en/blog/anchoring-bias-at-work/",
     "https://www.koji.so/docs/anchoring-bias-research",
-    "https://expectedvalue.co.uk/blog/anchoring-bias/"
+    "https://thedarkbrain.com/knowledge/mind-psychology/cognition-perception/cognitive-biases-decision-errors/anchoring-bias-why-the-first-number-changes-the-decision/"
    ]
   },
   {
@@ -246,13 +246,13 @@
    "results": [
     "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
     "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
-    "https://note.com/sharalyn/n/n34ea9a77514f",
     "https://note.com/structuring_labo/n/nd0ecd5d822b7",
+    "https://note.com/sharalyn/n/n34ea9a77514f",
     "https://note.com/time_mach_effect/n/na610dbaaf05e",
-    "https://note.com/nakanoam/n/nff7e26d46191",
     "https://note.com/takachaneru/n/nf39b25291052",
-    "https://note.com/tatsuya_sabato/n/n2ad977e15a8c",
+    "https://note.com/nakanoam/n/nff7e26d46191",
     "https://note.com/tatsuya_sabato/n/n46e098e008b4",
+    "https://note.com/tatsuya_sabato/n/n2ad977e15a8c",
     "https://note.com/ajidai_sidefire/n/n5e488b3fd2a0"
    ]
   },
@@ -264,11 +264,7 @@
     "https://x.com/coinspace_/status/2085320731370381317",
     "https://x.com/kenjiotsuka1",
     "https://x.com/happygrace82",
-    "https://x.com/KatsuFurukawa",
-    "https://x.com/kaiaikaiaikai/status/2048386604360937776",
-    "https://x.com/h_nakatsugawa/status/2065020008544325726",
-    "https://x.com/takua_scientist/status/2048158268036669469",
-    "https://x.com/spcdaisuke/status/2088561405872230883"
+    "https://x.com/KatsuFurukawa"
    ]
   },
   {
@@ -283,7 +279,7 @@
     "https://jp.linkedin.com/pulse/paper-made-me-rethink-what-reasoning-means-our-sarvex-jatasra-tg11c?tl=ja",
     "https://jp.linkedin.com/pulse/how-do-you-tell-when-leader-crossing-line-matt-strain-knkbc?tl=ja",
     "https://jp.linkedin.com/pulse/storytelling-new-coding-joe-lazer-fka-lazauskas--olhpf?tl=ja",
-    "https://jp.linkedin.com/pulse/comunicano-sports-report-friday-april-10th-2026-andy-abramson-acvlc?tl=ja"
+    "https://jp.linkedin.com/pulse/analyzing-context-engineering-techniques-ai-agents-excel-acharya--p5ljf?tl=ja"
    ]
   },
   {
@@ -296,23 +292,23 @@
     "https://www.facebook.com/fxpedia.mag/posts/fxpediamag-%EF%B8%8E%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8fx%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%AE%E3%81%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A1%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%82%92%E7%9F%A5%E3%82%8B%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%81%A8%E3%81%AF%E6%80%9D%E8%80%83%E3%81%AE%E3%82%AF%E3%82%BB%E3%82%84%E6%80%9D%E3%81%84%E8%BE%BC%E3%81%BF%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A7fx%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E3%81%8B%E3%81%8B/158767026899299/",
     "https://www.facebook.com/reel/565565396632457/",
     "https://www.facebook.com/188634327823098/posts/アンカリング効果例えば大特価️️5000円️500円10分の1の値段になんて言われたら安と思いますよねその前になぜそんな値下がりしたのかという疑問が来る気はする/3499167410103090/",
-    "https://www.facebook.com/groups/590385594369328/posts/36289225694058532/",
     "https://www.facebook.com/sho.yokota2/videos/店舗集客の方法無料チケットやサンプリング施策を成功に導くアンカリング効果と返報性の原理を解説していますマーケティング-行動経済学-アンカリング-返報性の原理-横/1793223132040280/",
-    "https://www.facebook.com/kaoruozawa.icingcookies/videos/マーケティングや行動経済学でいうフレーミング効果見せ方によって印象が変わるアンカリング効果比較対象によって価値の感じ方が変わるっていうんだって絶対覚えらんないわ/1597650841715807/"
+    "https://www.facebook.com/kaoruozawa.icingcookies/videos/マーケティングや行動経済学でいうフレーミング効果見せ方によって印象が変わるアンカリング効果比較対象によって価値の感じ方が変わるっていうんだって絶対覚えらんないわ/1597650841715807/",
+    "https://www.facebook.com/sakaei.tanimura/posts/こらアサヒ世論調査は民意じゃない数字で国民を黙らせる工作だみなさんもう黙っていられないテレビが新聞が毎月のように世論調査を振りかざしてくるあれを民意だと思うなあ/27587320237598137/"
    ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） note 社長",
    "results": [
     "https://note.com/nifty_badger319/n/na479e3873c9d",
-    "https://www.youtube.com/watch?v=22yH5LAFfC8",
     "https://hrmos.co/trend/talent-management/10187/",
     "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
     "https://www.consulnote.com/articles/communication/anchoring-effect-negotiation/",
     "https://www.gklibrarykor.com/ja/article/7116/",
-    "https://www.kaonavi.jp/dictionary/anchoring-koka/",
+    "https://corp.miidas.jp/assessment/16044/",
     "https://www.toshibatec.co.jp/useful/rt/202404-topics03.html",
-    "https://corp.miidas.jp/assessment/16044/"
+    "https://www.kaonavi.jp/dictionary/anchoring-koka/",
+    "https://cir.nii.ac.jp/crid/1390001205676631808"
    ]
   },
   {
@@ -321,12 +317,12 @@
     "https://hrmos.co/trend/talent-management/10187/",
     "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
     "https://www.kaonavi.jp/dictionary/anchoring-koka/",
-    "https://blog.bizboost.co.jp/anchoring-in-marketing",
     "https://corp.miidas.jp/assessment/16044/",
+    "https://blog.bizboost.co.jp/anchoring-in-marketing",
     "https://anagrams.jp/blog/anchoring-effect/",
-    "https://cir.nii.ac.jp/crid/1390001205676631808",
     "https://ferret-one.com/blog/anchoring-effect",
-    "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
+    "https://smbiz.asahi.com/article/15043967",
+    "https://www.jcss.gr.jp/meetings/jcss2016/proceedings/pdf/JCSS2016_OS06-4.pdf",
     "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
@@ -340,9 +336,9 @@
     "https://www.linkedin.com/in/canez-gabrielle",
     "https://www.linkedin.com/in/jesse-itzkowitz",
     "https://uk.linkedin.com/in/tinashe-chiyanike-bb660210a",
+    "https://www.linkedin.com/in/julie-berk-38a98256",
     "https://az.linkedin.com/in/vusalmammadov",
-    "https://www.linkedin.com/posts/artemis-koukounari-228241132_aiinhealthcare-evidencegeneration-rwe-activity-7507729556405960705-DUkE",
-    "https://www.linkedin.com/in/valerie-mok-md-48a243bb"
+    "https://www.linkedin.com/posts/artemis-koukounari-228241132_aiinhealthcare-evidencegeneration-rwe-activity-7507729556405960705-DUkE"
    ]
   }
  ],
@@ -354,6 +350,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T06:10:30.417367+00:00"
 }

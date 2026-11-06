@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-06T06:16:11.562682+00:00",
+ "researched_at": "2026-11-06T09:51:45.215592+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -272,6 +272,12 @@
     "first_seen": "2026-11-06"
    },
    {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "読むときの4つの注意点",
     "url": "https://note.com/joshima_s/n/n04cab9927719",
     "pass": 3,
@@ -310,50 +316,6 @@
    {
     "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "評価には使わず、所在地などで同じ会社かを照合してから読む",
-    "url": "https://note.com/joshima_s/n/n04cab9927719",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています",
-    "url": "https://note.com/joshima_s/n/n04cab9927719",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国税庁の法人番号と照合済みの企業は法人番号も併記されます",
-    "url": "https://kanpou.ai/guide/kessan-kokoku",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -427,6 +389,50 @@
    },
    {
     "quote": "実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります",
+    "url": "https://kanpou.ai/guide/kessan-kokoku",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "評価には使わず、所在地などで同じ会社かを照合してから読む",
+    "url": "https://note.com/joshima_s/n/n04cab9927719",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています",
+    "url": "https://note.com/joshima_s/n/n04cab9927719",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国税庁の法人番号と照合済みの企業は法人番号も併記されます",
     "url": "https://kanpou.ai/guide/kessan-kokoku",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -799,82 +805,32 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/joshima_s/n/n04cab9927719",
+    "url": "https://note.com/kanpo_digest",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/nd51f0232fb3e",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/voe/n/n0a41e90602c4",
+    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/massets/n/nffc5f4a5de92",
+    "url": "https://note.com/iltukun/n/n4737a868a5a8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hourei_ch/n/ne326f7a8adfb",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/phonet_dx/n/n24552e241ef1",
+    "url": "https://note.com/reach_reach/n/n70a6ed31d509",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo/?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/accounting/basic/75448/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://vs-group.jp/startup/goudou/24247.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.moj.go.jp/MINJI/minji81.html",
+    "url": "https://note.com/s_o_0517/n/n51e06bbe1aed",
     "status": "ok",
     "method": "http"
    },
@@ -889,12 +845,7 @@
     "method": "browser"
    },
    {
-    "url": "https://www.keihi.com/column/46364/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
     "status": "ok",
     "method": "http"
    },
@@ -904,7 +855,7 @@
     "method": "http"
    },
    {
-    "url": "https://kanpou.ai/company-notices",
+    "url": "https://kanpou.ai/kessan",
     "status": "ok",
     "method": "browser"
    },
@@ -914,7 +865,17 @@
     "method": "browser"
    },
    {
+    "url": "https://kanpou.ai/company-notices",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://www.kanpo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regbase.jp/en",
     "status": "ok",
     "method": "http"
    },
@@ -924,27 +885,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.mgctrading.co.jp/en/corporate/public_notice/",
+    "url": "https://bizsearch.loreatec.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "url": "https://regbase.jp/en/guides/japanese-official-gazette-company-notices",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://waseda-jp.libguides.com/research-navi/find_govt-cong-docs/en",
+    "url": "https://disclosure2.edinet-fsa.go.jp/weee0060.aspx",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/english/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.lpa-gyosei.com/ja/product-page/japanese-official-gazette-notice-search-kanpo",
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
     "status": "ok",
     "method": "http"
    }
@@ -954,82 +910,66 @@
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） site:note.com",
    "results": [
-    "https://note.com/joshima_s/n/n04cab9927719",
-    "https://note.com/kagawatomo/n/nd51f0232fb3e",
-    "https://note.com/voe/n/n0a41e90602c4",
-    "https://note.com/massets/n/nffc5f4a5de92",
-    "https://note.com/hourei_ch/n/ne326f7a8adfb",
-    "https://note.com/phonet_dx/n/n24552e241ef1",
-    "https://note.com/tatsuya_sabato/n/n91ae51ec6f5b",
-    "https://note.com/winekabuki/n/n7ebe5848b8ad",
-    "https://note.com/junwatanabe72/n/n09d5c61f1255",
-    "https://note.com/vast_cosmos500/n/nedb688812846"
+    "https://note.com/kanpo_digest",
+    "https://note.com/real_ram9758/n/n015e975a7128",
+    "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "https://note.com/iltukun/n/n4737a868a5a8",
+    "https://note.com/reach_reach/n/n70a6ed31d509",
+    "https://note.com/s_o_0517/n/n51e06bbe1aed",
+    "https://note.com/thebuild/n/nc11888b35285"
    ]
   },
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） note",
    "results": [
-    "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "https://kanpou.ai/guide/kessan-kokoku",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://biz.moneyforward.com/accounting/basic/75448/",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://vs-group.jp/startup/goudou/24247.html",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://note.com/joshima_s/n/n04cab9927719",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/"
+    "https://catr.jp/",
+    "https://kanpou.ai/kessan",
+    "https://kaijiwire.jp/",
+    "https://search.npb.go.jp/kanpou/"
    ]
   },
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） やり方",
    "results": [
-    "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "https://kanpou.ai/guide/kessan-kokoku",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://biz.moneyforward.com/accounting/basic/75448/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/"
+    "https://catr.jp/",
+    "https://kanpou.ai/company-notices",
+    "https://kaijiwire.jp/",
+    "https://www.kanpo.go.jp/"
    ]
   },
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） 事例",
    "results": [
-    "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "https://kanpou.ai/guide/kessan-kokoku",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://biz.moneyforward.com/accounting/basic/75448/",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "https://www.keihi.com/column/46364/",
-    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/"
+    "https://catr.jp/",
+    "https://kanpou.ai/company-notices",
+    "https://kaijiwire.jp/",
+    "https://www.kanpo.go.jp/"
    ]
   },
   {
    "query": "how to search official gazette financial statement notices Japan",
    "results": [
+    "https://regbase.jp/en",
     "https://www.npb.go.jp/en/products/gazette/books/kanpo.html",
-    "https://www.mgctrading.co.jp/en/corporate/public_notice/",
-    "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
-    "https://waseda-jp.libguides.com/research-navi/find_govt-cong-docs/en",
-    "https://www.mof.go.jp/english/index.htm",
-    "https://www.lpa-gyosei.com/ja/product-page/japanese-official-gazette-notice-search-kanpo",
-    "https://www.fsa.go.jp/en/",
-    "https://en.wikipedia.org/wiki/Kanp%C5%8D_(Japanese_government_gazette)",
-    "https://www.jpx.co.jp/english/listing/co-search/01.html",
-    "https://regbase.jp/en/guides/japanese-official-gazette-company-notices"
+    "https://bizsearch.loreatec.jp/",
+    "https://regbase.jp/en/guides/japanese-official-gazette-company-notices",
+    "https://disclosure2.edinet-fsa.go.jp/weee0060.aspx",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://www.kanpo.go.jp/"
    ]
   },
   {
    "query": "site:note.com 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）",
    "results": [
-    "https://note.com/fox_ht_music815/n/n44cbdbdbcea5",
     "https://note.com/kanpo_digest",
     "https://note.com/real_ram9758/n/n015e975a7128",
     "https://note.com/oboreru_tanuki/n/n642c3a338568",
@@ -1044,21 +984,28 @@
    "results": [
     "https://x.com/kessan_db",
     "https://x.com/kaijiwire/status/2109843211565109508",
-    "https://x.com/kanpo_blog",
     "https://x.com/kessan_db/status/2078825657963106444",
-    "https://x.com/kessan_db/status/2072273431241068768",
     "https://x.com/Masuoyokota/status/2112087749646074294",
-    "https://x.com/kessan_db/status/2071400460897157183"
+    "https://x.com/kanpo_blog",
+    "https://x.com/kessan_db/status/2071400460897157183",
+    "https://x.com/kessan_db/status/2086666158099587463"
    ]
   },
   {
    "query": "site:linkedin.com 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）",
-   "results": []
+   "results": [
+    "https://jp.linkedin.com/pulse/linkedin検索を攻略人企業投稿の効率的な探し方とコツを整理-嘉一-中島-h75hc",
+    "https://www.linkedin.com/in/davidohyunkwon",
+    "https://de.linkedin.com/in/brian-marren-amct-67544278",
+    "https://jp.linkedin.com/pulse/製薬企業からの医薬品の安全使用取り違え等に関するお知らせ-akira-mori-q356c",
+    "https://uk.linkedin.com/posts/pwc-japan-グループ_内部統制報告書から読み解く子会社管理シリーズ総論-activity-7005689829875204096-Fa2S",
+    "https://www.linkedin.com/posts/nagahirox_僕は企画の趣旨を取り違えていることが結構ある簡単に言えばおっちょこちょい説明書-activity-7276958366986354688-lwAP",
+    "https://pe.linkedin.com/posts/manji-suzuki-7500781_電動キックボードのluup元警視総監が監査役に経産省出身者も-itmedia-activity-7252339024952979456-VvKr"
+   ]
   },
   {
    "query": "site:facebook.com 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）",
    "results": [
-    "https://www.facebook.com/kohki.suda/posts/39669169296064787/",
     "https://www.facebook.com/1725220191025746/",
     "https://www.facebook.com/100050929632349/posts/まいばすけっと-決算公告第14期httpskanpo-kanpoblogjparchives44615315html第14期-決算公告売上高2903億6000万/1297160398658269/",
     "https://www.facebook.com/100050929632349/posts/トヨタ不動産-決算公告第89期httpskanpo-kanpoblogjparchives45054848html第89期-決算公告売上高216億9700万円売/1375183434189298/",
@@ -1071,46 +1018,37 @@
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） note 社長",
    "results": [
-    "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "https://kanpou.ai/guide/kessan-kokoku",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
-    "https://biz.moneyforward.com/accounting/basic/75448/",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/"
+    "https://catr.jp/",
+    "https://kanpou.ai/company-notices",
+    "https://kaijiwire.jp/",
+    "https://www.kanpo.go.jp/"
    ]
   },
   {
    "query": "官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社） X 投稿",
    "results": [
-    "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://biz.moneyforward.com/accounting/basic/75448/",
-    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
-    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/"
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "https://kanpou.ai/guide/kessan-kokoku",
+    "https://catr.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "https://kanpou.ai/company-notices",
+    "https://kaijiwire.jp/",
+    "https://www.kanpo.go.jp/"
    ]
   },
   {
    "query": "how to search official gazette financial statement notices Japan site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/tushaar-talwar_gazette-tracker-indian-e-gazette-search-activity-7435379875592486912-NSOo",
-    "https://uk.linkedin.com/company/the-official-gazette",
-    "https://www.linkedin.com/posts/deepali-nirmal-57743328_compliance-businessowners-india-activity-7467932602390376448-7SOr",
-    "https://www.linkedin.com/posts/drksravichandran_ministry-of-law-and-justice-this-post-is-activity-7499672647128145920-g15M",
-    "https://in.linkedin.com/in/kartheek-pujari-6a14441b2",
-    "https://www.linkedin.com/posts/ramgopalrao_bits-bitsjubilee-education-activity-7259757937680621568-BKpU",
-    "https://www.linkedin.com/posts/premier-kaikei-llp_premierkaikei-asu202309-asc740-activity-7505757477074915328-NMFO",
-    "https://www.linkedin.com/in/gurleen-singh-454a80a5",
-    "https://sg.linkedin.com/in/chee-kah-chan-7275ab219",
-    "https://www.linkedin.com/in/ritamin"
+    "https://in.linkedin.com/company/financial-services-agency-japan",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7459826457888989184/",
+    "https://www.linkedin.com/posts/tokyoglobal_japan-business-liquidation-of-dormant-company-activity-7287066855129653249-68u6",
+    "https://in.linkedin.com/company/the-official-gazette",
+    "https://jp.linkedin.com/company/quickcorp",
+    "https://np.linkedin.com/company/financialnotices",
+    "https://pe.linkedin.com/pulse/financial-technology-frontiers-gazette-fintechfrontiers-nt16f"
    ]
   }
  ],
@@ -1118,35 +1056,13 @@
  "new_this_run": {
   "失敗・落とし穴": [
    {
-    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説",
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T23:57:16.028947+00:00"
 }

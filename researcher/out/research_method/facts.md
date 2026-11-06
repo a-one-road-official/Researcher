@@ -863,6 +863,9 @@
 ## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
 - 文脈：凄腕・OSINT
 - 手順・やり方：
+  - 「OSINTフレームワークは次の目的に使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「ソース、ツール、方法、または目標でデータを分類する」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「さらに、OSINTは近年、パブリックドメイン内の情報を安全かつ確実に使用する方法について議論を巻き起こしています」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】 | Octoparse」（https://www.octoparse.jp/blog/what-is-osint）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】」（https://www.octoparse.jp/blog/what-is-osint）
   - 「あわせて、OSINTの土台になる「公開情報を効率的に集める」部分を、手作業に頼らず進める方法（」（https://www.octoparse.jp/blog/what-is-osint）
@@ -875,9 +878,6 @@
   - 「検索エンジンの高度な検索オプションを使いこなすのが基本で、複数の情報源をまとめて調べられる集約型のツールもあります」（https://www.octoparse.jp/blog/osint-tools）
   - 「のがビジネスでの使い方です」（https://www.octoparse.jp/blog/osint-tools）
   - 「ツールが便利になるほど、使い方の線引きが大切になります」（https://www.octoparse.jp/blog/osint-tools）
-  - 「データクレンジングとは？メリット・進め方・おすすめツール7選をわかりやすく解説【2026年】」（https://www.octoparse.jp/blog/osint-tools）
-  - 「データクレンジングとは何かを、目的・メリット・進め方6ステップ・ツールの選び方とおすすめ7選まで解説」（https://www.octoparse.jp/blog/osint-tools）
-  - 「AI時代の自動化や、収集の段階から汚れを減らす方法（Octoparse）まで、実務目線でわかりやすくまとめました」（https://www.octoparse.jp/blog/osint-tools）
 - 突き合わせ・推定：
   - 「いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです」（https://www.octoparse.jp/blog/what-is-osint）
   - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、」（https://www.octoparse.jp/blog/what-is-osint）
@@ -3208,7 +3208,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -3855,22 +3855,27 @@
 ## IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）（IFCN fact-checking steps rating definitions numbers claims methodology）
 - 文脈：
 - 手順・やり方：
+  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックには、さまざまなステップや方法があります」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ここでは、具体的な方法を見ていきましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「LLMOモニタリングの手順と計測設計とは？【AI引用率を月次で追う実践ガイド】」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「AISoVスコアとは？AI検索での自社シェアを数値化する計測方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「SEOに強いタイトルの付け方！文字数の目安やクリック率を高める手順をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「コンテンツSEOとは？コンテンツマーケティングとの違いや効果・やり方を事例で解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Copilot（コパイロット）の使い方を分かりやすく解説！無料版の始め方からMicrosoft 365での活用事例まで」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「をいい、過去に起こった出来事が典型例です」（https://fij.info/introduction/basic）
   - 「「偉大さ」を客観的に測る指標はなく、人によって「偉大」と評価する基準は異なるので、このような言説は典型的な」（https://fij.info/introduction/basic）
   - 「ほかにも、組織運営や方法論の透明性など、５つの原則が示されています」（https://fij.info/introduction/basic）
   - 「（Standards and Transparency of Methodology）」（https://fij.info/introduction/basic）
-  - 「本ガイドラインは、より良質で信頼されるファクトチェックを普及するために、国際ファクトチェックネットワーク（International Fact-Checking Network、以下「ＩＦＣＮ」）の綱領の趣旨（①非党派性・公正性、②情報源の透明性、③財源と組織の透明性、④方法論の透明性、⑤訂正の公開性）を踏まえて、ファクトチェック記事の作成・発表に関する事項を定めるものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「How to check facts - House of Commons Library」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「The process of fact-checking a statement involves working out whether pieces of information (or facts) in a statement are verifiable and then examining whether other sources confirm or contradict them. The following steps are sourced from several fact-checking organisations, including:」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「The next step involves evaluating a claim and what parts of it are verifiable ‘facts’. Statistics, definitions, quotations and dates can often be verified, whereas conjecture and opinion cannot.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「How to spot spin and inappropriate of statistics」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「Different sources with different but equally valid methods of measuring something come to opposite conclusions; for example, there are」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「It focuses on the methodology of verifying individual reports and images, rather than entire narratives of conflicts or questions.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「Methods to assess text, video and image sources」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「Journalists use a range of methods to assess the authenticity of reports in conflict. The information here is summarised from several sources:」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「How to debunk misinformation coming out of war in Ukraine」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「Ukraine and beyond: How to fact check misleading videos」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
 - 突き合わせ・推定：
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Fact Check ExplorerはGoogleが提供する、世界中のファクトチェック機関による検証記事を検索できるツールです」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「言語を選んで検索できることから、国内はもちろん国際的な情報を検証する際も便利です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「基本的なルール(2) 証拠に基づく検証」（https://fij.info/introduction/basic）
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み」（https://fij.info/introduction/basic）
   - 「世の中に影響を与える言説や情報のうち、真偽が定かでないものや正確さに疑いがあるもの、事実かどうか検証されていないものが、ファクトチェックの対象となります」（https://fij.info/introduction/basic）
@@ -3881,16 +3886,30 @@
   - 「第三者による再検証・再確認が困難な匿名情報源に基づく検証は、極めて例外的です」（https://fij.info/introduction/basic）
   - 「原則として、公開の場で不特定多数に向けて発せられた公益にかかわる言説・情報で、社会的に影響が大きく、真偽検証する意義のあるものを選ぶことになるでしょう」（https://fij.info/introduction/basic）
   - 「通常は、ファクトチェック記事の冒頭で検証対象の言説内容を明示します」（https://fij.info/introduction/basic）
-  - 「それを選択した理由や検証する意義について説明することもあります」（https://fij.info/introduction/basic）
-  - 「その言説・情報の真偽を検証するために必要な事実関係の調査・取材を行います」（https://fij.info/introduction/basic）
-  - 「ファクトチェックを行う人（＝ファクトチェッカー）は、予断を持たずに、公平に、事実かどうかの検証に徹することが求められます」（https://fij.info/introduction/basic）
-  - 「」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「」は、特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹するものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
 - 一次情報の探し方：
+  - 「公的機関や報道機関が発信している情報と照らし合わせてみましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「政府や官公庁、地方自治体、国内外の研究機関、学術論文データベース、公的な国際機関など」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックをする上で欠かせないのが、「一次情報」の存在です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報とは、自分が直接したり、調査したりした情報を指します」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「具体的には、以下のようなものが一次情報に分類されます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックをする際は、可能な限り一次情報を参考にしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「「一次情報を元にしているコンテンツ＝正しい情報」とは限らない」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「そのため、一次情報そのものとしっかり見比べて真意を確認するようにしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「統計データや事件・事故の続報、進行中の出来事など状況が変化しやすい事象は、調査を繰り返す過程で記録が変わっている可能性もあります」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「（2019年4月2日公開）を採用します」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
   - 「＜2019/08/11＞Waseggにおけるファクトチェック・ガイドラインとして、FIJが策定したガイドラインを採用」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
   - 「We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
 - 失敗・落とし穴：
+  - 「不確かな情報を発信しないように注意し、常に正しい情報を発信する」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「注意すべきは、」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「なお、ここで注意したいのが」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ただし、現時点では日本の情報環境に特化している点には注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
   - 「この点について、国際ファクトチェックネットワーク（ＩＦＣＮ）が具体的な注意点をまとめた記事を発表していますので、ご一読をおすすめします（主に政治家の言説をファクトチェックすることを念頭に書かれていますが、ファクトチェック全般に共通した注意点も含まれています）」（https://fij.info/introduction/basic）
   - 「ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
@@ -3898,26 +3917,22 @@
   - 「一部は不正確だが、主要な部分・根幹に誤りはない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
   - 「誤りと証明できないが、証拠・根拠がないか非常に乏しい」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
   - 「全て、もしくは根幹部分に事実の誤りがある」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「全て、もしくは根幹部分に事実の誤りがあり、事実でないと知りながら伝えた疑いが濃厚である」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「誤りの可能性が強くはないが、否定もできない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「何が事実で何がそうでないのか、情報の（不）正確性を可視化し、一般の人々に注意喚起をする機能がある」（https://www.nposfss.com/cat7/kikan45_p01.html）
-  - 「ガイドラインでは、「誤り」「不正確」「ミスリード」「根拠不明」といった用語と定義を定めたレーティング基準を作り、推奨している」（https://www.nposfss.com/cat7/kikan45_p01.html）
 - 実例：
-  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み」（https://fij.info/introduction/basic）
-  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
-  - 「そのようなケースでは、」（https://fij.info/introduction/basic）
-  - 「事実調査の結果を踏まえて、対象言説について「正確」か「不正確」か、「ミスリード」か、といった判定を行うことになります」（https://fij.info/introduction/basic）
-  - 「レーティングは、読者に対してわかりやすくファクトチェック結果を伝える意義があるものの、強い印象を与える要素ですので、判断基準を明確化しておく必要があります」（https://fij.info/introduction/basic）
-  - 「」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「４ 以上の定義に基づきファクトチェックの結果を発表したもので、次の３つの要素を含むものを「」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「検証の結果、どのような事実を認定し、どのような結論に至ったのか、対象言説の真実性・正確性についていかなる評価・判定（レーティング）をしたのか、を明示するものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「Fact-checking is the process of verifying the accuracy of reporting or statements. It often involves tracing the origin of a statement back to its original source (for example, a piece of research) and considering its original context, or comparing reporting in one source with the reporting in another (for example, multiple witness accounts of the same event).」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「For example, the UK’s largest independent fact-checking organisation」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「Full Fact highlights that, in some cases,」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「For example, if someone claimed an expert said a policy would damage the economy, a fact-checker could contact that expert and see if that is what they said.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「For example, if someone claims unemployment is high, a fact-checker could refer to a reputable source of labour market data, such as the Office for National Statistics. To check whether unemployment is “high”, the fact-checker might compare the unemployment rate to historical data or comparable data in other countries.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「It is difficult or impossible to collect data that could confirm or refute it; for example, data on the effect of a policy before it has come into force.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
-  - 「It would be unethical to collect the data; for example, testing the efficacy of a life-saving drug by denying it to one group and seeing if they live as long as the group taking it.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「実際、悪意のある偽情報や、差別を助長しかねないプロパガンダ（政治的宣伝）は急増しており、一般ユーザーが知らないうちに情報操作されているケースも見られます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「著名人や政治家の画像を使って、あたかも本人が話しているような映像が配信された事例もありました」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「新聞や雑誌、テレビなどのマスコミでは、制作側があらかじめファクトチェックを施すケースがほとんどです」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一方で、個人が発信するSNSやブログ、クチコミサイトなどではそのようなチェック体制が整っていないケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックのためのリソースがない、情報の真意を確かめるスキルがない、というケースもあるでしょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「例えば、非営利団体「FIJ」では「ファクトチェック・ナビ」というサービスを提供しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「情報の中には引用や要約、翻訳の過程で元の文脈から内容が大きく乖離してしまうケースが少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「国内外のファクトチェック事例や、メディアリテラシーに関する情報を収集・公開しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックの結果を確認できる記事もあるので、トレンドになっている情報の正確性を確認する際に活用しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「製造業のLLMO対策事例｜AI検索で引き合いを増やした具体的な施策」（https://fungry.co.jp/cnaps/blog/fact-check/）
 
 ## 政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計）（Japanese government statistics notes on use series break retroactive revision symbols）
 - 文脈：
@@ -4464,6 +4479,7 @@
 ## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
 - 文脈：推定
 - 手順・やり方：
+  - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「SaaS CAC Ratio | How to Calculate and Why It Matters」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「How to Calculate Your Renewal and Upsell Rate」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「The Rule of 40 SaaS | How to Calculate and Why It Matters in 2025? (Updated)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
@@ -4478,11 +4494,11 @@
   - 「How to Move Your Number」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「How to Calculate the Burn Multiple」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 突き合わせ・推定：
   - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
   - 「peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.」（https://peppereffect.com/blog/revenue-per-employee-benchmarks）
 - 実例：
+  - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「Department KPI Dashboard Examples by Function」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
   - 「Markup vs Margin Calculator Explained With Real Business Examples」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
@@ -4490,8 +4506,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -4841,6 +4857,9 @@
   - 「Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.」（https://www.flares.tech/sources/competitor-revenue）
 - 失敗・落とし穴：
   - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
+  - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「失敗への懸念を伝え、軌道修正につながったと回答した材料」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
@@ -4856,16 +4875,16 @@
   - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「A commonly used shortcut is to estimate revenue based on the number of employees and average industry revenue-per-employee ratios. For example, if a software company has 100 employees and the industry average revenue per employee is $200,000, a rough estimate would put annual revenue around $20 million.」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
   - 「Learn the PESTLE analysis framework with real industry examples. Evaluate Political, Economic, Social, Technological, Legal & Environmental factors.」（https://vantainsights.com/insights/competitive-analysis-framework）
+  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「実在企業の調査結果やDSSの実績ではありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
@@ -5572,6 +5591,7 @@
 - 失敗・落とし穴：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6731,8 +6751,8 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
