@@ -8,7 +8,7 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-06T17:42:26.075007+00:00",
+ "researched_at": "2026-11-06T22:02:37.261495+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -878,6 +878,36 @@
     "first_seen": "2026-11-06"
    },
    {
+    "quote": "現在進行中の、あるいは将来計画されている大規模な設備投資（新工場の建設、基幹システムの導入、大型店舗の出店など）の概要が記載されています",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「優良企業型（営業CFがプラス、投資CFと財務CFがマイナス）」",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な入手方法は2つあります",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう一つの手軽な入手方法が、",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらの方法も一長一短があるため、自分の目的や習熟度に応じて使い分けることが重要です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践",
     "url": "https://note.com/yoh2619/n/nab63a136eecc",
     "pass": 3,
@@ -1570,6 +1600,232 @@
    {
     "quote": "ネットキャッシュとは？現預金と有利子負債から企業価値を見る方法を解説",
     "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "手順4：出力を一次資料で検証する",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付した企業資料と照らして、①事実誤認がないか ②資料の記載と矛盾する箇所がないか、を指摘してください",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出力された数字を、元のPDFで検証",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：プロンプト⑤（中計とのギャップ）とプロンプト③（セグメント）を実行し、同様に検証",
+    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正しい使い方は、AIの分析を「仮説」として持ち、商談の中で確認する",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIの分析を仮説として持ち、自分の言葉で顧客に確認する",
+    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数百ページの有報の中から必要な情報を正確に拾い上げ、「どこに書いてあったか」を提示しながら答えてくれるため、重要な判断の場面でも回答の信頼性を自分で検証できます",
+    "url": "https://inuiwan.com/archives/3282",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "稼ぎ方から逆算して、求められる人物像を想像します",
+    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本市場でマルチエージェント集約は機能するか【論文検証】",
+    "url": "https://edinetdb.jp/blog/how-to-read-yuho",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、売上は伸びているのに利益が減少している場合、コスト管理に課題があるのではないか、といった仮説を立てることができます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MD&Aは、企業の戦略が単なるお題目でなく、実際のお金の流れとして実行されているかを検証する、決定的な証拠となるのです",
+    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Read each note against last year's: a new policy, a new estimate or a re-sorted line can change a trend without anything changing in the business.",
+    "url": "https://mrchartist.com/learn/start/how-to-read-an-annual-report",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "accountants’ judgment, particularly where estimates and",
+    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "cross-checked through revenue trends, margin movements,",
+    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provisioning estimates.",
+    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "where subjective estimates or high uncertainty materially",
+    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "速報！！キオクシア（285A）決算後 検証編 19時までの情報",
+    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上債権や棚卸資産の増減、支払債務の変動など、運転資本の効率性も同時に検証できます",
+    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「この利益率の話、資料のどこに書いてあった？」の裏取りが数秒で終わる",
+    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This step is important because risk factors tell us what can go wrong with the business. Eventually, I’m doing all this analysis to estimate the intrinsic value of the business. And, the intrinsic value depends as much on downside risk as it does on the future growth factors.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(Z) Based on what has already been uploaded and analyzed by AI, I now ask it to estimate the business’s earnings power and possible growth assumptions.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Instead of calculating valuation manually from scratch, AI estimates it based on sustainable earnings, expected growth, and reasonable return expectations (discount rates).",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "I want AI to base its valuation estimates on the company’s actual financial performance rather than market price movements.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use the financial performance data already analyzed (profitability, return ratios, balance sheet strength, and cash flows) to estimate the company’s intrinsic value.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Estimate a reasonable long-term growth assumption based on the business and industry context.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. Estimate intrinsic value using a simple earnings power or long-term valuation approach.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For me, using AI in annual report analysis is about clarity. I do it to speed up my reading process, but it also about enhanced clarity. This is very important for me because all the perspective is used to eventually estimate the intrinsic value.",
+    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui",
+    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th",
+    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov",
+    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you unde",
+    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf",
+    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o",
+    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Master the Art of Reading Annual Reports - InvestopediaHow to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by lookin",
+    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business performance",
+    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor GuideHow to Read Company Annual Reports: A Practical Workflow — Apr 19, 2024 · Learn how to read a",
+    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -2284,62 +2540,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui",
-    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th",
-    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov",
-    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you unde",
-    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf",
-    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o",
-    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Master the Art of Reading Annual Reports - InvestopediaHow to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by lookin",
-    "url": "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business performance",
-    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor GuideHow to Read Company Annual Reports: A Practical Workflow — Apr 19, 2024 · Learn how to read a",
-    "url": "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
@@ -2391,6 +2591,18 @@
    },
    {
     "quote": "高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです",
     "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -2833,176 +3045,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "手順4：出力を一次資料で検証する",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "添付した企業資料と照らして、①事実誤認がないか ②資料の記載と矛盾する箇所がないか、を指摘してください",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出力された数字を、元のPDFで検証",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：プロンプト⑤（中計とのギャップ）とプロンプト③（セグメント）を実行し、同様に検証",
-    "url": "https://note.com/irshukatsu/n/nec2070d76e3c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "正しい使い方は、AIの分析を「仮説」として持ち、商談の中で確認する",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIの分析を仮説として持ち、自分の言葉で顧客に確認する",
-    "url": "https://note.com/f_bby__shota/n/nee46643ea909",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数百ページの有報の中から必要な情報を正確に拾い上げ、「どこに書いてあったか」を提示しながら答えてくれるため、重要な判断の場面でも回答の信頼性を自分で検証できます",
-    "url": "https://inuiwan.com/archives/3282",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "稼ぎ方から逆算して、求められる人物像を想像します",
-    "url": "https://note.com/company_jobhunt/n/nfee32d55b15c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本市場でマルチエージェント集約は機能するか【論文検証】",
-    "url": "https://edinetdb.jp/blog/how-to-read-yuho",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、売上は伸びているのに利益が減少している場合、コスト管理に課題があるのではないか、といった仮説を立てることができます",
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "MD&Aは、企業の戦略が単なるお題目でなく、実際のお金の流れとして実行されているかを検証する、決定的な証拠となるのです",
-    "url": "https://kaikeishien.com/yukashoken-hokokusho-yomikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Read each note against last year's: a new policy, a new estimate or a re-sorted line can change a trend without anything changing in the business.",
-    "url": "https://mrchartist.com/learn/start/how-to-read-an-annual-report",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "accountants’ judgment, particularly where estimates and",
-    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "cross-checked through revenue trends, margin movements,",
-    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "provisioning estimates.",
-    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "where subjective estimates or high uncertainty materially",
-    "url": "https://finxl.in/blogs/how-to-analyze-an-annual-report.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "速報！！キオクシア（285A）決算後 検証編 19時までの情報",
-    "url": "https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上債権や棚卸資産の増減、支払債務の変動など、運転資本の効率性も同時に検証できます",
-    "url": "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「この利益率の話、資料のどこに書いてあった？」の裏取りが数秒で終わる",
-    "url": "https://mitena.co.jp/n-nisa/notebooklm-stock-investment/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This step is important because risk factors tell us what can go wrong with the business. Eventually, I’m doing all this analysis to estimate the intrinsic value of the business. And, the intrinsic value depends as much on downside risk as it does on the future growth factors.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(Z) Based on what has already been uploaded and analyzed by AI, I now ask it to estimate the business’s earnings power and possible growth assumptions.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Instead of calculating valuation manually from scratch, AI estimates it based on sustainable earnings, expected growth, and reasonable return expectations (discount rates).",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "I want AI to base its valuation estimates on the company’s actual financial performance rather than market price movements.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use the financial performance data already analyzed (profitability, return ratios, balance sheet strength, and cash flows) to estimate the company’s intrinsic value.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Estimate a reasonable long-term growth assumption based on the business and industry context.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. Estimate intrinsic value using a simple earnings power or long-term valuation approach.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For me, using AI in annual report analysis is about clarity. I do it to speed up my reading process, but it also about enhanced clarity. This is very important for me because all the perspective is used to eventually estimate the intrinsic value.",
-    "url": "https://getmoneyrich.com/how-to-us-ai-to-read-annual-reports-faster-and-do-fundamental-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -3059,12 +3101,12 @@
     "method": "http"
    },
    {
-    "url": "https://irnote.com/?gs=4cad6a96ca4429f703f875c46a7c8a30",
+    "url": "https://irnote.com/?gs=7d9bcb817d33c25b6c87c452489702da",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://inuiwan.com/archives/3282",
+    "url": "https://note.com/ai_unilife_hack/n/ndacc8e072483",
     "status": "ok",
     "method": "http"
    },
@@ -3094,7 +3136,7 @@
     "method": "http"
    },
    {
-    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -3109,7 +3151,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inuiwan.com/archives/3282",
     "status": "ok",
     "method": "http"
    },
@@ -3119,17 +3166,7 @@
     "method": "http"
    },
    {
-    "url": "https://shiraberu-note.com/edinet-securities-report-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.quantillium.com/blog/how-to-read-an-annual-report",
+    "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "status": "ok",
     "method": "http"
    },
@@ -3139,9 +3176,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.quantillium.com/blog/how-to-read-an-annual-report",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://online.hbs.edu/blog/post/how-to-read-an-annual-report",
@@ -3149,12 +3186,17 @@
     "method": "http"
    },
    {
-    "url": "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
+    "url": "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zerodha.com/varsity/chapter/read-annual-report-company/",
+    "url": "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
     "status": "ok",
     "method": "http"
    }
@@ -3171,8 +3213,8 @@
     "https://note.com/irshukatsu/n/n426fc7c8c112",
     "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
     "https://note.com/kessancareerlab/n/n3be4fdc2788e",
-    "https://note.com/cheeky_crab838/n/n3787cfe3e506",
     "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://note.com/zz08/n/nd6ec9df79282",
     "https://note.com/tatsuya_sabato/n/nc781e22aa762"
    ]
   },
@@ -3188,7 +3230,7 @@
     "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://note.com/re_birth_ai/n/n0806b0d9ebe0",
     "https://irnote.com/",
-    "https://inuiwan.com/archives/3282"
+    "https://note.com/ai_unilife_hack/n/ndacc8e072483"
    ]
   },
   {
@@ -3197,43 +3239,43 @@
     "https://hokiraon.jp/recroots/column/kessansho",
     "https://kabu.com/kabuyomu/money/1191.html",
     "https://doda.jp/companyinfo/contents/finance/002.html",
-    "https://www.obc.co.jp/360/list/post235",
     "https://note.com/yoh2619/n/nab63a136eecc",
+    "https://www.obc.co.jp/360/list/post235",
     "https://president.jp/category/c05577",
     "https://journal.bizocean.jp/corp08/h03/2552/",
-    "https://growth-insight.net/有価証券報告書（有報）とは？見方・読み方をわ/",
     "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "https://growth-insight.net/有価証券報告書（有報）とは？見方・読み方をわ/",
     "https://inuiwan.com/archives/3282"
    ]
   },
   {
    "query": "有価証券報告書・決算資料から稼ぎ方を読み解く方法 事例",
    "results": [
-    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
-    "https://hokiraon.jp/recroots/column/kessansho",
     "https://www.tkc.jp/consolidate/webcolumn/014513",
     "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://kabu.com/kabuyomu/money/1191.html",
+    "https://hokiraon.jp/recroots/column/kessansho",
     "https://doda.jp/companyinfo/contents/finance/002.html",
     "https://www.fsa.go.jp/policy/kaiji/kaiji.html",
-    "https://www.ey.com/ja_jp/technical/library/info-sensor/2019/info-sensor-2019-06-01",
+    "https://investmentbridge.co.jp/business/ir-consulting/column/securities-report/",
     "https://note.com/yoh2619/n/nab63a136eecc",
-    "https://inuiwan.com/archives/3282"
+    "https://inuiwan.com/archives/3282",
+    "https://worldfinanceedu.com/articles/yuho-reading/"
    ]
   },
   {
    "query": "read annual reports business model analysis",
    "results": [
-    "https://www.quantillium.com/blog/how-to-read-an-annual-report",
     "https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp",
+    "https://www.quantillium.com/blog/how-to-read-an-annual-report",
     "https://www.instagram.com/reel/Daf9AactSET/",
-    "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
     "https://online.hbs.edu/blog/post/how-to-read-an-annual-report",
-    "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
-    "https://zerodha.com/varsity/chapter/read-annual-report-company/",
+    "https://www.reddit.com/r/ValueInvesting/comments/12f33w5/how_do_i_start_understanding_annual_reports/",
     "https://site.financialmodelingprep.com/education/financial-analysis/how-to-analyze-an-annual-report-k-like-an-investor",
+    "https://biz.libretexts.org/Courses/Reedley_College/Operation_of_a_Small_Business_for_College_Students/12%3A_Financial_Statement_Analysis_and_Competitor_Evaluation/12.01%3A_Reading_and_Interpreting_Annual_Reports",
+    "https://medium.com/@jennifinance/how-to-read-a-companys-annual-report-as-an-investor-in-30-minutes-8f4d1251ab66",
     "https://equityanalysislab.com/en/guides/how-to-read-an-annual-report/",
-    "https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/"
+    "https://mrchartist.com/learn/start/how-to-read-an-annual-report"
    ]
   },
   {
@@ -3244,11 +3286,11 @@
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
     "https://note.com/oh_no/n/n66d698e5eb46",
     "https://note.com/kessancareerlab/n/n3be4fdc2788e",
-    "https://note.com/good_dill292/n/nfd93d88b07aa",
-    "https://note.com/tama_salon/n/n7c4d7e7b2f28",
+    "https://note.com/zz08/n/nd6ec9df79282",
     "https://note.com/zaimani_com/n/n55c23417fd36",
-    "https://note.com/olp2017/n/ne86a3fa45995",
-    "https://note.com/tasuto11/n/nde45889dccb0"
+    "https://note.com/tama_salon/n/n7c4d7e7b2f28",
+    "https://note.com/good_dill292/n/n560d89f9a6d8",
+    "https://note.com/tatsuya_sabato/n/na9bc92107c20"
    ]
   },
   {
@@ -3261,9 +3303,9 @@
     "https://x.com/cool_warm",
     "https://x.com/luigi_jpn/status/2116702119046828326",
     "https://x.com/auditinfo",
-    "https://x.com/MoneyHack4649/article/2114349837307326621",
     "https://x.com/luigi_jpn/status/2115347987530678592",
-    "https://x.com/Japan_EY"
+    "https://x.com/Japan_EY",
+    "https://x.com/MoneyHack4649/article/2114349837307326621"
    ]
   },
   {
@@ -3288,10 +3330,10 @@
     "https://www.facebook.com/100063773104000/posts/%E6%9C%AC%E6%97%A5%E7%99%BA%E5%A3%B2%E6%97%AC%E5%88%8A%E7%B5%8C%E7%90%86%E6%83%85%E5%A0%B110%E6%9C%881%E6%97%A5%E5%8F%B7%E2%91%A0%E7%89%B9%E9%9B%86ifrs%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96%E4%BB%BB%E6%84%8F%E9%81%A9%E7%94%A8%E4%BC%81%E6%A5%AD%E3%81%AE%E9%96%8B%E7%A4%BA%E5%88%86%E6%9E%90%E3%81%A7%E3%81%AF%E6%9C%AC%E5%B9%B46%E6%9C%88%E6%9C%AB%E6%99%82%E7%82%B9%E3%81%A7%E3%81%AEifrs%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96%E9%81%A9%E7%94%A8%E6%B8%88%E9%81%A9%E7%94%A8%E6%B1%BA%E5%AE%9A%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%9C%89%E5%A0%B1%E7%AD%89%E3%82%92%E6%8F%90%E5%87%BA%E3%81%97%E3%81%9F%E4%BC%81%E6%A5%AD/1679055850896836/",
     "https://www.facebook.com/yukito.ishiwari/",
     "https://www.facebook.com/p/%E7%AB%B9%E4%B9%8B%E5%86%85%E9%9A%86-1280465727/",
-    "https://www.facebook.com/100064515737150/?locale=bs_BA",
+    "https://www.facebook.com/100064515737150/?locale=ka_GE",
     "https://www.facebook.com/nikkeibpITpro/posts/情報通信企業大手15社の有価証券報告書を読み解き売上高や収益力平均給与などをランキング形式で見ていく第5回は平均勤続年数や平均残業時間有給休暇取得率男性の育児休/1389019073227973/",
-    "https://www.facebook.com/PwCJapan/posts/調査レポート有価証券報告書から読み解くガバナンスとリスクマネジメントの動向2024国内上場企業の取り組みについて有価証券報告書をテキストマイニングで分析コーポレ/917494107073600/",
     "https://www.facebook.com/PwCJapan/posts/5546943048674634/",
+    "https://www.facebook.com/PwCJapan/posts/調査レポート有価証券報告書から読み解くガバナンスとリスクマネジメントの動向2024国内上場企業の取り組みについて有価証券報告書をテキストマイニングで分析コーポレ/917494107073600/",
     "https://www.facebook.com/bizshinkou/",
     "https://www.facebook.com/itabashikigyou/posts/cfoの実践スキルである有価証券報告書の読み方をみっちり学ぶ毎回好評のcfo養成講座オンライン今回は有価証券報告書編を開催しますこれまでの決算書講座を通じて多く/4463804020321000/"
    ]
@@ -3301,29 +3343,27 @@
    "results": [
     "https://note.com/tatsuya_sabato/n/n42cf734362a7",
     "https://note.com/yoh2619/n/nab63a136eecc",
-    "https://note.com/oh_no/n/n66d698e5eb46",
-    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
     "https://note.com/tatsuya_sabato/n/n812e0aaedcab",
-    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
+    "https://www.youtube.com/watch?v=V5J1VOAUMV0",
     "https://note.com/f_bby__shota/n/nee46643ea909",
-    "https://doda.jp/companyinfo/contents/finance/002.html",
-    "https://irnote.com/",
-    "https://inuiwan.com/archives/3282"
+    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
+    "https://note.com/oh_no/n/n66d698e5eb46",
+    "https://note.com/hr793/n/n30b224285b22",
+    "https://www.kotora.jp/c/54203/",
+    "https://note.com/ai_unilife_hack/n/ndacc8e072483"
    ]
   },
   {
    "query": "有価証券報告書・決算資料から稼ぎ方を読み解く方法 X 投稿",
    "results": [
-    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
-    "https://doda.jp/companyinfo/contents/finance/002.html",
-    "https://president.jp/category/c05577",
-    "https://hokiraon.jp/recroots/column/kessansho",
     "https://www.youtube.com/watch?v=9CZJppArjtw",
+    "https://hokiraon.jp/recroots/column/kessansho",
+    "https://president.jp/category/c05577",
+    "https://doda.jp/companyinfo/contents/finance/002.html",
+    "https://www.sompo-ri.co.jp/2026/07/16/23977/",
     "https://kabu.com/kabuyomu/money/1191.html",
-    "https://www.obc.co.jp/360/list/post235",
-    "https://note.com/yoh2619/n/nab63a136eecc",
-    "https://irshukatsu.com/guide",
-    "https://note.com/company_jobhunt/n/nfee32d55b15c"
+    "https://note.com/tatsuya_sabato/n/n42cf734362a7",
+    "https://www.obc.co.jp/360/list/post235"
    ]
   },
   {
@@ -3336,9 +3376,9 @@
     "https://www.linkedin.com/posts/aditya-kondawar-63725570_used-to-spend-a-couple-of-hours-reading-through-activity-7367031920787943424-ONIy",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/how-to-use-financial-statements-for-competitive-analysis/",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/understanding-earnings-reports-for-better-insights/",
-    "https://www.linkedin.com/pulse/how-analyze-annual-reports-investor-presentations-like-adarsh-kumar-tg41c",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/financial-statement-analysis-for-investment-strategies/",
-    "https://www.linkedin.com/posts/hemanth-kumar-5b1a75257_annual-report-analysis-will-never-be-the-activity-7391492068302471168-5pUF"
+    "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/analyzing-financial-statements-for-startups/",
+    "https://www.linkedin.com/pulse/how-analyze-annual-reports-investor-presentations-like-adarsh-kumar-tg41c"
    ]
   }
  ],
@@ -3346,39 +3386,51 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法",
-    "url": "https://president.jp/category/c05577",
+    "quote": "現在進行中の、あるいは将来計画されている大規模な設備投資（新工場の建設、基幹システムの導入、大型店舗の出店など）の概要が記載されています",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "急に｢どう思う?｣と聞かれても困らない…頭の中を｢30秒｣で言語化する方法",
-    "url": "https://president.jp/category/c05577",
+    "quote": "「優良企業型（営業CFがプラス、投資CFと財務CFがマイナス）」",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な入手方法は2つあります",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう一つの手軽な入手方法が、",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらの方法も一長一短があるため、自分の目的や習熟度に応じて使い分けることが重要です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法",
-    "url": "https://president.jp/category/c05577",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "高配当株とは？メリット・注意点をわかりやすく解説",
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説",
     "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります",
+    "quote": "楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです",
     "url": "https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 15,
+ "runs": 16,
  "first_researched_at": "2026-11-05T00:00:33.046062+00:00"
 }

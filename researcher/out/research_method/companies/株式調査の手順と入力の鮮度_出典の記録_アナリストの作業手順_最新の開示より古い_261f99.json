@@ -8,11 +8,16 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-06T17:45:06.563244+00:00",
+ "researched_at": "2026-11-06T22:03:09.196631+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/mich1taro/n/n83261f2e7a2f",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/oh_no/n/nc14ee867fa25",
     "status": "ok",
@@ -29,17 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jdsc/n/n4b61ab11b812",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/tsunobuchi/n/n17982922130d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kntn123/n/n8290537376b7",
+    "url": "https://note.com/go53110/n/ned512025a64c",
     "status": "ok",
     "method": "http"
    },
@@ -64,27 +64,22 @@
     "method": ""
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nbe464973b68a",
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJXKvk3cxnUmguafMRZGldesm7bHpMnt6y8gdRxBuHsfE63wF1E",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJ-6jE99PXmnfO_5APkYQmWw3B14FfL_KZlcp8rPomepBBytV1f",
+    "url": "https://note.com/tsunobuchi/n/nd8ac73e9e841",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vITjr4PB2217m8PAKi26gsegPa8hwH-2i9GS9n586zoMu57WIlI",
+    "url": "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLr4x0SttutmM6jOH6mQFBB-3HBpg9VKHC9IDARv_6jyxawk4AO",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.thesisai.io/ja/blog/how-to-cite-sources-apa-ieee-harvard-oxford-chicago/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "status": "ok",
     "method": "http"
    },
@@ -104,14 +99,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/pdf/r03riyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://ai-revolution.co.jp/media/ai-in-securities/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/pdf/r03riyou.pdf",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.monex.co.jp/",
@@ -124,22 +124,12 @@
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.marvin-labs.com/resources/equity-research-automation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hebbia.com/resources/equity-research-report",
+    "url": "https://www.jpx.co.jp/listing/disclosure/",
     "status": "ok",
     "method": "http"
    },
@@ -149,7 +139,12 @@
     "method": "http"
    },
    {
-    "url": "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
+    "url": "https://www.hebbia.com/resources/equity-research-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marvin-labs.com/resources/equity-research-automation/",
     "status": "ok",
     "method": "http"
    },
@@ -159,7 +154,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.stockrover.com/guide-fundamental-stock-research-workflow/",
+    "url": "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://visualping.io/blog/equity-research-tools",
     "status": "ok",
     "method": "http"
    }
@@ -169,16 +169,16 @@
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） site:note.com",
    "results": [
+    "https://note.com/mich1taro/n/n83261f2e7a2f",
     "https://note.com/oh_no/n/nc14ee867fa25",
     "https://note.com/tatsuya_sabato/n/n6cb897a3b0f2",
     "https://note.com/ideation_/n/nab2fc14e5e47",
-    "https://note.com/jdsc/n/n4b61ab11b812",
     "https://note.com/tsunobuchi/n/n17982922130d",
-    "https://note.com/kntn123/n/n8290537376b7",
+    "https://note.com/go53110/n/ned512025a64c",
+    "https://note.com/aikimi/n/n031c3675c18b",
     "https://note.com/_funeo/n/n239b8ee9cf57",
-    "https://note.com/heroz_ir/n/n6855d64cf6d7",
     "https://note.com/jdsc/n/nb138b1c4131b",
-    "https://note.com/bespokepartner/n/n5204083f2da7"
+    "https://note.com/kntn123/n/n8290537376b7"
    ]
   },
   {
@@ -188,25 +188,26 @@
     "https://note.com/sakaimisato/n/n806c4ab2f9c8",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://go.microsoft.com/fwlink/?linkid=2362208&clcid=0x411&culture=ja-jp&country=jp",
-    "https://note.com/tsunobuchi/n/nbe464973b68a",
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJ-6jE99PXmnfO_5APkYQmWw3B14FfL_KZlcp8rPomepBBytV1f",
-    "https://biz.note.com/n/n17e853b64a52",
-    "https://www.mext.go.jp/b_menu/1351168.htm",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf"
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vJXKvk3cxnUmguafMRZGldesm7bHpMnt6y8gdRxBuHsfE63wF1E",
+    "https://note.com/tsunobuchi/n/nd8ac73e9e841",
+    "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/kabuberry_/n/nce46f6d65d6f",
+    "https://otemachiprep.com/er-001-equity-research/"
    ]
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） やり方",
    "results": [
-    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vITjr4PB2217m8PAKi26gsegPa8hwH-2i9GS9n586zoMu57WIlI",
+    "https://www.usaco.co.jp/endnote/reference_report.html?srsltid=AYCX9vLr4x0SttutmM6jOH6mQFBB-3HBpg9VKHC9IDARv_6jyxawk4AO",
     "https://www.thesisai.io/ja/blog/how-to-cite-sources-apa-ieee-harvard-oxford-chicago/",
-    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
     "https://www.enago.jp/academy/cite-doi-journal-article/",
     "https://guides.lib.kyushu-u.ac.jp/citation-guide/page5",
-    "https://www.env.go.jp/mail.html",
-    "https://waseda-jp.libguides.com/research-navi/howto_sanko",
     "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/pdf/r03riyou.pdf",
+    "https://paperpal.com/ja/blog/news-updates/product-updates/reference-checker-verify-citations-before-you-submit",
+    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
+    "https://waseda-jp.libguides.com/research-navi/howto_sanko",
     "https://otemachiprep.com/er-001-equity-research/"
    ]
   },
@@ -215,28 +216,27 @@
    "results": [
     "https://ai-revolution.co.jp/media/ai-in-securities/",
     "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/pdf/r03riyou.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.monex.co.jp/",
     "https://www.matsui.co.jp/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
     "https://www.jpx.co.jp/listing/disclosure/",
     "https://app.exroad.jp/research/archived-data?id=748",
-    "https://www.sc.mufg.jp/index.html",
-    "https://otemachiprep.com/er-001-equity-research/"
+    "https://www.sc.mufg.jp/index.html"
    ]
   },
   {
    "query": "equity research workflow source tracking stale inputs checklist",
    "results": [
-    "https://www.marvin-labs.com/resources/equity-research-automation/",
-    "https://www.hebbia.com/resources/equity-research-report",
     "https://www.kingstonautomation.com/workflows/investment-research",
-    "https://equityanalysislab.com/en/investor-decision-making/research-workflows/",
+    "https://www.hebbia.com/resources/equity-research-report",
+    "https://www.marvin-labs.com/resources/equity-research-automation/",
     "https://grata.com/features/industry-research/private-equity-research",
-    "https://www.stockrover.com/guide-fundamental-stock-research-workflow/",
-    "https://reasonabledeviations.com/2020/08/20/investing-checklist/",
-    "https://visualping.io/blog/equity-research-tools",
     "https://www.linkedin.com/pulse/ai-equity-research-how-investment-teams-automating-i6pbc",
+    "https://visualping.io/blog/equity-research-tools",
+    "https://reasonabledeviations.com/2020/08/20/investing-checklist/",
+    "https://www.stockrover.com/guide-fundamental-stock-research-workflow/",
+    "https://www.alpha-sense.com/resources/equity-research-guide/",
     "https://www.finmonkeys.com/blog/source-linked-stock-research-workflow"
    ]
   },
@@ -259,11 +259,11 @@
    "query": "site:x.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
     "https://x.com/hukugyootaku/status/2034836262776115494",
-    "https://x.com/timeismoney55/status/2034585686792396842",
     "https://x.com/timeismoney55/status/2099771123059884425",
-    "https://x.com/3daysbozu/status/2023867801849786652",
     "https://x.com/2okutameo/status/2051852980727828951",
-    "https://x.com/sora_ai_invest/status/2096525931590631575",
+    "https://x.com/3daysbozu/status/2023867801849786652",
+    "https://x.com/timeismoney55/status/2034585686792396842",
+    "https://x.com/daifukujinji/status/2066626820859207771",
     "https://x.com/timeismoney55/status/2033099057220989351",
     "https://x.com/Amayal68/status/2055878025192112222"
    ]
@@ -271,8 +271,8 @@
   {
    "query": "site:linkedin.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
-    "https://jp.linkedin.com/pulse/equity-research-basics-bhavya-singhare?tl=ja",
     "https://jp.linkedin.com/pulse/equity-research-in-depth-guide-aditi-singh-tharran-y1p7c?tl=ja",
+    "https://jp.linkedin.com/pulse/equity-research-basics-bhavya-singhare?tl=ja",
     "https://jp.linkedin.com/pulse/10-steps-becoming-equity-research-analyst-hemangi-bhuva-asqlf?tl=ja",
     "https://jp.linkedin.com/pulse/art-science-financial-statement-analysis-equity-hemangi-bhuva--vifaf?tl=ja",
     "https://jp.linkedin.com/pulse/equity-research-from-traditional-valuation-0kwtf?tl=ja",
@@ -283,24 +283,24 @@
   {
    "query": "site:facebook.com 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）",
    "results": [
-    "https://www.facebook.com/wirelesspressurewasher/",
     "https://www.facebook.com/p/株式市場アナリスト-100049616126202/",
+    "https://www.facebook.com/wirelesspressurewasher/",
     "https://www.facebook.com/rheos.capital.works/posts/ひふみアカデミー-のあとはアナリスト調査最前線公開国内株式戦略部-fm内藤が昨年12月に訪問したオーストラリア出張で見つけた投資アイデアをプレゼンオーストラリア/1005184171527896/",
-    "https://www.facebook.com/SAAJ1962/photos/new講演会オンライン配信情報会員資格者はログインで無料視聴できます-コロナ後の株式市場見通しと企業経営の課題-講師菊地-正俊-氏-cmaみずほ証券株式会社-エ/2999737080315673/",
+    "https://www.facebook.com/monex.jp/posts/2688998761168259/",
     "https://www.facebook.com/monex.jp/posts/2730353700366098/",
-    "https://www.facebook.com/61592502610814/videos/1747484576599738/",
-    "https://www.facebook.com/61592505311021/videos/2540254199758222/"
+    "https://www.facebook.com/ntaapage/photos/ntaa会員限定現在公開中のセミナー動画案内です研究セミナートレンド分析オシレーター分析の基本計算方法から長所短所の整理と考え方講師野坂-晃一氏-証券ジャパン-/3443033702407474/",
+    "https://www.facebook.com/AoyamaBS/photos/授業内講演木野内-栄治さん2026年7月1日企業分析とファンドマネジメントシミュレーション担当森田充教授吉野貴晶客員教授では大和証券-チーフテクニカルアナリスト/1847839979894040/"
    ]
   },
   {
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） note 社長",
    "results": [
+    "https://note.com/kabuberry_/n/nce46f6d65d6f",
     "https://note.com/sakaimisato/n/n806c4ab2f9c8",
     "https://biz.note.com/n/n17e853b64a52",
-    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
-    "https://note.com/tsunobuchi/n/nd8ac73e9e841",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://japan.eb.com/rg/article-04583800",
+    "https://note.com/tsunobuchi/n/nd8ac73e9e841",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
     "https://report.prism-ai.jp/thesis-writing-note-citation/",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
@@ -311,13 +311,13 @@
    "query": "株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない） X 投稿",
    "results": [
     "https://note.com/ogataka/n/n51f144be23b1",
-    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
-    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://go.microsoft.com/fwlink/?linkid=2362208&clcid=0x411&culture=ja-jp&country=jp",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vItd-QSi7GM50NRnJsRsByyr02snXG55bIiFwgJoKiJW-n8jHZ_",
-    "https://rs.usaco.co.jp/column/editage/how-to-43.html",
+    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJgun4N0_VyKq3LTJwTYKiLG26avM6NDMlokS_9Zubpp-D1UKJs",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088",
     "https://www.mieruka-engine.com/media/twitter-ansys",
+    "https://rs.usaco.co.jp/column/editage/how-to-43.html",
     "https://neith-inc.com/articles/marketing/sns/1225/",
     "https://otemachiprep.com/er-001-equity-research/"
    ]
@@ -326,15 +326,15 @@
    "query": "equity research workflow source tracking stale inputs checklist site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/iaincarey_ai-and-equities-research-is-becoming-common-activity-7513956382220521473-0zVv",
-    "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/how-to-track-processes-in-u-s-manufacturing/",
     "https://uk.linkedin.com/in/alexander-walsh",
+    "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/how-to-track-processes-in-u-s-manufacturing/",
+    "https://www.linkedin.com/in/peter-lau-592608115",
+    "https://uk.linkedin.com/company/third-bridge",
+    "https://www.linkedin.com/in/vikram-malhotra-6581b1a",
     "https://www.linkedin.com/top-content/finance/financial-analysis-techniques/filters-to-evaluate-financial-information/",
     "https://www.linkedin.com/jobs/equity-research-analyst-jobs",
-    "https://ro.linkedin.com/company/investment-reports",
-    "https://www.linkedin.com/pulse/5-sources-investing-edge-matter-gary-mishuris-cfa-kaove",
-    "https://www.linkedin.com/pulse/gen-ai-business-90-happy-new-year-eugina-jordan-spqge",
-    "https://uk.linkedin.com/company/source-global-research",
-    "https://de.linkedin.com/showcase/deutsche-bank-investment-bank/"
+    "https://de.linkedin.com/showcase/deutsche-bank-investment-bank/",
+    "https://ro.linkedin.com/company/investment-reports"
    ]
   }
  ],
@@ -346,6 +346,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-06T05:07:58.073763+00:00"
 }

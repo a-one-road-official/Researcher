@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・141品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・143品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -560,12 +560,12 @@
   - 「クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法」（https://president.jp/category/c05577）
   - 「高配当株とは？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「楽天ポイント投資は意味ある？メリット・注意点をわかりやすく解説「楽天ポイントで投資できるって聞いたけど、本当に意味あるの？」と疑問を持っている方は多いはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「M&A失敗・のれん減損リスク」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「初心者が最初にやるべき失敗は、頭から全部読もうとすることです」（https://note.com/f_bby__shota/n/nee46643ea909）
-  - 「AIの推測をそのまま鵜呑みにするのではなく、どの数字やどの記載から、その推測に至ったのかを確認する習慣をつけることで、自分自身の読解力も同時に鍛えられます」（https://note.com/f_bby__shota/n/nee46643ea909）
 - 実例：
   - 「Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
   - 「特別利益・特別損失とは？純利益への影響と決算での見方を解説「今期は最終利益が大幅増益だったのに、本業はそれほど変わっていない」——決算を見ていて、こうしたケースに出会うことがあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
@@ -597,20 +597,20 @@
 - 文脈：能力
 - 手順・やり方：
   - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
+  - 「「付加価値生産性」（１人当たり付加価値額）を高めるための方策は、「設備集約型企業」であるか「知識集約型企業」であるかによって着眼点が異なります」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「設備集約型企業は省力化投資で付加価値生産性を高めることを考えます」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「知識集約型の会社が付加価値生産性を高めるには、価値を生み出せる人材が多く働いているかどうかがポイントとなります」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「このような知識集約型の会社では、従業員全員が「１人当たり」という視点で会社の数字を考える習慣を定着させることが大切です」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「１人当たり売上高を大きくする方法は、１人当たり労働時間を延ばすか、あるいは、１時間当たり売上高を増やすかのいずれかです」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「How to Calculate Revenue Per Employee」（https://tractian.com/en/glossary/revenue-per-employee）
+  - 「Proactive maintenance eliminates root causes of equipment failure before symptoms appear. Learn core techniques, how it compares to preventive and predictive strategies, and how to implement it.」（https://tractian.com/en/glossary/revenue-per-employee）
+  - 「Pressure testing pressurises a vessel, pipe, or system above operating pressure to verify structural integrity and detect leaks. Covers hydrostatic, pneumatic, and leak test methods.」（https://tractian.com/en/glossary/revenue-per-employee）
+  - 「Process reliability is the probability that a production process performs its intended function consistently without interruption. Learn key metrics, improvement methods, and how it differs from asset reliability.」（https://tractian.com/en/glossary/revenue-per-employee）
   - 「平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「付加価値の計算方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「便宜的な方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「給与や賞与が定期的に上昇し、付加価値とは関係なく決まる年功型給与・賞与は、企業の成長に大きな障害となっています」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「〇企業内講師｜伴走型セミナー」（https://note.com/yajirushi_works/n/nacbfd931b027）
-  - 「What is revenue per employee & how to calculate | HiBob」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
-  - 「How to calculate revenue per employee」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
-  - 「Projected revenue & how to calculate it in SaaS」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
-  - 「Step 1: Pull your revenue figure.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Step 2: Pull your employee count.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Step 3: Define who counts.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Step 4: Divide and interpret in context.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
 - 突き合わせ・推定：
   - 「経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います」（https://d-pops-group.co.jp/column/revenue-per-employee/）
   - 「その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます」（https://d-pops-group.co.jp/column/revenue-per-employee/）
@@ -618,6 +618,8 @@
   - 「M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます」（https://kigyo-scope.jp/glossary/profit-per-employee/）
   - 「peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.」（https://peppereffect.com/blog/revenue-per-employee-benchmarks）
 - 一次情報の探し方：
+  - 「「作って売る！」という製造業は、決算書から外注加工費、材料費、運賃などの外部購入価値を集計したのち、付加価値額（売上高－外部購入価値）を売上高で割ることで付加価値率を計算します」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「「決算書」の読み方と「経営分析」のポイント」（https://note.com/tama_salon/n/nffe68cf5979c）
   - 「備忘録#011｜中小企業庁統計による経営指標」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「企業の決算書に「付加価値」という項目はありません」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料」（https://note.com/yajirushi_works/n/nacbfd931b027）
@@ -631,8 +633,6 @@
   - 「「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
   - 「採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
   - 「決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、」（https://www.mytaxpro.jp/tax-content/258）
-  - 「賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります」（https://www.mytaxpro.jp/tax-content/258）
-  - 「例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます」（https://www.mytaxpro.jp/tax-content/258）
 - 失敗・落とし穴：
   - 「Common Mistakes」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います」（https://note.com/high_city/n/n0bdd75891593）
@@ -651,6 +651,9 @@
   - 「経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです」（https://d-pops-group.co.jp/column/revenue-per-employee/）
 - 実例：
   - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
+  - 「この計算結果が大きいほど、設備投資の効率が良いことを意味します」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「「仕入れて売る！」という卸小売業では売上原価が外部購入価値なので、付加価値額は売上総利益と近い数字になり、結果として、付加価値率は売上総利益率（粗利益率）と近い数字となります」（https://note.com/tama_salon/n/nffe68cf5979c）
+  - 「その結果、仕事とプライベートの両立を実現した健康で充実した幸せな人生を手にすることができるはずです」（https://note.com/tama_salon/n/nffe68cf5979c）
   - 「例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.」（https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/）
@@ -662,9 +665,6 @@
   - 「For example:」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
   - 「Worked Example」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「Example:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
-  - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
 
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
@@ -2720,8 +2720,14 @@
   - 「: Published data might not be the most current, potentially leading to outdated estimates.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
 - 一次情報の探し方：
   - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「A long-standing controversy is whether accounting should follow an “income-statement” or a」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「Every CFO we spoke to laments the FASB’s de-emphasis of the income-statement perspective in」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
   - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
 - 失敗・落とし穴：
+  - 「Although field studies suffer from their own problems (potential response bias, limited data」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「an expert who specializes in survey design and execution. Our goal was to minimize biases induced by」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「4.1 Is managerial discretion in reported earnings used to convey private information or to bias financial」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「efficiency because managers bias financial reports for private gains. Theory (Dye and Verrecchia 1995,」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
   - 「Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
   - 「Understanding Revenue Forecasting: Models, Benefits and Pitfalls」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
   - 「Revenue Projection Pitfalls To Avoid」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
@@ -2730,15 +2736,20 @@
   - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 実例：
   - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「「Not Found」（該当なし）の結果には料金がかからないため、見つからなくてもコストは一切かかりません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「この圧倒的なデータ量があるからこそ、大量処理でも結果が信頼され、G2では1,000件以上のレビューをもとにLeaderとTop Performerのバッジを獲得しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「What Is Firmographic Data? Definition, Examples, and Sources」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「Learn what firmographic data is, with clear examples, the core data points, how it differs from demographic and technographic data, and where to get it.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「結果はExcelにエクスポートすることも、HubSpot、Salesforce、Zohoに直接送信して、すぐにリードスコアリングやセグメント化に活用することもできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「Accounting and operations teams must align for an accurate forecast. For example, companies using the accrual method with long order-to-cash timelines will not have a sales team’s forecast that aligns with the financials unless it takes into account things like contract terms, billing efficiency, etc.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
-  - 「Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
-  - 「Practical Example: Putting It All Together」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
+  - 「process (Dechow, Ge and Schrand, 2009). Examples of such questions include: What opportunities and」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「8b), and in two cases we decided against scrambling because the listed alternatives are organized in」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「firm’s own management, which we initially thought would not be the case given existing arguments that」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「An interviewed CFO in the oil and gas business cites an example of how long term estimates can」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「lead to low earnings quality. In particular, he cites the case of long-term energy contracts for they “are」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「example: “I would've said you are reporting earnings in a way that is consistent with the long-run view of」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「disclosure to clarify the nature of these one time or non-recurring items. One CFO cited the example of a」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「thought was the ultimate case study for managing earnings via artificial smoothing. One CFO mentioned」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「rules, especially with fair value accounting, these ideas are no longer relevant. In many cases “one can」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「companies to be able to communicate the difference between those two. Our company, for example, is」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「noise in financial reports. On the empirical side, there are examples in the literature showing earnings」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「distortions, which can grow to outright manipulation. An often cited example here is Enron’s use of」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「little that business and society can do except understand and acknowledge them. For example, the rise in」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
+  - 「echoed by one CFO who thought that FASB regulation “in some cases it’s tightened up a few slack areas.」（https://www.hbs.edu/faculty/Shared%20Documents/events/11/Earnings%20Quality.pdf）
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
@@ -2864,8 +2875,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -8743,3 +8754,135 @@
   - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「何も決めなかった結果として官報になっている状態です」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
   - 「純資産の部に資本金と利益剰余金が表示されるため、結果として赤字であることは読み取れますが、それを理由に免除されることはありません」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
+
+## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
+- 文脈：推定
+- 手順・やり方：
+  - 「Collection: Methodologies & Working papers」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「The definition of a revision policy at ESS level is an e ssential step towards further harmonisation of infra-annual」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「given on major revisions or changes in methodologies.), Principle 8 "Appropriate Statistical Procedures" (indicator」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「revision policies at Eurostat and Member States level. This has to be performed in a second step.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「⎯ Producers use revision studies to identify particular methods that could be improved or replaced by」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「the introduction of new methodologies, concepts, classifications, etc.;」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「This general policy will also describe reasons for data revisions, how to manage scheduled revisions, and」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「definitions, adoption of new sources, new methods of estimation, innovation, etc.), they should be」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「revision (current revision policy). This method tr ies to avoid unsettling the user with a barrage of new」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「A consistent and coherent framework for all statisti cs, which produces data always in line with all」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「Usually data producers take the opportunity of a forthcoming major revision to introduce methodological」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「series and inform the users. However, a change in the methods specific to a country or a group of」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「strategy, how to communicate in adva nce information on causes and fores een impact of major revisions,」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「releases, should be implemented as soon as possible. When a methodological change is of major」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「relevance for a country, leading to more accurate figures, the country could introduce the methodological」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+- 突き合わせ・推定：
+  - 「values are estimated. Since it is generally the case that the estimated values do not correspond precisely to」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「⎯ Estimates that are not subject to revision could wrongly be cons idered more accurate and reliable」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「⎯ If estimates are affected by sampling or non-samp ling errors, revision analysis cannot definitively」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「demonstrate the accuracy of initial estimates.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「(e.g. estimated values for missing responses are repl aced by reported figures) . Normally, these routine」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「values have to be estimated. Since the estimated va lues normally do not correspond exactly to the late」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「new time series. The documentation shall detail the reasons for the revisions, estimate their impact on the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「identified data vintages. Additionally, when missing obse rvations of particular variables are estimated it」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「of revisions on their estimates and models (e.g. busine ss cycle analysis and forecasts). Hence, statistical」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「first release (a flash estimate) and the second release (a first estimate). This kind of analysis is very」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「important when a flash estimate that is mainly or partly based on an econometric model is released.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「provisional estimates or flash estimates has to be assessed」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「(b) ‘accuracy’, which refers to the closeness of estimates to the unknown true values;」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
+  - 「Finally, the model used in compiling survey estimates may not reflect reality in which case there is a」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
+  - 「yet much used in the ESS. There is no or little theory to back up estimates from such surveys.」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
+- 一次情報の探し方：
+  - 「new data extracted from primary sources with vintages identification procedures. It assures convenient」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「usually cover only subsets of variables available in primary sources (key indicators), on the base of lists」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「(http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/dow nloads/revisions.pdf」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「PDF ISBN 978-92-76-09154-7 ISSN 2363-197X doi: 10.2785/666412 KS-GQ-19-006-EN-N」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
+- 失敗・落とし穴：
+  - 「important errors. When significant mistakes occur, the communication of the mistake should」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems in the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「bias in price indexes is entirely based on economic theory.」（https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf）
+- 実例：
+  - 「values are estimated. Since it is generally the case that the estimated values do not correspond precisely to」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「avoided", following the successful example of the ESS guidelines on seasonal adjustment.」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「with relevant improvements in the production process. This could be the case when changes could」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「components for a given regional coverage. For example, the production index for the manufacturing」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「examples are the adoption of a new classification or changes in international statistical standards」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「according to new standards, classifications, source data etc. in order to avoid breaks. In case of an update」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「necessary. In this case, the reason for the removal should be posted. When erroneous data appear in」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「of the error should be assessed using prior empirical knowledge of revisions. For example, the magnitude」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「In the case of significant errors detected with delay (referring to past or sometimes even far past data), the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「released as soon as possible with a pre-announcemen t. In the case of past errors affecting several」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「case of significant errors affecting past data a decision is taken based upon the relevance of the data and」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「reoccurrence. When feasible, causes and reasons for th e error should be mentioned. A draft example of a」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「economic conditions – for example for comparable ph ases of business cycle, seasonal and calendar」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「⎯ Finally, it is possible to focus on the diagonals lo oking for example to the differences between the」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+  - 「Non-scheduled revisions should be reduced over time to the case of errors and unforeseeable」（https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF）
+
+## 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索（search reporting PRISMA-S literature search documentation grey literature result limits reproducible search）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「システマティックレビューとは？やり方を8ステップで解説」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Handbookは、ヒット件数が多いという理由だけで比較対照やアウトカムを加えたくなった場合は、先に同書が挙げる代替の方法を検討するよう述べています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「PubMedで概念を探す方法は2つあります」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「それぞれの方法がどれだけ寄与するかを、表1に示します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Methodsには、プラットフォームと日付を書き、完全な検索式は付録を参照させます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「PRISMA-Sは、完全な検索式を補足資料に載せ、その場所をMethodsに記載してリンクすることを提案しています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「PRISMA声明でシステマティックレビューを正しく報告する方法」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「検索式がピアレビューを受けたこと、その方法（使ったツール）を報告するのがPRISMA-Sの項目14です」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Editverse Japanは、プロトコルとMethodsの検索に関する記載の整理、PRISMA 2020とPRISMA-Sに沿った報告の確認、付録の表の整形、英文校正を、研究者の方と一緒に進めます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「研究デザイン・研究方法論相談（¥29,800）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Google Scholarの使い方｜検索・引用・アラート・プロフィール」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「システマティックレビューとは？やり方を8ステップで解説｜他のレビューとの違い」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「【完全ガイド】PRISMA声明でシステマティックレビューを正しく報告する方法」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Rayyanの使い方｜スクリーニング手順・PRISMA数・κ」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+- 突き合わせ・推定：
+  - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとし、フィルタは慎重に使うこと、そして開発の信頼性、報告された性能、頻繁に変わるインターフェースや索引付けを踏まえた現時点での正確さで評価することを求めています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとしていますが、CENTRALには使わないとしています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses? Lancet. 2000;356(9237):1228–1231. doi: 10.1016/S0140-6736(00)02786-0.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+- 一次情報の探し方：
+  - 「統計・検定の選び方（EZR・カイ二乗とFisher・回帰）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「医学統計解析サポート（¥79,800〜）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「統計監査（¥39,800）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「EZR（Easy R）は、統計ソフトRをマウス操作で使えるようにした無料のソフトウェアです」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「統計解析・統計チェック・メタアナリシスに対応します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「(142.2KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「PDF (720.0 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+- 失敗・落とし穴：
+  - 「MEDLINE/PubMedを使った137件の系統的レビューの検索式を調べた研究では、92.7%の検索式に何らかの誤りがあり、最も多かった誤りは自然言語・統制語の両方で用語が不足していることと、MeSHに関する誤りでした（Salvador-Oliván ら, 2019）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「7. 検索式をチェックしてもらう：PRESSとよくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「著者らの系統的レビューでは、構造化されたPRESSが検索の誤りを見つけ、検索語の選択を改善できる可能性が示唆されました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「実務の順序の例：PICOの概念を書く → PubMedの検索式を作る → 検索式と研究課題を司書または2人目の検索者に送る → 誤りを直す → 最終の検索式を実行する → 日付と件数を記録する」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+- 実例：
+  - 「うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「フィルタ後の結果の30.9%」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「フィルタ後の結果の51.4%」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「5. 実例：9本の検索行と最終検索式」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「研究デザイン、結果の解釈、結論、投稿の判断は研究者に帰属します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「実例では、それぞれが相手の見つけなかった記録を見つけました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「実例では、自由語だけで見つかった記録が、各ORブロックの54.6%（うつ病）と52.9%（運動）を占めました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「: A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「: Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「For an example of supplementary materials related to a systematic review search, see:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
