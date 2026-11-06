@@ -2321,6 +2321,8 @@
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
 - 検索結果の抜粋：
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。 決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。 888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します。 イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します。」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 
 ## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
@@ -3650,11 +3652,11 @@
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
@@ -6808,7 +6810,7 @@
   - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
   - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
   - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
