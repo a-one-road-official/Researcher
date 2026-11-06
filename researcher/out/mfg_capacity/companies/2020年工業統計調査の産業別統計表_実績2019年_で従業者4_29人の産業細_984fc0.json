@@ -1,0 +1,356 @@
+{
+ "name": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+ "en": "2020 census of manufacture industry tables 2019 results establishments 4-29 employees detailed industry Japan",
+ "aliases": [
+  "2020年工業統計表 産業別統計表 4人以上 細分類 従業者規模別 Excel",
+  "工業統計 2019年実績 従業者4～9人 10～19人 20～29人 電気めっき業",
+  "census of manufacture 2020 Japan detailed industry size class xlsx"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T10:50:10.093410+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1600022178705558144",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2020all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/640247/japan-manufacturing-employee-number-by-industry/?srsltid=AYCX9vIGQ9QeGQSJP3fWrY26h0wlcf8Km8_040UAg3N-JgMYDWHPJm1s",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?tclass=000001145041&cycle=7"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://cir.nii.ac.jp/crid/1600022178705558144"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://cir.nii.ac.jp/crid/1600022178705558144"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://cir.nii.ac.jp/crid/1600022178705558144"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://cir.nii.ac.jp/crid/1600022178705558144"
+   ]
+  },
+  {
+   "query": "2020 census of manufacture industry tables 2019 results establishments 4-29 employees detailed industry Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2020all.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.statista.com/statistics/640247/japan-manufacturing-employee-number-by-industry/?srsltid=AYCX9vIGQ9QeGQSJP3fWrY26h0wlcf8Km8_040UAg3N-JgMYDWHPJm1s",
+    "https://www.rokugeisha.com/en/data-instruments/",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+   "results": [
+    "https://note.com/zuikaku_ozawa_/n/n5843246a9376",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/zuikaku_ozawa_/n/ne9c2a80c8e53",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/zuikaku_ozawa_/n/na519ce2bcee8",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/mankintan/n/n65f0fa60e38d"
+   ]
+  },
+  {
+   "query": "site:x.com 2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2110026410349965429",
+    "https://jf.x.com/images/media-preview/2105453045786231132",
+    "https://jf.x.com/images/media-preview/2094925770808344999",
+    "https://x.com/zuikakuozawamk7/status/2091764438420623708",
+    "https://x.com/kapibara19190/status/2105255168900251773",
+    "https://x.com/mizuho_ird",
+    "https://x.com/housecom_jp/status/1830493371519091121"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+   "results": [
+    "https://www.linkedin.com/in/jamiecurrie80",
+    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG"
+   ]
+  },
+  {
+   "query": "site:facebook.com 2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）",
+   "results": [
+    "https://www.facebook.com/osaka.pref/posts/2020年工業統計調査を実施します本調査は統計法に基づく基幹統計調査で地域の経済産業施策などの基礎資料に活用するため6月1日現在で製造業事業所従業者４人以上を対/2741581565897752/",
+    "https://www.facebook.com/kkpartners/posts/経済産業省は2020年工業統計調査の速報結果を取りまとめ下記内容を発表しました-経済産業省及び総務省は令和2年6月1日現在で2020年工業統計調査を実施しました/3648675968588824/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2020年工業統計調査結果確報を公表しました詳細は茨城県統計課hpをご覧くださいhttpswwwprefibarakijpkikakutokeifukyutok/2767621690196726/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2020年６月１日現在で調査を行う工業統計調査は統計法に基づく国の基幹統計調査の一つで製造業を行う事業所４人以上を対象に事業所数従業者数製造品出荷額原材料使用額/2417408365218062/",
+    "https://www.facebook.com/city.kaizuka/posts/2709899679139771/",
+    "https://www.facebook.com/nichinancity/posts/2020年工業統計調査を実施します広報室からのお知らせ-この調査はわが国の工業の実態を明らかにすることを目的とした統計法に基づく報告義務がある重要な調査です-調/3078687315522646/",
+    "https://www.facebook.com/ibaraki.tokei/posts/現在2020年工業統計調査の審査を行っています製造業事業所の皆様2020年工業統計調査に御協力いただきありがとうございました御提出いただいた調査票は７月から10/2461659367459628/"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448116",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://cir.nii.ac.jp/crid/1600022178705558144"
+   ]
+  },
+  {
+   "query": "2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "2020 census of manufacture industry tables 2019 results establishments 4-29 employees detailed industry Japan site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/shijinramesh",
+    "https://mk.linkedin.com/in/marijanikolikj",
+    "https://www.linkedin.com/posts/jasonkronemeyer_according-the-us-census-bureau-in-the-activity-7248039414071762944-xcAb",
+    "https://in.linkedin.com/company/nakamuratome",
+    "https://in.linkedin.com/company/census",
+    "https://cn.linkedin.com/in/chinafurniturechairstablessofa/en",
+    "https://nz.linkedin.com/company/m2-manufacture",
+    "https://www.linkedin.com/pulse/where-japan-growing-key-industries-global-businesses-should-takeyama-bhkcc",
+    "https://www.linkedin.com/posts/us-census-bureau_manufacturing-censusecondata-mfg-activity-6874727518717399040-FgmJ"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ17頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ17頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ17頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ17頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ17頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ17頁・検索18回）",
+  "10年推移": "記載なし（読んだ17頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ17頁・検索18回）"
+ }
+}

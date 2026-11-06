@@ -191,21 +191,21 @@
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
 - 手順・やり方：
+  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
+  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
+  - 「株の銘柄分析には、大きく分けると次の2種類の方法があります」（https://note.com/billye/n/n1b91b3c986af）
+  - 「ただし、チェックするべき指標や分析の方法を理解していないと、業績が悪化する可能性がある企業に投資をして大損してしまうことにもなりかねないので注意しましょう」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そこで本記事では、ファンダメンタル分析のやり方や、分析に役立つツールを紹介します」（https://note.com/billye/n/n1b91b3c986af）
+  - 「ファンダメンタル分析を使った企業分析のやり方」（https://note.com/billye/n/n1b91b3c986af）
+  - 「>手順⑤：「売上高」と「営業利益」を確認する」（https://note.com/billye/n/n1b91b3c986af）
+  - 「>手順⑧：PBR（株価純資産倍率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
+  - 「>手順⑨：ROE（自己資本利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
+  - 「>手順⑩：ROA（総資産利益率）を確認する」（https://note.com/billye/n/n1b91b3c986af）
+  - 「株のファンダメンタル分析とは、企業の財務状況や業績状況のデータをもとに、分析を行う方法です」（https://note.com/billye/n/n1b91b3c986af）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ | キャリアパーク就職エージェント」（https://careerpark-agent.jp/column/67587）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！」（https://careerpark-agent.jp/column/67587）
   - 「企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう」（https://careerpark-agent.jp/column/67587）
   - 「3ステップで完成！ 企業研究ノートの作り方」（https://careerpark-agent.jp/column/67587）
-  - 「ステップ①情報収集：企業の全体像を把握する」（https://careerpark-agent.jp/column/67587）
-  - 「ステップ③ノート作成：テンプレートに沿って項目を埋める」（https://careerpark-agent.jp/column/67587）
-  - 「事前に確認！ 企業研究ノートを作るときの4つのコツ」（https://careerpark-agent.jp/column/67587）
-  - 「作って終わりではない！ 企業研究ノートを活用する方法」（https://careerpark-agent.jp/column/67587）
-  - 「就活には必須！ 企業研究ノートはやり方を工夫して企業理解を深めよう」（https://careerpark-agent.jp/column/67587）
-  - 「また、ノート自体も3ステップで簡単に作成することができます」（https://careerpark-agent.jp/column/67587）
-  - 「この記事では、ノートを活用した企業研究の方法や、情報のまとめ方などを具体的に紹介するので、ぜひ参考にしてくださいね」（https://careerpark-agent.jp/column/67587）
-  - 「企業研究ノートの作成方法について解説する前に、まずは「そもそも企業研究ノートとはどのようなものか」を知り、イメージを膨らませておきましょう」（https://careerpark-agent.jp/column/67587）
-  - 「企業研究ノートを作る際のコツを理解できました！ さっそく作りたいのですがおすすめの方法ってありますか？」（https://careerpark-agent.jp/column/67587）
-  - 「もちろんあります！ 3つのステップで作る方法を紹介しますね」（https://careerpark-agent.jp/column/67587）
-  - 「ここからは3ステップで作る方法を紹介するので、企業研究ノートを作る際の参考にしてください」（https://careerpark-agent.jp/column/67587）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -223,40 +223,44 @@
   - 「IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ」（https://careerpark-agent.jp/column/67587）
   - 「上場類似企業の株価倍率（PER、PBR、EV/EBITDA）を用いて企業価値を推定します」（https://note.com/finanscope/n/n62d819db22c2）
 - 一次情報の探し方：
+  - 「企業の「決算書」は、ファンダメンタル分析を行う場合に最初にチェックすべきものです」（https://note.com/billye/n/n1b91b3c986af）
+  - 「決算書さえ見れば、その企業の売上は順調か、借金をどのくらい抱えているのか、など、客観的な数字をもとに、企業の経営状況をすぐに確認することができます」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そもそも、決算とは、各企業が決めている営業年度（1年間）の区切りのことを指します」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そして、営業年度の終わりである決算迎えた後には、売上高や、利益など、企業がどのくらい成長したのかをチェックすることができる、いわゆる企業の成績表とも言える「決算書」が公開されます」（https://note.com/billye/n/n1b91b3c986af）
+  - 「決算書は、いくつかの資料で構成されていますが、ファンダメンタル分析の基本となる資料は大きく3種類です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「貸借対照表は、すべての上場企業が必ず作成しなければならない決まりとなっており、決算書の基本となる資料です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「貸借対照表と同様に、損益計算書もすべての上場企業が必ず作成しなければならないもので、決算書の重要な資料です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「貸借対照表、損益計算書、キャッシュフロー計算書など、決算書の資料の種類や内容を理解しても、ただ数値を眺めているだけでは、「その企業が安全なのか」「割安の株なのか、割高の株なのか」ということは、判断ができません」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そこで、決算書に書かれている数字を使って、株式投資のポイントとなる指標を確認することで、企業の分析を行う必要があります」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そして、ファンダメンタル分析に慣れてくると、企業が公開している決算書や財務諸表を読み解くのが、より効率的にできるようになり、指標への理解も深まります」（https://note.com/billye/n/n1b91b3c986af）
   - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
   - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
   - 「ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
   - 「ホームページや採用ぺージでも企業研究ノートに必要な項目を調べることができます」（https://careerpark-agent.jp/column/67587）
   - 「また企業によっては、社員インタビューや社員に対するアンケートなどをホームページや採用ページで掲載しているところもあります」（https://careerpark-agent.jp/column/67587）
-  - 「採用ページには企業研究ノートで欠かすことができない採用情報も掲載されています」（https://careerpark-agent.jp/column/67587）
-  - 「就職四季報：企業ごとの基本情報、採用情報、もとめる人物像などの詳細な情報がまとまっている」（https://careerpark-agent.jp/column/67587）
-  - 「企業の採用担当者と会話ができる数少ない機会なので、事前に企業について調べておき、」（https://careerpark-agent.jp/column/67587）
-  - 「企業研究ノートには企業概要や事業内容、業績、採用情報など、幅広い情報をまとめるようにしましょう」（https://careerpark-agent.jp/column/67587）
-  - 「7年にわたって年間で企業300社の採用支援及び、学生2,000人の就活相談・対策をおこない、最適なマッチング機会の創出に取り組む」（https://careerpark-agent.jp/column/67587）
-  - 「現在はポートの採用部門責任者として、新卒・中途採用及びオンボーディング領域を統括」（https://careerpark-agent.jp/column/67587）
-  - 「事業・組織成長の両面から採用設計し、組織への定着や入社後の活躍を最大化する仕組みづくりを推進している」（https://careerpark-agent.jp/column/67587）
-  - 「加えて、採用ページにある社員紹介や座談会記事、YouTube動画などをチェックすると、実際の雰囲気や働く人の人柄も感じられるでしょう」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
-  - 「【選考情報】採用ページ・インターン情報・選考フロー」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
-  - 「採用ページ（求める人物像、選考情報）」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
 - 失敗・落とし穴：
-  - 「この記事では企業研究の目的、おすすめの方法、注意点などをキャリアアドバイザーが解説します」（https://careerpark-agent.jp/column/67587）
-  - 「きれいにまとめようとするあまり、時間をかけすぎてしまうことにも注意しましょう」（https://careerpark-agent.jp/column/67587）
-  - 「この記事では就職四季報の種類、メリット、注意点、見るべき情報などをキャリアアドバイザーが解説します」（https://careerpark-agent.jp/column/67587）
-  - 「WEB説明会はどこからでも気軽に参加することができる反面、注意点もあります」（https://careerpark-agent.jp/column/67587）
-  - 「このような失敗をしないためにも、情報収集する目的を考えて、目的に合った情報から収集することを意識してくださいね」（https://careerpark-agent.jp/column/67587）
-  - 「【完全ガイド】就活メールマナーで差をつける！基本から例文・注意点まで徹底解説」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
-  - 「【業界研究の罠】「とりあえずコンサル・IT」と言っている3年生が、秋に絶望する理由」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
-  - 「※AIの特性上、間違いが含まれている場合があります」（https://www.theport.jp/portcareer/article/27262/）
-  - 「39点以下は要注意！あなたの面接力を今のうちに診断しましょう」（https://www.theport.jp/portcareer/article/27262/）
-  - 「この記事では、企業理念の志望動機で差別化する方法や具体性を盛り込むコツ、避けるべき注意点を、キャリアコンサルタントと解説します」（https://www.theport.jp/portcareer/article/27262/）
-  - 「ただ、転職サイトはマイナスな情報に偏りがちな点は注意が必要です」（https://www.theport.jp/portcareer/article/27262/）
-  - 「しかし、社風を志望動機に用いるには注意が必要です」（https://www.theport.jp/portcareer/article/27262/）
-  - 「「社風の志望動機」は注意が必要！ 例文付きで受かるコツを伝授」（https://www.theport.jp/portcareer/article/27262/）
-  - 「自分が本当に欲しい福利厚生があるかという点に注意しつつまとめましょう」（https://www.theport.jp/portcareer/article/27262/）
-  - 「勤務地にこだわりがある人や、転勤に抵抗が強い人は注意して確認しましょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】｜billye」（https://note.com/billye/n/n1b91b3c986af）
+  - 「株取引で知りたい銘柄分析のやり方【ファンダメンタル分析編】」（https://note.com/billye/n/n1b91b3c986af）
+  - 「特にファンダメンタル分析は、企業の経営状況の把握や、今後の業績の見通しを予測できるため、中長期投資の銘柄選びに役立ちます」（https://note.com/billye/n/n1b91b3c986af）
+  - 「ただし、チェックするべき指標や分析の方法を理解していないと、業績が悪化する可能性がある企業に投資をして大損してしまうことにもなりかねないので注意しましょう」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そこで本記事では、ファンダメンタル分析のやり方や、分析に役立つツールを紹介します」（https://note.com/billye/n/n1b91b3c986af）
+  - 「ファンダメンタル分析を使った企業分析のやり方」（https://note.com/billye/n/n1b91b3c986af）
+  - 「株のファンダメンタル分析とは、企業の財務状況や業績状況のデータをもとに、分析を行う方法です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「ファンダメンタル分析が行えるようになると、この企業の経営は安定しているか、業績は伸びているのかなど、企業の経営状況を正確に把握できるようになります」（https://note.com/billye/n/n1b91b3c986af）
+  - 「では、ファンダメンタル分析を行う場合に必要な次の3つの項目を具体的に確認していきましょう」（https://note.com/billye/n/n1b91b3c986af）
+  - 「企業の「決算書」は、ファンダメンタル分析を行う場合に最初にチェックすべきものです」（https://note.com/billye/n/n1b91b3c986af）
+  - 「決算書は、いくつかの資料で構成されていますが、ファンダメンタル分析の基本となる資料は大きく3種類です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「そこで、実際にファンダメンタル分析を行う場合は、単に、1年分の売上高だけではなく、ここ10年分くらいの売上高の推移をチェックすることも大切です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「投資初心者の場合、ファンダメンタル分析の際にチェックしておきたい主な指標は、次の8個です」（https://note.com/billye/n/n1b91b3c986af）
+  - 「今回は、株のファンダメンタル分析に使う様々な株式指標が出てきたので、特に投資初心者の方は、少し戸惑ってしまったかもしれません」（https://note.com/billye/n/n1b91b3c986af）
+  - 「また、PBRやROAなど、横3文字の経済用語に抵抗感がある場合、ファンダメンタル分析を行うことに、億劫だと感じてしまう方もいるかもしれません」（https://note.com/billye/n/n1b91b3c986af）
 - 実例：
   - 「「インターンシップで学びたいこと」の答え方例文｜選考突破者の実例」（https://careerpark-agent.jp/column/67587）
   - 「事業内容とは｜企業研究や選考対策への活用方法を事例付きで解説」（https://careerpark-agent.jp/column/67587）
+  - 「例えば、お金の資金繰りがうまくいっていない企業の場合、損益計算書上では利益が出ているように見えても、回収や支払のタイミングによっては営業のキャッシュフローが赤字になっているケースもあります」（https://note.com/billye/n/n1b91b3c986af）
+  - 「course, and there’s a more detailed “small business valuation” example in the」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「Complete 9 case studies」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「These are true “small businesses” that are dependent on the owner, who tends to be highly involved in day-to-day operations. Examples include a barber shop, a doctor’s office, M&I and BIWS, and any company with “Wall Street” in its title.」（https://mergersandinquisitions.com/private-company-valuation/）
   - 「たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね」（https://careerpark-agent.jp/column/67587）
   - 「複数の分野に事業を展開している場合があり、それが一般的に知られていないケースもあります」（https://www.theport.jp/portcareer/article/27262/）
   - 「同業他社でも事業内容が微妙に異なるケースがあるので、ノートにまとめ、自分が携わる可能性のある仕事を把握しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
@@ -266,10 +270,6 @@
   - 「志望動機【例文17選】ES・履歴書での書き方と職種・業界別の実例」（https://www.onecareer.jp/articles/3345）
   - 「大事なことは、調べたことと自己分析の結果をつなげることです」（https://www.onecareer.jp/articles/3345）
   - 「企業によっては複数の事業を展開しているケースもあるため、抜け漏れのないリサーチが求められます」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「ただし、口コミサイトは匿名で投稿できる特性ゆえに正確でない情報が含まれているケースもあります」（https://www.theport.jp/portcareer/article/64126/）
-  - 「特に、経営者の書いた書籍は、企業理念のもとになるエピソードや事業を立ち上げた背景が書かれているケースが多いので、企業理解を深めるのにぴったりです」（https://www.theport.jp/portcareer/article/64126/）
-  - 「多くの就活生がその重要性を認識している一方で、「具体的に何を、どこまでやればいいのか分からない」と悩んでいるケースも少なくありません」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
-  - 「例えば、「貴社の〇〇という事業の将来性に惹かれました」と述べるだけでなく、「業界全体が△△という課題を抱える中で、貴社は□□という独自の技術でその課題を解決しようとしており、その先進性に魅力を感じます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
 - 検索結果の抜粋：
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
@@ -1578,15 +1578,15 @@
   - 「ペネトレーションテストとは何か？初心者でもわかるように仕組み・合法的な手順・使用ツールを完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Maltegoの応用利用方法：知られざる7つの最前線活用術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「仕組みと具体的な使い方、セキュリティ診断・情報漏えい調査への活用例から、悪用時の法的リスクまで解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「エージェント・サーバー・インデクサー・ダッシュボードの4つの部品を「防犯カメラ・警備室・録画保管庫・監視モニター」にたとえて1枚の図で整理し、できること8つ、SSH総当たり攻撃を見つける流れ、必要なスペックと導入手順、向いている人の診断、よくある勘違い、Wazuh自身の脆弱性CVE-2025-24016の教訓までまとめました」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界｜Makoto Suhara（須原誠）」（https://note.com/everprogress/n/nde8351a93d60）
   - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界」（https://note.com/everprogress/n/nde8351a93d60）
   - 「本報告書は、世界の主要な情報機関であるCIA、モサド、MI6、KGBがどのように情報を集め、分析しているのかを整理し、その方法論を企業の市場調査にどう活かせるかを検討するものである」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「情報機関の方法論を比較するにあたり、本報告書はインテリジェンスの世界で広く認められている五つの主要分野、すなわち公開情報(OSINT)、人的情報(HUMINT)、信号情報(SIGINT)、計測・痕跡情報(MASINT)、金融情報(FININT)を軸に構成した」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「市場規模や成長率の推計が情報源によって大きく食い違う例が確認されたため、一つの情報源に頼らず、複数の情報源で裏づけること(トライアンギュレーション)を方法論上の原則とした」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「方法を述べるにあたっては、倫理上の制約にも触れておく必要がある」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「購入した商用データを使う場合には、米国の情報コミュニティが自らに課しているように、データの出所と生成、集約の方法を確かめ、偏りや推測が混じっていないかを含めて品質を評価することが求められる(ODNI, 2024b)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「ヘッジファンドやコンサルティング会社は、経済指標を得るために型破りな公開データを分析する戦略を作り上げてきた」（https://note.com/everprogress/n/nde8351a93d60）
 - 突き合わせ・推定：
   - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1620,6 +1620,9 @@
   - 「https://www.cia.gov/podcast/static/7cd1e1a80447e96fc5d55d8a17fc0db6/The-Langley-Files-File-015-DDI-Transcript.pdf」（https://note.com/everprogress/n/nde8351a93d60）
   - 「https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf」（https://note.com/everprogress/n/nde8351a93d60）
 - 失敗・落とし穴：
+  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である」（https://note.com/everprogress/n/nde8351a93d60）
   - 「競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1632,9 +1635,6 @@
   - 「インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある」（https://note.com/everprogress/n/nde8351a93d60）
   - 「CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「GMOインターネットグループ. (2025). OSINTとは？活用時の注意点と具体的プロセスを詳しく解説. GMOインターネットグループ サイバーセキュリティ.」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 実例：
   - 「各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る」（https://note.com/everprogress/n/nde8351a93d60）
   - 「事例研究は、インテリジェンスの考え方を取り入れることが戦略上の優位につながることを示している」（https://note.com/everprogress/n/nde8351a93d60）
@@ -3737,11 +3737,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4924,8 +4924,8 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -5645,8 +5645,8 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 突き合わせ・推定：記載なし（読んだ35頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ35頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ34頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ34頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ

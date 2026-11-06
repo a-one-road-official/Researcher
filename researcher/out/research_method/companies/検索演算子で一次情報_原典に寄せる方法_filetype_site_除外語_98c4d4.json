@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-06T06:14:54.941995+00:00",
+ "researched_at": "2026-11-06T10:49:08.384096+00:00",
  "evidence": {
   "実例": [
    {
@@ -280,164 +280,6 @@
    {
     "quote": "Date approximations. before: and after: use Google’s indexed-date estimate, which is not the same as the page’s published date. For research that requires exact publication dates, verify against the page itself or use the publisher’s archive.",
     "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "この記事では、Google検索コマンドの基本的な使い方から、仕事・SEO担当者向けの実践的な活用法、さらに",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "iPhone OR Android 写真 共有 方法",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ iPhoneまたはAndroidの写真共有方法に関する記事をまとめて表示",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機種が決まっていないときや両方の方法を比較したいときに便利",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ 設定名を忘れていても、該当する機能の手順記事を見つけられる",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ChatGPT 使い方 after:2025-01-01",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「サイトの全体規模を把握するための目安」として使うのがコツで、正確なインデックス状況はGoogle Search Consoleで確認してください",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ 「やり方」を主題にした解説記事の競合状況を把握できる",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "intitle:ChatGPT 使い方 after:2025-06-01",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年6月以降に公開された、タイトルに「ChatGPT 使い方」が含まれる記事だけを表示します",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "intitle:確定申告 やり方 after:2026-01-01 -site:nta.go.jp",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "allintitle:確定申告 やり方 2026 -site:nta.go.jp",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "allintitle:Google スプレッドシート 使い方 初心者 -site:func.jp",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ AI回答を避けて生の声を探す・オープンデータ取得・SNS投稿調査など、2026年型の使い方が特に有効",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Google AI検索の使い方｜通常検索との違いと活用シーン【2026年版】",
-    "url": "https://func.jp/google-search-command/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Build Combined Queries",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Paste the exact error string in quotes. Add the framework name. Add",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Husky and Conventional Commits — How to use Git Hooks Without the Pain",
-    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— Methodology, not products",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For businesses looking to systematically track how search engines and AI systems discover and cite your brand, Cited helps you monitor and optimize your presence across traditional search and emerging AI-powered platforms. Understanding search operators provides the foundation—knowing how to become the authoritative source that gets cited takes your strategy to the next level.",
-    "url": "https://cited.so/blog/search-operators",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The query site:yourdomain.com (filetype:env OR filetype:log OR filetype:bak) checks your own infrastructure for accidentally indexed configuration and backup files. If the result count is anything other than zero, the next step is removing those files from the public web root and adding the path to",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Make a Website",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Transfer a Website",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Start a Web Hosting Business",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Start an Online Store",
-    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Google 速度測定(スピードテスト)の使い方と結果の見方",
-    "url": "https://func.jp/google-search-command/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -769,6 +611,164 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この記事では、Google検索コマンドの基本的な使い方から、仕事・SEO担当者向けの実践的な活用法、さらに",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "iPhone OR Android 写真 共有 方法",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ iPhoneまたはAndroidの写真共有方法に関する記事をまとめて表示",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機種が決まっていないときや両方の方法を比較したいときに便利",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ 設定名を忘れていても、該当する機能の手順記事を見つけられる",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ChatGPT 使い方 after:2025-01-01",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「サイトの全体規模を把握するための目安」として使うのがコツで、正確なインデックス状況はGoogle Search Consoleで確認してください",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ 「やり方」を主題にした解説記事の競合状況を把握できる",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "intitle:ChatGPT 使い方 after:2025-06-01",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年6月以降に公開された、タイトルに「ChatGPT 使い方」が含まれる記事だけを表示します",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "intitle:確定申告 やり方 after:2026-01-01 -site:nta.go.jp",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "allintitle:確定申告 やり方 2026 -site:nta.go.jp",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "allintitle:Google スプレッドシート 使い方 初心者 -site:func.jp",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ AI回答を避けて生の声を探す・オープンデータ取得・SNS投稿調査など、2026年型の使い方が特に有効",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google AI検索の使い方｜通常検索との違いと活用シーン【2026年版】",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Build Combined Queries",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Paste the exact error string in quotes. Add the framework name. Add",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Husky and Conventional Commits — How to use Git Hooks Without the Pain",
+    "url": "https://www.denis-iakimenko.com/blog/google-search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— Methodology, not products",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For businesses looking to systematically track how search engines and AI systems discover and cite your brand, Cited helps you monitor and optimize your presence across traditional search and emerging AI-powered platforms. Understanding search operators provides the foundation—knowing how to become the authoritative source that gets cited takes your strategy to the next level.",
+    "url": "https://cited.so/blog/search-operators",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The query site:yourdomain.com (filetype:env OR filetype:log OR filetype:bak) checks your own infrastructure for accidentally indexed configuration and backup files. If the result count is anything other than zero, the next step is removing those files from the public web root and adding the path to",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Make a Website",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Transfer a Website",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Start a Web Hosting Business",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Start an Online Store",
+    "url": "https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google 速度測定(スピードテスト)の使い方と結果の見方",
+    "url": "https://func.jp/google-search-command/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -776,6 +776,11 @@
   "pass3": [
    {
     "url": "https://note.com/zero_impact_edu/n/n0e08081a3573",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mdp/n/nc204d39d34bc",
     "status": "ok",
     "method": "http"
    },
@@ -790,17 +795,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
+    "url": "https://note.com/kyotomori/n/nd498747a7c3e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/science_summary/n/n223612b7a530",
+    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
     "status": "ok",
     "method": "http"
    },
@@ -811,11 +811,6 @@
    },
    {
     "url": "https://kinsta.com/jp/blog/google-search-operators/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mdp/n/nc204d39d34bc",
     "status": "ok",
     "method": "http"
    },
@@ -835,18 +830,23 @@
     "method": "http"
    },
    {
-    "url": "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
+    "url": "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hack.nikkei.com/blog/search_operator/",
+    "url": "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hack.nikkei.com/blog/search_operator/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -875,11 +875,6 @@
     "method": "http"
    },
    {
-    "url": "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=ja",
     "status": "ok",
     "method": "http"
@@ -890,7 +885,12 @@
     "method": "http"
    },
    {
-    "url": "https://aqlier.com/2026/09/04/google_search_operator/",
+    "url": "https://minto.tech/google-search-operators-advanced-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://func.jp/google-search-command/",
     "status": "ok",
     "method": "http"
    },
@@ -931,12 +931,12 @@
    "query": "検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語） site:note.com",
    "results": [
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
+    "https://note.com/mdp/n/nc204d39d34bc",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/super_phlox114/n/na80f971322ef",
+    "https://note.com/kyotomori/n/nd498747a7c3e",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/fresh_impala9007/n/n62355267896c",
-    "https://note.com/science_summary/n/n223612b7a530",
-    "https://note.com/kyotomori/n/nd498747a7c3e"
+    "https://note.com/fresh_impala9007/n/n62355267896c"
    ]
   },
   {
@@ -961,8 +961,8 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
-    "https://hack.nikkei.com/blog/search_operator/",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
+    "https://hack.nikkei.com/blog/search_operator/",
     "https://ischool.co.jp/2018-11-09/",
     "https://altenas.jp/blog/search-command",
     "https://seoagent.jp/blog/search-operators/",
@@ -975,13 +975,13 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://www.rhcnet.com/article/google_operator_.html",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://altenas.jp/blog/search-command",
-    "https://seojapan.com/column/search-modifiers-best-10/",
+    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
-    "https://jp.strikingly.com/content/blog/google-search/",
+    "https://seojapan.com/column/search-modifiers-best-10/",
     "https://ischool.co.jp/2018-11-09/",
-    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
+    "https://jp.strikingly.com/content/blog/google-search/",
+    "https://developers.google.com/search/docs/monitor-debug/search-operators?hl=ja"
    ]
   },
   {
@@ -995,8 +995,7 @@
     "https://libguides.uccs.edu/history/creating-searches",
     "https://primarysources.yale.edu/search-strategies",
     "https://academia.stackexchange.com/questions/160410/is-there-a-search-tool-for-finding-primary-sources-in-us-history",
-    "https://uscupstate.libguides.com/hist300-historicalstudies/google-for-primary-sources",
-    "https://www.denis-iakimenko.com/blog/google-search-operators"
+    "https://uscupstate.libguides.com/hist300-historicalstudies/google-for-primary-sources"
    ]
   },
   {
@@ -1006,9 +1005,9 @@
     "https://note.com/mdp/n/nc204d39d34bc",
     "https://note.com/nana_882391/n/nfc50f20bd0b3",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
-    "https://note.com/kyotomori/n/nd498747a7c3e",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/harenohi_design/n/n976ff51ae1a1"
+    "https://note.com/kyotomori/n/nd498747a7c3e",
+    "https://note.com/fresh_impala9007/n/n62355267896c"
    ]
   },
   {
@@ -1020,7 +1019,7 @@
     "https://x.com/ss_shiratori/status/2114921116800311315",
     "https://x.com/xkaseki413/status/2051160097288839258",
     "https://x.com/BaronLeon86/status/2056003869734535543",
-    "https://x.com/hashtag/検索演算子"
+    "https://x.com/shibakatze/status/2068629304033075563"
    ]
   },
   {
@@ -1029,8 +1028,8 @@
     "https://www.linkedin.com/posts/cyberedition_google-dorking-commands-part-2-taking-activity-7368832616797532162-IMq_",
     "https://www.linkedin.com/pulse/understanding-googles-indexable-file-types-guide-avilash-chakraborty-ci4ac",
     "https://training.talent.linkedin.com/use-boolean-logic-ja",
-    "https://jp.linkedin.com/pulse/seoの本質は一次情報にあり記事の信頼性と順位を爆上げする方法-剛-柏崎-hwatc",
     "https://jp.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f?tl=ja",
+    "https://jp.linkedin.com/pulse/seoの本質は一次情報にあり記事の信頼性と順位を爆上げする方法-剛-柏崎-hwatc",
     "https://jp.linkedin.com/pulse/seoで一次情報が重要な理由とは二次情報との違いと活用方法-剛-柏崎-p6mxc",
     "https://jp.linkedin.com/pulse/improve-your-job-search-results-google-x-ray-rich-do?tl=ja"
    ]
@@ -1043,8 +1042,8 @@
     "https://www.facebook.com/public/VLOOKUP関数で複数の条件を設定・抽出する方法を解説-U-NOTE-what-filetype:svg/",
     "https://www.facebook.com/groups/880912055374027/posts/3852178711580665/",
     "https://www.facebook.com/yeswecan.jp/posts/claris-filemaker-2025-の新機能より直感的な検索を自然言語で検索実行-スクリプトステップ概要編少し複雑な検索を行う場合演算子や検索除外などを/1427295775672083/",
-    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1345123027226517/",
-    "https://www.facebook.com/lany.co.jp/posts/639476175308809/"
+    "https://www.facebook.com/lany.co.jp/posts/639476175308809/",
+    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1345123027226517/"
    ]
   },
   {
@@ -1072,29 +1071,29 @@
     "https://tatap.jp/knowledge/x-search-commands/",
     "https://xboost.now/tools/x-search-builder",
     "https://generaltranslation.mintlify.app/ja/x-api/posts/search/integrate/operators",
-    "https://www.reddit.com/r/uBlockOrigin/comments/1i8o5la/permanently_excluding_a_site_from_google_search/?tl=ja",
     "https://help.x.com/ja/rules-and-policies/x-search-policies",
+    "https://www.reddit.com/r/uBlockOrigin/comments/1i8o5la/permanently_excluding_a_site_from_google_search/?tl=ja",
     "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
   {
    "query": "search operators primary sources filetype site research site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/google-search-operators-elevate-your-searching-game-expert-david-gage-knioe",
     "https://www.linkedin.com/posts/kashmala-malik_19-google-search-operators-you-need-to-know-activity-7292139154753138688-75Kt",
+    "https://www.linkedin.com/pulse/google-search-operators-elevate-your-searching-game-expert-david-gage-knioe",
     "https://www.linkedin.com/pulse/search-techniques-google-ajith-thampi-joseph-q3v6c",
     "https://www.linkedin.com/pulse/authoritative-sources-101-how-find-use-reliable-vincent-d-eletto",
     "https://www.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f",
     "https://www.linkedin.com/posts/shushant-lakhyani_im-shocked-most-people-still-use-google-activity-7480123445285072896-tsIN",
     "https://www.linkedin.com/pulse/7-tools-enhance-your-open-source-investigations-aman-bhuiyan-zhqrc",
     "https://www.linkedin.com/posts/stevetothjr_steal-my-claude-project-that-sourced-34-rare-activity-7492565518873255937-nxPT",
-    "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf",
-    "https://www.linkedin.com/top-content/networking/networking-in-research/utilizing-social-media-for-research-networking/"
+    "https://www.linkedin.com/top-content/networking/networking-in-research/utilizing-social-media-for-research-networking/",
+    "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }
