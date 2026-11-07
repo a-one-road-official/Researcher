@@ -8,8 +8,366 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T13:43:30.708229+00:00",
+ "researched_at": "2026-11-07T19:15:39.061998+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "本記事では、機械学習を用いた名寄せの実装方法や精度向上のテクニックを具体的に解説します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データの正確性を向上させ、効率的なマーケティング戦略を構築するための具体的な方法や成功事例も紹介しているので、ぜひ参考にしてください",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "開発とテストの観点｜AI活用で効率化を実現する方法 | Hakky Handbook",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では、DataRobot CodeSpace上でLLM（Azure OpenAI）を利用した名寄せ処理の具体的なコードと解説を通じて、LLMを活用した名寄せ処理の実現方法を紹介します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of matching methods along a single dimension, for instance the",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Instead of learning how to match entity pairs, entity matching can",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "rules, supervised machine learning methods have become the",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "by the training data indicate that the methods lack robustness",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "multi-class classification, e.g. learn how to recognize the relevant",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Numbering at each step refers to the corresponding section in the paper.",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bustness [12, 29] of matching methods to the amount of unseen",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluating the training data efficiency of matching methods.",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "sisting of the following six steps: (i) extraction of product offers",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "six steps which are visualized in Figure 2. Detailed explanations",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of every step are given in the following sections.",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The first step of the pipeline is the extraction of large amounts",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the second step, we apply several cleansing heuristics to prepare",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the data for the benchmark. In the third step, we group similar",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "some unwanted groups like adult products. In the fourth step,",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説 | ナレッジ - SalesNow",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せロジック設計の5ステップ",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せの全体像・やり方5ステップを知りたい方 →",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せとデータクレンジングを一体で進める手順とツール比較は「",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せ・データクレンジングのやり方｜手順・ツール比較・コツを解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では単一のアルゴリズムだけでなく、複数の方式を組み合わせるハイブリッド型が主流です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務で成果を出す名寄せロジックを構築するには、以下の5つのステップを順に進めることが重要です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ1：データの現状把握と課題の特定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ2：照合キーの選定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ3：前処理ルールの策定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ4：マッチングアルゴリズムの選定と閾値設定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ5：テスト・検証とPDCAサイクルの確立",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "formation on how to evaluate the performance. To answer the ques-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the closure of such a result set could easily be created, this step",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "consist of multiple steps [44]. Measuring the performance between",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "these steps, as supported by Frost, can provide useful insights for",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "typically consists of the following steps:",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "duplicates [9, 18]. Typically, this step produces a final similarity",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "heterogeneity of datasets are a crucial step towards finding repre-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework [13] and provides 46 datasets, 20 matching solutions",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Some data matching execution frameworks also work as (par-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "frameworks or do not use a framework at all. A newer approach to",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "et al. developed a method for this estimation [33].",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides a framework for aggregating soft KPIs and quality metrics",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To achieve this, Snowman optimizes every step of the evaluation",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and Snowman a significant step in the direction of a standardized",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "respective other class(es). In order to prevent selection bias to-",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reduce selection bias. As the basis for the later generation of the",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of similarity metrics, we avoid biasing the benchmark towards a",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、十分な学習データ（一般的に数千件以上の正解ペア）が必要であり、導入初期のコストが高い点に注意が必要です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "partition. While this technique is unbiased, it may also only",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. This technique has the advantage of unbiasedly representing",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook",
@@ -470,308 +828,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
-   {
-    "quote": "本記事では、機械学習を用いた名寄せの実装方法や精度向上のテクニックを具体的に解説します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データの正確性を向上させ、効率的なマーケティング戦略を構築するための具体的な方法や成功事例も紹介しているので、ぜひ参考にしてください",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "開発とテストの観点｜AI活用で効率化を実現する方法 | Hakky Handbook",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では、DataRobot CodeSpace上でLLM（Azure OpenAI）を利用した名寄せ処理の具体的なコードと解説を通じて、LLMを活用した名寄せ処理の実現方法を紹介します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of matching methods along a single dimension, for instance the",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Instead of learning how to match entity pairs, entity matching can",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "rules, supervised machine learning methods have become the",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "by the training data indicate that the methods lack robustness",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "multi-class classification, e.g. learn how to recognize the relevant",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Numbering at each step refers to the corresponding section in the paper.",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bustness [12, 29] of matching methods to the amount of unseen",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluating the training data efficiency of matching methods.",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "sisting of the following six steps: (i) extraction of product offers",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "six steps which are visualized in Figure 2. Detailed explanations",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of every step are given in the following sections.",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The first step of the pipeline is the extraction of large amounts",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the second step, we apply several cleansing heuristics to prepare",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the data for the benchmark. In the third step, we group similar",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "some unwanted groups like adult products. In the fourth step,",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説 | ナレッジ - SalesNow",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せロジック設計の5ステップ",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せの全体像・やり方5ステップを知りたい方 →",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せとデータクレンジングを一体で進める手順とツール比較は「",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せ・データクレンジングのやり方｜手順・ツール比較・コツを解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務では単一のアルゴリズムだけでなく、複数の方式を組み合わせるハイブリッド型が主流です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務で成果を出す名寄せロジックを構築するには、以下の5つのステップを順に進めることが重要です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ1：データの現状把握と課題の特定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ2：照合キーの選定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ3：前処理ルールの策定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ4：マッチングアルゴリズムの選定と閾値設定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ5：テスト・検証とPDCAサイクルの確立",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "formation on how to evaluate the performance. To answer the ques-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the closure of such a result set could easily be created, this step",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "consist of multiple steps [44]. Measuring the performance between",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "these steps, as supported by Frost, can provide useful insights for",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "typically consists of the following steps:",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "duplicates [9, 18]. Typically, this step produces a final similarity",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "heterogeneity of datasets are a crucial step towards finding repre-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "framework [13] and provides 46 datasets, 20 matching solutions",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Some data matching execution frameworks also work as (par-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "frameworks or do not use a framework at all. A newer approach to",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "et al. developed a method for this estimation [33].",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "provides a framework for aggregating soft KPIs and quality metrics",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To achieve this, Snowman optimizes every step of the evaluation",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and Snowman a significant step in the direction of a standardized",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます",
@@ -960,62 +1016,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "respective other class(es). In order to prevent selection bias to-",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "reduce selection bias. As the basis for the later generation of the",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of similarity metrics, we avoid biasing the benchmark towards a",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、十分な学習データ（一般的に数千件以上の正解ペア）が必要であり、導入初期のコストが高い点に注意が必要です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "partition. While this technique is unbiased, it may also only",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. This technique has the advantage of unbiasedly representing",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
     "quote": "Tejan Dargar - Head - Treasury & Capital Markets | LinkedInAsma Ahmed - Software Engineer | CS Sheridan | Full-Stack ...Entity Resolution at Scale: Probabilistic Matching Techniques ...How QA Strengthens Your Data Foundation Through Better MDM ...Advanced Entity Matching in Financial AI using LLM ... - LinkedIn Nov 1, 2018 · Head - Treasury & Capital Markets · I am a Capital Markets leader with a ",
@@ -1069,22 +1069,22 @@
     "method": "http"
    },
    {
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "url": "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
+    "url": "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "url": "https://lab.ludashi.com/evaluation/article/54",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "status": "ok",
     "method": "http"
    },
@@ -1109,6 +1109,11 @@
     "method": "http"
    },
    {
+    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
     "status": "ok",
     "method": "http"
@@ -1119,7 +1124,12 @@
     "method": "http"
    },
    {
-    "url": "https://usonar.co.jp/blog/6065.html",
+    "url": "https://column.tis.jp/post-1566/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/6258.html",
     "status": "ok",
     "method": "http"
    },
@@ -1134,17 +1144,7 @@
     "method": "http"
    },
    {
-    "url": "https://column.tis.jp/post-1566/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "url": "https://geniee.co.jp/media/cdp/ainame_matching/",
     "status": "ok",
     "method": "http"
    },
@@ -1154,9 +1154,14 @@
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/abs/2301.09521",
+    "url": "https://arxiv.org/html/2511.22832",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.bwl.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.sciencedirect.com/science/article/pii/S0167811626000571",
@@ -1165,11 +1170,6 @@
    },
    {
     "url": "https://ijcai.org/proceedings/2022/552",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.uni-mannheim.de/dws/news/billigerde-products-bilingual-entity-matching-benchmark-released/",
     "status": "ok",
     "method": "http"
    },
@@ -1190,26 +1190,37 @@
     "https://note.com/jack4manastalk/n/n2aedeb050627",
     "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://note.com/sakaimisato/n/nf27719c00e5e",
+    "https://note.com/atstream/n/n15ddcade7e85",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/tt_biz/n/n2cc5e4bb5ec7",
-    "https://note.com/atstream/n/n15ddcade7e85"
-   ]
+    "https://note.com/anomaly_inc/n/n15611efccadc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） note",
    "results": [
     "https://note.com/atstream/n/n15ddcade7e85",
-    "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://note.com/lively_swan2582/n/n915bf36ed75c",
-    "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://lab.ludashi.com/evaluation/article/54",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://eatransform.net/nayose"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） やり方",
@@ -1224,37 +1235,52 @@
     "https://jp.sansan.com/media/aggregation-of-names/",
     "https://cdp.com/ja/glossary/identity-resolution/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） 事例",
    "results": [
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
     "https://promotion.jsol.co.jp/datamanagement/blog/MDM_nayose.html",
-    "https://usonar.co.jp/blog/6065.html",
-    "https://cdp.com/ja/glossary/identity-resolution/",
-    "https://blog.bizboost.co.jp/what-is-data-management-for-btob-marketing",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://iridge.jp/blog/202507/39156/",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://column.tis.jp/post-1566/",
+    "https://usonar.co.jp/blog/6258.html",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://iridge.jp/blog/202507/39156/",
+    "https://geniee.co.jp/media/cdp/ainame_matching/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "entity matching benchmark corner cases threshold gold standard",
    "results": [
     "https://ldbcouncil.org/post/elements-of-instance-matching-benchmarks-a-short-overview/",
-    "https://arxiv.org/abs/2301.09521",
+    "https://arxiv.org/html/2511.22832",
+    "https://www.bwl.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
     "https://www.sciencedirect.com/science/article/pii/S0167811626000571",
     "https://www.ijcai.org/proceedings/2022/552",
-    "https://www.uni-mannheim.de/dws/news/billigerde-products-bilingual-entity-matching-benchmark-released/",
     "https://d-nb.info/1351217534/34",
     "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
+    "https://www.researchgate.net/publication/416920087_Entity_Matching_using_Decision_Models",
     "http://vldb.org/pvldb/vol14/p2459-thirumuruganathan.pdf",
     "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf"
-   ]
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:note.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
@@ -1268,62 +1294,89 @@
     "https://note.com/shotar/n/n25128162862f",
     "https://note.com/jack4manastalk/n/n2aedeb050627",
     "https://note.com/vivid_sheep6561/n/nd10555daaeca",
-    "https://note.com/atstream/n/n4b6dd8a1e381"
-   ]
+    "https://note.com/atstream/n/na4971a88118f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:x.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
    "results": [
+    "https://x.com/toshizo2023ip/status/1782700797714964831",
+    "https://x.com/fujikawa/status/2118842024975863998",
+    "https://x.com/BtoBdata_Tech",
+    "https://x.com/monomanesenchan",
+    "https://x.com/integra",
+    "http://x.com/sugeko_",
+    "https://x.com/YUKI_AKAMATU",
+    "https://x.com/sakedokusyo",
     "https://x.com/hhayashiss/status/2068967239894843745",
-    "https://x.com/matsuura_AI_oji/status/2078055480996565233",
-    "https://x.com/ai_x_ow_jp_01/status/2107039843444560161",
-    "https://x.com/IRASUTO_WAKARU/status/2040172493231808543",
-    "https://x.com/hiko167271/status/2102878708474474689",
-    "https://x.com/takanishi12/status/2087433963375923620",
-    "https://x.com/tanaka_ai_work/status/2058114300401820149"
-   ]
+    "https://x.com/matsuura_AI_oji/status/2078055480996565233"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:linkedin.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
    "results": [
-    "https://www.linkedin.com/company/kpit",
-    "https://www.linkedin.com/home/?originalSubdomain=in",
-    "https://jp.linkedin.com/pulse/why-data-definition-hard-md-aamir-iqbal?tl=ja",
+    "https://www.linkedin.com/company/rosen",
+    "https://in.linkedin.com/company/cars24",
     "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
     "https://jp.linkedin.com/posts/shoki-kato-22b505113_生成aiを活用したテキスト分類名寄せのアイデアdatabricks-qiita-activity-7199016694948773888-osWV",
     "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106",
+    "https://www.linkedin.com/jobs/高度な名寄せを実現している企業-代表例-jobs",
     "https://jp.linkedin.com/posts/yutaro-endo_hubspotの名寄せと重複レコード統合マージで戻せないものと統合ルールの決め方-activity-7521394164933120000-uut9"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
    "results": [
     "https://www.facebook.com/nistep.japan/posts/%E7%94%A3%E5%AD%A6%E9%80%A3%E6%90%BA%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8F%E3%83%96%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%A8%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%81%AE%E7%A4%BE%E4%BC%9A%E9%82%84%E5%85%83%E7%AC%AC%E2%85%A0%E9%83%A8%E7%89%B9%E8%A8%B1%E5%87%BA%E9%A1%98%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%BC%81%E6%A5%AD%E3%83%8F%E3%83%96%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%AE%E6%8A%BD%E5%87%BA%E8%AD%98%E5%88%A5%E8%A9%95%E4%BE%A1-discussion-paper-no256%E3%82%92%E5%85%AC%E8%A1%A89/1612387660933294/",
-    "https://www.facebook.com/nistep.japan/posts/nistep%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%81%9C%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E5%81%9C%E6%AD%A2%E6%9C%9F%E9%96%9310%E6%9C%8816%E6%97%A5%E9%87%911330-1900%E4%B8%8A%E8%A8%98%E3%81%AE%E5%81%9C%E6%AD%A2%E6%99%82%E9%96%93%E3%81%AF%E4%BD%9C%E6%A5%AD%E7%8A%B6%E6%B3%81%E7%AD%89%E3%81%AB%E3%82%88%E3%82%8A%E5%89%8D%E5%BE%8C%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E5%BE%A1%E4%BA%86%E6%89%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1630521629119897/",
     "https://www.facebook.com/nistep.japan/",
+    "https://www.facebook.com/nistep.japan/posts/nistep%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%81%9C%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E5%81%9C%E6%AD%A2%E6%9C%9F%E9%96%9310%E6%9C%8816%E6%97%A5%E9%87%911330-1900%E4%B8%8A%E8%A8%98%E3%81%AE%E5%81%9C%E6%AD%A2%E6%99%82%E9%96%93%E3%81%AF%E4%BD%9C%E6%A5%AD%E7%8A%B6%E6%B3%81%E7%AD%89%E3%81%AB%E3%82%88%E3%82%8A%E5%89%8D%E5%BE%8C%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E5%BE%A1%E4%BA%86%E6%89%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1630521629119897/",
     "https://m.facebook.com/nistep.japan/photos/d41d8cd9/349207241856416/",
     "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
-    "https://www.facebook.com/nttcoms/photos/こんにちはmdmマスターデータマネジメントエバンジェリストの水谷です先日オンラインで開催したmdmセミナー多くの方にご視聴いただき画面越しにも熱気が伝わるセミナ/1133322442150325/",
-    "https://www.facebook.com/WebMiningStudies/posts/2837173246302443/",
-    "https://www.facebook.com/hashup.inc/posts/住所表記の名寄せがいかに難しいかが最近話題に上っていましたが弊社サービス楽単らくだの教員名でも同じような問題がありました昨年入社のエンジニア棚橋が早速この問題を/707457648054847/",
+    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/",
+    "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/"
-   ]
+    "https://www.facebook.com/hashup.inc/posts/住所表記の名寄せがいかに難しいかが最近話題に上っていましたが弊社サービス楽単らくだの教員名でも同じような問題がありました昨年入社のエンジニア棚橋が早速この問題を/707457648054847/",
+    "https://www.facebook.com/datascience222/posts/暑い寒い等境目がはっきりしないデータを扱う方法としてこのページではファジイを書いていますここではメンバシップ関数の事しか書いていないのですが最近出たファジーで-/692040894231527/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） note 社長",
    "results": [
     "https://note.com/atstream/n/n15ddcade7e85",
     "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://geniee.co.jp/media/cdp/ainame_matching/",
     "https://note.com/atstream/n/na4971a88118f",
     "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://lab.ludashi.com/evaluation/article/54",
-    "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://iridge.jp/blog/202507/39156/",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://lab.ludashi.com/evaluation/article/54",
     "https://note.com/lively_swan2582/n/n915bf36ed75c",
     "https://data-viz-lab.com/data-matching-and-data-cleansing"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） X 投稿",
@@ -1331,14 +1384,19 @@
     "https://cdp.com/ja/glossary/identity-resolution/",
     "https://www.amed.go.jp/content/000034153.pdf",
     "https://lab.ludashi.com/evaluation/article/59",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://hybrid-analysis.com/sample/7f4c136e54045e917da50be35d7025451d64a8fd06a0e658c39c2e0508030ac4/5a75d5327ca3e15563409593",
     "https://note.com/atstream/n/n15ddcade7e85",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "https://usonar.co.jp/blog/6065.html",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/ai-record-linkage-strategy/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "entity matching benchmark corner cases threshold gold standard site:linkedin.com",
@@ -1353,11 +1411,16 @@
     "https://www.linkedin.com/in/ella-avny",
     "https://www.linkedin.com/in/ahilya-mehta-b63712a0",
     "https://www.linkedin.com/in/anay-halwasiya-5660a722b"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T22:56:47.894576+00:00"
 }
