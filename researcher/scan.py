@@ -1195,6 +1195,18 @@ def scan(topic):
     _np = sum(1 for r in rows if r["一次"] == "一次")
     md += [f"- 一次の割合（4-90）：引用の件数で {_np}/{len(rows)}（{_np / len(rows):.0%}）／品目で {len(_it_p)}/{len(_it_all)}（{len(_it_p) / len(_it_all):.0%}）"
            + ("。⚠ 品目で見た割合が件数の半分未満：一次は少数の品目に偏る。一次の無い品目の結論は【未確認】のまま" if _np and len(_it_p) / len(_it_all) < 0.5 * _np / len(rows) else "")]
+    # 2026-11-08 4-91（PRISMA-S：英語だけ・1言語だけで探すと言語の片寄りが入る）。品目ごとに引用の言語（かなを含むか）を数え、
+    # 3件以上あるのに1つの言語だけの品目を並べる。穴埋めの検索で、もう一方の言語の別名を inputs に足す対象
+    _lang = {}
+    for r in rows:
+        _j = bool(re.search(r"[぀-ヿ]", r["引用"]))
+        _lang.setdefault(r["品目"], [0, 0])[0 if _j else 1] += 1
+    _one = sorted(k for k, (a, b) in _lang.items() if a + b >= 3 and (a == 0 or b == 0))
+    md += [f"- 1つの言語だけの品目（4-91・3件以上）：{len(_one)}／{len(_lang)}品目" + ("：" + "、".join(_one[:8]) + ("ほか" if len(_one) > 8 else "") + "。別の言語の別名で取り直すまで「見つからない」を言い切らない" if _one else "")]
+    # 2026-11-08 4-91（インティメート・マージャー「デスクリサーチの方法」：グラフ・図版は出典を書いても転載にならないことがある）。
+    # 公開リポジトリに図表の写しを載せないため、図・グラフの見出し・注記に見える引用を数える。数字は元の表で取り直す
+    _fig = sum(1 for r in rows if re.match(r"\s*(図表?|グラフ|Figure|Fig\.|Chart)\s*[0-9０-９\-－]", r["引用"]))
+    md += [f"- 図・グラフの見出しに見える引用（4-91）：{_fig}件" + ("。図の写しは載せず、元の表・本文の数字だけを使う" if _fig else "")]
     # 2026-11-05 4-21：機械で決めきれず人（Claude の走査）の確認が要る件数（Data Ladder：保留の件数を品質の指標にする）。文脈不明か年が無い数字
     nhold = sum(1 for r in rows if r["文脈"] == "不明" or not r["年"])
     md += [f"- 桁の感覚の外れで外した人数（1,000万人超・4-31）：{OUTLIERS.get(topic, 0)}件"]
@@ -1618,6 +1630,10 @@ def scan(topic):
         named = [k for k in INDICATOR if k in subj]
         if named and rs and not any(any(k in r["引用"] for k in named) for r in rs):
             md.append(f"- ⚠ 品目が名指しした指標（{'・'.join(named)}）が引用に1件も無い：{len(rs)}件は別の指標の数字。品目の問いの答えとして使わず、名指しした指標を取り直す（結果の差し替えの疑い・4-50）")
+        # 2026-11-08 4-91（走査の失敗：「全国」を名指しした mfg_capacity の品目に、小樽市・県の統計だけが入り、全国の値として採る値が出た）。
+        # 全国を名指しした品目で、引用がすべて自治体（lg.jp・pref.・city.）のホストなら、その品目の答えにしない
+        if "全国" in item and rs and all(re.search(r"\.lg\.jp$|^www\.pref\.|^www\.city\.", urlparse(r["URL"]).netloc or "") for r in rs):
+            md.append(f"- ⚠ 全国の品目なのに引用{len(rs)}件がすべて自治体の統計（4-91）：地域の値で全国の問いに答えない。所管（meti・e-Stat）で取り直す")
         # 2026-11-06 4-45（iri-group 新規事業の市場調査：工場向けなら会社数と工場数のどちらを数えているかを確かめる）：
         # 同じ品目の数え上げに「社」と「事業所」が両方あれば、企業と事業所（工場）が混ざっている。1社が複数の工場を持つので、同じ欄として比べない
         ucnt = {}
