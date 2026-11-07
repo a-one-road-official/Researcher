@@ -309,6 +309,12 @@ def rows_from_doc(topic, d):
                 if NOLOCAL.search(name) and region_of(url):
                     if NUM.search(q): drop(topic, "全国の品目に自治体の表（4-83）")
                     continue
+                # ④2026-11-08 走査の失敗から（61回目・4-86）：「厚生年金の被保険者数（日本年金機構 適用事業所検索）」の品目に、jsite.mhlw.go.jp の
+                # 失業給付・退職金・高齢者人口のページの値（45〜80%、100万円など）が32件入った。適用事業所検索は入力欄で引く仕組みで検索に出ない。
+                # 品目が年金機構・被保険者数を名指すのに、引用に被保険者・適用事業所の語が無ければ事実にしない
+                if re.search(r"(日本年金機構|被保険者数|適用事業所)", name) and not re.search(r"(被保険者|適用事業所)", q):
+                    if NUM.search(q): drop(topic, "名指した出どころの語が無い（年金機構の品目に別の制度のページ・4-86）")
+                    continue
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
@@ -1313,6 +1319,33 @@ def scan(topic):
     _WAREKI = re.compile(r"(昭和|平成|令和)\s*(\d{1,2}|元)\s*年|(?<![A-Za-z])[HR]\s?\d{1,2}[\.．年]")
     nwk = [r for r in rows if _WAREKI.search(r["引用"]) and not str(r.get("年") or "").strip()]
     if nwk: md.append(f"  - ⚠ 和暦の年が書かれているのに行の年が空 {len(nwk)}件（例：{nwk[0]['品目']}）：西暦への換算が抜けて系列に入っていない。換算してから年ごとに並べる（4-85）")
+    # 2026-11-08 4-86（電子決算公告ドットコム「貸借対照表 要旨の書き方」：要旨の公告でも当期純利益（純損失）は付記する。同じ表で千円と円が混ざる、
+    # 当期未処分利益と利益剰余金・資本準備金と資本剰余金の取り違えが典型）。⑥要旨の公告で当期純損益の付記がある引用を数える（売上が無くても利益の手がかり）
+    _NETP = re.compile(r"当期純(利益|損失|損益)")
+    _BSCTX = re.compile(r"(貸借対照表|要旨|決算公告|官報)")
+    nnp = [r for r in rows if _NETP.search(r["引用"]) and _BSCTX.search(r["引用"])]
+    if nnp: md.append(f"  - 決算公告・貸借対照表の引用で当期純損益の付記があるもの {len(nnp)}件（例：{nnp[0]['品目']}）：売上は無くても利益の手がかりになる。利益の値は売上の欄に入れない（4-86）")
+    # ⑦旧様式・取り違えの疑いの科目（当期未処分利益は2006年の会社法の前の様式。利益剰余金・資本剰余金と同じ欄で比べない）
+    _OLDACC = re.compile(r"(当期未処分利益|当期未処理損失|未処分利益)")
+    nold = [r for r in rows if _OLDACC.search(r["引用"])]
+    if nold: md.append(f"  - ⚠ 旧様式の科目（当期未処分利益など）の引用 {len(nold)}件（例：{nold[0]['品目']}）：2006年より前の様式か科目の取り違え。利益剰余金と同じ欄で比べない（4-86）")
+    # ⑧同じ引用に千円の数字と円の数字が混ざる（同じ表の中の単位の混在）
+    _KYEN = re.compile(r"[\d,，]+\s*千円"); _YEN = re.compile(r"[\d,，]+\s*(?<![千百万億])円")
+    nmix = [r for r in rows if _KYEN.search(r["引用"]) and _YEN.search(r["引用"].replace("千円", "＿＿"))]
+    if nmix: md.append(f"  - ⚠ 同じ引用に千円と円の数字が混ざる {len(nmix)}件（例：{nmix[0]['品目']}）：表の中で単位が混在した疑い。行ごとの単位を原表で確かめるまで足し合わせない（4-86）")
+    # 2026-11-08 4-86（comix「社長の仕事をAIに任せる」：PDFの表やグラフの数値はページ番号と単位を残し、転記後の合計を検算する）。
+    # ⑨PDF から取った値で、引用にページの手がかり（p.・ページ・頁）が無いものを数える（後で原本の位置に戻れない）
+    _PG = re.compile(r"(p\.\s*\d|P\.\s*\d|\d+\s*ページ|\d+\s*頁|page\s*\d)", re.I)
+    npdf = [r for r in rows if (r["URL"] or "").lower().split("?")[0].endswith(".pdf") and str(r.get("値", "")).strip()]
+    npg = [r for r in npdf if not _PG.search(r["引用"])]
+    if npdf: md.append(f"  - PDF から取った値 {len(npdf)}件のうち、引用にページの手がかりが無いもの {len(npg)}件：結論に使う値は原本のページと単位の行を scan.md に書き添える（4-86）")
+    # 2026-11-08 4-86（RAND RR1408「Assessing the Value of Structured Analytic Techniques」：最初に合う説明で止める「満足化」が典型の落とし穴）。
+    # ⑩値のある行が1つのホスト・1つの取得日だけの品目を数える（最初の1か所で止まった疑い。独立の2か所目を探すまで向き・結論に使わない）
+    _byit = {}
+    for r in rows:
+        if str(r.get("値", "")).strip(): _byit.setdefault(r["品目"], set()).add((urlparse(r["URL"]).netloc if r["URL"] else "", r["取得日"] or ""))
+    nsat = [k for k, v in _byit.items() if len({h for h, _ in v}) == 1 and len({d for _, d in v}) == 1]
+    if nsat: md.append(f"  - ⚠ 値が1か所・1回の取得だけの品目 {len(nsat)}件／{len(_byit)}品目（例：{nsat[0][:40]}）：最初に見つけた出どころで止まった疑い（満足化）。2か所目を探す品目として inputs に戻す（4-86）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
