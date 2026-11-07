@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-07T06:24:32.706776+00:00",
+ "researched_at": "2026-11-07T11:45:59.822354+00:00",
  "evidence": {
   "実例": [
    {
@@ -324,6 +324,50 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strategic estimates; long-horizon planning",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
@@ -412,50 +456,6 @@
    {
     "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Availability. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Anchoring. Probability estimates are",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "certainty into a probability estimate, people",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "goal-maximizing policy is overestimated.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.",
-    "url": "https://themindcollection.com/structured-analytic-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Strategic estimates; long-horizon planning",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1180,17 +1180,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/n3e777f43de46",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/everprogress/n/nde8351a93d60",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "url": "https://note.com/hirokimiyano/n/n3e777f43de46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/nde8068c5f269",
     "status": "ok",
     "method": "http"
    },
@@ -1235,6 +1235,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.ibm.com/jp-ja/think/topics/scenario-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://astah.change-vision.com/ja/tutorial/files/structured_analysis.pdf",
     "status": "ok",
     "method": "pdf"
@@ -1245,24 +1250,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.newton-consulting.co.jp/bcmnavi/column/scenario-analysis-guide.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_pdf/-char/ja",
     "status": "ok",
     "method": "pdf"
    },
    {
+    "url": "https://www.newton-consulting.co.jp/bcmnavi/column/scenario-analysis-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://eneken.ieej.or.jp/data/pdf/1030.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.ibm.com/jp-ja/think/topics/scenario-analysis",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_article/-char/ja/",
@@ -1323,13 +1323,13 @@
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/e_dao/n/n66df0213c7f2",
     "https://note.com/tsunobuchi/n/n17982922130d",
-    "https://note.com/hirokimiyano/n/n3e777f43de46",
     "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/hirokimiyano/n/n3e777f43de46",
+    "https://note.com/wish11_11/n/nde8068c5f269",
+    "https://note.com/glpgs_pr/n/n5f901364035f",
     "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
     "https://note.com/tsunobuchi/n/n8a38e368c99c",
-    "https://note.com/tsunobuchi/n/n8420871afe23",
-    "https://note.com/novapen_create/n/n608e3e40411d",
-    "https://note.com/vast_cosmos500/n/n5367745fb613"
+    "https://note.com/zum_ism/n/n95a214855ce7"
    ]
   },
   {
@@ -1341,8 +1341,8 @@
     "https://journal.jogmec.go.jp/content/300522184.pdf",
     "https://note.com/ku2t/n/nd08ac718468b",
     "https://loglass.jp/pal/100032",
-    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
     "https://archeco.co.jp/ux-design/2021/03/03/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%82%92%E5%AD%A6%E3%81%B6/",
+    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
     "https://note.com/ajike/n/n772fce7d1d45",
     "https://note.com/koyoko/n/ne73751b327d8"
    ]
@@ -1353,11 +1353,11 @@
     "https://jp.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec?tl=ja",
     "https://loglass.jp/pal/100032",
     "https://archeco.co.jp/ux-design/2021/03/03/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%82%92%E5%AD%A6%E3%81%B6/",
+    "https://www.ibm.com/jp-ja/think/topics/scenario-analysis",
+    "https://note.com/kenmochitakashi/n/n172889d4dbcd",
     "https://astah.change-vision.com/ja/tutorial/files/structured_analysis.pdf",
     "https://journal.jogmec.go.jp/content/300522184.pdf",
     "https://www.missiondrivenbrand.jp/entry/thinking__Structured",
-    "https://www.newton-consulting.co.jp/bcmnavi/column/scenario-analysis-guide.html",
-    "https://note.com/kenmochitakashi/n/n172889d4dbcd",
     "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_pdf/-char/ja",
     "https://note.com/ajike/n/n772fce7d1d45"
    ]
@@ -1366,15 +1366,15 @@
    "query": "構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務 事例",
    "results": [
     "https://loglass.jp/pal/100032",
-    "https://jp.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec?tl=ja",
     "https://journal.jogmec.go.jp/content/300522184.pdf",
     "https://astah.change-vision.com/ja/tutorial/files/structured_analysis.pdf",
-    "https://note.com/kenmochitakashi/n/n172889d4dbcd",
-    "https://eneken.ieej.or.jp/data/pdf/1030.pdf",
-    "https://www.newton-consulting.co.jp/bcmnavi/column/scenario-analysis-guide.html",
+    "https://jp.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec?tl=ja",
     "https://www.ibm.com/jp-ja/think/topics/scenario-analysis",
-    "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_pdf/-char/ja",
-    "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_article/-char/ja/"
+    "https://www.newton-consulting.co.jp/bcmnavi/column/scenario-analysis-guide.html",
+    "https://eneken.ieej.or.jp/data/pdf/1030.pdf",
+    "https://www.missiondrivenbrand.jp/entry/thinking__Structured",
+    "https://note.com/kenmochitakashi/n/n172889d4dbcd",
+    "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_pdf/-char/ja"
    ]
   },
   {
@@ -1387,8 +1387,8 @@
     "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
     "https://www.youtube.com/watch?v=PtYWVzY2Ves",
     "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283",
     "https://warnerchad.medium.com/structured-analytic-techniques-for-intelligence-analysis-notes-f11c9a8c934c",
-    "https://quizlet.com/study-guides/structured-analytic-techniques-in-intelligence-analysis-meth-2aa71e5d-3003-46b5-90b6-b69be2b50de7",
     "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques"
    ]
   },
@@ -1412,13 +1412,13 @@
    "results": [
     "https://x.com/k_koga555/status/2019002507465261376",
     "https://x.com/kyoritsu_pub/status/2118116834293768703",
+    "https://x.com/consul_ichinose/status/2118930576887693600",
+    "https://x.com/dkfj/status/2116880306242249035",
     "https://x.com/ai_jitan/article/2090194196737171862",
-    "https://x.com/ai_jitan/status/2029032869738496135",
+    "https://x.com/arnaudmercier/status/2118990402065739821",
     "https://x.com/masahirochaen/status/2039494024592244946",
-    "https://x.com/ai_jitan/article/2091725044615700596",
-    "https://x.com/turkey_jp/status/2117298500736254433",
-    "https://x.com/masahirochaen/status/2029456174295466139",
-    "https://x.com/enspire_co_jp/article/2074234052664811545",
+    "https://x.com/ai_jitan/status/2029032869738496135",
+    "https://x.com/ritsuecon",
     "https://x.com/Qlik_JP"
    ]
   },
@@ -1426,32 +1426,33 @@
    "query": "site:linkedin.com 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務",
    "results": [
     "https://jp.linkedin.com/pulse/financial-consolidation-software-8-ways-fix-multi-entity-mlgxf?tl=ja",
-    "https://jp.linkedin.com/pulse/ship-10x-faster-without-losing-plot-practitioners-devinarayanan-pbgac?tl=ja",
-    "https://jp.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec?tl=ja",
-    "https://jp.linkedin.com/posts/bambootakemura_ifrs-s2のシナリオ分析どこまで書けば十分か比例性原則の実務的読み方-activity-7439103591295963136-TKap",
-    "https://jp.linkedin.com/pulse/integrating-scenario-analysis-sampling-based-complex-system-federici-2bgyf?tl=ja",
-    "https://jp.linkedin.com/pulse/stress-testing-scenario-analysis-risk-management-marcin-majka-ntf3f?tl=ja",
-    "https://jp.linkedin.com/pulse/asrs-readiness-considerations-your-scenario-analysis-durnall-1mroc?tl=ja",
-    "https://jp.linkedin.com/pulse/power-stress-testing-scenario-analysis-risk-omar?tl=ja",
-    "https://jp.linkedin.com/pulse/decoding-project-success-mastering-what-if-scenario-analysis-zarikar-dryhf?tl=ja"
+    "https://jp.linkedin.com/pulse/ship-10x-faster-without-losing-plot-practitioners-devinarayanan-pbgac?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務",
-   "results": []
+   "results": [
+    "https://www.facebook.com/autismframework/posts/氷山モデルシートをシナリオにして保護者関係者に説明してみようシェア歓迎ですhttpsbouzan-notecomjiha3805html書き出し考えシナリオにし/1452694011521809/",
+    "https://www.facebook.com/EYJapanOfficial/posts/tnfdシナリオ分析の進め方レジリエントな経営体制を構築するワークショップの効果とポイントhttpsgoeycom3hfipvk不確実な未来に備え企業が戦略のレ/1225977286206923/",
+    "https://www.facebook.com/Japan.RIETI/posts/1004252841733959/",
+    "https://www.facebook.com/ProtivitiJapan/videos/on-demandgrcツール-auditboard活用ウェビナー/2628780897496490/",
+    "https://www.facebook.com/scenario.center/posts/ゼミの課題をwordで書きたいときシナリオ-のword設定でお困りでしたらこちらの動画を参考にしてください-シナリオ-脚本コンクール-シナリオセンター/797279499064649/",
+    "https://www.facebook.com/ourbase123/photos/朝の聴き流しレッスンでスッキリおはようございますあさ時間は1日の流れを決める大切な時間忙しい中でも流れを作りたいですよね聴き流しレッスンなら一回5分程度のレッス/270690591440118/",
+    "https://www.facebook.com/scenariokouza/"
+   ]
   },
   {
    "query": "構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務 note 社長",
    "results": [
     "https://note.com/kenmochitakashi/n/n172889d4dbcd",
     "https://note.com/yusuke_motoyama/n/n8f2fbe4a3102",
-    "https://note.com/masa_kei/n/n867eafea1d64",
     "https://note.com/ajike/n/n772fce7d1d45",
     "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
-    "https://archeco.co.jp/ux-design/2021/03/03/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%82%92%E5%AD%A6%E3%81%B6/",
     "https://loglass.jp/pal/100032",
     "https://www.consulnote.com/articles/problem-solving/problem-structuring/",
-    "https://note.com/threeplussix/n/n9a9f42eb6377",
+    "https://note.com/masa_kei/n/n867eafea1d64",
+    "https://www.youtube.com/watch?v=xj8vNebgY1s",
+    "https://mag.executive.itmedia.co.jp/executive/article/1809/19/1180919008/",
     "https://note.com/koyoko/n/ne73751b327d8"
    ]
   },
@@ -1461,9 +1462,9 @@
     "https://www.youtube.com/watch?v=sDOGvUNzdm8",
     "https://note.com/kenmochitakashi/n/n172889d4dbcd",
     "https://loglass.jp/pal/100032",
+    "https://smbiz.asahi.com/article/14856644",
     "https://astah.change-vision.com/ja/tutorial/files/structured_analysis.pdf",
     "https://mag.executive.itmedia.co.jp/executive/article/1809/19/1180919008/",
-    "https://smbiz.asahi.com/article/14856644",
     "https://forbesjapan.com/articles/detail/86511",
     "https://www.salesanalytics.co.jp/column/no00400/",
     "https://www.jstage.jst.go.jp/article/jergo/44spl/0/44spl_0_42/_pdf/-char/ja",
@@ -1473,21 +1474,21 @@
   {
    "query": "structured analytic techniques scenarios key assumptions check practitioner site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/institute-for-competitive-intelligence_competitiveintelligence-marketintelligence-activity-7498299453263708160-Nr0H",
     "https://www.linkedin.com/top-content/business-strategy/strategic-risk-assessment/scenario-analysis-in-risk-consulting/",
-    "https://www.linkedin.com/posts/mhwworkman_deep-uncertainty-4-in-this-post-we-seek-activity-7503740174330228737-ZtBj",
     "https://www.linkedin.com/posts/paul-prouse-741283245_intelligenceleadership-intelligenceanalysis-activity-7460177000587227136-62MX",
+    "https://www.linkedin.com/pulse/10-prompting-techniques-transform-how-advisors-work-ai-michael-v08wf",
     "https://www.linkedin.com/top-content/training-development/feedback-in-employee-training/feedback-sensitivity-analysis/",
     "https://www.linkedin.com/top-content/economics/cost-benefit-analysis-techniques/scenario-analysis-in-cost-benefit-studies/",
-    "https://www.linkedin.com/pulse/10-prompting-techniques-transform-how-advisors-work-ai-michael-v08wf",
-    "https://nz.linkedin.com/company/alcon-intelligence",
+    "https://www.linkedin.com/posts/ghosh-soumajit_requirement-gathering-vs-requirement-elicitation-activity-7479211794528473089-2kTm",
+    "https://www.linkedin.com/posts/muskan-khepar_causalinference-datascience-experimentation-activity-7442733106815647744-Gqbq",
+    "https://in.linkedin.com/in/raksharshetty67",
     "https://www.linkedin.com/posts/tonymartinvegue_cyberrisk-fair-cyberriskquantification-activity-7495537049266008064-Ax30",
-    "https://www.linkedin.com/posts/ghosh-soumajit_requirement-gathering-vs-requirement-elicitation-activity-7479211794528473089-2kTm"
+    "https://nz.linkedin.com/company/alcon-intelligence"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-06T04:10:55.442424+00:00"
 }

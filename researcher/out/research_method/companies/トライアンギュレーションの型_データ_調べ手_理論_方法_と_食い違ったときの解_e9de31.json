@@ -8,75 +8,9 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T06:50:25.436763+00:00",
+ "researched_at": "2026-11-07T12:00:43.114383+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q4. 結果が食い違ったらどうすればいいですか？",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どちらの立場を主張するかによって結果が異なります",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
+  "一次情報の探し方": [
    {
     "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
@@ -84,62 +18,8 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.",
+    "quote": "PDF (2.2 MB)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "; as mentioned, it is the combination of two or more types of triangulation in a study. Using triangulation within methods and researcher triangulation in a study or using triangulation within methods and among methods in a study are two examples of multiple triangulation. Kimchi",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "., give as an example the study by Wallson",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the quantitative methods take precedence and can be complemented with qualitative methods. In that case, the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If a research problem is quantitative, the characteristics described are not applicable. Researchers can locate substantial and relevant literature about the topic, create a conceptual map, and identify hypothesis to test. In this case, the research design is comparative or correlational, experimental or quasi-experimental.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "), exceptions can be made if the norms so permit, or if a comparison is available of a normal group, to interpret the results. For example, if dealing with the anxiety of the relatives in the waiting room, the anxiety scales can be interpreted with the norms available for anxiety scales.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "but those subjects included or the incidental observations in the qualitative part must be selected according with the criterion of good participants than through random selection. Thereby, the subjects selected for the quantitative sample must have greater experience and articulation, and the observations selected must consider the best examples of the situation.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "or focus groups, to provide different levels of detail and voice. For example, what people share in a",
-    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -591,6 +471,140 @@
    },
    {
     "quote": "Method triangulation: e",
+    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q4. 結果が食い違ったらどうすればいいですか？",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なぜ結果がずれたのか（対象・時期・方法の違い、測定の限界など）を考察する",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらの立場を主張するかによって結果が異なります",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "; as mentioned, it is the combination of two or more types of triangulation in a study. Using triangulation within methods and researcher triangulation in a study or using triangulation within methods and among methods in a study are two examples of multiple triangulation. Kimchi",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "., give as an example the study by Wallson",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the quantitative methods take precedence and can be complemented with qualitative methods. In that case, the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If a research problem is quantitative, the characteristics described are not applicable. Researchers can locate substantial and relevant literature about the topic, create a conceptual map, and identify hypothesis to test. In this case, the research design is comparative or correlational, experimental or quasi-experimental.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), exceptions can be made if the norms so permit, or if a comparison is available of a normal group, to interpret the results. For example, if dealing with the anxiety of the relatives in the waiting room, the anxiety scales can be interpreted with the norms available for anxiety scales.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "but those subjects included or the incidental observations in the qualitative part must be selected according with the criterion of good participants than through random selection. Thereby, the subjects selected for the quantitative sample must have greater experience and articulation, and the observations selected must consider the best examples of the situation.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or focus groups, to provide different levels of detail and voice. For example, what people share in a",
     "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1048,20 +1062,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (2.2 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": ": methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.",
@@ -1170,12 +1170,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "url": "https://note.com/saito_lab/n/nf232cfa34d7c",
     "status": "ok",
     "method": "http"
    },
@@ -1190,17 +1185,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://casrai.org/guides/triangulation-in-research",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "status": "ok",
     "method": "http"
    },
@@ -1215,12 +1215,12 @@
     "method": "http"
    },
    {
-    "url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1187&context=jsc",
+    "url": "https://www.researchgate.net/publication/341373408_Denzin's_Paradigm_Shift_Revisiting_Triangulation_in_Qualitative_Research",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/publication/341373408_Denzin's_Paradigm_Shift_Revisiting_Triangulation_in_Qualitative_Research",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeost050.pub2",
     "status": "http_403",
     "method": "http"
    }
@@ -1231,12 +1231,12 @@
    "query": "トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法） site:note.com",
    "results": [
     "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/saito_lab/n/n554cd436c4ae",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/saito_lab/n/nf232cfa34d7c",
     "https://note.com/kasano/n/n7b5909b6492c",
     "https://note.com/tomokikurosawa/n/nd32deefb9c94",
-    "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
-    "https://note.com/saito_lab/n/n1c8a7d0eac6e"
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/saito_lab/n/n554cd436c4ae",
+    "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1"
    ]
   },
   {
@@ -1254,56 +1254,46 @@
   {
    "query": "Denzin triangulation types between-method within-method divergent findings interpretation",
    "results": [
-    "https://casrai.org/guides/triangulation-in-research",
     "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "https://casrai.org/guides/triangulation-in-research",
     "https://www.koji.so/docs/triangulation-in-research-guide",
     "https://www.researchprospect.com/triangulation/",
-    "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1187&context=jsc",
     "https://www.researchgate.net/publication/341373408_Denzin's_Paradigm_Shift_Revisiting_Triangulation_in_Qualitative_Research",
-    "https://onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeost050.pub2"
+    "https://onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeost050.pub2",
+    "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1187&context=jsc"
    ]
   },
   {
    "query": "site:note.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
-   "results": [
-    "https://note.com/saito_lab/n/n554cd436c4ae",
-    "https://note.com/tomokikurosawa/n/nd32deefb9c94",
-    "https://note.com/kasano/n/n7b5909b6492c",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/mind_glitch_jp/n/n2e0e4550b0b1",
-    "https://note.com/saito_lab/n/n1c8a7d0eac6e"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
-   "results": []
+   "results": [
+    "https://x.com/fujimicho/status/2087798382307975514",
+    "https://x.com/grok/status/2111052669062160766",
+    "https://x.com/grok/status/2114927422046974286",
+    "https://x.com/ruka_identity_/status/2114484866326900800",
+    "https://x.com/394xxxx/status/2055781295867982005",
+    "https://x.com/hiro_stat/status/2117125160008667138",
+    "https://x.com/mozu113930/status/2098147380021604378"
+   ]
   },
   {
    "query": "site:linkedin.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
    "results": [
     "https://jp.linkedin.com/pulse/from-theory-practice-data-driven-decision-making-hamad-ali-alawadhi?tl=ja",
+    "https://jp.linkedin.com/pulse/data-strategy-theory-vs-practice-part-1-dr-irina-steenbeek-zejqe?tl=ja",
     "https://jp.linkedin.com/pulse/operation-triangulation-sitanshu-sai-theerthala-szfmc?tl=ja",
-    "https://www.linkedin.com/pulse/リサーチデザイン-経営知識創造の基本技術-昌幸-増田",
     "https://jp.linkedin.com/pulse/operation-triangulation-most-sophisticated-attack-chain-türker-1txzf?tl=ja",
+    "https://www.linkedin.com/pulse/リサーチデザイン-経営知識創造の基本技術-昌幸-増田",
     "https://www.linkedin.com/posts/finelabcoach_fine理論的事実と解釈-私たちは目の前で起きた事実にそのまま反応しているわけではありません-activity-7502938939314561024-BZLU",
-    "https://jp.linkedin.com/posts/haposoftjp_haposoft-eコマース-オンライン詐欺-activity-7232604258213195776-fzNb",
-    "https://jp.linkedin.com/pulse/why-interpretative-theory-matters-when-understanding-aruna-dharmapala-9ea0f?tl=ja",
-    "https://jp.linkedin.com/pulse/data-strategy-theory-vs-practice-part-1-dr-irina-steenbeek-zejqe?tl=ja"
+    "https://jp.linkedin.com/posts/haposoftjp_haposoft-eコマース-オンライン詐欺-activity-7232604258213195776-fzNb"
    ]
   },
   {
    "query": "site:facebook.com トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）",
-   "results": [
-    "https://www.facebook.com/WasedaU/videos/理論とデータで導く世界平和️早稲田大学-ではポッドキャスト-博士一歩前を配信中vol5では政治経済学術院の多湖教授をゲストに国際政治を科学する理論とデータで導く/1293414318393426/",
-    "https://www.facebook.com/sato.masahisa7/videos/防衛省が踏み出す自衛隊のデータ管理アナログ脱却今の時代戦場を支配できるのは情報をより多くより速く手に入れた方です-一方情報が漏洩した際の拡散スピードは紙媒体の比/1524802822735052/",
-    "https://www.facebook.com/haposoftjapanese/posts/122133480656310298/",
-    "https://www.facebook.com/hiroaki.miyata.169/videos/人類が二千年以上向き合ってきた生きることの解けない問いにbetter-co-beingの視点から正しさをめぐって誰かと本気で意見が食い違ったことはありませんかど/2379431899208101/",
-    "https://www.facebook.com/kamatani.golf.academy/videos/手を返してはいけないという言葉に縛られていませんか️️実は初心者中級者の方こそ積極的にフェースターンを行うべきなんです最近のゴルフ理論ではフェースターンを抑える/1950619838924098/",
-    "https://www.facebook.com/churaku/videos/痛いところを思わず手でさするぶつけたときも肩がつらいときも無意識にやっていませんか実はこれ単なる癖ではありません触れる刺激は脳や神経が痛みを処理する仕組みに影響/1032485843135324/",
-    "https://www.facebook.com/kaoru.ikeya.1/photos/国旗損壊罪は憲法が保障する表現の自由を侵害するとんでもない法案であるそもそも処罰対象の規定がおそろしく曖昧で客観性をまったく担保していない人に著しく不快又は嫌悪/26989348200750158/",
-    "https://www.facebook.com/kyoritsu.pub/posts/2022年2月新刊統計的データクリーニングの理論と実践rによるデータ編集欠測補完システムの訳者和田かず美先生よりコメントをいただきました-本書は国内の調査統計の/1908273619379416/"
-   ]
+   "results": []
   },
   {
    "query": "トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法） note 社長",
@@ -1316,241 +1306,18 @@
   {
    "query": "Denzin triangulation types between-method within-method divergent findings interpretation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
     "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
+    "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
     "https://pe.linkedin.com/pulse/convergent-divergent-experimental-methods-cloud-based-ld6if",
-    "https://de.linkedin.com/advice/0/how-do-you-use-mixed-methods-triangulation?lang=de",
     "https://fr.linkedin.com/advice/0/how-do-you-use-mixed-methods-triangulation?lang=fr",
+    "https://de.linkedin.com/advice/0/how-do-you-use-mixed-methods-triangulation?lang=de",
     "https://www.linkedin.com/posts/stephen-tregear_programevaluation-researchmethods-triangulation-activity-7471024238167162881-l89S",
     "https://pe.linkedin.com/pulse/importance-being-earnest-second-opinions-fact-finding-rob-armstrong-xhroc"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Triangulation in Research: Multi-Method Validation Guide (2026) | Koji",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation is the practice of using more than one data source, method, researcher, or theoretical lens to study the same phenomenon — and then comparing what each approach reveals. When the findings converge, your confidence in the result rises sharply. When they diverge, you have learned something important about the limits of any single method.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Every research method has a built-in blind spot. Surveys capture attitudes but not behavior. Interviews capture stories but not scale. Analytics capture behavior but not motivation. Triangulation closes those gaps by deliberately stacking complementary methods so the weakness of one is offset by the strength of another.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"Diversifying user research methods ensures more reliable, valid results by considering multiple ways of collecting and interpreting data. Using triangulation helps tell a consistent and cohesive story with multiple sources of data, to avoid stakeholder temptation to cherry-pick data that supports preexisting assumptions.\" — Nielsen Norman Group,",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation: Get Better Research Results by Using Multiple UX Methods",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The most widely cited framework comes from sociologist Norman Denzin, who introduced four basic types in 1978. They remain the backbone of how researchers reason about validity today.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. Methodological triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Combining multiple research methods. This is the most common and intuitive form, and it splits into two flavors:",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": multiple variants of the same kind of method (e.g., two different survey instruments measuring the same construct).",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": methods of different kinds (e.g., qualitative interviews + quantitative survey + behavioral analytics).",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Between-method triangulation is what most practitioners mean when they say \"triangulation\" without qualifying.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The phenomenon is invisible to a single method.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Programmatic research benefits compound when methods reinforce each other across studies. Combining whole studies over time, rather than methods within one question, is",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "heavy triangulation for quick directional checks, internal stakeholder alignment exercises, or methodologies you have already validated in past triangulated studies.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "When you triangulate, the methods can produce three patterns — and all three are useful.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Triangulation in Research: Multi-Method Validation Guide (2026) | Koji",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is triangulation in research?",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation is the practice of using more than one data source, method, researcher, or theoretical lens to study the same phenomenon — and then comparing what each approach reveals. When the findings converge, your confidence in the result rises sharply. When they diverge, you have learned something important about the limits of any single method.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Why triangulation matters (the BLUF)",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Every research method has a built-in blind spot. Surveys capture attitudes but not behavior. Interviews capture stories but not scale. Analytics capture behavior but not motivation. Triangulation closes those gaps by deliberately stacking complementary methods so the weakness of one is offset by the strength of another.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"Diversifying user research methods ensures more reliable, valid results by considering multiple ways of collecting and interpreting data. Using triangulation helps tell a consistent and cohesive story with multiple sources of data, to avoid stakeholder temptation to cherry-pick data that supports preexisting assumptions.\" — Nielsen Norman Group,",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation: Get Better Research Results by Using Multiple UX Methods",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The cost of skipping triangulation shows up later: a stakeholder asks \"but does this match what we see in the product data?\" and you cannot answer. Triangulation builds that answer into the design of the study.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Denzin's four types of triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1. Data triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2. Investigator (researcher) triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. Theory triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Theory triangulation is the rarest in industry research but the most useful when stakeholders are stuck arguing past each other — different theories often map to different team functions.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. Methodological triangulation",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Between-method triangulation is what most practitioners mean when they say \"triangulation\" without qualifying.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": ": methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The mistake new researchers make is treating divergence as a problem to be hidden. Experienced researchers treat it as a finding to be investigated.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Common triangulation mistakes",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— biases that triangulation helps surface and correct",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A comprehensive guide to the 9 most damaging cognitive biases in user research — from confirmation bias to social desirability bias — with practical strategies to detect and eliminate them before they corrupt your findings.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-06T13:04:12.994472+00:00"
 }
