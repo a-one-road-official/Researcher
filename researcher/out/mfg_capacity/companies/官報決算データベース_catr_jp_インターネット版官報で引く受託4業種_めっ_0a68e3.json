@@ -1,0 +1,1487 @@
+{
+ "name": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+ "en": "kanpo financial statement database catr plating heat treatment die press company",
+ "aliases": [
+  "官報決算データベース めっき 株式会社 当期純利益",
+  "catr.jp 金型 株式会社 決算公告",
+  "官報 決算公告 金属熱処理 純資産 当期純利益"
+ ],
+ "context": "会社・決算",
+ "kind": "market",
+ "researched_at": "2026-11-07T18:58:09.034652+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "企業概要、財務情報、倒産情報、業界分析",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "TSRの強みは、倒産情報のデータベースが充実している点です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の倒産リスクを評価する際に特に重宝します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "独立行政法人 国立印刷局「官報について」（https://www.npb.go.jp/product_service/books/kanpo/index.html）2026年6月時点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/861c9/1032849/settlements/fa382/490267",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/search",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "ポケモン決算公告で純利益71%増、法人データベース新メディア登場など注目トピックを整理",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/date/c6ede/2026-11-04/official-site",
+    "pass": 3
+   },
+   {
+    "quote": "有料老人ホーム (366)",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "約7万円/回",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、義務があるにもかかわらず決算公告を行っていない企業があります（違反した場合は会社法第976条により100万円以下の過料の対象）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社が決算公告をしないと100万円以下の過料リスク",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "145億200万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "225億3900万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "181億5400万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲8億8200万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲28億3500万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "164億2300万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲971万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "▲8億8200万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "▲28億3500万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "164億2300万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "4億9869万円",
+    "url": "https://catr.jp/companies/861c9/1032849/settlements/fa382/490267",
+    "pass": 3
+   },
+   {
+    "quote": "145億200万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "225億3900万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "181億5400万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "16億5409万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "12億6889万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "▲491万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "Q7: 決算公告に売上高が載っていないのはなぜですか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、大会社（資本金5億円以上または負債200億円以上）は損益計算書の公告も義務付けられています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社が決算公告をしないと100万円以下の過料リスク",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "7億1400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "568億5400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "▲8400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "104億3400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "会社法976条2号：100万円以下の過料",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "大会社（資本金5億円以上または負債総額200億円以上）を除き、貸借対照表の要旨のみが公告対象です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "非公開会社の2枠掲載で約8万円、大会社の場合は20万円を超えることもあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "解散公告は官報掲載が必須で費用3〜4万円",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "11億500万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "41億9400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "77億700万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "3億9400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "130億8300万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "451億9600万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "7億1400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "568億5400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "▲8400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "104億3400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "約7万円/回",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、義務があるにもかかわらず決算公告を行っていない企業があります（違反した場合は会社法第976条により100万円以下の過料の対象）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社が決算公告をしないと100万円以下の過料リスク",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "145億200万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "225億3900万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "181億5400万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲8億8200万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲28億3500万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "164億2300万円",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "▲971万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "▲8億8200万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "▲28億3500万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "164億2300万円",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "4億9869万円",
+    "url": "https://catr.jp/companies/861c9/1032849/settlements/fa382/490267",
+    "pass": 3
+   },
+   {
+    "quote": "145億200万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "225億3900万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "181億5400万円",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "16億5409万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "12億6889万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "▲491万円",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社が決算公告をしないと100万円以下の過料リスク",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "7億1400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "568億5400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "▲8400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "104億3400万円",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "会社法976条2号：100万円以下の過料",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "非公開会社の2枠掲載で約8万円、大会社の場合は20万円を超えることもあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "解散公告は官報掲載が必須で費用3〜4万円",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "11億500万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "41億9400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "77億700万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "3億9400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "130億8300万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "451億9600万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "7億1400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "568億5400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "▲8400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "104億3400万円",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "ネオキャリアの決算公告｜第25期は赤字転落、9期分の数字で見る推移",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2024 電子決算公告ドットコムMagazine.",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サイプレス 第43期決算公告（2018年7月期）・親会社・グループ情報 | 官報決算データベース",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月29日の決算一覧",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月29日",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "2018年07月31日",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "2018/07/31",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "2018/07/20",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "【2018年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "【2018年7月期】",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "【2017年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "エンフィニティ・ジャパン株式会社 第4期決算公告（2025年12月期）・会社情報 | 官報決算データベース",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月31日",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期】",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "【2022年3月期】",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "【2020年9月期】",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "岡本プレス工業株式会社 第67期決算公告（2025年3月期）・会社情報 | 官報決算データベース",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月6日の決算一覧",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月06日",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "2025年03月31日",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年11月期】",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期】",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新 2020年1月6日 (月) 10:25 （日時は",
+    "url": "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月07日",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "2018年07月31日",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "【2018年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "【2018年7月期】",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "【2017年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期】",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "2018/07/31",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "2018/07/20",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "2016年12月01日",
+    "url": "https://catr.jp/companies/55f08/34099",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CORE技術研究所 第12期決算公告（2025年6月期）・会社情報 | 官報決算データベース",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月12日の決算一覧",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "2025年09月12日",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "2025年06月30日",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年9月期】",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年11月期】",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期】",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "Jul 11, 2020",
+    "url": "https://website.informer.com/catr.jp",
+    "pass": 3
+   },
+   {
+    "quote": "Jul 10, 2021",
+    "url": "https://website.informer.com/catr.jp",
+    "pass": 3
+   },
+   {
+    "quote": "Jul 19, 2022",
+    "url": "https://website.informer.com/catr.jp",
+    "pass": 3
+   },
+   {
+    "quote": "Aug 27, 2023",
+    "url": "https://website.informer.com/catr.jp",
+    "pass": 3
+   },
+   {
+    "quote": "日本には約286万社の株式会社が存在しますが（国税庁統計、2024年時点）、決算公告を適切に行っている企業は一部にとどまるのが実情です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "決算公告の情報に加え、企業の信用調査レポート、業績推移、取引先情報なども確認できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業の情報も幅広くカバーしており、約900万社のデータベースを保有しています（2025年時点）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "合併公告や資本金の額の減少公告など、法定公告を電子公告で行う場合に登録が必要なシステムですが、決算公告（貸借対照表の公告）は調査義務の対象外であるため、全ての電子公告が網羅されているわけではない点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリアの決算公告｜第25期は赤字転落、9期分の数字で見る推移",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2024 電子決算公告ドットコムMagazine.",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CRAFTED JAPAN 第2期決算公告（2025年8月期）・会社情報 | 官報決算データベース",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月31日",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に施行された官報電子化法の影響にも触れながら、まずは官報閲覧の基本を押さえ、次に具体的な5つの閲覧手段、さらに目的別の最適な選び方をお伝えします",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の官報電子化で決算公告の閲覧はどう変わった？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "Q5: 2025年の官報電子化で過去の決算公告も無料で見られるようになりましたか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "直近90日間（2023年1月27日に30日から拡大）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   },
+   {
+    "quote": "有料データベースの利点は、決算公告の内容だけでなく、資本構成・取引先情報・業績推移といった付加情報を一括で取得できることです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年 4 月23日の 官報決算公告 一覧（純利益が多い順） — 2026年 4 月23日の 官報決算公告 一覧（純利益が多い順） 官報決算データベース https://catr.jp > date",
+    "url": "https://catr.jp/date/c63ac/2026-04-23",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サイプレス 第43期 決算公告 ・親会社・グループ情報 — 株式会社 サイプレス 第43期 決算公告 ・親会社・グループ情報 官報決算データベース https://catr.jp > 株式会社サイプレス",
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "pass": 3
+   },
+   {
+    "quote": "エンフィニティ・ジャパン 株式会社 第 4 期 決算公告 — エンフィニティ・ジャパン 株式会社 第 4 期 決算公告 官報決算データベース https://catr.jp > 2026年10月26日の決算一覧",
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "pass": 3
+   },
+   {
+    "quote": "岡本 プレス 工業 株式会社 第67期 決算公告 — 岡本 プレス 工業 株式会社 第67期 決算公告 官報決算データベース https://catr.jp > 岡本プレス工業株式会社",
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 CORE技術研究所 第12期 決算公告 — 株式会社 CORE技術研究所 第12期 決算公告 官報決算データベース https://catr.jp > 株式会社CORE技術研究所",
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 CRAFTED JAPAN 第2期 決算公告 — 株式会社 CRAFTED JAPAN 第2期 決算公告 官報決算データベース https://catr.jp > 株式会社CRAFTED JAPAN",
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の 会社の決算 一覧（利益剰余金が多い順・43ページ目） — 製造業の 会社の決算 一覧（利益剰余金が多い順・43ページ目） 官報決算データベース https://catr.jp > industries",
+    "url": "https://catr.jp/industries/5?sort=retained_earnings&offset=840",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日の公式サイト 決算公告 の一覧 — 2026年11月04日の公式サイト 決算公告 の一覧 官報決算データベース https://catr.jp > date > official-site",
+    "url": "https://catr.jp/date/c6ede/2026-11-04/official-site",
+    "pass": 3
+   },
+   {
+    "quote": "Strider Technologies Japan 第1期 決算公告 ・ 会社 情報 — Strider Technologies Japan 第1期 決算公告 ・ 会社 情報 官報決算データベース https://catr.jp > Strider Technologies Japan株式会社",
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の 会社 の 決算 一覧（利益剰余金が多い順・45ページ目） — 製造業の 会社 の 決算 一覧（利益剰余金が多い順・45ページ目） 官報決算データベース https://catr.jp > industries",
+    "url": "https://catr.jp/industries/5?sort=retained_earnings&offset=880",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \"株式会社ジャムコ 第86期決算公告 東京... @kessan_db 株式会社ジャムコ 第86期決算公告 東京都三鷹市 売上高：804億4467万2000円 純利益： 58億4546万円 総資産：1591億8153万2000円 株式会社ジャムコ 第86期決算公告（2026年3月期）・子会社・グループ情報 | 官報決算データベース From catr.jp 10:53 PM · Jul 17, 2026 ...",
+    "url": "https://x.com/kessan_db/status/2078251703154225258",
+    "pass": 3
+   },
+   {
+    "quote": "官報決算データベース on X: \"株式会社TKX 決算公告 大阪府大阪市天王... Show translation 株式会社TKX 決算公告 大阪府大阪市天王寺区 純利益：1億14万9,000円 (前期比+43.15%) 総資産：27億4,378万7,000円 (前期比+4.32%) 株式会社TKX 決算公告（2025年12月期）・会社情報 | 官報決算データベース From catr.jp 3:36 AM · Mar 15, 2026 · 249 Views",
+    "url": "https://x.com/kessan_db/status/2033024428976873572",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "トヨタエルアンドエフ石川 - トヨタエルアンドエフ石川株式会社 第35... Jun 8, 2022 · Jun 8, 2022 トヨタエルアンドエフ石川株式会社 第35期決算公告 純利益：7285万5000円 (前期比+5.1%) 利益剰余金：10億3519万1000円 (前期比+6.46%) 総資産：18億4581万6000円 (前期比+5.84%) 官報決算データベース CATR.JP トヨタエルアンドエフ石川株式会社 第35期 ...",
+    "url": "https://www.facebook.com/toyotaLFishikawa/posts/トヨタエルアンドエフ石川株式会社-第35期決算公告-純利益7285万5000円前期比51利益剰余金10億3519万1000円前期比646総資産18億4581万6/7614833891891531/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/c63ac/2026-04-23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/861c9/1032849/settlements/fa382/490267",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/a1bcb/55009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/information/procurement/chotatsu/seifu/index-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/2aecb/2025-06-16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaijiwire.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/kessan_db/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/industries/6?sort=retained_earnings&order=asc&offset=20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/55f08/34099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/pref/13?sort=retained_earnings&order=asc&offset=180",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/pref/13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://site2.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://website.informer.com/catr.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/cities/1246?sort=retained_earnings&order=asc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/0a2ec/2026-06-23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanpou.ai/kessan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://catr.jp/industries/5?sort=retained_earnings&offset=840",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/c6ede/2026-11-04/official-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/industries/12?sort=increase_net_income_ratio&offset=360",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/e8009/7718",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/industries/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/industries/5?sort=retained_earnings&offset=880",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/6041a/55012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/e497d/219244",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/industries/7?limit=20&offset=580&order=desc&sort=retained_earnings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pinterest.com/pin/763923155529504652/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2025_databook_print.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tocalo.co.jp/english/ir/news/news20221226103063/main/0/link/File60067551.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura-machine.co.jp/en/ir/gyoseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2078251703154225258",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2033024428976873572",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toyotaLFishikawa/posts/トヨタエルアンドエフ石川株式会社-第35期決算公告-純利益7285万5000円前期比51利益剰余金10億3519万1000円前期比646総資産18億4581万6/7614833891891531/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 人手不足 受注 断る",
+   "results": [
+    "https://catr.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://www.kanpo.go.jp/",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://catr.jp/date/2aecb/2025-06-16",
+    "https://www.npb.go.jp/news/r05/20230801_kanpo.html",
+    "https://sur.ly/i/catr.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 受注残 人手不足",
+   "results": [
+    "https://catr.jp/",
+    "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "https://www.kanpo.go.jp/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "https://catr.jp/companies/861c9/1032849/settlements/fa382/490267",
+    "https://catr.jp/companies/a1bcb/55009",
+    "https://www.nta.go.jp/information/procurement/chotatsu/seifu/index-2.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 人手不足 損失 億円",
+   "results": [
+    "https://catr.jp/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://www.kanpo.go.jp/",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/a1bcb/55009",
+    "https://catr.jp/companies/8f09d/218049/settlements/be87c/489278",
+    "https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803",
+    "https://catr.jp/date/2aecb/2025-06-16",
+    "https://kaijiwire.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+   "results": [
+    "https://catr.jp/",
+    "https://www.kanpo.go.jp/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://x.com/kessan_db/with_replies",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://catr.jp/industries/6?sort=retained_earnings&order=asc&offset=20",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/companies/55f08/34099",
+    "https://catr.jp/pref/13?sort=retained_earnings&order=asc&offset=180",
+    "https://website.informer.com/catr.jp"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 推移",
+   "results": [
+    "https://catr.jp/",
+    "https://x.com/kessan_db/with_replies",
+    "https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465",
+    "https://catr.jp/pref/13?sort=retained_earnings&order=asc&offset=180",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/pref/13",
+    "https://catr.jp/companies/55f08/34099",
+    "https://site2.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://website.informer.com/catr.jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 統計 PDF",
+   "results": [
+    "https://catr.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/a1bcb/55009",
+    "https://catr.jp/cities/1246?sort=retained_earnings&order=asc",
+    "https://catr.jp/date/0a2ec/2026-06-23",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://website.informer.com/catr.jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://catr.jp/",
+    "https://catr.jp/industries/5?sort=retained_earnings&offset=840",
+    "https://catr.jp/date/c6ede/2026-11-04/official-site",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/8fe53/288265/settlements/7b947/433543",
+    "https://catr.jp/industries/12?sort=increase_net_income_ratio&offset=360",
+    "https://catr.jp/companies/e8009/7718",
+    "https://catr.jp/industries/3",
+    "https://search.npb.go.jp/kanpou/",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 従業者規模別",
+   "results": [
+    "https://catr.jp/",
+    "https://catr.jp/industries/5?sort=retained_earnings&offset=880",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "https://catr.jp/companies/6041a/55012",
+    "https://catr.jp/companies/e497d/219244",
+    "https://catr.jp/date/2aecb/2025-06-16",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/list"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 1人当たり 万円",
+   "results": [
+    "https://catr.jp/",
+    "https://www.kanpo.go.jp/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://x.com/kessan_db/with_replies",
+    "https://catr.jp/industries/7?limit=20&offset=580&order=desc&sort=retained_earnings",
+    "https://catr.jp/industries/6?sort=retained_earnings&order=asc&offset=20",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://site2.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） 2015 2025",
+   "results": [
+    "https://catr.jp/",
+    "https://www.kanpo.go.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "https://x.com/kessan_db/with_replies",
+    "https://catr.jp/pref/13?sort=retained_earnings&order=asc&offset=180",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/companies/55f08/34099",
+    "https://jp.pinterest.com/pin/763923155529504652/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "kanpo financial statement database catr plating heat treatment die press company Japan statistics",
+   "results": [
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2025_databook_print.pdf",
+    "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.tocalo.co.jp/english/ir/news/news20221226103063/main/0/link/File60067551.pdf",
+    "https://www.shibaura-machine.co.jp/en/ir/gyoseki.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/coating-resins-market/Japan",
+    "https://www.hirata.co.jp/files/optionallink/00002949_file.pdf",
+    "https://asset.kansai.com/uploads/2024/08/2024_fn_en.pdf",
+    "https://hachiquant.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+   "results": [
+    "https://note.com/kanpo_blog/archives",
+    "https://note.com/kanpo_blog",
+    "https://note.com/kanpo_digest",
+    "https://note.com/kanpo_digest/n/n2f57329c2da1",
+    "https://note.com/kanpo_digest/n/nbd5f5247443f",
+    "https://note.com/tekitodesigner/n/nee54df3eeaa2",
+    "https://note.com/iltukun/n/n4737a868a5a8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+   "results": [
+    "https://x.com/kessan_db",
+    "https://x.com/kessan_db/status/2078251703154225258",
+    "https://x.com/kessan_db/status/2033024428976873572",
+    "https://x.com/kessan_db/status/2039832624462786623",
+    "https://x.com/kessan_db/status/2040307858789818802",
+    "https://x.com/kessan_db/status/2076950560432157163",
+    "https://x.com/kanpo_blog"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）",
+   "results": [
+    "https://www.facebook.com/100050929632349/posts/日本トイザらス-決算公告第37期-第37期-決算公告売上高809億300万円売上総利益279億2100万円営業利益17億9300万円経常利益16億4500万円当/1275385974169045/",
+    "https://www.facebook.com/100050929632349/posts/まいばすけっと-決算公告第14期httpskanpo-kanpoblogjparchives44615315html第14期-決算公告売上高2903億6000万/1297160398658269/",
+    "https://www.facebook.com/osakakanpou/",
+    "https://www.facebook.com/toyotaLFishikawa/posts/トヨタエルアンドエフ石川株式会社-第35期決算公告-純利益7285万5000円前期比51利益剰余金10億3519万1000円前期比646総資産18億4581万6/7614833891891531/",
+    "https://www.facebook.com/PiPhotonicsInc/posts/インターネット版官報の号外第284号に当社12期決算公告が掲載されました今後さらなる成長を目指して事業加速していきますhttpskanpounpbgojp/2483420885018430/",
+    "https://www.facebook.com/PiPhotonicsInc/posts/ｉｒ情報191225-インターネット版官報の号外第193号に当社13期決算公告が掲載されました今後さらなる成長を目指していきますhttpskanpounpbgo/3175745252452653/",
+    "https://www.facebook.com/officemitadera/posts/官報公告を久しぶりに頼まれてインターネットで申込公告原稿を送りましたネットで簡単にできるけど簡単すぎてちょっと不安になります笑httpswwwgov-booko/953109751458956/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） note 社長",
+   "results": [
+    "https://catr.jp/",
+    "https://www.kanpo.go.jp/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/",
+    "https://x.com/kessan_db/with_replies",
+    "https://catr.jp/companies/a1bcb/55009",
+    "https://catr.jp/industries/6?sort=retained_earnings&order=asc&offset=20",
+    "https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539",
+    "https://ja.wikipedia.org/wiki/Template:%E5%AE%98%E5%A0%B1%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9",
+    "https://catr.jp/companies/55f08/34099",
+    "https://website.informer.com/catr.jp"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87） X 投稿",
+   "results": [
+    "https://catr.jp/",
+    "https://catr.jp/date/c63ac/2026-04-23",
+    "https://www.kanpo.go.jp/",
+    "https://catr.jp/companies/a6747/17999",
+    "https://x.com/kessan_db",
+    "https://catr.jp/companies/4e9b6/305056/settlements/66437/449785",
+    "https://catr.jp/industries/5?sort=retained_earnings&offset=880",
+    "https://catr.jp/companies/5ece4/42203",
+    "https://b.hatena.ne.jp/entry/s/catr.jp/companies/cba8b/27782",
+    "https://website.informer.com/catr.jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "kanpo financial statement database catr plating heat treatment die press company site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/michaelkeithharmon",
+    "https://www.linkedin.com/in/gregory-bierlein-6ba85121",
+    "https://in.linkedin.com/in/surendra-chauhan-8a2317242",
+    "https://ca.linkedin.com/in/allen-zhuang-a03b1823",
+    "https://bo.linkedin.com/company/j-v-manufacturing-co-inc-",
+    "https://pe.linkedin.com/pulse/heat-treatment-free-die-casting-aluminum-alloys-china-sydney-tang-p4jic",
+    "https://th.linkedin.com/in/eagkarat-kanpo-797032157"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ50頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ50頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ50頁・検索18回）"
+ }
+}

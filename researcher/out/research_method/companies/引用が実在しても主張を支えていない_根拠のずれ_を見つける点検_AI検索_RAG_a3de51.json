@@ -8,8 +8,1494 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T13:27:36.228111+00:00",
+ "researched_at": "2026-11-07T19:04:54.607988+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "検証済みの取得文書に生成プロセスを固定する",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMがクエリ改良や仮説文書生成をする際、既に応答に有用な情報種別を「考慮」します",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、RAGの中核的な目標である、ハルシネーションを削減し検証可能性を確保するためです",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、検索結果の中からどの情報を重視するか、情報をどのように組み合わせるか、あるいは矛盾する情報がある場合にどのように対処するかといった点について、複数の仮説（思考の枝）を立て、それぞれの妥当性を評価します",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGの中核的なメカニズム、つまり取得された検証可能な文書に応答を基づかせることは、ハルシネーションを削減するための基本的な技術です",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMによる自身の生成コンテンツ内主張の真実性評価、およびこの検証のためのRAG自体の潜在的使用",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "取得された検索エンジンの結果とのクロスチェックによる、根拠付けの奨励",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "誤解を招く情報、無関係な情報、または矛盾する情報を取得すること",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "コンテキストとの矛盾や、コンテキスト外情報創作の有無",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答内主張の特定と、それらのコンテキストからの推論可能性検証による計算",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノイズの多い文書や矛盾する文書を処理する能力の評価",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "回答内主張の特定、各主張のコンテキストからの推論可能性のLLM検証",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本報告では、RAGシステムの精度を向上させるための多岐にわたる戦略を検証しました",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の業務で活用するには、多様なファイル形式（PDF、Word、PowerPoint等）への対応、検索精度の調整、ユーザーごとのアクセス権限管理など、利用環境に応じた設計と検証が必要です",
+    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3．出典を開き、主張と原文を照合する",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "引用文もAIが生成したものなら、原文に実際に存在するかを照合します",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIにもう一度「正しい？」と聞くことは点検の補助にはなりますが、外部の根拠との照合を代替するものではありません",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要な主張は、人が原文と照合します",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "引用先を開けず、検証できない",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "答えがない、矛盾している、正式版が不明なら、根拠層の問題です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法｜臨床AIラボ｜現役医師のAI研究",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究でAIの誤りを減らすための具体的な検証方法",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "見た目では区別できないからこそ、検証が要ります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが挙げた文献を検証する3つの手順",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "逆に言えば、検証さえ徹底すれば、AIは恐れる道具ではなく、頼れる道具になります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが示した引用を検証する方法と、研究上の倫理については、別の記事でさらに踏み込んで扱う予定です",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プロンプトで「引用してください」とお願いする実装と、APIが構造化された引用を返す実装では、後から検証できるかどうかが変わってくる、という整理です",
+    "url": "https://note.com/shigyoai/n/nc722ae05f766",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社のRAGツール「OfficeAI社員®」の導入企業である大手自動車部品メーカーでは、過去のトラブル対応記録が表形式で蓄積されていたため、複数の生成AIツールを同条件で比較検証しました",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このプロセスにおいて的を射た仮説を立てるためには、RAGの仕組みを理解することにくわえて、現場が抱える業務課題とデータに対する理解も求められます",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "より高度なRAGアーキテクチャの提案・実装・精度検証",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "チャンク化の効果を検証 (Recall@50)",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・検証／評価（質問・回答のセットを事前に準備）・課題把握（×× サイクル）・本番構築への意思決定",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クエリのトークンとインデックスを照合し“どれだけ一致したか”を点数化",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ベクトル検索: 仮説的文書埋め込み（HyDE）やクエリ拡張を実施する",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. RAGの評価手法の検証",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大規模言語モデルは近年急速な進歩を遂げていますが、これらの進歩にもかかわらず、裏付けのない情報や矛盾した内容を生成する点においては依然として課題があります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証時に用いたデータセットやプロンプトなどの詳細については付録に記載したため、詳細が知りたい場合はそちらを参照してください",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下に、多言語E5をファインチューニングして得られたモデルを検索に使うことで、検索性能がどのように変化するかを検証した結果を示します",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、学習用のデータセットとして、人間が作成した質問と回答のペアとLLMが作成したペアのそれぞれを使った場合の性能を検証しています",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自分で機械学習モデルを用意する場合は学習・検証・評価用データセットを用意し、LLMを使う場合はプロンプトのチューニング用と評価用のデータセットを用意して、性能を検証しながら進めるとよいでしょう",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以降では、日本語の質問応答データセットを利用して、クエリ変換をしたときの検索性能の検証結果を紹介します",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そこで、日本語の質問応答データセットを利用して、ハイブリッド検索をしたときの検索性能の検証結果を紹介します",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回は、この内の80%を学習用、20%を検証用として利用",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に検索エンジンから情報を選定する場合、信頼性の低いサイトや虚偽の内容、矛盾する結果などが参照元とされる可能性もあるためです",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGとは？仕組みや検証した回答精度をわかりやすく紹介 | アスピック｜SaaS比較サイト",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事ではRAGの仕組みやできること、回答精度を高める方法などについて、実際の検証結果もふまえてわかりやすく解説します",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どれだけの回答精度が実現できるのか、アスピック編集部が実際に検証してみました",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の検証は、以下の環境のもとで行いました",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どのような失敗があり、それぞれどのような方法を使えば回答精度を高められるのか、実際の検証結果をもとにご紹介します",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アスピック編集部の検証でも、2列までの簡易的な表に関する情報は回答できましたが、3〜4列の表や、セルが結合されている表に関しては、うまく回答することができませんでした",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証の際も同社のリランクモデルを使うことで、より精度の高い回答を出力できました",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「自社のリソースを割きたくない」「プロの手で環境を構築してほしい」「導入後の検証作業や社内浸透まで伴走してほしい」という場合は、アウトソーシングがおすすめです",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが提示した出典を検証する7つの方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "方法3：資料名・著者・発行年を照合する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ3：検証結果を整理する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※これは検証方法を説明するための架空の例です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際のアプリや検証実験の結果ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "必要に応じて第三者による検証記事も参考にします",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※以下の主張は検証手順を説明するために設定したものです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証作業を終えたら、確認できた範囲を記録します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIファクトチェックの方法｜生成AIの回答が正しいかを、根拠提示と自動検証で確かめる | Beekle",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIの回答が正しいかを、根拠提示と自動検証で確かめる",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、人が毎回確認するのではなく、AIに根拠（引用元）を必ず示させ、回答を事実と突き合わせて検証するやり方を扱います",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「どの資料のどこに基づくか」が回答に付いていれば、人はその一箇所を見るだけで裏取りできます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この回答後の検証（Evidence Verification）を挟むと、プロンプトの指示が破られても、最後の関門で誤答を減らせます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンク先に回答の根拠が実際に書かれているか、版と適用条件が合っているかを照合する仕組みがあって、初めて効く",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、Bing Chatなど商用4サービスの回答を人手で照合し、生成された文のうち引用で完全に裏付けられていたものは平均51.5%だったと報告した",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2年後、対象を医療に絞った検証が出た",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、医療の質問800問への7つのLLMの回答から約5万8,000組の「文と出典」の対を照合し、モデルにより50%から90%の回答が、引用した出典に完全には支えられていなかったと報告している",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付があっても、金額の転記が合っているかは突き合わせないと分からない",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンク先には確かにその金額が書いてあるから、回答とリンク先だけを照合すると「一致」に見える",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "文書の鮮度管理の問題であって、照合では見つからない",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第一の型は回答と文書の突き合わせで見つかる",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金額・解約・契約条件のように誤案内が直接の損害になる用件に絞って照合を業務フローに組み込み、それ以外は事後の抜き取りで監査する",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表示は入り口にすぎず、誰がいつ照合するかの工程表までが仕組みである",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照合の仕組みにはテストセットも人手もかかる",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "すべてのセンターに同じ重さの照合工程を勧める話ではない",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金額・契約・解約・本人確認のように、誤案内が損害や苦情に直結する用件へAIの回答を使うなら、参照元の表示を「あるか」ではなく「照合されているか」で見る",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高リスク用件の照合は業務フローのどこに置かれているか",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表示を効かせるには、引用の正確さの指標、参照元の鮮度と版の管理、照合を組み込んだ業務動線の3つが要る",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成した回答を引用元と突き合わせて検証する",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が目視で確認する方法と、AIに引用元を示させて回答後に自動照合する方法があります",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金額や規程など、誤答が損失につながる業務ほど、検証の仕組みが欠かせません",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答に引用元を必ず添え、資料にないことは答えない設計にしたうえで、生成した回答を引用元と突き合わせて検証する工程を挟みます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プロンプトが破られても、この照合で誤答を止められます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "根拠提示、資料外は答えない設計、回答後の照合を重ねると、誤答は大きく減り、残った誤りも根拠をたどって人が見抜けます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答を出したあとにも根拠と突き合わせて検証する工程を挟み、それらしいだけの誤答を大きく減らしています",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "which lawyers turn to generative AI. Our estimate of the hal -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lucination rate is not meant to be an unbiased estimate of the",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "近年、OpenAIのGPT-4やGoogleのGemini、MetaのLLaMAをはじめとする大規模言語モデル（Large Language Model：LLM）の能力が大幅に向上し、自然言語処理において優れた結果を収めています[1][2][3]",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLM-jp-eval[4]およびMT-bench-jp[5]を用いた日本語LLMの評価結果",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OpenAI DevDay 2023で紹介されたRAGの性能を向上させるのに使ったテクニックの事例",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらのメタデータは、検索結果を絞り込むためのフィルターとして使うことで検索性能を向上させられることがあります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、「昨日のメールを要約して」というクエリの場合、文字列としての「昨日」とメール本文をマッチさせるのではなく、メールの受信日にマッチした結果を返さなければ、望むような応答はできないでしょう",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その検索結果として、博多のラーメン屋が表示されたらユーザーにとって期待外れな結果である可能性が高いでしょう",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]の事例を紹介して、本節を終えたいと思います",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この事例では、RAGを使ってメールアプリのアシスタントを作る方法について解説しています",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "記事ではそれだけでなく、キーワード抽出や固有表現認識、日付の範囲抽出などを組み合わせて検索性能を向上させていたり、結果をヒューリスティックや機械学習を使ってリランキングする方法についても紹介しています",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "で分割し、その結果が指定したサイズ以下のチャンクを生成しない場合は次の区切り文字である",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoftのブログでは、チャンクサイズとオーバーラップの設定を変えた場合のベクトル検索の性能についての実験結果が示されています[",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このように、検索対象のチャンクと検索結果として返すチャンクを切り分ける戦略が有効なことがあります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最後に、類似度が高い順に文書を並べ替えて、検索結果を返します",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以下に、いくつかの埋め込みモデルを日本語の検索タスクで評価した結果を示します",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3-1. 評価の実例",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、企業内のナレッジベースを活用したチャットボットや、FAQの自動応答システムなどの用途で導入が進んでいます",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まずは回答上問題ないと判定する基準を定めることが評価の属人性を排除するために重要となります（例えば、○○に関する記述があるorない）",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自動評価の一例として、信頼性（Faithfulness）を評価事例を紹介します",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同様に、セット2では文脈に忠実な文章のスコアが0.3程度、忠実でない文章は0程度となり、妥当な結果となりました",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NTT東日本では、生成AIの環境提供や活用促進に関するコンサルティング、生成AIのユースケース創出に向けた技術支援を行っております",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本コラムでは、生成AIの業界別でのユースケースについてご紹介します",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索結果から、プロンプトに最も関連性の高い情報を抽出します",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば企業環境では、正確なRAGは意思決定のための信頼できる情報を提供することにより、業務効率を大幅に改善できます",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "不適切にセグメント化されたデータは、最適とは言えない結果につながります",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、LangChainのCharacterTextSplitterはチャンクサイズとオーバーラップの指定を可能にします",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、LLMが処理する",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実世界のユースケースに対するベンチマークが不可欠です",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "大幅な改善が示されており、例えば、金融データセットでのファインチューニング後、bge-base-en_dot_ndcg@10メトリックが0.59から0.82に改善した事例もあります",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "汎用モデルは専門用語（例えば「res ipsa loquitur」や「MI」など）を誤解釈したり過小評価したりすることが明確に示されています",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、不正確または無関係な回答が生成されることになります",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、合成データ生成や特化型損失関数といった技術があります",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、RAGシステムは不完全なユーザー入力に対する堅牢性が向上します",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「マグネシウムとカルシウムの化学的性質は何か？」というクエリは、「マグネシウムの化学的性質は何か？」などに分解されます",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Reciprocal Rank Fusion (RRF) のような融合アルゴリズムは、並列検索から得られた結果を組み合わせてランク付けをします",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RRFなどの手法を使用し、キーワード検索とベクトル検索の結果を統合して再ランク付けします",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統合され、関連性の高い順に並べられた検索結果です",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、改定された社内規定について質問しても、答えられないか、過去のデータを参照した回答や虚偽の回答を返す形で対応してしまうでしょう",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、社内の問い合わせ対応にRAGを活用しても、参照元の社内規定データが古いままでは、誤った方法で業務が進む恐れがあります",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、会議の要約や長期経営戦略の立案などです",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAGは回答の根拠となる情報を与える方法ですが、正確性を保証するものではないため、検索結果と回答品質の評価が必要です",
+    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "、より内容が具体的で文脈が明確な「拡張プロンプト（Augmented Prompt）」（※検索結果を付与した、より具体的な指示書）を作成します",
+    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— 答えが検索結果に忠実か（＝資料にないことを言ってないか）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "両方走らせて、結果を混ぜる",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の検索結果（順位つき）を、順位ベースで融合する",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "# BM25の結果（順位順）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以下のRAG評価スコアと事例から、ボトルネックが「検索の再現率(recall)」なのか",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スコアと事例をセットで渡して切り分けさせる",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗事例のトリアージ、原因の要約",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、論文名の形式や著者・発行年の書き方を知っていても、特定の論文が実在するとは限りません",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "古い版だけを拾ったり、対象のプランが違ったり、重要な例外が検索結果に含まれていなかったりすれば、回答の材料が不足します",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定の製品で観測した実験結果ではありません",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、「この資料では確認できない」と答える余地を残します",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果として取得された文書名と該当箇所を確認します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗3：正しい文書があるのに、検索結果へ出ない",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果を見ずに、回答だけを何度も採点しません",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q. 検索結果を確認できない製品では、どうすればよいですか？",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「外来の2型糖尿病患者の悪化を予測した先行研究を10本挙げてください」と頼むと、AIは著者名・雑誌名・出版年のそろった、それらしい文献リストを返してきます",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、検索結果の取り違え、原文の読み違い、引用と主張の不一致の可能性は残ります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "専門家であっても、もっともらしく整えられた情報を、確認せずに使ってしまう可能性があることを示す事例です",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結論の向きが逆になっている、対象患者が異なる、単変量解析の結果を独立した関連因子として説明している、といったズレにも注意が必要です",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後段で「LLMが出した引用IDが、実際の検索結果に含まれているか」をプログラムで確認する仕組みを置く事務所もあります",
+    "url": "https://note.com/shigyoai/n/nc722ae05f766",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その別添1では、応答結果に不正確な内容が含まれることがあるため、生成AIサービスを利用して個人情報を取り扱う際には、そのリスクを踏まえた上で適切に判断することが求められています",
+    "url": "https://note.com/shigyoai/n/nc722ae05f766",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果にない情報を追加してしまう（ハルシネーション）",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGは、同じ意味でも表記にゆれがある場合、検索結果に差が出ることがあります",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、社員が「交通費精算のやり方を教えて」と質問したケースを考えてみます",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この場合、表記の違いによっては、RAGが別の概念として認識し、適切な情報を取得できないケースがあります",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGは、質問とは関連性の低い情報をデータベースから検索してしまうケースがあります",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「経費申請の承認フローを教えて」という質問をしたとします",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「承認」というキーワードに反応して「人事評価マニュアル」も検索してしまった結果「経費申請は、上司の承認を得てから人事部に提出する」という誤った回答を生成",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、社員が「製品Aと製品Bの価格を比較したい」と質問した際、",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果「製品の価格に関する情報が見つかりませんでした」と回答してしまいます",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、表組みの文脈や列間の関係性を読み取れないツールでは回答精度が5割程度にとどまり、実務で使える水準に届かなかったと報告されています",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハルシネーションとは、検索結果に含まれていない情報を、LLMが事実であるかのように生成してしまう現象を指します",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGでは検索結果をもとに回答を生成しますが、LLMは自然で説得力のある文章を生成しようとする性質があるため、",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果の情報が不足している場合や、質問に対して不完全な情報しか取得できなかった場合に、補足情報を自動的に生成してしまう",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「製品Aの価格を教えて」という質問に対し、RAGが「製品Aの価格は50,000円」という情報を検索したとしましょう",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このとき、LLMが検索結果を補完しようとして「製品Aは50,000円です",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "落とし穴②：質問によっては類似検索では不十分なケースがある",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの知らないことについてユーザーが質問してしまった結果、「思ったより使えない」と思われてしまう、という事態はしばしば起こります",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、「出張時の日当はいくらですか？」という質問に対して、素の生成AIは正しく回答することはできません",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さまざまな要因が積み重なった結果、文書の検索精度がイマイチで実用には耐えないものになっていたり、現場の期待との間にギャップが生じていたりといったケースが多いのです",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、先ほどの例と同じ「出張時の日当はいくらですか？」という質問を考えてみましょう",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "複数のチャンクサイズを試し結果を比較することで、最適なものを見つける必要があります",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "については、質問文からはただちに明らかではないケースもあるため注意が必要です",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、社内のとある課の課長の名前を知りたくてAIチャットに尋ねたとします",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このようなケースでは、データの作成日時というメタデータまで参照しなければ確実な回答の生成は困難です",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ユーザーヒアリングの内容に即してRAGを構築したにもかかわらず、いざユーザー部門に展開するとユーザーから期待外れの声が聞こえてきてしまう、といったケースです",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのような質問が入力されると、データベース内にはヒントとなるテキストが存在しないためAIが無理やりいい加減な答えを返してしまい、結果的に「このシステム、使えないよね」という悪印象につながってしまうことがあるのです",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "質問の内容によってはうまく回答が生成されないケースがある、ということをユーザーに理解してもらうことで、「使えない」といった評判が独り歩きすることを防ぎます",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「関連度の低い文書データしか検索で見つからなかった際に、その旨をユーザーに明示的に伝えるような回答が出力されるようにする」といった工夫が考えられます",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産工程から出荷工程までを再現して、供給能力評価の標準化・モデル化を行った事例をご紹介",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、NativeRAG や GraphRAG, AgentRAG などさまざまな RAG のバリエーションが登場しており、これらは特定のユースケースやデータセットに対して最適化されています",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ユーザーからの問いに対し、バックエンドのナレッジベース（例: Azure AI Search）で検索し、その結果をプロンプトに追加して回答を生成するような流れが一般的な流れになります",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・抽象的な質問にも対応しつつ関係性も正確に捉えたいケース",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・両方の結果をマージする分コンテキストが増大しがち",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今までの RAG では、Retrieve の結果をそのままプロンプトに追加して回答を生成していましたが、AgenticRAG では、クエリの分析や検索戦略の決定、回答の妥当性評価などのステップが追加され、より動的で柔軟な対応が可能になります",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コーディネーター役のエージェントがクエリを受け取り、複数の専門エージェントにサブタスクを振り分け、結果を統合",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果が不正確・不足がある場合に自動で修正検索やクエリ再生成を行う仕組み",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ナレッジグラフとテキスト検索を組み合わせ、結果をクリティックモジュールなどで評価しながら精緻化",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケバブケース or snake_case で統一しスペル揺れ防止",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハイブリッド検索結果をさらにセマンティックランカーで再ランキング",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 上位 10〜20 件を最終結果に",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：両結果をマージ (OR) or Weighted Merge",
+    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ3：検証結果を整理する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出典の確認結果を4段階で判断する方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、AIが次のように回答したとします",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際のアプリや検証実験の結果ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「最大30％改善」と「平均30％改善」では意味が異なります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、2026年4月に新制度が発表されたとしても、実際の開始日が同年10月である可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、ある企業の新機能について調べるなら、公式発表、公式マニュアル、更新履歴などを確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果が見つからない場合も、すぐに架空の論文と決めつけないようにしましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ公式ヘルプでは、検索結果や引用が不完全、古い、または誤っている場合があることも案内されています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、出典を検索しても見つからなかっただけなら、原則としてCの「未確認」に分類します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日付、数値、料金、制度、研究結果、引用を抽出し、可能な範囲で一次資料と照合してください",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、AIが「あるサービスの月額料金は980円」と説明していた場合、企業のトップページを紹介するだけでは十分ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それでも、分野と時期を変えて測るたびに「リンクは表示されるが、中身の裏付けが揃わない」という同じ形の結果が出ている",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Amazon Bedrockのcitation precision / citation coverageのような組み込み指標もあるが、自動採点は目安にとどめ、スコアが動いたケースは人が開いて確かめる分担がよいと見ている",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数字の読み方や、他の事例との違いを、Labの記事を根拠にお答えします",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コンタクトセンターAIの事例と技術を構造で読み解く、CC AI LabのAIアナリスト「相原 ことは」です",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入事例、アーキテクチャ、コスト構造、ベンチマーク、KPI設計や移行パターンといった実務のロングテールを、複数の一次発表を横断して整理します",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIをめぐる企業調査でも、活用の課題として情報の正確性を挙げた企業が最も多いという結果が出ています（",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q. なぜ生成AIの結果をファクトチェックする必要があるのですか？",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "with a wide range of core legal tasks, from search and summarization of caselaw to document drafting. However, the large",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In one highly publicized case, a New York lawyer faced sanc -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tions for citing ChatGPT- invented fictional cases in a legal",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "risk (Casetext 2023; LexisNexis 2023b; Thomson Reuters 2023,",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "nificant levels. To offer one simple example, shown in the top left",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FIGURE 2 | Top left: Example of a hallucinated response by Westlaw's AI- Assisted Research product. The system makes up a statement in the",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Federal Rules of Bankruptcy Procedure that does not exist. Top right : Example of a hallucinated response by LexisNexis's Lexis+ AI. Casey and its",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "swer is rational basis review. Bottom left : Example of a hallucinated response by Thomson Reuters's Ask Practical Law AI. The system fails to correct",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "additional false information about the case. Bottom right : Example of a hallucinated response from GPT- 4, which generates a statutory provision that",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "multiple high- profile cases, lawyers have been reprimanded for",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "submitting filings to courts citing nonexistent case law halluci -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, suppose that an LLM is asked to state the year",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "edge learned during training—but a more obscure case might",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "triever would first look up the case name in a legal database, re -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the relevant documents (e.g., Supreme Court cases); and (2) generation (right), where the retrieved texts are fed to the language model to generate",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "これがRAGを採用する主要な動機となっています",
@@ -360,6 +1846,602 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "人間の評価者は、モデルが見逃してしまうような細かな誤り、論理的な欠陥、または文脈上の適切さを評価できます",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エージェントがどのツールを選択するかなど、RAGシステムが独自に行う決定が増えるほど、障害やバイアスの潜在的なポイントが増えます",
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務効率化に使える補助金は？ 申請時のポイントや注意点も解説",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "RAG（検索拡張生成）の失敗を調べていくと、面白い数字が出てきます",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検索が失敗するとき、犯人はだいたいこの4人のどれかです",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "注意点として、リランクは",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロンプト3: 検索失敗のトリアージ（犯人を切り分ける）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗事例のトリアージ、原因の要約",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そして、正直に落とし穴も置いておきます",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "形式が整っているからこそ、誤りを見過ごしやすくなります",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OpenAIの研究では、事前学習で学ぶパターンだけでは確実に答えられない事実があることに加え、不明と答えるより推測した方が評価される学習・評価のあり方も、誤りが残る要因として論じられています",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、その一文だけで、AIが自分の誤りを必ず認識できるようにはなりません",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では、存在しない情報を丸ごと作る場合だけでなく、正しい情報の一部をずらす誤りにも注意が必要です",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例外や注意書きを落としていないかを確認します",
+    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGの失敗は、少なくとも次の5層へ分けて確認します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：改定・削除・同期・失敗報告が回っているか",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ問題を再発させない失敗記録テンプレート",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGの失敗を「5層」へ分ける",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、回答が間違っていても、失敗地点は一つではありません",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答内容が正しくても、見せてはいけない情報を返したら失敗です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG導入でよくある失敗7選",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗1：答えが文書にないのに、AIへ答えさせる",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最も基本的ですが、見落とされやすい失敗です",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗2：旧版・草案・重複文書を同時に検索する",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗3：正しい文書があるのに、検索結果へ出ない",
+    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "けれど、その便利さの裏には、研究者が絶対に知っておくべき落とし穴があります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究でAIの誤りを減らすための具体的な検証方法",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日常的な調べ物でも誤りは問題ですが、研究では、その影響がさらに深刻になります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが作った数値をそのまま使えば、結論そのものが誤りになります",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結論の向きが逆になっている、対象患者が異なる、単変量解析の結果を独立した関連因子として説明している、といったズレにも注意が必要です",
+    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人情報保護委員会は2023年6月2日付で「生成AIサービスの利用に関する注意喚起等について」を公表しています",
+    "url": "https://note.com/shigyoai/n/nc722ae05f766",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人情報保護委員会「生成AIサービスの利用に関する注意喚起等について」別添1 (2023年6月2日): https://www.ppc.go.jp/files/pdf/230602_alert_generative_AI_service.pdf",
+    "url": "https://note.com/shigyoai/n/nc722ae05f766",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、RAGを活用する際には注意が必要です",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤りに気づけないまま業務に使われるのを避けるには、回答の根拠を確認できる仕組みが欠かせません",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGの設計・運用において、注意すべき点は次の通りです",
+    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "落とし穴②：質問によっては類似検索では不十分なケースがある",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGを構成する各要素に、RAGの精度を落とす「落とし穴」が存在する",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回は、RAG構築・改善において特にありがちな「落とし穴」に絞って取り上げ、それぞれにどのような問題が潜み、それらをどう回避すべきかを解説します",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、これらの落とし穴を押さえたからといって、RAG構築が万全になるわけではありません",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "文書の性質・業務の前提・ユーザーの質問傾向などによって、落とし穴の種類やその深さは変化します",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データベース構築における落とし穴として、",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "類似検索における落とし穴として、「質問文と内容の近いチャンクを選び出す」という仕様上、質問の内容によっては適切な回答の生成につながらない場合があります",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "については、質問文からはただちに明らかではないケースもあるため注意が必要です",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGを構築し終わり、PoC的に動かす段階までは特に問題なかったとしても、その先で落とし穴に遭遇することもあります",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回は、「RAG ＝ 生成AIを自社のナレッジとつなぐ技術」について、その仕組みと落とし穴対策を説明しました",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGの仕組みを知り、それを踏まえてよくある落とし穴の傾向と対策を押さえておくことは、RAGの精度改善を考える際の基礎として欠かせないものです",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある落とし穴の対策は押さえつつも、個別の問題に対処するための地道なアプローチが必要",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "精度のボトルネックとなっている落とし穴の特定",
+    "url": "https://www.msiism.jp/article/rag.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、人手評価は高い精度と柔軟性を持ち、細かなニュアンスや創造的な回答も評価できますが、時間とコストがかかり、一貫性の欠如や評価者の疲労・バイアスの影響を受けやすいです",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OCRのエラーは、検索システムの性能低下につながる可能性があるため、注意が必要です",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このような認識誤りに対しては、後処理で対処することになります",
+    "url": "https://fintan.jp/page/10301/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一見するとLLMの弱点を補う万能システムのように思えるものの、RAGにも多くの課題が存在するため注意が必要です",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "顧客向けの問い合わせシステムで不正確なテキストが生成されると、信頼を損なうだけではなく法的問題に発展する恐れもあるため注意が必要です",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGが参照するデータの中に、社内情報や個人情報が含まれている場合、これらの情報が漏えいする恐れがあるため、十分な注意が必要です",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGは社内業務の改善や効率化に役立つ反面、思うような回答が得られないなど、失敗も多くあります",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG導入の成功例と失敗例をそれぞれ紹介します",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG導入の失敗例としては、誤情報が生成される、質問と誤差のある回答が返ってくるなどです",
+    "url": "https://amie-ai.com/contents/rag-assignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGのよくある失敗と回答精度を高める方法",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「RAGのよくある失敗と回答精度を高める方法」で後述する「ベクトル検索」などの検索方法を用いて実行します",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、企業導入で特に多い3つの失敗と改善策を解説します",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どのような失敗があり、それぞれどのような方法を使えば回答精度を高められるのか、実際の検証結果をもとにご紹介します",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある失敗の一つが、不正確・曖昧なプロンプトによる不具合です",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGの参照元となるデータが原因で失敗が起きやすくなるのは、特に以下の場合です",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご入力いただいたメールアドレスに誤りがあった場合がございます",
+    "url": "https://www.aspicjapan.org/asu/article/41052",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここで注意したいのが、日付の種類です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "手順の記述から生成モデルが「無料」を補った形で、リンク先を開いても、この種の誤りは一目では気づけない",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤りを見つけた場合はお問い合わせフォームからご連絡ください",
+    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤答が許される用途（アイデア出しや下書き）なら、多少の間違いは問題になりません",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "根拠提示、資料外は答えない設計、回答後の照合を重ねると、誤答は大きく減り、残った誤りも根拠をたどって人が見抜けます",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AI導入の完全ガイド｜何から始めるか・進め方・費用・セキュリティ・失敗回避まで",
+    "url": "https://beekle.jp/column/ai-factcheck",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the user's mistaken premise—in reality, Justice Ginsburg joined the Court's landmark decision legalizing same- sex marriage—and instead provides",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the introduction of new forms of bias, and lawyers' ultimate",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mistaken understanding of the law",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fourth, the queries probe for “contrafactual bias,” or the ten -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Perlman 2023; Tan et al. 2023), but contrafactual bias poses a",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Last, to guard against selection bias in our results (i.e., choosing",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tions—in which the query contains a mistaken understanding",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI explained the mistaken premise, and cited the relevant, up -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "wrong doctrine,” a doctrine pertaining to mistake- of- fact in -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "dency to agree with the user even when the user is mistaken",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lucination rate is not meant to be an unbiased estimate of the",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exact mistakes that their tools purportedly avoid, companies",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Goddard, K., A. Roudsari, and J. C. Wyatt. 2012. “Automation Bias: A",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Pitfalls of Artificial Intelligence for Legal Applications.” Journal of",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "metadata- citation- 130 The original query was mistakenly trun -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "前処理は、検索システムの性能を向上させるために重要なステップです",
@@ -646,6 +2728,72 @@
    {
     "quote": "RAGは、LLMが学習時に持っていない情報を外部の文書から補うための方法の一つです",
     "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もうちょっと分解すると、RAGは3ステップで動いています",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— 質問も埋め込みに変換して、意味が近いチャンクを座標の近さで探す方法",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意味は分からないけど、固有名詞や型番の「完全一致」に強い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "犯人2: 固有名詞・型番に弱い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番、これベクトル検索がいちばん苦手なやつです",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでのコツは、",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これがあると、後で「出典を明記する」「製品ごとに絞り込む（＝犯人2の型番問題の予防にもなる）」「親チャンクをたどって前後の文脈を補う」といったことが全部できるようになります",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次は犯人2（固有名詞・型番に弱い）を退治します",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番はBM25がガッチリ拾い、「返品したいんだけど」みたいな言い回しはベクトルが意味で拾う",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1. 中核となる検索キーワード（固有名詞・型番はそのまま残す）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 固有名詞・型番が検索で拾える形で残っているか",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -1327,2040 +3475,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "検証済みの取得文書に生成プロセスを固定する",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "LLMがクエリ改良や仮説文書生成をする際、既に応答に有用な情報種別を「考慮」します",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、RAGの中核的な目標である、ハルシネーションを削減し検証可能性を確保するためです",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、検索結果の中からどの情報を重視するか、情報をどのように組み合わせるか、あるいは矛盾する情報がある場合にどのように対処するかといった点について、複数の仮説（思考の枝）を立て、それぞれの妥当性を評価します",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGの中核的なメカニズム、つまり取得された検証可能な文書に応答を基づかせることは、ハルシネーションを削減するための基本的な技術です",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "LLMによる自身の生成コンテンツ内主張の真実性評価、およびこの検証のためのRAG自体の潜在的使用",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "取得された検索エンジンの結果とのクロスチェックによる、根拠付けの奨励",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "誤解を招く情報、無関係な情報、または矛盾する情報を取得すること",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "コンテキストとの矛盾や、コンテキスト外情報創作の有無",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答内主張の特定と、それらのコンテキストからの推論可能性検証による計算",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノイズの多い文書や矛盾する文書を処理する能力の評価",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "回答内主張の特定、各主張のコンテキストからの推論可能性のLLM検証",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本報告では、RAGシステムの精度を向上させるための多岐にわたる戦略を検証しました",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の業務で活用するには、多様なファイル形式（PDF、Word、PowerPoint等）への対応、検索精度の調整、ユーザーごとのアクセス権限管理など、利用環境に応じた設計と検証が必要です",
-    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3．出典を開き、主張と原文を照合する",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "引用文もAIが生成したものなら、原文に実際に存在するかを照合します",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIにもう一度「正しい？」と聞くことは点検の補助にはなりますが、外部の根拠との照合を代替するものではありません",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "重要な主張は、人が原文と照合します",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "引用先を開けず、検証できない",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "答えがない、矛盾している、正式版が不明なら、根拠層の問題です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法｜臨床AIラボ｜現役医師のAI研究",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "研究でAIの誤りを減らすための具体的な検証方法",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "見た目では区別できないからこそ、検証が要ります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが挙げた文献を検証する3つの手順",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "逆に言えば、検証さえ徹底すれば、AIは恐れる道具ではなく、頼れる道具になります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが示した引用を検証する方法と、研究上の倫理については、別の記事でさらに踏み込んで扱う予定です",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プロンプトで「引用してください」とお願いする実装と、APIが構造化された引用を返す実装では、後から検証できるかどうかが変わってくる、という整理です",
-    "url": "https://note.com/shigyoai/n/nc722ae05f766",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "当社のRAGツール「OfficeAI社員®」の導入企業である大手自動車部品メーカーでは、過去のトラブル対応記録が表形式で蓄積されていたため、複数の生成AIツールを同条件で比較検証しました",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このプロセスにおいて的を射た仮説を立てるためには、RAGの仕組みを理解することにくわえて、現場が抱える業務課題とデータに対する理解も求められます",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "より高度なRAGアーキテクチャの提案・実装・精度検証",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "チャンク化の効果を検証 (Recall@50)",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・検証／評価（質問・回答のセットを事前に準備）・課題把握（×× サイクル）・本番構築への意思決定",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クエリのトークンとインデックスを照合し“どれだけ一致したか”を点数化",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ベクトル検索: 仮説的文書埋め込み（HyDE）やクエリ拡張を実施する",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. RAGの評価手法の検証",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大規模言語モデルは近年急速な進歩を遂げていますが、これらの進歩にもかかわらず、裏付けのない情報や矛盾した内容を生成する点においては依然として課題があります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証時に用いたデータセットやプロンプトなどの詳細については付録に記載したため、詳細が知りたい場合はそちらを参照してください",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下に、多言語E5をファインチューニングして得られたモデルを検索に使うことで、検索性能がどのように変化するかを検証した結果を示します",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、学習用のデータセットとして、人間が作成した質問と回答のペアとLLMが作成したペアのそれぞれを使った場合の性能を検証しています",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自分で機械学習モデルを用意する場合は学習・検証・評価用データセットを用意し、LLMを使う場合はプロンプトのチューニング用と評価用のデータセットを用意して、性能を検証しながら進めるとよいでしょう",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以降では、日本語の質問応答データセットを利用して、クエリ変換をしたときの検索性能の検証結果を紹介します",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そこで、日本語の質問応答データセットを利用して、ハイブリッド検索をしたときの検索性能の検証結果を紹介します",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回は、この内の80%を学習用、20%を検証用として利用",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に検索エンジンから情報を選定する場合、信頼性の低いサイトや虚偽の内容、矛盾する結果などが参照元とされる可能性もあるためです",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGとは？仕組みや検証した回答精度をわかりやすく紹介 | アスピック｜SaaS比較サイト",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事ではRAGの仕組みやできること、回答精度を高める方法などについて、実際の検証結果もふまえてわかりやすく解説します",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どれだけの回答精度が実現できるのか、アスピック編集部が実際に検証してみました",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回の検証は、以下の環境のもとで行いました",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのような失敗があり、それぞれどのような方法を使えば回答精度を高められるのか、実際の検証結果をもとにご紹介します",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アスピック編集部の検証でも、2列までの簡易的な表に関する情報は回答できましたが、3〜4列の表や、セルが結合されている表に関しては、うまく回答することができませんでした",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証の際も同社のリランクモデルを使うことで、より精度の高い回答を出力できました",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「自社のリソースを割きたくない」「プロの手で環境を構築してほしい」「導入後の検証作業や社内浸透まで伴走してほしい」という場合は、アウトソーシングがおすすめです",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが提示した出典を検証する7つの方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "方法3：資料名・著者・発行年を照合する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ3：検証結果を整理する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※これは検証方法を説明するための架空の例です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際のアプリや検証実験の結果ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "必要に応じて第三者による検証記事も参考にします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※以下の主張は検証手順を説明するために設定したものです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証作業を終えたら、確認できた範囲を記録します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIファクトチェックの方法｜生成AIの回答が正しいかを、根拠提示と自動検証で確かめる | Beekle",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIの回答が正しいかを、根拠提示と自動検証で確かめる",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、人が毎回確認するのではなく、AIに根拠（引用元）を必ず示させ、回答を事実と突き合わせて検証するやり方を扱います",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「どの資料のどこに基づくか」が回答に付いていれば、人はその一箇所を見るだけで裏取りできます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この回答後の検証（Evidence Verification）を挟むと、プロンプトの指示が破られても、最後の関門で誤答を減らせます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンク先に回答の根拠が実際に書かれているか、版と適用条件が合っているかを照合する仕組みがあって、初めて効く",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "は、Bing Chatなど商用4サービスの回答を人手で照合し、生成された文のうち引用で完全に裏付けられていたものは平均51.5%だったと報告した",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2年後、対象を医療に絞った検証が出た",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "は、医療の質問800問への7つのLLMの回答から約5万8,000組の「文と出典」の対を照合し、モデルにより50%から90%の回答が、引用した出典に完全には支えられていなかったと報告している",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "添付があっても、金額の転記が合っているかは突き合わせないと分からない",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンク先には確かにその金額が書いてあるから、回答とリンク先だけを照合すると「一致」に見える",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "文書の鮮度管理の問題であって、照合では見つからない",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第一の型は回答と文書の突き合わせで見つかる",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "金額・解約・契約条件のように誤案内が直接の損害になる用件に絞って照合を業務フローに組み込み、それ以外は事後の抜き取りで監査する",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "表示は入り口にすぎず、誰がいつ照合するかの工程表までが仕組みである",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "照合の仕組みにはテストセットも人手もかかる",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "すべてのセンターに同じ重さの照合工程を勧める話ではない",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "金額・契約・解約・本人確認のように、誤案内が損害や苦情に直結する用件へAIの回答を使うなら、参照元の表示を「あるか」ではなく「照合されているか」で見る",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "高リスク用件の照合は業務フローのどこに置かれているか",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "表示を効かせるには、引用の正確さの指標、参照元の鮮度と版の管理、照合を組み込んだ業務動線の3つが要る",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成した回答を引用元と突き合わせて検証する",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人が目視で確認する方法と、AIに引用元を示させて回答後に自動照合する方法があります",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "金額や規程など、誤答が損失につながる業務ほど、検証の仕組みが欠かせません",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答に引用元を必ず添え、資料にないことは答えない設計にしたうえで、生成した回答を引用元と突き合わせて検証する工程を挟みます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プロンプトが破られても、この照合で誤答を止められます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "根拠提示、資料外は答えない設計、回答後の照合を重ねると、誤答は大きく減り、残った誤りも根拠をたどって人が見抜けます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答を出したあとにも根拠と突き合わせて検証する工程を挟み、それらしいだけの誤答を大きく減らしています",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "which lawyers turn to generative AI. Our estimate of the hal -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "lucination rate is not meant to be an unbiased estimate of the",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "人間の評価者は、モデルが見逃してしまうような細かな誤り、論理的な欠陥、または文脈上の適切さを評価できます",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "エージェントがどのツールを選択するかなど、RAGシステムが独自に行う決定が増えるほど、障害やバイアスの潜在的なポイントが増えます",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業務効率化に使える補助金は？ 申請時のポイントや注意点も解説",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAG（検索拡張生成）の失敗を調べていくと、面白い数字が出てきます",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索が失敗するとき、犯人はだいたいこの4人のどれかです",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点として、リランクは",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "プロンプト3: 検索失敗のトリアージ（犯人を切り分ける）",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "失敗事例のトリアージ、原因の要約",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そして、正直に落とし穴も置いておきます",
-    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "形式が整っているからこそ、誤りを見過ごしやすくなります",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OpenAIの研究では、事前学習で学ぶパターンだけでは確実に答えられない事実があることに加え、不明と答えるより推測した方が評価される学習・評価のあり方も、誤りが残る要因として論じられています",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、その一文だけで、AIが自分の誤りを必ず認識できるようにはなりません",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務では、存在しない情報を丸ごと作る場合だけでなく、正しい情報の一部をずらす誤りにも注意が必要です",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例外や注意書きを落としていないかを確認します",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGの失敗は、少なくとも次の5層へ分けて確認します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：改定・削除・同期・失敗報告が回っているか",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ問題を再発させない失敗記録テンプレート",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGの失敗を「5層」へ分ける",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため、回答が間違っていても、失敗地点は一つではありません",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答内容が正しくても、見せてはいけない情報を返したら失敗です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG導入でよくある失敗7選",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗1：答えが文書にないのに、AIへ答えさせる",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最も基本的ですが、見落とされやすい失敗です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗2：旧版・草案・重複文書を同時に検索する",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗3：正しい文書があるのに、検索結果へ出ない",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "けれど、その便利さの裏には、研究者が絶対に知っておくべき落とし穴があります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "研究でAIの誤りを減らすための具体的な検証方法",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日常的な調べ物でも誤りは問題ですが、研究では、その影響がさらに深刻になります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが作った数値をそのまま使えば、結論そのものが誤りになります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結論の向きが逆になっている、対象患者が異なる、単変量解析の結果を独立した関連因子として説明している、といったズレにも注意が必要です",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人情報保護委員会は2023年6月2日付で「生成AIサービスの利用に関する注意喚起等について」を公表しています",
-    "url": "https://note.com/shigyoai/n/nc722ae05f766",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人情報保護委員会「生成AIサービスの利用に関する注意喚起等について」別添1 (2023年6月2日): https://www.ppc.go.jp/files/pdf/230602_alert_generative_AI_service.pdf",
-    "url": "https://note.com/shigyoai/n/nc722ae05f766",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で、RAGを活用する際には注意が必要です",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤りに気づけないまま業務に使われるのを避けるには、回答の根拠を確認できる仕組みが欠かせません",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGの設計・運用において、注意すべき点は次の通りです",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "落とし穴②：質問によっては類似検索では不十分なケースがある",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGを構成する各要素に、RAGの精度を落とす「落とし穴」が存在する",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回は、RAG構築・改善において特にありがちな「落とし穴」に絞って取り上げ、それぞれにどのような問題が潜み、それらをどう回避すべきかを解説します",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、これらの落とし穴を押さえたからといって、RAG構築が万全になるわけではありません",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "文書の性質・業務の前提・ユーザーの質問傾向などによって、落とし穴の種類やその深さは変化します",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データベース構築における落とし穴として、",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "類似検索における落とし穴として、「質問文と内容の近いチャンクを選び出す」という仕様上、質問の内容によっては適切な回答の生成につながらない場合があります",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "については、質問文からはただちに明らかではないケースもあるため注意が必要です",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGを構築し終わり、PoC的に動かす段階までは特に問題なかったとしても、その先で落とし穴に遭遇することもあります",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回は、「RAG ＝ 生成AIを自社のナレッジとつなぐ技術」について、その仕組みと落とし穴対策を説明しました",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGの仕組みを知り、それを踏まえてよくある落とし穴の傾向と対策を押さえておくことは、RAGの精度改善を考える際の基礎として欠かせないものです",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "よくある落とし穴の対策は押さえつつも、個別の問題に対処するための地道なアプローチが必要",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "精度のボトルネックとなっている落とし穴の特定",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方、人手評価は高い精度と柔軟性を持ち、細かなニュアンスや創造的な回答も評価できますが、時間とコストがかかり、一貫性の欠如や評価者の疲労・バイアスの影響を受けやすいです",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OCRのエラーは、検索システムの性能低下につながる可能性があるため、注意が必要です",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このような認識誤りに対しては、後処理で対処することになります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一見するとLLMの弱点を補う万能システムのように思えるものの、RAGにも多くの課題が存在するため注意が必要です",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "顧客向けの問い合わせシステムで不正確なテキストが生成されると、信頼を損なうだけではなく法的問題に発展する恐れもあるため注意が必要です",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGが参照するデータの中に、社内情報や個人情報が含まれている場合、これらの情報が漏えいする恐れがあるため、十分な注意が必要です",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGは社内業務の改善や効率化に役立つ反面、思うような回答が得られないなど、失敗も多くあります",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG導入の成功例と失敗例をそれぞれ紹介します",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG導入の失敗例としては、誤情報が生成される、質問と誤差のある回答が返ってくるなどです",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGのよくある失敗と回答精度を高める方法",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「RAGのよくある失敗と回答精度を高める方法」で後述する「ベクトル検索」などの検索方法を用いて実行します",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは、企業導入で特に多い3つの失敗と改善策を解説します",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのような失敗があり、それぞれどのような方法を使えば回答精度を高められるのか、実際の検証結果をもとにご紹介します",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "よくある失敗の一つが、不正確・曖昧なプロンプトによる不具合です",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGの参照元となるデータが原因で失敗が起きやすくなるのは、特に以下の場合です",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ご入力いただいたメールアドレスに誤りがあった場合がございます",
-    "url": "https://www.aspicjapan.org/asu/article/41052",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここで注意したいのが、日付の種類です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "手順の記述から生成モデルが「無料」を補った形で、リンク先を開いても、この種の誤りは一目では気づけない",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤りを見つけた場合はお問い合わせフォームからご連絡ください",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤答が許される用途（アイデア出しや下書き）なら、多少の間違いは問題になりません",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "根拠提示、資料外は答えない設計、回答後の照合を重ねると、誤答は大きく減り、残った誤りも根拠をたどって人が見抜けます",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AI導入の完全ガイド｜何から始めるか・進め方・費用・セキュリティ・失敗回避まで",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the user's mistaken premise—in reality, Justice Ginsburg joined the Court's landmark decision legalizing same- sex marriage—and instead provides",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the introduction of new forms of bias, and lawyers' ultimate",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mistaken understanding of the law",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Fourth, the queries probe for “contrafactual bias,” or the ten -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Perlman 2023; Tan et al. 2023), but contrafactual bias poses a",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Last, to guard against selection bias in our results (i.e., choosing",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tions—in which the query contains a mistaken understanding",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI explained the mistaken premise, and cited the relevant, up -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "wrong doctrine,” a doctrine pertaining to mistake- of- fact in -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "dency to agree with the user even when the user is mistaken",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "lucination rate is not meant to be an unbiased estimate of the",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "exact mistakes that their tools purportedly avoid, companies",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Goddard, K., A. Roudsari, and J. C. Wyatt. 2012. “Automation Bias: A",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Pitfalls of Artificial Intelligence for Legal Applications.” Journal of",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "metadata- citation- 130 The original query was mistakenly trun -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "近年、OpenAIのGPT-4やGoogleのGemini、MetaのLLaMAをはじめとする大規模言語モデル（Large Language Model：LLM）の能力が大幅に向上し、自然言語処理において優れた結果を収めています[1][2][3]",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "LLM-jp-eval[4]およびMT-bench-jp[5]を用いた日本語LLMの評価結果",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "OpenAI DevDay 2023で紹介されたRAGの性能を向上させるのに使ったテクニックの事例",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらのメタデータは、検索結果を絞り込むためのフィルターとして使うことで検索性能を向上させられることがあります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、「昨日のメールを要約して」というクエリの場合、文字列としての「昨日」とメール本文をマッチさせるのではなく、メールの受信日にマッチした結果を返さなければ、望むような応答はできないでしょう",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その検索結果として、博多のラーメン屋が表示されたらユーザーにとって期待外れな結果である可能性が高いでしょう",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]の事例を紹介して、本節を終えたいと思います",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この事例では、RAGを使ってメールアプリのアシスタントを作る方法について解説しています",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "記事ではそれだけでなく、キーワード抽出や固有表現認識、日付の範囲抽出などを組み合わせて検索性能を向上させていたり、結果をヒューリスティックや機械学習を使ってリランキングする方法についても紹介しています",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "で分割し、その結果が指定したサイズ以下のチャンクを生成しない場合は次の区切り文字である",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Microsoftのブログでは、チャンクサイズとオーバーラップの設定を変えた場合のベクトル検索の性能についての実験結果が示されています[",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このように、検索対象のチャンクと検索結果として返すチャンクを切り分ける戦略が有効なことがあります",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最後に、類似度が高い順に文書を並べ替えて、検索結果を返します",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "以下に、いくつかの埋め込みモデルを日本語の検索タスクで評価した結果を示します",
-    "url": "https://fintan.jp/page/10301/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3-1. 評価の実例",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、企業内のナレッジベースを活用したチャットボットや、FAQの自動応答システムなどの用途で導入が進んでいます",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まずは回答上問題ないと判定する基準を定めることが評価の属人性を排除するために重要となります（例えば、○○に関する記述があるorない）",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自動評価の一例として、信頼性（Faithfulness）を評価事例を紹介します",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同様に、セット2では文脈に忠実な文章のスコアが0.3程度、忠実でない文章は0程度となり、妥当な結果となりました",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "NTT東日本では、生成AIの環境提供や活用促進に関するコンサルティング、生成AIのユースケース創出に向けた技術支援を行っております",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本コラムでは、生成AIの業界別でのユースケースについてご紹介します",
-    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検索結果から、プロンプトに最も関連性の高い情報を抽出します",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば企業環境では、正確なRAGは意思決定のための信頼できる情報を提供することにより、業務効率を大幅に改善できます",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "不適切にセグメント化されたデータは、最適とは言えない結果につながります",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、LangChainのCharacterTextSplitterはチャンクサイズとオーバーラップの指定を可能にします",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、LLMが処理する",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実世界のユースケースに対するベンチマークが不可欠です",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大幅な改善が示されており、例えば、金融データセットでのファインチューニング後、bge-base-en_dot_ndcg@10メトリックが0.59から0.82に改善した事例もあります",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "汎用モデルは専門用語（例えば「res ipsa loquitur」や「MI」など）を誤解釈したり過小評価したりすることが明確に示されています",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、不正確または無関係な回答が生成されることになります",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、合成データ生成や特化型損失関数といった技術があります",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、RAGシステムは不完全なユーザー入力に対する堅牢性が向上します",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば「マグネシウムとカルシウムの化学的性質は何か？」というクエリは、「マグネシウムの化学的性質は何か？」などに分解されます",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Reciprocal Rank Fusion (RRF) のような融合アルゴリズムは、並列検索から得られた結果を組み合わせてランク付けをします",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RRFなどの手法を使用し、キーワード検索とベクトル検索の結果を統合して再ランク付けします",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統合され、関連性の高い順に並べられた検索結果です",
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、改定された社内規定について質問しても、答えられないか、過去のデータを参照した回答や虚偽の回答を返す形で対応してしまうでしょう",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、社内の問い合わせ対応にRAGを活用しても、参照元の社内規定データが古いままでは、誤った方法で業務が進む恐れがあります",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、会議の要約や長期経営戦略の立案などです",
-    "url": "https://amie-ai.com/contents/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "RAGは回答の根拠となる情報を与える方法ですが、正確性を保証するものではないため、検索結果と回答品質の評価が必要です",
-    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "、より内容が具体的で文脈が明確な「拡張プロンプト（Augmented Prompt）」（※検索結果を付与した、より具体的な指示書）を作成します",
-    "url": "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、論文名の形式や著者・発行年の書き方を知っていても、特定の論文が実在するとは限りません",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "古い版だけを拾ったり、対象のプランが違ったり、重要な例外が検索結果に含まれていなかったりすれば、回答の材料が不足します",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特定の製品で観測した実験結果ではありません",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「この資料では確認できない」と答える余地を残します",
-    "url": "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果として取得された文書名と該当箇所を確認します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗3：正しい文書があるのに、検索結果へ出ない",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果を見ずに、回答だけを何度も採点しません",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q. 検索結果を確認できない製品では、どうすればよいですか？",
-    "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「外来の2型糖尿病患者の悪化を予測した先行研究を10本挙げてください」と頼むと、AIは著者名・雑誌名・出版年のそろった、それらしい文献リストを返してきます",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、検索結果の取り違え、原文の読み違い、引用と主張の不一致の可能性は残ります",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "専門家であっても、もっともらしく整えられた情報を、確認せずに使ってしまう可能性があることを示す事例です",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結論の向きが逆になっている、対象患者が異なる、単変量解析の結果を独立した関連因子として説明している、といったズレにも注意が必要です",
-    "url": "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "後段で「LLMが出した引用IDが、実際の検索結果に含まれているか」をプログラムで確認する仕組みを置く事務所もあります",
-    "url": "https://note.com/shigyoai/n/nc722ae05f766",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その別添1では、応答結果に不正確な内容が含まれることがあるため、生成AIサービスを利用して個人情報を取り扱う際には、そのリスクを踏まえた上で適切に判断することが求められています",
-    "url": "https://note.com/shigyoai/n/nc722ae05f766",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果にない情報を追加してしまう（ハルシネーション）",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGは、同じ意味でも表記にゆれがある場合、検索結果に差が出ることがあります",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、社員が「交通費精算のやり方を教えて」と質問したケースを考えてみます",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この場合、表記の違いによっては、RAGが別の概念として認識し、適切な情報を取得できないケースがあります",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGは、質問とは関連性の低い情報をデータベースから検索してしまうケースがあります",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「経費申請の承認フローを教えて」という質問をしたとします",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「承認」というキーワードに反応して「人事評価マニュアル」も検索してしまった結果「経費申請は、上司の承認を得てから人事部に提出する」という誤った回答を生成",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、社員が「製品Aと製品Bの価格を比較したい」と質問した際、",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果「製品の価格に関する情報が見つかりませんでした」と回答してしまいます",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、表組みの文脈や列間の関係性を読み取れないツールでは回答精度が5割程度にとどまり、実務で使える水準に届かなかったと報告されています",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ハルシネーションとは、検索結果に含まれていない情報を、LLMが事実であるかのように生成してしまう現象を指します",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGでは検索結果をもとに回答を生成しますが、LLMは自然で説得力のある文章を生成しようとする性質があるため、",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果の情報が不足している場合や、質問に対して不完全な情報しか取得できなかった場合に、補足情報を自動的に生成してしまう",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「製品Aの価格を教えて」という質問に対し、RAGが「製品Aの価格は50,000円」という情報を検索したとしましょう",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このとき、LLMが検索結果を補完しようとして「製品Aは50,000円です",
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "落とし穴②：質問によっては類似検索では不十分なケースがある",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの知らないことについてユーザーが質問してしまった結果、「思ったより使えない」と思われてしまう、という事態はしばしば起こります",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「出張時の日当はいくらですか？」という質問に対して、素の生成AIは正しく回答することはできません",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さまざまな要因が積み重なった結果、文書の検索精度がイマイチで実用には耐えないものになっていたり、現場の期待との間にギャップが生じていたりといったケースが多いのです",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、先ほどの例と同じ「出張時の日当はいくらですか？」という質問を考えてみましょう",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "複数のチャンクサイズを試し結果を比較することで、最適なものを見つける必要があります",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "については、質問文からはただちに明らかではないケースもあるため注意が必要です",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、社内のとある課の課長の名前を知りたくてAIチャットに尋ねたとします",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このようなケースでは、データの作成日時というメタデータまで参照しなければ確実な回答の生成は困難です",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ユーザーヒアリングの内容に即してRAGを構築したにもかかわらず、いざユーザー部門に展開するとユーザーから期待外れの声が聞こえてきてしまう、といったケースです",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのような質問が入力されると、データベース内にはヒントとなるテキストが存在しないためAIが無理やりいい加減な答えを返してしまい、結果的に「このシステム、使えないよね」という悪印象につながってしまうことがあるのです",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "質問の内容によってはうまく回答が生成されないケースがある、ということをユーザーに理解してもらうことで、「使えない」といった評判が独り歩きすることを防ぎます",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「関連度の低い文書データしか検索で見つからなかった際に、その旨をユーザーに明示的に伝えるような回答が出力されるようにする」といった工夫が考えられます",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生産工程から出荷工程までを再現して、供給能力評価の標準化・モデル化を行った事例をご紹介",
-    "url": "https://www.msiism.jp/article/rag.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、NativeRAG や GraphRAG, AgentRAG などさまざまな RAG のバリエーションが登場しており、これらは特定のユースケースやデータセットに対して最適化されています",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ユーザーからの問いに対し、バックエンドのナレッジベース（例: Azure AI Search）で検索し、その結果をプロンプトに追加して回答を生成するような流れが一般的な流れになります",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・抽象的な質問にも対応しつつ関係性も正確に捉えたいケース",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・両方の結果をマージする分コンテキストが増大しがち",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今までの RAG では、Retrieve の結果をそのままプロンプトに追加して回答を生成していましたが、AgenticRAG では、クエリの分析や検索戦略の決定、回答の妥当性評価などのステップが追加され、より動的で柔軟な対応が可能になります",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コーディネーター役のエージェントがクエリを受け取り、複数の専門エージェントにサブタスクを振り分け、結果を統合",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果が不正確・不足がある場合に自動で修正検索やクエリ再生成を行う仕組み",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ナレッジグラフとテキスト検索を組み合わせ、結果をクリティックモジュールなどで評価しながら精緻化",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ケバブケース or snake_case で統一しスペル揺れ防止",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ハイブリッド検索結果をさらにセマンティックランカーで再ランキング",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 上位 10〜20 件を最終結果に",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：両結果をマージ (OR) or Weighted Merge",
-    "url": "https://zenn.dev/microsoft/articles/rag_textbook",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ3：検証結果を整理する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出典の確認結果を4段階で判断する方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、AIが次のように回答したとします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際のアプリや検証実験の結果ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「最大30％改善」と「平均30％改善」では意味が異なります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、2026年4月に新制度が発表されたとしても、実際の開始日が同年10月である可能性があります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、ある企業の新機能について調べるなら、公式発表、公式マニュアル、更新履歴などを確認します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果が見つからない場合も、すぐに架空の論文と決めつけないようにしましょう",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ公式ヘルプでは、検索結果や引用が不完全、古い、または誤っている場合があることも案内されています",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、出典を検索しても見つからなかっただけなら、原則としてCの「未確認」に分類します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日付、数値、料金、制度、研究結果、引用を抽出し、可能な範囲で一次資料と照合してください",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、AIが「あるサービスの月額料金は980円」と説明していた場合、企業のトップページを紹介するだけでは十分ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それでも、分野と時期を変えて測るたびに「リンクは表示されるが、中身の裏付けが揃わない」という同じ形の結果が出ている",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Amazon Bedrockのcitation precision / citation coverageのような組み込み指標もあるが、自動採点は目安にとどめ、スコアが動いたケースは人が開いて確かめる分担がよいと見ている",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "数字の読み方や、他の事例との違いを、Labの記事を根拠にお答えします",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コンタクトセンターAIの事例と技術を構造で読み解く、CC AI LabのAIアナリスト「相原 ことは」です",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "導入事例、アーキテクチャ、コスト構造、ベンチマーク、KPI設計や移行パターンといった実務のロングテールを、複数の一次発表を横断して整理します",
-    "url": "https://ccai-lab.com/articles/2026-10-13-ai-answer-citation-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIをめぐる企業調査でも、活用の課題として情報の正確性を挙げた企業が最も多いという結果が出ています（",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q. なぜ生成AIの結果をファクトチェックする必要があるのですか？",
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "with a wide range of core legal tasks, from search and summarization of caselaw to document drafting. However, the large",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In one highly publicized case, a New York lawyer faced sanc -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tions for citing ChatGPT- invented fictional cases in a legal",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "risk (Casetext 2023; LexisNexis 2023b; Thomson Reuters 2023,",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "nificant levels. To offer one simple example, shown in the top left",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "FIGURE 2 | Top left: Example of a hallucinated response by Westlaw's AI- Assisted Research product. The system makes up a statement in the",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Federal Rules of Bankruptcy Procedure that does not exist. Top right : Example of a hallucinated response by LexisNexis's Lexis+ AI. Casey and its",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "swer is rational basis review. Bottom left : Example of a hallucinated response by Thomson Reuters's Ask Practical Law AI. The system fails to correct",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "additional false information about the case. Bottom right : Example of a hallucinated response from GPT- 4, which generates a statutory provision that",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "multiple high- profile cases, lawyers have been reprimanded for",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "submitting filings to courts citing nonexistent case law halluci -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, suppose that an LLM is asked to state the year",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "edge learned during training—but a more obscure case might",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "triever would first look up the case name in a legal database, re -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the relevant documents (e.g., Supreme Court cases); and (2) generation (right), where the retrieved texts are fed to the language model to generate",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -3397,11 +3511,6 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "status": "ok",
     "method": "http"
@@ -3412,17 +3521,27 @@
     "method": ""
    },
    {
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tasty_dunlin998/n/nfca926337175",
+    "url": "https://note.com/genkaijokyo/n/nb47cb52b2341",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "url": "https://gigazine.net/news/20251207-ai-generated-citations-fabrication-errors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
     "status": "ok",
     "method": "http"
    },
@@ -3437,22 +3556,17 @@
     "method": "http"
    },
    {
-    "url": "https://fintan.jp/page/10301/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/ja-jp/azure/foundry/concepts/evaluation-evaluators/rag-evaluators",
+    "url": "https://fintan.jp/page/10301/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
+    "url": "https://learn.microsoft.com/ja-jp/azure/foundry/concepts/evaluation-evaluators/rag-evaluators",
     "status": "ok",
     "method": "http"
    },
@@ -3463,6 +3577,11 @@
    },
    {
     "url": "https://amie-ai.com/contents/rag-assignment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
     "status": "ok",
     "method": "http"
    },
@@ -3482,11 +3601,6 @@
     "method": "http"
    },
    {
-    "url": "https://beekle.jp/column/ai-factcheck",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
     "status": "ok",
     "method": "pdf"
@@ -3497,17 +3611,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.leanlaw.co/blog/the-hallucination-problem-a-checklist-for-verifying-ai-generated-legal-citations/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://arxiv.org/html/2606.21155v3",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DVnYveglS8f%26referrer%3D%255Bthe%2520profile%2520of%2520Peter%2520Henderson%255D%2528%252Fprofile%253Fid%253D~Peter_Henderson1%2529",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leanlaw.co/blog/the-hallucination-problem-a-checklist-for-verifying-ai-generated-legal-citations/",
     "status": "ok",
     "method": "http"
    },
@@ -3528,46 +3642,62 @@
     "https://note.com/hana_dx_money/n/nf9301c5313a7",
     "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
     "https://note.com/naruhiko_007/n/n5ad8b8d68046",
-    "https://note.com/tasty_dunlin998/n/nfca926337175",
     "https://note.com/aiyoroz/n/nbe2e49bb97c1",
+    "https://note.com/tasty_dunlin998/n/nfca926337175",
     "https://note.com/amour_llmo/n/n7c14f5328089",
     "https://note.com/rapid_colt420/n/n03eb2fb2d0b1"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価） note",
    "results": [
     "https://note.com/ideal_lemur777/n/n9104eb127f37",
-    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "https://note.com/naruhiko_007/n/n5ad8b8d68046",
+    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
-    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
     "https://www.youtube.com/watch?v=hnAe4IWXS_g",
-    "https://note.com/tasty_dunlin998/n/nfca926337175",
-    "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "https://note.com/genkaijokyo/n/nb47cb52b2341",
+    "https://gigazine.net/news/20251207-ai-generated-citations-fabrication-errors/",
     "https://note.com/ai_create_sho/n/nc69e649a506a"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価） やり方",
    "results": [
-    "https://www.youtube.com/watch?v=DJJ3m03doGY",
     "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
     "https://www.msiism.jp/article/rag.html",
+    "https://www.youtube.com/watch?v=ST4S0T-9H3A",
     "https://my-soft.co.jp/posts/local-llm-rag-introduction/",
-    "https://fintan.jp/page/10301/",
     "https://business.ntt-east.co.jp/content/cloudsolution/column-631.html",
+    "https://fintan.jp/page/10301/",
     "https://learn.microsoft.com/ja-jp/azure/foundry/concepts/evaluation-evaluators/rag-evaluators",
     "https://zenn.dev/suwash/articles/rag_accuracy_20250516",
-    "https://www.youtube.com/watch?v=ST4S0T-9H3A"
-   ]
+    "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
+    "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価） 事例",
    "results": [
     "https://www.youtube.com/watch?v=DJJ3m03doGY",
-    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
     "https://fintan.jp/page/10301/",
     "https://www.exa-corp.co.jp/column/generative-ai_column-6.html",
     "https://amie-ai.com/contents/rag-assignment/",
@@ -3576,22 +3706,32 @@
     "https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/",
     "https://promo.digital.ricoh.com/ai/column/detail029/",
     "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "misgrounded citation detection RAG hallucination evaluation legal research",
    "results": [
     "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
     "https://bulletin.chicagolawlib.org/2025/11/detecting-ai-hallucinations-in-legal-materials/",
-    "https://www.leanlaw.co/blog/the-hallucination-problem-a-checklist-for-verifying-ai-generated-legal-citations/",
     "https://arxiv.org/html/2606.21155v3",
     "https://openreview.net/forum?id=VnYveglS8f&referrer=%5Bthe%20profile%20of%20Peter%20Henderson%5D(%2Fprofile%3Fid%3D~Peter_Henderson1)",
+    "https://www.leanlaw.co/blog/the-hallucination-problem-a-checklist-for-verifying-ai-generated-legal-citations/",
     "https://www.reddit.com/r/Rag/comments/1tavsaz/is_my_approach_sound_citation_verification_in/",
-    "https://www.briefcatch.com/blog/blog-how-ai-hallucination-detection-works",
     "https://servient.com/guides/agentic-legal-research/ai-hallucination-legal-research",
+    "https://www.briefcatch.com/blog/blog-how-ai-hallucination-detection-works",
     "https://isps.yale.edu/resource/hallucination-free-assessing-the-reliability-of-leading-ai-legal-research-tools",
     "https://arxiv.org/html/2610.10971v1"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:note.com 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）",
@@ -3602,26 +3742,36 @@
     "https://note.com/amity_ai_lab/n/n4eb1b4355c6b",
     "https://note.com/naruhiko_007/n/n5ad8b8d68046",
     "https://note.com/hana_dx_money/n/nf9301c5313a7",
-    "https://note.com/tasty_dunlin998/n/nfca926337175",
     "https://note.com/amour_llmo/n/n7c14f5328089",
+    "https://note.com/tasty_dunlin998/n/nfca926337175",
     "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "https://note.com/tasty_dunlin998/n/n92f5983429a3"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）",
    "results": [
     "https://x.com/_moto___/status/2112660274952212567",
-    "https://x.com/masahirochaen/status/2045730009701400844",
     "https://x.com/jinbaflow_JP/article/2099445278613070039",
+    "https://x.com/masahirochaen/status/2045730009701400844",
     "https://x.com/_moto___/status/2116370404612940154",
     "https://x.com/hirokima2moto/status/2062375295769104564",
     "https://x.com/k_koga555/status/2110355297957257370",
     "https://x.com/fukuikensaku/status/1953601991860793372",
     "https://x.com/i/trending/2019752813727777053",
-    "https://x.com/GOROman/status/1918781154788086188",
-    "https://x.com/fujikawa/status/2118123717297635389"
-   ]
+    "https://x.com/fujikawa/status/2117379537843429769",
+    "https://x.com/GOROman/status/1918781154788086188"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）",
@@ -3633,55 +3783,75 @@
     "https://jp.linkedin.com/pulse/case-rag-chris-headings-rlnac?tl=ja",
     "https://jp.linkedin.com/posts/jacobasir_%E7%94%9F%E6%88%90ai-rag-ai%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-activity-7522903074500411392-lFxm",
     "https://jp.linkedin.com/pulse/rag-evaluation-in-depth-guide-building-reliable-systems-2026-n-ix-ff6nf?tl=ja",
-    "https://jp.linkedin.com/pulse/ai-evaluation-systems-vishnu-r-b-hmttc?tl=ja",
-    "https://jp.linkedin.com/pulse/part-3-rag-retrievals-quality-eval-sanjay-dubey-xvlif?tl=ja",
-    "https://jp.linkedin.com/pulse/engineering-trust-how-rag-delivers-reliable-ai-construction-ysw3f?tl=ja"
-   ]
+    "https://jp.linkedin.com/pulse/geometric-fallacy-llm-as-judge-why-similarity-congruence-yadav-rlgmc?tl=ja",
+    "https://jp.linkedin.com/pulse/google-labeled-its-preferred-sources-ai-search-gary-illyes-forgie-hcu3e?tl=ja",
+    "https://jp.linkedin.com/pulse/part-3-rag-retrievals-quality-eval-sanjay-dubey-xvlif?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）",
    "results": [
     "https://www.facebook.com/pnasnexus/posts/does-getting-information-faster-always-mean-learning-it-betterresearchers-find-t/1077887738545400/",
+    "https://www.facebook.com/fb-answers/how-does-the-retrieval-augmented-framework-aim-to-improve-large-language-models/?locale=id_ID",
     "https://www.facebook.com/groups/698593531630485/posts/1073452504144584/",
-    "https://www.facebook.com/fb-answers/how-does-the-retrieval-augmented-framework-aim-to-improve-large-language-models/?locale=he_IL",
     "https://www.facebook.com/yoji.kiyota/posts/%E4%BB%8A%E9%80%B1%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%82%B3%E6%A8%AA%E6%B5%9C%E3%81%A7%E9%96%8B%E3%81%8B%E3%82%8C%E3%81%9F%E5%9B%B3%E6%9B%B8%E9%A4%A8%E7%B7%8F%E5%90%88%E5%B1%952026%E3%81%A7%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0ai%E6%99%82%E4%BB%A3%E3%81%AE%E5%AD%A6%E8%A1%93%E6%83%85%E5%A0%B1%E6%B5%81%E9%80%9A%E3%81%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9D%E3%81%AE%E5%8F%82%E5%8A%A0%E5%A0%B1%E5%91%8A%E3%82%92infosta%E3%81%AEnote%E3%81%AB%E5%AF%84%E7%A8%BF%E3%81%97%E3%81%A6/10240961848654876/",
     "https://www.facebook.com/tomohiro0329/posts/%EF%B8%8F-%E8%A5%BF%E8%84%87%E5%B8%82%E8%AD%B0%E4%BC%9A%E7%94%9F%E6%88%90ai-%E8%AD%B0%E4%BC%9A%E5%B0%82%E7%94%A8ai%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%B8%E6%9C%AC%E6%A0%BC%E5%A7%8B%E5%8B%95%E3%81%AA%E3%81%9C%E8%AD%B0%E4%BC%9A%E5%B0%82%E7%94%A8%E3%81%AEai%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B%E5%9B%B3%E3%81%A8%E3%81%82%E3%82%8F%E3%81%9B%E3%81%A6%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%B5%8C%E7%B7%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AF%E8%AD%B0%E5%93%A1%E4%B8%80%E4%BA%BA%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8Cai/2424331534640770/",
+    "https://www.facebook.com/yoji.kiyota/",
+    "https://www.facebook.com/azure.soudancenter/posts/%E7%AC%AC3%E5%9B%9E%E4%BA%9C%E9%B6%B4%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%B0%8E%E5%85%A5%E5%A5%AE%E9%97%98%E8%A8%98%E7%84%A1%E4%BA%8Bazure%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81%E3%81%97%E3%81%97%E3%81%B0%E3%81%97%E3%81%AE%E4%BC%91%E6%81%AF%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%83%A8%E3%81%AE%E9%9D%A2%E3%80%85%E4%B8%AD%E3%81%A7%E3%82%82azure%E3%81%AE%E5%B0%8E%E5%85%A5%E3%82%92%E4%B8%BB%E5%BC%B5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E6%96%B0%E4%BA%BA%E5%B0%8F%E7%94%B0%E4%BA%9C%E9%B6%B4%E3%81%82/1530654200320449/",
     "https://www.facebook.com/groups/263941474666858/posts/1762908571436800/",
     "https://www.facebook.com/groups/christianrockmetalgroup/posts/4368513893433668/",
-    "https://www.facebook.com/azure.soudancenter/posts/%E7%AC%AC3%E5%9B%9E%E4%BA%9C%E9%B6%B4%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%B0%8E%E5%85%A5%E5%A5%AE%E9%97%98%E8%A8%98%E7%84%A1%E4%BA%8Bazure%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81%E3%81%97%E3%81%97%E3%81%B0%E3%81%97%E3%81%AE%E4%BC%91%E6%81%AF%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%83%A8%E3%81%AE%E9%9D%A2%E3%80%85%E4%B8%AD%E3%81%A7%E3%82%82azure%E3%81%AE%E5%B0%8E%E5%85%A5%E3%82%92%E4%B8%BB%E5%BC%B5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E6%96%B0%E4%BA%BA%E5%B0%8F%E7%94%B0%E4%BA%9C%E9%B6%B4%E3%81%82/1530654200320449/",
-    "https://www.facebook.com/yoji.kiyota/",
-    "https://www.facebook.com/groups/903670287751336/"
-   ]
+    "https://www.facebook.com/yoji.kiyota/posts/%E4%BB%8A%E9%80%B1%E5%9C%9F%E6%9B%9C10%E6%9C%8824%E6%97%A5tpd%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E7%AC%AC35%E5%9B%9E-%E6%95%B4%E7%90%86%E6%8A%80%E8%A1%93%E6%83%85%E5%A0%B1%E7%AE%A1%E7%90%86%E7%AD%89%E7%A0%94%E7%A9%B6%E9%9B%86%E4%BC%9A%E3%81%AB%E7%99%BB%E5%A3%87%E3%81%97%E3%81%BE%E3%81%992011%E5%B9%B4%E3%81%AE%E7%86%B1%E6%B5%B7%E3%81%A7%E3%81%AE%E7%99%BA%E8%A1%A8%E4%BB%A5%E6%9D%A515%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%A7%E3%81%99%E6%BC%94%E9%A1%8C%E3%81%AF%E6%81%A9%E9%80%81%E3%82%8A%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E5%8F%AF/10240946299866166/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価） note 社長",
    "results": [
     "https://note.com/naruhiko_007/n/ncf71d402cd8e",
-    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "https://www.youtube.com/watch?v=DJJ3m03doGY",
-    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "https://note.com/aiyoroz/n/nbe2e49bb97c1",
     "https://note.com/ideal_lemur777/n/n9104eb127f37",
     "https://diamond.jp/articles/-/388569",
-    "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
-    "https://note.com/shigyoai/n/nc722ae05f766",
     "https://dev.classmethod.jp/articles/enterprise-rag-evaluation-design/",
+    "https://officebot.jp/columns/basic-knowledge/rag-assignment/",
+    "https://note.com/pivot_globalive/n/n2c6a27a265e0",
+    "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
     "https://note.com/ai_create_sho/n/nc69e649a506a"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価） X 投稿",
    "results": [
+    "https://www.youtube.com/watch?v=DJJ3m03doGY",
     "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
-    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
-    "https://www.youtube.com/watch?v=DUmm1FSvjm0",
-    "https://cysec148.hatenablog.com/entry/2025/03/27/153253",
-    "https://gigazine.net/news/20251207-ai-generated-citations-fabrication-errors/",
-    "https://dev.classmethod.jp/articles/why-rag-fails-graph-perspective/",
+    "https://fintan.jp/page/10301/",
     "https://zenn.dev/genax_corp/articles/acb75c86d1cc31",
-    "https://japan.cnet.com/article/35247799/",
-    "https://www.youtube.com/watch?v=hnAe4IWXS_g",
-    "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=ja"
-   ]
+    "https://www.youtube.com/watch?v=DUmm1FSvjm0",
+    "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=ja",
+    "https://amie-ai.com/contents/rag-assignment/",
+    "https://blog.usize-tech.com/how-llm-works-with-contradictory-knowledges/",
+    "https://cysec148.hatenablog.com/entry/2025/03/27/153253",
+    "https://newspicks.com/news/14403970/body/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "misgrounded citation detection RAG hallucination evaluation legal research site:linkedin.com",
@@ -3691,14 +3861,139 @@
     "https://www.linkedin.com/pulse/hidden-dangers-legal-ai-unveiling-hallucinations-rag-systems-singh-wm7ue",
     "https://www.linkedin.com/pulse/why-legal-ai-keeps-inventing-fake-cases-how-make-stop-veriprajna-jxaqc",
     "https://pe.linkedin.com/pulse/rag-mitigation-hallucinations-llms-inspiring-lab-wvdhc",
-    "https://ae.linkedin.com/pulse/hallucination-mitigation-first-class-design-principle-sanjay-mundergi-9cx6c?tl=ar",
     "https://www.linkedin.com/posts/mehmet-alacatag_rag-research-paper-activity-7468079430469455872-r4H9",
-    "https://www.linkedin.com/posts/davidjgarsia_rag-is-judgment-why-grounding-does-not-solve-activity-7473755782258331648-8E-s"
-   ]
+    "https://www.linkedin.com/posts/davidjgarsia_rag-is-judgment-why-grounding-does-not-solve-activity-7473755782258331648-8E-s",
+    "https://www.linkedin.com/pulse/hallucination-detection-methods-llms-rag-shaik-vali-bdpve",
+    "https://www.linkedin.com/pulse/building-legal-ai-guardrails-knowledge-graphs-hemanth-kumar-mwvqc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "— 答えが検索結果に忠実か（＝資料にないことを言ってないか）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "両方走らせて、結果を混ぜる",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の検索結果（順位つき）を、順位ベースで融合する",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "# BM25の結果（順位順）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以下のRAG評価スコアと事例から、ボトルネックが「検索の再現率(recall)」なのか",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スコアと事例をセットで渡して切り分けさせる",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗事例のトリアージ、原因の要約",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "もうちょっと分解すると、RAGは3ステップで動いています",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— 質問も埋め込みに変換して、意味が近いチャンクを座標の近さで探す方法",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意味は分からないけど、固有名詞や型番の「完全一致」に強い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "犯人2: 固有名詞・型番に弱い",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番、これベクトル検索がいちばん苦手なやつです",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでのコツは、",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これがあると、後で「出典を明記する」「製品ごとに絞り込む（＝犯人2の型番問題の予防にもなる）」「親チャンクをたどって前後の文脈を補う」といったことが全部できるようになります",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次は犯人2（固有名詞・型番に弱い）を退治します",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「XR-200」みたいな型番はBM25がガッチリ拾い、「返品したいんだけど」みたいな言い回しはベクトルが意味で拾う",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1. 中核となる検索キーワード（固有名詞・型番はそのまま残す）",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 固有名詞・型番が検索で拾える形で残っているか",
+    "url": "https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-06T17:59:52.513452+00:00"
 }

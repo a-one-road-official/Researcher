@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・194品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・197品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3770,6 +3770,7 @@
   - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「資本金の科目はなく、持分のある社団は「出資金」、基金拠出型の社団は「基金」が純資産の部に計上されます」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「存続会社になれない整備法37条のルール、消滅会社になる場合の費用・手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告と広告の違い、官報・新聞・電子公告の方法、違反時の法的責任までわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告方法の種類ごとの メリット、デメリット」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3780,7 +3781,6 @@
   - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「3つの公告方法」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
-  - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -6713,30 +6713,63 @@
 ## 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法（outcome switching pre-registration discrepancy detection research）
 - 文脈：失敗
 - 手順・やり方：
-  - 「How to detect outcome switching by comparing a trial’s registered outcomes against its published results, what CONSORT 2010 and ICMJE require, and how trial teams and reviewers can catch and prevent it.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「) against the published paper, outcome by outcome. This guide covers what counts as switching versus a legitimate pre-specified amendment, how to check for it as a reviewer or reader, what the standards bodies require, and how to avoid it as a trial team.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「How to detect it: the registry-comparison method」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「The registration number should be in the paper’s methods section or abstract (this is what CONSORT 2010 item 24 requires). Search the exact number on the registry it names, or search」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「This exact method — registry-to-publication comparison across every trial in a defined set of journals, rather than a spot check — is the approach the」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「How to prevent it as a trial team」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「also defining minor switching between trial protocol and published RCT. This method was implemented to increase the awareness of, and to more easily communicate the extent of outcome switching in published RCTs」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
-  - 「Kay A, Higgins J, Day AG, Meyer RM, Booth CM. Randomized controlled trials in the era of molecular oncology: methodology, biomarkers, and end points. Ann Oncol. 2012;23:1646–1651. doi: 10.1093/annonc/mdr492.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+  - 「Open Science Framework (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「The study sample was created, and analytical methods were prespecified in a registered protocol (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「We retrieved the corresponding publications through a stepwise search (figure S1), starting with the registration number. If no match was found, additional searches used combinations of intervention terms, health conditions, and the principal investigator’s name.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「This meta-epidemiological study analysed methodological rather than clinical data (ie, outcome reporting practices). No patients or members of the public were involved in setting the research question, selecting outcome measures, developing plans, analysing or interpreting the findings, or writing up the results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Method of aggregation」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Additionally, 25 (20%) studies introduced a total of 35 new primary outcomes that had not been registered as primary or secondary. These new outcomes differed from the registered ones mainly in the measurement variable (28/35, 80%), followed by the time point (21/35, 60%), analysis metric (4/35, 11%), and method of aggregation (2/35, 6%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Lastly, editors and reviewers should not only evaluate the methods prespecified in the protocol, but also compare them to the submitted reports of results. Authors should be required to explain any major discrepancies.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Li G, Abbade LPF, Nwosu I, et al. A systematic review of comparisons between protocols or registrations and full reports in primary biomedical research. BMC Med Res Methodol」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Chan A-W. Out of sight but not out of mind: how to search for unpublished clinical trial evidence. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「]. Moreover, if a reader finds discrepancies between a registration and publication, there is no clear avenue for how to share this information. One study systematically sent 58 letters to the editor that described undisclosed discrepancies in published manuscripts and found that only three of five top medical journals were willing to publish these letters [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「]). This yet-to-be published study leaves the decision for how to use this information to the reviewers and editors.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「2. Methods」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「Discrepancy reviewers reported preferring the updated process but noted that the less structured methodology required greater focus. The updated discrepancy review process took less time than the original process—clinical trial registrations median and range: 28 (10, 60) min (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
 - 突き合わせ・推定：
+  - 「We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Nonetheless, caution is warranted when comparing estimates across studies using different criteria.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
   - 「State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
   - 「. Outcome switching towards positive results might overestimate treatment effects for published data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
 - 一次情報の探し方：
+  - 「sonz087975.ww.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「(157.5KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「PDF (418.3 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
   - 「[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
   - 「PDF (1.5 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
 - 失敗・落とし穴：
-  - 「Why it matters: the reporting-bias mechanism」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「. Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「risk-of-bias assessment」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「: RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「: a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「. Selecting only results from high-impact journals might bias results towards certain journals」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
-  - 「it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+  - 「Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Outcome reporting bias should be evaluated using risk-of-bias assessment tools.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Thomas ET, Heneghan C. Catalogue of bias: selective outcome reporting bias. BMJ Evid Based Med」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Paul M, Olchowski J, Leibovici L. Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved. J Clin Epidemiol」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Undisclosed discrepancies often exist between study registrations and their associated publications. Discrepancies can increase risk of bias, and when undisclosed, they disguise this increased risk of bias from readers. To remedy this issue, we developed an intervention called」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「]. For example, registration can mitigate or disclose activities that increase risk of bias, including selective reporting, outcome switching and data dredging.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「Reducing bias, increasing transparency, and calibrating confidence with preregistration. ( 10.31222/osf.io/d7bcu)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
 - 実例：
+  - 「Examples in publication」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Previous meta-research involving observational studies has been limited to specific specialty areas, outcome types, or high impact journals, and often included retrospectively registered studies. For example, Baudart and colleagues found 114 (85.7%) of 133 observational studies adequately reported the registered outcomes; however, their analysis focused exclusively on harms.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「Kahan BC, Jairath V. Outcome pre-specification requires sufficient detail to guard against outcome switching in clinical trials: a case study. Trials」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
+  - 「]. For example, registration can mitigate or disclose activities that increase risk of bias, including selective reporting, outcome switching and data dredging.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「matched in five cases were off by one category in seven cases, and off by two categories in one case for submitted manuscripts (Cohen's」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
+  - 「= 0.05). For published manuscripts, they matched in four cases and were off by one category in one case, and off by two categories in two cases (Cohen's」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
   - 「when the published report and the trial’s own registry entry disagree on what was measured as primary or secondary, and the disagreement isn’t explained. Three patterns cover most real cases:」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
   - 「= 0.06). Twenty studies with major switching and 19 studies with minor switching were observed. Examples of major switches according to Chan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
   - 「was the presence of a new primary outcome or an initially secondary outcome listed as a primary outcome in the published manuscript. Examples of minor switches were related to reformulated primary outcomes or rearrangements in pre-specified lists of several primary outcomes.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
@@ -7603,11 +7636,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7770,6 +7803,8 @@
   - 「決算公告を官報に掲載するやり方【全7ステップで完全解説】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告を官報に掲載するやり方を7ステップで完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「切り捨て・四捨五入の選び方、B/Sのバランスが崩れる問題、注記文例、Excelでの変換手順まで実務担当者向けに解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「建設業や不動産業など大型借入れを行う業種では、中堅企業でも負債200億円に達する場合があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7778,9 +7813,8 @@
   - 「会社法440条3項は、「電子公告によって公告を行う場合は、前条第1項に規定する計算書類の内容である情報を、当該定時株主総会の終結の日後5年を経過する日までの間、継続して電磁的方法により不特定多数の者が提供を受けることができる状態に置かなければならない」と定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「公告方法を官報から電子公告に変更するためには、定款の変更が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「現在の定款に「公告方法は官報に掲載する方法による」などと記載されている場合、これを「公告方法は電子公告の方法による」に改めなければなりません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「公告方法は会社の商業登記事項です（会社法911条3項25号）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告の義務を適切に果たすためには、自社が大会社に該当するかどうかを毎期確認し、公告方法と掲載内容を正確に管理することが重要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 一次情報の探し方：
   - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7803,6 +7837,8 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「ただし一点、注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「期限がないからと言って決算公告を怠ると、会社の透明性が損なわれるため注意しましょう」（https://www.keihi.com/column/45390/）
@@ -7812,8 +7848,6 @@
   - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「さらに、電子公告の場合は掲載期間にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「1項）、記載を忘れないよう注意が必要です」（https://shiodome.co.jp/js/blog/13590）
 - 実例：
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -9698,11 +9732,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -11681,3 +11715,94 @@
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+
+## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
+- 文脈：手法・偏り
+- 手順・やり方：
+  - 「Dhanapati Khatiwoda, Sandra Peterson, and Stephen Hardy」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Cross Sector Surveys Statistical Methods Branch (CSSSMB)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Economic Statistical Methods Division (ESMD)」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「about the survey, look at the survey methodology report available at ABS Methodology.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「requirement to report. The survey letter included instructions on how to access the survey and submit」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「the methodology report is about 69%. This falls below the Census Bureau quality standards available at」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「The estimated variance of the weighted unit response rate uses a delete-a-group jackknife method with」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「using delete-a-group jackknife method as mentioned in section 2.2 above.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Bureau, US Census. “Annual Business Survey Methodology.” Census.Gov, 24 Oct. 2023, ABS」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Most recently, the Federal Committee on Statistical Methodology (FCSM) organized a」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「rates - a section that presents response rates of select establishment surveys, (6) methods and」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「Survey methods research and survey data quality evaluations have routinely examined the」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「Groves (1989), and Groves and Couper (1998). A variety of mathematical statistical methods have」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「methods for nonresponse reduction, nonresponse adjustment methods, along with a variety of」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+- 突き合わせ・推定：
+  - 「The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「demographic characteristics estimates are referenced as Demographic Characteristics for Businesses」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「(DCB), and the economic characteristics estimates are referenced as Research and Development,」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Published DCB estimates can be found at ABS Company Summary, and RDIT published estimates can be」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates, if the characteristics being measured for nonresponding units differ from the characteristics」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「The analysis for this section involves unweighted estimates because the goal is to determine differences」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「American Community Survey Estimates, these five states are also the only states where less than 40」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「ownership are AZ, CA, FL, NM, NV, and TX, and the 2022 American Community Survey Estimates show」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「2022 American Community Survey Estimates. The states with at least 50% minority population」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「All RDIT analysis is limited to only firms that were eligible for RDIT estimates, which excludes the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates, and, conversely, some firms within R&D industries may not see the R&D section because they」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「$50,000. Not all firms that report R&D expenses are tabulated in final R&D estimates because analyst」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+- 一次情報の探し方：
+  - 「surveys/sbo/methodology/2007/sbo_nonresponse_analysis.pdf. Accessed 12 Aug. 2022.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「act/standards_and_guidelines_for_statistical_surveys_-_omb_-_sept_2006.pdf. Accessed」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Pietsch, L. (1995), “Profiling large business to define frame units,” Chapter 6 in Business Survey」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
+  - 「whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
+  - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 失敗・落とし穴：
+  - 「2.4 Relative Bias ................................................................................................................................ 19」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「being measured for responding units. Nonresponse bias for a sample mean is the product of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「concludes by looking at the relative bias based on the mean differences between the respondents and」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「sections, we will consider weighted estimates when investigating if non-response bias is impacting our」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+- 実例：
+  - 「survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「smaller relative bias and vice versa. For example, the response rate of the industry sector 31 is 70.17%」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
+  - 「establishments. The units may be, for example, individual establishments, companies, multiple」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「surveys. See for example, Telephone Survey Methodology (Groves, et. al., 1988), Survey Errors」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「participation. For example, some types of establishments were more likely than others to respond」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「response. Permanent random numbers and rotational designs (see for example, Ohlsson, 1995;」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「addressed establishment survey nonresponse. For example, the articles by Tomaskovic-Devey, et al.」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「data from health care providers (for example, physicians, hospitals) about the use of their health care」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「Appendix 1 includes more detailed information on many of the surveys used as examples in」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「collection, for example, before and after major follow-up mailings or in panel surveys at each」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「estimated population total which is contributed by respondents. In cases where a small number of」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「For example, the unweighted and weighted response rates for the」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「• establishments for which survey contact wa s attempted but without success, for example a」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「reached by the survey; for example persons initially contacted at an establishment, such as」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+  - 「• establishments in which requested data are not available; for example no one may」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
+
+## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
+- 文脈：会社・一次
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
+
+## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
+- 文脈：会社・一次
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

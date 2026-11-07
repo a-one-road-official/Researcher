@@ -1,0 +1,1186 @@
+{
+ "name": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+ "en": "response rate valid responses labor shortage survey manufacturing SMEs Japan",
+ "aliases": [
+  "人手不足 調査 製造業 有効回答数 回収率",
+  "中小企業 人手不足 アンケート 調査方法 回答企業数",
+  "日本商工会議所 人手不足 調査 回答率"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T18:58:05.258301+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "離職防止のため、新入社員に対し通常の給与に別途、入社後3年",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応募者が詳細な条件面や長期的視点を持たずに面接を受け、試用期間中に離職するなどの課題がある",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に中途採用した職員の離職が多く、新卒採用のほうが定着率は高い",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "４ 企業数 アンケートの郵送送付先数 9,342社（回収率46.3％）有効回答数 4,329社（内、WEB回答 2,484社、調査票回答 1,845社）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（６）回答企業数：2,988社（回答率：49.7％）",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業数 18,829社",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "有効回答企業数 17,902社",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "（６）回答企業数：3,120社（回答率：51.9％）",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "• 2022年～2024年の新卒・中途の採用動向（採用状況、採用人数）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人以下 747 17.3",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人超～３０人以下 1,317 30.4",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３０人超～５０人以下 764 17.6",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５０人超～１００人以下 710 16.4",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人超 791 18.3",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～｜調査｜調査・ガイドライン ｜東京商工会議所",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○人手が「不足している」と回答した企業は65.6％",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "3社に2社が人手不足の厳しい状況続く",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○[業種別] 「建設業」（78.9％）、「運輸業」（77.3％）、「介護・看護業」（76.9％）で８割近く、最も低い「製造業」（57.8％）でも約６割が人手不足と回答",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○[従業員規模別] ５人以下の企業では、「賃上げ実施予定」は32.7％と３割強にとどまり、「賃上げを見送る予定（引下げ予定を含む）」が16.8%と2割近くとなった",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○人手不足や物価上昇が進む中、「最低賃金を上回っていたが、賃金を引き上げた」とする企業は29.8％と昨年度から5.2ポイント増加",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2.業況が改善した産業で人手不足感が強まる",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～｜調査｜調査・ガイドライン ｜東京商工会議所",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○「人手不足」との回答が7割近く（68.0％）で、2015年の調査実施以降、最大",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○人材確保に向けた取組は、「賃上げの実施、募集賃金の引上げ」（72.5％）が最も多く、「ワークライフバランスの推進」（38.1％）が続く",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○課題は、「人手不足のため、子育て中の社員の仕事のカバーが難しい」（44.2%）、「専門的・属人的な業務が多く、子育て中の社員の仕事のカバーが難しい」（37.5％）",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○外国人材の受入れを「拡大すべき」「業種・地域を限って拡大すべき」を合わせると約7割（67.8％）",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "年商5億円以下の企業では募集を行っている企業のうち、過半数の企業で採用ができていない状況であることがうかがえた",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円以下(n=278) 5億円超～10億円(n=302)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円超～20億円(n=347) 20億円超～50億円(n=339)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円超～100億円(n=159) 100億円超(n=117)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円以下(n=805) 5億円超～10億円(n=663)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円超～20億円(n=623) 20億円超～50億円(n=446)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円超～100億円(n=185) 100億円超(n=129)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(繊維身の回り品卸,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(金属製品製造,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(繊維製造,10億円超～20億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(その他サービス,5億円超～10億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(道路貨物運送,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(不動産業,100億円超)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(飲食店,5億円超～10億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(対事業所サービス,10億円超～20億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(印刷業,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(窯業・土石製品製造,10億円超～20億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(各種商品小売,50億円超～100億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 売上額（前年同期比、前期比原数値、前期比季節調整値）",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "売上額（Excel:84 KB）",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "中小企業設備投資動向調査（2024年1月調査）付帯調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "中小企業設備投資動向調査（2024年1月調査）付帯調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月8日",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 中小企業においては、今後の人口減少による担い手不足に対して、「正社員の採用活動の強化、採用対象",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 2023年度から2024年度にかけて、中小企業の新卒採用への意欲が拡大",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 2022年～2024年の新卒・中途の採用動向（採用状況、採用人数）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 調査時点 2024年1月1日現在（調査期間：2023年12月15日～2024年1月19日）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中小企業では、今後の人口減少による担い手不足の具体的な対策として、「正社員の採用活動の強化、採用対象層の",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※）2023年度実績見込、2024年度予定とも2024年1月1日時点の状況",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用動向（2023年度実績見込、2024年度予定）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 新卒採用については、2023年度から2024年度にかけて、「募集は行わない」の割合が縮小しており、中小企業の新卒採",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中途採用については、 2023年度から2024年度にかけて、「募集は行わない」の割合が微増",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度（見込）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度（予定）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度(見込)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度(予定)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※1）左図：「新卒・中途とも予定通り採用」は、新卒・中途とも2022～2024年度のいずれかの年で「募集を行い、予定通りの人数を採用できた」とした企業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（例）同一年度に新卒・中途の両方を予定通り採用できた企業、2023年度に新卒を予定通り採用、2024年度に中途を予定通り採用の企業等",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※2）右図：「採用ができていない」は、2022～2024年度のいずれの年度にも新卒・中途の採用が予定通りできた実績がない企業（予定に満たなかった場合、",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月14日",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "【ポイント②：2024年度の賃上げ】",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○2024年度に「賃上げを実施予定」とする企業は61.3％と６割超",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "昨年度から3.1ポイント増加",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○2024年度の賃上げ率の見通しについては、「3%以上」とする企業が36.6％と4割近くに達し、昨年度から3.1ポイント増加",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○2023年10月の最低賃金引上げを受け、「最低賃金を下回ったため、賃金を引上げた」企業（直接的な影響を受けた企業）は38.4％と引き続き高い水準",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○人手不足や物価上昇が進む中、「最低賃金を上回っていたが、賃金を引き上げた」とする企業は29.8％と昨年度から5.2ポイント増加",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○2024年度の最低賃金改定に対する考えは、「引下げるべき」と「引上げはせずに、現状の金額を維持すべき」の合計は昨年度から8.0ポイント増え、41.7％",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査期間：2024年１月４日～26日",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "7. 時系列全データ",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月28日",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○「人手不足」との回答が7割近く（68.0％）で、2015年の調査実施以降、最大",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査期間：2023年７月18日～８月10日",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "働きたい人に働きたいだけ働いてもらわねば人手不足は解消できない",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業界が相対的に人手不足であり、2024年問題も大きな課題になっている",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～｜調査｜調査・ガイドライン ｜東京商工会議所",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、物価の高騰に加え、中小企業の深刻な人手不足もあり、賃上げ圧力がかつてないほど高まっているなか、中小企業の人手不足、賃上げ・最低賃金引上げに対する対応状況や意向を把握することで、今後の要望活動に活かしていくために実施しました",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "3社に2社が人手不足の厳しい状況続く",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○[業種別] 「建設業」（78.9％）、「運輸業」（77.3％）、「介護・看護業」（76.9％）で８割近く、最も低い「製造業」（57.8％）でも約６割が人手不足と回答",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "○人手不足や物価上昇が進む中、「最低賃金を上回っていたが、賃金を引き上げた」とする企業は29.8％と昨年度から5.2ポイント増加",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "pass": 3
+   },
+   {
+    "quote": "2.業況が改善した産業で人手不足感が強まる",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～｜調査｜調査・ガイドライン ｜東京商工会議所",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、中小企業における人手不足の状況と対策、女性のキャリアアップ支援、仕事と育児の両立、外国人材の受入れについて実態を把握し、今後の要望活動に活かしていくために実施しました",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○「人手不足」との回答が7割近く（68.0％）で、2015年の調査実施以降、最大",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   },
+   {
+    "quote": "○課題は、「人手不足のため、子育て中の社員の仕事のカバーが難しい」（44.2%）、「専門的・属人的な業務が多く、子育て中の社員の仕事のカバーが難しい」（37.5％）",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2024/248.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.en-japan.com/newsrelease/2026/45297.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/questionnaire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/news/items/info0912_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/20250319_2023research.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1204012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaiketsu-j.com/resource/24126/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airlife-lab.com/recruitment/2106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2020/193.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250819-laborshortage202507/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/18920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbic.go.jp/en/image/202503_spot.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 人手不足 受注 断る",
+   "results": [
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://corp.en-japan.com/newsrelease/2026/45297.html",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 受注残 人手不足",
+   "results": [
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jil.go.jp/institute/research/2024/248.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "https://corp.en-japan.com/newsrelease/2026/45297.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+   "results": [
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.smrj.go.jp/research_case/questionnaire/",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1204012"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.smrj.go.jp/research_case/questionnaire/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1.pdf",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1204012"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://shokosoken.or.jp/paper/theme/2017/201706.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.smrj.go.jp/research_case/questionnaire/",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.jil.go.jp/institute/research/2020/193.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） 2015 2025",
+   "results": [
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1201013",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jil.go.jp/institute/research/2020/193.html",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "response rate valid responses labor shortage survey manufacturing SMEs Japan Japan statistics",
+   "results": [
+    "https://www.nippon.com/en/articles/-/18920",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.jbic.go.jp/en/image/202503_spot.pdf",
+    "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.bls.gov/osmr/response-rates/",
+    "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/68a5d42fa7f541b482051e76_en-br250401.pdf",
+    "https://www.stat.go.jp/english/data/roudou/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+   "results": [
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/nobuto545/n/n16c9db27456e",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/tck/n/n95812964bcbb",
+    "https://note.com/loyal_ivy9071/n/n2a4e10b590ba",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/loyal_ivy9071/n/ndc1fe571ae59",
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/aohata_np/n/n08e060bb8fb4",
+    "https://note.com/asada727/n/n4c556df47e96"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+   "results": [
+    "https://x.com/asahi/status/1831635898653442183",
+    "https://x.com/YORISOI_HR_CEO/status/2113541072295203302",
+    "https://x.com/i/trending/2106676181609193886",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://x.com/i/trending/2091786772669723113",
+    "https://x.com/imacrea_ltd/status/2105068323167949014",
+    "https://x.com/ryu_vpro/status/2116115416099787148"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+   "results": [
+    "https://jp.linkedin.com/posts/kawaguchi-まあさん-860809275_中小企業の656が人手不足と回答賃上げ実施予定の企業は６割超え日商の調査-activity-7165118523365580800-7iHR",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://jp.linkedin.com/posts/海地-杉田-053ab0348_求人を出してもそもそも応募が一件も来ない-人手不足の相談でここ最近いちばん-activity-7476839397443698688-Sszn",
+    "https://jp.linkedin.com/posts/sei-tamai_日商の夏季政策懇人手不足の深刻さ報告-賃上げ実施7割も会頭大幅引き上げ難しい-activity-7483167839210655744-S8Ke",
+    "https://jp.linkedin.com/pulse/中小企業よりも中堅企業のほうが厳しくなる中途採用の動向から見る中途採用対策-崇-堀内-ad7fc",
+    "https://www.linkedin.com/posts/mai-isogaki-0b880134a_5711社に調査採用難と人件費高騰が企業経営を直撃6割の企業で人件費の上昇-activity-7331562098822426624-zXm2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）",
+   "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/smrjpr/posts/中小機構news人手不足特集を公開しました-情報紙中小機構newsでは中小企業小規模事業者や支援機関の皆様に耳寄りなお役立ち情報を発信中です-人手不足特集では中/822418926590725/",
+    "https://www.facebook.com/futoshi.kawano.1/posts/中小企業の6割が人手不足小規模企業では廃業の懸念も-日商が調査人手不足への対策では採用活動の強化が757で最も多くデジタル機械ai等による省力化が402で続いた/28742404922075460/",
+    "https://www.facebook.com/joetsu.cci/posts/779298174235925/",
+    "https://www.facebook.com/office.sjd/posts/人手不足の中小企業66超日商調査日本商工会議所から人手不足等への対応に関する調査結果が公表されましたこの調査は人手不足への対応に関する調査働き方改革関連法の認知/2527740317250796/",
+    "https://www.facebook.com/osakacci/posts/人手不足への対応が最大の課題調査結果３割強労務費上昇分を全く価格転嫁できず大阪商工会議所は2024年4月18日深刻化する人手不足への中堅中小小規模企業の対応や価/454746870453203/",
+    "https://www.facebook.com/smrjpr/photos/2026年度版中小企業白書小規模企業白書を取りまとめました約30年ぶりの賃上げ水準が続き人手不足が深刻化する中現状維持は最大のリスクと指摘長期的な視点で事業組織/1488077156691562/",
+    "https://www.facebook.com/tsrnet/posts/人手不足が一層深刻関連倒産が上半期最多-求人難退職人件費のトリプル苦が中小企業を直撃中小企業で人手不足の深刻な影響が広がっている2025年上半期1-6月の人手不/1464265728210192/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1202158",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_18_06_27b.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.youtube.com/watch?v=fHvaSaPpiUs",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.cac.co.jp/trends/trend43/",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1204012"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "response rate valid responses labor shortage survey manufacturing SMEs Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://www.linkedin.com/posts/bob-sternfels_with-the-news-on-global-trade-evolving-daily-activity-7440724788219760640-jDYJ",
+    "https://www.linkedin.com/posts/ivestay_more-profit-making-companies-cutting-jobs-activity-7429766630294872064-VYf3",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/pulse/small-business-big-impact-how-help-smes-net-zero-transition-tv0ue",
+    "https://www.linkedin.com/in/matthewfieldman",
+    "https://www.linkedin.com/in/phil-witt-1814979",
+    "https://www.linkedin.com/pulse/japan-processed-poultry-meat-market-ystdc",
+    "https://www.linkedin.com/in/ivette-contreras/en",
+    "https://www.linkedin.com/posts/ivestay_more-singapore-firms-plan-to-freeze-or-moderate-activity-7501217430745092096-7ARA"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "1人あたり・1社あたり金額": "記載なし（読んだ41頁・検索18回）"
+ }
+}

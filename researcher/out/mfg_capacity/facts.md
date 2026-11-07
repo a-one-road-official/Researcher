@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・181品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・183品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9580,6 +9580,169 @@
 - 痛み・損（深さの印）：記載なし（読んだ37頁・検索18回）
 - 生産能力・設備：記載なし（読んだ37頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ37頁・検索18回）
+
+## 官報決算データベース（catr.jp）・インターネット版官報で引く受託4業種（めっき・熱処理・金属プレス・金型）の株式会社の決算公告（純資産・当期純利益・表示単位・0円科目の省略を欠けに数えない・4-87）（kanpo financial statement database catr plating heat treatment die press company）
+- 文脈：会社・決算
+- 痛み・損（深さの印）：
+  - 「企業概要、財務情報、倒産情報、業界分析」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「TSRの強みは、倒産情報のデータベースが充実している点です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「取引先の倒産リスクを評価する際に特に重宝します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+- 社員数・平均社員数：
+  - 「独立行政法人 国立印刷局「官報について」（https://www.npb.go.jp/product_service/books/kanpo/index.html）2026年6月時点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/861c9/1032849/settlements/fa382/490267）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/55f08/34099）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465）
+  - 「有料老人ホーム (366)」（https://catr.jp/search）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/4e9b6/305056/settlements/66437/449785）
+  - 「ポケモン決算公告で純利益71%増、法人データベース新メディア登場など注目トピックを整理」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「有料老人ホーム (366)」（https://catr.jp/date/c6ede/2026-11-04/official-site）
+  - 「有料老人ホーム (366)」（https://catr.jp/companies/8fe53/288265/settlements/7b947/433543）
+- 受注金額・加工賃収入：
+  - 「約7万円/回」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「第二に、義務があるにもかかわらず決算公告を行っていない企業があります（違反した場合は会社法第976条により100万円以下の過料の対象）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「株式会社が決算公告をしないと100万円以下の過料リスク」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「145億200万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「225億3900万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「181億5400万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲8億8200万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲28億3500万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「164億2300万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲971万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「▲8億8200万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「▲28億3500万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「164億2300万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「4億9869万円」（https://catr.jp/companies/861c9/1032849/settlements/fa382/490267）
+- 1人あたり・1社あたり金額：
+  - 「約7万円/回」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「第二に、義務があるにもかかわらず決算公告を行っていない企業があります（違反した場合は会社法第976条により100万円以下の過料の対象）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「Uber Japanの決算公告｜8年の赤字黒字を繰り返した末の53万円の黒字転換」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「株式会社が決算公告をしないと100万円以下の過料リスク」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「145億200万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「225億3900万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「181億5400万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲8億8200万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲28億3500万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「164億2300万円」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「▲971万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「▲8億8200万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「▲28億3500万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「164億2300万円」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「4億9869万円」（https://catr.jp/companies/861c9/1032849/settlements/fa382/490267）
+- 10年推移：
+  - 「ネオキャリアの決算公告｜第25期は赤字転落、9期分の数字で見る推移」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「2024年3月」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「© 2024 電子決算公告ドットコムMagazine.」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
+  - 「株式会社サイプレス 第43期決算公告（2018年7月期）・親会社・グループ情報 | 官報決算データベース」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「2018年10月29日の決算一覧」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「2018年10月29日」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「2018年07月31日」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「2018/07/31」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「2018/07/20」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「【2018年12月期】」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「【2018年7月期】」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「【2017年12月期】」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「【2025年12月期】」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「エンフィニティ・ジャパン株式会社 第4期決算公告（2025年12月期）・会社情報 | 官報決算データベース」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「2025年12月31日」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+- 検索結果の抜粋：
+  - 「2026年 4 月23日の 官報決算公告 一覧（純利益が多い順） — 2026年 4 月23日の 官報決算公告 一覧（純利益が多い順） 官報決算データベース https://catr.jp > date」（https://catr.jp/date/c63ac/2026-04-23）
+  - 「株式会社 サイプレス 第43期 決算公告 ・親会社・グループ情報 — 株式会社 サイプレス 第43期 決算公告 ・親会社・グループ情報 官報決算データベース https://catr.jp > 株式会社サイプレス」（https://catr.jp/companies/55f08/34099/settlements/9f8fe/34803）
+  - 「エンフィニティ・ジャパン 株式会社 第 4 期 決算公告 — エンフィニティ・ジャパン 株式会社 第 4 期 決算公告 官報決算データベース https://catr.jp > 2026年10月26日の決算一覧」（https://catr.jp/companies/8f09d/218049/settlements/be87c/489278）
+  - 「岡本 プレス 工業 株式会社 第67期 決算公告 — 岡本 プレス 工業 株式会社 第67期 決算公告 官報決算データベース https://catr.jp > 岡本プレス工業株式会社」（https://catr.jp/companies/26bca/28554/settlements/3b0f1/427539）
+  - 「株式会社 CORE技術研究所 第12期 決算公告 — 株式会社 CORE技術研究所 第12期 決算公告 官報決算データベース https://catr.jp > 株式会社CORE技術研究所」（https://catr.jp/companies/f2cfb/32944/settlements/97a61/431465）
+  - 「株式会社 CRAFTED JAPAN 第2期 決算公告 — 株式会社 CRAFTED JAPAN 第2期 決算公告 官報決算データベース https://catr.jp > 株式会社CRAFTED JAPAN」（https://catr.jp/companies/4e9b6/305056/settlements/66437/449785）
+  - 「製造業の 会社の決算 一覧（利益剰余金が多い順・43ページ目） — 製造業の 会社の決算 一覧（利益剰余金が多い順・43ページ目） 官報決算データベース https://catr.jp > industries」（https://catr.jp/industries/5?sort=retained_earnings&offset=840）
+  - 「2026年11月04日の公式サイト 決算公告 の一覧 — 2026年11月04日の公式サイト 決算公告 の一覧 官報決算データベース https://catr.jp > date > official-site」（https://catr.jp/date/c6ede/2026-11-04/official-site）
+  - 「Strider Technologies Japan 第1期 決算公告 ・ 会社 情報 — Strider Technologies Japan 第1期 決算公告 ・ 会社 情報 官報決算データベース https://catr.jp > Strider Technologies Japan株式会社」（https://catr.jp/companies/8fe53/288265/settlements/7b947/433543）
+  - 「製造業の 会社 の 決算 一覧（利益剰余金が多い順・45ページ目） — 製造業の 会社 の 決算 一覧（利益剰余金が多い順・45ページ目） 官報決算データベース https://catr.jp > industries」（https://catr.jp/industries/5?sort=retained_earnings&offset=880）
+- 事業所数・社数：記載なし（読んだ50頁・検索18回）
+- 生産能力・設備：記載なし（読んだ50頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ50頁・検索18回）
+
+## 人手不足・採用難の製造業向け調査（日商・中小機構・公庫・民間）の回収率・有効回答数・調査方法の一覧（答えた会社の中の割合か・困っている先ほど答える偏りの向き・4-87）（response rate valid responses labor shortage survey manufacturing SMEs Japan）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「離職防止のため、新入社員に対し通常の給与に別途、入社後3年」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「応募者が詳細な条件面や長期的視点を持たずに面接を受け、試用期間中に離職するなどの課題がある」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「特に中途採用した職員の離職が多く、新卒採用のほうが定着率は高い」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+- 事業所数・社数：
+  - 「４ 企業数 アンケートの郵送送付先数 9,342社（回収率46.3％）有効回答数 4,329社（内、WEB回答 2,484社、調査票回答 1,845社）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「（６）回答企業数：2,988社（回答率：49.7％）」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「調査対象企業数 18,829社」（https://www.smrj.go.jp/research_case/survey/）
+  - 「有効回答企業数 17,902社」（https://www.smrj.go.jp/research_case/survey/）
+  - 「（６）回答企業数：3,120社（回答率：51.9％）」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+- 社員数・平均社員数：
+  - 「• 2022年～2024年の新卒・中途の採用動向（採用状況、採用人数）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「１０人以下 747 17.3」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「１０人超～３０人以下 1,317 30.4」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「３０人超～５０人以下 764 17.6」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「５０人超～１００人以下 710 16.4」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「１００人超 791 18.3」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～｜調査｜調査・ガイドライン ｜東京商工会議所」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○人手が「不足している」と回答した企業は65.6％」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「3社に2社が人手不足の厳しい状況続く」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○[業種別] 「建設業」（78.9％）、「運輸業」（77.3％）、「介護・看護業」（76.9％）で８割近く、最も低い「製造業」（57.8％）でも約６割が人手不足と回答」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○[従業員規模別] ５人以下の企業では、「賃上げ実施予定」は32.7％と３割強にとどまり、「賃上げを見送る予定（引下げ予定を含む）」が16.8%と2割近くとなった」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○人手不足や物価上昇が進む中、「最低賃金を上回っていたが、賃金を引き上げた」とする企業は29.8％と昨年度から5.2ポイント増加」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「2.業況が改善した産業で人手不足感が強まる」（https://www.smrj.go.jp/research_case/survey/）
+  - 「一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった」（https://www.smrj.go.jp/research_case/survey/）
+- 受注金額・加工賃収入：
+  - 「年商5億円以下の企業では募集を行っている企業のうち、過半数の企業で採用ができていない状況であることがうかがえた」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「5億円以下(n=278) 5億円超～10億円(n=302)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「10億円超～20億円(n=347) 20億円超～50億円(n=339)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「50億円超～100億円(n=159) 100億円超(n=117)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「5億円以下(n=805) 5億円超～10億円(n=663)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「10億円超～20億円(n=623) 20億円超～50億円(n=446)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「50億円超～100億円(n=185) 100億円超(n=129)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(繊維身の回り品卸,～5億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(金属製品製造,～5億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(繊維製造,10億円超～20億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(その他サービス,5億円超～10億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(道路貨物運送,～5億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(不動産業,100億円超)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(飲食店,5億円超～10億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「(対事業所サービス,10億円超～20億円)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+- 生産能力・設備：
+  - 「中小企業設備投資動向調査（2024年1月調査）付帯調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+- 10年推移：
+  - 「中小企業設備投資動向調査（2024年1月調査）付帯調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「2024年5月8日」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「◼ 中小企業においては、今後の人口減少による担い手不足に対して、「正社員の採用活動の強化、採用対象」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「◼ 2023年度から2024年度にかけて、中小企業の新卒採用への意欲が拡大」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「• 2022年～2024年の新卒・中途の採用動向（採用状況、採用人数）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「２ 調査時点 2024年1月1日現在（調査期間：2023年12月15日～2024年1月19日）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「⚫ 中小企業では、今後の人口減少による担い手不足の具体的な対策として、「正社員の採用活動の強化、採用対象層の」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「（※）2023年度実績見込、2024年度予定とも2024年1月1日時点の状況」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「中小企業の採用動向（2023年度実績見込、2024年度予定）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「⚫ 新卒採用については、2023年度から2024年度にかけて、「募集は行わない」の割合が縮小しており、中小企業の新卒採」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「⚫ 中途採用については、 2023年度から2024年度にかけて、「募集は行わない」の割合が微増」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「2023年度（見込）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「2024年度（予定）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「2023年度(見込)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「2024年度(予定)」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+- 人手と仕事の差：
+  - 「働きたい人に働きたいだけ働いてもらわねば人手不足は解消できない」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「業界が相対的に人手不足であり、2024年問題も大きな課題になっている」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～｜調査｜調査・ガイドライン ｜東京商工会議所」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「「中小企業の人手不足、賃金・最低賃金に関する調査」の集計結果について～中小企業の65.6%が人手不足と回答、賃上げ実施予定の企業は６割を超える～」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「本調査は、物価の高騰に加え、中小企業の深刻な人手不足もあり、賃上げ圧力がかつてないほど高まっているなか、中小企業の人手不足、賃上げ・最低賃金引上げに対する対応状況や意向を把握することで、今後の要望活動に活かしていくために実施しました」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「3社に2社が人手不足の厳しい状況続く」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○[業種別] 「建設業」（78.9％）、「運輸業」（77.3％）、「介護・看護業」（76.9％）で８割近く、最も低い「製造業」（57.8％）でも約６割が人手不足と回答」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「○人手不足や物価上昇が進む中、「最低賃金を上回っていたが、賃金を引き上げた」とする企業は29.8％と昨年度から5.2ポイント増加」（https://www.tokyo-cci.or.jp/page.jsp?id=1202158）
+  - 「2.業況が改善した産業で人手不足感が強まる」（https://www.smrj.go.jp/research_case/survey/）
+  - 「一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった」（https://www.smrj.go.jp/research_case/survey/）
+  - 「「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～｜調査｜調査・ガイドライン ｜東京商工会議所」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+  - 「「人手不足の状況および多様な人材の活躍等に関する調査」 の集計結果について ～中小企業の人手不足は７割近くで過去最大、 8割強が仕事と育児の両立推進が必要と感じているも約半数が十分取り組めていないと回答～」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+  - 「本調査は、中小企業における人手不足の状況と対策、女性のキャリアアップ支援、仕事と育児の両立、外国人材の受入れについて実態を把握し、今後の要望活動に活かしていくために実施しました」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+  - 「○「人手不足」との回答が7割近く（68.0％）で、2015年の調査実施以降、最大」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+  - 「「非常に深刻（人手不足を理由とした廃業等、今後の事業継続に不安）」（6.9%）または「深刻（事業運営に支障）」（57.2%）と回答」（https://www.tokyo-cci.or.jp/page.jsp?id=1201013）
+- 1人あたり・1社あたり金額：記載なし（読んだ41頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
