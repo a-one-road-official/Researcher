@@ -1,0 +1,877 @@
+{
+ "name": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）",
+ "en": "metal additive manufacturing contract production annual revenue actual results excluding forecast",
+ "aliases": [
+  "金属AM 受託 量産 売上 実績 決算",
+  "金属3Dプリンター 受託 年間 取引額 実績",
+  "積層造形 受託 売上高 前期 実績"
+ ],
+ "context": "実績",
+ "kind": "market",
+ "researched_at": "2026-11-07T12:08:53.375598+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "3Dプリンターは、初期費用が低く、形状変更に強く、少量生産に向いている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金型は初期費用が高いが、一度作ってしまえば、1個あたりのコストが圧倒的に安い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "906億2700万円の減損損失",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nikon SLM Solutionsののれん | 約605億6800万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 識別可能無形資産の一部 | 約262億4400万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| その他固定資産など | 約38億円規模 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 合計 | 約906億2700万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "であって、いま新たに906億円の現金が外に出たという意味ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "その後に公表されたNikonの2026年3月期通期実績では、親会社の所有者に帰属する当期損失は860億88百万円となった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は6,771億63百万円で前期比5.3％減、営業損益は1,124億48百万円の損失である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Seuratは、200万画素規模のレーザーパターンを「面」として一括照射するArea Printing技術を開発している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "量産1個あたりの単価",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "TDKは、米国のFabric8Labsを最大4億ドルで買収すると発表した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "NikonがSLM Solutionsを買収し、TDKがFabric8Labsを最大4億ドルで買収すると発表した流れは、まさにこの金属AMが「国家・産業インフラ」になり始めたことを示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Fabric8Labs側の発表では、ECAMによる液冷部品は、競合する熱管理ソリューションと比べて、AIアクセラレータ温度を最大7℃/kW低減できると説明されている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは2025年に過去最高の約5.331億ドルの売上を記録した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| TDK | Fabric8Labs | 2026発表 | 米国のECAM金属3Dプリント企業を最大4億ドルで買収予定 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| その他固定資産など | 約38億円規模 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "であって、いま新たに906億円の現金が外に出たという意味ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、その後に約906億円の減損を計上し、2026年3月期は過去最大の最終赤字に転落したことで、金属AM市場の普及速度が想定より遅く、競争も厳しい現実が見えた",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞：ニコン一転最大の赤字 26年3月期最終850億円、金属3Dプリンター減損",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ｜香川友志",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 米国 | デジタル製造、3Dプリント、CNC | 試作・小ロット製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nano Dimension | 2025年1〜9月売上 約6,710万ドル | Markforged買収反映、Desktop Metalは一部非継続扱い |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 小ロット販売 | 3Dプリンター |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "量産1個あたりの単価",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2026によると、世界のAM関連売上は2025年に",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysや3D Systemsは、売上の伸び悩み、赤字、リストラ、事業再編と向き合っている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7. 売上リスト：公開企業と非公開企業を分けて見る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター業界の売上比較は注意が必要である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単純に「売上が大きい会社＝3Dプリンター本体で強い会社」とは言えない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7-1. 公開情報で確認できる主要企業の売上",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Xometry | 2025年売上 約6.866億ドル | 3Dプリントだけでなく、CNC、板金など製造マーケットプレイス全体 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Stratasys | 2025年売上 約5.511億ドル | 産業用ポリマーAM中心 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 2025年売上 約5.331億ドル | 3Dプリント、CNC、射出成形など含む |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 3D Systems | 2025年売上 約3.869億ドル | 医療・産業AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Materialise | 2025年売上 約2.676億ユーロ | ソフトウェア、医療、製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| BLT | 2025年売上 約18.52億元 | 中国金属AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "一方、金属AMは、航空宇宙、防衛、医療、半導体、AIデータセンター、ロボット、金型へ広がっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、金型、工作機械、電子部品、材料、精密加工、品質保証では、まだ強い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンターが金型を消す時代」ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "もう一方には、航空宇宙、防衛、医療、半導体、AIデータセンター、電子部品、金型、ロボット部品に向かう、産業用・金属AM市場がある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場：航空宇宙、防衛、医療、AIインフラへ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "本当に大事なのは「金型を3Dプリンターで進化させる」こと",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、医療インプラント、半導体、データセンター冷却部品、精密電子部品、金型、ロボット部品などに広がっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKが欲しいのは、AIデータセンター時代に必要となる、冷却部品、熱管理部品、電源周辺部品、半導体周辺部品を作るための製造技術である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "上では、航空宇宙、防衛、医療、AIデータセンター向けの高付加価値な金属AMが進む",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、エネルギー、医療などで使われる大型金属部品向け装置に強みを持つ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "光学、精密制御、計測、半導体露光装置、精密機器、画像処理などの技術を持つ会社である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、単に安く作ることよりも、材料特性、再現性、精度、後処理、ワークフロー、ソフトウェア、品質保証が重要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー、光学、粉末材料、熱制御、造形シミュレーション、品質検査、計測、後処理、量産管理が一体になった製造システムである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsの強さは、デスクトップサイズでありながら、業務用途に使える品質、材料、ソフトウェア、後処理装置、歯科・医療向けワークフローを持っている点にある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 治具・検査具 | 3Dプリンター |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や医療では、造形後にCT検査などの全数検査が必要になることも多く、これがコストを押し上げている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "これが成熟すれば、「造形してから検査する」から「造形しながら保証する」へ変わる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "認証コストが下がれば、金属AMの適用範囲は一気に広がる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "材料、設計、シミュレーション、造形条件、品質保証、後処理、検査、納品まで含めて提供できる会社が強くなる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMでは、造形失敗、熱歪み、空孔、割れ、表面粗さ、後処理、認証が大きな問題になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、設計ソフト、シミュレーション、AIによる造形条件最適化、インライン検査、品質データ管理が重要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "設計、解析、材料、プロセス、検査、認証まで含めたシステムである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 医療AM | 高品質・認証・安全性が重要 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを試作だけでなく治具・検査具・補修部品に使う",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証・検査・認証まで含めたサービスを作る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_1189/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=105",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/how-to-compare-metal-am-suppliers-by-total-cost-in-2026-sourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vKBcATrJb-Zrn0op0YWWn_RimiOYkSuc_aEDXlurUDuM__XsOns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-794/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/low-volume-additive-manufacturing-with-fuse-series/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwes.or.jp/committees/am/applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-737/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/metal-additive-manufacturing-market-set-to-exceed-13b-by-2035/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vL2g3ujNnhJag4rEdDkgj8OwchbkN1ZJU31sL9_qlXuZubbkR3Q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/blog/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） 単価 万円",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） 費用 相場",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://3d.kinzoku-kakou-odec.com/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://jampt.jp/column/column_1189/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） 最大 受注 億円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vKBcATrJb-Zrn0op0YWWn_RimiOYkSuc_aEDXlurUDuM__XsOns",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "http://3d.kinzoku-kakou-odec.com/column/column-794/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） 量産 受注 年間",
+   "results": [
+    "https://jampt.jp/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "http://3d.kinzoku-kakou-odec.com/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "https://formlabs.com/jp/blog/low-volume-additive-manufacturing-with-fuse-series/",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） 売上高 受託",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.act-pr.co.jp/report/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-737/",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://jampt.jp/column/column_488/",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing contract production annual revenue actual results excluding forecast price per part",
+   "results": [
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/",
+    "https://manufacturing-today.com/news/metal-additive-manufacturing-market-set-to-exceed-13b-by-2035/",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://formlabs.com/blog/additive-manufacturing/",
+    "https://ampower.eu/reports/"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing contract production annual revenue actual results excluding forecast largest contract million",
+   "results": [
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.researchnester.com/reports/additive-manufacturing-market/5009",
+    "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vL2g3ujNnhJag4rEdDkgj8OwchbkN1ZJU31sL9_qlXuZubbkR3Q",
+    "https://formlabs.com/blog/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing contract production annual revenue actual results excluding forecast serial production long-term agreement value",
+   "results": [
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206",
+    "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://www.mdpi.com/2075-4701/9/12/1286",
+    "https://www.researchandmarkets.com/reports/5896083/metal-additive-manufacturing-market-report"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing contract production annual revenue actual results excluding forecast revenue",
+   "results": [
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S1755581723000780",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://ampower.eu/reports/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）",
+   "results": [
+    "https://note.com/bright_bee861/n/n8c9901f1e60d",
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/naonote1225/n/nb6b90272c616",
+    "https://note.com/frievea/n/n478a6b14c7d6",
+    "https://note.com/amane_bombaye/n/n91e2a3eea4c8",
+    "https://note.com/amane_bombaye/n/n94bc2e593d6f",
+    "https://note.com/shinpeiblognote/n/nf5e12a525fdc",
+    "https://note.com/ocaml/n/n8b838ecd894f",
+    "https://note.com/taigaihara/n/n48275408e250",
+    "https://note.com/yakuni_yutaka/n/n1c12ed388a3d"
+   ]
+  },
+  {
+   "query": "site:x.com 金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）",
+   "results": [
+    "https://x.com/KagawaTomo/status/2086383286264484032",
+    "https://x.com/luigi_jpn/status/2059593119491121374",
+    "https://x.com/extreme877",
+    "https://x.com/1UNU3KpyECrRKAI",
+    "https://x.com/miraclemasui/status/2092209611243966800",
+    "https://x.com/SolizeC/status/2118163085655679231",
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/qhg3juyt0m52261/status/2106184582517416326",
+    "https://x.com/masashi_i/status/2069556112538370198",
+    "https://x.com/jpShareLab/status/1349166788961992704"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）",
+   "results": [
+    "https://jp.linkedin.com/in/ryu-tatsuki-kimbara-hakusan",
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://www.linkedin.com/posts/masaki-hatabe-6a3367250_visit-manufacturing-world-nagoya-am導入実績特集-activity-7313195343670587392-Yt_o",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://ke.linkedin.com/posts/tsuyoshi-kobayashi_slm-solutions-presents-new-software-partner-activity-6998619251427217408-aoiM",
+    "https://jp.linkedin.com/posts/yoichi-ito-77825928b_金属3dプリンターブーム再来の兆し日本で量産品に活用広がる-日本経済新聞-activity-7394852918044102656-sjmt",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）",
+   "results": [
+    "https://www.facebook.com/MONOist/posts/nttデータ-ザムテクノロジーズは日本軽金属と金属am事業における戦略的パートナーシップを締結した材料開発から製造後加工までを含む体制を構築し市場拡大に対応する/1430538262405781/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-moriが加工を受託お客様の金属積層造形の活用をサポート-am-lab-fab開設積層造形は従来の切削加工では困難な形状を造形することができるため近年飛/3122305414701699/",
+    "https://www.facebook.com/INTERMOLD/photos/3dプリンティングam技術フェア特別講演am樹脂製品の実ビジネス活用はできるのかグローバルで加速化するadditive-manufacturingamによる量産/734200008500096/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/INTERMOLD/photos/am-expo名古屋特別講演am品質保証のiso規格化認証の最新動向テュフズードジャパン株式会社-com事業部-avmグループ-エキスパート-永野知与-氏国内外/951963113390450/"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/izuku_idea/n/nd179e4b76227",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://note.com/tag/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79） X 投稿",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.youtube.com/watch?v=TR44f_G4IMk",
+    "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://x.com/jampt_official",
+    "https://www.sinto.co.jp/promotion/metal-am/"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing contract production annual revenue actual results excluding forecast site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/forecast3d",
+    "https://www.linkedin.com/company/addmfgmedia",
+    "https://www.linkedin.com/top-content/innovation/advancements-in-additive-manufacturing/high-volume-manufacturing-using-additive-manufacturing/",
+    "https://uk.linkedin.com/company/metalammagazine",
+    "https://www.linkedin.com/posts/precisionadditivesolutions_were-honored-to-share-that-precision-additive-activity-7449833997406298114-Qric",
+    "https://www.linkedin.com/in/jim-additive-manufacturing",
+    "https://www.linkedin.com/in/josh-brown-96736713",
+    "https://www.linkedin.com/pulse/exploring-growth-opportunities-stainless-steel-3d-printing-cw1ye",
+    "https://www.linkedin.com/company/hbd-metal-3d-printer/",
+    "https://www.linkedin.com/company/phase-3d"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1272 @@
+{
+ "name": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+ "en": "BOJ Tankan employment conditions DI manufacturing small enterprises percentage points time series csv",
+ "aliases": [
+  "短観 雇用人員判断DI 中小企業 製造業 時系列",
+  "日本銀行 時系列統計データ 短観 雇用人員 製造業",
+  "短観 雇用人員判断 不足超 製造業 中小"
+ ],
+ "context": "公的統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T12:08:50.908465+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "「全国短観」は、総務省の「事業所・企業統計調査」をもとに、常用雇用者数50人以上（卸売業、小売業、サービス業、リース業は20人以上）の民間企業（金融・保険業を除く）を「母集団企業」（現行約16万社）とみなし、その中から、業種別および規模別（大企業、中堅企業、中小企業",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「全国短観」では、常用雇用者数を基準にして、調査先企業を下図のように、大企業、中堅企業、中小企業の3つの規模に区分しています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "集計値は、業種・規模別（計81層：27業種＜製造業17業種、非製造業10業種＞×3規模＜大企業、中堅企業、中小企業＞）に公表していますが、調査先企業の選定（抽出）や母集団推計値の算出に際しては、統計精度を向上させる観点から、より細かな区分（計118層）を設けています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "300～999人",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「主要短観」は、原則として、「資本金10億円以上の上場企業（金融・保険業を除く）のうち、各業種の動向を概ね反映する主要企業」（現行約700社）を調査先としており、基本的に対象企業の見直しは行いません（ただし、合併や倒産等により対象企業数が減少するケースがあります）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業短期経済観測調査」の調査先企業（製造業・中小企業のみ）に、製造業（大企業、中堅企業）と非製造業（大企業、中堅企業、中小企業）を追加し、「全国企業短期経済観測調査」（全国短観）として調査を開始（対象は5,596社＜製造業4,243社、非製造業1,353社＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "DI（％ポイント）=「第1選択肢の回答社数構成比（％）」-「第3選択肢の回答社数構成比（％）」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「業況判断DI」は、「収益を中心とした全般的な業況」に関する判断を示すもので、「1．良い」、「2．さほど良くない」、「3．悪い」という3つの選択肢の中から1つを回答してもらい、それぞれの回答社数の構成比を求めた上で、「1．良い」の社数構成比から「3．悪い」の社数構成比を引いて算出しています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2001年9月調査の「製造業・大企業」の業況判断（最近）をみると、3つの選択肢の回答社数構成比は、「1．良い」が5％、「2．さほど良くない」が57％、「3．悪い」が38％で、この結果、業況判断DIは、「5％-38％=△33％ポイント」となっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これは、DIを算出する際、「1．良い」および「3．悪い」と回答した社数構成比を整数化（小数点第1位を四捨五入）しており、「製造業」、「非製造業」、「全産業」のそれぞれにおいて整数化を行う結果、「四捨五入のずれ」が生じているためです",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "集計データの利用に当たっては、それぞれの選択肢（「1、2、3」）の回答社数構成比をそのまま利用することもできますが、例えば、長期の動きを時系列でみる場合などには、やや煩雑な面があります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "なお、直近では2010年3月に調査対象企業の見直しを行った（3月調査時の対象企業数は11,528社）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を基準に、大企業（資本金10億円以上）、中堅企業（同1億円以上10億円未満）、中小企業（同2千万円以上1億円未満）に区分している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2004年3月調査より、「常用雇用者数」基準（常用雇用者数に基づいて、大企業、中堅企業、中小企業に区分）を「資本金」基準に変更している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業は、全国短観に合わせて見直すこととしている（調査対象企業数は208社＜調査対象企業見直し時点＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "DI（％ポイント） ＝「第1選択肢の回答社数構成比（％）」－「第3選択肢の回答社数構成比（％）」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「業況判断DI」は、「1．良い」の社数構成比から「3．悪い」の社数構成比を引いて算出している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一方で中堅企業は+33から+36へ3ポイント上がり、中小企業は+18から+12へ6ポイント下がるという具合に、規模によって向きがそろっていない",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月調査の回答期間は8月26日〜9月30日、全国企業の回答社数は9,104社（回答率99.4%）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行「短観（要旨）（2026年9月）」調査対象企業数・回答期間",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "なお、DIの算出においては、企業規模の大小に基づくウェイト付けを行っておらず、いわば「1社1票」の単純平均の形をとっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業からの回答（調査表上の調査項目名は「輸出に際しての為替レート」）をもとに算出しますが、DIのように「1社1票」として、回答値を単純平均するのではなく、各企業の回答値を、当該企業の輸出額（円ベース）を用いて加重平均して算出しています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（1）調査先企業における売上高の母集団推計値の誤差率（母集団推計値が「真の値」から乖離する程度＜標準誤差／平均＞）が、概ね目標の範囲内（製造業3％、非製造業5％）に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「全国短観」では、調査先企業から回答が得られない場合、単純集計を行っている「判断項目」については、未回答部分が集計から除外される一方、「計数項目」については、母集団推計値の算出において、結果的に、当該企業が属する層（業種・規模別の118層のうち、当該企業が属する層）の平均値が代入される扱いとなっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、産業構造が大きくかつ急速に変化している昨今では、約5年間という見直しの間隔をより短縮した方が望ましいと考えられます",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の年度計画について、調査回ごとの修正パターンをみると、例えば、大企業では、過去の平均をみると、初回調査（3月調査）から12月調査までは、計画未定の案件が確定したり、前年度案件のずれ込み分が上乗せされる等の要因から上方修正されます",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、中小企業では、年度計画を事前に策定していない企業が多く、案件が実際に実施されるごとに、設備投資額に計上される傾向があるため、同じく過去の平均では、初回調査（3月調査）から実績調査（翌年6月調査）まで、ほぼ一貫して上方修正されるパターンとなっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "卵の平均小売価格（Lサイズ1ダース・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "牛ひき肉の平均小売価格（1ポンド・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "コーヒー（レギュラー）の平均小売価格（1ポンド・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "新規失業保険申請件数（4週移動平均・米国・週次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "SOFR 30日平均（米国・日次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "SOFR 90日平均（米国・日次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "シカゴ連銀全米活動指数（3ヶ月移動平均・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "電気料金の平均価格（1kWhあたり・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "都市ガス料金の平均価格（1サームあたり・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "暖房用灯油（2号燃料油）の平均価格（米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "ダウ工業株30種平均（日次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "母集団企業は、総務省の「事業所・企業統計調査」（2006年10月実施分）をベースとした、全国の資本金2千万円以上の民間企業（金融機関を除く",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を基準に、大企業（資本金10億円以上）、中堅企業（同1億円以上10億円未満）、中小企業（同2千万円以上1億円未満）に区分している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の14項目の半期・年度の実績計数、および計画（予測）計数を調査している（単位：百万円＜為替レートは円／ドル＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の10項目の前四半期末の実績値を調査している（単位：百万円＜雇用者数・パートは人＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "• ADR（平均客室単価）＝各施設がOTA上で公開する最安プラン水準（2名1室利用時・1室あたり料金・税込）に業態別の補正係数を適用して算出した推定成約単価（税抜相当）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "：全規模の不足超幅は2023年12月の−75から縮んだが、非製造業平均より14ポイント深く、先行きは−61へ再び広がる見通し",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "：宿泊と飲食の合算、母集団は資本金2千万円以上",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIは全規模−58 — 2023年12月の−75から縮んだが、非製造業平均より14ポイント深い",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査対象は資本金2千万円以上の民間企業で、宿泊・飲食サービスの回答企業はチェーン運営会社や中堅以上の旅館・ホテル事業者が中心になる",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の中小企業（資本金2千万円以上1億円未満）のDIが+12と最も低いのに対し、当社データで旅館の前年比が多くの地域でプラスなのは、矛盾というより母集団の違いの表れである",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIは全規模−58で、2023年12月の−75から縮んだものの非製造業平均より14ポイント深い",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 短観の調査対象は資本金2千万円以上の民間企業で、中小企業区分は資本金2千万円以上1億円未満です",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "推定稼働率はリードタイム45日から1日までの残室観測に基づく月平均で、2026年3月以降の収集のため前年比は示していない",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の業種区分は宿泊業と飲食サービス業の合算で、母集団は資本金2千万円以上の企業である",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル客室数の平均は1施設31.7室・人...",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "この際には、調査先企業を全て入れ替えるのではなく、既存の調査先企業（継続標本）に新たな企業を追加するという形をとっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たり月額賃金・俸給（総額・ドイツ・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "• 出典：メトロエンジンリサーチ（国内約168,000施設のOTA公開価格を継続追跡、うち稼働確認済み約27,000施設）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "11期連続での＋10％ポイント超えとなり、底堅さが継続する",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "常に最新のデータを手元に：更新作業から解放",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンス面でも安心なデータ運用をサポートします",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "＜2025/12/25 更新＞",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "「主要短観」の補完調査として「金融機関の設備投資調査」を開始（対象は207社）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（1）調査対象範囲については、現行の「銀行」、「証券会社」、「保険会社」に加え、「信用金庫」、「系統金融機関等」、「貸金業・投資業等非預金信用機関」を追加する形で拡充します",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これは、近年、金融機関の活動状況が景気に与える影響が高まっており、「国内景気の実態把握」のためには、金融機関の活動状況をより幅広く調査することが有用と考えられるためです",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「貴社の資金繰り」や「金融機関の貸出態度」といった、企業金融関連のDIについては、「先行き」について企業が慎重に判断する傾向があります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（2003年度中を予定）では、こうした集計値としての一種のバイアスの存在に加え、他の調査項目の追加による調査先の回答負担等も踏まえ、「貴社の資金繰り」と「金融機関の貸出態度」について、「先行き」の判断項目調査を廃止する予定です（なお、「貴社の製商品在庫水準」と「貴業界製商品の流通在庫水準」についても、同様の理由から、「先行き」の判断項目調査を廃止する予定です）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "短観に関するお問い合わせは、下記のいずれかにお願いします",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（2）金融機関",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "母集団企業は、総務省の「事業所・企業統計調査」（2006年10月実施分）をベースとした、全国の資本金2千万円以上の民間企業（金融機関を除く",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "全国短観を補完する目的で、金融機関に対しても調査を行っている",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "」、（2）「地方銀行・第二地方銀行協会加盟銀行」、（3）「信用金庫」、（4）「系統金融機関等」、（5）「金融商品取引業」、（6）「保険業」、（7）「貸金業等",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "」の7つの業態に属する金融機関（735社）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業の設備投資額の母集団推計値の誤差率が、目標の範囲（金融機関全体で10％）内に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関についても、「日本標準産業分類」の改定（2007年11月告示）を受けて、2010年3月調査より、業種区分を一部見直した（詳細は「",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業の（1）手元流動性水準、（2）金融機関の貸出態度、（3）資金の回収・支払条件などを総合した資金繰りについての判断（「最近の状況」のみを調査）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業からみた金融機関の貸出態度についての判断（「最近の状況」のみを調査）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（1）政府関係・農林水産関係金融機関、生命保険・損害保険会社などを含む金融機関からの借入金（当座借越を含む）、（2）割引手形の残高合計額",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関以外からの借入金（企業間信用）は含まない",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "四半期項目の（1）金融機関借入金、（2）CP、（3）社債の残高合計額の先行きの増減についての判断",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "なお、金融機関については、以下の項目のみを調査している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関については、集計結果を以下の5区分で公表している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（2）信用金庫・系統金融機関等（信用金庫＋系統金融機関等）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事でご紹介した分析は、当社が提供する経済統計データベース『",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、Accelがもたらす主なメリットをご紹介します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "これは、DIを算出する際、「1．良い」および「3．悪い」と回答した社数構成比を整数化（小数点第1位を四捨五入）しており、「製造業」、「非製造業」、「全産業」のそれぞれにおいて整数化を行う結果、「四捨五入のずれ」が生じているためです",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、3四半期連続で改善！人手不足は34年ぶり水準！！ – 豊トラスティ証券マーケット情報",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、3四半期連続で改善！人手不足は34年ぶり水準！！",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業、非製造業にかかわらず人手不足感が強まっているようで、全規模全産業の雇用人員判断はマイナス38と、前回9月調査（マイナス36）から悪化",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "バブル期の1991年8月以来34年ぶりの「人手不足超」の水準となりました",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "上位0.1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "中間層（資産上位10〜50%）が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%が保有する株式・投資信託の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "資産上位1〜10%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%が保有する不動産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%が保有する純資産額（米国・四半期）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "0が過剰・不足の境界線で、マイナスが大きいほど人手不足感が強いことを示します",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代後半から人手不足が深刻化し、コロナ禍で一時的に緩和したものの、その後再び不足感が強まる傾向が続いています",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3Qの雇用人員判断DI（大企業・全産業）は-29ポイントです",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIは全規模−58 — 2023年12月の−75から縮んだが、非製造業平均より14ポイント深い",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIは「過剰」から「不足」を引いた値で、全規模合計は2026年9月調査で−58（6月−57）、先行きは−61である",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6%",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIは全規模−58で、2023年12月の−75から縮んだものの非製造業平均より14ポイント深い",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "みっつめは、雇用人員判断DIの先行き−61が示す冬の採用環境で、人員計画を前提にした販売客室数の設定が単価戦略の前提になる",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "短観の特徴は、企業活動全般を的確に把握する観点から、企業の定性的なマインドを問う「判断項目」に加えて、売上高や設備投資額等の定量的な「計数項目」（四半期計数、年度計数＜上期・下期計数＞）をあわせて調査していることです",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、DIと関連する計数項目（「業況判断DI」と「経常利益」・「売上高経常利益率」、「生産・営業用設備判断DI」と「設備投資額」、「雇用人員判断DI」と「雇用者数」など）を組み合わせて分析したり、足元と過去の類似する景気局面のDIを比較するなど、ユーザーの様々な目的に応じた分析を行うことが可能です",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "母集団の200社から50社を抽出して売上高を調査したところ、50社の合計売上高（単純集計値）が150だった場合",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある母集団から抽出した標本（調査先企業）が、当該母集団の平均的な企業よりも大きな企業ばかりであったとしたら、そこから得られる売上高や設備投資額等の母集団推計値は、真の値（全数調査を行った場合に得られるであろう集計値）よりも大きくなってしまう（過大推計となってしまう）はずです",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（1）調査先企業における売上高の母集団推計値の誤差率（母集団推計値が「真の値」から乖離する程度＜標準誤差／平均＞）が、概ね目標の範囲内（製造業3％、非製造業5％）に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "現状では、各計数項目とも、概ね高い回答率を維持しているため、こうした処理方法に格別問題は生じていないと判断していますが、このうち、「売上高」、「経常損益」、「設備投資額」について、",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（2003年度中を予定）のタイミングで、「売上高」、「経常損益」、「設備投資額」については、未回答計数の補完を上記の方法に切り替える方向で検討しています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の2パターンについて、売上高および設備投資額の母集団推計値に与える 影響（変動幅）を試算し、影響が小さい方を選択する",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査先企業が合併・分社する場合には、母集団企業においても、同様の動きが発生していることは確かですが、調査先企業以外の動き（合併・分社、倒産、新企業の設立等）を含めた母集団企業の網羅的な動き（最新の「事業所・企業統計調査」からの変化）を正確に把握することは困難です",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "pass": 3
+   },
+   {
+    "quote": "※豊トラスティ証券株式会社が提供する投資情報は、あくまで情報提供を目的としたものです",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "小売売上高（自動車・部品を除く・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "小売売上高（自動車・部品販売店・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "小売売上高（ガソリンスタンド・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "小売売上高（建材・園芸用品店・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "企業売上高（製造・卸売・小売の合計・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "食品小売の売上高指数（実質・ドイツ・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "通信販売・ネット通販の売上高指数（実質・ドイツ・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊・飲食サービス業の売上高指数（実質・ドイツ・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が自社の従業員数について「過剰」「不足」のどちらに感じているかを示す指標です",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業の売上高の母集団推計値の誤差率が、目標の範囲（製造業3％、非製造業5％）内に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業の売上高などに照らしてみた製商品在庫の過不足についての判断（「最近の状況」のみを調査）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業の生産設備、営業用設備の過不足についての判断（工場の定期修繕などの一時的な要因を除いた判断）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "損益計算書を作成する場合の営業収益の部に、「売上高」「完成工事高」「事業収益」などとして計上されるものの合計額",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価（または製造原価等）中の労務費、販売費・一般管理費中の（1）役員報酬、役員賞与、（2）従業員給料・手当、（3）福利厚生費、退職給付費用、賞与引当金繰入、（4）ストックオプション付与に伴う費用処理額などの合計額",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「売上高」、「経常利益」、「当期純利益」、「設備投資額」、「ソフトウェア投資額」の5項目については、調査対象企業から得られた回答値が外れ値となった場合、当該外れ値を欠測値とみなして集計を行っている（詳細な対応方法については「外れ値の取扱い方法について」＜",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "DIは「良い」と答えた社数の割合から「悪い」の割合を引いた構成比であり、売上や単価の水準ではない",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "業況判断DIが+46から+38へ下がるとは、「良い」と答えた企業の割合から「悪い」の割合を引いた値が8ポイント縮んだことを意味し、売上や単価が8%下がったことを意味しない",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 短観の業況判断DIが下がると、ホテルの売上も下がっているのですか",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "DIは「良い」と答えた企業の割合から「悪い」の割合を引いた社数構成比で、売上や単価の水準・変化率ではありません",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "DIは「良い」−「悪い」などの社数構成比で、売上や単価の水準ではない",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "日銀短観：大企業製造業景況感、3四半期連続で改善！人手不足は34年ぶり水準！！ – 豊トラスティ証券マーケット情報",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、3四半期連続で改善！人手不足は34年ぶり水準！！",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業、非製造業にかかわらず人手不足感が強まっているようで、全規模全産業の雇用人員判断はマイナス38と、前回9月調査（マイナス36）から悪化",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "バブル期の1991年8月以来34年ぶりの「人手不足超」の水準となりました",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "0が過剰・不足の境界線で、マイナスが大きいほど人手不足感が強いことを示します",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代後半から人手不足が深刻化し、コロナ禍で一時的に緩和したものの、その後再び不足感が強まる傾向が続いています",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6%",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "電気料金の平均価格（1kWhあたり・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "都市ガス料金の平均価格（1サームあたり・米国・月次）",
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "pass": 3
+   },
+   {
+    "quote": "母集団企業は、総務省の「事業所・企業統計調査」（2006年10月実施分）をベースとした、全国の資本金2千万円以上の民間企業（金融機関を除く",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を基準に、大企業（資本金10億円以上）、中堅企業（同1億円以上10億円未満）、中小企業（同2千万円以上1億円未満）に区分している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の14項目の半期・年度の実績計数、および計画（予測）計数を調査している（単位：百万円＜為替レートは円／ドル＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の10項目の前四半期末の実績値を調査している（単位：百万円＜雇用者数・パートは人＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   },
+   {
+    "quote": "• ADR（平均客室単価）＝各施設がOTA上で公開する最安プラン水準（2名1室利用時・1室あたり料金・税込）に業態別の補正係数を適用して算出した推定成約単価（税抜相当）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "• 掲載価格に言及する箇所は、2名1室利用時の1室あたり料金（税込）です",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "：宿泊と飲食の合算、母集団は資本金2千万円以上",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の調査対象は資本金2千万円以上の民間企業で、宿泊・飲食サービスの回答企業はチェーン運営会社や中堅以上の旅館・ホテル事業者が中心になる",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の中小企業（資本金2千万円以上1億円未満）のDIが+12と最も低いのに対し、当社データで旅館の前年比が多くの地域でプラスなのは、矛盾というより母集団の違いの表れである",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 短観の調査対象は資本金2千万円以上の民間企業で、中小企業区分は資本金2千万円以上1億円未満です",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去のホテル料金の検証手順｜東京ビジネスホテル2025年9月は前年比+9.4%、4つの公表値で突き合わせ",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去のホテル料金を調べる手順 — e-Statの引き方と月次ADRの読み方、金沢市24か月の実例",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の業種区分は宿泊業と飲食サービス業の合算で、母集団は資本金2千万円以上の企業である",
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "pass": 3
+   }
+  ],
+  "作る側の原価": [
+   {
+    "quote": "建設業…完成工事原価などのうち、（1）材料費、（2）外注費（労務外注費を含む）の合計額",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/10/tankan_res_2610_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/files/topics/54558_ext_18_0.pdf?site=nli",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2018/fuji20180702mf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11201250/001267652.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/tankan/employment_di/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keizai-ondokei.net/tankan/employment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shizuoka-ai.com/articles/shizuoka-nichigin-tankan-hayamihyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2025/12/tankan_res_2512_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-02-17.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/mtshtml/co_q_6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pictet.co.jp/investment-information/market/today/20240403.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO91653340R01C25A0EAF000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-pallet.co.jp/boj-tankan-202606-ai-semiconductor-report20260701/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） 調査 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/10/tankan_res_2610_01.pdf",
+    "https://www.nli-research.co.jp/files/topics/54558_ext_18_0.pdf?site=nli",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://www.dlri.co.jp/pdf/macro/2018/fuji20180702mf.pdf",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2025/12/tankan_res_2512_01.pdf"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.mhlw.go.jp/content/11201250/001267652.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） 規模別 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/",
+    "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "https://shizuoka-ai.com/articles/shizuoka-nichigin-tankan-hayamihyo/",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.murc.jp/wp-content/uploads/2026/10/tankan_res_2610_01.pdf",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） 製造業 事例",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.pictet.co.jp/investment-information/market/today/20240403.html",
+    "https://www.murc.jp/wp-content/uploads/2026/10/tankan_res_2610_01.pdf",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） 2025 OR 2026",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.nikkei.com/article/DGKKZO91653340R01C25A0EAF000/",
+    "https://plastic-pallet.co.jp/boj-tankan-202606-ai-semiconductor-report20260701/",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html"
+   ]
+  },
+  {
+   "query": "site:note.com 日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://note.com/y44901726/n/n29483099cda3",
+    "https://note.com/anms/n/n97526f671540",
+    "https://note.com/makoto_kaga/n/n9eeb6f654798",
+    "https://note.com/rhino666/n/n283d850045d2",
+    "https://note.com/ogawa_tech/n/n3a5a08115f1a",
+    "https://note.com/noteworkr/n/n4b457bb1a6ad",
+    "https://note.com/jaguar2000/n/n59e338082c1a",
+    "https://note.com/marugo_ai/n/n82e15e6a2ca2",
+    "https://note.com/andyfp_2025/n/n2c818a96e7c0"
+   ]
+  },
+  {
+   "query": "site:x.com 日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+   "results": [
+    "https://x.com/keiri_investor/status/2115076010236580319",
+    "https://x.com/myri_pr/status/2105571454482002271",
+    "https://x.com/murc_official/status/2069615300660904145",
+    "https://x.com/kabu_life_news/status/2105472115147428296",
+    "https://x.com/ea_market_trade/status/2072528127147020308",
+    "https://x.com/kido_office/status/2076402214101279164",
+    "https://x.com/ReSkilling_com/status/2105570486990393362"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+   "results": [
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://it.linkedin.com/posts/bijapan_宿泊飲食サービスの人手不足が深刻すぎる3月日銀短観雇用人員判断diがやたらと-activity-7049571560092815360-Hllr",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_hp20261001kkpdf-activity-7516632688276103168-audc",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_10月1日に発表された日銀短観で大企業製造業の景況感を示す業況判断指数diは-activity-7520080702424608768-ARnU",
+    "https://www.linkedin.com/posts/shuntarotsukamoto1104_日銀短観-大企業の景気判断-製造業非製造業とも7期ぶり悪化-nhkニュース-activity-6915457907530641408-slUi",
+    "https://jp.linkedin.com/posts/haruokubo_日銀が10月1日に発表した短観9月調査で人手不足の度合いを示す雇用人員判断di-activity-7513728546813513728-Izz2",
+    "https://in.linkedin.com/posts/koji1974_sompoインスティテュートプラスの水ノ上様による4月28日付中小企業で進む-activity-7059335257094819840-i8-k"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48）",
+   "results": [
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112964985345/",
+    "https://www.facebook.com/murc.jp/photos/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112918318683/",
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年9月調査①大企業の業況判断-di製造業は改善非製造業は横ばい②中小企業の業況判断-di製造業は横ばい非製造業は悪化③設備投資計画2025-/1276263010970341/",
+    "https://www.facebook.com/murc.jp/photos/経済調査レポート日銀短観2025年6月調査結果httpstinyurlcom34addark大企業の業況判断di製造業は改善非製造業は悪化国内マクロ経済/1197596998836943/",
+    "https://www.facebook.com/murc.jp/photos/経済調査レポート日銀短観2025年3月調査結果httpstinyurlcom47dh6sjv大企業の業況判断di製造業は悪化非製造業は改善国内マクロ経済/1129651475631496/",
+    "https://www.facebook.com/nliresearch/posts/日銀短観12月調査景況感-はほぼ横ばい総じてオントラックを裏付け日銀の利上げ-を後押しする内容12月短観では注目度の高い大企業製造業で景況感の小幅な改善が示され/1081294830458593/",
+    "https://www.facebook.com/murc.jp/photos/日銀短観2025年9月調査予測大企業製造業の業況判断-di最近は前回調査から-2-ポイント改善の-15-と予測日米関税交渉の合意を受けて過度な警戒感が後退し自動/1258354932761149/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） note 社長",
+   "results": [
+    "https://note.com/akiyoshitakumori/n/n8eb3c1c1784f",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "https://www.nikkei.com/article/DGKKZO91653340R01C25A0EAF000/",
+    "https://www.pictet.co.jp/investment-information/market/today/20240403.html",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://note.com/y44901726/n/n29483099cda3",
+    "https://www.murc.jp/wp-content/uploads/2026/10/tankan_res_2610_01.pdf",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 中小企業の値（%ポイント・「過剰」−「不足」・時系列の表のcsv・割合と混ぜない・4-48） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk04.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.reuters.com/jp/world/JSRJMW46IFJLPM33EQP3DKJ2EI-2026-07-01/",
+    "https://www.pictet.co.jp/investment-information/market/today/20240403.html",
+    "https://www.youtube.com/watch?v=hbPou2kBs20",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "BOJ Tankan employment conditions DI manufacturing small enterprises percentage points time series csv site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7381629544262275072-wKak",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7394270975418073090-H2Jj",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://www.linkedin.com/posts/metricshour_bank-of-japan-september-2026-tankan-large-activity-7512271666324987904-DS2F",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7270632540292448256-xLcX",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7287753977100689408-FS6F",
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4"
+   ]
+  }
+ ],
+ "missing": {}
+}

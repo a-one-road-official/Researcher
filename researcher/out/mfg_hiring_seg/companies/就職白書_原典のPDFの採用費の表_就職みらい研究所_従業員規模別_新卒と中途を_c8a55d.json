@@ -1,0 +1,1745 @@
+{
+ "name": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）",
+ "en": "Recruit Works Shushoku Hakusho hiring cost per hire by company size original PDF",
+ "aliases": [
+  "就職白書 採用費 従業員規模別 PDF",
+  "就職みらい研究所 就職白書 採用単価 規模別 表",
+  "就職白書 新卒 中途 採用費 平均 原典"
+ ],
+ "context": "公的統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T12:08:36.740549+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の1年間で発生した中途採用費用の平均値は、従業員規模別で見ると以下のようになっています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別・中途採用の平均採用費用（2024年）",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "上記を見るとわかるように、同じ期間内に発生した採用費用でも、従業員規模によりその平均額は大きく異なります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には、従業員規模が大きくなるごとに採用費用も高くなると考えて良いでしょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・中途採用の平均採用費用（2024年）",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用ミスマッチを減らすためには、「退職する従業員に退職理由をヒアリングする」「求人広告の内容を精査する」などの策を講じると良いでしょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・雇用形態別・企業規模別の採用コスト相場",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の一人当たり採用コスト（リクルート就職みらい研究所",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別（季節調整値、令和8年5月分）では、就業地別で最高が福井県1.74倍・最低が大阪府0.95倍、受理地別では最高が東京都1.70倍・最低が神奈川県0.83倍となっています[7]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "自社のポジションをより具体的に把握したい方は、次章の新卒採用の企業規模間格差 ― 「26倍」という現実で、自社の従業員規模帯に対応する倍率をご確認ください",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年卒の大卒求人倍率は、従業員300人未満の企業で8.98倍、5,000人以上の企業で0.34倍",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別に見ると様相はまったく異なります",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "300〜999人",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000人以上",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：この調査では、300人未満企業を中小企業、300〜999人企業を中堅企業、1,000人以上を大企業と呼んでいます",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満の企業では、学生1人に対して求人が約9件ある状態です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、5,000人以上の大企業では、求人1件に対して学生が約3人いる状態です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "両者の倍率を単純に比較すると、300人未満企業の倍率は5,000人以上企業の",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満企業の倍率は前年から2.48ポイント急騰しており、コロナ禍前のピークであった2019年卒の9.91倍に次ぐ高水準",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、300人以上の各規模帯はほぼ横ばいから微減にとどまっています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別では、「エンジニア（IT・通信）」が前月比+5.2%で最も伸び、「営業」と「企画・管理」がそれぞれ前月比+3.4%で続きました",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年春季労使交渉の賃上げ額は、大企業（従業員500人以上）19,195円に対し中小企業（従業員500人未満）は11,999円",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト 読み込まれました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、特にコストコントロールが難しい「中途採用」に焦点を当て、最新の相場や職種・企業規模別の動向、さらには自社の適正コストを算出する具体的な計算方法までを分かりやすく解説します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の採用単価は、その職種の「採用難易度（需給バランス）」に比例します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "業務委託の費用相場はいくら？職種別の目安と適正価格の見極め方",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員3〜50名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "直近の採用コストと採用人数から自社単価を算出し、企業規模別・業種別など自社に近いセグメントの相場と比較します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、中途採用にかかるコストの実態を企業規模別・業種別に分析し、その内訳と計算方法を詳しく解説します",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用のコストとは？企業や業種別、新卒との違いを解説",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "■企業規模別 中途採用費用（年間平均総額）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "1001人以上",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "によると、業種別の中途採用コストは以下のような結果となっています（※３ p.114）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用イベントや説明会に参加する従業員の人件費",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは、従業員からの紹介による採用手法です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用が成立した際には紹介者の従業員にインセンティブを支払うケースが多いですが、そのコストは一般的な求人広告費よりも割安になるため、コスト削減効果は高くなります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が長く活躍できる環境を整えることで、採用コストだけでなく、教育研修コストの削減にもつながります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【完全版】リファレンスチェックとは？質問例やメリット、法的注意点を10万人以上のデータを持つback checkが解説",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "１人当たりの採用にかかる費用の合計を「採用単価」といいます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを最適化するための5つの施策",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "なお同調査では、中途採用の1社あたり年間採用費用が平均650.6万円（2024年実績・連続増）と報告されていますが[17]、これは全企業共通のコスト上昇であり中小固有の不利とは言えないため、四重苦の柱ではなく背景文脈として位置づけます",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを構成する2つの要素",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 採用単価を下げると採用の質が落ちませんか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法| back check(バックチェック)",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【外部コスト編】中途採用コストを削減する方法6選",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【内部コスト編】中途採用コストを削減する方法7選",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "484.3万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "573.9万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "629.7万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "650.6万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中途採用における一人当たりの採用コストは、103.3万円となっています（※２）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの平均採用コスト",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "リファラル採用で人材を紹介した社員へのインセンティブ",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用でのインセンティブや、転職希望者への交通費を支払う場合は、支払いに関するルールをあらかじめ決めておきましょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "よく起こり得るケースとしては、「いくつもの媒体に求人広告を同時に掲載している」「求人広告を長期間にわたって掲載している」といったものが挙げられます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "外部コストを抑えられる採用手法としては、自社の社員に信頼できる知人を紹介してもらう「リファラル採用」がお勧めです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "また、リファラル採用を行う場合、転職希望者は自社に関する情報を紹介者から共有してもらえるので、入社に際してミスマッチが起こりにくく、早期退職のリスクを抑えられるというメリットもあります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは？メリットや報酬費用、注意点を解説",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "外部サービスを利用する場合でも、従来の求人広告ではなく「ダイレクト・ソーシング」に切り替えることで、外部コストの削減につながる場合があります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告とは？媒体ごとの特徴や費用・掲載までの流れを解説",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "doda求人広告サービスの資料請求・相談はこちら",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用ミスマッチを減らすためには、「退職する従業員に退職理由をヒアリングする」「求人広告の内容を精査する」などの策を講じると良いでしょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋の採用支援会社 ～求人広告・採用代行・ブランディング～",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告や紹介料だけでなく、担当者の人件費や面接の工数など、実際には多くの「見えないコスト」が採用には潜んでいます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "IndeedゴールドパートナーのR4が貴社の採用活動に必要な予算を無料でシミュレーション",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体（自社サイト、Indeed、求人ボックス など）の掲載費",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社への成功報酬（採用者の年収の20〜35％が相場）",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告を出しても応募が集まりづらく、結果的に掲載料が割高になる負のスパイラル",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告・説明会運営・採用広報・内定者フォローなど",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介料・求人媒体費・スカウトサービス利用料・面接工数",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景にあるのは、人口減少による人材獲得競争の激化と、求人広告費や人材紹介料の高騰です",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、IT業界では人材の需要が高く、スカウト・求人広告など外部コストが膨らみやすい傾向があります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "先述のとおり、外部コストには求人広告費や人材紹介会社への手数料が、内部コストには採用担当者の人件費や面接工数などが含まれます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "この数値を出すことで、求人広告や人材紹介など各手法の費用対効果を比較でき、次回の予算配分をデータに基づいて最適化できるようになるでしょう",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば求人広告に100万円、人材紹介で200万円、スカウト施策に50万円を投じ、合計10名を採用できた場合、それぞれの",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体や人材紹介など、採用チャネルごとにこの数値を算出すると、応募数が多いがコストが高い媒体、あるいは応募は少ないが採用確度が高いチャネルが一目で分かります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "裏を返せば、この構造を正しく理解している企業ほど、母集団形成の手法（ダイレクトリクルーティング、リファラル、早期接触など）を規模なりに最適化することで、倍率の不利を補う余地があります",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：大企業と同じ母集団（就職ナビ経由の大量応募）を追いかけるのではなく、自社が本当に採用したい層にダイレクトリクルーティングや早期接触、リファラルなどでピンポイントにアプローチする",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用で社員に支払うインセンティブ",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "比較的母集団形成がしやすいため求人広告での採用が決まりやすく、1人当たり数十万円に抑えられるケースもあります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、人材紹介手数料の上昇も影響しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや、各種求人サービス（Indeed、エンゲージ、求人ボックスなど）の無料掲載枠を組み合わせて初期コストを抑えます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイトからの直接応募を増やす仕組みです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用のコストとは、中途採用にかかる求人広告費や紹介手数料、人件費などの総費用です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "これは、中途採用では即戦力となる人材を求めるため、人材紹介会社の利用率が高いことや、求人広告の掲載料が高額になりやすいことが要因として考えられます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "企業間の競争が激しくなるにつれて、求人広告費や人材紹介会社への手数料が高騰し、採用コストを押し上げているのです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアやWEB系職種は専門スキルを持つ人材の需要が高いため、求人広告費も比較的高めになっていることが分かります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトへの掲載費は数十万円、人材紹介会社への手数料は数百万円が発生するため、外部コストは採用における主要なコストと言えるでしょう",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用における紹介社員へのインセンティブ",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告への支出は採用コストの大きな部分を占めています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、転職サイトを使って結果が出ない場合は、業界特化の媒体の利用を検討する、サイト掲載は止めて複数の人材紹介エージェントと契約を結ぶなどが有効です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは、従業員からの紹介による採用手法です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用が成立した際には紹介者の従業員にインセンティブを支払うケースが多いですが、そのコストは一般的な求人広告費よりも割安になるため、コスト削減効果は高くなります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用は社員が自社の文化や業務内容を理解した上で候補者を紹介するため、採用後のミスマッチが少なく、定着率も高い傾向にあります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事：リファラル採用とはどんな採用方法？リファラル採用の特徴を解説",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "エージェント手数料が不要なリファラル採用・ダイレクトリクルーティング・SNSの活用が有効です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "この結果から、慢性的な人手不足に陥っている業種ほど、採用費用がかさんでいることが読み取れます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は高水準が続き、",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を理由とする倒産は過去最多水準です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 売り手市場の全体像 ― 有効求人倍率が示すものを詳説",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（全体）は令和6年度平均1.25倍、直近〈2026年5月分・季節調整値〉でも1.17倍と、1倍を上回る高水準が続いています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」によれば、令和6年度（FY2024＝2024年4月〜2025年3月）の有効求人倍率（原数値の年度平均）は1.25倍でした",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "より直近では、令和8年5月分（2026年5月分、2026年6月30日公表）の全国有効求人倍率（季節調整値）は1.17倍（前月比−0.01ポイント）でした[7]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 有効求人倍率推移 (厚生労働省)",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一般に建設・介護・専門技術職などは有効求人倍率が高く（採用が難しく）、事務職などは求職者が相対的に多いとされています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小・中堅企業にとっては、大企業よりも早く接点を持ち、早く意思決定をする体制を整えられるかどうかが、母集団の質と量の両方を左右します（企業側の充足率や選考時期の詳細はリクルート就職みらい研究所『就職白書2026』[6b]を参照）",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "7. 人手不足倒産という経営リスク",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を原因とする倒産は、2013年の調査開始以来、2年連続で過去最多を記録しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によれば、2024年度（2024年4月〜2025年3月）の人手不足倒産件数は350件で、前年度の313件から37件増加しました",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "別の調査機関である東京商工リサーチも、独自の定義・独自の集計期間で人手不足関連の倒産動向を公表しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の4月〜2月（11か月累計）の「人手不足」関連倒産は283件で、前年同期比+88.6%、そのうち「人件費高騰」を主因とする倒産は106件（前年同期比+103.8%）でした[10]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "図5 人手不足倒産は過去最多水準が続いている(帝国データバンク)",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2025年版（2024年実績）",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "前述した、株式会社マイナビの同調査では、業種によっても平均採用費用が異なることがわかっています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "就職みらい研究所が公表している「就職白書2020」では、2020年卒の新卒採用、つまり2019年度の採用活動で発生した平均採用単価は93.6万円であることがわかっています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の平均採用単価は71.5万円であったため、上昇傾向が見られます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "就職白書2020",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用と同様に、中途採用の平均採用単価についても、就職みらい研究所の「就職白書2020」で公表されています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度に実施された中途採用の平均採用単価は103.3万円で、新卒採用よりも費用がかかっていることがわかります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の平均採用単価は83.0万円と試算されています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャルリクルーティング（SNS採用）を実施するという方法も挙げられます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ『2025年卒 企業新卒内定状況調査』",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "「新卒採用状況調査2025年版」",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、株式会社マイナビが発表した",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "「中途採用状況調査2025年版」",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "この比較により、最も費用対効果の高いチャネルを特定し、次年度の予算配分を見直せます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リクルート 就職みらい研究所が発表した",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "「就職白書2020」",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "同調査では、中途採用の平均採用単価は",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "「就職白書2019」",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価のデータ分析をもとに次年度の投資配分を最適化します",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでIndeed PLUSを活用し、採用条件とターゲットの見直しを実施",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度】最低賃金の引き上げ目安と企業が対応すべきポイント",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では公的統計と各種調査データをもとに、この「四重苦」の正体と、大企業と同じ土俵で戦わずに勝つための考え方を解説します",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（全体）は令和6年度平均1.25倍、直近〈2026年5月分・季節調整値〉でも1.17倍と、1倍を上回る高水準が続いています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」によれば、令和6年度（FY2024＝2024年4月〜2025年3月）の有効求人倍率（原数値の年度平均）は1.25倍でした",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "前年度（令和5年度）の1.29倍からは0.04ポイントの低下ですが、月次の季節調整値でも2025年3月1.26倍、6月1.22倍、9月1.20倍、10月1.18倍、11月1.18倍と、1倍を上回る水準が続いています[1]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所「第42回ワークス大卒求人倍率調査（2026年卒）」（2025年4月24日公表）によれば、2026年卒の大卒求人倍率は全体で1.66倍でした",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：この調査では、300人未満企業を中小企業、300〜999人企業を中堅企業、1,000人以上を大企業と呼んでいます",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "自社がどの区分に当たるかは、この調査の区分で判定してください",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「2026年卒 大学生キャリア意向調査（6月）」（調査期間2025年6月25日〜30日、有効回答n=1,801）によれば、2026年卒の学生のうち6月末時点で内々定を保有している学生は82.8%（前年比+1.1ポイント）にのぼりました",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小・中堅企業にとっては、大企業よりも早く接点を持ち、早く意思決定をする体制を整えられるかどうかが、母集団の質と量の両方を左右します（企業側の充足率や選考時期の詳細はリクルート就職みらい研究所『就職白書2026』[6b]を参照）",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査（詳細集計）」2025年（令和7年）平均によれば、実際に転職した人（転職者数）は330万人で、前年から1万人減少し4年ぶりの減少となりました（男性156万人、女性174万人）",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を原因とする倒産は、2013年の調査開始以来、2年連続で過去最多を記録しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によれば、2024年度（2024年4月〜2025年3月）の人手不足倒産件数は350件で、前年度の313件から37件増加しました",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "これは2013年の調査開始以来、2年連続で過去最多を更新した数字です[9]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "別の調査機関である東京商工リサーチも、独自の定義・独自の集計期間で人手不足関連の倒産動向を公表しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の4月〜2月（11か月累計）の「人手不足」関連倒産は283件で、前年同期比+88.6%、そのうち「人件費高騰」を主因とする倒産は106件（前年同期比+103.8%）でした[10]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、公表されている調査データをもとに、それぞれの平均値と背景を解説します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価は調査対象や集計方法によって数値が変動するため、数値を引用する際は、調査年度と出典をあわせて確認しておくと、社内説明の際にも説得力が高まります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「2024年卒 企業新卒内定状況調査」：56.8万円",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート就職みらい研究所「就職白書2024」：基礎データとして活用",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートの最新の就職白書（2024年版）では、一人当たりの金額自体は非公表となっていますが、「インターンシップや早期選考への対応で、採用担当者の工数（内部コスト）が増加している」という背景が示されています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」：約31.3万円",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの調査によると、中途採用費用の平均総額は右肩上がりで推移しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用も同様で、マイナビの調査では2023年卒の採用単価（1人あたり）45.0万円から2024年卒は56.8万円へと上昇しました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［1］株式会社マイナビ「2024年卒 企業新卒内定状況調査」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［2］株式会社 マイナビ 中途採用状況調査2025年版（2024年実績）",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［3］『就職白書2024』データ集 | 就職みらい研究所",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "※１マイナビキャリアリサーチLab「中途採用実態調査（2025年版）」,https://career-research.mynavi.jp/reserch/20250326_93514/（取得日2025年6月3日）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの中途採用状況調査2025年版（2024年実績）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "「就職白書2020年」",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "就職みらい研究所『就職白書2020』p.10（2020年6月）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの中途採用状況調査2024年版（2023年実績）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ『中途採用状況調査2024年版（2023年実績）』",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "一方で、サービス業では応募は集まりやすいものの離職率が高く、再教育や再採用にかかる内部コストが上昇する場合が多いです",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用した人が早期離職せず長く活躍する仕組みを作ること",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "離職が増えれば再び採用活動が必要になり、そのたびに広告費や手数料などが発生して、トータルの採用コストが膨らみます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では一人の離職が業績に直結するケースも多く、定着率の低下は経営リスクにもなり得ます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、入社後フォローや教育体制を整えれば、離職率が下がり、長期的にはコスト削減につなげることが可能です",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "理由として、介護職は離職率が高く、常に採用活動を行う必要があるため、広告費や紹介料が積み重なりやすい点が挙げられます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "パート採用でも、短期離職が増えるほど再採用コストが発生し、年間総額が膨らむ傾向にあります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ATSでプロセス管理を自動化し、担当者の対応品質を上げたことで離職率低下につながった例も増えています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を理由とする倒産は過去最多水準です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の課題と定着（離職防止）の課題は、同じ需給構造の裏表であるという認識が必要です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "転職者数は実際に離職・転職を経験した人の実数であるのに対し、転職等希望者数は副業希望も含む「転職を希望している」人の実数であり、両者を混同したり単純に合算したりすることはできません",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "7. 人手不足倒産という経営リスク",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を原因とする倒産は、2013年の調査開始以来、2年連続で過去最多を記録しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の遅れは、単なる機会損失ではなく、事業継続そのもののリスクになり得ます",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によれば、2024年度（2024年4月〜2025年3月）の人手不足倒産件数は350件で、前年度の313件から37件増加しました",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "別の調査機関である東京商工リサーチも、独自の定義・独自の集計期間で人手不足関連の倒産動向を公表しています",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の4月〜2月（11か月累計）の「人手不足」関連倒産は283件で、前年同期比+88.6%、そのうち「人件費高騰」を主因とする倒産は106件（前年同期比+103.8%）でした[10]",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "図5 人手不足倒産は過去最多水準が続いている(帝国データバンク)",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれの調査も示しているのは、人手不足がもはや「採用担当者の悩みごと」の枠を超え、「倒産要因」として経営リスクの上位に位置づけられているという事実です",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業においては、代替要員を確保できないまま特定のキーパーソンが離職することが、事業継続そのものを揺るがしかねません",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3 定着で不利 ― 3年以内離職率の規模間格差",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "新規大卒就職者の3年以内離職率は、事業所規模1,000人以上で27.0%に対し、5人未満では57.5%",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「新規学卒就職者の離職状況（令和4年3月卒業者）」（2025年10月24日公表）によれば、新規大卒就職者の3年以内離職率は全体33.8%でした",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "どれだけ安く応募を集めても、内定辞退や早期離職が発生すれば再採用のコストがかかり、実質的な採用単価は跳ね上がります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "適性検査なども組み合わせ、客観的なマッチ度を測ることが早期離職の防止につながります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "面接だけではわからない候補者の本当の働く姿を可視化する、オンライン完結型リファレンス／コンプライアンスチェックツール「back check（バックチェック）」によって早期離職や人材リスクを未然に防ぐことが可能です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "また、入社後のオンボーディングもスムーズになり、早期離職のリスクを減らせる点もメリットです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用は採用コストが高くなりがちなため、早期離職はできるだけ避けたいところです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用ミスマッチの減少により、早期離職の防止にもつながり、結果として採用コストや教育コストの削減にも資することが見込まれます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "なお同調査では、中途採用の1社あたり年間採用費用が平均650.6万円（2024年実績・連続増）と報告されていますが[17]、これは全企業共通のコスト上昇であり中小固有の不利とは言えないため、四重苦の柱ではなく背景文脈として位置づけます",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "手順3：総額を「採用人数」で割る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用の質を落とさずにコストを最適化する具体的な13の実践方法も紹介するので、採用予算の効率化を求められる人事担当者の方はぜひご覧ください",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "10",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担"
+   },
+   {
+    "value": "5",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例"
+   },
+   {
+    "value": "650.6",
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "quote": "なお同調査では、中途採用の1社あたり年間採用費用が平均650.6万円（2024年実績・連続増）と報告されていますが[17]、これは全企業共通のコスト上昇であり中小固有の不利とは言えないため、四重苦の柱ではなく背景文脈として位置づけます"
+   },
+   {
+    "value": "100",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります"
+   },
+   {
+    "value": "90",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です"
+   },
+   {
+    "value": "650.6",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした"
+   },
+   {
+    "value": "484.3",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "484.3万円"
+   },
+   {
+    "value": "573.9",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "573.9万円"
+   },
+   {
+    "value": "629.7",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "629.7万円"
+   },
+   {
+    "value": "103.3",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "によると、中途採用における一人当たりの採用コストは、103.3万円となっています（※２）"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.bizreach.biz/39915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fc.housedo.co.jp/media/-40018/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/content/001895678.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.toroo.jp/column/13775",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E7%99%BD%E6%9B%B8+%E5%8E%9F%E5%85%B8%E3%81%AEpdf+%E8%B2%BB%E3%81%AE%E8%A1%A8+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.joblink.co.jp/blog/blog-1145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hr.jobseeker-navi.com/media/saiyo/saiyo-cost/saiyo-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.recruit.co.jp/sustainability/report/service-work-0048.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3697",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://directscout.recruit.co.jp/biz/guide/article/2660/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/dsmagazine/pages/474/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recruit.co.jp/newsroom/data/data-investigation/i-a004/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.recruit.co.jp/newsroom/pressrelease/assets/20250220_work_02.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riasec.co.jp/hiroba/archives/26595",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jbrc.recruit.co.jp/data/data20260220_4799.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 人手不足 受注 断る",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://media.bizreach.biz/39915/",
+    "https://levtech.jp/partner/guide/article/detail/325/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://www.hc.funaisoken.co.jp/blogs/column/column16",
+    "https://fc.housedo.co.jp/media/-40018/",
+    "https://www.recruit.co.jp/newsroom/data/data-investigation/i-a004/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 受注残 人手不足",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://fc.housedo.co.jp/media/-40018/",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://go.taxita.com/column/outsourcing006/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/",
+    "https://www.mlit.go.jp/report/press/content/001895678.pdf",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 採用単価 規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://web.toroo.jp/column/13775"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 採用コスト 調査 万円",
+   "results": [
+    "https://jp.stanby.com/search?q=%E7%99%BD%E6%9B%B8+%E5%8E%9F%E5%85%B8%E3%81%AEpdf+%E8%B2%BB%E3%81%AE%E8%A1%A8+%E3%82%B3%E3%82%B9%E3%83%88+%E8%AA%BF%E6%9F%BB+%E4%B8%87%E5%86%86&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://corp.joblink.co.jp/blog/blog-1145/",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://hr.jobseeker-navi.com/media/saiyo/saiyo-cost/saiyo-cost/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.recruit.co.jp/sustainability/report/service-work-0048.html",
+    "https://www.hrpro.co.jp/trend_news.php?news_no=3697"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） 白書 採用",
+   "results": [
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://directscout.recruit.co.jp/biz/guide/article/2660/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://ds-b.jp/dsmagazine/pages/474/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.recruit.co.jp/newsroom/data/data-investigation/i-a004/"
+   ]
+  },
+  {
+   "query": "site:note.com 就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/kami_sora_fly/n/n59357c538626",
+    "https://note.com/hafnium/n/nbdcb667dec9c",
+    "https://note.com/epolicy_actvst/n/n1c89e2b1c87d",
+    "https://note.com/k_h8216/n/ne7426db68253",
+    "https://note.com/kiyo_ai_note/n/n96822a9a7654",
+    "https://note.com/imaq/n/n32d44b1d7f38",
+    "https://note.com/theoriatec/n/n90c4b5882531",
+    "https://note.com/mc_motto/n/nd9f47dd4a769",
+    "https://note.com/aiworkflow_note/n/nbf76dc345914"
+   ]
+  },
+  {
+   "query": "site:x.com 就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）",
+   "results": [
+    "https://x.com/tyanmatsuupw",
+    "https://jf.x.com/images/media-preview/2115411278210740435",
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://x.com/Shushoku_mirai/status/1438428628178460675",
+    "https://x.com/hashtag/就職みらい研究所",
+    "https://x.com/roukijunpo/status/2064565799847960733",
+    "https://x.com/stakafumi1986/status/2077163991848394844",
+    "https://x.com/wwd_jp/status/2061257673480552657"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）",
+   "results": [
+    "https://www.linkedin.com/posts/sowa_就職白書2022学生と働く組織のより良いつながりに向けて冊子版-activity-6918092404407365632-D6bz",
+    "https://www.linkedin.com/posts/sr310_就職白書2022就職活動採用活動の振り返りと今後の見通し冊子版-就職-activity-7000435383679279104-c-vL",
+    "https://jp.linkedin.com/posts/tsukasa-horio_中小ベンチャー企業の採用予算の実態や効果的な管理手法をまとめた中小ベンチャー企業-activity-7298519429888323584-MSEe",
+    "https://jp.linkedin.com/pulse/令和8年版-労働経済白書から考える採用と人材育成の新しい問い-克-池田-23snc",
+    "https://jp.linkedin.com/posts/y-ishii_採用は投資-採用活動をbsで考える-多くの企業において採用費は損益計算書pl-activity-7411333778633158656-3nzT",
+    "https://jp.linkedin.com/posts/kyosuke-yamamoto-kec_採用コストいくらかかっていますか-新卒採用1人あたりの業界平均は約93万円-activity-7452599439921418240-E0mj",
+    "https://www.linkedin.com/posts/yuji-ohara-hradvisor_予算万円でどこまでできる中小企業向け採用費を知ろうhr-spoke小原-activity-7297193112601284609-Xei-"
+   ]
+  },
+  {
+   "query": "site:facebook.com 就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）",
+   "results": [
+    "https://www.facebook.com/crosscultureplaza/",
+    "https://www.facebook.com/p/%E8%AB%8F%E8%A8%AA%E7%9E%B3-100017650000699/",
+    "https://www.facebook.com/100017650000699/posts/%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%E3%81%AD/1609621079636210/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書2024データ集このデータ集は就職みらい研究所が実施している就職活動採用活動に関する振り返り調査の調査結果をまとめたものです学生調査-2024年卒大学生/894063402516253/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書2026をリリースしました-就職活動新卒採用の10年の変化と学生の就職活動および企業の2026年卒採用活動の実態2027年卒以降の採用見通しについてまと/1436039378318650/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書2024-を公開しました-2月に公開したプレスリリース資料データ集の内容に加え学生や企業-有識者の声をまとめた冊子版です24年卒の振り返りと25年卒以降/931544528768140/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書20142023-時系列データ集-就職みらい研究所は2013年の設立以来基幹調査として採用活動振り返り調査企業調査および就職活動振り返り調査学生調査を毎/834139465175314/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書2025冊子版-を公開しました-2月に公開したプレスリリース資料データ集の内容に加え学生や企業有識者の声をまとめた冊子版です25年卒の振り返りと26年卒/1176180564304534/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職白書2023-就職活動採用活動の振り返りと今後の見通し23卒の振り返り24卒の見通しまた今後注目のキャリア形成支援プログラムの実施状況などをまとめています内/715502657038996/",
+    "https://www.facebook.com/Shushoku.mirai/photos/就職白書2023-就職活動採用活動の振り返りと今後の見通し23卒の振り返り24卒の見通しまた今後注目のキャリア形成支援プログラムの実施状況などをまとめています内/715505350372060/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） note 社長",
+   "results": [
+    "https://note.com/fujii_raise/n/n2ce7f88aff9f",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://note.com/takayayomo/n/ne581a9c0fcad",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://www.recruit.co.jp/newsroom/data/data-investigation/i-a004/"
+   ]
+  },
+  {
+   "query": "就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24） X 投稿",
+   "results": [
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://kigyolog.com/article.php?id=1378",
+    "https://note.com/fujii_raise/n/n2ce7f88aff9f",
+    "https://media.bizreach.biz/39915/",
+    "https://www.recruit.co.jp/newsroom/data/data-investigation/i-a004/"
+   ]
+  },
+  {
+   "query": "Recruit Works Shushoku Hakusho hiring cost per hire by company size original PDF site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/toyo-keizai-data-services_japan-investment-toyokeizai-activity-7440019196333244416-f8Cs",
+    "https://www.linkedin.com/pulse/recruitment-cost-budget-insights-per-hire-ann-kuss-nhxlf",
+    "https://business.linkedin.com/in/en/hire/resources/cost-of-hiring-employee-2024",
+    "https://business.linkedin.com/hire/recruiter/pricing",
+    "https://www.linkedin.com/pulse/cost-per-hire-recruitment-costs-hidden-expenses-how-calculate-0tfve",
+    "https://www.linkedin.com/pulse/how-calculate-your-cost-per-hire-wizehire-hmd2c",
+    "https://www.linkedin.com/company/recruit-works-ltd"
+   ]
+  }
+ ],
+ "missing": {}
+}

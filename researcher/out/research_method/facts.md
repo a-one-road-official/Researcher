@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・175品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・178品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2178,6 +2178,7 @@
   - 「決算公告を電子公告に変更する登記手続きを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「吸収分割の公告と決算公告の同時掲載とは？費用・手順・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2186,7 +2187,6 @@
   - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告を無料で検索する方法を5つ紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2501,6 +2501,8 @@
   - 「How to Clean Up Messy CRM Data (A Practitioner’s Workflow)」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Patentfieldの検索、AI分類、生成AI査読の役割を分け、候補集合から公報原文の確認、監視判断までをつなぐ実務手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIのファイルアクセス要求をRead・Create・Update・Deleteに分け、契約、送信、権限取消まで確認する手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AI Skillが具体的すぎると使えない｜個別例を判断基準へ抽象化する方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2508,8 +2510,6 @@
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「AI Skillを社外へ無料配布するときの一仕事の決め方、個別の有料支援との境界、取得・利用完了・相談を別々に確かめる方法を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -6805,7 +6805,7 @@
   - 「Identify assets which can be pledged as security (For example, equipment or accounts receivable that may be factored.)」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「In some cases, payments on expense items are not due in regular monthly increments. Average necessary living expense items with varying monthly payments over 12 months.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Examples of questions to ask business taxpayers include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方
@@ -10200,11 +10200,11 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ13頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
@@ -10617,3 +10617,177 @@
   - 「再現できない加工は分析結果の信頼性を担保できないため、成果物としては未完成の状態です」（https://data-viz-lab.com/census-data）
   - 「いずれも、発生してから直すより設計段階で防ぐほうが、結果として工数を抑えられるのです」（https://data-viz-lab.com/census-data）
   - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）
+
+## スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）（verify numbers OCR scanned PDF tables journalism totals check digits errors）
+- 文脈：統計
+- 手順・やり方：
+  - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「原本の確認、抽出結果の照合、集計を分ける編集部の確認手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「足し算が合うことと、集計方法が正しいことを別々に確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「元のExcelやCSVを受け取れるなら、PDFを経由しない方法を検討できます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「この文章は記録方法の例で、実際に検証した資料を示すものではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「本文の表・文例・計算例は編集部による確認方法の提案で、特定AIの実機試験や精度保証ではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで | ITトレンド」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「読み取りの精度は、ツールの性能だけでなく、取り込む画像の状態や設定の仕方、確認作業の進め方にも左右されます」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの使い方は、読み取る帳票が定型か非定型かで変わります」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「定型帳票とは、申込書や社内の申請書のように、項目の位置が決まっている帳票です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「非定型帳票とは、取引先ごとに様式が異なる請求書や納品書のように、項目の位置がばらばらな帳票です」（https://it-trend.jp/ai_ocr/article/813-10534）
+- 突き合わせ・推定：
+  - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「抽出と計算を一度に任せず、出典ページ付きの表を作り、原本と照合してから集計に進むのが基本です」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「小さい表から読み取りを試し、行・列を照合」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「原本の確認、抽出結果の照合、集計を分ける編集部の確認手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「スキャンPDFは、OCRの結果も原本と照合する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「小数点が抜ける、マイナスが消える、数字と英字を取り違える、注記の番号が金額へ混ざる、といった箇所を原本と一対一で照合します」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AIには、抽出・照合・計算を分けて依頼する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「原本と照合し、読めない箇所や不一致を解消する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「変更箇所をAIで抽出しても、その一覧を原本の新旧両方と照合し、確認した版を記録し直してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「例えば「採用した12行の値と単位を原本で照合済み」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「この文章は記録方法の例で、実際に検証した資料を示すものではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「画像だけにすると原本の注記や別ページの条件を失う場合もあるため、表全体と必要な条件を含めて照合します」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「発注データと納品書を自動突合・照合するAIエージェント機能」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「発注データと納品書の突合や自社マスタとの照合までを自動化でき、API連携で基幹システムにデータを渡せます」（https://it-trend.jp/ai_ocr/article/813-10534）
+- 一次情報の探し方：
+  - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「「PDFを開ける」と「表を正しく読める」は違う」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「Microsoft「WordでPDFファイルを開く」」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「スキャンPDFは、OCRの結果も原本と照合する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「元のPDFを上書きせず、作業用コピーで認識・抽出を進めます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「Adobe「PDFでのAIアシスタントを使用した回答の取得」」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+- 失敗・落とし穴：
+  - 「原本と加工後を同じ名前で保存すると、誤りが見つかった際にどの段階で変わったか追えません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「数字の誤りを探すときは、合計だけでなく桁と記号を見ます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「OCRを使えばAIの読み間違いはなくなりますか？」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「文字認識の誤りと、行列・単位・注記の取り違えを別に確認します」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「読み取りの誤りが多いと確認・修正の手間が増えるため、スキャンや撮影の設定、帳票そのものの状態を事前に整えておくことが大切です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「帳票が傾いた状態で取り込まれたり、汚れや折り目、ホチキスの跡が文字に重なったりすると、読み取りの誤りにつながる場合があります」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「取り込む前に、ホチキスを外して帳票の向きをそろえておくと、こうした誤りを減らせます」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「自動で補正できる範囲と、取り込み時に人が注意すべき点を分けて把握しておきましょう」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「【最新版】無料で使えるAI-OCR12選！制限や注意点も解説」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの読み取り結果には、誤りが含まれる可能性があります」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「金額や口座番号など、誤りの影響が大きい項目は、自信度にかかわらず元の画像と見比べて確認するルールにしておくと安心です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「製品によっては、修正の履歴や担当者を記録できるため、誤りが起きた際に原因をたどる材料として使えます」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「出力の形式や連携の方法を決めておくと、手入力の作業を減らせるだけでなく、転記の誤りも防ぎやすくなります」（https://it-trend.jp/ai_ocr/article/813-10534）
+- 実例：
+  - 「対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「文字は選べるが、選択結果が違う」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「OCRの認識結果、文字化け、コピー順を確認」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「この結果が良好でも、別ページの表まで同じ品質とは限りません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「原本の確認、抽出結果の照合、集計を分ける編集部の確認手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「スキャンPDFは、OCRの結果も原本と照合する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「例えば「採用した12行の値と単位を原本で照合済み」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの読み取り結果は、取り込む画像の状態によって変わります」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう」（https://it-trend.jp/ai_ocr/article/813-10534）
+  - 「AI-OCRの読み取り結果には、誤りが含まれる可能性があります」（https://it-trend.jp/ai_ocr/article/813-10534）
+
+## 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）（private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio）
+- 文脈：推定
+- 手順・やり方：
+  - 「権利行使可能なタイミングにより分類される、いつでも行使可能なアメリカン型、満期のみのヨーロピアン型、複数指定日のバミューダン型」（https://otemachiprep.com/glossary/）
+  - 「アモチゼーティング・スワップ（元本減少型スワップ）」（https://otemachiprep.com/glossary/）
+  - 「想定元本がローンの返済スケジュールに合わせて逓減していく金利スワップで、アモチ型ローンの金利ヘッジに用いられる」（https://otemachiprep.com/glossary/）
+  - 「アーンアウトの測定指標を売上かEBITDAか選び、算定方法や独立会計士による紛争解決条項をあらかじめ設計する実務」（https://otemachiprep.com/glossary/）
+  - 「寄付・引け等で注文を集めて一斉に約定させる板寄せ方式と、取引時間中に逐次約定させるザラ場方式の2つの売買値段決定方法」（https://otemachiprep.com/glossary/）
+  - 「過去案件の知見を基に、機能別の統合タスク・意思決定事項・スケジュールを標準化した実行手順書」（https://otemachiprep.com/glossary/）
+  - 「With-and-Without Method／WWM」（https://otemachiprep.com/glossary/）
+  - 「始点から終点までの増減要因を積み上げ形式で可視化するブリッジ型の棒グラフ」（https://otemachiprep.com/glossary/）
+  - 「Percent-of-Sales Method」（https://otemachiprep.com/glossary/）
+  - 「エキゾチックオプション（バリア・デジタル型）」（https://otemachiprep.com/glossary/）
+  - 「標準的なプレーンバニラオプションに対し、特定価格到達で発生・消滅するバリア型、離散的な支払を行うデジタル型等の派生商品」（https://otemachiprep.com/glossary/）
+  - 「Excelで作る手作りモデルと、クラウド型の経営管理・予算管理専用ソフトを比較し、それぞれの向き不向きを整理する論点」（https://otemachiprep.com/glossary/）
+  - 「#REF!は参照切れ、#VALUE!は型不一致、#DIV/0!はゼロ除算など、原因ごとに対処法が異なる」（https://otemachiprep.com/glossary/）
+  - 「10年前後で償還する伝統的クローズドエンド型と異なり、存続期間を定めず運用を継続するファンド形態」（https://otemachiprep.com/glossary/）
+  - 「数十秒で自分の強み・志望動機を簡潔に伝える自己紹介の型」（https://otemachiprep.com/glossary/）
+- 突き合わせ・推定：
+  - 「CAPMのベータで説明できない超過収益として回帰分析で推計するものをジェンセンのアルファと呼ぶ」（https://otemachiprep.com/glossary/）
+  - 「途中で式が変わるモデルは壊れやすく検証も難しくなる」（https://otemachiprep.com/glossary/）
+  - 「配当割引モデル（DDM）の式を変形し、現在の株価・配当利回り・要求利回りから逆算した、市場が織り込んでいる配当成長率」（https://otemachiprep.com/glossary/）
+  - 「オプション価格から逆算する将来の予想変動率と、過去の値動きから計算する実績変動率で、オプション取引の割高・割安判断に使われる」（https://otemachiprep.com/glossary/）
+  - 「LBO Analysis as a Valuation Cross-Check」（https://otemachiprep.com/glossary/）
+  - 「目標IRR・MOICを満たす価格を借入前提から逆算し、財務的買い手が支払える価格の上限をDCF・Compsと並べて示す手法」（https://otemachiprep.com/glossary/）
+  - 「最終的な数値検証は引き続き人が行う必要がある」（https://otemachiprep.com/glossary/）
+  - 「製造拠点の設備状況・生産能力・サプライチェーンを技術専門家が検証する事業運営面のDD」（https://otemachiprep.com/glossary/）
+  - 「説明変数と被説明変数の関係を数式で推定する統計手法」（https://otemachiprep.com/glossary/）
+  - 「ベータの推定、売上やコストのドライバー分析、予測モデルの構築などに用いられる」（https://otemachiprep.com/glossary/）
+  - 「Changes in Accounting Policies and Accounting Estimates」（https://otemachiprep.com/glossary/）
+  - 「竣工後の想定価値から工事費と利益を差し引いて土地取得可能額を逆算する投資」（https://otemachiprep.com/glossary/）
+  - 「試行回数に対してデータが少ないときに起きやすく、訓練と検証の分離で検出すること」（https://otemachiprep.com/glossary/）
+  - 「LOI締結・独占交渉権付与の後に実施される、価格前提を検証するための本格的なDD」（https://otemachiprep.com/glossary/）
+  - 「CAPMで株主資本コストを推計する主要パラメータとなる」（https://otemachiprep.com/glossary/）
+- 一次情報の探し方：
+  - 「営業循環過程にある売掛金・棚卸資産等は正常営業循環基準で流動、それ以外は決算日の翌日から1年以内に期限が来るかで分ける」（https://otemachiprep.com/glossary/）
+  - 「同一の土地に対し公示地価・都道府県基準地価・相続税路線価・固定資産税評価額という4つの異なる公的評価額が存在する日本特有の現象」（https://otemachiprep.com/glossary/）
+  - 「ブランド力・特許・スイッチングコスト・ネットワーク効果等により、競合他社の参入や模倣から高収益性を長期的に守る構造的な競争優位性」（https://otemachiprep.com/glossary/）
+  - 「個人投資家向け商品化の流れで採用が増えている」（https://otemachiprep.com/glossary/）
+  - 「定例の採用時期（オンサイクル）とその前後で行われる不定期採用（オフサイクル）」（https://otemachiprep.com/glossary/）
+  - 「説明変数と被説明変数の関係を数式で推定する統計手法」（https://otemachiprep.com/glossary/）
+  - 「会社法上、決算後一定期間内に開催が義務付けられる、株主が議決権を行使する最高意思決定機関の会議体」（https://otemachiprep.com/glossary/）
+  - 「返済期日が決算日後1年以内なら短期借入金、1年超なら長期借入金に区分され、有利子負債の中心項目となる」（https://otemachiprep.com/glossary/）
+  - 「個別取引の決済リスク（トランザクション）、連結決算上の換算リスク（トランスレーション）、競争力への長期的影響（エコノミック）という為替リスクの3分類」（https://otemachiprep.com/glossary/）
+  - 「為替や原材料価格が1円・1%動いた場合の営業利益への影響額を試算し決算説明資料で開示する実務」（https://otemachiprep.com/glossary/）
+  - 「有価証券報告書において監査証明業務・非監査業務それぞれの報酬額を区分開示することを求める制度」（https://otemachiprep.com/glossary/）
+  - 「外貨建の債権債務を決算日レートで円換算し、取引時レートとの差額を為替差損益として当期の損益に計上する処理」（https://otemachiprep.com/glossary/）
+  - 「キャッシュフローが期中平均で発生すると仮定する調整と、決算期変更等で生じる変則的な端数期間の扱い」（https://otemachiprep.com/glossary/）
+  - 「Merger Control Filing」（https://otemachiprep.com/glossary/）
+  - 「Asset-Based Filing Thresholds for Merger Control Notification in Japan」（https://otemachiprep.com/glossary/）
+- 失敗・落とし穴：
+  - 「ウィナーズカース（勝者の呪い）とオークション評価バイアス」（https://otemachiprep.com/glossary/）
+  - 「Winner&#x27;s Curse and Valuation Bias in Auctions」（https://otemachiprep.com/glossary/）
+  - 「監査の失敗により生じた損害について監査人が負う民事・行政上の責任の範囲と、その限定を巡る制度的論点」（https://otemachiprep.com/glossary/）
+  - 「共同編集やクラウド保存に強い一方、関数・ショートカットの互換性に注意が必要」（https://otemachiprep.com/glossary/）
+  - 「倒産手続で管財人等が旧経営陣の善管注意義務違反を調査し、簡易な裁判所手続で賠償責任を確定する制度」（https://otemachiprep.com/glossary/）
+  - 「数式の誤りによる桁違いの誤答を素早く発見できる」（https://otemachiprep.com/glossary/）
+  - 「上限内に収めても、長い文脈の中ほどの情報は結果に反映されにくく、「入れれば安心」ではない点が実務上の注意点であること」（https://otemachiprep.com/glossary/）
+  - 「上場廃止・統合・清算で途中で消えた対象がデータから抜け落ち、残った対象だけを見るため成績が過大に見える誤り」（https://otemachiprep.com/glossary/）
+  - 「監査人が経営者の説明や証憑を鵜呑みにせず、虚偽表示の可能性を常に問い直しながら監査証拠を評価すべきとする、監査業務の基本姿勢を定めた概念」（https://otemachiprep.com/glossary/）
+  - 「単位が混在すると計算自体は動くため発見が遅れやすい重大な誤りにつながる」（https://otemachiprep.com/glossary/）
+  - 「評価額を引き下げて新株を発行するダウンラウンドを取締役会が承認するにあたり、算定根拠の合理性や既存株主との公平性について求められる善管注意義務」（https://otemachiprep.com/glossary/）
+  - 「次に来る語を確率的に選ぶ仕組みに由来し、財務数値では連鎖的な誤りにつながること」（https://otemachiprep.com/glossary/）
+  - 「戦略評価やVaRの超過回数の検定に用い、過剰適合に注意する」（https://otemachiprep.com/glossary/）
+  - 「どの位置に挟むかによって、誤りの検出率と作業工数が大きく変わること」（https://otemachiprep.com/glossary/）
+  - 「成功・現状維持・失敗など複数シナリオごとに評価額を算定し、それぞれの実現確率で加重平均して企業価値を求める評価手法」（https://otemachiprep.com/glossary/）
+- 実例：
+  - 「多数の入札者が競うオークションでは、最も高い評価をした者が落札しやすく、結果として過大評価になりやすいという現象」（https://otemachiprep.com/glossary/）
+  - 「ブックビルディング方式のIPO・POで、ロードショー等の需要調査結果を踏まえて仮条件（価格レンジ）を設定する実務プロセス」（https://otemachiprep.com/glossary/）
+  - 「監査人が財務諸表監査の結果として表明する意見の区分」（https://otemachiprep.com/glossary/）
+  - 「母集団の一部を抽出して検証し、その結果から母集団全体に関する結論を推定する監査手続上の技法」（https://otemachiprep.com/glossary/）
+  - 「AIは処理内容と引数を判断するだけで実行は外部に委ね、同じ入力なら同じ結果が返る再現性を確保できること」（https://otemachiprep.com/glossary/）
+  - 「主要な前提条件を段階的に変化させ、結果指標がどう変動するかをデータテーブル等で検証する分析」（https://otemachiprep.com/glossary/）
+  - 「起こりうる各結果の値にその発生確率を掛けて合計した確率加重平均」（https://otemachiprep.com/glossary/）
+  - 「数式ではなく計算結果の数値だけをコピー先に貼り付ける操作」（https://otemachiprep.com/glossary/）
+  - 「詳細な計算結果を提出する前に、概算値と比べて桁数や規模感が妥当かをざっくり確認する検証手法」（https://otemachiprep.com/glossary/）
+  - 「S&P CoreLogic Case-Shiller Home Price Index」（https://otemachiprep.com/glossary/）
+  - 「上限内に収めても、長い文脈の中ほどの情報は結果に反映されにくく、「入れれば安心」ではない点が実務上の注意点であること」（https://otemachiprep.com/glossary/）
+  - 「社債・株式の引受人に対し、監査人が財務情報の正確性等について一定の手続的確認結果を報告する書面」（https://otemachiprep.com/glossary/）
+  - 「シナリオのスナップショット保存（結果アーカイブ設計）」（https://otemachiprep.com/glossary/）
+  - 「シナリオやケースを切り替えるたびに変わる出力結果を、後から比較できるようスナップショットとして保存・記録する設計手法」（https://otemachiprep.com/glossary/）
+  - 「強気・基準・弱気など複数の前提の組み合わせで結果を比較検討する分析手法」（https://otemachiprep.com/glossary/）
+
+## 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）（investigative journalism company records former names aliases checklist Don Ray dossier GIJN corporate records）
+- 文脈：同一性
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

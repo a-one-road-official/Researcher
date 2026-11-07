@@ -1,0 +1,1424 @@
+{
+ "name": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
+ "en": "verify numbers OCR scanned PDF tables journalism totals check digits errors",
+ "aliases": [
+  "OCR 表 数字 誤認識 確認 方法",
+  "スキャン PDF 表 抽出 検証 合計",
+  "Tabula OCR 表 抽出 データジャーナリズム 注意"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T12:08:47.575659+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "足し算が合うことと、集計方法が正しいことを別々に確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元のExcelやCSVを受け取れるなら、PDFを経由しない方法を検討できます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この文章は記録方法の例で、実際に検証した資料を示すものではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本文の表・文例・計算例は編集部による確認方法の提案で、特定AIの実機試験や精度保証ではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで | ITトレンド",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取りの精度は、ツールの性能だけでなく、取り込む画像の状態や設定の仕方、確認作業の進め方にも左右されます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、読み取る帳票が定型か非定型かで変わります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型帳票とは、申込書や社内の申請書のように、項目の位置が決まっている帳票です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非定型帳票とは、取引先ごとに様式が異なる請求書や納品書のように、項目の位置がばらばらな帳票です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定は帳票の種類ごとに作成し、試験的に読み取りながら調整していく進め方が現実的です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型帳票の場合は、見本となる帳票の画像を取り込み、読み取りたい欄を画面上で範囲指定します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非定型帳票の場合は、読み取りたい項目名を一覧で指定する形の製品が見られます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確認作業を効率よく進めるための使い方と、担当の分け方を紹介します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確認の対象と方法を項目ごとに決めておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の担当者で分担できるよう、確認の手順や判断の基準を文書にまとめておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "原本と加工後を同じ名前で保存すると、誤りが見つかった際にどの段階で変わったか追えません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数字の誤りを探すときは、合計だけでなく桁と記号を見ます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRを使えばAIの読み間違いはなくなりますか？",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文字認識の誤りと、行列・単位・注記の取り違えを別に確認します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取りの誤りが多いと確認・修正の手間が増えるため、スキャンや撮影の設定、帳票そのものの状態を事前に整えておくことが大切です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票が傾いた状態で取り込まれたり、汚れや折り目、ホチキスの跡が文字に重なったりすると、読み取りの誤りにつながる場合があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "取り込む前に、ホチキスを外して帳票の向きをそろえておくと、こうした誤りを減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自動で補正できる範囲と、取り込み時に人が注意すべき点を分けて把握しておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【最新版】無料で使えるAI-OCR12選！制限や注意点も解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "金額や口座番号など、誤りの影響が大きい項目は、自信度にかかわらず元の画像と見比べて確認するルールにしておくと安心です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品によっては、修正の履歴や担当者を記録できるため、誤りが起きた際に原因をたどる材料として使えます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "出力の形式や連携の方法を決めておくと、手入力の作業を減らせるだけでなく、転記の誤りも防ぎやすくなります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRアプリとは？無料アプリの選び方やスマホ・PCでの使い方・注意点を解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「PDFを開ける」と「表を正しく読める」は違う",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoft「WordでPDFファイルを開く」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元のPDFを上書きせず、作業用コピーで認識・抽出を進めます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Adobe「PDFでのAIアシスタントを使用した回答の取得」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンやスマホアプリでの撮影、メール添付PDFから取り込め、電子帳簿保存法に対応",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票はWebブラウザや複合機、フォルダ監視、OneDrive for Businessなどから取り込め、PDFやTIFF、JPEG、PNGなどの形式に対応しています",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取り結果の確認・修正を効率よく進められる画面を備え、データはCSV・Excel・サーチャブルPDFなどの形式で出力できます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文字は選べるが、選択結果が違う",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRの認識結果、文字化け、コピー順を確認",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この結果が良好でも、別ページの表まで同じ品質とは限りません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果は、取り込む画像の状態によって変わります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品によっては、読み取り結果に対するAIの自信の度合いを数値で表示したり、自信度が低い文字を色分けしたりする機能があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票の取り込み方と読み取り結果の確認方法に注目して、紹介するAI-OCRの特徴を表にまとめました",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複合機やスマートフォン、ファイルのアップロードなど取り込みの経路が選べ、読み取り結果の確認・修正を効率よく進められるAI-OCRを紹介します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取り結果の確認・修正を効率よく進められる画面を備え、データはCSV・Excel・サーチャブルPDFなどの形式で出力できます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を取り込み、読み取る項目を設定し、結果を確認・修正してからデータを出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "抽出と計算を一度に任せず、出典ページ付きの表を作り、原本と照合してから集計に進むのが基本です",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小さい表から読み取りを試し、行・列を照合",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小数点が抜ける、マイナスが消える、数字と英字を取り違える、注記の番号が金額へ混ざる、といった箇所を原本と一対一で照合します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIには、抽出・照合・計算を分けて依頼する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本と照合し、読めない箇所や不一致を解消する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "変更箇所をAIで抽出しても、その一覧を原本の新旧両方と照合し、確認した版を記録し直してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この文章は記録方法の例で、実際に検証した資料を示すものではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "画像だけにすると原本の注記や別ページの条件を失う場合もあるため、表全体と必要な条件を含めて照合します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発注データと納品書を自動突合・照合するAIエージェント機能",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発注データと納品書の突合や自社マスタとの照合までを自動化でき、API連携で基幹システムにデータを渡せます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talent-partner.jp/blog/ai-ocr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waic.jp/qa/ocr-failed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/resources/how-to-extract-data-from-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://parseur.com/use-case/extract-data-from-scanned-pdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://texttopdf.net/blog/why-ocr-results-are-wrong",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://snohai.com/ocr-accuracy-problems-in-invoices-pdfs-and-scanned-documents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gentables.com/tools/validate-ocr-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eazycapture.com/blog/how-to-verify-ocr-data-without-re-doing-the-work/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） site:note.com",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://it-trend.jp/ai_ocr/article/813-10534",
+    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html",
+    "https://note.com/tenorsharejp/n/n45489a280485"
+   ]
+  },
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） note",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://waic.jp/qa/ocr-failed/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data"
+   ]
+  },
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） やり方",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://it-trend.jp/ai_ocr/article/813-10534",
+    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html"
+   ]
+  },
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） 事例",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://waic.jp/qa/ocr-failed/",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://www.get-tohon.com/blog/ocr-pdf-excel",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data"
+   ]
+  },
+  {
+   "query": "verify numbers OCR scanned PDF tables journalism totals check digits errors",
+   "results": [
+    "https://www.adobe.com/acrobat/resources/how-to-extract-data-from-pdf.html",
+    "https://parseur.com/use-case/extract-data-from-scanned-pdf",
+    "https://texttopdf.net/blog/why-ocr-results-are-wrong",
+    "https://snohai.com/ocr-accuracy-problems-in-invoices-pdfs-and-scanned-documents/",
+    "https://www.gentables.com/tools/validate-ocr-results",
+    "https://eazycapture.com/blog/how-to-verify-ocr-data-without-re-doing-the-work/",
+    "https://conexiom.com/blog/the-6-biggest-ocr-problems-and-how-to-overcome-them",
+    "https://www.gennai.io/blog/common-ocr-errors-fix-them",
+    "https://pdf.ai/resources/how-to-improve-ocr-accuracy",
+    "https://ribhlab.github.io/en/ai/ocr-scanned-documents-accuracy-human-verification-2026/"
+   ]
+  },
+  {
+   "query": "site:note.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
+   "results": [
+    "https://note.com/96yuri/n/nb0bb2735c2ab",
+    "https://note.com/sorara_studio/n/nc6509c78f36f",
+    "https://note.com/tenorsharejp/n/n4c89a16b2bf5",
+    "https://note.com/tenorsharejp/n/n45489a280485",
+    "https://note.com/pdnob_japan/n/n371087323e0c",
+    "https://note.com/tokoname/n/nde74afd194a9",
+    "https://note.com/pdnob_japan/n/n425fd1c2a04d",
+    "https://note.com/korekiyo_worklab/n/n1a9a58c49ec6",
+    "https://note.com/pdnob_japan/n/n68b9beb5019c"
+   ]
+  },
+  {
+   "query": "site:x.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
+   "results": [
+    "https://x.com/AI846304068762/status/2037680682856821230",
+    "https://x.com/so_ainsight/status/2071763213419790695",
+    "https://x.com/L_go_mrk/status/2042197330011562000",
+    "https://x.com/PDFMARIN/status/2104217786713047482",
+    "https://x.com/engineer_num1/article/2080133763099488701",
+    "https://x.com/JapanUpdf4257/status/2051119620736819659",
+    "https://x.com/UPDF_Japan/status/2085633843420353022"
+   ]
+  },
+  {
+   "query": "site:linkedin.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
+   "results": [
+    "https://jp.linkedin.com/pulse/definitive-guide-ocr-accuracy-benchmarks-best-practices-sanjeev-bora-i4agc?tl=ja",
+    "https://jp.linkedin.com/learning/learning-acrobat-dc/528059",
+    "https://www.linkedin.com/posts/冬旭-張-697b53330_pdfをexcelに変換する方法4選無料ocr表崩れ対策まで解説-activity-7462067129949896704-GVxQ",
+    "https://www.linkedin.com/posts/scuti-jsc_新しい記事を公開しました-非定型帳票ocrの精度向上に役立つ7つの秘訣-非定型帳票-activity-7288113032184901632-9C3i",
+    "https://jp.linkedin.com/posts/updf-in-japan_pdfをexcelに変換する方法4選無料ocr表崩れ対策まで解説-activity-7458341157840789504-RJUB",
+    "https://jp.linkedin.com/pulse/紙をスキャンしたpdfファイルから完璧な文字起こし-昇-早川-fxync",
+    "https://jp.linkedin.com/learning/office-apps-for-mobile-essential-training/2885101"
+   ]
+  },
+  {
+   "query": "site:facebook.com スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）",
+   "results": [
+    "https://www.facebook.com/AdobeDocumentCloudJapan/photos/スキャナで取り込んだ文書を編集したい必要な部分を検索したいこんなときadobe-acrobatのocr光学式文字認識が活躍しますocrは日本語だけでなく英語や韓/249405388502679/",
+    "https://www.facebook.com/groups/193897990776143/posts/2969627793203135/",
+    "https://www.facebook.com/sourcenext/videos/ocr文字認識ソフト読取革命-ver17文字画像をテキスト化元の配置のままoffice形式pdfにしますaiが文字化けも修正要約翻訳モバイルpdf作成やスマホ画/489039680530937/",
+    "https://www.facebook.com/sourcenext/videos/pdf作成ソフトいきなりpdf-from-スキャナスキャナで読み込んだデータを画像ではなく透明テキスト付きpdfに変換検索はもちろんコピーもできるようになります/892239432755154/",
+    "https://www.facebook.com/otsukashokaiworkstyleinnovation/videos/スキャンをもっと便利にquickスキャン-ai/1184571766584736/",
+    "https://www.facebook.com/WindowsJapan/photos/画像内の文字をコピーするhttpmsftit6189sucqssnipping-tool-の-ocr-機能を使えばキャプチャした画像内の文字をテキスト-データと/1137122535110039/",
+    "https://www.facebook.com/aiinside/videos/ai-ocrほぼ100の読取精度の事例あり/1052139467804816/"
+   ]
+  },
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） note 社長",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://it-trend.jp/ai_ocr/article/813-10534",
+    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html"
+   ]
+  },
+  {
+   "query": "スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き） X 投稿",
+   "results": [
+    "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "https://www.adobe.com/jp/acrobat/roc/blog/pdf-ocr.html",
+    "https://ekyc.showcase-tv.com/pdf-ocr-batch-processing/",
+    "https://talent-partner.jp/blog/ai-ocr/",
+    "https://imagetotable.ai/ja/blog/can-ai-extract-pdf-data",
+    "https://rakucloud.com/blog/inspection-sheet-ocr",
+    "https://claude-media.com/articles/claude-vision-ocr-japanese-pdf-accuracy",
+    "https://it-trend.jp/ai_ocr/article/813-10534",
+    "https://www.pfu.ricoh.com/fi/digitarakuru/tips-0001.html"
+   ]
+  },
+  {
+   "query": "verify numbers OCR scanned PDF tables journalism totals check digits errors site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/traditional-ocr-vs-modern-document-data-understanding-sayantan-datta-clalc",
+    "https://www.linkedin.com/posts/hxiao87_announcing-jina-ocr-v1-our-new-visual-document-activity-7506379945032458241-YwUF",
+    "https://www.linkedin.com/posts/jstaats_9-ai-tax-tools-accounting-firms-wont-shut-activity-7376624025323843584-5Nyd",
+    "https://www.linkedin.com/posts/nishantha-ruwan-15b301b2_type-safe-is-not-error-free-a-constrained-activity-7508515902863228929-s-MT",
+    "https://www.linkedin.com/company/numantra-technologies-inc",
+    "https://www.linkedin.com/posts/deepaksheoran_fundadministration-privateequity-venturecapital-activity-7391513497127411712-Pgsk",
+    "https://www.linkedin.com/in/aatmaj-salunke-7106041b0",
+    "https://www.linkedin.com/in/cgrupman",
+    "https://uz.linkedin.com/in/dostonbek-oripjonov-356b2b12b",
+    "https://www.linkedin.com/posts/mohammad-mohammadi-99b0a9155_iccp2026-activity-7483964963439407104-HrGp"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "足し算が合うことと、集計方法が正しいことを別々に確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元のExcelやCSVを受け取れるなら、PDFを経由しない方法を検討できます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この文章は記録方法の例で、実際に検証した資料を示すものではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本文の表・文例・計算例は編集部による確認方法の提案で、特定AIの実機試験や精度保証ではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで | ITトレンド",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方｜読み取り精度を上げる準備から確認・データ連携まで",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取りの精度は、ツールの性能だけでなく、取り込む画像の状態や設定の仕方、確認作業の進め方にも左右されます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、読み取る帳票が定型か非定型かで変わります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型帳票とは、申込書や社内の申請書のように、項目の位置が決まっている帳票です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非定型帳票とは、取引先ごとに様式が異なる請求書や納品書のように、項目の位置がばらばらな帳票です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定は帳票の種類ごとに作成し、試験的に読み取りながら調整していく進め方が現実的です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定型帳票の場合は、見本となる帳票の画像を取り込み、読み取りたい欄を画面上で範囲指定します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "非定型帳票の場合は、読み取りたい項目名を一覧で指定する形の製品が見られます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確認作業を効率よく進めるための使い方と、担当の分け方を紹介します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "確認の対象と方法を項目ごとに決めておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の担当者で分担できるよう、確認の手順や判断の基準を文書にまとめておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "原本と加工後を同じ名前で保存すると、誤りが見つかった際にどの段階で変わったか追えません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数字の誤りを探すときは、合計だけでなく桁と記号を見ます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRを使えばAIの読み間違いはなくなりますか？",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文字認識の誤りと、行列・単位・注記の取り違えを別に確認します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、AI-OCRを使い始める担当者に向けて、準備から設定、確認、データ連携までの手順と注意点を解説します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取りの誤りが多いと確認・修正の手間が増えるため、スキャンや撮影の設定、帳票そのものの状態を事前に整えておくことが大切です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票が傾いた状態で取り込まれたり、汚れや折り目、ホチキスの跡が文字に重なったりすると、読み取りの誤りにつながる場合があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "取り込む前に、ホチキスを外して帳票の向きをそろえておくと、こうした誤りを減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自動で補正できる範囲と、取り込み時に人が注意すべき点を分けて把握しておきましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【最新版】無料で使えるAI-OCR12選！制限や注意点も解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "金額や口座番号など、誤りの影響が大きい項目は、自信度にかかわらず元の画像と見比べて確認するルールにしておくと安心です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品によっては、修正の履歴や担当者を記録できるため、誤りが起きた際に原因をたどる材料として使えます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "出力の形式や連携の方法を決めておくと、手入力の作業を減らせるだけでなく、転記の誤りも防ぎやすくなります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRアプリとは？無料アプリの選び方やスマホ・PCでの使い方・注意点を解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIにPDFの表を読み取らせて数字や項目がずれるときは、まず元のPDFで文字を選択できるか、表の見出し・単位・注記を確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「PDFを開ける」と「表を正しく読める」は違う",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDFは、文章のほかに写真、画像として保存された文字、図形、注釈などを含みます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoftは、PDFをWordで開く際、表や脚注などが元の形どおりに変換されない場合があると説明しています",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これはWordの変換についての資料ですが、PDFから取り出した文字を、そのまま表の構造とみなさず確認する必要を理解する手掛かりになります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Microsoft「WordでPDFファイルを開く」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "では、PDFが文字の位置を保存していても、段落や表などの関係を同じように保持しているとは限らないことも説明されています",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "元のPDFを上書きせず、作業用コピーで認識・抽出を進めます",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Adobe「PDFでのAIアシスタントを使用した回答の取得」",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料内に印刷されたページ番号と、PDFビューアのページ順がずれることがあります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「PDFの7枚目、紙面の5ページ」のように両方を記録すると、あとで原本を探しやすくなります",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "料金や契約条件に使う値は、抜き取りで数か所だけを見るのではなく、実際の判断に採用するセルと条件をすべて確認してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンやスマホアプリでの撮影、メール添付PDFから取り込め、電子帳簿保存法に対応",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票はWebブラウザや複合機、フォルダ監視、OneDrive for Businessなどから取り込め、PDFやTIFF、JPEG、PNGなどの形式に対応しています",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取り結果の確認・修正を効率よく進められる画面を備え、データはCSV・Excel・サーチャブルPDFなどの形式で出力できます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "対象は、送信が認められた資料を使い、料金表、調査表、社内資料などの読み取り結果を確認したい人です",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文字は選べるが、選択結果が違う",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OCRの認識結果、文字化け、コピー順を確認",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この結果が良好でも、別ページの表まで同じ品質とは限りません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果は、取り込む画像の状態によって変わります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "印鑑や色付きの罫線が文字に重なる帳票は、カラーで取り込むか、白黒で取り込むかによって結果が変わることもあるため、実際の帳票で試して決めるのが確実です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、1文字ずつ枠を区切った記入欄にする、数字は枠からはみ出さないよう案内する、といった方法です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、金額の欄を数字のみと指定しておくと、数字の「0」とアルファベットの「O」といった、形の似た文字の取り違えを減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの読み取り結果には、誤りが含まれる可能性があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製品によっては、読み取り結果に対するAIの自信の度合いを数値で表示したり、自信度が低い文字を色分けしたりする機能があります",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票の取り込み方と読み取り結果の確認方法に注目して、紹介するAI-OCRの特徴を表にまとめました",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複合機やスマートフォン、ファイルのアップロードなど取り込みの経路が選べ、読み取り結果の確認・修正を効率よく進められるAI-OCRを紹介します",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "読み取り結果の確認・修正を効率よく進められる画面を備え、データはCSV・Excel・サーチャブルPDFなどの形式で出力できます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-OCRの使い方は、帳票を取り込み、読み取る項目を設定し、結果を確認・修正してからデータを出力するという流れが基本です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AIでPDFの表が読めない・数字が違う？OCRと照合の手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "抽出と計算を一度に任せず、出典ページ付きの表を作り、原本と照合してから集計に進むのが基本です",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小さい表から読み取りを試し、行・列を照合",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本の確認、抽出結果の照合、集計を分ける編集部の確認手順",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スキャンPDFは、OCRの結果も原本と照合する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小数点が抜ける、マイナスが消える、数字と英字を取り違える、注記の番号が金額へ混ざる、といった箇所を原本と一対一で照合します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIには、抽出・照合・計算を分けて依頼する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "原本と照合し、読めない箇所や不一致を解消する",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "変更箇所をAIで抽出しても、その一覧を原本の新旧両方と照合し、確認した版を記録し直してください",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「採用した12行の値と単位を原本で照合済み",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この文章は記録方法の例で、実際に検証した資料を示すものではありません",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "画像だけにすると原本の注記や別ページの条件を失う場合もあるため、表全体と必要な条件を含めて照合します",
+    "url": "https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "帳票全体や切り出した画像と読み取り結果を照合しながら確認・訂正でき、明細行は1行ずつ確認が可能です",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発注データと納品書を自動突合・照合するAIエージェント機能",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発注データと納品書の突合や自社マスタとの照合までを自動化でき、API連携で基幹システムにデータを渡せます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2種類のOCRエンジンの認識結果を照合し、不一致の項目だけを確認対象にするベリファイOCR機能で、確認・修正の時間を減らせます",
+    "url": "https://it-trend.jp/ai_ocr/article/813-10534",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-07T12:08:47.575659+00:00"
+}

@@ -1,4 +1,4 @@
-# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・37品目）
+# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・38品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2866,3 +2866,112 @@
   - 「［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
   - 「［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
 - 充足・欠員：記載なし（読んだ26頁・検索16回）
+
+## 就職白書 原典のPDFの採用費の表（就職みらい研究所・従業員規模別・新卒と中途を分けて・年つき・記事の写しでなく原典・4-24）（Recruit Works Shushoku Hakusho hiring cost per hire by company size original PDF）
+- 文脈：公的統計
+- 痛み・損（深さの印）：
+  - 「一方で、サービス業では応募は集まりやすいものの離職率が高く、再教育や再採用にかかる内部コストが上昇する場合が多いです」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用した人が早期離職せず長く活躍する仕組みを作ること」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「離職が増えれば再び採用活動が必要になり、そのたびに広告費や手数料などが発生して、トータルの採用コストが膨らみます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中小企業では一人の離職が業績に直結するケースも多く、定着率の低下は経営リスクにもなり得ます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一方で、入社後フォローや教育体制を整えれば、離職率が下がり、長期的にはコスト削減につなげることが可能です」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「理由として、介護職は離職率が高く、常に採用活動を行う必要があるため、広告費や紹介料が積み重なりやすい点が挙げられます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「パート採用でも、短期離職が増えるほど再採用コストが発生し、年間総額が膨らむ傾向にあります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、ATSでプロセス管理を自動化し、担当者の対応品質を上げたことで離職率低下につながった例も増えています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人手不足を理由とする倒産は過去最多水準です」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「採用の課題と定着（離職防止）の課題は、同じ需給構造の裏表であるという認識が必要です」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「転職者数は実際に離職・転職を経験した人の実数であるのに対し、転職等希望者数は副業希望も含む「転職を希望している」人の実数であり、両者を混同したり単純に合算したりすることはできません」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「7. 人手不足倒産という経営リスク」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「人手不足を原因とする倒産は、2013年の調査開始以来、2年連続で過去最多を記録しています」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「採用の遅れは、単なる機会損失ではなく、事業継続そのもののリスクになり得ます」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「帝国データバンクの調査によれば、2024年度（2024年4月〜2025年3月）の人手不足倒産件数は350件で、前年度の313件から37件増加しました」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+- セグメント定義：
+  - 「株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2024年の1年間で発生した中途採用費用の平均値は、従業員規模別で見ると以下のようになっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「従業員規模別・中途採用の平均採用費用（2024年）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「上記を見るとわかるように、同じ期間内に発生した採用費用でも、従業員規模によりその平均額は大きく異なります」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「基本的には、従業員規模が大きくなるごとに採用費用も高くなると考えて良いでしょう」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「業種別・中途採用の平均採用費用（2024年）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「採用ミスマッチを減らすためには、「退職する従業員に退職理由をヒアリングする」「求人広告の内容を精査する」などの策を講じると良いでしょう」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「業種別・雇用形態別・企業規模別の採用コスト相場」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「業種別の一人当たり採用コスト（リクルート就職みらい研究所」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「都道府県別（季節調整値、令和8年5月分）では、就業地別で最高が福井県1.74倍・最低が大阪府0.95倍、受理地別では最高が東京都1.70倍・最低が神奈川県0.83倍となっています[7]」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「自社のポジションをより具体的に把握したい方は、次章の新卒採用の企業規模間格差 ― 「26倍」という現実で、自社の従業員規模帯に対応する倍率をご確認ください」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「2026年卒の大卒求人倍率は、従業員300人未満の企業で8.98倍、5,000人以上の企業で0.34倍」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「従業員規模別に見ると様相はまったく異なります」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「300人未満」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+- 採用単価：
+  - 「１人当たりの採用にかかる費用の合計を「採用単価」といいます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストを最適化するための5つの施策」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「なお同調査では、中途採用の1社あたり年間採用費用が平均650.6万円（2024年実績・連続増）と報告されていますが[17]、これは全企業共通のコスト上昇であり中小固有の不利とは言えないため、四重苦の柱ではなく背景文脈として位置づけます」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストを構成する2つの要素」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q4. 採用単価を下げると採用の質が落ちませんか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+- 年間採用費：
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「なお同調査では、中途採用の1社あたり年間採用費用が平均650.6万円（2024年実績・連続増）と報告されていますが[17]、これは全企業共通のコスト上昇であり中小固有の不利とは言えないため、四重苦の柱ではなく背景文脈として位置づけます」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「手順3：総額を「採用人数」で割る」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「採用の質を落とさずにコストを最適化する具体的な13の実践方法も紹介するので、採用予算の効率化を求められる人事担当者の方はぜひご覧ください」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- 採用経路：
+  - 「リファラル採用で人材を紹介した社員へのインセンティブ」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「リファラル採用でのインセンティブや、転職希望者への交通費を支払う場合は、支払いに関するルールをあらかじめ決めておきましょう」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「よく起こり得るケースとしては、「いくつもの媒体に求人広告を同時に掲載している」「求人広告を長期間にわたって掲載している」といったものが挙げられます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「外部コストを抑えられる採用手法としては、自社の社員に信頼できる知人を紹介してもらう「リファラル採用」がお勧めです」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「また、リファラル採用を行う場合、転職希望者は自社に関する情報を紹介者から共有してもらえるので、入社に際してミスマッチが起こりにくく、早期退職のリスクを抑えられるというメリットもあります」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「リファラル採用とは？メリットや報酬費用、注意点を解説」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「外部サービスを利用する場合でも、従来の求人広告ではなく「ダイレクト・ソーシング」に切り替えることで、外部コストの削減につながる場合があります」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「求人広告とは？媒体ごとの特徴や費用・掲載までの流れを解説」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「doda求人広告サービスの資料請求・相談はこちら」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「採用ミスマッチを減らすためには、「退職する従業員に退職理由をヒアリングする」「求人広告の内容を精査する」などの策を講じると良いでしょう」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「名古屋の採用支援会社 ～求人広告・採用代行・ブランディング～」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告や紹介料だけでなく、担当者の人件費や面接の工数など、実際には多くの「見えないコスト」が採用には潜んでいます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「IndeedゴールドパートナーのR4が貴社の採用活動に必要な予算を無料でシミュレーション」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人媒体（自社サイト、Indeed、求人ボックス など）の掲載費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 充足・欠員：
+  - 「この結果から、慢性的な人手不足に陥っている業種ほど、採用費用がかさんでいることが読み取れます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「有効求人倍率は高水準が続き、」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「人手不足を理由とする倒産は過去最多水準です」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「2. 売り手市場の全体像 ― 有効求人倍率が示すものを詳説」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「有効求人倍率（全体）は令和6年度平均1.25倍、直近〈2026年5月分・季節調整値〉でも1.17倍と、1倍を上回る高水準が続いています」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「厚生労働省「一般職業紹介状況」によれば、令和6年度（FY2024＝2024年4月〜2025年3月）の有効求人倍率（原数値の年度平均）は1.25倍でした」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「より直近では、令和8年5月分（2026年5月分、2026年6月30日公表）の全国有効求人倍率（季節調整値）は1.17倍（前月比−0.01ポイント）でした[7]」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「図1 有効求人倍率推移 (厚生労働省)」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「一般に建設・介護・専門技術職などは有効求人倍率が高く（採用が難しく）、事務職などは求職者が相対的に多いとされています」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「特に中小・中堅企業にとっては、大企業よりも早く接点を持ち、早く意思決定をする体制を整えられるかどうかが、母集団の質と量の両方を左右します（企業側の充足率や選考時期の詳細はリクルート就職みらい研究所『就職白書2026』[6b]を参照）」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「7. 人手不足倒産という経営リスク」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「人手不足を原因とする倒産は、2013年の調査開始以来、2年連続で過去最多を記録しています」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「帝国データバンクの調査によれば、2024年度（2024年4月〜2025年3月）の人手不足倒産件数は350件で、前年度の313件から37件増加しました」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+  - 「別の調査機関である東京商工リサーチも、独自の定義・独自の集計期間で人手不足関連の倒産動向を公表しています」（https://www.tokumori.co.jp/column/sme-hiring-difficulty-2026/）
+- 調査主体・時期：
+  - 「株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「中途採用状況調査2025年版（2024年実績）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「前述した、株式会社マイナビの同調査では、業種によっても平均採用費用が異なることがわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「就職みらい研究所が公表している「就職白書2020」では、2020年卒の新卒採用、つまり2019年度の採用活動で発生した平均採用単価は93.6万円であることがわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2018年度の平均採用単価は71.5万円であったため、上昇傾向が見られます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「就職白書2020」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「新卒採用と同様に、中途採用の平均採用単価についても、就職みらい研究所の「就職白書2020」で公表されています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2019年度に実施された中途採用の平均採用単価は103.3万円で、新卒採用よりも費用がかかっていることがわかります」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2018年度の平均採用単価は83.0万円と試算されています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「ソーシャルリクルーティング（SNS採用）を実施するという方法も挙げられます」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「マイナビ『2025年卒 企業新卒内定状況調査』」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「新卒採用状況調査2025年版」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一方、株式会社マイナビが発表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「中途採用状況調査2025年版」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「この比較により、最も費用対効果の高いチャネルを特定し、次年度の予算配分を見直せます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・161品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・163品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -8403,6 +8403,147 @@
 - 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
+
+## 中小企業白書 労働生産性の規模別・業種別の分布（上位10%・中央値・下位10%・製造業・付属統計資料の Excel・平均でなく分位で比べる・4-80）（Japan SME White Paper labor productivity distribution percentile by firm size manufacturing）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「第７節 開業、倒産・休廃業」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「３社いずれも正社員の離職は発生していないという」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「児といったライフイベントによる職員の離職が発生し、人材確」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「離職率は36.7％（2005年）から11.4％（2025年）にまで低下」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「➢ 一時期は100％だった３年以内 離職率は30％まで低下」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 2010年代以降、倒産件数は減少傾向にあったが、コロナ禍以降再び増加に転じ、2025年の倒産件数は10,300件」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「規模別の割合としては、従業員数10人未満の企業の倒産が全体の９割近くを占める」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「② 業種別の倒産件数を見ると、サービス業が占める割合が最も大きく、次点で建設業、製造業の割合が大きい」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「図１ 倒産件数の推移 図２ 2025年の倒産件数の構成比（業種別）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（図１）（図２）資料：（株）東京商工リサーチ「全国企業倒産状況」」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（注）1.ここでの「倒産」とは、企業が債務の支払不能に陥ることや、経済活動を続けることが困難になった状態と」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「また、法的倒産（会社更生法、民事再生法、破産、特別清算）と私的倒産（銀行取引停止処分、内整理）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「2.負債額1,000万円以上の倒産が集計対象」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「図１ 休廃業・解散件数、損益別構成比の推移」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 休廃業・解散件数についても、2010年代後半以降減少傾向にあったものの、2023年に増加傾向に転じた」（https://www.meti.go.jp/files/900018884.pdf）
+- 事業所数・社数：
+  - 「➢ 支援を受けて行動計画を策定した企業数は、2025年12月末時点」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「資料：厚生労働省「雇用動向調査」再編加工（注）1.前職の企業規模は、大企業は従業員数300人以上、中小企業は従業員」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「～４人 ５～９人 10～ 19人 20～ 49人 50～299人 300人以上」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「２.「全体」については、経営者年齢の情報がない企業も含んだ中小企業数に対する」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「中小企業の付加価値経営 #013 中小企業の定義や、企業数、労働者の分布などについて統計データを確認し、整理してみます」（https://newspicks.com/news/10647184/body/）
+  - 「前回ご紹介した300人以上の大企業で43%でしたので、100～299人規模で14%相当のシェアだという事がわかります」（https://newspicks.com/news/10647184/body/）
+  - 「1. 日本の中小企業数 「日本は他国よりも中小企業が多いので労働生産性が低い」という認識を持つ人が多いと言われます」（https://newspicks.com/news/10647184/body/）
+- 社員数・平均社員数：
+  - 「第１節 付加価値額の増加（成長投資、研究開発、人材育成、価格転嫁、事業承継・M&A）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「第３章 人材確保・活用に向けた取組」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「第１節 人材確保の取組」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「第２節 人材活用の取組」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「第２節 小規模事業者の経営リテラシー向上（財務・会計、組織・人材、運営管理、経営戦略）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「第２章 中小企業・小規模事業者に求められる共通価値（脱炭素化・サーキュラーエコノミー・経済安全保障・人権尊重）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（注）（上図）ここでの「中小賃上率」とは、組合員数300人未満の中小組合における賃上げ率をいう」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「2.ここでの大企業とは、常用労働者数1,000人以上の企業、中小企業とは、日本標」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「準産業分類の大分類に応じて、常用労働者数５人以上99人以下又は299人以下の企業とする」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「４.6月分として支給された、一人当たりの現金給与額」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「一般的に労働生産性とは、労働者1人あたりや労働時間あたりの付加価値額です」（https://newspicks.com/news/10647184/body/）
+  - 「この付加価値額の統計では、10～49人規模の次が50～99人規模、100人以上規模となっていて、前回までにご紹介した区分にはなっていません」（https://newspicks.com/news/10647184/body/）
+  - 「前回は中規模企業が50～249人、大企業が250人以上という区分でした」（https://newspicks.com/news/10647184/body/）
+  - 「ただし、100人以上規模は十分に大きいと言えますので、ひとまず大企業相当という事で見ていきましょう」（https://newspicks.com/news/10647184/body/）
+  - 「・製造業その他 資本金の額又は出資の総額が3億円以下の会社又は常時使用する従業員の数が300人以下の会社及び個人 ・卸売業 資本金の額又は出資の総額が1億円以下の会社又は常時使用する従業員の数が100人以下の会社及び個人 ・小売業 資本金の額又は出資の総額が5千万円以下の会社又は常時使用する従業員の数が50人以下の会社及び個人 ・サービス業 資本金の額又は出資の総額が5千万円以下の会社又は常時使用する従業員の数が100人以下の会社及び個人」（https://newspicks.com/news/10647184/body/）
+- 受注金額・加工賃収入：
+  - 「Sheet1：労働生産性（万円） 従業者割合」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：小売業：労働生産性（万円） 252.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 307.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：その他サービス業：労働生産性（万円） 361.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：製造業：労働生産性（万円） 374.8万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：建設業：労働生産性（万円） 399.1万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：不動産, 物品賃貸業：労働生産性（万円） 430.8万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：運輸業，郵便業：労働生産性（万円） 456.7万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：学術研究，専門・技術サービス業：労働生産性（万円） 486.1万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：情報通信業：労働生産性（万円） 522.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：卸売業：労働生産性（万円） 545.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 316.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 333.2万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+- 1人あたり・1社あたり金額：
+  - 「中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第2章 中小企業・小規模事業者の労働生産性」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「同図において、我が国の労働力のうち約7割を占める中小企業の労働生産性の平均値は、大企業における労働生産性の平均値をおおむね下回っている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「労働生産性の分子となる付加価値額について、平成28年経済センサス‐活動調査では平成27年1年間の値を把握している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「に上位10％、中央値、下位10％の労働生産性の水準を示している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「しかし、小規模企業の上位10％の水準は大企業の中央値を上回っており、企業規模が小さくても高い労働生産性の企業が一定程度存在することが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「反対に、大企業の下位10％の水準は小規模企業の中央値を下回っており、企業規模は大きいが労働生産性の低い企業も存在している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「Sheet1：第1-2-4図 労働生産性と労働構成比」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：労働生産性（万円） 従業者割合」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：小売業：労働生産性（万円） 252.5万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：医療，福祉：労働生産性（万円） 307.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+  - 「Sheet1：その他サービス業：労働生産性（万円） 361.6万円」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx）
+- 生産能力・設備：
+  - 「第４節 労働生産性・設備投資」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「図１ 成長に向けた設備投資への取組状況と効果」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（１）成長に向けた設備投資への取組状況（業種別）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「資料：（株）帝国データバンク「令和７年度中小企業の経営課題と事業活動に関する調査」（注）１.（図１（１））2019年以降で成長に向けた設備投資を行っているか聞いたもの」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「３.（図２）成長に向けた設備投資に」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「４.（図２）設備稼働率＝足下の１日当たり平均稼働時間÷１日当たりの稼働可能な総時間×100」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「５.（図２）設備稼働率」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「図２ 設備稼働率向上の取組と効果」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（２）付加価値額の増加率（中央値、成長に向けた設備投資への取組状況別）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（１）設備稼働率（投資前の業務プロセスの見直しへの取組状況別）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（２）付加価値額の増加率（中央値、設備稼働率別）」（https://www.meti.go.jp/files/900018884.pdf）
+- 10年推移：
+  - 「中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「2020年版 中小企業白書（HTML版）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第1部 令和元年度（2019年度）の中小企業の動向」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第1部 令和元年度(2019年度)の中小企業の動向」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「第１節 付加価値額の増加（成長投資、研究開発、人材育成、価格転嫁、事業承継・M&A）」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「② 人口減少の進展による「労働供給制約社会」の到来」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「② 付加価値額を増加させている中小企業は、価格転嫁や成長投」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 2025年春季労使交渉では、全体で5.25％、中小労働組合で4.65％の賃上げ率となり、約30年ぶりの水準だった2024年を」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「2025年度の最低賃金は全国加重平均で前年度比＋6.3％を記録」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「② 中小企業の現金給与額は、大企業との差は存在するものの、増加傾向にある」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（１）春季労使交渉による賃上げ率の推移」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「（上図）資料：日本労働組合総連合会「2025春季生活闘争第７回（最終）回答集計」（2025年７月１日集計・７月３日」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019 2022 2025」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「2015 2016 2017 2018 2019 2020 2021 2022 2023 2024」（https://www.meti.go.jp/files/900018884.pdf）
+- 人手と仕事の差：
+  - 「中小企業は、深刻化する人手不足等の構造変化に加え、働き方改革や被用者保険の適用拡大、賃上げ、インボイス導入など、今後複数年にわたり相次ぐ制度変更に直面する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html）
+  - 「 既に大きな課題である人手不足が、更に深刻化するおそれ」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「循環定着・人手不足を乗り越えて供給力の維持・向上を図ることが重要」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 中小企業の労働分配率（付加価値額に占める人件費の割合、一般的に低いほど賃上げ余力が大きい）は、既に８割に近い水準にあり、大企業と」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「【現状・課題１－③】中小企業の更なる賃上げ余力には課題が存在」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 一方で、2010年代以降、多くの業種において人手不足感は強まっており、コロナ禍以降もその傾向が顕著に見られる」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「【現状・課題２－②】多くの業種で人手不足感は強まっている」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「て、人手不足が更に深刻化することが見込まれる」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「労働供給制約社会の中、人手不足は更に深刻化するおそれ」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「① 中小企業における持続的な賃上げの実現、労働供給制約社会の中で更なる深刻化が見込まれる人手不足への対応といった転換」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「人手不足を乗り越えて供給力を維持・強化していくことが重要」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「持続的な賃上げ実現や人手不足への対応に向けて、労働生産性を高めることが必要」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「速させることは、人手不足を乗り越えて、大企業を追い抜くほどの大きな成長を実現するチャンス」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「達、設備・人材の相互利用を進め、納期短縮やコスト削減を実現」（https://www.meti.go.jp/files/900018884.pdf）
+  - 「【動向・業況⑥】人手不足の中、中小企業における人材確保の取組や副業・兼業人材の活用は重要」（https://www.meti.go.jp/files/900018884.pdf）
+
+## 経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）（Japan Economic Census 2021 establishments metal surface treatment employees regular temporary e-Stat table）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 社員数・平均社員数：
+  - 「経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「各種商品卸売業（従業者が常時100人以上のもの）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「その他の各種商品小売業（従業者が常時50人未満のもの）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 10年推移：
+  - 「http://www.stat.go.jp/data/e-census/2021/index.htm」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「2021年 6月」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「2023-06-27 14:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

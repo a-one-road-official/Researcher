@@ -1,0 +1,629 @@
+{
+ "name": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+ "en": "Japan Economic Census 2021 establishments metal surface treatment employees regular temporary e-Stat table",
+ "aliases": [
+  "経済センサス 活動調査 事業所に関する集計 産業小分類 従業者数 常用雇用者",
+  "e-Stat 00200553 製造業 小分類 従業上の地位別 従業者数",
+  "令和3年経済センサス 金属表面処理業 従業者数 事業所数"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T12:08:32.231520+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "各種商品卸売業（従業者が常時100人以上のもの）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "その他の各種商品小売業（従業者が常時50人未満のもの）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-27 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/132011me.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bangbros.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xvideos.com/tags/bangbros",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pornhub.com/channels/bangbrosnetwork",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pornhub.com/video/search?search=bangbros",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&result_page=1&second=1&statdisp_id=0003406574",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?alpha=6&cycle=0&layout=dataset&page=1&result_page=1&statdisp_id=0003389757&tclass1=000001061098&tclass2=000001061525&tclass3=000001061527&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.arsenal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arsenal.com/memberexperiences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/?lc=en-US&brdr=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.bing.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bing.com/webhp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bing.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://explore.microsoft.com/ja-jp/bing?form=MG0AUO&OCID=MG0AUO#faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-ca/bing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iplt20stats.com/ipl-2026-standings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipl.com/series/indian-premier-league-2026-129908/point-table",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iplt20.com.in/standings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.espn.com/cricket/standings/series/8048/ipl",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iplt20.com/points-table",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipldaily.com/ipl-2026-points-table/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/all+/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.business.reddit.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developers.reddit.com/docs/capabilities/server/reddit-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.firsttechfed.com/OLB_Rewards_Redirect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firsttechfed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firsttechfed.com/help/cardholder-benefits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.firsttechfed.com/LP=1111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.firsttechfed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rewards.firsttechfed.com/login.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genius.com/Wiz-khalifa-hella-os-freestyle-lyrics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://soundcloud.com/dluuzia/wiz-khalifa-hella-os",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search?page=1&survey=別+各&toukei=00550005"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.bls.gov/oes/2020/may/132011me.htm",
+    "https://www.orbiter.finance/explore"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.bls.gov/oes/2020/may/132011me.htm",
+    "https://mobile.bangbros.com/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&result_page=1&second=1&statdisp_id=0003406574",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?alpha=6&cycle=0&layout=dataset&page=1&result_page=1&statdisp_id=0003389757&tclass1=000001061098&tclass2=000001061525&tclass3=000001061527&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.arsenal.com/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.bing.com/?lc=en-US&brdr=1"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&result_page=1&second=1&statdisp_id=0003406574",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://iplt20stats.com/ipl-2026-standings"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.soumu.go.jp/main_content/000744045.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&result_page=1&second=1&statdisp_id=0003406574",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.reddit.com/r/all+/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?alpha=6&cycle=0&layout=dataset&page=1&result_page=1&statdisp_id=0003389757&tclass1=000001061098&tclass2=000001061525&tclass3=000001061527&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www2.firsttechfed.com/OLB_Rewards_Redirect"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&result_page=1&second=1&statdisp_id=0003406574",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?alpha=6&cycle=0&layout=dataset&page=1&result_page=1&statdisp_id=0003389757&tclass1=000001061098&tclass2=000001061525&tclass3=000001061527&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.e-stat.go.jp/classifications/terms",
+    "https://www.youtube.com/watch?v=aGc4_7ic4oI"
+   ]
+  },
+  {
+   "query": "Japan Economic Census 2021 establishments metal surface treatment employees regular temporary e-Stat table Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005669",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&statdisp_id=0004005684&tclass4val=0",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/the-new-workplace-in-japan_67c6ec46/7c897f52-en.pdf",
+    "https://www.statista.com/statistics/270161/economic-sector-distribution-of-the-workforce-in-japan/?srsltid=AYCX9vI6P5n1A33eyIi5N_gkxiepyulUa75odFy0Yh9aHH-uKRkLnbh0",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&cycle=0&kikan=00200&toukei=00200532&tstat=000001163626&tclass1=000001163627&tclass2=000001163628&result_page=1&tclass3val=0&statdisp_id=0004008114",
+    "https://en.wikipedia.org/wiki/Japan"
+   ]
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+   "results": [
+    "https://www.calculator.net/basic-calculator.html",
+    "https://www.desmos.com/scientific",
+    "https://www.calculator.net/math-calculator.html",
+    "https://widemath.com/scientific-calculator/",
+    "https://www.mathsisfun.com/numbers/calculator.html",
+    "https://www.online-calculator.com/full-screen-calculator/",
+    "https://okcalc.com/en/",
+    "https://www.calculator.io/basic-calculator/",
+    "https://www.theonlinecalculator.com/"
+   ]
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://myaccount.microsoft.com/ ->",
+    "https://account.microsoft.com/account-checkup",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://mysignins.microsoft.com/"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+   "results": [
+    "https://www.bartleby.com/topics/Fallacies-Essay",
+    "https://www.bartleby.com/essay/Loneliness-FK4YFYZTC",
+    "https://www.bartleby.com/essay/Penn-Foster-Paralegal-Ethics-Graded-Project-PKTZRSSXHKUEZ",
+    "https://www.bartleby.com/essay/Girls-Are-Better-Than-Boys-F3JLSS4KVJ",
+    "https://www.bartleby.com/essay/Knowledge-Understanding-and-Skills-in-Literacy-Numeracy-PKJMJK6CVJ",
+    "https://www.bartleby.com/essay/The-Constitution-and-Literature-of-the-Gangster-P3ECDCE36YZA",
+    "https://www.bartleby.com/essay/Animal-Testing-Persuasive-Essay-F3C63QKCVC",
+    "https://www.bartleby.com/topics/Anti-Federalists-Essay",
+    "https://www.bartleby.com/textbooks/database-system-concepts-7th-edition/9780078022159/solutions",
+    "https://www.bartleby.com/textbooks/college-physics-1st-edition/9781938168000/solutions"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75）",
+   "results": [
+    "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+    "https://techcommunity.microsoft.com/Events",
+    "https://techcommunity.microsoft.com/category/microsoft-security",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://www.microsoft.com/en-us/",
+    "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://support.microsoft.com/en-us/windows/hardware/display-graphics/how-to-use-multiple-monitors-in-windows"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 金属表面処理業 産業小分類 常用雇用者 臨時雇用者 e-Stat 統計表の表番号（政府統計コード00200553・企業でなく事業所の表・桁違い2550000倍の取り直し・4-41・4-53・4-75） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001056219&tclass1=000001061098&statdisp_id=0003389757",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/jiten/index.htm",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.e-stat.go.jp/classifications/terms",
+    "https://www.ebay.com/b/Toyota-Seats-for-2016-Toyota-Camry/33701/bn_7072589402"
+   ]
+  },
+  {
+   "query": "Japan Economic Census 2021 establishments metal surface treatment employees regular temporary e-Stat table site:linkedin.com",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://www.japan.travel/en/",
+    "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "https://www.britannica.com/place/Japan",
+    "https://www.japan-guide.com/",
+    "https://www.japan.go.jp/japan/",
+    "https://www.japan.travel/en/us/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

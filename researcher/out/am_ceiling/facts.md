@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・21品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・22品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1432,3 +1432,89 @@
   - 「Exhibit 32.1: Section 1350 Certification」（https://last10k.com/sec-filings/vld）
   - 「Exhibit 32.2: Section 1350 Certification」（https://last10k.com/sec-filings/vld）
   - 「View which hedge funds, pension / retirement funds, endowments, banks and insurance companies have increased or decreased their positions in a particular stock. Includes Ownership Percent, Buy versus Sell comparison, Put-Call ratio and more」（https://last10k.com/sec-filings/vld）
+
+## 金属AM量産受託の年間取引額の実績（見込み・予測を除いた年度の実績値・決算の開示か発表・実績と見込みを分けて・4-79）（metal additive manufacturing contract production annual revenue actual results excluding forecast）
+- 文脈：実績
+- 1件の単価：
+  - 「3Dプリンターは、初期費用が低く、形状変更に強く、少量生産に向いている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「一方、金型は初期費用が高いが、一度作ってしまえば、1個あたりのコストが圧倒的に安い」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「報道ベースでは、買収には800億円強が投じられたとされる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「906億2700万円の減損損失」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Nikon SLM Solutionsののれん | 約605億6800万円 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 識別可能無形資産の一部 | 約262億4400万円 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| その他固定資産など | 約38億円規模 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 合計 | 約906億2700万円 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「であって、いま新たに906億円の現金が外に出たという意味ではない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「その後に公表されたNikonの2026年3月期通期実績では、親会社の所有者に帰属する当期損失は860億88百万円となった」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「売上収益は6,771億63百万円で前期比5.3％減、営業損益は1,124億48百万円の損失である」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Seuratは、200万画素規模のレーザーパターンを「面」として一括照射するArea Printing技術を開発している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「量産1個あたりの単価」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 最大案件・上限：
+  - 「TDKは、米国のFabric8Labsを最大4億ドルで買収すると発表した」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「NikonがSLM Solutionsを買収し、TDKがFabric8Labsを最大4億ドルで買収すると発表した流れは、まさにこの金属AMが「国家・産業インフラ」になり始めたことを示している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Fabric8Labs側の発表では、ECAMによる液冷部品は、競合する熱管理ソリューションと比べて、AIアクセラレータ温度を最大7℃/kW低減できると説明されている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Protolabsは2025年に過去最高の約5.331億ドルの売上を記録した」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| TDK | Fabric8Labs | 2026発表 | 米国のECAM金属3Dプリント企業を最大4億ドルで買収予定 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「報道ベースでは、買収には800億円強が投じられたとされる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| その他固定資産など | 約38億円規模 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「であって、いま新たに906億円の現金が外に出たという意味ではない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「ただし、その後に約906億円の減損を計上し、2026年3月期は過去最大の最終赤字に転落したことで、金属AM市場の普及速度が想定より遅く、競争も厳しい現実が見えた」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「日本経済新聞：ニコン一転最大の赤字 26年3月期最終850億円、金属3Dプリンター減損」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 顧客1社の年間：
+  - 「3Dプリンター産業は「試作機」から「量産インフラ」へ｜香川友志」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「3Dプリンター産業は「試作機」から「量産インフラ」へ」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Protolabs | 米国 | デジタル製造、3Dプリント、CNC | 試作・小ロット製造 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Nano Dimension | 2025年1〜9月売上 約6,710万ドル | Markforged買収反映、Desktop Metalは一部非継続扱い |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 小ロット販売 | 3Dプリンター |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「量産1個あたりの単価」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 受託会社の売上：
+  - 「この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Wohlers Report 2026によると、世界のAM関連売上は2025年に」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Stratasysや3D Systemsは、売上の伸び悩み、赤字、リストラ、事業再編と向き合っている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「7. 売上リスト：公開企業と非公開企業を分けて見る」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「3Dプリンター業界の売上比較は注意が必要である」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「そのため、単純に「売上が大きい会社＝3Dプリンター本体で強い会社」とは言えない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「7-1. 公開情報で確認できる主要企業の売上」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Xometry | 2025年売上 約6.866億ドル | 3Dプリントだけでなく、CNC、板金など製造マーケットプレイス全体 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Stratasys | 2025年売上 約5.511億ドル | 産業用ポリマーAM中心 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Protolabs | 2025年売上 約5.331億ドル | 3Dプリント、CNC、射出成形など含む |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 3D Systems | 2025年売上 約3.869億ドル | 医療・産業AM」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Materialise | 2025年売上 約2.676億ユーロ | ソフトウェア、医療、製造 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| BLT | 2025年売上 約18.52億元 | 中国金属AM」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 用途別：
+  - 「一方、金属AMは、航空宇宙、防衛、医療、半導体、AIデータセンター、ロボット、金型へ広がっている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「しかし、金型、工作機械、電子部品、材料、精密加工、品質保証では、まだ強い」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「「3Dプリンターが金型を消す時代」ではない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「もう一方には、航空宇宙、防衛、医療、半導体、AIデータセンター、電子部品、金型、ロボット部品に向かう、産業用・金属AM市場がある」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「金属3Dプリンター市場：航空宇宙、防衛、医療、AIインフラへ」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「本当に大事なのは「金型を3Dプリンターで進化させる」こと」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「航空宇宙、防衛、医療インプラント、半導体、データセンター冷却部品、精密電子部品、金型、ロボット部品などに広がっている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「TDKが欲しいのは、AIデータセンター時代に必要となる、冷却部品、熱管理部品、電源周辺部品、半導体周辺部品を作るための製造技術である」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「上では、航空宇宙、防衛、医療、AIデータセンター向けの高付加価値な金属AMが進む」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「航空宇宙、防衛、エネルギー、医療などで使われる大型金属部品向け装置に強みを持つ」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「光学、精密制御、計測、半導体露光装置、精密機器、画像処理などの技術を持つ会社である」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 価格を決める要因：
+  - 「用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「ここでは、単に安く作ることよりも、材料特性、再現性、精度、後処理、ワークフロー、ソフトウェア、品質保証が重要になる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「レーザー、光学、粉末材料、熱制御、造形シミュレーション、品質検査、計測、後処理、量産管理が一体になった製造システムである」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「Formlabsの強さは、デスクトップサイズでありながら、業務用途に使える品質、材料、ソフトウェア、後処理装置、歯科・医療向けワークフローを持っている点にある」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 治具・検査具 | 3Dプリンター |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「航空宇宙や医療では、造形後にCT検査などの全数検査が必要になることも多く、これがコストを押し上げている」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「これが成熟すれば、「造形してから検査する」から「造形しながら保証する」へ変わる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「認証コストが下がれば、金属AMの適用範囲は一気に広がる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「材料、設計、シミュレーション、造形条件、品質保証、後処理、検査、納品まで含めて提供できる会社が強くなる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「金属AMでは、造形失敗、熱歪み、空孔、割れ、表面粗さ、後処理、認証が大きな問題になる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「したがって、設計ソフト、シミュレーション、AIによる造形条件最適化、インライン検査、品質データ管理が重要になる」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「設計、解析、材料、プロセス、検査、認証まで含めたシステムである」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| 医療AM | 高品質・認証・安全性が重要 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「3Dプリンターを試作だけでなく治具・検査具・補修部品に使う」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「品質保証・検査・認証まで含めたサービスを作る」（https://note.com/kagawatomo/n/nf65a446ed216）

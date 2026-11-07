@@ -8,7 +8,7 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-07T07:07:31.107967+00:00",
+ "researched_at": "2026-11-07T12:10:44.139180+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -366,6 +366,56 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場調査会社8社を比較｜新規事業で失敗しない選び方と依頼例",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
@@ -638,51 +688,209 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "検索結果の抜粋": [
    {
-    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。 決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。 888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します。 イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します。",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の失敗・撤退（4）",
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を、次の事業判断に使える形へ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業種別・企業事例（6）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "市場調査会社8社を比較｜新規事業で失敗しない選び方と依頼例",
+    "quote": "実在企業の調査結果やDSSの実績ではありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の失敗・撤退（4）",
+    "quote": "新規事業の市場調査は、今回決めることを明確にし、公開情報で市場の範囲をつかみ、顧客の行動を確かめ、結果を次の判断につなぐ4ステップで進めます",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "quote": "本記事では、888名の独自調査と、工場向けサービスの架空例を使い、公開情報の探し方、顧客への質問、結果のまとめ方を説明します",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4ステップで、調査の目的から結果を使う判断までつなげる",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査を始める前の質問づくりと、結果を次の判断につなぐ記録の見直しに使えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4｜調査結果から「進める・変える・保留」を選ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に会う相手と、その人に確かめる条件を一組で決めることが、調査結果を判断に使う出発点です",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実在の支援事例ではなく、調査前の仮説から結果の使い方までをつなぐための記入例です",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判断する期限：結果を報告する日と、その場で決める人",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画面内の数値は本記事の調査結果ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果の上位ページを順番に読むだけでは、必要な情報より、見つけやすい情報に偏りがちです",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果は、集めた資料の順に報告するのではなく、最初に決めた問いへの回答としてまとめます",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表中の内容はすべて架空例であり、実際の調査結果や支援実績ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "点検記録サービスの調査結果を、次の判断へつなぐ記入例（架空例）",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試行範囲、担当者、費用と時間の上限、結果を判断する日",
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -947,214 +1155,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "実例": [
-   {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を、次の事業判断に使える形へ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業種別・企業事例（6）",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実在企業の調査結果やDSSの実績ではありません",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の市場調査は、今回決めることを明確にし、公開情報で市場の範囲をつかみ、顧客の行動を確かめ、結果を次の判断につなぐ4ステップで進めます",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、888名の独自調査と、工場向けサービスの架空例を使い、公開情報の探し方、顧客への質問、結果のまとめ方を説明します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4ステップで、調査の目的から結果を使う判断までつなげる",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査を始める前の質問づくりと、結果を次の判断につなぐ記録の見直しに使えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4｜調査結果から「進める・変える・保留」を選ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に会う相手と、その人に確かめる条件を一組で決めることが、調査結果を判断に使う出発点です",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実在の支援事例ではなく、調査前の仮説から結果の使い方までをつなぐための記入例です",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判断する期限：結果を報告する日と、その場で決める人",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画面内の数値は本記事の調査結果ではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果の上位ページを順番に読むだけでは、必要な情報より、見つけやすい情報に偏りがちです",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果は、集めた資料の順に報告するのではなく、最初に決めた問いへの回答としてまとめます",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "表中の内容はすべて架空例であり、実際の調査結果や支援実績ではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "点検記録サービスの調査結果を、次の判断へつなぐ記入例（架空例）",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "試行範囲、担当者、費用と時間の上限、結果を判断する日",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。 決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。 888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します。 イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します。",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1166,12 +1166,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kabuberry_/n/n061c7c0622d5",
+    "url": "https://note.com/kagawatomo/n/ncff94edf550c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/ncff94edf550c",
+    "url": "https://note.com/kabuberry_/n/n061c7c0622d5",
     "status": "ok",
     "method": "http"
    },
@@ -1281,13 +1281,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.fortunebusinessinsights.com/",
-    "status": "http_403",
+    "url": "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
-    "status": "ok",
+    "url": "https://www.fortunebusinessinsights.com/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1302,15 +1302,15 @@
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） site:note.com",
    "results": [
     "https://note.com/xoperation/n/n93109494872d",
-    "https://note.com/kabuberry_/n/n061c7c0622d5",
     "https://note.com/kagawatomo/n/ncff94edf550c",
+    "https://note.com/kabuberry_/n/n061c7c0622d5",
     "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
     "https://note.com/tck/n/n95812964bcbb",
     "https://note.com/diggle/n/nf18d4b8e0a8c",
-    "https://note.com/hr_sol_evangel/n/n55f519df39ed",
     "https://note.com/suzukiyuto/n/n4b49fca9f975",
-    "https://note.com/dataisfunny/n/nba293ffe5ca4",
-    "https://note.com/powerpoint_jp/n/n4601fd94e00a"
+    "https://note.com/hr_sol_evangel/n/n55f519df39ed",
+    "https://note.com/powerpoint_jp/n/n4601fd94e00a",
+    "https://note.com/pote_agent/n/n383c383f86ca"
    ]
   },
   {
@@ -1336,8 +1336,8 @@
     "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "https://service.g-search.jp/2024/12/20/01062.html",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://www.youtube.com/watch?v=Lkugw2q8Sew",
     "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.youtube.com/watch?v=Lkugw2q8Sew",
     "https://vs-group.jp/startup/establishment/20700.html",
     "https://www.career-adv.jp/recruit_info/career/443/",
     "https://jo-katsu.com/campus/4396/"
@@ -1364,13 +1364,13 @@
     "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
     "https://about.crunchbase.com/blog/private-company-data",
     "https://revenuebase.ai/companies/customer-analytics-consulting-firms/japan",
-    "https://www.fortunebusinessinsights.com/",
     "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
+    "https://www.fortunebusinessinsights.com/",
     "https://www.askbrian.ai/blog/company-information-sources/",
-    "https://nobusato.jp/en/blog/japan-company-financials-not-public",
     "https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro",
+    "https://nobusato.jp/en/blog/japan-company-financials-not-public",
     "https://www.grandviewresearch.com/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies"
+    "https://jbireport.com/"
    ]
   },
   {
@@ -1392,14 +1392,7 @@
    "query": "site:x.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
    "results": [
     "https://x.com/luigi_jpn/article/2095766103033282864",
-    "https://x.com/hiroaki_naberun",
-    "https://x.com/fujitaka_biz/status/2031837829157032184",
-    "https://x.com/papico_chupa/status/2111099478434574387",
-    "https://x.com/zenmizo/status/2067530235437072458",
-    "https://x.com/hasibiro_maga/status/2035079391081087081",
-    "https://x.com/zenmizo/status/2048906876252020800",
-    "https://x.com/JobHuntKEYENCE/status/2034347979256270941",
-    "https://x.com/keiri_investor/status/2090439001824215261"
+    "https://x.com/hiroaki_naberun"
    ]
   },
   {
@@ -1407,38 +1400,37 @@
    "results": [
     "https://jp.linkedin.com/in/%E5%B4%87%E4%B9%8B-%E5%90%8D%E5%80%89-335967102",
     "https://jp.linkedin.com/company/innovationengine",
-    "https://jp.linkedin.com/posts/株式会社ccイノベーション_調査レポート-株式会社ccイノベーション-activity-7135440260968153089-3pdk",
+    "https://jp.linkedin.com/in/shuhei-sugie-33202a251",
     "https://jp.linkedin.com/in/kohei-nagao-iri",
-    "https://www.linkedin.com/posts/燎汰-青柳-291aab242_非上場株価の調べ方非上場株式の評価方法と計算方法を解説part2-activity-6976445317634306049-oc8e",
+    "https://www.linkedin.com/posts/ryohei-yanagi-ph-d-6b347a147_非財務情報と企業価値の連関をいかに示すか-大和総研-activity-7397193475353427968-1AwP",
     "https://www.linkedin.com/posts/boston-consulting-group_イノベーション企業ランキングトップ50を発表bcgイノベーション調査2023-activity-7070304284478730240-SA1w",
-    "https://jp.linkedin.com/pulse/future-innovation-market-research-all-research-solution-ztxyf?tl=ja",
-    "https://jp.linkedin.com/posts/funaisoken_ビジネスモデルの複合化で売上高13億円経常利益15億円を達成できた成長戦略とは-activity-7125773094551494656-9WC5"
+    "https://jp.linkedin.com/posts/funaisoken_ビジネスモデルの複合化で売上高13億円経常利益15億円を達成できた成長戦略とは-activity-7125773094551494656-9WC5",
+    "https://jp.linkedin.com/pulse/future-innovation-market-research-all-research-solution-ztxyf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）",
    "results": [
-    "https://www.facebook.com/groups/SECISpiralUP/",
     "https://www.facebook.com/boehringerJP/posts/-入山章栄-氏が迫る-非上場企業の強み世界の経営理論に精通する入山章栄氏早稲田大学ビジネススクール教授と荻村正孝-日本ベーリンガーインゲルハイム-株式会社-代表/1080703100734951/",
     "https://www.facebook.com/nistep.japan/posts/全国イノベーション調査2024年調査統計報告nistep-report-no207を公表しました917科学技術学術政策研究所nistepでは科学技術イノベーショ/1258429316329132/",
     "https://www.facebook.com/YANMAR.Official/posts/就活生が知りたいヤンマーの豆知識vol13人事onlineの企画非上場企業の成長戦略でヤンマーを取り上げていただきました創業107年を迎えるヤンマーが非上場を貫/2474817072538002/",
     "https://www.facebook.com/funaisoken/videos/無料事例レポートを無料公開中船井総研のコンサルティング/1911251619573012/",
     "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1641080020328665/",
-    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1895290647817714/"
+    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/1895290647817714/",
+    "https://www.facebook.com/nishinippon.news/posts/東京商工リサーチ福岡支社が発表した2024年度の九州沖縄の企業調査によると売上高が100億円を超えた企業は前年度より20社増え売上総額も51増となりましたいずれ/1326681236138620/"
    ]
   },
   {
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） note 社長",
    "results": [
+    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
     "https://note.com/irshukatsu/n/n9fd752118742",
     "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
-    "https://note.com/shacho_online/n/n6233157414b6",
     "https://jo-katsu.com/campus/4396/"
    ]
   },
@@ -1446,14 +1438,14 @@
    "query": "非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ） X 投稿",
    "results": [
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "https://www.youtube.com/watch?v=Lkugw2q8Sew",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
     "https://jo-katsu.com/campus/4396/"
    ]
   },
@@ -1465,16 +1457,16 @@
     "https://in.linkedin.com/company/marketsandmarkets",
     "https://uk.linkedin.com/company/jman-group",
     "https://www.linkedin.com/company/oracle",
-    "https://www.linkedin.com/company/profit-recovery-partners",
     "https://www.linkedin.com/company/revenue-rocket-consulting-group",
-    "https://www.linkedin.com/company/genpact",
+    "https://www.linkedin.com/company/hewlett-packard-enterprise",
     "https://www.linkedin.com/in/melissafenner",
-    "https://www.linkedin.com/company/hewlett-packard-enterprise"
+    "https://www.linkedin.com/company/kyndryl",
+    "https://www.linkedin.com/company/ares-management"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 17,
+ "runs": 18,
  "first_researched_at": "2026-11-05T02:57:36.864891+00:00"
 }
