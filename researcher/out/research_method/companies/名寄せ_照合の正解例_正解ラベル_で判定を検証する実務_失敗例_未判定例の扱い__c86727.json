@@ -8,8 +8,1852 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T10:16:01.421233+00:00",
+ "researched_at": "2026-11-07T15:21:50.530130+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "名寄せとは、複数のデータを突き合わせ、重複や不整合を取り除き、同一対象の情報を整理・統合して整合性の取れたデータを構築する作業のことです",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データマッチングは、異なるデータベース間で共通項目を照合し、同一人物・同一企業を特定する工程です",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どのシステムや部門のデータを統合するのか、どの項目を基準に照合するのかを定義しましょう",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、顧客データの名寄せであれば、氏名・住所・電話番号・メールアドレスといった照合に必要な項目を選定します",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "氏名や住所、電話番号などの一致率を基準に照合し、同一と判断されたレコードを1件にまとめます",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完全一致だけでなく、類似度の高いデータを突き合わせることで、表記の揺れや入力ミスにも対応できます",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、VLOOKUP関数やCOUNTIF関数を使えば、同一データの抽出や照合が可能です",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの技術を用いることで、単純な文字列の一致にとどまらず、意味的な類似性や文脈を踏まえた照合が可能になります",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、名寄せに使用する照合ルールやマッチング方式も事前に検討しておく必要があります",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人顧客であれば氏名・住所・電話番号・メールアドレスが主な照合項目となり、法人顧客であれば企業名・法人番号・部署名・担当者名が対象になります",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マッチングでは、どの項目を照合キーとして使うか（マッチングキーの設計）と、どの判定方式を使うかの2点が重要です",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "大量のデータを手作業で照合するには限界があり、担当者が変わるたびに品質がばらつくという問題も生じます",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "項目ごとに固有の表記ゆれパターンがあり、どれを照合に使うかで精度が変わります",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、独自のJCコードを基準に重複と表記ゆれを解消します",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複は日々の入力で静かに増え続け、レコード数が増えるほど照合の組み合わせは指数的に膨らみます",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せのやり方は、データの棚卸し→照合キーの選定→クレンジング→照合と統合→検証の5ステップで構成されます",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複の推定規模（全体の何%程度が重複しているか）",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ2：照合キーの選定とルール設計",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せの精度を決めるのが照合キーの選定です",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "照合キーとは「同一企業かどうかを判定するための基準項目」で、以下の優先順位で設定することを推奨します",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一意のコードを照合キーに使えるかどうかが、名寄せの精度を大きく左右します",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ4：照合と統合の実行",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "クレンジング済みのデータに対して、設定した照合キーで突合処理を行います",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "照合の方法は大きく2種類です",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：照合キーが完全に一致するレコードを統合する方法",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "法人番号やJCコードによる照合がこれに該当し、精度は最も高い",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ5：結果検証と継続的なメンテナンス",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT - TOMAS TECH CO.,LTD.｜タイの製造業・物流業のAI・DX・自動化を支援",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造業で不適合品処置へのAI照合を導入するなら、AIは証拠の不足や食い違いを早く見つける役割に限定し、その後のMRB（Material Review Board）決裁、MES・ERP・QMSの状態、出荷解除を一つの流れとして設計します",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "に証拠と適用仕様を照合し、どの処置ルートへ進む場合にも共通する「判断材料の品質」を高めるテーマです",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI照合の導入で先に解くべき問題は、個々の処置方式を自動選択することではなく、MRBが誤った版や不完全な証拠で判断してしまう経路を閉じることです",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "バーコードやQRコードで現物を照合し、保留ラベルを貼り、隔離棚または明示した区画へ移動する運用が考えられます",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "処置決裁、必要なら顧客承認、手直し・修理の作業実績、規定された再検査の合格、数量の照合、対象シリアル・ロットの一致、権限者の電子署名または承認履歴を条件として評価します",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Two unsupervised methods are proposed by Fellegi and Sunter to estimate the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can then be estimated from the observed frequencies of agreement or disagreement between these fields. In particular, they derived analytical formulas to estimate",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") extended the above estimation methods by proposing the use of the expectation-maximization (EM) algorithm to estimate the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), provide estimates of the parameters λ,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "distributions are known or can be adequately estimated. To be practically feasible, their estimation relies on simplifying assumptions that usually do not hold. For one thing, the estimation methods discussed so far require conditional independence between the comparison of different record attributes, given the true match/nonmatch status of the record pairs. Smith and Newcombe (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), for the matching of the 1990 Census with the post-enumeration survey, thresholds were set “by ‘eyeballing’ lists of pairs of records brought together as candidate matches.” Part of the reason is that the error rates fixed in the Fellegi-Sunter framework, as well as the false match rates estimated using",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") extended the above framework for bipartite record linkage. In addition, the authors derive Bayes estimates under a general class of loss functions, which provides an alternative to the Fellegi-Sunter decision rule. Both the work of Sadinle (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同一顧客かどうかの判定は、氏名・住所・電話番号・メールアドレスといった属性データを突き合わせて行います",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "共通の顧客IDがあればIDで突合できますが、部署やシステムが分かれていると使えないこともあるため、属性データによる照合が中心になります",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照合キーにはならないが、統合後に顧客単位で正しく紐付けるべき情報",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照合に使う項目（氏名、会社名、住所、電話番号など）と、統合後に活用したい項目（購買履歴、商談履歴など）を区別して整理します",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "抽出したデータは、そのままでは表記のばらつきが原因で正しく照合できません",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.7 統合後の精度と業務への影響を検証する",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合が完了したら、想定した精度で名寄せができているかを検証します",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ずれが見つかった場合は、ルールを修正して再度照合します",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データ件数が増えるほど前処理や確認の工数は大きく膨らむため、事前調査からルール設計、検証までを含めた計画的なスケジュール管理が欠かせません",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし判定根拠が分からないため、なぜ統合されたのかを後から検証できません",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、誤統合が発生した場合の修正対応と成果物の検証方法を契約前に明確にしておくことが重要です",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せとは、氏名・住所・電話番号・法人番号など複数の項目を照合し、同一人物や同一企業を識別して顧客データを統合する作業です",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「どれだけ客観的に検証できるか」、つまりオラクルの有無で並べる",
+    "url": "https://note.com/zephel01/n/n42f04bb3e886",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指示追従は、文字数・JSON妥当性・正規表現みたいにプログラムで検証できる制約なら、judge なしで完全に客観判定できる",
+    "url": "https://note.com/zephel01/n/n42f04bb3e886",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、このv1では全入力の生成元が検証用DBに存在するため、unmatched率と偽陰性率が一致します",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、入力の再構築とAPI照合の再測定を分けて説明します",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "曖昧性の判定を独立に検証したり、APIを呼んで名寄せの精度を測り直したりするものではありません",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "環境変数の指定だけで検証APIやDBが作られるわけではありません",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どのデータに、どのルールを適用した結果なのかまで確認して、自分たちの入力で検証する範囲を決める必要があります",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を立て、データで検証する思考を身に付ける",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは照合しやすい状態をつくる役割を担い、名寄せは同じ対象かどうかを判断する役割を担います",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その後、照合に使う項目と、最終的に残す項目を定めます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "照合に使う項目と統合の条件は、作業前に文書化します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合後に検証し、更新ルールを運用する",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第2層：照合",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度スコアリング方式とは、複数の照合項目（企業名・住所・電話番号など）をそれぞれスコア化し、加重合計で総合スコアを算出するマッチング方式です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SalesNowの名寄せ機能では、独自のJCコードを基準に、企業名・法人番号・住所・電話番号などを組み合わせて照合しており、SFA連携時の名寄せ率は平均92%超です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せAIとは？機械学習による照合精度向上と活用法を解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックの設計とは、自社のデータ特性に合わせて最適な照合ルールを構築するプロセスです",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、レコード総数、重複の推定件数、表記ゆれの頻出パターン、欠損項目の割合を調査します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：照合キーの選定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "レコード同士を比較するときに「どの項目を見るか」を決めるのが照合キーです",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表的な照合キーには、法人番号・企業名・住所・電話番号・メールアドレスのドメインなどがあります",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "照合キーの選定では、「一意性」「データ充足率」「表記安定性」の3つの基準で評価します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "probability) and estimated the probability that it has the observed value given that the record-pair represents the same person (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". We used the EM method - an iterative process designed to find the maximum-likelihood estimate of a the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP5：検証と運用ルールの整備：品質維持のための継続的メンテナンス",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "役割分担としては、クレンジングが「個々のレコードを整える作業」、名寄せが「整ったレコード同士を突き合わせて束ねる作業」と整理できます",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "逆に言うと、名寄せが甘い状態での顧客分析は、誤った仮説を量産するリスクを抱えたままと言っても過言ではありません",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング結果は必ず検証担当者がサンプルチェックを行い、「別人を同一人物と誤統合していないか」「本来統合すべきレコードを見逃していないか」の双方向で確認することが重要です",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "閾値はサンプル検証を重ねて調整するのが鉄則です",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "回避策は、プロジェクトのキックオフから主要部門の代表者をメンバーに入れ、ルール策定と検証フェーズで必ず合意を取ることです",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PoCやクイックウィン検証の初動にとどめ、本格運用には別手段を選ぶのが賢明でしょう",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説 - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、データの重複や表記ゆれを整理し、信頼できる顧客情報を維持するうえで欠かせないプロセスである名寄せの基本から具体的な実施手順、効率化のポイントまでを体系的にわかりやすく解説します",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次に、名寄せを実施する際の基本的な流れを5つのステップに分けて解説します",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最初のステップは、",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せを実施する方法には、手作業で行うものから自動化されたシステムまで、いくつかのアプローチがあります",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "目的やデータ量、組織の規模によって最適な方法は異なります",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは、代表的な3つの方法を見ていきましょう",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "小規模な名寄せや初期の整理段階に向いている方法といえるでしょう",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "導入コストは高めですが、人的工数の削減と品質の両立を図れる点で、今後の主流となる方法といえるでしょう",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「自社データの名寄せをしたいけれど、進め方に不安がある」「データ分析の専門家の知見を取り入れたい」という方は、データ業務の実績豊富な弊社、データビズラボにお気軽にご相談ください",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "貴社の課題や状況に合わせて、名寄せの進め方をご提案させていただきます",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらは入力担当者が複数いる環境で自然発生する表記ゆれの典型例です",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せの進め方：4つのステップで解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せは「データ調査→対象データ抽出→データクレンジング→マッチング・統合」の4ステップで進めるのが標準的な流れです",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各ステップの作業内容と注意点を順に確認します",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ1：データ調査（現状把握）",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「どのシステムにどれくらいの件数があるか」「どの項目が共通しているか」を整理しないまま次のステップに進むと、抽出・クレンジングの設計が後から何度も変わることになります",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ2：対象データの抽出",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ3：データクレンジング",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "判断を担当者に委ねると、同じ種類の欠損値でも処理方法がバラバラになり、後のマッチングで一貫性が失われます",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ステップ4：マッチングと統合",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excelで名寄せする方法は？関数の使い方と重複削除の手順を解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説 | ナレッジ - SalesNow",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せの方法（やり方）5ステップ",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、名寄せの定義とデータクレンジングとの違い、放置した場合に起きる4つの問題、やり方5ステップ、Excel関数での実装と限界、マッチングキーの選び方、ツールの種類と選定基準、精度を高める実践テクニック、個人情報保護法の留意点、HubSpot連携の実装例、ROIの測り方、着手前チェックリストまでを順に解説します",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データクレンジングとは？手順・Excelのやり方とAI活用の前提を解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客データの名寄せとは？手順・方法・ツール活用を徹底解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Salesforce・HubSpotの取引先データを企業データで名寄せ・補完する手順",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "kintoneで名寄せする方法とおすすめプラグイン5選",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2026年最新版】名寄せAPIとは？仕組み・主要サービス比較・導入手順を徹底解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "クレンジング側の手順とExcelでの実装は「",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "リードと取引先を企業単位でまとめる具体的な進め方は「",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "顧客データ統合とは？進め方5ステップ・ツール比較・失敗例まで解説",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せのやり方は、データの棚卸し→照合キーの選定→クレンジング→照合と統合→検証の5ステップで構成されます",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "法人番号や電話番号をキーに定型ルールでマッチング",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT - TOMAS TECH CO.,LTD.｜タイの製造業・物流業のAI・DX・自動化を支援",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "典型的な失敗パターンを把握した上で、継続的に機能させる仕組みをセットで設計することが重要です",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conceptualization, Funding acquisition, Methodology, Project administration, Software, Supervision, Validation, Writing - original draft",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せとは？意味や実施方法などわかりやすく解説 - myBridgeブログ",
+    "url": "https://sharebook.mybridge.com/blog/article13",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この手順で確認するのは入力データの一致です",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベンチマークの方法論と再現手順（固定コミット）",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報を入力する人や入力方法が複数あることも、重複を生む要因です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "少量のデータで、対象項目や照合条件が単純なら、表計算ソフトを使って名寄せを試す方法があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社の対象や照合ルールに適合するか、誤判定の確認方法があるかを事前に検証します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説 | ナレッジ - SalesNow",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジック設計の5ステップ",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの全体像・やり方5ステップを知りたい方 →",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとデータクレンジングを一体で進める手順とツール比較は「",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ・データクレンジングのやり方｜手順・ツール比較・コツを解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実務では単一のアルゴリズムだけでなく、複数の方式を組み合わせるハイブリッド型が主流です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実務で成果を出す名寄せロジックを構築するには、以下の5つのステップを順に進めることが重要です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：データの現状把握と課題の特定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：照合キーの選定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：前処理ルールの策定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：マッチングアルゴリズムの選定と閾値設定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：テスト・検証とPDCAサイクルの確立",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". To further minimize human effort, most studies have concentrated on automated (unsupervised) entity resolution approaches, such as the deterministic and probabilistic methods",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". These methods still require parameter tuning which is usually done manually by an entity resolution expert based on “trial and error” with the local data",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We randomly selected 20,000 record-pairs (10,000 training set and 10,000 test set). We used a stepwise review process as described in detail in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". We used the EM method - an iterative process designed to find the maximum-likelihood estimate of a the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "probability, where the model depends on the unobserved actual match status (for a detailed description of the method see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A second limitation is that we used a narrow set of methods for the entity resolution task (i.e., a lenient blocking search, a limited set of similarity measures, specific implementations of the studied algorithms and a single optimization method). It is possible that other similarity measures or entity resolution algorithms could have resulted in better performance with smaller training sets",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". However, other optimization methods (e.g., genetic programing or lenient gradient descent) might have performed better",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Since the optimization process is computationally expensive we sampled a range of cases without considering the added contribution of each individual case. More sophisticated active learning methods may perform better (i.e., decrease manual review without compromising precision)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Gu and Baxter, evaluated the probabilistic EM method using dual thresholds on several synthetic datasets. The manual review sizes they described are smaller than observed for our baseline implementation (ranging 3.9%–10%, depending on the rate and complexity of duplicate records). However, with a considerably lower precision (1–4 errors per 100 record pairs)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Joffe E, Byrne MJ, Reeder P, et al. A benchmark comparison of deterministic and probabilistic methods for defining manual review datasets in duplicate records reconciliation. Journal of the American Medical Informatics Association. 2013 doi: 10.1136/amiajnl-2013-001744. [epub]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Jaro MA. Advances in Record-Linkage Methodology as Applied to Matching the 1985 Census of Tampa, Florida. Journal of the American Statistical Association. 1989;84(406):414–420.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DuVall SL, Kerber R a, Thomas A. Extending the Fellegi-Sunter probabilistic record linkage method for approximate field comparators. Journal of Biomedical Informatics. 2010;43(1):24–30. doi: 10.1016/j.jbi.2009.08.004.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングキーの設計方法：何をキーにすれば同一判定できるか",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ECサイト・商品データの場合：JANコード・型番・会員IDの活用",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度マッチング型：スコアで同一性を判定する方式",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI・機械学習型：学習データから判定モデルを構築する方式",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、既存データを自動で上書きしない方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：ロールバックの方法と、担当者研修の準備",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ・データクレンジングのやり方完全ガイド｜手順5ステップと失敗しないための実務ポイント - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ・データクレンジングのやり方完全ガイド｜手順5ステップと失敗しないための実務ポイント",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、名寄せとデータクレンジングの違いから実務で使える5ステップの進め方、マッチング精度を高める判定方法、よくある失敗パターンと回避策まで、現場担当者が明日から動けるレベルで具体的に解説しています",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データドリブン経営やDX推進の土台となるデータ品質を短期間で底上げしたい方は、ぜひ本記事の手順と失敗回避のポイントを自社プロジェクトに取り入れてみてください",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ・データクレンジングのやり方：実務で使える5つのステップ",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP1：データプロファイリング：現状のデータ品質を可視化する",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP2：クレンジングルールの策定：表記統一・正規化の基準を定義",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP3：データクレンジングの実施：表記ゆれ・欠損・誤記の修正",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP4：名寄せ（マッチング）処理：完全一致・部分一致による統合",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP5：検証と運用ルールの整備：品質維持のための継続的メンテナンス",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの精度を高める判定方法とマッチングロジック",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せ・データクレンジングの進め方の選択肢：自社対応とツール活用の比較",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Excel・スプレッドシートで対応する方法とその限界",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専用ツールを導入する方法：メリットと選定ポイント",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外部ベンダーへ委託する方法：大規模データや法人名寄せに有効",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yasuyuki Takahashiさんの投稿 **データラベリング（Data Labelling）**とは、 未整理・未分類のデータに「正解となるラベル」を付与する作業のことです。 教師あり学習（Supervised Learning）では、 入力データ（特徴量）＋正解ラベル のセットを使ってモデルを学習させます。",
+    "url": "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説データ学習におけるデータラベリング-activity-7422139193092468736-N4mI",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Yasuyuki Takahashiさんの投稿 教師あり学習（Supervised Learning）では、 入力データ（特徴量）＋正解ラベル のセットを使ってモデルを学習させます。 そのため、ラベルのないデータや、曖昧なラベルしかないデータでは、 モデルは「何を正解とすべきか」を理解できません。",
+    "url": "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説データ学習におけるデータラベリング-activity-7422139193092468736-N4mI",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完全一致・部分一致・あいまい一致など、どの基準を採用するかを明確にし、データ特性に合った手法を選ぶことが精度向上につながります",
+    "url": "https://data-viz-lab.com/name-collection",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公的な法人番号は「法人」に対して付与される番号のため、法人格を持たない事業体や、同一法人内の部署・拠点単位までは区別できません",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SalesNowはこの粒度差を埋めるためにJCコードを採用しています",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：登記された法人に幅広く付与されており、BtoB領域の対象を広くカバーする",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社情報の更新・従業員数推移・求人出稿状況・ニュース／プレスリリース配信・上場状況という5つの一次データから算出しており、「どの企業が今動いているか」をアプローチ順の判断材料に使えます",
+    "url": "https://salesnow.jp/media/124/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "品番が手入力で揺れている、図面番号はあるが版がない、写真ファイル名から個体が追えない、測定値がPDFの画像にしかない、といった欠落はAI以前の課題です",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文書名だけが似ていても、顧客、品番、適用開始条件が一致しない限り審議資料へ自動採用しません",
+    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This PDF file includes:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sciadv.abi8021_sm.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(573.4KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A. McCallum, K. Bellare, F. Pereira, A conditional random field for discriminatively-trained finite-state string edit distance. arXiv:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (193.1 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致方式を採用する場合は、事前の正規化処理が不可欠です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融機関や大手企業など、判定の透明性が求められる組織で多く採用されています",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SalesNowは独自のJCコードを基準に名寄せを行い、法人番号を公的キーとして紐づけて管理しているため、ユーザーのCRM/SFAデータに法人番号を自動付与することもできます",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社はSalesNowを導入し、独自のJCコードを基準とした照合ロジックを採用することで名寄せ率を以前の3倍まで引き上げました",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "☐ 採用するマッチングアルゴリズム（完全一致/あいまい一致/類似度スコアリング/ルールベース/AI）の組み合わせが決まっている",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF (718.7 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクリーニングはデータクレンジングとほぼ同義で使われる場面が多く、機械学習や統計分析の前処理という文脈でより多く登場する言葉です",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致を採用する場合は、前段のクレンジング精度が結果を左右します",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数万件を超えるデータでは、Python（pandas）やSQL、あるいは専用ツールの採用を検討すべきです",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融機関や通信業、保険業界の大規模顧客マスタ整備で採用されるケースが目立ちます",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エンタープライズ領域での採用実績が豊富で、ガバナンス機能や権限管理も充実しています",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "顧客データの重複や不整合によって、営業の連携ミスや分析結果のゆがみが生まれてしまう――こうした課題を抱える企業は少なくありません",
@@ -806,6 +2650,30 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "), the use of a uniform prior on the set of links or nonlinks, in practice, leads to one having a biased estimation of the sample. This, in turn, led to the development of subjective priors on the linkage structure, which have appeared in (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Big data, selection bias, and the statistical patterns of mortality in conflict. SAIS Rev. Int. Aff.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation approaches and a new public tool leveraging labeled records. Res. Policy",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Size-biased sampling of Poisson point processes and excursions. Probability Theory Related Fields",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "データクレンジングとの違いや、よくある失敗例も交えて紹介します",
     "url": "https://sharebook.mybridge.com/blog/article13",
     "pass": 3,
@@ -1154,248 +3022,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完全一致・部分一致・あいまい一致など、どの基準を採用するかを明確にし、データ特性に合った手法を選ぶことが精度向上につながります",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公的な法人番号は「法人」に対して付与される番号のため、法人格を持たない事業体や、同一法人内の部署・拠点単位までは区別できません",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SalesNowはこの粒度差を埋めるためにJCコードを採用しています",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：登記された法人に幅広く付与されており、BtoB領域の対象を広くカバーする",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社情報の更新・従業員数推移・求人出稿状況・ニュース／プレスリリース配信・上場状況という5つの一次データから算出しており、「どの企業が今動いているか」をアプローチ順の判断材料に使えます",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "品番が手入力で揺れている、図面番号はあるが版がない、写真ファイル名から個体が追えない、測定値がPDFの画像にしかない、といった欠落はAI以前の課題です",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文書名だけが似ていても、顧客、品番、適用開始条件が一致しない限り審議資料へ自動採用しません",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致方式を採用する場合は、事前の正規化処理が不可欠です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金融機関や大手企業など、判定の透明性が求められる組織で多く採用されています",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SalesNowは独自のJCコードを基準に名寄せを行い、法人番号を公的キーとして紐づけて管理しているため、ユーザーのCRM/SFAデータに法人番号を自動付与することもできます",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同社はSalesNowを導入し、独自のJCコードを基準とした照合ロジックを採用することで名寄せ率を以前の3倍まで引き上げました",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "☐ 採用するマッチングアルゴリズム（完全一致/あいまい一致/類似度スコアリング/ルールベース/AI）の組み合わせが決まっている",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF (718.7 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表レコードは、項目ごとに採用基準を決めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクリーニングはデータクレンジングとほぼ同義で使われる場面が多く、機械学習や統計分析の前処理という文脈でより多く登場する言葉です",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致を採用する場合は、前段のクレンジング精度が結果を左右します",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数万件を超えるデータでは、Python（pandas）やSQL、あるいは専用ツールの採用を検討すべきです",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金融機関や通信業、保険業界の大規模顧客マスタ整備で採用されるケースが目立ちます",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エンタープライズ領域での採用実績が豊富で、ガバナンス機能や権限管理も充実しています",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "SNS・note（X・検索結果の抜粋）": [
    {
     "quote": "アノテーション AIに学習させるデータに対して、正解ラベルや注釈を付... アノテーションAIに学習させるデータに対して、正解ラベルや注釈を付ける作業のこと。 ラベルの誤りや偏りがモデルの精度や公平性に大きく影響することから、地味な作業でありながらAI開発全体を支える重要な工程と位置づけられている。",
@@ -1421,1530 +3047,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "名寄せとは、複数のデータを突き合わせ、重複や不整合を取り除き、同一対象の情報を整理・統合して整合性の取れたデータを構築する作業のことです",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データマッチングは、異なるデータベース間で共通項目を照合し、同一人物・同一企業を特定する工程です",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どのシステムや部門のデータを統合するのか、どの項目を基準に照合するのかを定義しましょう",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、顧客データの名寄せであれば、氏名・住所・電話番号・メールアドレスといった照合に必要な項目を選定します",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "氏名や住所、電話番号などの一致率を基準に照合し、同一と判断されたレコードを1件にまとめます",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完全一致だけでなく、類似度の高いデータを突き合わせることで、表記の揺れや入力ミスにも対応できます",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、VLOOKUP関数やCOUNTIF関数を使えば、同一データの抽出や照合が可能です",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらの技術を用いることで、単純な文字列の一致にとどまらず、意味的な類似性や文脈を踏まえた照合が可能になります",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、名寄せに使用する照合ルールやマッチング方式も事前に検討しておく必要があります",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "個人顧客であれば氏名・住所・電話番号・メールアドレスが主な照合項目となり、法人顧客であれば企業名・法人番号・部署名・担当者名が対象になります",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "マッチングでは、どの項目を照合キーとして使うか（マッチングキーの設計）と、どの判定方式を使うかの2点が重要です",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大量のデータを手作業で照合するには限界があり、担当者が変わるたびに品質がばらつくという問題も生じます",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "項目ごとに固有の表記ゆれパターンがあり、どれを照合に使うかで精度が変わります",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、独自のJCコードを基準に重複と表記ゆれを解消します",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重複は日々の入力で静かに増え続け、レコード数が増えるほど照合の組み合わせは指数的に膨らみます",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せのやり方は、データの棚卸し→照合キーの選定→クレンジング→照合と統合→検証の5ステップで構成されます",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重複の推定規模（全体の何%程度が重複しているか）",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ2：照合キーの選定とルール設計",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せの精度を決めるのが照合キーの選定です",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "照合キーとは「同一企業かどうかを判定するための基準項目」で、以下の優先順位で設定することを推奨します",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一意のコードを照合キーに使えるかどうかが、名寄せの精度を大きく左右します",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ4：照合と統合の実行",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "クレンジング済みのデータに対して、設定した照合キーで突合処理を行います",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "照合の方法は大きく2種類です",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：照合キーが完全に一致するレコードを統合する方法",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号やJCコードによる照合がこれに該当し、精度は最も高い",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ5：結果検証と継続的なメンテナンス",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT - TOMAS TECH CO.,LTD.｜タイの製造業・物流業のAI・DX・自動化を支援",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造業で不適合品処置へのAI照合を導入するなら、AIは証拠の不足や食い違いを早く見つける役割に限定し、その後のMRB（Material Review Board）決裁、MES・ERP・QMSの状態、出荷解除を一つの流れとして設計します",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "に証拠と適用仕様を照合し、どの処置ルートへ進む場合にも共通する「判断材料の品質」を高めるテーマです",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI照合の導入で先に解くべき問題は、個々の処置方式を自動選択することではなく、MRBが誤った版や不完全な証拠で判断してしまう経路を閉じることです",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "バーコードやQRコードで現物を照合し、保留ラベルを貼り、隔離棚または明示した区画へ移動する運用が考えられます",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "処置決裁、必要なら顧客承認、手直し・修理の作業実績、規定された再検査の合格、数量の照合、対象シリアル・ロットの一致、権限者の電子署名または承認履歴を条件として評価します",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同一顧客かどうかの判定は、氏名・住所・電話番号・メールアドレスといった属性データを突き合わせて行います",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "共通の顧客IDがあればIDで突合できますが、部署やシステムが分かれていると使えないこともあるため、属性データによる照合が中心になります",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "照合キーにはならないが、統合後に顧客単位で正しく紐付けるべき情報",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "照合に使う項目（氏名、会社名、住所、電話番号など）と、統合後に活用したい項目（購買履歴、商談履歴など）を区別して整理します",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "抽出したデータは、そのままでは表記のばらつきが原因で正しく照合できません",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5.7 統合後の精度と業務への影響を検証する",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合が完了したら、想定した精度で名寄せができているかを検証します",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ずれが見つかった場合は、ルールを修正して再度照合します",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データ件数が増えるほど前処理や確認の工数は大きく膨らむため、事前調査からルール設計、検証までを含めた計画的なスケジュール管理が欠かせません",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし判定根拠が分からないため、なぜ統合されたのかを後から検証できません",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あわせて、誤統合が発生した場合の修正対応と成果物の検証方法を契約前に明確にしておくことが重要です",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せとは、氏名・住所・電話番号・法人番号など複数の項目を照合し、同一人物や同一企業を識別して顧客データを統合する作業です",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「どれだけ客観的に検証できるか」、つまりオラクルの有無で並べる",
-    "url": "https://note.com/zephel01/n/n42f04bb3e886",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "指示追従は、文字数・JSON妥当性・正規表現みたいにプログラムで検証できる制約なら、judge なしで完全に客観判定できる",
-    "url": "https://note.com/zephel01/n/n42f04bb3e886",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、このv1では全入力の生成元が検証用DBに存在するため、unmatched率と偽陰性率が一致します",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、入力の再構築とAPI照合の再測定を分けて説明します",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "曖昧性の判定を独立に検証したり、APIを呼んで名寄せの精度を測り直したりするものではありません",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "環境変数の指定だけで検証APIやDBが作られるわけではありません",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どのデータに、どのルールを適用した結果なのかまで確認して、自分たちの入力で検証する範囲を決める必要があります",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を立て、データで検証する思考を身に付ける",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングは照合しやすい状態をつくる役割を担い、名寄せは同じ対象かどうかを判断する役割を担います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その後、照合に使う項目と、最終的に残す項目を定めます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "照合に使う項目と統合の条件は、作業前に文書化します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統合後に検証し、更新ルールを運用する",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第2層：照合",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度スコアリング方式とは、複数の照合項目（企業名・住所・電話番号など）をそれぞれスコア化し、加重合計で総合スコアを算出するマッチング方式です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SalesNowの名寄せ機能では、独自のJCコードを基準に、企業名・法人番号・住所・電話番号などを組み合わせて照合しており、SFA連携時の名寄せ率は平均92%超です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せAIとは？機械学習による照合精度向上と活用法を解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックの設計とは、自社のデータ特性に合わせて最適な照合ルールを構築するプロセスです",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、レコード総数、重複の推定件数、表記ゆれの頻出パターン、欠損項目の割合を調査します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：照合キーの選定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "レコード同士を比較するときに「どの項目を見るか」を決めるのが照合キーです",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表的な照合キーには、法人番号・企業名・住所・電話番号・メールアドレスのドメインなどがあります",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "照合キーの選定では、「一意性」「データ充足率」「表記安定性」の3つの基準で評価します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "probability) and estimated the probability that it has the observed value given that the record-pair represents the same person (",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". We used the EM method - an iterative process designed to find the maximum-likelihood estimate of a the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP5：検証と運用ルールの整備：品質維持のための継続的メンテナンス",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "役割分担としては、クレンジングが「個々のレコードを整える作業」、名寄せが「整ったレコード同士を突き合わせて束ねる作業」と整理できます",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "逆に言うと、名寄せが甘い状態での顧客分析は、誤った仮説を量産するリスクを抱えたままと言っても過言ではありません",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチング結果は必ず検証担当者がサンプルチェックを行い、「別人を同一人物と誤統合していないか」「本来統合すべきレコードを見逃していないか」の双方向で確認することが重要です",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "閾値はサンプル検証を重ねて調整するのが鉄則です",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "回避策は、プロジェクトのキックオフから主要部門の代表者をメンバーに入れ、ルール策定と検証フェーズで必ず合意を取ることです",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PoCやクイックウィン検証の初動にとどめ、本格運用には別手段を選ぶのが賢明でしょう",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説 - DATA VIZ LAB｜データビズラボ",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事では、データの重複や表記ゆれを整理し、信頼できる顧客情報を維持するうえで欠かせないプロセスである名寄せの基本から具体的な実施手順、効率化のポイントまでを体系的にわかりやすく解説します",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次に、名寄せを実施する際の基本的な流れを5つのステップに分けて解説します",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最初のステップは、",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せを実施する方法には、手作業で行うものから自動化されたシステムまで、いくつかのアプローチがあります",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "目的やデータ量、組織の規模によって最適な方法は異なります",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、代表的な3つの方法を見ていきましょう",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "小規模な名寄せや初期の整理段階に向いている方法といえるでしょう",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "導入コストは高めですが、人的工数の削減と品質の両立を図れる点で、今後の主流となる方法といえるでしょう",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「自社データの名寄せをしたいけれど、進め方に不安がある」「データ分析の専門家の知見を取り入れたい」という方は、データ業務の実績豊富な弊社、データビズラボにお気軽にご相談ください",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "貴社の課題や状況に合わせて、名寄せの進め方をご提案させていただきます",
-    "url": "https://data-viz-lab.com/name-collection",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説 - GENIEE's library",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらは入力担当者が複数いる環境で自然発生する表記ゆれの典型例です",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せの進め方：4つのステップで解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せは「データ調査→対象データ抽出→データクレンジング→マッチング・統合」の4ステップで進めるのが標準的な流れです",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "各ステップの作業内容と注意点を順に確認します",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ1：データ調査（現状把握）",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「どのシステムにどれくらいの件数があるか」「どの項目が共通しているか」を整理しないまま次のステップに進むと、抽出・クレンジングの設計が後から何度も変わることになります",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ2：対象データの抽出",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ3：データクレンジング",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "判断を担当者に委ねると、同じ種類の欠損値でも処理方法がバラバラになり、後のマッチングで一貫性が失われます",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ステップ4：マッチングと統合",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Excelで名寄せする方法は？関数の使い方と重複削除の手順を解説",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説 | ナレッジ - SalesNow",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せの方法（やり方）5ステップ",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事では、名寄せの定義とデータクレンジングとの違い、放置した場合に起きる4つの問題、やり方5ステップ、Excel関数での実装と限界、マッチングキーの選び方、ツールの種類と選定基準、精度を高める実践テクニック、個人情報保護法の留意点、HubSpot連携の実装例、ROIの測り方、着手前チェックリストまでを順に解説します",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データクレンジングとは？手順・Excelのやり方とAI活用の前提を解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客データの名寄せとは？手順・方法・ツール活用を徹底解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Salesforce・HubSpotの取引先データを企業データで名寄せ・補完する手順",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "kintoneで名寄せする方法とおすすめプラグイン5選",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【2026年最新版】名寄せAPIとは？仕組み・主要サービス比較・導入手順を徹底解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "クレンジング側の手順とExcelでの実装は「",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "リードと取引先を企業単位でまとめる具体的な進め方は「",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "顧客データ統合とは？進め方5ステップ・ツール比較・失敗例まで解説",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せのやり方は、データの棚卸し→照合キーの選定→クレンジング→照合と統合→検証の5ステップで構成されます",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号や電話番号をキーに定型ルールでマッチング",
-    "url": "https://salesnow.jp/media/124/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "製造業の不適合品処置にAI照合を導入する方法｜MRB・出荷保留・FAT/SAT - TOMAS TECH CO.,LTD.｜タイの製造業・物流業のAI・DX・自動化を支援",
-    "url": "https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "典型的な失敗パターンを把握した上で、継続的に機能させる仕組みをセットで設計することが重要です",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "名寄せとは？意味や実施方法などわかりやすく解説 - myBridgeブログ",
-    "url": "https://sharebook.mybridge.com/blog/article13",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この手順で確認するのは入力データの一致です",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ベンチマークの方法論と再現手順（固定コミット）",
-    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報を入力する人や入力方法が複数あることも、重複を生む要因です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "少量のデータで、対象項目や照合条件が単純なら、表計算ソフトを使って名寄せを試す方法があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社の対象や照合ルールに適合するか、誤判定の確認方法があるかを事前に検証します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックとは？設計手順とアルゴリズム5選を解説 | ナレッジ - SalesNow",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジック設計の5ステップ",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの全体像・やり方5ステップを知りたい方 →",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとは？やり方5ステップとExcel・ツール活用を徹底解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エクセルで名寄せする方法｜関数・手順・限界まで徹底解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとデータクレンジングを一体で進める手順とツール比較は「",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ・データクレンジングのやり方｜手順・ツール比較・コツを解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実務では単一のアルゴリズムだけでなく、複数の方式を組み合わせるハイブリッド型が主流です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実務で成果を出す名寄せロジックを構築するには、以下の5つのステップを順に進めることが重要です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：データの現状把握と課題の特定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：照合キーの選定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：前処理ルールの策定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：マッチングアルゴリズムの選定と閾値設定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：テスト・検証とPDCAサイクルの確立",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". To further minimize human effort, most studies have concentrated on automated (unsupervised) entity resolution approaches, such as the deterministic and probabilistic methods",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". These methods still require parameter tuning which is usually done manually by an entity resolution expert based on “trial and error” with the local data",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We randomly selected 20,000 record-pairs (10,000 training set and 10,000 test set). We used a stepwise review process as described in detail in",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". We used the EM method - an iterative process designed to find the maximum-likelihood estimate of a the",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "probability, where the model depends on the unobserved actual match status (for a detailed description of the method see",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A second limitation is that we used a narrow set of methods for the entity resolution task (i.e., a lenient blocking search, a limited set of similarity measures, specific implementations of the studied algorithms and a single optimization method). It is possible that other similarity measures or entity resolution algorithms could have resulted in better performance with smaller training sets",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". However, other optimization methods (e.g., genetic programing or lenient gradient descent) might have performed better",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Since the optimization process is computationally expensive we sampled a range of cases without considering the added contribution of each individual case. More sophisticated active learning methods may perform better (i.e., decrease manual review without compromising precision)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Gu and Baxter, evaluated the probabilistic EM method using dual thresholds on several synthetic datasets. The manual review sizes they described are smaller than observed for our baseline implementation (ranging 3.9%–10%, depending on the rate and complexity of duplicate records). However, with a considerably lower precision (1–4 errors per 100 record pairs)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Joffe E, Byrne MJ, Reeder P, et al. A benchmark comparison of deterministic and probabilistic methods for defining manual review datasets in duplicate records reconciliation. Journal of the American Medical Informatics Association. 2013 doi: 10.1136/amiajnl-2013-001744. [epub]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Jaro MA. Advances in Record-Linkage Methodology as Applied to Matching the 1985 Census of Tampa, Florida. Journal of the American Statistical Association. 1989;84(406):414–420.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DuVall SL, Kerber R a, Thomas A. Extending the Fellegi-Sunter probabilistic record linkage method for approximate field comparators. Journal of Biomedical Informatics. 2010;43(1):24–30. doi: 10.1016/j.jbi.2009.08.004.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーの設計方法：何をキーにすれば同一判定できるか",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ECサイト・商品データの場合：JANコード・型番・会員IDの活用",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型：スコアで同一性を判定する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI・機械学習型：学習データから判定モデルを構築する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、既存データを自動で上書きしない方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：ロールバックの方法と、担当者研修の準備",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ・データクレンジングのやり方完全ガイド｜手順5ステップと失敗しないための実務ポイント - DATA VIZ LAB｜データビズラボ",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ・データクレンジングのやり方完全ガイド｜手順5ステップと失敗しないための実務ポイント",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、名寄せとデータクレンジングの違いから実務で使える5ステップの進め方、マッチング精度を高める判定方法、よくある失敗パターンと回避策まで、現場担当者が明日から動けるレベルで具体的に解説しています",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データドリブン経営やDX推進の土台となるデータ品質を短期間で底上げしたい方は、ぜひ本記事の手順と失敗回避のポイントを自社プロジェクトに取り入れてみてください",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ・データクレンジングのやり方：実務で使える5つのステップ",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP1：データプロファイリング：現状のデータ品質を可視化する",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP2：クレンジングルールの策定：表記統一・正規化の基準を定義",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP3：データクレンジングの実施：表記ゆれ・欠損・誤記の修正",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP4：名寄せ（マッチング）処理：完全一致・部分一致による統合",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP5：検証と運用ルールの整備：品質維持のための継続的メンテナンス",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの精度を高める判定方法とマッチングロジック",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せ・データクレンジングの進め方の選択肢：自社対応とツール活用の比較",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Excel・スプレッドシートで対応する方法とその限界",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専用ツールを導入する方法：メリットと選定ポイント",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外部ベンダーへ委託する方法：大規模データや法人名寄せに有効",
-    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Yasuyuki Takahashiさんの投稿 **データラベリング（Data Labelling）**とは、 未整理・未分類のデータに「正解となるラベル」を付与する作業のことです。 教師あり学習（Supervised Learning）では、 入力データ（特徴量）＋正解ラベル のセットを使ってモデルを学習させます。",
-    "url": "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説データ学習におけるデータラベリング-activity-7422139193092468736-N4mI",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Yasuyuki Takahashiさんの投稿 教師あり学習（Supervised Learning）では、 入力データ（特徴量）＋正解ラベル のセットを使ってモデルを学習させます。 そのため、ラベルのないデータや、曖昧なラベルしかないデータでは、 モデルは「何を正解とすべきか」を理解できません。",
-    "url": "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説データ学習におけるデータラベリング-activity-7422139193092468736-N4mI",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -2963,7 +3065,7 @@
    {
     "url": "https://note.com/jack4manastalk/n/neeebe40afbde",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/azuren17/n/n05fa3739ee35",
@@ -2976,7 +3078,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hearty_acacia322/n/n6b62d63f88ca",
+    "url": "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
     "status": "ok",
     "method": "http"
    },
@@ -2991,7 +3093,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsukurun_d7/n/n154aa2d84bae",
+    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
     "status": "ok",
     "method": "http"
    },
@@ -3001,12 +3103,12 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
+    "url": "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "url": "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
     "status": "ok",
     "method": "http"
    },
@@ -3036,17 +3138,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
+    "url": "https://totono.sc-consulting.co.jp/blog/nayose-toha.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://suuteki.ai-yobikou.com/field/judgment/sp-04/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/atstream/n/n15ddcade7e85",
     "status": "ok",
     "method": "http"
    },
@@ -3061,27 +3163,17 @@
     "method": "http"
    },
    {
-    "url": "https://tsuchiyalab.com/products/falsify",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/ai-record-linkage-strategy/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.iskc.co.jp/column/example/107/",
-    "status": "network_error:ConnectTimeout",
+    "url": "https://data-viz-lab.com/financial-data-cleansing",
+    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://arxiv.org/html/2607.26298v1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "status": "ok",
     "method": "http"
    },
@@ -3091,22 +3183,27 @@
     "method": "http"
    },
    {
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://vldb.org/pvldb/vol3/R18.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://x.com/wired_jp/status/2085244528185975179",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://x.com/AISTATSCH/status/2101855859781623962",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -3126,10 +3223,10 @@
     "https://note.com/jack4manastalk/n/neeebe40afbde",
     "https://note.com/azuren17/n/n05fa3739ee35",
     "https://note.com/jack4manastalk/n/n2aedeb050627",
+    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
+    "https://note.com/ai_scout_jp/n/n91cff96707e1",
     "https://note.com/hearty_acacia322/n/n6b62d63f88ca",
     "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "https://note.com/ai_scout_jp/n/n91cff96707e1",
-    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
     "https://note.com/tender_clam9623/n/n5116d5a7bd28"
    ]
   },
@@ -3138,13 +3235,13 @@
    "results": [
     "https://note.com/zephel01/n/n42f04bb3e886",
     "https://dev.classmethod.jp/articles/typesafe-jev-table/",
-    "https://note.com/tsukurun_d7/n/n154aa2d84bae",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://note.com/michibikugroup/n/n138dc00939ca",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
     "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://note.com/tsukurun_d7/n/n154aa2d84bae",
+    "http://web.tuat.ac.jp/~nakagawa/pub/2015/pdf/PRMU2015-135(%E8%A8%98%E8%BF%B0%E5%BC%8F%E5%95%8F%E9%A1%8C%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E7%AD%86%E8%A8%98%E5%9B%9E%E7%AD%94%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E8%AA%8D%E8%AD%98%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%AD%A3%E8%AA%A4%E5%88%A4%E5%AE%9A).pdf",
     "https://www.iskc.co.jp/column/example/107/"
    ]
   },
@@ -3157,9 +3254,10 @@
     "https://data-viz-lab.com/name-collection",
     "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
     "https://mazrica.com/product/businesslab/dx/about-name-identification-tools/",
-    "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
     "https://totono.sc-consulting.co.jp/blog/nayose-toha.html",
-    "https://usonar.co.jp/blog/6065.html"
+    "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
+    "https://usonar.co.jp/blog/6065.html",
+    "https://www.iskc.co.jp/column/example/107/"
    ]
   },
   {
@@ -3168,12 +3266,12 @@
     "https://funnel-ai.jp/media/crm-nayose/",
     "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
     "https://mazrica.com/product/businesslab/dx/about-name-identification-tools/",
-    "https://suuteki.ai-yobikou.com/field/judgment/sp-04/text",
-    "https://note.com/atstream/n/n15ddcade7e85",
     "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://suuteki.ai-yobikou.com/field/judgment/sp-04/text",
     "https://www.jpo.go.jp/system/laws/rule/guideline/patent/handbook_shinsa/document/index/app_d2.pdf",
     "https://salesnow.jp/media/125/",
-    "https://tsuchiyalab.com/products/falsify",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/ai-record-linkage-strategy/",
+    "https://data-viz-lab.com/financial-data-cleansing",
     "https://www.iskc.co.jp/column/example/107/"
    ]
   },
@@ -3181,14 +3279,14 @@
    "query": "entity resolution gold standard labeled pairs evaluation precision recall manual review",
    "results": [
     "https://arxiv.org/html/2607.26298v1",
-    "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "https://dl.acm.org/doi/10.1145/3828660",
+    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
     "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "https://vldb.org/pvldb/vol3/R18.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
-    "https://medium.com/@adev94/entity-resolution-an-introduction-fb2394d9a04e",
-    "https://www.getgalaxy.io/articles/what-is-entity-resolution-techniques-tools-use-cases",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
     "https://arxiv.org/html/2404.05622"
    ]
   },
@@ -3211,11 +3309,11 @@
    "query": "site:x.com 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）",
    "results": [
     "https://x.com/wired_jp/status/2085244528185975179",
-    "https://x.com/AISTATSCH/status/2101855859781623962",
     "https://x.com/yuketsu_logic/status/2114480119276523921",
-    "https://x.com/sharo_kakomon/status/2116031914272575767",
     "https://x.com/triangle_chain/status/2116038822903546140",
     "https://x.com/sharo_kakomon/status/2116388617761530014",
+    "https://x.com/nagato_nock/status/2113843432598974604",
+    "https://x.com/ecojojo24/status/2107630025491255662",
     "https://x.com/gembashift_jp/status/2100917816899862634"
    ]
   },
@@ -3227,19 +3325,19 @@
     "https://www.linkedin.com/posts/issei-takahashi-233022172_生成aiが自社の決算の数字を間違えていないかを継続して確かめるための照合テストの-activity-7520742180177498112-L8fK",
     "https://www.linkedin.com/feed/update/urn:li:activity:7347495354709196801/",
     "https://jp.linkedin.com/posts/yuukimiyake_生成aiによるoffice資料作成で本当に難しいのは生成ではなく検収かもしれません-activity-7509301211054129152-jmkz",
-    "https://jp.linkedin.com/posts/kenya-sakurai-65790218b_請求書処理をaiで自動化すると聞くとocrで読み取れば終わりと思われがちです-activity-7480733712117178368-v-Ul",
-    "https://jp.linkedin.com/posts/hiroyuki-nagase_便利になっただけでは外注した自動化の受け取り条件になりません-依頼する前-activity-7520673253854642176-Lb_v"
+    "https://jp.linkedin.com/posts/hiroyuki-nagase_便利になっただけでは外注した自動化の受け取り条件になりません-依頼する前-activity-7520673253854642176-Lb_v",
+    "https://jp.linkedin.com/posts/kenya-sakurai-65790218b_請求書処理をaiで自動化すると聞くとocrで読み取れば終わりと思われがちです-activity-7480733712117178368-v-Ul"
    ]
   },
   {
    "query": "site:facebook.com 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）",
    "results": [
+    "https://www.facebook.com/anlabjp/videos/製造業の図面業務をaiでもっと効率的に図面リーダーではaiが図面から必要な情報を自動で読み取りデータとして整理管理できます図番や部品名材質などから必要な図面をす/1395844352526726/",
     "https://www.facebook.com/NipponSoftOfficial/photos/ma合併後の顧客データの統合でお困りではありませんかmaにともなうシステム統合ではデータの品質整合性の壁名寄せの難しさといった課題をいかに解決していくかが顧客デ/122278510886231505/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/anlabjp/videos/製造業の図面業務をaiでもっと効率的に図面リーダーではaiが図面から必要な情報を自動で読み取りデータとして整理管理できます図番や部品名材質などから必要な図面をす/1395844352526726/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/",
     "https://www.facebook.com/hiroshi.nakata.1447/videos/福岡で電気工事の担当者が自分都合で作ってみてますきっと役に立つはず️今回は火が付いた現場に入った何が正解か分からない施工図ないプロット配置️原設計を元に図面を書/1049181820860584/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-照合機能シーケンサとパソコンにバックアップしている-gxworks3-のプロジェクトが不一致となって困ったことはありませんかその/595314109421130/"
    ]
   },
@@ -3248,14 +3346,13 @@
    "results": [
     "https://note.com/michibikugroup/n/n138dc00939ca",
     "https://www.astrsk-inc.com/9a5a22c0ccf5484ab6fe1bb04da0c6ac",
-    "https://note.com/sakusaku_excel/n/n826880608161",
     "https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96",
-    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "https://suuteki.ai-yobikou.com/field/judgment/sp-04/text",
+    "https://note.com/neroarc92f/n/n4420cc9cbf28",
     "https://kisuki-e.esnet.ed.jp/json/blogs/saveLikeJson/1/67/3637",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
-    "https://www.iskc.co.jp/column/example/107/"
+    "https://www.creativehope.co.jp/crh_media/media/name-collection.html",
+    "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
+    "https://note.com/sakusaku_excel/n/n826880608161",
+    "https://japan.zdnet.com/article/35253080/5/"
    ]
   },
   {
@@ -3263,43 +3360,145 @@
    "results": [
     "https://note.com/aikachan_ai/n/nb85992f9c0b6",
     "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14736",
-    "https://suuteki.ai-yobikou.com/field/judgment/sp-04/text",
     "https://exploratory.io/note/exploratory/Exploratory-AI-qAH2IfR0",
-    "https://x.com/ZHANGHAO_JP/status/1923000253084729747",
     "https://d-m-f.jp/blog/0035-2/",
-    "https://cyberarts.tokyo/hanrei/saiko/2020-07-21/h30-ju-1412/",
-    "https://www.youtube.com/watch?v=XvsAoz75x-w",
-    "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-91494.pdf",
+    "https://x.com/ZHANGHAO_JP/status/1923000253084729747",
+    "https://japan.zdnet.com/article/35253080/5/",
+    "https://innoventier.com/archives/2023/04/14890",
+    "https://www.gojo-partners.com/column-ps/6491/",
+    "https://gkchizai.exblog.jp/26787971/",
     "https://www.iskc.co.jp/column/example/107/"
    ]
   },
   {
    "query": "entity resolution gold standard labeled pairs evaluation precision recall manual review site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/adityabhosle-x",
     "https://www.linkedin.com/posts/ggospodinov_aligning-multimodal-patient-evidence-with-activity-7513335357300621312-p4mp",
     "https://www.linkedin.com/in/munimahmedprogrammer",
+    "https://www.linkedin.com/in/adityabhosle-x",
     "https://www.linkedin.com/in/cbratkovics",
-    "https://in.linkedin.com/in/saurabhgupta18891",
     "https://www.linkedin.com/in/davy-weissenbacher-13b9658",
     "https://www.linkedin.com/in/sarangbathalapalli",
+    "https://in.linkedin.com/in/saurabhgupta18891",
     "https://www.linkedin.com/in/shreyaskulkarniprofile",
     "https://www.linkedin.com/in/mepuka-kessy-7545a1383",
-    "https://pt.linkedin.com/in/kedarrpatil"
+    "https://ro.linkedin.com/in/anca-i-5a5a8511a"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Two unsupervised methods are proposed by Fellegi and Sunter to estimate the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can then be estimated from the observed frequencies of agreement or disagreement between these fields. In particular, they derived analytical formulas to estimate",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") extended the above estimation methods by proposing the use of the expectation-maximization (EM) algorithm to estimate the",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), provide estimates of the parameters λ,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "distributions are known or can be adequately estimated. To be practically feasible, their estimation relies on simplifying assumptions that usually do not hold. For one thing, the estimation methods discussed so far require conditional independence between the comparison of different record attributes, given the true match/nonmatch status of the record pairs. Smith and Newcombe (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), for the matching of the 1990 Census with the post-enumeration survey, thresholds were set “by ‘eyeballing’ lists of pairs of records brought together as candidate matches.” Part of the reason is that the error rates fixed in the Fellegi-Sunter framework, as well as the false match rates estimated using",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") extended the above framework for bipartite record linkage. In addition, the authors derive Bayes estimates under a general class of loss functions, which provides an alternative to the Fellegi-Sunter decision rule. Both the work of Sadinle (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
-    "quote": "典型的な失敗パターンを把握した上で、継続的に機能させる仕組みをセットで設計することが重要です",
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "quote": "Conceptualization, Funding acquisition, Methodology, Project administration, Software, Supervision, Validation, Writing - original draft",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "This PDF file includes:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sciadv.abi8021_sm.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(573.4KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A. McCallum, K. Bellare, F. Pereira, A conditional random field for discriminatively-trained finite-state string edit distance. arXiv:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (193.1 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "), the use of a uniform prior on the set of links or nonlinks, in practice, leads to one having a biased estimation of the sample. This, in turn, led to the development of subjective priors on the linkage structure, which have appeared in (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Big data, selection bias, and the statistical patterns of mortality in conflict. SAIS Rev. Int. Aff.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation approaches and a new public tool leveraging labeled records. Res. Policy",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Size-biased sampling of Poisson point processes and excursions. Probability Theory Related Fields",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T14:42:32.210314+00:00"
 }

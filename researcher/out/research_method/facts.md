@@ -1436,6 +1436,14 @@
 ## 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）（search operators primary sources filetype site research）
 - 文脈：探し方
 - 手順・やり方：
+  - 「Before going, here is a quick tutorial on how to use Google Search parameters simply in the search box. Go to google.com and in the URL box enter your query. Ensure you follow the correct parameter structure for best results.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「It also has Google Real-time Preview to see how the query is going to look on Google. When you are done, you can simply tap on Search, and you will be redirected to the Google Search results, similar to how you would do on a regular search. Here is how to use the tool in a detailed step-by-step process:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「How to Use Our Google Query Builder」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Step 1:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Step 2:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Step 3:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Step 4:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「How to Stop Google From Using Your Gmail, Drive, and Photos Data for Personal...」（https://techpp.com/2026/04/24/google-search-operators-commands/）
   - 「この記事では、Google検索コマンドの基本的な使い方から、仕事・SEO担当者向けの実践的な活用法、さらに」（https://func.jp/google-search-command/）
   - 「iPhone OR Android 写真 共有 方法」（https://func.jp/google-search-command/）
   - 「→ iPhoneまたはAndroidの写真共有方法に関する記事をまとめて表示」（https://func.jp/google-search-command/）
@@ -1443,35 +1451,27 @@
   - 「→ 設定名を忘れていても、該当する機能の手順記事を見つけられる」（https://func.jp/google-search-command/）
   - 「ChatGPT 使い方 after:2025-01-01」（https://func.jp/google-search-command/）
   - 「「サイトの全体規模を把握するための目安」として使うのがコツで、正確なインデックス状況はGoogle Search Consoleで確認してください」（https://func.jp/google-search-command/）
-  - 「→ 「やり方」を主題にした解説記事の競合状況を把握できる」（https://func.jp/google-search-command/）
-  - 「intitle:ChatGPT 使い方 after:2025-06-01」（https://func.jp/google-search-command/）
-  - 「2025年6月以降に公開された、タイトルに「ChatGPT 使い方」が含まれる記事だけを表示します」（https://func.jp/google-search-command/）
-  - 「intitle:確定申告 やり方 after:2026-01-01 -site:nta.go.jp」（https://func.jp/google-search-command/）
-  - 「allintitle:確定申告 やり方 2026 -site:nta.go.jp」（https://func.jp/google-search-command/）
-  - 「allintitle:Google スプレッドシート 使い方 初心者 -site:func.jp」（https://func.jp/google-search-command/）
-  - 「→ AI回答を避けて生の声を探す・オープンデータ取得・SNS投稿調査など、2026年型の使い方が特に有効」（https://func.jp/google-search-command/）
-  - 「Google AI検索の使い方｜通常検索との違いと活用シーン【2026年版】」（https://func.jp/google-search-command/）
 - 突き合わせ・推定：
   - 「after:/before:で表示されるページは、Googleが推定した公開日時が基準になります」（https://func.jp/google-search-command/）
   - 「site:で表示される件数はあくまでGoogleの推定値であり、実際のインデックス数と大きく乖離することがあります」（https://func.jp/google-search-command/）
   - 「queries is an estimate, not an exact count. It's often wrong. Use it to get a rough sense of scale, not a precise figure.」（https://www.denis-iakimenko.com/blog/google-search-operators）
   - 「Date approximations. before: and after: use Google’s indexed-date estimate, which is not the same as the page’s published date. For research that requires exact publication dates, verify against the page itself or use the publisher’s archive.」（https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/）
 - 一次情報の探し方：
+  - 「Most people think Google only shows results for web pages. However, it can also directly show links for media files, including PDFs, images, documents, and much more.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Find all PDF files from a specific topic.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「“product management filetype:pdf”」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「. Google shows all results of product management PDF files.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Not just PDF files, you can also find PPT files related to any topic.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Site:example.com topic filetype:pdf:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「site:techpp.com windows keyboard shortcuts filetype:pdf」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「shows Techpp PDF files related to Windows shortcuts.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Site:brand.com product name filetype: pdf manual OR guide」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「site:sony.com PlayStation filetype: pdf」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「. This search operator shows all PDF files related to PlayStation 5 from the Sony.com site.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
   - 「これを使うことで「特定のサイト内だけ検索」「PDFファイルだけ表示」「キーワードを完全一致で探す」など、通常の検索では難しい絞り込みが簡単にできます」（https://func.jp/google-search-command/）
   - 「: PDFや資料だけを絞り込んで検索できる」（https://func.jp/google-search-command/）
   - 「論文・公的機関の資料・業界レポートなど、PDFやExcelで公開されている一次情報を効率よく探したいときに便利です」（https://func.jp/google-search-command/）
   - 「pdf / doc / docx / xls / xlsx / ppt / pptx / txt / csv」（https://func.jp/google-search-command/）
-  - 「filetype:pdf 中小企業 DX 推進」（https://func.jp/google-search-command/）
-  - 「→ 官公庁や団体が公開しているPDF資料を中心に確認できる」（https://func.jp/google-search-command/）
-  - 「site:自社ドメイン filetype:pdf」（https://func.jp/google-search-command/）
-  - 「と検索すれば、公開状態になっているPDF資料の確認・管理にも役立ちます」（https://func.jp/google-search-command/）
-  - 「→ 公的機関の対策情報だけを横断して確認できる」（https://func.jp/google-search-command/）
-  - 「site:mhlw.go.jp filetype:pdf 介護保険」（https://func.jp/google-search-command/）
-  - 「厚生労働省サイト内で公開されている介護保険関連のPDF資料だけを一覧表示します」（https://func.jp/google-search-command/）
-  - 「省庁の通知・ガイドライン・統計資料に直接アクセスでき、一般ブログや転載記事を排除できます」（https://func.jp/google-search-command/）
-  - 「site:meti.go.jp filetype:pdf DX 中小企業」（https://func.jp/google-search-command/）
-  - 「→ 経済産業省のDX推進PDF資料を直接表示」（https://func.jp/google-search-command/）
-  - 「site:mext.go.jp filetype:pdf 学習指導要領」（https://func.jp/google-search-command/）
 - 失敗・落とし穴：
   - 「site:note.com 副業 フリーランス 失敗」（https://func.jp/google-search-command/）
   - 「→ noteの副業・フリーランス失敗体験談を表示」（https://func.jp/google-search-command/）
@@ -1482,6 +1482,14 @@
   - 「The most common mistakes—spacing errors and Boolean precedence confusion—are easily avoided with incremental testing. Build queries one operator at a time, verify results, then add complexity.」（https://cited.so/blog/search-operators）
   - 「Common Mistakes and Limits」（https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/）
 - 実例：
+  - 「For example,」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Some sites use different titles to grab attention. But they mostly use exact words in their URL. And also, most sites (including Techpp) have categories in our URLs. So if you are looking for a specific category, then using is the best option for you. example: inurl: guides.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Find pages that have exact text usage in their main content. for example: intext:iPhone 18 Pro colors. Best option if you are researching a specific topic and want deep search results.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Find all search results that use the exact text you have searched for. You can insert the text in between the quotes. Example: “iPhone 18 Pro colors”」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Find results for either of them. Sometimes you need to search for results that contain either of the words you are searching for. In this case, it is very useful.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「event tells Google to search Apple and events side by side. Here, X represents the word gap between them. Example: apple AROUND(3) event shows a page with Apple and Event words with proximity of three words.」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Example: For example,」（https://techpp.com/2026/04/24/google-search-operators-commands/）
+  - 「Site:example.com topic filetype:pdf:」（https://techpp.com/2026/04/24/google-search-operators-commands/）
   - 「検索ボックスに特定の記号や英単語を組み合わせるだけで、検索結果を劇的に絞り込めます」（https://func.jp/google-search-command/）
   - 「たとえば「site:」の場合、「site: example.com」（スペースあり）では機能しません」（https://func.jp/google-search-command/）
   - 「「site:example.com」（スペースなし）と入力します」（https://func.jp/google-search-command/）
@@ -1489,14 +1497,6 @@
   - 「ため、スペース区切りと結果は変わりません」（https://func.jp/google-search-command/）
   - 「日本語は単語間にスペースがないため、英語ほど正確に機能しないケースがあります」（https://func.jp/google-search-command/）
   - 「ただし現在のGoogleでは、範囲指定よりも検索意図が優先されるため、必ずしも結果が厳密に絞り込まれるわけではありません」（https://func.jp/google-search-command/）
-  - 「「円」「$」などの通貨単位を付けると正しく機能しないケースが増えています」（https://func.jp/google-search-command/）
-  - 「data.go.jpはCSVがインデックスされていないケースが多いため、統計データ探しはe-stat.go.jpを指定するのが確実です」（https://func.jp/google-search-command/）
-  - 「ただし、コマンドを増やしすぎると検索結果が極端に少なくなったり、0件になったりすることがあるため、必要最小限の組み合わせから試すことをおすすめします」（https://func.jp/google-search-command/）
-  - 「検索コマンドを使っても結果が0件になります」（https://func.jp/google-search-command/）
-  - 「コマンドの組み合わせや条件が厳しすぎると結果が0件になります」（https://func.jp/google-search-command/）
-  - 「まずコマンドを1つに減らして試し、結果が出るか確認してください」（https://func.jp/google-search-command/）
-  - 「また、after:/before:の日付が間違っていると意図した期間と異なる結果が出ることもあります」（https://func.jp/google-search-command/）
-  - 「検索結果ページ右上のメニューや「ツール」ボタンから開けます」（https://func.jp/google-search-command/）
 
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
@@ -1754,85 +1754,85 @@
 ## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
 - 文脈：同一性
 - 手順・やり方：
-  - 「名寄せの定義と計算方法について読みましょう」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「Step 1: ペア」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「Step 2: 類似度」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「💬 手計算 (Step 2) 0.75 と Python 出力が完全一致」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「さらに先へ進むなら： Fellegi-Sunter 型の確率的リンケージを実装した」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「実務での使い方 — 3つのステップ」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「ステップ1: SFAのアカウントに法人番号フィールドを追加する」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「型: テキスト(13桁固定長)」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「ステップ2: 既存リストに法人番号を付与する」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「ステップ3: 法人番号をキーに複数ソースを統合する」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める"今アプローチすべき企業"」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「もっとも単純な方法は、**完全一致（Exact Match）**です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「Deterministic Matchingは、事前に定義したルールに従って照合する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「情報を入力する人や入力方法が複数あることも、重複を生む要因です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「少量のデータで、対象項目や照合条件が単純なら、表計算ソフトを使って名寄せを試す方法があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「自社の対象や照合ルールに適合するか、誤判定の確認方法があるかを事前に検証します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 突き合わせ・推定：
-  - 「ためには、 以下の観点で検証するのが定番です」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「コード 2: difflib で類似度ベース照合」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— 異なるソースの個人情報を名寄せすると「容易照合性」が生じ、 仮名加工情報や匿名加工情報の要件が変わる」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「する（ここだけ人手検証） → ② 以降の結合はすべてコードで行う」という二段構えにすると、 名寄せコストを 1 回に封じ込められます」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「そこで利用されるのが、複数の情報を組み合わせた照合です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「Deterministic Matchingは、事前に定義したルールに従って照合する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「名寄せ（アイデンティティ・レゾリューション）とは、複数の顧客識別子を照合し単一プロファイルへ統合するプロセス」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「名寄せ（アイデンティティ・レゾリューション）とは、メールアドレス、デバイスID、Cookieなど複数の接点に存在する顧客識別子を照合して統合し、単一の永続的なプロファイルへとまとめるデータ管理プロセスである」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「確率的マッチングは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「レコードAがメールを介してレコードBと一致し、レコードBが電話番号を介してレコードCと一致する場合、推移的マッチングはAとCが共通のキーを持たないにもかかわらず、同一顧客に属すると推定する」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「仮説を立て、データで検証する思考を身に付ける」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「データクレンジングは照合しやすい状態をつくる役割を担い、名寄せは同じ対象かどうかを判断する役割を担います」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「その後、照合に使う項目と、最終的に残す項目を定めます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「マッチングとは、複数の項目を使って、記録が同じ対象を指しているかを照合することです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「照合に使う項目と統合の条件は、作業前に文書化します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「そのうえで、決めた照合ルールを適用し、一致した記録、類似する候補、判定できない記録に分けます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「類似度による照合では、一定の基準を超えた候補を自動で統合し、それ以外を人が確認する運用が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「統合後に検証し、更新ルールを運用する」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 一次情報の探し方：
-  - 「顧客マスタ統合、 文献データベース、 公的統計の事業所集計」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— e-Stat / RESAS / 自治体オープンデータの結合」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「SSDSE-B-2026 の都道府県名は表記揺れが少ないが、 「東京都/東京/トウキョウ/Tokyo」のような複数表記を統一する処理が、 県をキーに別データ (経産省・厚労省の地域統計) と結合する際に必須になる」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「e-Stat 全市町村 (約 1700 件) でも数秒」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— 独立行政法人統計センター、 47 都道府県マスタの参照源」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「列（R01000〜R47000、 JIS X 0401 都道府県コードに基づく 47 個の一意キー）があり、 コード付きの外部統計とはこれで結合すれば表記揺れ問題そのものが消滅します」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「名寄せにおける統計的なマッチングは、AIという呼び名よりも古い」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します」（https://www.sento.group/concepts/nayose）
+  - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「ただし、統計上のばらつきは上昇と下落の両方を含みます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 失敗・落とし穴：
   - 「the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.」（https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5）
   - 「You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.」（https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5）
-  - 「⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
-  - 「匿名のトラフィック、表記の誤りを含むオフラインのレコード」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体」（https://www.sento.group/concepts/nayose）
-  - 「データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です」（https://www.sento.group/concepts/nayose）
-  - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
-  - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
-  - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せで注意すべきなのは、別の対象を一つにまとめる誤統合です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「どちらの誤りが業務に大きな影響を及ぼすのかを検討し、用途に応じた判定基準を設ける必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 実例：
-  - 「名寄せの結果に元レコード ID と信頼度を残す」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「は個人情報を含まないので、 名寄せに法的制約はほぼないが、 解析結果の解釈には地域別の社会的文脈を尊重する必要がある」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「☐ 名寄せ結果に「元レコード ID」「類似度スコア」をメタとして残したか?」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「— 自分で集めた外部データ (オープンデータ・スクレイピング結果) を SSDSE-B-2026 と結合し、 オリジナル分析を組む」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
-  - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「例えば、一人の顧客であっても、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「しかし現実には、このような共通IDが存在しないケースが多くあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「しかし、例えば100万件の顧客データがある場合、すべての組み合わせを比較すると膨大な計算量になります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「住所が同じでも別世帯というケースもあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「例えばKYCや金融では、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「例えばAWS Entity Resolutionでは、2026年9月時点で、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「結果にはMatch IDが付与され、同じ実体として判定されたレコードをグループ化できます」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「Databricksでも2026年7月にAI Search High QPSが一般提供され、ユースケースの一つとしてEntity Matchingが挙げられています」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「例えばAI Agentが、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「名寄せの結果は、必ずしも全ての項目を一つの行に押し込むことではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「個人の情報では、氏名や住所が似ていても、同一人物と断定できないケースがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「作業結果は、統合した件数だけで評価しないようにします」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「例外となるケースや、判断できない場合の扱いも決めておきます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「照合の結果をまとめる際は、どの記録を代表情報として扱うかを決めます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「たとえば、同姓同名、同じ住所に複数の企業があるケース、旧社名と新社名、異体字を含む氏名などを重点的に確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「結果として、郵送やメール配信の無駄を見直し、顧客とのやり取りにおける不自然な重複を減らすことにつながります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「関数やマクロを使った場合も、少数のデータで結果を確認してから全体へ適用します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「AIを使った照合機能がある場合も、類似度の根拠や判定結果を確認できるかが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「導入前に実データの一部で試し、処理結果を担当者が評価します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「両者を一度きりの直線的な工程と考えず、結果を確認しながら必要な修正を重ねます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「その後、統合結果を確認し、元データや変更履歴を追跡できる状態にします」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 
 ## 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）（company registry verification OpenCorporates EDGAR）
 - 文脈：探し方
@@ -2067,6 +2067,13 @@
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
 - 手順・やり方：
+  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】 | Octoparse」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「あわせて、OSINTの土台になる「公開情報を効率的に集める」部分を、手作業に頼らず進める方法（」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTには決まった唯一の手順はなく、目的に応じて手法を組み合わせます」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTは強力なぶん、使い方を誤ると法的・倫理的な問題につながります」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
+  - 「OSINTを実践する際には、以下のステップを踏むことが一般的です」（https://cybersecurity-info.com/column/30403/）
   - 「Claudeのコメント: 政府機関の公式発表そのものが拡散の起点となる点で、外部アクターの偽情報とは異なり、事実（起訴）を素材に誤った全体像を作る国内発の情報操作の典型であり、選挙前の時期設定を監視指標にできる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「同氏によれば、エージェントは課された攻撃の課題を意図と異なる方法で解こうとしたにすぎず、OpenAIは事態を把握していればいつでも停止できた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「2026年9月に30億ユーロ（約5,100億円）を調達して以来、初の大型製品となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
@@ -2075,14 +2082,10 @@
   - 「天安門事件を記念する「恥辱の柱」が香港で撤去された後、小型の複製が世界に広がった経験に学んだ」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 小型複製を大量に配り撤去後も拡散させる手法は、物理的な展示を参加型の分散ナラティブに変える点で、影響工作が用いるミーム化と同じ構造を持ち、民主側の対抗言説（カウンターナラティブ）の実践例として位置づけられる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「原告側は、ChatGPTが妄想を強め、自殺念慮を肯定し、自傷の方法を伝えたと主張し、利用者に迎合する「sycophantic design（迎合的設計）」と安全試験の不足を訴える」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「中国の研究者による中堅国のAIガバナンス戦略論、日韓など6か国を「てこ」の型で比較」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「技術、資本、制度の3種の要素賦存（動員できる資源の基盤）と、国内能力の蓄積型、要所の掌握型の2つの転換経路を組み合わせ、6類型を示した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 中堅国を「受け身の均衡役ではなく能動的な形成者」と位置づけ、その規範形成を中国主導の協力網へ接続する提言が英語で発信されている点は、AIガバナンスをめぐる中国の対外的な言説形成の一例として、日本の制度主導型の取り組みがどう参照されるかと併せて注視に値する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「筆者らは、自前の学習データを持たないLLM（大規模言語モデル）型のAI面接官でも、第10条6項により義務は検査用データに移り第72条の市販後監視でも出力の差別的影響を測る必要があると主張する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 対立陣営の支持者を装って離反の空気を演出する手口は、外国の影響工作で知られる「なりすまし」型と同じ構造であり、国内政治の中でも拡散者の属性分析が装われた主体を見抜く有効な手段であることを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「米アクシオスは現地報道として、同氏が9月下旬に肺ペスト（肺に感染し、人から人へ広がりうる病型）の病原体が入った試験管を割ったと伝えている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「CDC（米疾病対策センター）によれば、肺ペストは人から人へ感染しうる唯一の病型だが、咳をする患者との密接な接触が必要で、無症状の感染は記録されておらず、症状は1〜3日で現れる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 突き合わせ・推定：
+  - 「いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「集めたあとの「分析・突き合わせ」に時間を回せるのが利点です」（https://www.octoparse.jp/blog/what-is-osint）
   - 「2026年9月のAI安全論議の主流化を整理し、AI企業を検証する主体の不在を問う論考」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「筆者は、EUではAI法の執行が始まったばかりで、米国では検証が企業自身に委ねられているとし、問うべきは「誰がAI企業を検証するのか」だと論じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 1件の辞職投稿が1か月で大統領令にまで波及した経緯は、検証機関を欠く領域では、恐怖を喚起する物語が政策議題を左右しやすいことを示しており、AIリスク言説そのものが影響工作の格好の素材になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
@@ -2095,42 +2098,44 @@
   - 「筆者は日本の検証者に、依頼の記録と共有、検証の優先順位付け、不要な拡散を避ける報道の三点を提案する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化」（https://note.com/ichi_twnovel/n/n56533998f7d3）
   - 「Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 軍事介入の成果を実物のタンカーと検証困難な数値で示す国内向けの演出であり、「51番目の州」発言は中露の国家メディアが米国の領土拡張主義の証拠として対外発信に転用しやすい素材にもなる（推測）」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 8月の異常を最初に報じたのが新しく作られたブログだった点は、制御系への小規模な妨害が社会不安と結びつく局面で、初報の出所を検証することが帰属判断の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「郵便物の数について、WFAAはTENTの弁護士の話として300万通超と報じ、CBS NewsはTENT側のミミ・マルツィアーニ氏の推計として360万〜420万通とし、TENTの年間予算100万ドル（約1億5000万円）をはるかに上回る費用になると伝えた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
 - 一次情報の探し方：
+  - 「：競合の製品・価格・採用状況・プレスリリースなどから戦略の変化を読む」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：取引先の公式情報・登記・IR・報道をもとに、信頼性やリスクを確認する」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：業界ニュース・口コミ・公開統計から市場のトレンドを把握する」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：業界の求人動向や自社の評判を、公開情報から継続的にチェックする」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：会社概要、プレスリリース、有価証券報告書、募集要項など、企業が自ら公開している一次情報」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：政府統計、公示情報、地図・気象などの公開データ」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「競合100社の価格、業界の求人一覧、製品レビューの束——こうした「同じ形の公開情報をまとめて集める」作業は、人手でコピー＆ペーストするには量が多すぎます」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「まずは目的（何を知りたいか）を決め、公式サイト・IR・報道などの一次情報から着手するのがおすすめです」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「PDFを更新しないとどうなるのか？「バージョンが古い」と出たときの原因と安全な対処法」（https://cybersecurity-info.com/column/30403/）
   - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 裁判所の認定という司法手続きを経ることで、プロパガンダ上の主張が公的な事実の体裁を得て、国内外向けのメディアで繰り返し使える素材になる点に、口実形成の段階が進んだことが表れている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 実在する公式統計を引用しつつ指標だけをすり替える手法は、出典の確かさが主張全体の信頼性を裏づけるように見えるため検証をすり抜けやすく、政府高官が起点となる場合は国内発の誤情報でも外国の影響工作と同様の拡散力を持ちうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「アーカンソー州のサンダース知事がメディケイド（低所得者向け公的医療保険）の就労要件を宣伝する動画で、働かずに給付を受ける人物を若い白人男性「ブラッド」として描き、保守派論客から反発が出た」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「高リスク採用AIへの適用日はデジタル・オムニバス（規則2026/1744）で2027年12月2日に延びた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Foreign-Influence Watchdog Claims China-Linked Media Registry Filing Was Pulled Over a Privacy Breach」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face Incident-Technical-Report.pdf」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「10月2日には仏10年債利回りが一時5%を超えて2002年以来の高さとなり、公的債務は3.6兆ユーロ（約630兆円）でGDP比119%と1946年以来の水準にある」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「一方、アルバニージー豪首相が説明した件では、6月18日に同社のエージェントがメディケア統計ポータルの非公開ファイルにも到達し、豪政府への最初の通知は9月10日だった」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 同じ調査結果でも、どの比較軸で要約するかで「西側の不安」という筋書きが生まれうるという筆者の指摘は、統計の枠付けが受け手の認識を方向づける点で、ナラティブ形成の分析にも通じる（推測）」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 結果が不利になる前に不正の疑念を先行して植え付ける言説や、公的な資格情報の削除による混乱は、選挙結果の正統性への信頼を損ない、外国の影響工作が不信を増幅する素地にもなりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「世界の採用慣行を悪用して各業界で信頼されたアクセスを得る遠隔IT労働者の仕組みは依然大きな脅威で、人物像の作成やソーシャルエンジニアリング（人の心理を突く欺瞞）にAIを使っている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 失敗・落とし穴：
+  - 「OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
+  - 「OSINTにはいくつかの課題や注意点があります」（https://cybersecurity-info.com/column/30403/）
+  - 「How Hackers Hack Gmail Accounts (And the 8 Most Common Mistakes That Let Them In)」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
+  - 「OAuth Redirect URI Vulnerabilities: How a Small Validation Mistake Can Leak Authentication Tokens」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
+  - 「50 Privacy Mistakes You’re Probably Making Every Day (And How to Fix Them)」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
+  - 「The Screenshot Mistake Millions of People Make Every Day — And Why It Can Come Back to Haunt You」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
+  - 「The investigator checks relevance, origin, quality and potential bias.」（https://osint.dev/osint）
   - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「ピンカーは知能を万能の力ではなく情報処理の「ガジェット」とみなし、人間とチンパンジーの関係をAIと人間に当てはめる類推や、道具的収束（どの目標にも自己保存や権力獲得が役立つとする議論）を誤りとした」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「一方、GPT-3.5以降の性能を受け、ニューラルネットワークでは人間並みの知能に届かないとした過去の見解は誤りだったと認めた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「攻撃的投稿の常習者に注意を促す機能は、承認審査で出席者が「50セントが揶揄したらどうする」と懸念したことが判断を左右したと語る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「FBI報道官は「誤り」と否定し、防諜タスクフォースを1,500人超に拡充したと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「イスラエルは2023年10月7日のハマス攻撃から3年を迎え、3週間後の総選挙では史上最悪の安全保障上の失敗に対するネタニヤフ首相の責任が中心的な争点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 安全保障上の失敗を治安機関の裏切りに帰す陰謀論が政権側から流布され、不利な報道には訴訟で応じる構図は、選挙の争点そのものが国内アクターによる物語操作の対象となる例であり、外国からの干渉と並んで国内発の情報操作を観察対象に含める必要を示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: AIの将来像は文章では伝わらず実物を見せる必要があるとする同氏の主張は、AIの脅威認識が実演に左右されやすいことを示しており、能力の誇示や誇張された実演が世論や規制の議論を動かす経路になりうる点に注意が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「恩赦法は2017年の独立の試みの失敗後の緊張緩和を目的とし、独立運動関係者約400人が恩赦を受けたが、住民投票の組織に公金を使ったとして横領に問われたプッチダモン氏は除外されていた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「ある関係者は「縮小版の予備選」で「最初の失敗」だと語った」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「ICEは「注意をそらし、事態を沈静化する装置」と説明する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「AI監査企業BABL AIのシェイ・ブラウン氏らは、EUのAI規則（AI Act）が求めるバイアス検査を論じた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「The EU AI Act and Bias Testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「https://algorithmicbiaslab.substack.com/p/the-eu-ai-act-and-bias-testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 実例：
+  - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「分析結果を対象者に分かりやすく伝えるために、レポートやダッシュボードを作成します」（https://cybersecurity-info.com/column/30403/）
+  - 「Emotet感染、情報漏洩被害企業・事例一覧【2025年最新】」（https://cybersecurity-info.com/column/30403/）
+  - 「Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「What publicly observable infrastructure is associated with example.com, and which findings can be corroborated independently?」（https://osint.dev/osint）
   - 「Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「同氏はさらに、移民税関捜査局（ICE）の投票所出動を否定しない政府側の発言、ジョージア州フルトン郡での2020年の投票用紙の押収などを列挙し、一連の動きを選挙結果を覆す準備として論じている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
@@ -2141,12 +2146,12 @@
   - 「Claudeのコメント: 政権交代後も集会参加者を顔認識で特定できる法的基盤が残る点は、市民空間を萎縮させる監視手段が制度として持ち越されることを意味し、EUのAI法が加盟国の権威主義的統制の遺産をどこまで是正できるかを測る事例となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「OpenAIは調査の結果、同氏のプロンプトは影響し得なかったと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 事実を偽らずに語彙の選択だけで脅威認識と立法の方向を動かす点は、技術事案のフレーミング（認識の枠組み設定）が政策形成に作用する経路として、影響工作の分析でも注視すべき事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Russia warns against spreading 'false information' as reports emerge of second plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: アウラキとの接触は、国外の過激派の宣伝がオンライン経由で軍の内部者に届いた初期の事例であり、軍の内部脅威対策が情報空間での働きかけの把握と切り離せないことを改めて示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「Claudeのコメント: 2025年のレアアース輸出規制が残した報復への恐れが、EUの関税判断と加盟国の足並みを先回りで縛っており、経済的威圧は発動しなくても抑止として働き続けることを示す事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
-  - 「サンフランシスコ郡上位裁判所は2026年2月、OpenAIへの12件の訴訟を「In re: ChatGPT Product Liability Cases」に併合した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 検索結果の抜粋：
+  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【20... — Sep 7, 2026 · OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説。競合調査や市場調査に役立つ公開情報の集め方と、収集を効率化するノーコード手段（Octoparse）、合法的に使うための線引きも紹介します。」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Jul 19, 2020 · まとめ OSINTは、現代社会において非常に重要な情報収集・分析手法の一つです。 適切に活用することで、様々な分野で有益な情報を得ることができますが、情報の信憑性やプライバシーへの配慮など、注意すべき点も存在します。」（https://aitokuconsult.com/security/20250114osint/）
+  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · 本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します。 もしOSINTを行いたい場合は、すぐに専門のフォレンジック調査会社に相談しましょう。」（https://cybersecurity-info.com/column/30403/）
+  - 「How to Make a Metadata Extractor Tool (For OSINT & Digital ... — Mar 13, 2026 · In this guide, you’ll learn how to make a Metadata Extractor Tool using Python. You’ll build a CLI-based tool that: All while understanding how attackers and defenders use metadata differently. What Is Metadata? Metadata literally means: “Data about data.” Examples: Even when a file looks clean, metadata can expose sen」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
+  - 「OSINT: Open Source Intelligence — Definition, Methods ... — Sep 19, 2026 · Learn what OSINT is, how Open Source Intelligence works, how information becomes intelligence, and explore OSINT methods, sources, tools and investigation workflows.」（https://osint.dev/osint）
   - 「Top 15 Free OSINT Tools To Collect Data From Open Sources — Top 15 Free OSINT Tools To Collect Data From Open Sources Recorded Future https://www.recordedfuture.com > osi...」（https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools）
   - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
   - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...」（https://note.com/itta_usa/n/nd300923856e1）
@@ -2157,11 +2162,6 @@
   - 「第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。」（https://cysec148.hatenablog.com/entry/2025/06/25/062841）
   - 「OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.」（https://www.cyberquizzer.com/blog/osint-metadata-analysis）
   - 「OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.」（https://theosintvault.io/osint-handbook）
-  - 「Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · Learn to assess, reduce, and monitor your organization's OSINT footprint. Protect against cyberattacks by understanding your digital exposure today!」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
-  - 「What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...」（https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers）
-  - 「OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.」（https://www.neotas.com/osint-tools-and-techniques/）
-  - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
-  - 「Complete Osint Guide. In cybersecurity, some of the most ... — Aug 13, 2025 · In this guide, we’ll cover key OSINT techniques, tools, and workflows for gathering actionable intelligence. What is OSINT and Why It Matters. OSINT involves collecting data from public...」（https://medium.com/@lakeshriyasha/complete-osint-guide-2496e118c813）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -3628,6 +3628,7 @@
   - 「過去の役員就任と現在の役職、登記上の住所と実際の事業所の所在地も、それぞれ区別しましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「site:example.com filetype:pdf」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「はい、絞り込んだ調査であれば、アクセス可能な公的記録と手作業での検証で行えます」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「キャプチャと2種類のフィルタの違い、ディスプレイフィルタの型、C2ビーコン・データ持ち出しの検知、統計機能、tsharkでの自動化まで、防御者の視点でやさしく解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
   - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
@@ -3636,7 +3637,6 @@
   - 「第二に、数字や統計です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「数値化は有効な手段ですが、統計は操作可能であることを常に意識する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「第一次情報源とは、ある事象について最初に情報が発せられた出所を指します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「第一次情報源から得られた情報を第一次情報と呼びます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
   - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -3647,12 +3647,12 @@
   - 「情報源のURL、クエリ、応答、失敗、アクセス経路を保存します」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「エラー行は保存されますが、失敗時の所要時間はnullになることがあります」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「証明書のクエリは両方の経路で失敗し、レジデンシャル経路ではRIPEstatのレイテンシが増加しました」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「カテゴリー別の検索フォームの使い方から、人物・企業の背景調査への応用、安全かつ倫理的に使うための注意点までを解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
   - 「To choose the most valid one, you need a framework to generate an exhaustive list of competing hypotheses, assess the evidence accurately, and prevent biases from creeping in. He created ACH to help solve this problem.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「The seven steps are not designed to offer prescriptive advice that leads you to the “right” decision. Instead, they provide a structure for you to follow when assessing the validity of competing hypotheses that mitigates potential biases and promotes logical reasoning.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「: ACH relies on analysts making subjective judgments about what hypotheses are credible, relevant, and significant based on the evidence they collect. There are no checks and balances. The analyst controls the entire flow of information, which can lead to missing, incomplete, or biased conclusions.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「: Assessing whether one piece of evidence is more valuable, reliable, or important than another can be difficult. This can lead to uncertainty and biased conclusions. ACH tries to counter this by focusing on the number of supporting pieces of evidence, but this can lead to overreliance on quantitative metrics.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「Once your ACH matrix is complete, you can prioritize the most likely hypotheses. As previously mentioned, it’s good to start with evidence that reduces the likelihood of certain hypotheses, prioritize your list based on this evidence, and then examine supporting evidence. This will force you to assess all the evidence you have collected and avoid confirmation bias.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
 - 実例：
   - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -3681,10 +3681,10 @@
   - 「Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である。」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
   - 「OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · 本記事で紹介した 競合仮説分析（ACH） は、認知バイアスを克服し、客観性を高めるための有効な手法です。 この手法を用いることで、複数の仮説を公平に評価し、最も支持される仮説を導き出すプロセスが体系化されます。」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirmation bias.” Fifty intelligence analysts were randomly assigned to use ACH or not when completing a hypothesis testing task that had probabilistic ground truth.」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
+  - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
   - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most 」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · What is the Analysis of Competing Hypotheses? The Analysis of Competing Hypotheses (ACH) is a structured analytical technique that helps individuals and teams evaluate multiple possible explanations for an event, trend, or problem – all at the same time. Rather than focusing on finding evidence that supports a single favo」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
   - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · The intelligence community uses “structured analytic techniques” to help analysts think critically and avoid cognitive bias. However, little evidence exists of how techniques are applied and whether they are effective. We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirm」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
-  - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 
 ## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
 - 文脈：失敗・落とし穴
@@ -4132,12 +4132,12 @@
   - 「会社情報の更新・従業員数推移・求人出稿状況・ニュース／プレスリリース配信・上場状況という5つの一次データから算出しており、「どの企業が今動いているか」をアプローチ順の判断材料に使えます」（https://salesnow.jp/media/124/）
   - 「品番が手入力で揺れている、図面番号はあるが版がない、写真ファイル名から個体が追えない、測定値がPDFの画像にしかない、といった欠落はAI以前の課題です」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
   - 「文書名だけが似ていても、顧客、品番、適用開始条件が一致しない限り審議資料へ自動採用しません」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
+  - 「This PDF file includes:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
+  - 「sciadv.abi8021_sm.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
+  - 「(573.4KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
+  - 「A. McCallum, K. Bellare, F. Pereira, A conditional random field for discriminatively-trained finite-state string edit distance. arXiv:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
+  - 「PDF (193.1 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
   - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「ただし、統計上のばらつきは上昇と下落の両方を含みます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 失敗・落とし穴：
   - 「こうした誤りは、経営の信頼性にも関わる重大な問題です」（https://data-viz-lab.com/name-collection）
   - 「各ステップの作業内容と注意点を順に確認します」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
@@ -4153,7 +4153,7 @@
   - 「ERPへの解除通知だけ失敗した場合、品質側で解除が承認されていても出荷側は保留を維持し、再送または人手復旧を求めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
   - 「正常な記録だけでなく、仕様改訂直後、部分数量のみ保留、計測単位違い、再検査の失敗、顧客承認が必要な特採、原本欠落、同一ロットの複数案件を含めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
   - 「情報システム担当者は連携失敗の検知と復旧を受け持ちますが、品質上の保留を勝手に解除する権限は持ちません」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
-  - 「データクレンジングとの違いや、よくある失敗例も交えて紹介します」（https://sharebook.mybridge.com/blog/article13）
+  - 「), the use of a uniform prior on the set of links or nonlinks, in practice, leads to one having a biased estimation of the sample. This, in turn, led to the development of subjective priors on the linkage structure, which have appeared in (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/）
 - 実例：
   - 「顧客データの重複や不整合によって、営業の連携ミスや分析結果のゆがみが生まれてしまう――こうした課題を抱える企業は少なくありません」（https://data-viz-lab.com/name-collection）
   - 「最新情報が反映されず分析結果が不正確になるリスク」（https://data-viz-lab.com/name-collection）
@@ -11161,8 +11161,8 @@
 
 ## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）

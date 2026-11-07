@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T10:23:53.322635+00:00",
+ "researched_at": "2026-11-07T15:24:33.444706+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -184,556 +184,250 @@
     "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事のような登記や測量の知識は、土地家屋調査士の試験の勉強でも、合格した後の仕事でも土台になります",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "土地の測量・境界の確認、建物の登記など、お仕事のご相談を受け付けています",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "三角測量結果の不確かさを定量化するため、画像ノイズから3D点座標誤差への伝播を解析します",
+    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
     "url": "https://note.com/witty_mango107/n/na39978bdd66e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "このdepth画像をstereoRectifyの結果と組み合わせて3D点に変換し、Visual SLAMまたはLiDAR SLAMの入力として使います",
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...【3軸で実践】インシデント報告書の書き方—経営会議を動かす構造 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
+    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
+    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Facebook この三角測量進程圖は二見鏡三郎 (安政3年 (1856)～昭和 6年 (1931) 内務省地理局から参謀本部陸地測量部に移り, 全国の三角測量に従事。 その後明治21年渡米して架橋 工事などを学び。鉄道技師,三高教授, 30年京都帝大教授。 東京大学卒の経歴。",
+    "url": "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2015.12.09 「三角測量進程圖」「三角及水準測量成果摘要・附図 」「... 1 878年（明治11）に下野（栃木県）の白山三角点 で初めて観測施行、三浦省吾、関野修蔵が担任し、1 879年（明治12）に基線南北端、八溝山、那須岳 を関大之（せき・だいし）、竹村五郎が担任、羽黒山 、八幡山、高原山、金北山、東教山を大川通久、真田 ...",
+    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "長嶋玲土地家屋調査士事務所 - 夏の夜空。はるか遠い星までの距離も三... Jul 25, 2023 · 夏の夜空。 はるか遠い星までの距離も三角測量の原理 で測られています。 地球の公転軌道の端から端まで (約3億km)を三角形の 底辺として、その各視準点から目標の星を観測した角 度（年周視差）が1秒角の距離が3.26光年（1パーセ ク）です。",
+    "url": "https://www.facebook.com/100088965797623/posts/夏の夜空はるか遠い星までの距離も三角測量の原理で測られています地球の公転軌道の端から端まで約3億kmを三角形の底辺としてその各視準点から目標の星を観測した角度年/242539952054863/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2015.12.09 「三角測量進程圖」「三角及水準測量成果摘要・附図 」「... 各種測器の総重量は約70貫、1人7貫、1里につ き賃金6銭、これに当たる人夫6名でしたが、これら の人夫には平素、回光儀の使用を熟練させ運搬以外は 1日30銭で常傭夫として採用しました。",
+    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "中尾仁彦の「函館ぶら探訪」 - 第217回八幡町・大川町・田家町巡り（... Sep 22, 2024 · 第217回八幡町・大川町・田家町巡り（その4） 道南の地図は、田家町の「大称寺」が基点 明治8年開拓使が三角測量で正確な北海道地図を作るため、一本木村（北斗市一本木）と亀田村（現函館市田家町）との間を三角測量の検基線に定め、両端に三角測量石を設置します。田家の基点は、大称 ...",
+    "url": "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... — Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
     "url": "https://note.com/witty_mango107/n/na39978bdd66e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "最低視差角チェック: 視差角が1度未満の三角測量結果は深度誤差が大きいため棄却します",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "再投影誤差チェック: 三角測量結果を全観測カメラに再投影し、全観測点での再投影誤差が閾値(通常2〜4ピクセル)以下のもののみ地図点として登録します",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スケール一致性チェック: ステレオまたはIMU統合の場合、三角測量結果の深度がスケール推定値と著しく異なる場合は棄却します",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どちらの立場を主張するかによって結果が異なります",
+    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もしある結果が1つの施設でのみ見られた場合、それは現象そのものではなく、その施設に関する何かを学んだことになります",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、同じインタビューガイドの中で2つの異なる質問形式を用いたり、クローズド質問とオープンエンドの自由記述の両方を含むアンケートを実施したりすることです",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これを適切に行うということは、調査結果を「一致」、「部分的一致」、「沈黙（一方にしか現れない）」、そして「不協和（不一致）」に分類することを意味し、これは最後に書く数行のパラグラフではなく、真に分析的な作業です",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、ある人がテレビCMでサービスを知り、数日後に名前で検索して買った、このとき記録に残るのは、最後の検索クリックだけ",
+    "quote": "3-2. 4つの道具を役割分担する｜三角測量の実践 | CMO1号 — Aug 1, 2026 · アトリビューション分析の数字をなんとなく信頼しきれていない——その感覚は正しいです。 MMM・アトリビューション・実験・調査、4つの道具を強みと弱みで使い分ける「三角測量」の考え方と、短期P/L・長期B/Sの時間軸を整理します。",
     "url": "https://1st-cmo.one/essays/measurement-triangulation",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ざっくり言うと、売上のような結果に対して、テレビ広告・デジタル広告・季節要因・競合の出稿状況などが、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する道具です",
-    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "quote": "研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている。 研究者は、三角測量を用いることで、単一の方法やデータソースに存在する欠点や偏りを減らそうとする。",
+    "url": "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "売上などの結果に対して、テレビ・デジタル・季節・価格といった要因が、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する手法です",
-    "url": "https://1st-cmo.one/essays/measurement-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道 - Mind the Graphブログ",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究方法論の広い世界において、信頼できる確かな結果を求める研究者にとっての道標として際立っている言葉がある",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この強力な手法は、研究結果の妥当性と信頼性を向上させる道筋を提供し、幅広い分野で広く認知され、重要視されるようになってきた",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究結果の妥当性、信頼性、徹底性を高めるために、複数の方法論や情報源を統合することを意味する",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果を相互検証し、パターンや矛盾を発見し、研究テーマをより包括的に把握するために三角法を用いることもある",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究結果の全体的な強度と信頼性は、多くの異なるタイプの三角測量によって強化され、それぞれに特定の利点がある",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究結果を裏付け、検証するために、研究者はインタビュー、調査、観察、既存の記録など、様々な方法を用いてデータを収集する",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数のデータソースを統合することで、研究者の結果の信頼性と頑健性を向上させることができる",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同じ現象を複数の視点から探るために、研究者は質的・量的方法、実験的・非実験的デザイン、ケーススタディ、調査など、さまざまな方法論を用いる",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それぞれの研究者がもたらす異なる視点、経験、バイアスは、他の研究者の調査結果をサポートし、検証することができる",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "複数の研究者が参加することで、互いの仮定や解釈を検証することができるため、研究プロセスがより厳密になり、最終的に信頼性の高い結果が得られます",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究結果を解釈するために、理論の三角測量では、複数の理論的枠組みや視点を用いる必要がある",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究における三角測量は、研究結果の全体的な質と信頼性に貢献する、いくつかの重要な目的を果たす",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "バイアスの可能性を低くし、調査結果の信頼性を高めることで、三角測量は研究の妥当性に貢献する",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一回の実験結果だけで結論付けるのは危険です",
+    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 社会科学の分野において、トライアンギュレーション (triangulation)という言葉があります。 日本語訳は、「三角測量」です。 測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました。",
     "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "※他者の実験結果の追試というのは、地味ですが実は非常に重要です",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同じ実験結果でもデータ処理を行う人によって、結論が変わる可能性があります",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実験結果から結論を出す場合に私自身が重要だと思っていることは、データソースを複数化することです",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "後日，他班の測量結果を入手し，自",
+    "quote": "4． 三角測量（基線測量・角測量） - 広島大学 — 1. 目的 基準点の位置を正確に知るための三角測量を体験する.工学部東側において,図 1 のような三角網を設置する.各班で 1 つの辺の基線長(Pn~Qn)と,2 つの頂点(Pn,Qn)に関わる全ての内角を計測する.",
     "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "・ 距離測量の結果は，補正後の平均値 D と標準偏差 Dm を， DmD r の形に表示する.",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・上記の観測値と昨年の観測値(データは配布する)の２対回分の結果を用いる．各測定",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "の内角の測量結果から，図形関係に",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "n+2班（2本南側）の基線測量結果を，",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "5～7班までは第 n− 2班（２本北側）の基線測量結果を，検基線長に用いる．角の観",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "測値も，自班のものの他に，２つ南隣（北隣）の班までの観測結果を入手すること．",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4) 調整計算を終了すると，その結果を用いて３角形の辺長の計算，各辺の方位角の計",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "5) 調整計算結果を図面として提出する",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "いま、例えば三",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "認めない），観測結果(平均値)とその精度（標準誤差）の途中計算と結果（平均値±標",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角網略図，距離、各測量の観測結果（計算に用いる他班の分も書く），調整計算結果，",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果を用いた計算値（cf.5.〜7.）、考察，感想．",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "フランス革命期の1792年からは、ドランブルとメシャンがダンケルクからバルセロナまでを三角測量し、その結果から求めた子午線の長さをもとに、1799年に確定メートル原器が作られました",
+    "quote": "三角測量とは｜基本原理・三角法・歴史・GNSSとの違いを解説 — Jul 11, 2026 · 三角測量とは、基線と角度から位置を求める測量技術です。 基本原理と正弦定理を使った計算、三角網、日本での歴史、地形図や建設工事への応用、GNSS測量との違いを解説します。",
     "url": "https://construction-dx.com/ict/triangulation",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "最新の技術・市場・制度・導入事例をわかりやすく整理し、建設業界のDX推進に役立つ情報を中立的な視点で発信しています",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Construction DX リサーチチームは、建設DX市場や最新技術、法制度、国内外の事例を継続的に調査・分析する専門チームです",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "BIMの活用事例とは？国内外の導入事例と成功のポイントを解説",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "設計から施工、維持管理までの段階別の活用や国内外の導入事例、自社で成功させるポイントまで分かります",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "測る技術が地面の動きを見えるところまで来た結果",
+    "quote": "三角測量とは — 基線1本と角度だけで全国の座標を決めた方法と、GNSS... — Aug 16, 2026 · 三角測量とは、距離は基線1本だけを精密に測り、あとは角度で三角形をつないで座標を広げていく方法です。 長い距離を正確に測るのが難しかった時代の発明で、日本の一等三角測量は1883年（明治16年）に始まりました。 ただし網でつ…",
     "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "直接測れて連続観測できるようになった結果、",
-    "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです",
+    "quote": "測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である",
     "url": "https://alivevulnerable.com/basic/land-surveying/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "夏至の南中時のように天体の位置情報が正確にわかる場合、天体観測の結果から観測地点の緯度や経度を求めることができます",
-    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "quote": "三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。",
+    "url": "https://ja.namu.wiki/w/삼각+측량",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "赤線は太陽の観測結果、青線は月の観測結果に基づく現在位置である",
-    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Worked Examples of Each Type",
+    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
+    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
+    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角 ...",
+    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — May 25, 2026 · この連載では、その時々にインフラづくりを主導し、あるいはその発展に寄与することで時代をデザインしてきた「土木人」を一人ずつ紹介します。 今回登場するのは、高精度の3次元測量システムを開発した上谷良吉（1911-1972）です。",
+    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ・トライアンギュレーション（データの三角測量）と方法論的ト... — これが重要である理由は、この2つがそれぞれ異なる問いに答えるからです。データの三角測量は、 「これは最初に話を聞いた人々以外にも当てはまるか」 と問いかけます。手法の三角測量は、 「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」 と問いかけ ...",
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角測量（社会科学） - jmediawiki.org — 社会科学において、三角測量とは、同じ現象の研究において複数の研究方法を適用し、組み合わせることを指します。 [1]研究者は、複数の観察者、理論、方法、および経験的資料を組み合わせることで、単一の方法、単一の観察者、および単一の理論による研究から生じる弱点や固有の ...",
+    "url": "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · データ解析から物理現象のモデル解明に繋げる場合に、複眼的な思考を持つことは重要です。 なぜなら、導き出した結論の客観性を多少なりとも担保することができるからです。 デンジンさんは4つ…",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · ジェシカ・アバディアについて Jessica Abbadiaは、2020年からデジタルマーケティングに従事し、ASOとSEOを通じて様々な地域のアプリやウェブサイトのオーガニックパフォーマンスを向上させている弁護士です。現在、コミュニティの利益のために科学的で知的な知識を開発中。ジェシカは、読書と ...",
+    "url": "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データの三角測量: 2024-2025 年の混合研究法の妥当性の向上 — 2024 ～ 2025 年の混合研究方法の成果の妥当性を強化する上で、データの三角測量が果たす極めて重要な役割を探ります。",
+    "url": "https://editverse.com/ja/2024-2025年の混合研究における妥当性を高めるデータ三角測量/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
     "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.",
+    "quote": "Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research combines multiple data sources, methods or theories to strengthen findings. Learn Denzin's four types, examples and reporting.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation in Research Explained: Types & Examples — Aug 3, 2026 · Denzin's four types of triangulation, what it does and doesn't prove, and how to report it convincingly in your methodology chapter.",
+    "url": "https://tesify.app/triangulation-in-research-explained-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Denzin's Four Types of Triangulation | PDF | Methodology ... — Denzin identified four types of triangulation that can be used in qualitative research: 1) Data triangulation, which involves collecting data from different people, times, and locations to find common themes. 2) Investigator triangulation, which uses multiple researchers to study the same phenomenon to reduce bias. 3) Theory triangulat",
+    "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角測量（社会科学） - jmediawiki.org — [1]研究者は、複数の観察者、理論、方法、および経験的資料を組み合わせることで、単一の方法、単一の観察者、および単一の理論による研究から生じる弱点や固有のバイアス、および問題を克服したいと考えています。",
+    "url": "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
     "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "Triangulation in Research Explained: Types & Examples — Aug 3, 2026 · Norman Denzin’s four types are data, investigator, theory, and methodological triangulation. It strengthens credibility when sources converge, and yields insight when they diverge — but it does not prove a finding is true.",
+    "url": "https://tesify.app/triangulation-in-research-explained-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "Denzin's Four Types of Triangulation | PDF | Methodology ... — Denzin identified four types of triangulation that can be used in qualitative research: 1) Data triangulation, which involves collecting data from different people, times, and locations to find common themes.",
+    "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、2050年のユーザーが置かれる予測などを入力し、その上で現在の定性的な調査内容をともに分析したり、アイデア創出ワークショップの参加者としてともに考えることも可能になるのです",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、アンケート結果から感情などを定量評価したり、自由記述のコンテクスト分析などと複合的に分析することができるでしょう",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実践ケーススタディ：決算「三角測量」の具体的手順",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その思考プロセスを、「三角測量」のフレームワークに沿って、3つの異なるタイプの企業の仮想ケーススタディで解説します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ケース1：高成長SaaS（Software as a Service）企業",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ケース2：成熟した製造業（例：自動車、産業機械）",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ケース3：景気敏感な小売業（例：アパレル、百貨店）",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは、分析結果を実際のトレードに落とし込むための具体的な設計図を提示します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、資金1,000万円、最大損失許容率1%（=10万円）、株価100ドル、ストップロス90ドルの場合、10万円 / (100ドル - 90ドル) = 10万円 / 10ドル となり、為替を考慮して適切な株数を算出します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、半導体セクターの銘柄ばかりを保有していると、セクター全体に悪材料が出た際に大きなダメージを受けます",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特に、損切りをためらった結果、小さな損失が致命的な損失に膨らんでしまった経験は一度や二度ではありません",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このアプローチにより、研究結果がより強力になり、研究における新しい技術やチームワークを維持できます",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これにより、研究結果の信頼性が高まります",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、異なるデータソースや視点を用いて、研究結果をより確固たるものにする手法です",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "質的データと量的データを組み合わせて、結果を検証します",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このように、様々な場所からのデータを確認することで、結果の信頼性が高まります",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、ある研究では130人のアメリカの大学生を8か月間調査した",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同様の研究はドイツと日本でも行われ、異なる場所でも同じ結果が裏付けられることを示している",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量の大きな利点は、研究結果の信頼性と妥当性を高めることです",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さまざまな角度から結果に対する信頼を築きます",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "混合研究においては、調査結果が信頼できるものであることを確認することが重要です",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これは、アプローチを組み合わせることでより良い結果が得られることを示しています",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "アノリス∠L'A on X: \"よし!『三角測量』で測るぞ!一辺の長さと両端の... よし!『三角測量』で測るぞ!一辺の長さと両端の角度がわかれば、交差した点の位置を求められるという方法だ。その三角を重ねていくと島の形が見えてくる。これが地図になるんだ。さらに詳細な地形は一辺を三角で割って形を捉えていくぞ! 戦術で大切なのは『時間』と『空間』! 07 Oct 2026 08: ...",
-    "url": "https://x.com/awesonic/status/2107748810340651107",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "データ三角測量 - LinkedIn 日本 Nov 5, 2024 · 影響力のある成果を生み出す実用的な洞察を抽出するために、データ専門家はますます多くのデータ専門家を活用しています _データ三角測量_.この手法は、複数の情報源からのデータを相互検証して結果を検証することで、インサイトが信頼性が高く包括的 ...",
-    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ三角測量 - LinkedIn 日本 Nov 5, 2024 · *データ三角測量によるデータの完全性とインパクトの向上* データが飽和した現代において、意味のある意思決定は単一の情報源を見るだけではありません。影響力のある成果を生み出す実用的な洞察を抽出するために、データ専門家はますます多くのデータ専門家を活用しています _データ ...",
-    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データの三角測量 - LinkedIn 日本 Jan 21, 2024 · データに関する私の核心的な信念に関して言えば、三角測量の考え方は譲れないものの一つです。三角測量はもともと軍事や航海の文脈で始まり、地図とコンパスを使って航海する際に使われていました。迷っても、地図上の3つのランドマークを見て識別できれば、地図とコンパスを使って ...",
-    "url": "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量 - LinkedIn 日本 May 1, 2025 · これは、投資家のデューデリジェンスツールキットの中で最も過小評価されている効果的なツールの1つです。 これは三角測量の一形態であり、異なる利害関係者に、異なる時期に、異なる状況で、異なる戦術を通じて同じ質問をします。",
-    "url": "https://jp.linkedin.com/pulse/triangulation-so-subtle-investor-tactic-mohamed-zein-tagtf?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Differentiate between the four (4) types of data triangulation Apr 29, 2021 · Denzin (1973, p.301) proposes four basic types of triangulation: · Data triangulation: consist of data which is collected at different times, or from different sources, in the study of a ...",
-    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
+    "quote": "Triangulation in Qualitative Research - Simply Psychology — Sep 29, 2026 · Definition: Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978). Four Types: Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -1098,238 +792,10 @@
     "url": "https://www.koji.so/docs/triangulation-in-research-guide",
     "pass": 3,
     "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
    },
    {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...【3軸で実践】インシデント報告書の書き方—経営会議を動かす構造 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "Facebook この三角測量進程圖は二見鏡三郎 (安政3年 (1856)～昭和 6年 (1931) 内務省地理局から参謀本部陸地測量部に移り, 全国の三角測量に従事。 その後明治21年渡米して架橋 工事などを学び。鉄道技師,三高教授, 30年京都帝大教授。 東京大学卒の経歴。",
-    "url": "https://www.facebook.com/media/set/?set=a.971729412937126",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2015.12.09 「三角測量進程圖」「三角及水準測量成果摘要・附図 」「... 1 878年（明治11）に下野（栃木県）の白山三角点 で初めて観測施行、三浦省吾、関野修蔵が担任し、1 879年（明治12）に基線南北端、八溝山、那須岳 を関大之（せき・だいし）、竹村五郎が担任、羽黒山 、八幡山、高原山、金北山、東教山を大川通久、真田 ...",
-    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "長嶋玲土地家屋調査士事務所 - 夏の夜空。はるか遠い星までの距離も三... Jul 25, 2023 · 夏の夜空。 はるか遠い星までの距離も三角測量の原理 で測られています。 地球の公転軌道の端から端まで (約3億km)を三角形の 底辺として、その各視準点から目標の星を観測した角 度（年周視差）が1秒角の距離が3.26光年（1パーセ ク）です。",
-    "url": "https://www.facebook.com/100088965797623/posts/夏の夜空はるか遠い星までの距離も三角測量の原理で測られています地球の公転軌道の端から端まで約3億kmを三角形の底辺としてその各視準点から目標の星を観測した角度年/242539952054863/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2015.12.09 「三角測量進程圖」「三角及水準測量成果摘要・附図 」「... 各種測器の総重量は約70貫、1人7貫、1里につ き賃金6銭、これに当たる人夫6名でしたが、これら の人夫には平素、回光儀の使用を熟練させ運搬以外は 1日30銭で常傭夫として採用しました。",
-    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "中尾仁彦の「函館ぶら探訪」 - 第217回八幡町・大川町・田家町巡り（... Sep 22, 2024 · 第217回八幡町・大川町・田家町巡り（その4） 道南の地図は、田家町の「大称寺」が基点 明治8年開拓使が三角測量で正確な北海道地図を作るため、一本木村（北斗市一本木）と亀田村（現函館市田家町）との間を三角測量の検基線に定め、両端に三角測量石を設置します。田家の基点は、大称 ...",
-    "url": "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSHIMA",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前回はエピポーラ幾何の基礎行列・本質行列を解説しました。NAV17となる本記事では三角測量を扱います。複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量(Triangulation)は既知の位置にある複数のカメラから同一点を観測し、その3D座標を復元する操作です。測量の三角測量と同じ原理で、異なる視点からの観測線の交点が3D点の位置になります。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Visual SLAMでの三角測量の役割は、キーフレーム間で追跡した特徴点の3D位置を確定することです。一度3D座標が決まると、その点は地図点として登録され、以降のフレームでのカメラ姿勢推定(PnP)に使われます。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "理想的な場合、二視点からの観測線は一点で交わります。しかし実際は画像ノイズ、カメラキャリブレーション誤差、レンズ歪み補正残差などにより、二つの観測線は空間中で完全には交わらず、最近接点を求める問題になります。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最も基本的な三角測量であるDLT(Direct Linear Transform)法を導出します。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "カメラ行列P=K[R|t]により3D点X=[X,Y,Z,1]ᵀ(同次座標)が画像点x=[u,v,1]ᵀに投影される関係:",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション｜Kakeru Asano",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が繰り返されてきました。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "①複数のデータ、②多様な調査者、③多様な分析手法、④多様な調査手法",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します。また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反…",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "堀口 英利 | Horiguchi, Hidetoshi",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第12回: 三角測量の使い方――原則・理論・兵站を一枚の図に",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUDIO",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数学や物理がどのようなことにに役立っているのか知りたい方",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "へようこそ！モーションキャプチャ担当のいっしーです！",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "先日、深夜3時ごろに外からにぎやかなお囃子が聞こえてきてオバケが迎えに来たのかと思ったら、近所の神社の宮出しでした。怖かったです。",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "モーションキャプチャでなぜ三次元座標が得られるのか、その原理や直感的理解のための三角測量の話をしようと思います！",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "高校数学までの知識さえあれば理解できる記事になっていますので、モーキャプ専門外の方もぜひご覧ください！",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "光学式モーションキャプチャではマーカーの三次元座標を捉えることで、人や物の動きを計測します。",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "なお、本内容には細心の注意を払っておりますが、内容に間違いがあったらご指摘いただけますとありがたいです",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -1886,150 +1352,28 @@
     "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
     "pass": 3,
     "first_seen": "2026-11-07"
-   }
-  ],
-  "検索結果の抜粋": [
+   },
    {
-    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH... — Jun 19, 2026 · 前回はエピポーラ幾何の基礎行列・本質行列を解説しました。 NAV17となる本記事では三角測量を扱います。 複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "quote": "正弦定理は、直接測れない対象物との距離や角度を求める｢三角測量｣で活躍するよ",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "quote": "三角測量でもうひとつ大切な公式｢余弦定理｣",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "3-2. 4つの道具を役割分担する｜三角測量の実践 | CMO1号 — Aug 1, 2026 · アトリビューション分析の数字をなんとなく信頼しきれていない——その感覚は正しいです。 MMM・アトリビューション・実験・調査、4つの道具を強みと弱みで使い分ける「三角測量」の考え方と、短期P/L・長期B/Sの時間軸を整理します。",
-    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "quote": "三斜求積という面積計算法と、三角測量という位置を求める方法は区別して理解しましょう",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている。 研究者は、三角測量を用いることで、単一の方法やデータソースに存在する欠点や偏りを減らそうとする。",
-    "url": "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 社会科学の分野において、トライアンギュレーション (triangulation)という言葉があります。 日本語訳は、「三角測量」です。 測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました。",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4． 三角測量（基線測量・角測量） - 広島大学 — 1. 目的 基準点の位置を正確に知るための三角測量を体験する.工学部東側において,図 1 のような三角網を設置する.各班で 1 つの辺の基線長(Pn~Qn)と,2 つの頂点(Pn,Qn)に関わる全ての内角を計測する.",
-    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量とは｜基本原理・三角法・歴史・GNSSとの違いを解説 — Jul 11, 2026 · 三角測量とは、基線と角度から位置を求める測量技術です。 基本原理と正弦定理を使った計算、三角網、日本での歴史、地形図や建設工事への応用、GNSS測量との違いを解説します。",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量とは — 基線1本と角度だけで全国の座標を決めた方法と、GNSS... — Aug 16, 2026 · 三角測量とは、距離は基線1本だけを精密に測り、あとは角度で三角形をつないで座標を広げていく方法です。 長い距離を正確に測るのが難しかった時代の発明で、日本の一等三角測量は1883年（明治16年）に始まりました。 ただし網でつ…",
-    "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である",
-    "url": "https://alivevulnerable.com/basic/land-surveying/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。",
-    "url": "https://ja.namu.wiki/w/삼각+측량",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角 ...",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — May 25, 2026 · この連載では、その時々にインフラづくりを主導し、あるいはその発展に寄与することで時代をデザインしてきた「土木人」を一人ずつ紹介します。 今回登場するのは、高精度の3次元測量システムを開発した上谷良吉（1911-1972）です。",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ・トライアンギュレーション（データの三角測量）と方法論的ト... — これが重要である理由は、この2つがそれぞれ異なる問いに答えるからです。データの三角測量は、 「これは最初に話を聞いた人々以外にも当てはまるか」 と問いかけます。手法の三角測量は、 「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」 と問いかけ ...",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量（社会科学） - jmediawiki.org — 社会科学において、三角測量とは、同じ現象の研究において複数の研究方法を適用し、組み合わせることを指します。 [1]研究者は、複数の観察者、理論、方法、および経験的資料を組み合わせることで、単一の方法、単一の観察者、および単一の理論による研究から生じる弱点や固有の ...",
-    "url": "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · データ解析から物理現象のモデル解明に繋げる場合に、複眼的な思考を持つことは重要です。 なぜなら、導き出した結論の客観性を多少なりとも担保することができるからです。 デンジンさんは4つ…",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · ジェシカ・アバディアについて Jessica Abbadiaは、2020年からデジタルマーケティングに従事し、ASOとSEOを通じて様々な地域のアプリやウェブサイトのオーガニックパフォーマンスを向上させている弁護士です。現在、コミュニティの利益のために科学的で知的な知識を開発中。ジェシカは、読書と ...",
-    "url": "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データの三角測量: 2024-2025 年の混合研究法の妥当性の向上 — 2024 ～ 2025 年の混合研究方法の成果の妥当性を強化する上で、データの三角測量が果たす極めて重要な役割を探ります。",
-    "url": "https://editverse.com/ja/2024-2025年の混合研究における妥当性を高めるデータ三角測量/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research combines multiple data sources, methods or theories to strengthen findings. Learn Denzin's four types, examples and reporting.",
-    "url": "https://www.researchprospect.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research Explained: Types & Examples — Aug 3, 2026 · Denzin's four types of triangulation, what it does and doesn't prove, and how to report it convincingly in your methodology chapter.",
-    "url": "https://tesify.app/triangulation-in-research-explained-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Denzin's Four Types of Triangulation | PDF | Methodology ... — Denzin identified four types of triangulation that can be used in qualitative research: 1) Data triangulation, which involves collecting data from different people, times, and locations to find common themes. 2) Investigator triangulation, which uses multiple researchers to study the same phenomenon to reduce bias. 3) Theory triangulat",
-    "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "quote": "【2026年9月21日訂正】三斜求積と三角測量、面積の計算と図形の復元を区別して訂正しました",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
@@ -2502,418 +1846,417 @@
     "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
     "pass": 3,
     "first_seen": "2026-11-07"
-   }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "status": "ok",
-    "method": "http"
    },
    {
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jmediawiki.org/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%80%81CSCL+%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A9%95%E4%BE%A1%E3%81%AE/Triangulation_(social_science)",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://1st-cmo.one/essays/measurement-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchprospect.com/triangulation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tesify.app/triangulation-in-research-explained-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/publication/341373408_Denzin's_Paradigm_Shift_Revisiting_Triangulation_in_Qualitative_Research",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://x.com/awesonic/status/2107748810340651107",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/triangulation-so-subtle-investor-tactic-mohamed-zein-tagtf?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.facebook.com/media/set/?set=a.971729412937126",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
-    "status": "robots_disallowed",
-    "method": ""
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き site:note.com",
-   "results": [
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "https://note.com/whence278663/n/nd0398e441b32"
-   ]
-  },
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き note",
-   "results": []
-  },
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き やり方",
-   "results": [
-    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
-    "https://1st-cmo.one/essays/measurement-triangulation",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
-    "https://www.infra.kochi-tech.ac.jp/takagi/SurveyP/2Triagulation1.pdf"
-   ]
-  },
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き 事例",
-   "results": [
-    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
-    "https://1st-cmo.one/essays/measurement-triangulation",
-    "https://editverse.com/ja/2024-2025年の混合研究における妥当性を高めるデータ三角測量/",
-    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241"
-   ]
-  },
-  {
-   "query": "triangulation four types Denzin reporting how sources compared",
-   "results": [
-    "https://casrai.org/guides/triangulation-in-research",
-    "https://www.researchprospect.com/triangulation/",
-    "https://tesify.app/triangulation-in-research-explained-2026/",
-    "https://www.scribd.com/document/698725633/Denzin-Triangulation",
-    "https://www.koji.so/docs/triangulation-in-research-guide",
-    "https://www.researchgate.net/publication/341373408_Denzin's_Paradigm_Shift_Revisiting_Triangulation_in_Qualitative_Research",
-    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html"
-   ]
-  },
-  {
-   "query": "site:note.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
-   "results": [
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "https://note.com/whence278663/n/nd0398e441b32",
-    "https://note.com/yuusan_security/n/n39da30ff856f"
-   ]
-  },
-  {
-   "query": "site:x.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
-   "results": [
-    "https://x.com/awesonic/status/2107748810340651107",
-    "https://jf.x.com/images/media-preview/2115775660970901832",
-    "https://jf.x.com/images/media-preview/2113538092812628259",
-    "https://x.com/nakajoucoconala/status/2116854872972968076",
-    "https://x.com/Mityu_ka/status/2107244562003706143",
-    "https://x.com/amano758/status/2113292209768583404",
-    "https://x.com/nayuta_office/status/2118569186943250716"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
-   "results": [
-    "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-bcbs-239-principles-effective-risk-data-sunil-zarikar-ipwuf?tl=ja",
-    "https://jp.linkedin.com/pulse/triangulation-so-subtle-investor-tactic-mohamed-zein-tagtf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-write-research-methodology-2026-dr-naureen-aleem-ezoye?tl=ja",
-    "https://jp.linkedin.com/pulse/leadership-triangulation-bill-keever-oly?tl=ja",
-    "https://jp.linkedin.com/pulse/power-triangulation-aadhitthyaa-hari-gopal-gugce?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
-   "results": [
-    "https://www.facebook.com/media/set/?set=a.971729412937126",
-    "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
-    "https://www.facebook.com/hizuki405/posts/4つの軸を意識するだけ対立衝突安心安全の場へ家族夫婦職場チームで意見が違ったときも責め合わずに話し合えるそんな安心できる関係づくりに興味はありませんかいい人の成/1115079624246645/",
-    "https://www.facebook.com/hiroshi.nagayama/posts/4つの軸を意識するだけ家族夫婦職場チームの対立衝突がなくなり安心安全の場ができるいい人の成功法則って興味ありますか子どもが心を開いてくれない話せない部下や社員自/28423857200540514/",
-    "https://www.facebook.com/JSCE.jp/posts/地図と測量の科学館企画展一等三角点物語-国土の把握に懸けた測量技師の記録日時2021年-3月23日火6月27日日-9301600場所国土地理院地図と測量の科学館/3859902240763397/",
-    "https://www.facebook.com/rehabilitationmedia.post/posts/理学療法症例報告の書き方️初の国際基準phycareが登場icf分類やfitt-vpでの詳細記載を推奨35項目のチェックリストで執筆を効率化/1494336492694973/"
-   ]
-  },
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き note 社長",
-   "results": []
-  },
-  {
-   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き X 投稿",
-   "results": [
-    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
-    "https://1st-cmo.one/essays/measurement-triangulation",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/"
-   ]
-  },
-  {
-   "query": "triangulation four types Denzin reporting how sources compared site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
-    "https://www.linkedin.com/posts/peter-munene-9ab033b8_𝗧𝘆𝗽𝗲𝘀-𝗼𝗳-𝗧𝗿𝗶𝗮𝗻𝗴𝘂𝗹𝗮𝘁𝗶𝗼𝗻-activity-7380563513683050496-Eh1d",
-    "https://fr.linkedin.com/posts/dr-anas-el-azizi-el-alaoui-90156118a_triangulation-méthodologiedelarecherche-activity-7437448102619467776-WBkw",
-    "https://pe.linkedin.com/posts/annmurraybrown_types-of-triangulation-activity-7273430911616970754-aQG5",
-    "https://www.linkedin.com/posts/stephen-tregear_programevaluation-researchmethods-triangulation-activity-7471024238167162881-l89S",
-    "https://www.linkedin.com/pulse/triangulation-dead-kien-nguyen-trung-phd-3exbc",
-    "https://pe.linkedin.com/pulse/sustainable-development-dimensions-factors-moharram-alex-aghazadeh"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "前回、三平方の定理と三角比、そして三角比を関数電卓で出す方法をまとめました",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書｜日本個別株デューデリジェンスセンター",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "三平方の定理から余弦定理まで、測量にちなんだ計算方法と実用例を紹介していきました",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "土地をいくつかの三角形に分割して、それぞれの「底辺 × 高さ ÷ 2」で面積を出して合計する方法ですよね",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "三斜求積という面積計算法と、三角測量という位置を求める方法は区別して理解しましょう",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この測量技術を習得することで、決算発表後の株価の方向性をより高い解像度で予測し、ノイズに惑わされない一貫した投資判断を下すことが可能になります",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "曲線を含む境界では、その取扱いや近似方法も検討します",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算分析の核心は「実績 vs 期待」と「未来の計画 vs 期待」の2軸評価にあり、これに「事業の質（KPI）」を加えた3次元で評価することが本質です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "三斜求積：三角形の底辺と垂直な高さから面積を求め、重複なく合計する方法",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "これらの数字は、個別株の決算を評価する際の「背景」あるいは「外部環境変数」として機能します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "独学で始めるのが不安なら、通信講座で試験の範囲をひと通り学ぶのも一つの方法です",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ドライバーは、毎月の雇用統計とCPIの数字、そして連邦政府の国債発行計画（需給）です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "NVIDIAの決算は、このセクター全体の先行指標として機能しています",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実践ケーススタディ：決算「三角測量」の具体的手順",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際の決算発表をどのように分析し、投資判断につなげるのか",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算スコア = 0.2 * (実績売上サプライズ率) + 0.4 * (ガイダンス売上サプライズ率) + 0.3 * (ARR成長率) + 0.1 * (営業利益率改善度)",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "次の四半期決算でのARR成長率、NRRの動向",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "マクロ環境と個別企業の決算分析を踏まえ、どのような戦略をとるべきか",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算発表直後の急騰・急落に飛び乗るのは避ける",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算発表後のカンファレンスコールの内容を吟味し、アナリストのレポートが出揃うのを待ってからでも遅くはありません",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さまざまな方法論を採用するには、かなりの時間の投資が必要です",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計分析、予測モデリング",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.ucdenver.edu/docs/librariesprovider151/default-document-library/coloradosph-course-book.pdf?sfvrsn=28a41eb9_4",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
+    "quote": "「三斜求積のところ、もう少し詳しく知りたい」「勉強の進め方、これで合ってる？」――そんなときは、公式LINEからメッセージをどうぞ",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "実例": [
+   {
+    "quote": "三角測量結果の不確かさを定量化するため、画像ノイズから3D点座標誤差への伝播を解析します",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このdepth画像をstereoRectifyの結果と組み合わせて3D点に変換し、Visual SLAMまたはLiDAR SLAMの入力として使います",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最低視差角チェック: 視差角が1度未満の三角測量結果は深度誤差が大きいため棄却します",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "再投影誤差チェック: 三角測量結果を全観測カメラに再投影し、全観測点での再投影誤差が閾値(通常2〜4ピクセル)以下のもののみ地図点として登録します",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スケール一致性チェック: ステレオまたはIMU統合の場合、三角測量結果の深度がスケール推定値と著しく異なる場合は棄却します",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どちらの立場を主張するかによって結果が異なります",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」",
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もしある結果が1つの施設でのみ見られた場合、それは現象そのものではなく、その施設に関する何かを学んだことになります",
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、同じインタビューガイドの中で2つの異なる質問形式を用いたり、クローズド質問とオープンエンドの自由記述の両方を含むアンケートを実施したりすることです",
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これを適切に行うということは、調査結果を「一致」、「部分的一致」、「沈黙（一方にしか現れない）」、そして「不協和（不一致）」に分類することを意味し、これは最後に書く数行のパラグラフではなく、真に分析的な作業です",
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、ある人がテレビCMでサービスを知り、数日後に名前で検索して買った、このとき記録に残るのは、最後の検索クリックだけ",
+    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ざっくり言うと、売上のような結果に対して、テレビ広告・デジタル広告・季節要因・競合の出稿状況などが、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する道具です",
+    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "売上などの結果に対して、テレビ・デジタル・季節・価格といった要因が、それぞれどれくらい寄与したかを、過去のデータからまとめて推定する手法です",
+    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究における三角測量とは？信頼できる調査結果への道 - Mind the Graphブログ",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究における三角測量とは？信頼できる調査結果への道",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究方法論の広い世界において、信頼できる確かな結果を求める研究者にとっての道標として際立っている言葉がある",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この強力な手法は、研究結果の妥当性と信頼性を向上させる道筋を提供し、幅広い分野で広く認知され、重要視されるようになってきた",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究結果の妥当性、信頼性、徹底性を高めるために、複数の方法論や情報源を統合することを意味する",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果を相互検証し、パターンや矛盾を発見し、研究テーマをより包括的に把握するために三角法を用いることもある",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究結果の全体的な強度と信頼性は、多くの異なるタイプの三角測量によって強化され、それぞれに特定の利点がある",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究結果を裏付け、検証するために、研究者はインタビュー、調査、観察、既存の記録など、様々な方法を用いてデータを収集する",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数のデータソースを統合することで、研究者の結果の信頼性と頑健性を向上させることができる",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ現象を複数の視点から探るために、研究者は質的・量的方法、実験的・非実験的デザイン、ケーススタディ、調査など、さまざまな方法論を用いる",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それぞれの研究者がもたらす異なる視点、経験、バイアスは、他の研究者の調査結果をサポートし、検証することができる",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の研究者が参加することで、互いの仮定や解釈を検証することができるため、研究プロセスがより厳密になり、最終的に信頼性の高い結果が得られます",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究結果を解釈するために、理論の三角測量では、複数の理論的枠組みや視点を用いる必要がある",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "研究における三角測量は、研究結果の全体的な質と信頼性に貢献する、いくつかの重要な目的を果たす",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "バイアスの可能性を低くし、調査結果の信頼性を高めることで、三角測量は研究の妥当性に貢献する",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一回の実験結果だけで結論付けるのは危険です",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※他者の実験結果の追試というのは、地味ですが実は非常に重要です",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同じ実験結果でもデータ処理を行う人によって、結論が変わる可能性があります",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実験結果から結論を出す場合に私自身が重要だと思っていることは、データソースを複数化することです",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "後日，他班の測量結果を入手し，自",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・ 距離測量の結果は，補正後の平均値 D と標準偏差 Dm を， DmD r の形に表示する.",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・上記の観測値と昨年の観測値(データは配布する)の２対回分の結果を用いる．各測定",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "の内角の測量結果から，図形関係に",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "n+2班（2本南側）の基線測量結果を，",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "5～7班までは第 n− 2班（２本北側）の基線測量結果を，検基線長に用いる．角の観",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "測値も，自班のものの他に，２つ南隣（北隣）の班までの観測結果を入手すること．",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4) 調整計算を終了すると，その結果を用いて３角形の辺長の計算，各辺の方位角の計",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "5) 調整計算結果を図面として提出する",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "いま、例えば三",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認めない），観測結果(平均値)とその精度（標準誤差）の途中計算と結果（平均値±標",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角網略図，距離、各測量の観測結果（計算に用いる他班の分も書く），調整計算結果，",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果を用いた計算値（cf.5.〜7.）、考察，感想．",
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "フランス革命期の1792年からは、ドランブルとメシャンがダンケルクからバルセロナまでを三角測量し、その結果から求めた子午線の長さをもとに、1799年に確定メートル原器が作られました",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最新の技術・市場・制度・導入事例をわかりやすく整理し、建設業界のDX推進に役立つ情報を中立的な視点で発信しています",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Construction DX リサーチチームは、建設DX市場や最新技術、法制度、国内外の事例を継続的に調査・分析する専門チームです",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "BIMの活用事例とは？国内外の導入事例と成功のポイントを解説",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設計から施工、維持管理までの段階別の活用や国内外の導入事例、自社で成功させるポイントまで分かります",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "測る技術が地面の動きを見えるところまで来た結果",
+    "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "直接測れて連続観測できるようになった結果、",
+    "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです",
+    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "夏至の南中時のように天体の位置情報が正確にわかる場合、天体観測の結果から観測地点の緯度や経度を求めることができます",
+    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "赤線は太陽の観測結果、青線は月の観測結果に基づく現在位置である",
+    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Worked Examples of Each Type",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します",
     "url": "https://note.com/kasano/n/n5300393c2f30",
@@ -3063,211 +2406,135 @@
     "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
     "pass": 3,
     "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
+   },
    {
-    "quote": "アノリス∠L'A on X: \"よし!『三角測量』で測るぞ!一辺の長さと両端の... よし!『三角測量』で測るぞ!一辺の長さと両端の角度がわかれば、交差した点の位置を求められるという方法だ。その三角を重ねていくと島の形が見えてくる。これが地図になるんだ。さらに詳細な地形は一辺を三角で割って形を捉えていくぞ! 戦術で大切なのは『時間』と『空間』! 07 Oct 2026 08: ...",
-    "url": "https://x.com/awesonic/status/2107748810340651107",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "データ三角測量 - LinkedIn 日本 Nov 5, 2024 · *データ三角測量によるデータの完全性とインパクトの向上* データが飽和した現代において、意味のある意思決定は単一の情報源を見るだけではありません。影響力のある成果を生み出す実用的な洞察を抽出するために、データ専門家はますます多くのデータ専門家を活用しています _データ ...",
-    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
+    "quote": "例えば、ある斜面の水平距離が4m、高さが2mの時、その斜面の角度は",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "データの三角測量 - LinkedIn 日本 Jan 21, 2024 · データに関する私の核心的な信念に関して言えば、三角測量の考え方は譲れないものの一つです。三角測量はもともと軍事や航海の文脈で始まり、地図とコンパスを使って航海する際に使われていました。迷っても、地図上の3つのランドマークを見て識別できれば、地図とコンパスを使って ...",
-    "url": "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
+    "quote": "例えば、三角形のそれぞれの角をA・B・Cとし、それに対応する向かい合う辺をa・b・cとするとき",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "三角測量 - LinkedIn 日本 May 1, 2025 · これは、投資家のデューデリジェンスツールキットの中で最も過小評価されている効果的なツールの1つです。 これは三角測量の一形態であり、異なる利害関係者に、異なる時期に、異なる状況で、異なる戦術を通じて同じ質問をします。",
-    "url": "https://jp.linkedin.com/pulse/triangulation-so-subtle-investor-tactic-mohamed-zein-tagtf?tl=ja",
+    "quote": "例えば、距離を調べたい点Cがあるけど、間に川があって直接距離が測れない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Differentiate between the four (4) types of data triangulation Apr 29, 2021 · Denzin (1973, p.301) proposes four basic types of triangulation: · Data triangulation: consist of data which is collected at different times, or from different sources, in the study of a ...",
-    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "この分析手法を、自分自身でカスタマイズ可能な「スコアリングモデル」に落とし込むことで、感情的なバイアスを排除し、再現性のある投資プロセスを構築できます",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、ある点AとBの距離が知りたいけど、間に大きな岩があって直接距離も角度も測れない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "これが直接的なクラッシュを引き起こすわけではありませんが、市場の急変時におけるボラティリティを増幅させる下地になっている点には注意が必要です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、ある土地の面積を知りたいけど、真ん中に池があって三角形の垂線の長さが分からない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "エントリーする前に、必ず「このトレードが失敗した場合、どこで損切りするか」を決定します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "技術的なポイント（例：直近の安値を明確に割り込んだ水準）や、当初の投資仮説が崩れたと判断するファンダメンタルズの変化を基準にします",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "What is an example of methodological triangulation?",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例えば、半導体セクターの銘柄ばかりを保有していると、セクター全体に悪材料が出た際に大きなダメージを受けます",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "私自身、キャリアの初期に大きな損失を出した原因のほとんどは、このリスク管理と心理的バイアスのコントロールの失敗でした",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算分析に基づいてエントリーしたものの、思惑通りにいかなかったトレードがあれば、なぜ失敗したのかを簡潔にメモしておきましょう",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「ガイダンスの質を見誤った」「KPIの悪化サインを見逃した」「市場全体の地合いを無視した」など、失敗からの学びこそが、あなたをより優れた投資家へと成長させてくれます",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、研究における一般的なバイアスを修正するのにも役立ちます",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "妥当性は、調査結果の使用と適用における誤りを避けるために厳格な基準を設定します",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "アイトラッキングデータ分析: 2024-2025 年の視覚的注意に関する洞察",
-    "url": "https://editverse.com/ja/2024-2025%E5%B9%B4%E3%81%AE%E6%B7%B7%E5%90%88%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A6%A5%E5%BD%93%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Every single method introduces method-specific error. Self-report surveys suffer from social-desirability bias;",
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
     "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Reduces individual analyst bias",
+    "quote": "Triangulation in Research: Types & Examples",
     "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "survey alongside qualitative interviews. Because the methods do not share the same biases, between-method triangulation is the more powerful and is the engine of most",
+    "quote": "Use triangulation whenever a question is too complex, contested or context-dependent to trust to a single method, and especially when you want to strengthen the validity of quantitative work or the trustworthiness of qualitative work. It is a cornerstone of robust mixed-methods and case-study designs.",
     "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Common mistakes to avoid",
+    "quote": "Denzin distinguished four kinds of triangulation. They are not mutually exclusive — a single ambitious study may use several at once — but it helps to keep them conceptually separate so you can describe precisely what you did and why. The table below summarises each type, what gets varied, and a quick example.",
     "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "If your methods share the same bias, agreement between them proves nothing.",
+    "quote": "triangulation uses more than one technique inside the same paradigm — for example, several different scales within one questionnaire to measure the same construct, or open and closed questions in one interview. It checks internal consistency but cannot escape the limitations shared by all instruments of that type.",
     "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ": methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The mistake new researchers make is treating divergence as a problem to be hidden. Experienced researchers treat it as a finding to be investigated.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Common triangulation mistakes",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— biases that triangulation helps surface and correct",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A comprehensive guide to the 9 most damaging cognitive biases in user research — from confirmation bias to social desirability bias — with practical strategies to detect and eliminate them before they corrupt your findings.",
-    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...【3軸で実践】インシデント報告書の書き方—経営会議を動かす構造 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "2015.12.09 「三角測量進程圖」「三角及水準測量成果摘要・附図 」「... 各種測器の総重量は約70貫、1人7貫、1里につ き賃金6銭、これに当たる人夫6名でしたが、これら の人夫には平素、回光儀の使用を熟練させ運搬以外は 1日30銭で常傭夫として採用しました。",
-    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "中尾仁彦の「函館ぶら探訪」 - 第217回八幡町・大川町・田家町巡り（... Sep 22, 2024 · 第217回八幡町・大川町・田家町巡り（その4） 道南の地図は、田家町の「大称寺」が基点 明治8年開拓使が三角測量で正確な北海道地図を作るため、一本木村（北斗市一本木）と亀田村（現函館市田家町）との間を三角測量の検基線に定め、両端に三角測量石を設置します。田家の基点は、大称 ...",
-    "url": "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
+    "quote": "A worked example: integrating survey, interviews and documents",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "SNS・note（note・本文）": [
+   {
+    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSHIMA",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前回はエピポーラ幾何の基礎行列・本質行列を解説しました。NAV17となる本記事では三角測量を扱います。複数カメラの観測から3D点の座標を復元する三角測量はVisual SLAMとVIOの基盤操作で、DLT法、最適三角測量、精度に影響する要因を詳しく解説します。",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角測量(Triangulation)は既知の位置にある複数のカメラから同一点を観測し、その3D座標を復元する操作です。測量の三角測量と同じ原理で、異なる視点からの観測線の交点が3D点の位置になります。",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Visual SLAMでの三角測量の役割は、キーフレーム間で追跡した特徴点の3D位置を確定することです。一度3D座標が決まると、その点は地図点として登録され、以降のフレームでのカメラ姿勢推定(PnP)に使われます。",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "理想的な場合、二視点からの観測線は一点で交わります。しかし実際は画像ノイズ、カメラキャリブレーション誤差、レンズ歪み補正残差などにより、二つの観測線は空間中で完全には交わらず、最近接点を求める問題になります。",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最も基本的な三角測量であるDLT(Direct Linear Transform)法を導出します。",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "カメラ行列P=K[R|t]により3D点X=[X,Y,Z,1]ᵀ(同次座標)が画像点x=[u,v,1]ᵀに投影される関係:",
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション｜Kakeru Asano",
     "url": "https://note.com/kasano/n/n5300393c2f30",
@@ -3395,397 +2662,573 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "アノリス∠L'A on X: \"よし!『三角測量』で測るぞ!一辺の長さと両端の... よし!『三角測量』で測るぞ!一辺の長さと両端の角度がわかれば、交差した点の位置を求められるという方法だ。その三角を重ねていくと島の形が見えてくる。これが地図になるんだ。さらに詳細な地形は一辺を三角で割って形を捉えていくぞ! 戦術で大切なのは『時間』と『空間』! 07 Oct 2026 08: ...",
+    "url": "https://x.com/awesonic/status/2107748810340651107",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "アノリス∠L'A on X: \"よし!『三角測量』で測るぞ!一辺の長さと両端の... よし!『三角測量』で測るぞ!一辺の長さと両端の角度がわかれば、交差した点の位置を求められるという方法だ。 その三角を重ねていくと島の形が見えてくる。 これが地図になるんだ。 さらに詳細な地形は一辺を三角で割って形を捉えていくぞ!",
+    "url": "https://x.com/awesonic/status/2107748810340651107",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "データ三角測量 - LinkedIn 日本 Nov 5, 2024 · 影響力のある成果を生み出す実用的な洞察を抽出するために、データ専門家はますます多くのデータ専門家を活用しています _データ三角測量_.この手法は、複数の情報源からのデータを相互検証して結果を検証することで、インサイトが信頼性が高く包括的 ...",
+    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Triangulation 2.0",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "データ三角測量 - LinkedIn 日本 Nov 5, 2024 · *データ三角測量によるデータの完全性とインパクトの向上* データが飽和した現代において、意味のある意思決定は単一の情報源を見るだけではありません。影響力のある成果を生み出す実用的な洞察を抽出するために、データ専門家はますます多くのデータ専門家を活用しています _データ ...",
+    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUDIO",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "データの三角測量 - LinkedIn 日本 Jan 21, 2024 · データに関する私の核心的な信念に関して言えば、三角測量の考え方は譲れないものの一つです。三角測量はもともと軍事や航海の文脈で始まり、地図とコンパスを使って航海する際に使われていました。迷っても、地図上の3つのランドマークを見て識別できれば、地図とコンパスを使って ...",
+    "url": "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "三角測量 - LinkedIn 日本 May 1, 2025 · これは、投資家のデューデリジェンスツールキットの中で最も過小評価されている効果的なツールの1つです。 これは三角測量の一形態であり、異なる利害関係者に、異なる時期に、異なる状況で、異なる戦術を通じて同じ質問をします。",
+    "url": "https://jp.linkedin.com/pulse/triangulation-so-subtle-investor-tactic-mohamed-zein-tagtf?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "三角測量の理論、算出方法",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "Differentiate between the four (4) types of data triangulation Apr 29, 2021 · Denzin (1973, p.301) proposes four basic types of triangulation: · Data triangulation: consist of data which is collected at different times, or from different sources, in the study of a ...",
+    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "モーションキャプチャでなぜ三次元座標が得られるのか、その原理や直感的理解のための三角測量の話をしようと思います！",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "Differentiate between the four (4) types of data triangulation Apr 29, 2021 · Denzin (1973, p.301) proposes four basic types of triangulation: · Data triangulation: consist of data which is collected at different times, or from different sources, in the study of...",
+    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saitangoukakulab/n/n593ff80ee9e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dobokunote/n/n3d49f218df90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/petenconsul/n/nac623d36ea46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1st-cmo.one/essays/measurement-triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmediawiki.org/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%80%81CSCL+%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A9%95%E4%BE%A1%E3%81%AE/Triangulation_(social_science)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://construction-dx.com/ict/triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijyutsu-keisan.com/mech/analysis/measure/3dmeasure/3dmeasure_1.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alivevulnerable.com/basic/land-surveying/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsi.go.jp/sokuchikijun/sankaku-survey.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nyantaro3588.github.io/a4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchprospect.com/triangulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tesify.app/triangulation-in-research-explained-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koji.so/docs/triangulation-in-research-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/awesonic/status/2107748810340651107",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き site:note.com",
+   "results": [
+    "https://note.com/witty_mango107/n/na39978bdd66e",
+    "https://note.com/masa0730_study/n/n32969b2ec967",
+    "https://note.com/saitangoukakulab/n/n593ff80ee9e1",
+    "https://note.com/dobokunote/n/n3d49f218df90",
+    "https://note.com/petenconsul/n/nac623d36ea46",
+    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "https://note.com/brisk_newt9430/n/na02a7824c5af"
+   ]
+  },
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き note",
+   "results": []
+  },
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き やり方",
+   "results": [
+    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://1st-cmo.one/essays/measurement-triangulation",
+    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
+    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
+    "https://www.infra.kochi-tech.ac.jp/takagi/SurveyP/2Triagulation1.pdf"
+   ]
+  },
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き 事例",
+   "results": [
+    "https://construction-dx.com/ict/triangulation",
+    "https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/",
+    "https://gijyutsu-keisan.com/mech/analysis/measure/3dmeasure/3dmeasure_1.php",
+    "https://alivevulnerable.com/basic/land-surveying/",
+    "https://www.gsi.go.jp/sokuchikijun/sankaku-survey.html",
+    "https://nyantaro3588.github.io/a4.html",
+    "https://construction-dx.com/ict/survey-field-book-writing"
+   ]
+  },
+  {
+   "query": "triangulation four types Denzin reporting how sources compared",
+   "results": [
+    "https://casrai.org/guides/triangulation-in-research",
+    "https://www.researchprospect.com/triangulation/",
+    "https://tesify.app/triangulation-in-research-explained-2026/",
+    "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "https://www.koji.so/docs/triangulation-in-research-guide",
+    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "https://www.agentinterviews.com/research/methods/qualitative/triangulation"
+   ]
+  },
+  {
+   "query": "site:note.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
+   "results": [
+    "https://note.com/witty_mango107/n/na39978bdd66e",
+    "https://note.com/brisk_newt9430/n/na02a7824c5af",
+    "https://note.com/saitangoukakulab/n/n593ff80ee9e1",
+    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "https://note.com/nice_bear1575/n/n5b1c3f89b8b4",
+    "https://note.com/sun_1991/n/n772b0fd147af",
+    "https://note.com/dobokunote/n/n3d49f218df90"
+   ]
+  },
+  {
+   "query": "site:x.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
+   "results": [
+    "https://x.com/awesonic/status/2107748810340651107",
+    "https://jf.x.com/images/media-preview/2115775660970901832",
+    "https://jf.x.com/images/media-preview/2113538092812628259",
+    "https://x.com/nakajoucoconala/status/2116854872972968076",
+    "https://x.com/amano758/status/2113292209768583404",
+    "https://x.com/nayuta_office/status/2118569186943250716",
+    "https://x.com/Mityu_ka/status/2107244562003706143"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-write-research-methodology-2026-dr-naureen-aleem-ezoye?tl=ja",
+    "https://jp.linkedin.com/pulse/how-build-your-data-strategy-part-3-roadmap-rich-peters?tl=ja",
+    "https://www.linkedin.com/posts/akiyama-ayano-62b75a70_sentinel-1データで12月と1月の3時期のデータを使って地震前と後とで変化抽出-activity-7152285514212036608-VBof",
+    "https://jp.linkedin.com/pulse/smarter-advantage-triangulating-ai-human-knowledge-alex-adamopoulos-u1w6e?tl=ja",
+    "https://jp.linkedin.com/pulse/automatically-triangulating-estimates-planning-poker-mike-cohn?tl=ja",
+    "https://www.linkedin.com/jobs/管制室では、無数のモニターを前に競技長が全ポストからの報告と映像を突き合わせ、ペナルティの有無をジャッジする。さらにその奥の審査委員会では、競技経験豊富なベテラン審査員たちが、規約に照らして公平な判断を下す。抗議があれば、時には夜遅くまで議論が続けられる。チームやドライバーに恨まれることもあるが、すべてはルールの遵守と安全、そして競技の公平性を守るための重責なのだ。-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き",
+   "results": [
+    "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "https://www.facebook.com/hizuki405/posts/4つの軸を意識するだけ対立衝突安心安全の場へ家族夫婦職場チームで意見が違ったときも責め合わずに話し合えるそんな安心できる関係づくりに興味はありませんかいい人の成/1115079624246645/",
+    "https://www.facebook.com/hiroshi.nagayama/posts/4つの軸を意識するだけ家族夫婦職場チームの対立衝突がなくなり安心安全の場ができるいい人の成功法則って興味ありますか子どもが心を開いてくれない話せない部下や社員自/28423857200540514/",
+    "https://www.facebook.com/JSCE.jp/posts/地図と測量の科学館企画展一等三角点物語-国土の把握に懸けた測量技師の記録日時2021年-3月23日火6月27日日-9301600場所国土地理院地図と測量の科学館/3859902240763397/",
+    "https://www.facebook.com/rehabilitationmedia.post/posts/理学療法症例報告の書き方️初の国際基準phycareが登場icf分類やfitt-vpでの詳細記載を推奨35項目のチェックリストで執筆を効率化/1494336492694973/",
+    "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/"
+   ]
+  },
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き note 社長",
+   "results": []
+  },
+  {
+   "query": "突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き X 投稿",
+   "results": [
+    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://1st-cmo.one/essays/measurement-triangulation",
+    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
+    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)"
+   ]
+  },
+  {
+   "query": "triangulation four types Denzin reporting how sources compared site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_𝗧𝘆𝗽𝗲𝘀-𝗼𝗳-𝗧𝗿𝗶𝗮𝗻𝗴𝘂𝗹𝗮𝘁𝗶𝗼𝗻-activity-7380563513683050496-Eh1d",
+    "https://fr.linkedin.com/posts/dr-anas-el-azizi-el-alaoui-90156118a_triangulation-méthodologiedelarecherche-activity-7437448102619467776-WBkw",
+    "https://pe.linkedin.com/posts/annmurraybrown_types-of-triangulation-activity-7273430911616970754-aQG5",
+    "https://www.linkedin.com/posts/stephen-tregear_programevaluation-researchmethods-triangulation-activity-7471024238167162881-l89S",
+    "https://www.linkedin.com/pulse/triangulation-dead-kien-nguyen-trung-phd-3exbc",
+    "https://pe.linkedin.com/pulse/sustainable-development-dimensions-factors-moharram-alex-aghazadeh"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "この記事のような登記や測量の知識は、土地家屋調査士の試験の勉強でも、合格した後の仕事でも土台になります",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "というわけで今回の記事ではモーションキャプチャの原理、三角測量といったお話をさせていただきました",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第12回: 三角測量の使い方――原則・理論・兵站を一枚の図に",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利 | Horiguchi, Hidetoshi｜note",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書｜日本個別株デューデリジェンスセンター",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角測量」です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実践ケーススタディ：決算「三角測量」の具体的手順",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その思考プロセスを、「三角測量」のフレームワークに沿って、3つの異なるタイプの企業の仮想ケーススタディで解説します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量の3つの頂点",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "技術的なポイント（例：直近の安値を明確に割り込んだ水準）や、当初の投資仮説が崩れたと判断するファンダメンタルズの変化を基準にします",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "当初の投資仮説が達成された、あるいは市場環境が大きく変化した（例：強気シナリオから弱気シナリオへ移行した）場合にエグジットします",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "当初の投資仮説が崩れた場合や、より魅力的な投資先が見つかった場合には、売却するという規律が不可欠です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿で解説した「三角測量」は、一朝一夕で身につくものではありません",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上谷 良吉 ～解析空中三角測量システムの開発と実用化～｜jsce_hyoden",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上谷 良吉 ～解析空中三角測量システムの開発と実用化～",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この図根点測量には、三角測量等の地上測量や、写真を用いた三角測量の手法である「機械法による空中三角測量」が考案され用いられていた",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "世界に先駆けて解析空中三角測量システムを完成",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "解析空中三角測量は、機械法の空中三角測量の機械操作や仕組みを、座標計測装置と3次元幾何学の数式で置換え、電子計算機で標定問題を解き、図根点の座標や図化機の標定データ等を求める技術である",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上谷良吉（かみや・りょうきち）は、当時はまだ大学や研究所での基礎的研究段階にあったこの技術を、安価な国産の写真計測機器の開発、品質管理に適した数学モデルとデータ処理手法の考案、電子計算機への実装、生産工程の構築等により、世界に先駆けて解析空中三角測量システムとして完成させた",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "空中三角測量のデータ処理には、当時はまだ黎明期にあった電子計算機（写真2）を導入し、最小二乗法を適用した非線形多次元方程式の数値解、誤差調整等を機械言語で開発した",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この新技術により、従来の機械法による空中三角測量に比して生産性が一桁向上したという",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "解析空中三角測量や電子計算の導入は、図解的・労働集約的な当時の写真測量に大変革をもたらした",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "２）丸安隆和、上谷良吉、遠藤義幸：解析航空三角測量の実用化とその意義について、土木学会論文集、第72号、昭和36.1、p.31～39.",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
+    "quote": "土地の測量・境界の確認、建物の登記など、お仕事のご相談を受け付けています",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "検索結果の抜粋": [
    {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角 ...",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — May 25, 2026 · この連載では、その時々にインフラづくりを主導し、あるいはその発展に寄与することで時代をデザインしてきた「土木人」を一人ずつ紹介します。 今回登場するのは、高精度の3次元測量システムを開発した上谷良吉（1911-1972）です。",
-    "url": "https://note.com/jsce_hyoden/n/naced57b483a7",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ・トライアンギュレーション（データの三角測量）と方法論的ト... — これが重要である理由は、この2つがそれぞれ異なる問いに答えるからです。データの三角測量は、 「これは最初に話を聞いた人々以外にも当てはまるか」 と問いかけます。手法の三角測量は、 「これはデータの収集方法による人為的な結果（アーティファクト）なのではないか」 と問いかけ ...",
-    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三角測量（社会科学） - jmediawiki.org — 社会科学において、三角測量とは、同じ現象の研究において複数の研究方法を適用し、組み合わせることを指します。 [1]研究者は、複数の観察者、理論、方法、および経験的資料を組み合わせることで、単一の方法、単一の観察者、および単一の理論による研究から生じる弱点や固有の ...",
+    "quote": "三角測量（社会科学） - jmediawiki.org — [1]研究者は、複数の観察者、理論、方法、および経験的資料を組み合わせることで、単一の方法、単一の観察者、および単一の理論による研究から生じる弱点や固有のバイアス、および問題を克服したいと考えています。",
     "url": "https://www.jmediawiki.org/三角測量と呼ばれ、CSCL+研究における評価の/Triangulation_(social_science)",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · データ解析から物理現象のモデル解明に繋げる場合に、複眼的な思考を持つことは重要です。 なぜなら、導き出した結論の客観性を多少なりとも担保することができるからです。 デンジンさんは4つ…",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · ジェシカ・アバディアについて Jessica Abbadiaは、2020年からデジタルマーケティングに従事し、ASOとSEOを通じて様々な地域のアプリやウェブサイトのオーガニックパフォーマンスを向上させている弁護士です。現在、コミュニティの利益のために科学的で知的な知識を開発中。ジェシカは、読書と ...",
-    "url": "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データの三角測量: 2024-2025 年の混合研究法の妥当性の向上 — 2024 ～ 2025 年の混合研究方法の成果の妥当性を強化する上で、データの三角測量が果たす極めて重要な役割を探ります。",
-    "url": "https://editverse.com/ja/2024-2025年の混合研究における妥当性を高めるデータ三角測量/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
     "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research combines multiple data sources, methods or theories to strengthen findings. Learn Denzin's four types, examples and reporting.",
-    "url": "https://www.researchprospect.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research Explained: Types & Examples — Aug 3, 2026 · Denzin's four types of triangulation, what it does and doesn't prove, and how to report it convincingly in your methodology chapter.",
+    "quote": "Triangulation in Research Explained: Types & Examples — Aug 3, 2026 · Norman Denzin’s four types are data, investigator, theory, and methodological triangulation. It strengthens credibility when sources converge, and yields insight when they diverge — but it does not prove a finding is true.",
     "url": "https://tesify.app/triangulation-in-research-explained-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Denzin's Four Types of Triangulation | PDF | Methodology ... — Denzin identified four types of triangulation that can be used in qualitative research: 1) Data triangulation, which involves collecting data from different people, times, and locations to find common themes. 2) Investigator triangulation, which uses multiple researchers to study the same phenomenon to reduce bias. 3) Theory triangulat",
+    "quote": "Denzin's Four Types of Triangulation | PDF | Methodology ... — Denzin identified four types of triangulation that can be used in qualitative research: 1) Data triangulation, which involves collecting data from different people, times, and locations to find common themes.",
     "url": "https://www.scribd.com/document/698725633/Denzin-Triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation in Qualitative Research - Simply Psychology — Sep 29, 2026 · Definition: Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978). Four Types: Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "なお、本内容には細心の注意を払っておりますが、内容に間違いがあったらご指摘いただけますとありがたいです",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "正弦定理は、直接測れない対象物との距離や角度を求める｢三角測量｣で活躍するよ",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三角測量でもうひとつ大切な公式｢余弦定理｣",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "三斜求積という面積計算法と、三角測量という位置を求める方法は区別して理解しましょう",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2026年9月21日訂正】三斜求積と三角測量、面積の計算と図形の復元を区別して訂正しました",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "手順・やり方": [
    {
-    "quote": "本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "前回、三平方の定理と三角比、そして三角比を関数電卓で出す方法をまとめました",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "混合研究手法（Mixed Methods Research）",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "三平方の定理から余弦定理まで、測量にちなんだ計算方法と実用例を紹介していきました",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "1960年代にデザインの方法論の研究から端を発する「デザインリサーチ」では、プロダクトやサービスなどあらゆる人工物を生成するための横断的な研究が進められてきました",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "土地をいくつかの三角形に分割して、それぞれの「底辺 × 高さ ÷ 2」で面積を出して合計する方法ですよね",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "専門家だけでなく市民をリードユーザーとして迎え入れたり、デザイン主導型の場合もあれば、対話型のワークショップでアイデアを共に検討するなど、リフレクションを多用することも少なくありません",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "quote": "三斜求積という面積計算法と、三角測量という位置を求める方法は区別して理解しましょう",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "三角測量の理論、算出方法",
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "quote": "曲線を含む境界では、その取扱いや近似方法も検討します",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "第12回: 三角測量の使い方――原則・理論・兵站を一枚の図に",
-    "url": "https://note.com/hidetoshi_h_/m/m40eef6dece29",
+    "quote": "三斜求積：三角形の底辺と垂直な高さから面積を求め、重複なく合計する方法",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書｜日本個別株デューデリジェンスセンター",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "独学で始めるのが不安なら、通信講座で試験の範囲をひと通り学ぶのも一つの方法です",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "「三斜求積のところ、もう少し詳しく知りたい」「勉強の進め方、これで合ってる？」――そんなときは、公式LINEからメッセージをどうぞ",
+    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、ある斜面の水平距離が4m、高さが2mの時、その斜面の角度は",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、三角形のそれぞれの角をA・B・Cとし、それに対応する向かい合う辺をa・b・cとするとき",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "このセクターは、まさに「未来への期待」が株価を牽引する典型例です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、距離を調べたい点Cがあるけど、間に川があって直接距離が測れない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AIブームの裏側で、従来型の半導体の主要な市場であるPCやスマートフォンの需要回復ペースは緩やかです",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、ある点AとBの距離が知りたいけど、間に大きな岩があって直接距離も角度も測れない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "実践ケーススタディ：決算「三角測量」の具体的手順",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "例えば、ある土地の面積を知りたいけど、真ん中に池があって三角形の垂線の長さが分からない",
+    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "その思考プロセスを、「三角測量」のフレームワークに沿って、3つの異なるタイプの企業の仮想ケーススタディで解説します",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "受注残の減少は将来の減益を示唆しており、いわゆる「バリュートラップ」の典型例です",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "What is an example of methodological triangulation?",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "投資執行の技術：トレード設計の実践的フレームワーク",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "「決算後のモメンタムは最大3ヶ月」など、時間的な区切りを設ける方法",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "Triangulation in Research: Types & Examples",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "これが、長期的に市場で生き残るための唯一の方法だと痛感しています",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "Use triangulation whenever a question is too complex, contested or context-dependent to trust to a single method, and especially when you want to strengthen the validity of quantitative work or the trustworthiness of qualitative work. It is a cornerstone of robust mixed-methods and case-study designs.",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この手順書が、その探求の旅における、信頼できる羅針盤となることを願っています",
-    "url": "https://note.com/tatsuya_sabato/n/n59e0b3bad3e6",
+    "quote": "Denzin distinguished four kinds of triangulation. They are not mutually exclusive — a single ambitious study may use several at once — but it helps to keep them conceptually separate so you can describe precisely what you did and why. The table below summarises each type, what gets varied, and a quick example.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "triangulation uses more than one technique inside the same paradigm — for example, several different scales within one questionnaire to measure the same construct, or open and closed questions in one interview. It checks internal consistency but cannot escape the limitations shared by all instruments of that type.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A worked example: integrating survey, interviews and documents",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アノリス∠L'A on X: \"よし!『三角測量』で測るぞ!一辺の長さと両端の... よし!『三角測量』で測るぞ!一辺の長さと両端の角度がわかれば、交差した点の位置を求められるという方法だ。 その三角を重ねていくと島の形が見えてくる。 これが地図になるんだ。 さらに詳細な地形は一辺を三角で割って形を捉えていくぞ!",
+    "url": "https://x.com/awesonic/status/2107748810340651107",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Differentiate between the four (4) types of data triangulation Apr 29, 2021 · Denzin (1973, p.301) proposes four basic types of triangulation: · Data triangulation: consist of data which is collected at different times, or from different sources, in the study of...",
+    "url": "https://www.linkedin.com/pulse/differentiate-between-four-4-types-data-triangulation-claassen",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T05:01:37.845986+00:00"
 }
