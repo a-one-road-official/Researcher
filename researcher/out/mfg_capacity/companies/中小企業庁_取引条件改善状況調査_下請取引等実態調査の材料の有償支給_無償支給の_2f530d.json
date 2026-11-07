@@ -1,0 +1,558 @@
+{
+ "name": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+ "en": "Japan SME Agency subcontract transaction survey paid material supply percentage table",
+ "aliases": [
+  "取引条件改善状況調査 有償支給 割合 製造業 filetype:pdf site:chusho.meti.go.jp",
+  "下請取引等実態調査 材料 有償支給 無償支給 回答割合",
+  "有償支給 原材料 価格転嫁 調査 結果 表 site:meti.go.jp"
+ ],
+ "context": "プレス・下請・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T09:59:49.468600+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekitorisupport.go.jp/download/topics/202310koushuu2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/8b2ae7ddd9e0765a3bd54befb1fe8fa6",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/14977/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaw.or.jp/win-win/pdf/2kouen2_tyushoukigyoutorikijoukenkaizen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jdsa.or.jp/20160324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sogyotecho.jp/news/20251212torihiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.med.or.jp/dl-med/doctor/igyoukeiei/kakakutenka/r070925.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/articles/1504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rice.or.jp/wp-content/uploads/2025/05/77-all-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/file/261007_1_sankoshiryo.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/002025043.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/001899673.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000817.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2023/may/230530.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/001899674.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2025/may/250512_R6_honbun.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000573.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kumaken.or.jp/files/libs/1679/202210131437215557.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/content/001979929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.taketoyo.lg.jp/cgi-list/download.cgi?category=170&text=&group=0&sort=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file5a8d35960ac4f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004055483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004007366",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/wooden_baby_gift_boxes",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jidosha/content/001980298.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/panfu_files/pointkaisetsu.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2025/may/250512.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA0403R0U6A800C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/horei.gis/posts/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81%E5%8F%96%E5%BC%95%E6%9D%A1%E4%BB%B6%E6%94%B9%E5%96%84%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8F%96%E5%BC%95%E6%9D%A1%E4%BB%B6%E6%94%B9%E5%96%84%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F-pdf-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81%E3%81%AF%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E8%BB%A2%E5%AB%81%E4%BC%81%E6%A5%AD%E5%8F%8E%E7%9B%8A/1476879387642182/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/2022/220412chousa.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00218.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/content/001721183.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://documents1.worldbank.org/curated/en/088020924230025243/pdf/IBArchive-d17a68ac-e68d-4dac-9c34-785dd78d7ac1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://single-market-economy.ec.europa.eu/system/files/2016-06/eu-smes-subcontracting-final-report_en_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adb.org/sites/default/files/publication/156024/adbi-wp169.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 人手不足 受注 断る",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://tekitorisupport.go.jp/download/topics/202310koushuu2.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/8b2ae7ddd9e0765a3bd54befb1fe8fa6.pdf",
+    "https://jinjibu.jp/news/detl/14977/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.jaw.or.jp/win-win/pdf/2kouen2_tyushoukigyoutorikijoukenkaizen.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://jdsa.or.jp/20160324/",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://jinjibu.jp/news/detl/14977/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 人手不足 損失 億円",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.med.or.jp/dl-med/doctor/igyoukeiei/kakakutenka/r070925.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.businesslawyers.jp/articles/1504",
+    "https://www.rice.or.jp/wp-content/uploads/2025/05/77-all-1.pdf",
+    "https://www.mlit.go.jp/report/press/content/001895678.pdf"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://tekitorisupport.go.jp/download/topics/202310koushuu2.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/may/230530.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001899674.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/may/250512_R6_honbun.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://kumaken.or.jp/files/libs/1679/202210131437215557.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001979929.pdf",
+    "https://www.town.taketoyo.lg.jp/cgi-list/download.cgi?category=170&text=&group=0&sort=2",
+    "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file5a8d35960ac4f.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004055483",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004007366",
+    "https://www.etsy.com/market/wooden_baby_gift_boxes"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 従業者規模別",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://www.mlit.go.jp/jidosha/content/001980298.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/index.html",
+    "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.jftc.go.jp/houdou/panfu_files/pointkaisetsu.pdf"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://tekitorisupport.go.jp/download/topics/202310koushuu2.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/may/250512.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.nikkei.com/article/DGXZQOUA0403R0U6A800C2000000/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/may/250512_R6_honbun.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://tekitorisupport.go.jp/download/topics/202310koushuu2.pdf",
+    "https://www.facebook.com/horei.gis/posts/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81%E5%8F%96%E5%BC%95%E6%9D%A1%E4%BB%B6%E6%94%B9%E5%96%84%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8F%96%E5%BC%95%E6%9D%A1%E4%BB%B6%E6%94%B9%E5%96%84%E7%8A%B6%E6%B3%81%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F-pdf-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81%E3%81%AF%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E8%BB%A2%E5%AB%81%E4%BC%81%E6%A5%AD%E5%8F%8E%E7%9B%8A/1476879387642182/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "Japan SME Agency subcontract transaction survey paid material supply percentage table Japan statistics",
+   "results": [
+    "https://documents1.worldbank.org/curated/en/088020924230025243/pdf/IBArchive-d17a68ac-e68d-4dac-9c34-785dd78d7ac1.pdf",
+    "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "https://single-market-economy.ec.europa.eu/system/files/2016-06/eu-smes-subcontracting-final-report_en_0.pdf",
+    "https://www.adb.org/sites/default/files/publication/156024/adbi-wp169.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.researchgate.net/publication/226693156_Subcontracting_Structure_and_Productivity_in_the_Japanese_Software_Industry",
+    "https://www.emerald.com/jabs/article/20/2/486/1251531/A-systematic-literature-review-of-Japanese-SMEs",
+    "https://www.e-stat.go.jp/en/statistics/00553020"
+   ]
+  },
+  {
+   "query": "site:note.com 中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+   "results": [
+    "https://note.com/loyal_ivy9071/n/nf6656a048090",
+    "https://note.com/aymix117/n/n45ece81fcb94",
+    "https://note.com/loyal_ivy9071/n/n25de3448f0a8",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html",
+    "https://www.jftc.go.jp/file/261007_1_sankoshiryo.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/002025043.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001899673.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000817.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000573.pdf"
+   ]
+  },
+  {
+   "query": "site:x.com 中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html",
+    "https://www.jftc.go.jp/file/261007_1_sankoshiryo.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/002025043.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001899673.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000817.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000573.pdf"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html",
+    "https://www.jftc.go.jp/file/261007_1_sankoshiryo.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/002025043.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001899673.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000817.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000573.pdf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2024/241011chousa.html",
+    "https://www.jftc.go.jp/file/261007_1_sankoshiryo.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/002025043.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001899673.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000817.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000573.pdf"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://www.jaw.or.jp/win-win/pdf/2kouen2_tyushoukigyoutorikijoukenkaizen.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/2022/220303/jimu/s01.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260610.html",
+    "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00122.html",
+    "http://www.kenchikushikai.or.jp/data/news/2021/2021-09-02-01.pdf",
+    "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file5a8d35960ac4f.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2023/20231025chousa.html",
+    "https://x.com/meti_chusho/status/1996776552991019271",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000190.html",
+    "https://www.jaw.or.jp/win-win/pdf/2kouen2_tyushoukigyoutorikijoukenkaizen.pdf",
+    "https://tekitorisupport.go.jp/",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002127309.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2022/may/R3_honbun.pdf",
+    "https://sogyotecho.jp/news/20251212torihiki/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/2025/251205chousa.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/jyoken-kaizen_chousa/index.html"
+   ]
+  },
+  {
+   "query": "Japan SME Agency subcontract transaction survey paid material supply percentage table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/tmakinwa_79-of-subcontractors-say-they-are-almost-activity-7522934408346030080-T7NK",
+    "https://www.linkedin.com/pulse/what-subcontractor-why-do-companies-use-them-sbb1c",
+    "https://www.linkedin.com/posts/emma-jones-8063536_lets-get-the-money-moving-activity-7524373065594507264-uw4g",
+    "https://www.linkedin.com/posts/european-builders-confederation-ebc_payment-smes-late-activity-7523724410894073856-pNV8",
+    "https://www.linkedin.com/in/guy-saxelby",
+    "https://www.linkedin.com/pulse/wolf-sheeps-clothing-is-your-subcontractor-really-nesha-pai-cpa",
+    "https://uk.linkedin.com/in/alan-groom-538667104",
+    "https://www.linkedin.com/posts/josh-almario-a61b3765_billc40-defenceprocurement-defence-activity-7520907280633012224-b7Qp",
+    "https://www.linkedin.com/posts/business-elites-africa-12_how-to-reduce-project-site-theft-and-material-activity-7513945929985490944-maQj",
+    "https://www.linkedin.com/in/chris-deherrera-3852312a"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ54頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ54頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ54頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ54頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ54頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ54頁・検索18回）",
+  "10年推移": "記載なし（読んだ54頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ54頁・検索18回）"
+ }
+}

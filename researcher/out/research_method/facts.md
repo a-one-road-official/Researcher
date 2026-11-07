@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・171品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・173品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1340,7 +1340,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -3598,11 +3598,11 @@
   - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「. Open it in another tab and build your matrix as you read — everything auto-saves in your browser, and each step below maps directly to a feature in the tool.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
-  - 「Heuer's method, step by step」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
-  - 「Screening out "unlikely" hypotheses at step 1.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「GitHubの仕組みから使い方、プログラムのアップロードを解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「C2サーバの追跡方法：SSL証明やJARM使用」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「人間は「最初の仮説に合う証拠」ばかり集めてしまう」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「仮説を洗い出す（最低3つ）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -3620,6 +3620,12 @@
   - 「複数の対立仮説を並べて「どの仮説が最も反証されにくいか」を選ぶ」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「本命の仮説だけでなく、対立仮説と「この情報自体が偽情報・偽旗である」という仮説を必ず含める」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 一次情報の探し方：
+  - 「関係線を採用する前に、元になった各ソースを確認してください」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「メールアドレスや電話番号の調査は、許可された目的と、その目的に関連する公的記録の範囲にとどめましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「で調べ、次に関連する公的な登記簿で裏付けを取ります」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「過去の役員就任と現在の役職、登記上の住所と実際の事業所の所在地も、それぞれ区別しましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「site:example.com filetype:pdf」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「はい、絞り込んだ調査であれば、アクセス可能な公的記録と手作業での検証で行えます」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
   - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
@@ -3629,44 +3635,38 @@
   - 「数値化は有効な手段ですが、統計は操作可能であることを常に意識する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「第一次情報源とは、ある事象について最初に情報が発せられた出所を指します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「第一次情報源から得られた情報を第一次情報と呼びます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「それに対して、第一次情報をもとに編集や解釈が加えられた情報は、数次情報と呼ばれ、一般にはまとめて第二次情報として扱われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「一般に、第一次情報とは「本人が直接見たもの、聞いたもの」だと言われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「この説明だけを見ると、第一次情報を得るには、現場に行ったり、当事者に話を聞いたりする必要があるように思えます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「第一次情報か第二次情報かは、情報がどれだけ加工されているかという「距離」の問題です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「公開情報であっても、加工されていない原資料に当たれば、それは第一次情報に近いオシントになります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「つまり、第一次情報＝ヒューミント、オシント＝第二次情報、という対応関係が成り立つわけではありません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
   - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
+  - 「注意深く内容を確認できるインターフェースを選びましょう」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「情報源のURL、クエリ、応答、失敗、アクセス経路を保存します」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「エラー行は保存されますが、失敗時の所要時間はnullになることがあります」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「証明書のクエリは両方の経路で失敗し、レジデンシャル経路ではRIPEstatのレイテンシが増加しました」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
   - 「hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
   - 「To choose the most valid one, you need a framework to generate an exhaustive list of competing hypotheses, assess the evidence accurately, and prevent biases from creeping in. He created ACH to help solve this problem.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「The seven steps are not designed to offer prescriptive advice that leads you to the “right” decision. Instead, they provide a structure for you to follow when assessing the validity of competing hypotheses that mitigates potential biases and promotes logical reasoning.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「: ACH relies on analysts making subjective judgments about what hypotheses are credible, relevant, and significant based on the evidence they collect. There are no checks and balances. The analyst controls the entire flow of information, which can lead to missing, incomplete, or biased conclusions.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「: Assessing whether one piece of evidence is more valuable, reliable, or important than another can be difficult. This can lead to uncertainty and biased conclusions. ACH tries to counter this by focusing on the number of supporting pieces of evidence, but this can lead to overreliance on quantitative metrics.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
   - 「Once your ACH matrix is complete, you can prioritize the most likely hypotheses. As previously mentioned, it’s good to start with evidence that reduces the likelihood of certain hypotheses, prioritize your list based on this evidence, and then examine supporting evidence. This will force you to assess all the evidence you have collected and avoid confirmation bias.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「Cognitive Biases That Derail Investigations | OSINT Blog」（https://www.osintblog.com/blog/cognitive-biases-investigations）
-  - 「Cognitive Biases That Derail Investigations」（https://www.osintblog.com/blog/cognitive-biases-investigations）
-  - 「Cognitive biases are systematic patterns in how people judge and decide. They are not character flaws and they do not go away with experience or intelligence. Experienced analysts are often more confident, which can make some biases worse. The practical response is not to try harder to be objective. It is to build checks into your process so the biases have fewer places to hide.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
-  - 「This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
 - 実例：
   - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「アナリストは感度分析を使用して結果をテストします」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「Analysis of Competing Hypotheses: a step-by-step example | qbzz」（https://qbzz.org/osint/analysis-of-competing-hypotheses/）
-  - 「CTI vendors often flag servers delivering advertisements as suspicious because they are unwanted and can be a potential risk if compromised. This could be the case with this IP.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「For example, the domain name to which a suspicious IP address resolves is evidence. However, this may be non-diagnostic evidence that does not help determine the likelihood of a hypothesis, so it is irrelevant to your analysis.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「Now that you know what ACH is and the seven steps that make up the process, let’s look at some common use cases.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「It is important to remember that ACH is a structured analytic technique developed within the intelligence community. Therefore, it applies to many disciplines, not just cyber security. For brevity, this article only focuses on cyber use cases.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「You have already seen some examples of the Analysis of Competing Hypotheses method in action with the suspicious IP address walkthrough earlier. To make the process more understandable, let’s look at a less technical case study that is more common to everyday life.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「Yes. In the real world, this is overkill and a waste of paper, but it is a good example of how to apply logical reasoning through ACH analysis.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「The next step is to review your ACH matrix and refine it by removing or adding hypotheses or evidence. In this example, you can remove I left the keys on the kitchen table from the list and add a newly discovered piece of evidence,」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「The list of most plausible hypotheses, based on likelihood, in this example, is:」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「The key pieces of evidence in this example are:」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「. In this example, it is as simple as looking for your keys in your work bag. However, in the real world, you want to include your most plausible hypothesis, qualify it with」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
-  - 「For more practical examples of ACH, check out this excellent YouTube video. It provides clear, simple, and easy-to-understand examples to help you understand how this structured analytical technique can be used in the real world.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「おすすめOSINTツールの選び方と結果の検証方法を解説 | DataImpulse」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「おすすめOSINTツール:選び方と結果の検証を実践的に解説」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「このガイドでは、実用的な選択肢を比較し、検証の進め方を説明したうえで、2026年10月19日に行った当社の簡易テストの結果を報告します」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「この小さな実測結果は、情報の収集に成功することと、信頼できる結論を得ることが別の作業であることを示しています」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「検索結果をそのまま事実として扱うのではなく、明確な問いに照らして情報を評価して初めて、インテリジェンスが得られます」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「1クレジットで100件の結果をダウンロードできます(2026年10月時点)」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「判定結果は、解釈が必要な証拠として扱ってください」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「大規模なプラットフォームを購入する前に、既知の事例で1件試してみてください」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「検索結果に出てきたからといって、対象者に連絡したり、非公開のアカウントにアクセスしたり、個人を特定できる情報を公開したりしてはいけません」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「page.domain:example.com」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
+  - 「org:"Example Organization"」（https://dataimpulse.com/ja-jp/blog/osint-tools/）
 - 検索結果の抜粋：
   - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · 集めた情報を「評価」する技術 Admiralty Code・循環報道・ACH・確度表現の実務ガイド OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · はじめに 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系...」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
@@ -3675,14 +3675,14 @@
   - 「競合する仮説の分析 | 幻想の近現代（情報局815） — 「競合する仮説の分析」（以下 ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。 アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたといわれています。」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「インテリジェンス思考術（第24回-完） – インテリジェンスの匠 — Apr 14, 2026 · 競合仮説分析（ACH）を使う 仮説競合分析とは 仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります。 この手法は、CIAの分析官リチャード・ホイヤーが、認知心理学をもとに整理したものです。背景には、KGBの二重 ...」（https://atsumori.shop/archives/2346）
   - 「Analysis of Competing Hypotheses: a step-by-step example — Oct 22, 2026 · Analysis of Competing Hypotheses (ACH) is a structured technique for deciding between several possible explanations of the same evidence. Richards Heuer developed it at the CIA in the 1970s, and it is still one of the most widely taught methods in intelligence analysis, investigative journalism and fraud investigation.」（https://qbzz.org/osint/analysis-of-competing-hypotheses/）
+  - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。 NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Copilotで競合仮説分析(ACH)をやってみる - Qiita — Jan 10, 2026 · 競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である。」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · 本記事で紹介した 競合仮説分析（ACH） は、認知バイアスを克服し、客観性を高めるための有効な手法です。 この手法を用いることで、複数の仮説を公平に評価し、最も支持される仮説を導き出すプロセスが体系化されます。」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirmation bias.” Fifty intelligence analysts were randomly assigned to use ACH or not when completing a hypothesis testing task that had probabilistic ground truth.」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
   - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most 」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · What is the Analysis of Competing Hypotheses? The Analysis of Competing Hypotheses (ACH) is a structured analytical technique that helps individuals and teams evaluate multiple possible explanations for an event, trend, or problem – all at the same time. Rather than focusing on finding evidence that supports a single favo」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
   - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · The intelligence community uses “structured analytic techniques” to help analysts think critically and avoid cognitive bias. However, little evidence exists of how techniques are applied and whether they are effective. We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirm」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
   - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most robust assessment. ACH is the operational discipline that transforms OSINT from information aggregation into intelligence production.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
-  - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · In an age of information overload, uncertainty, and complex decision-making, clear analytical thinking is more crucial than ever. The Analysis of Competing Hypotheses (ACH) is a structured method designed to cut through ambiguity and support objective, evidence-based conclusions.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
 
 ## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
 - 文脈：失敗・落とし穴
@@ -5031,7 +5031,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -7624,11 +7624,86 @@
 
 ## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応」（https://data-viz-lab.com/census-data）
+  - 「本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングを進める6つのSTEP」（https://data-viz-lab.com/census-data）
+  - 「STEP1 利用目的と必要な集計単位の確定」（https://data-viz-lab.com/census-data）
+  - 「STEP2 元データの構造把握とヘッダー・階層の整形」（https://data-viz-lab.com/census-data）
+  - 「STEP3 表記の標準化：全角半角・数値型・文字コード」（https://data-viz-lab.com/census-data）
+  - 「STEP4 欠測・秘匿値・不詳の処理方針の決定」（https://data-viz-lab.com/census-data）
+  - 「STEP5 地域コードによる名寄せと他データとの結合」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます」（https://data-viz-lab.com/census-data）
+  - 「更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です」（https://data-viz-lab.com/census-data）
+  - 「APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります」（https://data-viz-lab.com/census-data）
+  - 「補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください」（https://data-viz-lab.com/census-data）
+  - 「Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます」（https://data-viz-lab.com/census-data）
+- 突き合わせ・推定：
+  - 「国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「BtoB企業：市場規模推計での按分処理の設計」（https://data-viz-lab.com/census-data）
+  - 「分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります」（https://data-viz-lab.com/census-data）
+  - 「商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください」（https://data-viz-lab.com/census-data）
+  - 「加工が終わったデータは、必ず元の統計表の総数と突き合わせます」（https://data-viz-lab.com/census-data）
+  - 「検証と並んで欠かせないのが、加工履歴の記録です」（https://data-viz-lab.com/census-data）
+  - 「細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります」（https://data-viz-lab.com/census-data）
+  - 「按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください」（https://data-viz-lab.com/census-data）
+  - 「経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます」（https://data-viz-lab.com/census-data）
+  - 「公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります」（https://data-viz-lab.com/census-data）
+  - 「残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します」（https://data-viz-lab.com/census-data）
+  - 「増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます」（https://data-viz-lab.com/census-data）
+- 一次情報の探し方：
+  - 「クレンジングでは、こうした公的統計特有の形式を分析可能な状態へ整えていきます」（https://data-viz-lab.com/census-data）
+  - 「少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります」（https://data-viz-lab.com/census-data）
+  - 「手元にダウンロード済みのファイルがある方は、実際の統計表と照らし合わせながら読み進めてください」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングとは：公的統計特有の前処理」（https://data-viz-lab.com/census-data）
+  - 「統計GIS境界データと結合する際のキー設計」（https://data-viz-lab.com/census-data）
+  - 「国勢調査の集計結果は、総務省統計局が」（https://data-viz-lab.com/census-data）
+  - 「統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます」（https://data-viz-lab.com/census-data）
+  - 「APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります」（https://data-viz-lab.com/census-data）
+  - 「配布される統計表は、印刷して人が読むことを前提に設計されています」（https://data-viz-lab.com/census-data）
+  - 「業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします」（https://data-viz-lab.com/census-data）
+  - 「分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです」（https://data-viz-lab.com/census-data）
+  - 「一方の統計表は、年齢階級や男女が列方向に展開された横持ちの形をとっているため、そのまま接続すると列数だけが増えて集計軸を作れません」（https://data-viz-lab.com/census-data）
+  - 「この4列さえ決めておけば、統計表が変わっても同じ処理を流用できます」（https://data-viz-lab.com/census-data）
+  - 「工数の目安は統計表1枚あたり30分から2時間程度で、10枚を扱う案件なら1人日から2人日を見込んでください」（https://data-viz-lab.com/census-data）
+  - 「2015年と2020年で同じ名称の統計表を使っていても、集計の定義が更新されている場合があるのです」（https://data-viz-lab.com/census-data）
+- 失敗・落とし穴：
+  - 「少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングでよくある失敗パターン」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「順番には意味があり、標準化を終える前に名寄せへ進むと、後述する典型的な失敗を踏むことになってしまうでしょう」（https://data-viz-lab.com/census-data）
+  - 「カンマと空白を除去したうえで数値型へ変換し、変換に失敗した値は削除せず別列へ退避させます」（https://data-viz-lab.com/census-data）
+  - 「符号を一律に0へ置き換える処理は、最も頻度が高く、最も影響の大きい誤りになります」（https://data-viz-lab.com/census-data）
+  - 「許容できる差はゼロが原則で、1人でもずれていれば処理のどこかに誤りがあると考えてください」（https://data-viz-lab.com/census-data）
+  - 「判別作業は、数値変換に失敗した値の一覧を作るところから始めます」（https://data-viz-lab.com/census-data）
+  - 「「総数」「男」「女」が縦に並ぶ形式のまま合計すると、人口が実際の2倍になるという、発見が遅れがちな誤りが生まれるのです」（https://data-viz-lab.com/census-data）
+  - 「名称が同じであることを理由にそのまま比較へ進むと、解釈を誤ります」（https://data-viz-lab.com/census-data）
+  - 「結合時に注意したいのが、境界データと属性データの調査年をそろえる点です」（https://data-viz-lab.com/census-data）
+  - 「ここでは、実務の現場で繰り返し目にする失敗を5つ取り上げます」（https://data-viz-lab.com/census-data）
+  - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）
+  - 「最も頻度が高い失敗が、伏せられた値を0として集計してしまうケースです」（https://data-viz-lab.com/census-data）
+  - 「順序を守るだけで、失敗パターンの大半は回避できます」（https://data-viz-lab.com/census-data）
+- 実例：
+  - 「国勢調査の集計結果は、総務省統計局が」（https://data-viz-lab.com/census-data）
+  - 「ダウンロードしたCSVは、文字コードがShift_JISになっているケースが多数です」（https://data-viz-lab.com/census-data）
+  - 「を、単なる空欄や0と同一視すると、集計結果は静かに壊れます」（https://data-viz-lab.com/census-data）
+  - 「業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします」（https://data-viz-lab.com/census-data）
+  - 「Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます」（https://data-viz-lab.com/census-data）
+  - 「点検結果はスプレッドシートへ調査年別で記録し、比較可能と判断した根拠まで残しておくと、レビュー時の説明が容易です」（https://data-viz-lab.com/census-data）
+  - 「担当者が異動した時点で、分析そのものが止まってしまう事例も少なくありません」（https://data-viz-lab.com/census-data）
+  - 「初回の実装には市区町村単位で3人日から5人日程度かかりますが、2回目以降の更新は1時間以内に短縮できるケースが大半です」（https://data-viz-lab.com/census-data）
+  - 「世帯数が少ない区分では該当する値が公表されないため、詳細な属性ほど空白が目立つ結果になるのです」（https://data-viz-lab.com/census-data）
+  - 「確認結果は表ごとにメモへ残し、読み込み処理の引数として外出ししておくと保守が楽になります」（https://data-viz-lab.com/census-data）
+  - 「分類の結果は符号ごとの件数として集計し、全体に占める割合を把握してから方針を決めてください」（https://data-viz-lab.com/census-data）
+  - 「記録の粒度は、担当者以外が同じ結果を再現できるかどうかを基準に決めてください」（https://data-viz-lab.com/census-data）
+  - 「再現できない加工は分析結果の信頼性を担保できないため、成果物としては未完成の状態です」（https://data-viz-lab.com/census-data）
+  - 「いずれも、発生してから直すより設計段階で防ぐほうが、結果として工数を抑えられるのです」（https://data-viz-lab.com/census-data）
+  - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）
 
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
@@ -7766,15 +7841,19 @@
   - 「文献検索手順の記録はこうした研究の重要な構成要素であり、検索の堅牢性と再現性を確保するために同声明でもチェックリストの3項目で言及されている一方、最適な検索方法に関する詳細な指針が確立されていないことなどから、実際の研究における準拠率は低い状況にあります」（https://current.ndl.go.jp/car/43342）
   - 「文献検索手順を記録するための指針として、検索対象としたデータベース名・臨床試験登録レジストリ・オンライン情報源等に関わる「情報源・方法」、検索式・制約や限界・検索フィルター・先行研究の手法の活用状況・検索の実施日等に関わる「検索手段」、検索プロセスの「ピアレビュー」、検索結果の合計レコード数・複数の情報源を用いた場合の重複処理に関わる「検索結果の管理」の4セクション・16項目のチェックリストで構成されています」（https://current.ndl.go.jp/car/43342）
   - 「“PRISMA-S”の全文は、非営利団体Center for Open Science（COS）の研究プロジェクト管理システム“Open Science Framework”（OSF）のプラットフォーム上で公開されています」（https://current.ndl.go.jp/car/43342）
-  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Rayyanの使い方｜スクリーニング手順・PRISMA数・κ」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「Rayyanはこの作業を支援するツールの1つで、本記事では手順の例として使います」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「検索式の作り方、PRISMA 2020の項目全体、メタアナリシスの統合方法は扱いません」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「システマティックレビューのやり方（8ステップ）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「、報告方法は」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「PRISMA 2020の報告方法」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「2. Rayyanでの手順（7ステップ）」（https://japan.editverse.com/rayyan-screening-guide/）
 - 突き合わせ・推定：
   - 「There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「使う場合は、ご自身のプランの内容を確認し、図の数値を自分で集計した件数と照合してください」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「公表された度数からRでκを再計算し、著者らの報告値と照合しました」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「単純な大標本の標準誤差（nが小さいと精度が悪い近似）を使うと、SFA-YL（n = 59）の95%区間は約0.09〜0.68、SA-YL（n = 16）は0を下回る値から1を上回る値にまで及び、点推定値がほとんど情報を持たないことを示します」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「自動の重複件数やフロー図を、自分の表計算と照合せずに信用する」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -7785,27 +7864,28 @@
   - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Meta-analysis of effect estimates」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「—The combination of a point estimate (such as a mean difference, risk ratio or proportion) and a measure of its precision (such as a confidence/credible interval) for a particular outcome」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect (that is, which group is favoured)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「transforming effect estimates (such as converting standardised mean differences to odds ratios」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
 - 一次情報の探し方：
+  - 「全文献について、査読者ごとの判定（採用・除外・保留）を監査できる記録として残す」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「Rayyanの「対応ファイル形式」ページには、EndNote（.enw）、RefMan/RIS（.ris）、BibTeX（.bib）、CSV（.csv）、PubMed/NBIB（.nbib）、PubMed XML（.xml）、Web of Science CIW（.ciw）、PDFが載っており、コンテナとして.txt、.docx、.ris.gz、.zipも挙げられています」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「Cohenのκは、2名が実際に達成した一致を、各自の採用・除外の割合から偶然に期待される一致と比べる指標です」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「2×2表のセルを a（両者が採用）、b（Aが採用・Bが除外）、c（Aが除外・Bが採用）、d（両者が除外）とし、n = a + b + c + d とすると次のとおりです」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「r1 <- rep(c(1, 1, 0, 0), c(a, b, c, d)) # 1 = 採用」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「このペアの13件の不一致は、すべてAが採用・Bが除外の文献です（c = 0）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「各段階の件数（データベース別、重複削除、選別、全文評価、理由つき除外、採用）を記録し、合計が合うか確認する」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「統計・検定の選び方（EZR・カイ二乗とFisher・回帰）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「医学統計解析サポート（¥79,800〜）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「統計監査（¥39,800）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「学位論文の統計｜解析計画の立て方と報告のしかた」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「修士論文・博士論文の統計は、データを集める前に解析計画を決めておくのが基本です」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「統計解析・統計チェック・メタアナリシスに対応します」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Cochrane Reviews 119, 120）で採用された介入（実施戦」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「１：現時点での状況で，変更の可能性あり．２：各論文の質の評価は必須ではないが，場合によって実施されることがある．３：統計的メタ分析（量的」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
 - 失敗・落とし穴：
+  - 「出力時は「full record」または「include abstract」を選ぶようにとの注意書きがあり、抄録がないとRayyanのAI機能の精度が下がるとされています」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「2×2表、対象件数、注意点とともに示す」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「Forest plot作成、異質性評価、出版バイアス評価まで対応します」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「学位論文の剽窃チェック｜大学10校の運用例と執筆者の注意点」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -7816,27 +7896,22 @@
   - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「１つ１つの研究論文に含まれるバイアスリスクをチェッ」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
-  - 「の方法は明確だが，バイアスリスクの評価など個々の対」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
 - 実例：
   - 「同論文は、指針の作成グループらが検討の背景や作成の過程、指針の内容、準拠事例などを解説する内容です」（https://current.ndl.go.jp/car/43342）
   - 「文献検索手順を記録するための指針として、検索対象としたデータベース名・臨床試験登録レジストリ・オンライン情報源等に関わる「情報源・方法」、検索式・制約や限界・検索フィルター・先行研究の手法の活用状況・検索の実施日等に関わる「検索手段」、検索プロセスの「ピアレビュー」、検索結果の合計レコード数・複数の情報源を用いた場合の重複処理に関わる「検索結果の管理」の4セクション・16項目のチェックリストで構成されています」（https://current.ndl.go.jp/car/43342）
   - 「全国学校図書館協議会（全国SLA）、「第71回学校読書調査（2026年）」の結果を公表」（https://current.ndl.go.jp/car/43342）
+  - 「使うツールにかかわらず、タイトル・抄録スクリーニングの結果として次の4点を残します」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「Cochraneハンドブックも、選別の最初の手順として、検索結果を文献管理ソフトで統合し、同じ報告の重複レコードを除くことを挙げています」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「PRISMA 2020の項目16aは、検索で特定したレコード数から含めた研究数までの検索・選別の結果を、できればフロー図で示すことを求めています」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「件数は結果の本文と図1の説明文の記載どおり）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「全ペアのRの結果です（観察一致率とκは筆者の計算、「報告値」は著者らの値）」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「回帰分析の種類と選び方｜結果変数で決めるモデル選択と論文記載例」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「回帰分析のモデルは、ソフトウェアのメニューではなく、測定した結果変数（アウトカム）の型で選びます」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 
 ## OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）（osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration）
 - 文脈：一次情報の探し方
@@ -7910,38 +7985,39 @@
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗
 - 手順・やり方：
-  - 「モデルが求める精度、ソフトウェア基盤、データ型、通信方式、コンパイラ、運用体制により総所有コストが変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「世代交代が速い場合、旧型機の性能当たり電力費、保守費、ラック密度が不利になる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「最高経営責任者は、現時点で計画している2027年と2028年の供給能力では顧客の需要を満たしきれない見込みだとし、2028年の能力を従来示していた30％増からさらに上積みする方法を検討していると述べた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「FTはSynMaxの分析として、2026年稼働予定の米データセンターの約4割が遅延に直面し、Microsoft、OpenAIなどの大型案件は3か月以上遅れる見込みだと伝えた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「IEAは同時に、ガスタービン、変圧器、先端チップの供給不足や系統接続の遅れ、複雑な許認可がデータセンター開発を遅らせていると指摘し、データセンター事業者と結ばれた小型モジュール炉（SMR）の計画が2024年末の25GWから45GWに増えたことも紹介している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「これがAI産業におけるジェボンズ型の反作用である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「OpenAIとの大型契約への依存と、マイナスの自由キャッシュフローが懸念の中心だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「それでも、数千億ドル規模の計算資源契約を裏付ける売上の見え方が、計上方法ひとつで200億ドル動くことを市場は思い知らされた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「プロンプトの最適化、キャッシュ、小型モデルへの振り分けが進めば、利用件数が増えても計算資源需要の伸びは鈍る」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「AIビジネスモデルは「計算資源の時間貸し」「APIトークン課金」「月額SaaS」「AI社員型」「処理件数課金」「成果報酬」「導入・保守・監査サービス」に分けられる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「成果報酬型は魅力的だが、営業成果がAIに起因したか、顧客側の業務変更や外部要因の影響をどう除くかという問題があるため、固定料金と変動料金の併用が現実的だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「第19章で見たとおり、年換算売上は計上方法で大きく変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「半導体製造工場、変電所、送電線、大型発電設備は時間がかかる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「供給側の強みと弱点を一言でまとめると、NVIDIAは需要の厚さが強みで、利益率の緩やかな低下と顧客の内製化が弱点、TSMCは価格決定力が強みで、2027年以降の大型投資の回収が論点になる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「このうちOracleは、OpenAIとの大型契約への依存、マイナスの自由キャッシュフロー、格付けの低下が重なり、ハイパースケーラーの中でも信用面の弱さが際立つ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「The Calendarization Framework」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Core Calendarization Methodologies」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「2. Weighted Average Stub Period Methodology」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「This methodology is particularly valuable when building forward multiples for private company valuations where quarterly data isn't available. The key limitation is that it assumes linear progression throughout the year, which may not hold for highly seasonal businesses.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「3. Quarterly Reconstruction Method」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「The most precise but labor-intensive approach involves reconstructing quarterly results for each comparable company and then aggregating quarters to match your desired calendar period. This method is standard practice in bulge bracket investment banking and private equity deal teams.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Inventory valuation methods (FIFO vs. LIFO) can create artificial timing differences during inflationary periods」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Assumptions and methodology notes」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Present methodology and results to senior team members before using in client deliverables」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「In 2024-2025, several fairness opinions have been challenged in Delaware Chancery Court proceedings, with plaintiffs' experts criticizing inadequate calendarization as evidence of flawed methodology. While these challenges have generally not succeeded on their own, they underscore the importance of rigorous, defensible technique.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「While manual calendarization in Excel remains the standard for complex situations, technology platforms are increasingly automating routine aspects of the process. Professional-grade tools like S&P Capital IQ, FactSet, and Bloomberg offer calendarized multiples as standard outputs, though users should understand the underlying methodology.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Template-based adjustment frameworks for common one-time items」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Audit logs tracking all data sources and calculation steps」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「are incorporating sophisticated calendarization capabilities that allow users to quickly generate properly adjusted comparable company analyses, reducing the manual calculation burden while maintaining full transparency into methodology.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
 - 突き合わせ・推定：
+  - 「If holiday sales represented 40% of annual EBITDA and came in 8% below expectations, Company A's reported results reflect this weakness while Company B's forward estimates may not yet be adjusted. An analyst using unadjusted forward multiples could undervalue Company A by 15-20% relative to Company B, despite identical underlying business performance.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「For companies without quarterly reporting or in situations where you need forward-looking metrics, the weighted average approach estimates results for partial periods by prorating annual figures.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「7 months actual + 5 months estimated」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「FY2025 is 11 months actual + 1 month estimated (ends June 2025)」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because "forward" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because "forward" is mostly estimated and includes more uncertainty).」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Obtaining consensus analyst estimates (from Bloomberg, FactSet, or S&P Capital IQ)」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Weighting fiscal year estimates accordingly」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「This approach ensures that all forward multiples reflect the same time horizon and similar levels of estimate uncertainty, creating true comparability.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Consensus estimates for forward periods」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Validate that forward estimates align with consensus ranges」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「第30章 予測リストの検証――何がすでに起き、何が極端か」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「これらは証券会社の推計であり、会社の計画値ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 一次情報の探し方：
+  - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「一方で、TSMCとNVIDIAは過去最高の決算を出し、メモリ大手は2027年分の生産枠をほぼ売り切ったと伝えられている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「2026年10月時点の状況を各制約に当てはめると、④GPUと⑤メモリは「供給者の決算が過去最高で、受注は先まで埋まっている」段階、②データセンターと③電力は「計画は多いが着工・接続が遅れている」段階、⑥資金は「借り手の選別が始まった」段階にある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
@@ -7956,8 +8032,11 @@
   - 「次の確認点は11月の7〜9月期決算と、年内に期限を迎える債務の借り換え条件である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「4大ハイパースケーラーの2026年の設備投資見通しは、7月末の決算で軒並み上方修正された」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「10月下旬から始まる7〜9月期決算で、2027年の見通しがどう語られるかが最大の焦点となる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「2026〜2030年の投資計画を企業比較する際は、投資予定額だけでなく発表日、決算期、対象範囲（GPU購入か、土地建物か、メモリか）、確定契約か希望計画か、実際の稼働開始時期をそろえる必要がある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 失敗・落とし穴：
+  - 「Technical Considerations and Common Pitfalls」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because "forward" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because "forward" is mostly estimated and includes more uncertainty).」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「To address this bias, sophisticated practitioners use Next Twelve Months (NTM) multiples, which represent the twelve-month period immediately following the valuation date, regardless of fiscal year boundaries. For a May 15, 2025 valuation date, NTM covers May 15, 2025 through May 14, 2026 for all companies.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「This eliminates fiscal year bias and provides consistent forward-looking comparability」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「供給不足で高値が付く時期ほど、その後の投資判断を誤りやすい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「第19章 「年換算売上」の落とし穴――OpenAIの200億ドル問題」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「第31章 供給計画の二重計上と設備稼働率の落とし穴」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
@@ -7969,11 +8048,11 @@
   - 「セキュリティと権限逸脱：業務操作に失敗すると損害が拡大」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「一方、OpenAI・Anthropicが法的にOSSを禁止しようとして失敗するという表現は対象法案や具体的な行為を示さない限り検証不能である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「①OpenAI・Anthropicによる米国でのOSS「禁止」失敗――前提となる制度・法案の特定が必要」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「設計段階でのチェックが極めて重要になるのは、この落とし穴があるからです」（https://note.com/umaki11/n/ned3be3c1c101）
-  - 「データを扱ううえで、3つの罠がありました」（https://note.com/umaki11/n/ned3be3c1c101）
-  - 「下落局面で希薄化が加速する構図には注意が必要だと思います」（https://note.com/umaki11/n/ned3be3c1c101）
-  - 「自社株買いの発表額だけを見て還元が手厚いと判断すると、その半分以上が埋め戻しに消えている会社を見誤ります」（https://note.com/umaki11/n/ned3be3c1c101）
 - 実例：
+  - 「Real-World Impact: The Retail Sector Example」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「Professional valuation practitioners employ three primary approaches, each with specific use cases:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「For example, to calculate TTM revenue as of March 31, 2025 for a June fiscal year-end company:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「For example, for a June FYE company valued on May 15, 2025:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「象徴的な事例が、OpenAI向け「Stargate」計画の旗艦拠点の一つであるニューメキシコ州のProject Jupiterである」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
@@ -7985,10 +8064,6 @@
   - 「例えば一年に十分な発電量があっても、変圧器の交換待ちや送電線増強の遅れで特定サイトの接続が不能なら、発表したGPU容量を商用運転できない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「この状況を定量的に考えるため、企業は少なくとも以下の3つのケースを置くとよい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「基本ケースはAI処理件数が拡大し、価格下落が緩やかで、新設備の稼働率が高い状態」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「供給過剰ケースは小型モデルと推論最適化が進み、タスク当たりGPU秒数が急減し、新GPU・HBM供給量が需要を上回り、時間貸し単価が下落する状態」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「供給不足ケースはエージェント・動画・複雑な推論の利用量が効率改善より速く増え、電力・メモリ・建設に遅れが残り、API制限や料金上昇が続く状態である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「いずれのケースでも、売上が伸びることと投資利益が得られることは別々に評価する」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「PJM｜2026年7月14日、2028/2029年度容量市場入札結果（一次資料）」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 
 ## 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型（boilerplate removal main content extraction heuristics link density evaluation trafilatura readability）
 - 文脈：失敗
@@ -10372,3 +10447,33 @@
   - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
 - 検索結果の抜粋：
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
+
+## 会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対）（company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors）
+- 文脈：推定
+- 手順・やり方：
+  - 「From LinkedIn inflation to contractor confusion, workforce headcount data is messy. Here’s how to understand what’s real and how Aura helps you see clearly.」（https://blog.getaura.ai/headcount-data）
+  - 「LinkedIn is just one popular source of headcount data. Several other platforms and databases provide company workforce data, each with unique collection methods and potential pitfalls. Let’s briefly compare a few popular ones and how they gather/verify headcount information:」（https://blog.getaura.ai/headcount-data）
+  - 「Verification methods vary widely; some rely on self-reporting, while others use algorithms or analyst review. But none, Aura included, has real-time access to internal HR systems. That’s why headcount discrepancies are regular and expected. Aura’s value lies in cross-referencing these diverse signals to deliver the most reliable view possible.」（https://blog.getaura.ai/headcount-data）
+  - 「, cross-verifying multiple inputs and contextual information to arrive at what we believe is the most accurate figure. Here’s what sets Aura’s methodology apart:」（https://blog.getaura.ai/headcount-data）
+- 突き合わせ・推定：
+  - 「Even outside of LinkedIn’s quirks, headcount tracking is tricky. Companies today have complex workforces and organizational structures that can make simple estimates difficult. Here are some broader challenges that cause headcount numbers to vary across sources:」（https://blog.getaura.ai/headcount-data）
+  - 「Other Sources: Community Estimates and Modeled Data」（https://blog.getaura.ai/headcount-data）
+  - 「“triangulation” engine」（https://blog.getaura.ai/headcount-data）
+  - 「Cross-Check Before Conclusion:」（https://blog.getaura.ai/headcount-data）
+  - 「Embrace Ranges or Estimates:」（https://blog.getaura.ai/headcount-data）
+- 失敗・落とし穴：
+  - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
+  - 「LinkedIn is just one popular source of headcount data. Several other platforms and databases provide company workforce data, each with unique collection methods and potential pitfalls. Let’s briefly compare a few popular ones and how they gather/verify headcount information:」（https://blog.getaura.ai/headcount-data）
+- 実例：
+  - 「Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had」（https://blog.getaura.ai/headcount-data）
+  - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
+  - 「Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US)," “Acme Corp UK," “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.」（https://blog.getaura.ai/headcount-data）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
