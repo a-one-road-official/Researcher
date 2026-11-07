@@ -69,12 +69,23 @@ DEFN = [("連結", re.compile(r"連結")), ("単体", re.compile(r"単体|個別
         ("売上は回答事業所のみ", re.compile(r"(必要な事項の数値が得られた|売上\s*[（(]?収入[）)]?\s*金額.{0,20}(集計対象|得られた事業所))"))]
 NUM = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(兆円|億円|百万円|千万円|万円|千円|円|万人|千人|人|名|社|事業所|件|倍|％|%|台)")
 YEAR = re.compile(r"(20[0-3]\d|19[89]\d)\s*年")
+# 2026-11-08 走査の失敗から（63回目）：「和暦の年が書かれているのに行の年が空」が mfg_hiring_seg 67件・recruit_pr_verify 61件。
+# 平成・令和・昭和（元年を含む）と H・R の略記を西暦に直して、西暦の年と同じ並び（文中の位置の順）で返す。引用の文そのものは書き換えない
+WAREKI_Y = re.compile(r"(昭和|平成|令和)\s*(\d{1,2}|元)\s*年|(?<![A-Za-z])([HR])\s?(\d{1,2})[\.．年]")
+_ERA = {"昭和": 1925, "平成": 1988, "令和": 2018, "H": 1988, "R": 2018}
+def years_in(t):
+    out = [(m.start(), m.group(1)) for m in YEAR.finditer(t)]
+    for m in WAREKI_Y.finditer(t):
+        era, n = (m.group(1), m.group(2)) if m.group(1) else (m.group(3), m.group(4))
+        y = _ERA[era] + (1 if n == "元" else int(n))
+        if 1980 <= y <= 2039: out.append((m.start(), str(y)))
+    return [y for _p, y in sorted(out)]
 TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万円": 1, "千円": 0.1, "円": 1e-4}
 TO_PERSON = {"万人": 1e4, "千人": 1e3, "人": 1, "名": 1}
 NOW_YEAR = __import__("datetime").date.today().year
 # 2026-11-05 METHOD.md 4-5：数字にしてはいけない引用（見出し・記事題名・関連記事リンク・パンくず・検索結果の抜粋）
 # 2026-11-05 4-35：関連記事の紹介文（「〜を解説します」「完全ガイド」「〜まで網羅」）の数字も事実にしない（電子決算公告ドットコムの「1行3,589円」の混入から）
-HEADLINE = re.compile(r"(完全ガイド|を?(わかりやすく)?(解説|説明)します|を網羅|を徹底比較|徹底解説|とは[？?]|まとめ|一覧|比較\d*選|\d+選|【20\d\d年[^】]*】|[｜|] ?[^｜|]{0,40}$| > | › |https?://|価格帯別|おすすめ|ランキング)")
+HEADLINE = re.compile(r"(完全ガイド|を?(わかりやすく)?(解説|説明)します|を網羅|を徹底比較|徹底解説|とは[？?]|まとめ|一覧|比較\d*選|\d+選|【20\d\d年[^】]*】|[｜|] ?[^｜|]{0,40}$| > | › |https?://|価格帯別|おすすめ|ランキング|など注目|トピックを整理|ニュースまとめ)")  # 4-88：ニュースの見出しの並び（「純利益71%増…など注目トピックを整理」が社員数の欄に入った）
 # 調査会社の市場レポート（互いに写し合うので、何社あっても独立の裏付けに数えない）METHOD.md 4-5
 REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fortunebusinessinsights|grandviewresearch|precedenceresearch|globalinformation|gii\.co\.jp|researchandmarkets|imarcgroup|alliedmarketresearch|technavio|reportocean|marketresearchfuture|atpress|prtimes|dreamnews|kenresearch|expertmarketresearch|verifiedmarket)")
 # 数字の文脈。同じ区分でも「装置の価格」「市場規模」「1件の単価」を混ぜない（am_ceiling で装置価格と受託単価が混ざった失敗から）
@@ -177,6 +188,8 @@ QCUT = {}
 # 2026-11-05 4-35：ハイフン・マイナス記号は負にしない。統計表の「-」（該当なし・秘匿）や範囲の「10-19」まで負と読み、mfg_capacity の受注額・1人あたりの欄に
 # 負の値が入って食い違いの判定が外れ、【食い違い】が【一次で確認】に上がった失敗から。負は日本の表の慣行の△・▲と括弧だけで読む
 NEGMARK = re.compile(r"[△▲]\s*$")
+PUBFEE = re.compile(r"(掲載料|掲載費|枠掲載|万円\s*/\s*回|円\s*/\s*回|公告(の)?(費用|料金)|官報(の)?(費用|料金))")
+BAREFIG = re.compile(r"^\s*[△▲\-−()（）]?\s*[\d,.]+\s*(兆|億|百万|千万|万|千)?\s*円?\s*[)）]?\s*$")
 FINTABLE = re.compile(r"(当期純|純損|損失|損益|貸借対照表|決算公告|営業利益|経常利益|純資産)")
 GOINGCONCERN = re.compile(r"(継続企業の前提|重要な不確実性|going concern|material uncertainty)", re.I)
 GC = {}
@@ -315,7 +328,16 @@ def rows_from_doc(topic, d):
                 if re.search(r"(日本年金機構|被保険者数|適用事業所)", name) and not re.search(r"(被保険者|適用事業所)", q):
                     if NUM.search(q): drop(topic, "名指した出どころの語が無い（年金機構の品目に別の制度のページ・4-86）")
                     continue
-                ys = YEAR.findall(q)
+                # ⑤2026-11-08 走査の失敗から（63回目・4-88）：品目「官報決算データベース（catr.jp）で引く受託4業種の決算公告」に、
+                # 公告を出す側の掲載料（「約7万円/回」「2枠掲載で約8万円」「20万円を超える」）が受注金額・加工賃収入として3件、
+                # 主語も科目も無い「▲88200万円」だけの切れ端が5件入り、中央値が −731万円と出た。公告の料金の文と、記号と数字だけの切れ端は事実にしない
+                if PUBFEE.search(q):
+                    if NUM.search(q): drop(topic, "公告・掲載の料金（受注金額ではない・4-88）")
+                    continue
+                if BAREFIG.match(q):
+                    if NUM.search(q): drop(topic, "主語も科目も無い数字だけの切れ端（4-88）")
+                    continue
+                ys = years_in(q)
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
                     if is_size_band(q, m): drop(topic, "規模区分の境目（4-5）"); continue  # 規模区分の境目は数えない
@@ -349,7 +371,7 @@ def rows_from_doc(topic, d):
                     if neg and u == "万円": v = -v  # 4-34 △・▲・括弧は負の値（損失・減少）
                     if u == "人" and v > MAXPERSON: OUTLIERS[topic] = OUTLIERS.get(topic, 0) + 1; continue  # 4-31 桁の感覚の上限
                     # 数字の近く（前40字）の年を優先
-                    near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
+                    near = years_in(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
                     # 2026-11-07 56回目の走査の失敗から：mfg_capacity の「離職率は36.7％（2005年）から11.4％（2025年）に低下」で、
                     # 前40字の年を採ったため 11.4 に2005年・36.7 に2025年が付き、下がった系列が上がった向きに読めた。値の直後の括弧の年はその値の年
@@ -675,6 +697,13 @@ LOWRESP = re.compile(r"(回収率|回答率)\s*(は|が|：|:)?\s*(約)?\s*(\d{1
 SELFREPORT = re.compile(r"(自己評価|自己申告|自己採点|自社調べ|自社調査)")
 CONTRACTOR = re.compile(r"(委託先(の|が)?(変更|変わ)|調査(の)?委託先|入札(により|で)[^。]{0,10}委託)")
 INTERSEG = re.compile(r"(セグメント間|内部売上|内部取引|社内売上|グループ内(の)?(売上|取引))")
+# 2026-11-08 4-88（東京弁護士会 LIBRA 2026年7・8月号の生成AIの注意：誤った出典は「実在しない・文言違い・関連なし・時代遅れ」の4型）。
+# 改正前・廃止・旧基準など、後の版で置き換わった出典の語を数える。新しい版・現行の統計で取り直す
+OUTDATED = re.compile(r"(改正前|旧法|旧制度|旧基準|旧分類|旧様式|廃止され|廃止済|調査(は|を)?(終了|廃止)|現在は(廃止|終了|行われていない))")
+# 2026-11-08 4-88（なかのアセットマネジメント note：会社の出す「それらしい理由」をうのみにせず多方面で整合を見る）。増減・未達の理由を述べる文
+REASONWORD = re.compile(r"(主な(要因|理由)|要因(は|として)|が(寄与|響いた|奏功)|の影響(により|で|を受け)|によるものです|が主因)")
+# 2026-11-08 4-88（osint.uk の 3x5x2 の格付け：取り扱いの印で共有の範囲を決める）。個人のSNSの発信は公開リポジトリの本文に写さない「内部のみ」
+PERSONALHOST = re.compile(r"(^|\.)(x\.com|twitter\.com|facebook\.com|instagram\.com|threads\.net|tiktok\.com)$", re.I)
 # 2026-11-06 4-51（Flares「How to Find Competitor Revenue」：数字ごとに Filed／Stated／Estimated を付ける。監査済みの値と推定を同じ書き方で並べない）。
 # 届出＝統計・開示・官報・自治体の一次／言明＝会社・団体などが自分で言った値／報道＝記事が書いた値（言明か推定の写し）／推定＝予測・試算・調査会社・信用調査
 # 2026-11-07 4-79（データビズラボ「国勢調査データのクレンジング手順」：粗い単位から細かい単位への按分は推計値を作る行為）。按分・案分・按分推計の語がある値も【推定】に回す
@@ -1511,6 +1540,22 @@ def scan(topic):
         if nct: md.append(f"- ⚠ 調査の委託先の変更の語が{nct}件：集め方が変わり系列の継続性が落ちる。その年を切れ目として扱う（4-44）")
         nis = sum(1 for r in rs if INTERSEG.search(r["引用"]))
         if nis: md.append(f"- ⚠ セグメント間・内部売上の語が{nis}件：外部の客への売上と内部の売上を分け、合計に内部を足さない（4-44）")
+        # 2026-11-08 4-88：時代遅れの出典・会社の述べる理由・取り扱いの印・1人あたりのばらつき
+        nod = sum(1 for r in rs if OUTDATED.search(r["引用"]))
+        if nod: md.append(f"- ⚠ 改正前・廃止・旧基準の語が{nod}件：後の版で置き換わった出典の疑い（誤った出典の4型の④）。現行の法令・統計の版で取り直してから使う（4-88）")
+        nrs = [r for r in rs if REASONWORD.search(r["引用"])]
+        if nrs: md.append(f"- 増減・未達の理由を述べる文が{len(nrs)}件・{len({r['出典'] for r in nrs})}か所：述べた主体の言い分【言明】。別の出どころ（統計・取引先・競合）の数字と向きが合うかを見てから理由として書く（4-88）")
+        npr = sum(1 for r in rs if r["URL"] and PERSONALHOST.search(urlparse(r["URL"]).netloc))
+        if npr: md.append(f"- 取り扱い：個人のSNSの発信が{npr}件。公開の scan.md には件数と向きだけを書き、本文・個人名を写さない（内部のみ・4-88）")
+        pp = {}
+        for r in rs:
+            if r["区分"].startswith("1人あたり") and r["年"] and r["値"] > 0: pp.setdefault((r["単位"], str(r["年"])), []).append(r["値"])
+        disp = []
+        for (u, y), v in sorted(pp.items()):
+            if len(v) >= 4:
+                qs = statistics.quantiles(v, n=4)
+                if qs[0] > 0: disp.append(f"{y}年 {qs[2] / qs[0]:.2f}倍（{u}・{len(v)}件）")
+        if len(disp) >= 2: md.append("- 【推定】1人あたりのばらつき（第3四分位÷第1四分位）の年ごとの並び：" + "・".join(disp[:8]) + "。平均の向きと別に、ばらつきが開いているか（資源が生産性の高い先へ動いていない兆し）を見る。出典の混ざり方が年で違えば比べない（4-88）")
         # 2026-11-06 4-50（BMJ Open 2023 の登録と論文の食い違いのメタ分析：主要な結果の差し替えが3割前後の研究で起きていた）。
         # 品目が名指しした指標（加工賃・出荷額・付加価値・従業者・事業所数・受注・給与など）が、取れた引用のどれにも出てこなければ、
         # 別の指標で答えた（結果の差し替え）疑い。その数字で品目の問いに答えたと書かず、計画どおりの指標を取り直す
