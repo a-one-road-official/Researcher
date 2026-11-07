@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T10:58:54.259569+00:00",
+ "researched_at": "2026-11-07T16:18:08.737703+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -1186,17 +1186,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tnishimaki/n/n6e244572e076",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/mathesispress/n/nee9e33458b88",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/gemba_ax_lab/n/nde3469e61df9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/n6e244572e076",
     "status": "ok",
     "method": "http"
    },
@@ -1216,12 +1216,7 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIahfeKbuNYX6W6zvs2lA5xDcdMWdvijKQHDlvH9wj-y_F1-o9G",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJZqC7GWdcw3FWfnLmfRWeWGlGpYr8fajTep7hOAL9Z7bZ04mSz",
     "status": "ok",
     "method": "http"
    },
@@ -1231,7 +1226,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "url": "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "status": "ok",
     "method": "http"
    },
@@ -1241,12 +1236,12 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIKeGsGPLOHjCHTd90X0V-eDvv9FP9FD2-EJsGMo4LSCLHcSnbD",
+    "url": "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIU8k0KZ-kDKOU8hEWzV-8urdd-kWHEy_C1dW1zq-2j0eMKmpv-",
     "status": "ok",
     "method": "http"
    },
@@ -1256,7 +1251,17 @@
     "method": "http"
    },
    {
-    "url": "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "url": "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naosy.com/article/12_ai-review-evaluation-metrics",
     "status": "ok",
     "method": "http"
    },
@@ -1266,17 +1271,7 @@
     "method": "http"
    },
    {
-    "url": "https://omomuki-tech.com/archives/6129",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL7XTr3hHayE9b0ODZ3KHLxNlFhtdzXHwleiRx6ZIFCZr2MqV25",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKN4iv64qPmZYT5FD_wjog8AM6XDHkRF3pIrsbn2ri4pHtVnYA3",
     "status": "ok",
     "method": "http"
    },
@@ -1296,7 +1291,12 @@
     "method": "http"
    },
    {
-    "url": "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
+    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.omake.co.jp/%E7%94%9F%E6%88%90ai%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E7%B7%8F%E9%9B%86%E7%B7%A8%EF%BC%81%E7%B2%BE%E5%BA%A6%E3%81%8B%E3%82%89f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%BE%E3%81%A7%E5%AE%9F/",
     "status": "ok",
     "method": "http"
    },
@@ -1337,9 +1337,9 @@
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） site:note.com",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/mathesispress/n/nee9e33458b88",
     "https://note.com/gemba_ax_lab/n/nde3469e61df9",
+    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/bonobono_107/n/ne56510f7b3a6",
     "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "https://note.com/daily_epoch/n/n137102559d8f"
@@ -1350,13 +1350,13 @@
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIahfeKbuNYX6W6zvs2lA5xDcdMWdvijKQHDlvH9wj-y_F1-o9G",
-    "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJZqC7GWdcw3FWfnLmfRWeWGlGpYr8fajTep7hOAL9Z7bZ04mSz",
     "https://note.com/noa813/n/nef0692042cdf",
-    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/f1-score/",
-    "https://datastudydock.com/precision-recall-f1/",
+    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/gyoza_tencho/n/n83d24cd7720b"
    ]
   },
@@ -1365,28 +1365,28 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIKeGsGPLOHjCHTd90X0V-eDvv9FP9FD2-EJsGMo4LSCLHcSnbD",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIU8k0KZ-kDKOU8hEWzV-8urdd-kWHEy_C1dW1zq-2j0eMKmpv-",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
-    "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
+    "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
-    "https://techsword.co.jp/column/how-to-evaluate-ai",
-    "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
+    "https://cysec148.hatenablog.com/entry/2025/03/29/180644",
+    "https://pystyle.info/ml-accuracy-precision-recall-f-measure/",
+    "https://naosy.com/article/12_ai-review-evaluation-metrics"
    ]
   },
   {
    "query": "名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み） 事例",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL7XTr3hHayE9b0ODZ3KHLxNlFhtdzXHwleiRx6ZIFCZr2MqV25",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKN4iv64qPmZYT5FD_wjog8AM6XDHkRF3pIrsbn2ri4pHtVnYA3",
     "https://www.r-jc.jp/news-blog/7106/precision%E9%81%A9%E5%90%88%E7%8E%87%E5%86%8D%E7%8F%BE%E7%8E%87%E6%AD%A3%E8%A7%A3%E7%8E%87f1%E3%81%AE%E9%81%95%E3%81%84%E9%99%BD%E6%80%A71%E3%81%A7%E5%AE%9F%E6%B8%AC/",
     "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall-f1/",
     "https://since2020.jp/media/f1-precision-recall/",
-    "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://www.r-jc.jp/news-blog/7106/precision適合率再現率正解率f1の違い陽性1で実測/"
    ]
   },
@@ -1409,46 +1409,46 @@
    "query": "site:note.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/mathesispress/n/nee9e33458b88",
+    "https://note.com/tnishimaki/n/n6e244572e076",
+    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "https://note.com/bonobono_107/n/ne56510f7b3a6",
     "https://note.com/bonobono_107/n/nc0174ef065d5",
-    "https://note.com/daily_epoch/n/n137102559d8f",
-    "https://note.com/gyoza_tencho/n/n83d24cd7720b"
+    "https://note.com/daily_epoch/n/n137102559d8f"
    ]
   },
   {
    "query": "site:x.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
-    "https://x.com/YuPhEngine/status/2051507795426693523",
     "https://x.com/Gkentei_Cheat/status/2101550539301597239",
+    "https://x.com/YuPhEngine/status/2051507795426693523",
     "https://x.com/Gkentei_Cheat/status/2101455903132426293",
     "https://x.com/seiseiai_pass/status/2090272659091468755",
     "https://x.com/gtest_guide/status/2061372190269067679",
     "https://x.com/gtest_guide/status/2093987092112310499",
-    "https://x.com/dm_exam_site/status/2089100161297334629"
+    "https://x.com/tkosht/status/2106178895334846497"
    ]
   },
   {
    "query": "site:linkedin.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
     "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106",
+    "https://www.linkedin.com/pulse/穴と穴のピッチを測ろう-篤樹-徳永",
     "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
     "https://www.linkedin.com/posts/ゆにこ-やまざき-30a02447_モデル評価指標-分かりやすく-回帰問題-activity-7016791687326830592-s8q2",
     "https://jp.linkedin.com/pulse/evaluating-your-classification-model-precision-recall-himanshu-singh-qm7ff?tl=ja",
     "https://jp.linkedin.com/pulse/mastering-model-evaluation-comprehensive-guide-accuracy-bin-liao?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-machine-learning-model-evaluation-metrics-ayush-gupta-5a73e?tl=ja",
-    "https://jp.linkedin.com/posts/yasuyuki-takahashi-a9686a38b_istqb-jstqb-ai-tester-解説istqb-ai-tester-activity-7422864490590806016-42hL"
+    "https://jp.linkedin.com/pulse/understanding-machine-learning-model-evaluation-metrics-ayush-gupta-5a73e?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）",
    "results": [
+    "https://www.facebook.com/JAPANkawaii01/videos/ガルパンのダイレンジャー名乗りの驚異の再現率はなんなんだろうjapan-kawaii/457443907961527/",
     "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/photo.php/?fbid=1133322442150325",
-    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
     "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
+    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
     "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
     "https://www.facebook.com/nikoyaka.sozoku/videos/全国の不動産から一括名寄せする方法-司法書士-相続-遺言相続登記が罰則付きで義務化されましたですがそもそも自分や亡くなった方がどこにどのような不動産を所有してい/1246881467598508/"
    ]
@@ -1458,14 +1458,14 @@
    "results": [
     "https://note.com/kikaben/n/nc457443773b7",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJ9MW3EvNt-LsjaL85Iv00_mfxjhNF5nw6O2D0hWuF000Q_Zu9B",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKeqnL8n1AkSXGAF-q7n3Yj1lpaCGowYDHuGeaaPoIRZes1YmVr",
     "https://note.com/noa813/n/nef0692042cdf",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/f1-score/",
     "https://note.com/tks849/n/nba829fbeee49",
-    "https://qiita.com/Maku-Inc/items/4f8c67e57c4f0b197bf5"
+    "https://note.com/tnishimaki/n/n6e244572e076"
    ]
   },
   {
@@ -1473,7 +1473,7 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIJ3TF0BWlIJLg7XHmOsPdgopSwLu3XmJaUrhX38X1Csi16X6Oe",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJyba7jm7QzGCZyZCIlXSYnJMaer-LC8tQzyntOjoMZC9b4LLq6",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%91%E6%AD%A3%E8%A7%A3%E7%8E%87%E3%81%A8f1%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E3%80%9C%E7%B2%BE%E5%BA%A6%E8%A9%95",
     "https://note.nkmk.me/python-sklearn-confusion-matrix-score/",
@@ -1503,6 +1503,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T02:49:43.828832+00:00"
 }

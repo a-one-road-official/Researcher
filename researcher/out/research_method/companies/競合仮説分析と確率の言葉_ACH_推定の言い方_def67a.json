@@ -8,7 +8,7 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-07T11:17:10.251674+00:00",
+ "researched_at": "2026-11-07T16:25:22.242308+00:00",
  "evidence": {
   "実例": [
    {
@@ -222,6 +222,92 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "S--3800--SE.pdf. Accessed June 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The-Five-Habits-Article.pdf. Accessed June 6, 2018",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TR2005-01.pdf. Accessed June 6, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Competitor Analysis and Profiling",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Competitor Profiling Framework",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,",
@@ -386,88 +472,16 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "突き合わせ・推定": [
    {
-    "quote": "04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.",
+    "quote": "and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in",
     "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.",
+    "quote": "of confidence in their own estimate.",
     "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "S--3800--SE.pdf. Accessed June 7, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The-Five-Habits-Article.pdf. Accessed June 6, 2018",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "TR2005-01.pdf. Accessed June 6, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Competitor Analysis and Profiling",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Competitor Profiling Framework",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -965,260 +979,64 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of confidence in their own estimate.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/haurix/n/ncc5a33f069f9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/repository9/n/n0d9d54dd8a82",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/noiri_testo/n/nbd05fd6704dd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ramu_study/n/n80040ddd918a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://atsumori.shop/archives/2346",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://thefinalmilkman.github.io/zero/ach/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.analysistoolbox.com/tools/ach",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
+  "pass3": []
  },
  "search_log": [
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） site:note.com",
-   "results": [
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://note.com/repository9/n/n0d9d54dd8a82",
-    "https://note.com/noiri_testo/n/nbd05fd6704dd",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
-    "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c"
-   ]
+   "results": []
   },
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） note",
-   "results": [
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://atsumori.shop/archives/2346",
-    "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry"
-   ]
+   "results": []
   },
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） やり方",
-   "results": [
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://atsumori.shop/archives/2346"
-   ]
+   "results": []
   },
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） 事例",
-   "results": [
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://atsumori.shop/archives/2346"
-   ]
+   "results": []
   },
   {
    "query": "analysis of competing hypotheses diagnosticity matrix estimative language",
-   "results": [
-    "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
-    "https://thefinalmilkman.github.io/zero/ach/",
-    "https://www.analysistoolbox.com/tools/ach",
-    "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706"
-   ]
+   "results": []
   },
   {
    "query": "site:note.com 競合仮説分析と確率の言葉（ACH・推定の言い方）",
-   "results": [
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://note.com/repository9/n/n0d9d54dd8a82",
-    "https://note.com/noiri_testo/n/nbd05fd6704dd",
-    "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com 競合仮説分析と確率の言葉（ACH・推定の言い方）",
-   "results": [
-    "https://x.com/dj_maskz/status/2115728989751054345",
-    "https://x.com/deskrex/status/2099755099178631512",
-    "https://x.com/horino_ec/status/2102894389182013708",
-    "https://x.com/aiueotevp/status/2114385420880634083",
-    "https://x.com/hayatasuuu/status/2069903430148297127",
-    "https://x.com/Nyanky9/status/2092172890531889177",
-    "https://x.com/xshibuxshibux/status/2083793170207555801"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com 競合仮説分析と確率の言葉（ACH・推定の言い方）",
-   "results": [
-    "https://jp.linkedin.com/pulse/hypothesis-testing-from-questions-answers-harish-kulkarni-oipqc?tl=ja",
-    "https://jp.linkedin.com/pulse/学びの窓-64-仮説と想定-誠一郎-眞部-blw1c",
-    "https://jp.linkedin.com/pulse/understanding-competitive-analysis-ms-pmp-pmi-acp-lssbb-6fxbc?tl=ja",
-    "https://jp.linkedin.com/pulse/turning-competitor-analysis-action-basic-guide-sara-contu-u45tf?tl=ja",
-    "https://jp.linkedin.com/pulse/可能性はあるは何も言っていない可能性蓋然性確率の使い分け-hiroaki-mori-1dtsc",
-    "https://jp.linkedin.com/pulse/understanding-predictions-hypotheses-forecasts-key-ana-paterra-ph-d--sfpqc?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-competitor-analysis-product-management-oginni-jeremiah-r0vye?tl=ja"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 競合仮説分析と確率の言葉（ACH・推定の言い方）",
-   "results": [
-    "https://www.facebook.com/tms.japan/posts/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26357552877204569/",
-    "https://www.facebook.com/tms.japan/posts/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26404079445885245/",
-    "https://www.facebook.com/tms.japan/photos/空気交換回数achが示す安全の待ち時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26404078969218626/",
-    "https://www.facebook.com/tms.japan/posts/空気交換回数二次感染を防ぐ安全待機時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26829797216646797/",
-    "https://www.facebook.com/tms.japan/photos/空気交換回数二次感染を防ぐ安全待機時間とは-汚染除去99への道筋-概要医療施設内での空気感染対策において最も重要な指標の一つが空気交換回数ach-air-cha/26829796076646911/",
-    "https://www.facebook.com/passivestyle88/videos/霧島パッシブハウスの気密測定/672764237630607/",
-    "https://www.facebook.com/JMPjpn/videos/jp_1pager_0205mp4/492948474950207/"
-   ]
+   "results": []
   },
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） note 社長",
-   "results": [
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "https://atsumori.shop/archives/2346",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry"
-   ]
+   "results": []
   },
   {
    "query": "競合仮説分析と確率の言葉（ACH・推定の言い方） X 投稿",
-   "results": [
-    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://note.com/haurix/n/ncc5a33f069f9",
-    "https://ameblo.jp/nodes-links/entry-12605882204.html",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://atsumori.shop/archives/2346"
-   ]
+   "results": []
   },
   {
    "query": "analysis of competing hypotheses diagnosticity matrix estimative language site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "https://www.linkedin.com/learning/advanced-cyber-threat-intelligence/analysis-of-competing-hypothesis",
-    "https://pe.linkedin.com/posts/adamgoss1_estimativelanguage-threatintelligence-activity-7239694189465128964-1dfw",
-    "https://dk.linkedin.com/posts/ole-donner_ach-sach-activity-7024680138243993603-RJRa",
-    "https://es.linkedin.com/pulse/orquestando-la-incertidumbre-en-seguridad-hipótesis-y-germán-8shuc",
-    "https://es.linkedin.com/pulse/esquema-del-análisis-de-hipótesis-en-competencia-roberto-andrade",
-    "https://fr.linkedin.com/pulse/un-examen-critique-de-la-technique-lanalyse-des-méthodes-memheld-hakge"
-   ]
+   "results": []
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 17,
+ "runs": 18,
  "first_researched_at": "2026-11-05T06:03:41.922315+00:00"
 }

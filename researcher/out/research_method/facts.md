@@ -2165,11 +2165,47 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：
+  - 「【調査方法】 （選定）全数 （客体数）約１７，０００ （配布）郵送・調査員・オン」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定） 無作為抽出 （客体数／母集団数） 【世帯】 約277,000（ただし、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）無作為抽出 （客体数／母集団数）約 6,000（ただし、平成28」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯】約 50,000（ただし、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）無作為抽出 （客体数／母集団数） 【世帯 】約 50,000（ただし、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約55,000／約51,951,000、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定） 無作為抽出 （客体数／母集団数）【世帯】 約13,000／約 55,000、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「括調査と国直送調査）とする調査方法の変更がなされた」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）全数 （客体数）約 65,000 （配布）調査員・郵送・オンライ」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）全数 （客体数）約 290,000 （配布）調査員・郵送・オンライ」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）全数 （客体数）約 300 （配布）郵送・オンライン （取集）」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査事項】 １． 産業廃棄物としての水銀を含む廃製品の中間処理量及び中間処理方法、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「外の水銀を含む産業廃棄物の中間処理量及び中間処理方法、４．廃製品以外」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「のの処理量及び処理方法、６．廃棄物以外の水銀を含むものからの水銀回収」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査方法】 （選定）全数 （客体数）36,365 （配布）オンライン （取集）オンラ」（https://www.soumu.go.jp/main_content/000432276.pdf）
+- 突き合わせ・推定：
+  - 「勢や他都道府県の状況と照合することで、 観光行政の的確な実施に役立てること」（https://www.soumu.go.jp/main_content/000432276.pdf）
+- 一次情報の探し方：
+  - 「統計法令に基づく統計調査の承認及び届出の状況」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「１ 統計調査の承認等の状況（総括表） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 1」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥1」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥2」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥3」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「２ 基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「経済産業省生産動態統計調査（経済産業省） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥5」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「工業統計調査（経済産業省） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 12」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「３ 一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 15」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「４ 届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 26」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「１ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下「本月報」という」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「統計」とは、改正前の統計法（昭和 22年法律第 18号」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「規定に基づき、総務大臣が指定した統計をいう」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「２ 本月報中で「指定統計調査」とは、旧統計法下において、指定統計を作成するために行われ」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「３ 本月報中で「承認統計調査」とは、改正後の統計法（平成 19年法律第 53号」（https://www.soumu.go.jp/main_content/000432276.pdf）
+- 実例：
+  - 「登校児童生徒数、 ４． 不登校の要因、 ５． 不登校児童生徒への指導結果状況、」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「不登校生徒への指導結果状況、８．相談・指導等を受けた学校内外の機関等」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
+  - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -7453,8 +7489,8 @@
   - 「3. Methodological families」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「4. Evaluation frameworks」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「Legal results are bifurcated between grounded verification and closed-book generation. The Ukrainian legal citation-graph framework reports mean CG in the」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「be reflected in future conversations about how to responsibly」（https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf）
+  - 「lyze situations with an IRAC framework—first identify the issue」（https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf）
 - 突き合わせ・推定：
   - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -8777,7 +8813,7 @@
   - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -8820,19 +8856,22 @@
   - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「: Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity Resolution Methodology — by Luiz H. S. Brandão」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
+  - 「Entity Resolution Methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
+  - 「Entity resolution is the single most analytically intensive step in most OSINT investigations — it requires systematic methodology, tolerance for ambiguity, and rigorous evidence documentation to avoid misidentification. Misidentification is not merely an analytical failure; in intelligence and legal contexts it is an operational and ethical risk that can cause concrete harm to innocent parties.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
+  - 「Network Analysis Methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
+  - 「In intelligence and legal contexts, false positives carry higher cost: misidentification of an innocent person can lead to surveillance, reputational damage, sanctions exposure, or physical harm. Analysts should tune methodology toward」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
 - 突き合わせ・推定：
   - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「Define what is known about the target: full name in all scripts/romanizations, known aliases, date of birth (or estimated age range), nationality, known locations (current and historical), known accounts, known associates, distinguishing biographical anchors (employer, alma mater, military service). Document the」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
 - 一次情報の探し方：
   - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
   - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
   - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「Most failed person resolutions trace to incomplete name-variant generation at this step. The standard error is querying only the romanization the analyst encountered first, missing the form used by the entity’s home-jurisdiction primary sources. See the multi-lingual OSINT standing rule on actor-language tiering.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
   - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -8843,6 +8882,7 @@
   - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
+  - 「— Identifying and merging duplicate records within a single dataset. The narrowest case of entity resolution and the most tractable, because schema is consistent.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Entity-Resolution-Methodology）
   - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -9487,11 +9527,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合

@@ -8,7 +8,7 @@
  ],
  "context": "名寄せ",
  "kind": "market",
- "researched_at": "2026-11-07T10:55:23.858923+00:00",
+ "researched_at": "2026-11-07T16:20:01.368372+00:00",
  "evidence": {
   "実例": [
    {
@@ -142,6 +142,26 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します",
@@ -187,26 +207,6 @@
    },
    {
     "quote": "数千件の個別照合や差分の自動取り込みはAPI向きです",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
-    "url": "https://gomumari.com/knowledge/koukou-data-list/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
     "url": "https://gomumari.com/knowledge/koukou-data-list/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -316,8 +316,8 @@
     "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.invoice-kohyo.nta.go.jp/",
     "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.fsa.go.jp/search/",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ]
@@ -330,9 +330,9 @@
     "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.invoice-kohyo.nta.go.jp/",
     "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
     "https://www.fsa.go.jp/search/",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ]
   },
@@ -361,7 +361,7 @@
     "https://lemreveal.com/data/japan",
     "https://catalog.data.gov/?keyword=corporations",
     "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www.digital.go.jp/en/resources/govdashboard/gbiz-id"
+    "https://www.prometiam.com/guides/japan-company-data-api"
    ]
   },
   {
@@ -388,8 +388,8 @@
     "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
     "https://www.invoice-kohyo.nta.go.jp/",
     "https://disclosure2.edinet-fsa.go.jp/",
-    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
     "https://www.fsa.go.jp/search/",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ]
@@ -403,26 +403,18 @@
     "https://www.invoice-kohyo.nta.go.jp/",
     "https://disclosure2.edinet-fsa.go.jp/",
     "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei/kohyosite_yokuaru.pdf",
-    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
     "https://www.fsa.go.jp/search/",
+    "https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/invoice_04.htm",
     "https://help.info.gbiz.go.jp/hc/ja/sections/4640427651230-%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%95%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEFAQ"
    ]
   },
   {
    "query": "government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/company/houjin-bangou",
-    "https://www.linkedin.com/directory/companies",
-    "https://in.linkedin.com/directory/companies",
-    "https://sg.linkedin.com/company/opengovsg",
-    "https://nz.linkedin.com/company/fluor-bwxt-portsmouth",
-    "https://www.linkedin.com/company/opencorporates",
-    "https://www.linkedin.com/posts/gary-johal_governmentframeworks-duplication-digitaltransformation-activity-7428234030640451584-7neM"
-   ]
+   "results": []
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T06:02:13.529796+00:00"
 }

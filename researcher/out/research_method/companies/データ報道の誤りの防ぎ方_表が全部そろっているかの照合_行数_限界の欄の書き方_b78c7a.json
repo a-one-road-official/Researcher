@@ -8,8 +8,42 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T11:08:42.604864+00:00",
+ "researched_at": "2026-11-07T16:23:08.793443+00:00",
  "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html\">Poppler</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “",
@@ -224,40 +258,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "PDF processing tools such as",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li>PDF processing tools such as",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><a href=\"https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html\">Poppler</a></li>",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.",
@@ -355,117 +355,47 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ai_masaki/n/nf3a542a88874",
+    "url": "https://note.com/moonlightmanager/n/n143435aee501",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/ne79e40b9eeb0",
+    "url": "https://note.com/studio_ichizen/n/n5f1a010b0e45",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n509e3f985875",
+    "url": "https://note.com/sho_03_lab/n/nb6b755e6ed20",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n9a5bc0b221e6",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yosatonet/n/n0752f2797baf",
+    "url": "https://note.com/akiyoshi_shin/n/n8848c745fb9f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/diisuket/n/n694838626b89",
+    "url": "https://note.com/like_fowl3925/n/n32c0c0d369d8",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sikumiya/n/n00d4a27de7ad",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ai_analysiss/n/n47652737608f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ripla_business/n/n8afeb0776f4a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://data-viz-lab.com/large-scale-excel-data",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kmds.jp/pc_kowaza/03_compare/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dailyexcelhacks.blog/excel-compare-two-lists/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/excel",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.amed.go.jp/content/000034153.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://debono.co.jp/media/ai-usecase/claude-publisher-proofread-facts/",
-    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000634890.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://advan-jpn.co.jp/column/prevent-data-error/",
     "status": "ok",
     "method": "http"
    },
@@ -475,34 +405,74 @@
     "method": "http"
    },
    {
-    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://viewjournal.eu/articles/10.18146/view.332",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "url": "https://techblog.insightedge.jp/entry/eda-checklist",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
+    "url": "https://www.excel-no-mori-blog.jp/?p=21191",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E7%AA%81%E5%90%88%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%99%E3%82%8B%E5%90%8D%E7%B0%BF%E7%85%A7%E5%90%88%E3%81%A8%E5%B7%AE%E5%88%86%E6%8A%BD%E5%87%BA/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%A7%E9%87%8D%E8%A4%87%E5%88%A4%E5%AE%9A%E3%82%92%E8%A1%8C%E5%85%A8%E4%BD%93%E3%81%A7%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95%E3%81%A8%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%E3%83%AC%E3%82%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innotex-ibs.co.jp/media/data-input-rules/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lucci_2025/n/n64748bd1c1e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.genialtech.io/ja/column/typographical-error/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stertec.co.jp/~ster/column/inspection-record-mistake-prevention.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infotimes.academy/blog/verify-data-before-publishing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/handbook/verification-1/creating-a-verification-process-and-checklists/9-creating-a-verification-process-and-checklists",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cuey.io/prompt/content-writing/data-journalism/document-the-limitations-of-your-dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/limitations-section-worked-example",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.journalism.columbia.edu/",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -510,187 +480,154 @@
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） site:note.com",
    "results": [
-    "https://note.com/ai_masaki/n/nf3a542a88874",
-    "https://note.com/hirokimiyano/n/ne79e40b9eeb0",
-    "https://note.com/kagawatomo/n/n509e3f985875",
-    "https://note.com/kagawatomo/n/n9a5bc0b221e6",
-    "https://note.com/yosatonet/n/n0752f2797baf",
-    "https://note.com/diisuket/n/n694838626b89",
-    "https://note.com/kagawatomo/n/n23d1ef26dfbb",
-    "https://note.com/kagawatomo/n/nb60fdfc4d236",
-    "https://note.com/ichi_twnovel/n/n8867a5f760ae",
-    "https://note.com/hirokimiyano/n/na74aba81e4c6"
+    "https://note.com/moonlightmanager/n/n143435aee501",
+    "https://note.com/studio_ichizen/n/n5f1a010b0e45",
+    "https://note.com/sho_03_lab/n/nb6b755e6ed20",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/akiyoshi_shin/n/n8848c745fb9f",
+    "https://note.com/like_fowl3925/n/n32c0c0d369d8",
+    "https://note.com/yosatonet/n/ne02cbf66600a"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） note",
    "results": [
-    "https://note.com/sikumiya/n/n00d4a27de7ad",
-    "https://note.com/ai_analysiss/n/n47652737608f",
-    "https://note.com/ripla_business/n/n8afeb0776f4a",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://note.com/ai_sakanya/n/n488c21e1d94f",
     "https://note.com/studio_ichizen/n/n5f1a010b0e45",
-    "https://note.com/moonlightmanager/n/n143435aee501"
+    "https://note.com/moonlightmanager/n/n143435aee501",
+    "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "https://www.soumu.go.jp/main_content/000634890.pdf",
+    "https://advan-jpn.co.jp/column/prevent-data-error/",
+    "https://www.unifinity.co.jp/blog/20260721/",
+    "https://techblog.insightedge.jp/entry/eda-checklist"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） やり方",
    "results": [
-    "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "https://data-viz-lab.com/large-scale-excel-data",
-    "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
-    "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
-    "https://www.kmds.jp/pc_kowaza/03_compare/",
-    "https://dailyexcelhacks.blog/excel-compare-two-lists/",
-    "https://gmo-research.ai/research-column/outlier",
     "https://gxo.co.jp/column/input-error-prevention-guide-2026",
     "https://advan-jpn.co.jp/column/prevent-data-error/",
-    "https://www.excel-no-mori-blog.jp/?p=21191"
+    "https://www.excel-no-mori-blog.jp/?p=21191",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://it-notes.stylemap.co.jp/excel/excelで重複判定を行全体で行う方法と完全一致レコ/",
+    "https://www.innotex-ibs.co.jp/media/data-input-rules/",
+    "https://note.com/lucci_2025/n/n64748bd1c1e3"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） 事例",
    "results": [
-    "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "https://data-viz-lab.com/excel",
-    "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
-    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
-    "https://www.amed.go.jp/content/000034153.pdf",
-    "https://debono.co.jp/media/ai-usecase/claude-publisher-proofread-facts/",
     "https://gxo.co.jp/column/input-error-prevention-guide-2026",
     "https://www.unifinity.co.jp/blog/20260721/",
-    "https://www.soumu.go.jp/main_content/000634890.pdf"
+    "https://www.soumu.go.jp/main_content/000634890.pdf",
+    "https://advan-jpn.co.jp/column/prevent-data-error/",
+    "https://corp.genialtech.io/ja/column/typographical-error/",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://www.stertec.co.jp/~ster/column/inspection-record-mistake-prevention.html",
+    "https://www.innotex-ibs.co.jp/media/data-input-rules/"
    ]
   },
   {
    "query": "data journalism checklist verify complete dataset limitations section",
    "results": [
-    "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "https://viewjournal.eu/articles/10.18146/view.332",
-    "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
-    "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
-    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
-    "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "https://americanpressinstitute.org/challenges-data-journalism/",
-    "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
-    "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html",
-    "https://infotimes.academy/blog/verify-data-before-publishing"
+    "https://infotimes.academy/blog/verify-data-before-publishing",
+    "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
+    "https://datajournalism.com/read/handbook/verification-1/creating-a-verification-process-and-checklists/9-creating-a-verification-process-and-checklists",
+    "https://cuey.io/prompt/content-writing/data-journalism/document-the-limitations-of-your-dataset",
+    "https://casrai.org/guides/limitations-section-worked-example",
+    "https://data.journalism.columbia.edu/",
+    "https://fiveable.me/lists/essential-data-verification-methods"
    ]
   },
   {
    "query": "site:note.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://note.com/kazukio/n/n6d006d6486c3",
-    "https://note.com/ai_masaki/n/nf3a542a88874",
-    "https://note.com/kojiro_ai_lab/n/n0150c5f2edb0",
-    "https://note.com/slownewsjp/n/na9283d2fbea9",
-    "https://note.com/0375/n/nec0bcbfb443f",
-    "https://note.com/cheesegue_/n/ncbf660b94597",
-    "https://note.com/ichi_twnovel/n/n9bde056023e1",
-    "https://note.com/slownewsjp/n/n37ca7d5001d5",
-    "https://note.com/langsmith/n/na8ea07795c45",
-    "https://note.com/yosatonet/n/n0752f2797baf"
+    "https://note.com/moonlightmanager/n/n143435aee501",
+    "https://note.com/studio_ichizen/n/n5f1a010b0e45",
+    "https://note.com/akiyoshi_shin/n/n8848c745fb9f",
+    "https://note.com/sho_03_lab/n/nb6b755e6ed20",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/sokoage_dojo/n/n6d6d67182135",
+    "https://note.com/gifted_myrtle243/n/n7e9a4b872a6c"
    ]
   },
   {
    "query": "site:x.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://x.com/FABYMETAL4/status/2091994224120279540",
-    "https://x.com/wayama_ryousuke/status/2118521865262260311",
-    "https://x.com/cv_usk/article/2111237466988675400?lang=ar",
-    "https://x.com/hiro_panketing/status/2118720635388219758",
-    "https://x.com/ai_jitan/status/2113103194754879662",
-    "https://x.com/zakiryo1533/article/2065096178136682867",
-    "https://x.com/daifukujinji/article/2112650114447909168?lang=ar",
-    "https://x.com/KagawaTomo/status/2116800506467422688",
-    "https://x.com/pop_ikeda/article/2090313930686271819",
-    "https://x.com/tamehey/status/2117223947305685041"
+    "https://x.com/ai_commu_ito/status/2113812728083341617",
+    "https://x.com/kakeru_dataai/status/2106732853715485100",
+    "https://x.com/doroase_EXCEL/status/2080606378020786634",
+    "https://help.x.com/ja/resources/addressing-misleading-info",
+    "https://x.com/KenTana2020/status/2110123123345633712",
+    "https://x.com/ShunMatsuoka40/status/2077628992686109079",
+    "https://x.com/KadowakiShohei/status/2025028218898755672"
    ]
   },
   {
    "query": "site:linkedin.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://jp.linkedin.com/directory/articles",
-    "https://jp.linkedin.com/pulse/introducing-monitor-know-whats-your-dynamics-data-before-copilot-ivwbe?tl=ja",
-    "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
-    "https://jp.linkedin.com/pulse/excel-hell-how-overcome-challenges-data-management-miguel-domingos-xgj4f?tl=ja",
-    "https://jp.linkedin.com/pulse/we-using-wrong-data-choose-right-sites-alexander-swaab-5aa9e?tl=ja",
-    "https://jp.linkedin.com/pulse/3-ways-finance-answers-trust-gap-prasad-bhalerao-2d4jf?tl=ja",
-    "https://jp.linkedin.com/pulse/plaids-ai-now-sees-what-single-bank-can-santander-just-linas-beli%C5%ABnas-9p9df?tl=ja",
-    "https://jp.linkedin.com/pulse/monthly-reporting-process-best-practices-solver-africa-zrmlf?tl=ja",
-    "https://jp.linkedin.com/pulse/hiring-101-15-basic-rules-we-forgot-along-way-ayon-banerjee-plk3c?tl=ja",
-    "https://jp.linkedin.com/pulse/why-server-side-tracking-still-fails-common-mistakes-costing-alam-bktdc?tl=ja"
+    "https://jp.linkedin.com/pulse/data-migration-erp-how-avoid-most-expensive-mistakes-gqhbf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-data-cleansing-prevents-costly-errorsand-even-saves-nagase-d2fzc?tl=ja",
+    "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
+    "https://www.linkedin.com/posts/haruyuki-hiratani-147b281a9_live配信セミナー-912捏造隠ぺいデータ改ざん等研究不正の防ぎ方-activity-7086965489842720768-jZR3",
+    "https://jp.linkedin.com/pulse/data-duplication-understanding-relationships-preventing-furkan-avcı-mtc2f?tl=ja",
+    "https://jp.linkedin.com/posts/takaaki-azuumi-1665a99a_臨床試験データマネジメントdmの仕事の中でも-今回はデータレビューについて-activity-7427337847122247680-sQTb",
+    "https://jp.linkedin.com/learning/cert-prep-network-for-fundamental-information-technology-engineer-examination/4222179"
    ]
   },
   {
    "query": "site:facebook.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://www.facebook.com/tvasahinews/videos/%E7%8B%AC%E8%87%AA7%E5%B9%B4%E6%9C%8D%E5%BD%B9%E4%BC%9D%E8%AA%AC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E8%AA%9E%E3%82%8B-gmo%E6%94%BB%E6%92%83%E7%8A%AF%E4%BA%BA%E5%83%8F%E3%81%AF-%E7%B4%A0%E4%BA%BA%E6%AE%8B%E3%81%95%E3%82%8C%E3%81%9F%E7%97%95%E8%B7%A1%E3%81%A8%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80%E5%86%85%E3%81%A7%E6%92%AE%E3%82%89%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%81%AB%E6%98%A0%E3%82%8B1%E4%BA%BA%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%8B%E3%81%A4%E3%81%A6100%E5%84%84%E5%86%86%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E8%A9%90%E6%AC%BA%E4%BA%8B%E4%BB%B6%E3%82%92%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93/1449997456498192/",
-    "https://www.facebook.com/help/463983701520800?locale=ja_JP",
-    "https://www.facebook.com/KartzMediaWorks/",
-    "https://www.facebook.com/jimin.official/posts/%E5%81%BD%E8%AA%A4%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E4%B8%8D%E5%AE%89%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%AB%E4%BC%B4%E3%81%86%E5%8E%9F%E6%B2%B9%E7%89%A9%E8%B3%87%E4%BE%9B%E7%B5%A6%E5%AF%BE%E7%AD%96qa%E6%94%BF%E5%BA%9C%E3%81%AF%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E9%AB%98%E9%A8%B0%E5%AF%BE%E7%AD%96%E3%82%84%E5%8E%9F%E6%B2%B9%E3%81%AE%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E6%8B%A1%E5%A4%A7%E6%B5%81%E9%80%9A%E3%81%AE%E7%9B%AE%E8%A9%B0%E3%81%BE%E3%82%8A%E8%A7%A3%E6%B6%88%E3%82%92%E5%85%88%E6%89%8B%E3%81%A7%E5%AE%9F%E8%A1%8C%E4%B8%AD%E3%81%A7%E3%81%99%E5%B8%B8%E3%81%AB%E4%B8%87/1501792837970970/",
-    "https://www.facebook.com/docomo.official/posts/%E4%B8%80%E9%83%A8%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E5%BF%9C%E5%AF%BE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3-%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E4%BE%AE%E8%BE%B1%E3%81%97%E3%81%9F%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E5%BF%9C%E5%AF%BE%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E3%81%94%E4%B8%8D%E5%BF%AB%E3%81%AA%E6%80%9D%E3%81%84%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E8%AA%A0%E3%81%AB%E7%94%B3%E3%81%97/2778265785586852/",
-    "https://es-la.facebook.com/kimie.hatano.9",
-    "https://www.facebook.com/hkunimitsu/posts/binance-8700%E5%84%84%E5%86%86%E3%81%AE%E5%B7%A8%E9%A1%8D%E3%83%8F%E3%83%83%E3%82%AF-%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%A7%E5%A2%97%E5%8A%A0%E3%81%AE%E4%B8%80%E9%80%94%E3%81%AEai%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E5%8F%96%E5%BC%95%E6%89%80binance%E3%81%A7%E5%B7%A8%E9%A1%8D%E3%81%AE%E4%B8%8D%E5%AF%A9%E3%81%AA%E8%B3%87%E7%94%A3%E7%A7%BB%E5%8B%95%E3%81%8C%E5%A0%B1%E3%81%98%E3%82%89%E3%82%8C%E3%81%9F%E8%BF%BD%E8%B7%A1%E3%81%95%E3%82%8C/10164301083038283/",
-    "https://www.facebook.com/shizukaterata/?locale=ps_AF",
-    "https://www.facebook.com/theater.enya/posts/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6%E6%B1%BA%E5%AE%9A%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E6%AE%86%E3%81%A9%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E7%A7%91%E5%AD%A6%E3%81%A8%E4%BA%8B%E5%AE%9F%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E9%A9%9A%E6%84%95%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E3%81%AE%E4%B8%8A%E6%98%A0%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E5%A4%A7%E8%A5%BF/1786578092782400/",
-    "https://www.facebook.com/ntvnews24/videos/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%83%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E6%80%A5%E5%A2%97-%E6%9C%AC%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E5%8B%9D%E6%89%8B%E3%81%AB%E5%A5%91%E7%B4%84%E3%82%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%8D%E6%AD%A3%E5%88%A9%E7%94%A8%E3%82%82-%E6%82%AA%E7%94%A8%E3%81%AE%E5%AE%9F%E6%85%8B%E3%81%A8%E5%AF%BE%E5%87%A6%E6%B3%95%E3%81%AFnews-every%E3%81%AE%E6%A3%AE%E5%9C%AD%E4%BB%8B%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92/1395276930334455/"
+    "https://www.facebook.com/adachi.city/posts/あだち広報-掲載記事の誤りについて-あだち広報6月10日号9面掲載大学連携の催しの東京未来大学-学園祭未来祭お笑いライブ日程に誤りがありました訂正しておわび申し/2389280534457117/",
+    "https://www.facebook.com/groups/1476167192667519/posts/4646355092315364/",
+    "https://www.facebook.com/Questetra/photos/クエステトラ業務課題の改善レシピ-新着規程再利用うっかりミスはこう防ぐ-rulerule製薬では規程改廃時に成案データを再利用する際件名の成案を削除せず申請する/1144417801031977/",
+    "https://www.facebook.com/mainichishimbun/posts/地上配備型迎撃システムイージスアショアの調査データに誤りが見つかった問題で防衛省はグーグルアースを地図のデータとして使用高さと距離の縮尺が異なっていることに気付/2675111129195463/",
+    "https://www.facebook.com/jima.media/posts/ona-japan主催によるコロナとデータ報道ニュースメディアは何を伝えられなかったかと題したウェビナーが99水1800に開催されます詳細は以下のリンクからご覧/1646209885537645/",
+    "https://www.facebook.com/ONAJapan/photos/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955011576140/",
+    "https://www.facebook.com/MorisawaJapan/photos/今回のmorisawa-dtp-labは印刷データの間違い探しに挑戦です印刷データの中に隠れた誤りを探し出すクイズ形式でお届けします解きながら文書を校正するとき/4461555650591654/"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） note 社長",
    "results": [
-    "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
-    "https://note.com/ai_snslog/n/na664c724c69d",
-    "https://note.com/pokemimi/n/nc4b6cfd25f67",
-    "https://news.web.nhk/newsweb",
-    "https://souzokushindan.com/sys/?p=122848",
-    "https://researchmap.jp/blogs/blog_entries/view/96798/b6bbcdada9b5f64af3b670fc4c496f03?frame_id=685447",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.siteengine.co.jp/",
-    "https://www.asahi.com/"
+    "https://note.com/studio_ichizen/n/n5f1a010b0e45",
+    "https://note.com/moonlightmanager/n/n143435aee501",
+    "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "https://advan-jpn.co.jp/column/prevent-data-error/",
+    "https://www.excel-no-mori-blog.jp/?p=21191",
+    "https://techblog.insightedge.jp/entry/eda-checklist",
+    "https://yamanaka-bengoshi.jp/2026/03/09/hyoukeishiki-yomitori-ai/"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "https://support.claris.com/s/article/SNS-%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%AE%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%87%E3%83%BC%E3%82%BF%E8%A1%A8%E8%A8%98%E6%96%B9%E6%B3%95%E3%81%AE%E7%B5%B1%E4%B8%80%E3%83%AB%E3%83%BC%E3%83%AB%E5%AF%BE%E5%BF%9C-%E3%81%9D%E3%82%8C-Claris-FileMaker-%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B?language=ja",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJNXcEt7nt60iKuyR3N2xh7pyZ6U5iLbHrJQ4F93SKWdffQN_nA",
-    "https://help.x.com/ja/using-x/articles",
-    "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
-    "https://www.siteengine.co.jp/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://support.microsoft.com/ja-jp/excel/guidelines-for-organizing-and-formatting-data-on-a-worksheet",
-    "https://baigie.me/officialblog/2022/02/02/writing_technic_twitter/",
-    "https://gxo.co.jp/column/input-error-prevention-guide-2026"
+    "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "https://advan-jpn.co.jp/column/prevent-data-error/",
+    "https://www.excel-no-mori-blog.jp/?p=21191",
+    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/",
+    "https://www.innotex-ibs.co.jp/media/data-input-rules/",
+    "https://note.com/lucci_2025/n/n64748bd1c1e3",
+    "https://www.stertec.co.jp/~ster/column/inspection-record-mistake-prevention.html"
    ]
   },
   {
    "query": "data journalism checklist verify complete dataset limitations section site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-xbj0f",
-    "https://www.linkedin.com/pulse/how-review-research-paper-complete-reviewer-checklist-aleem-6d57f",
-    "https://www.linkedin.com/in/kleinmatic",
-    "https://ca.linkedin.com/in/craigjsilverman",
-    "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-ajkgf",
-    "https://www.linkedin.com/in/lamthuyvo",
-    "https://www.linkedin.com/in/julie-j-lee",
-    "https://www.linkedin.com/in/surya-mattu",
-    "https://www.linkedin.com/in/jessicalhuseman",
-    "https://www.linkedin.com/in/abtran"
+    "https://www.linkedin.com/pulse/data-validation-how-check-completeness-christoph-bodenstein-2pzpf",
+    "https://www.linkedin.com/pulse/only-data-analysis-checklist-you-need-sunny-choy-2oume",
+    "https://se.linkedin.com/pulse/essential-skills-strategic-competencies-ai-augmented-legal-jana-saad-vujyf?tl=sv",
+    "https://www.linkedin.com/advice/1/what-some-challenges-limitations-data-completeness",
+    "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
+    "https://kr.linkedin.com/pulse/llm-papers-reading-notes-october-2025-jean-david-ruvini-m8zic?tl=ko",
+    "https://ro.linkedin.com/pulse/how-ai-chatbot-seo-overview-programmatic-voice-mobile-kashif-khan-odrie?tl=ro",
+    "https://ae.linkedin.com/pulse/fraud-tip-fridaynavigating-cognitive-bias-forensic-marks-cpa-mba-rr4xe?tl=ar"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-06T20:09:01.989592+00:00"
 }
