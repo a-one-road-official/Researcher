@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T07:42:48.933446+00:00",
+ "researched_at": "2026-11-07T12:38:08.149460+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -38,6 +38,18 @@
    {
     "quote": "Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/",
     "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is a separate reporting surface and also needs its own dates and methodology understood.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Understand Tessera’s historical portfolio simulations: dated factor inputs, portfolio rules, price and dividend conventions, costs, and known methodological limits.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -78,10 +90,36 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:",
     "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -111,6 +149,86 @@
    },
    {
     "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "See real world examples",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 – Financial Systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 – Medical Research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 - Financial systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 - Medical research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -204,6 +322,54 @@
    {
     "quote": "In 1996, researchers Elton, Gruber, and Blake analyzed the relationship between fund sizes and survivorship bias. They found that survivorship bias was more significant in the small-fund sector than in more significant mutual funds. Smaller funds have a higher probability of folding than larger, more established funds, which is why they attributed this to be true for the small-fund sector.",
     "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Stock Backtesting Bias: Survivorship, Look-Ahead and Overfitting",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn how survivorship bias, look-ahead bias and overfitting distort stock backtests, what point-in-time data helps with, and what Tessera cannot guarantee.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Three recurring problems are survivorship bias, look-ahead bias and overfitting. Point-in-time data addresses part of the problem, but it does not automatically make a historical simulation unbiased.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias: which companies are missing?",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias appears when a backtest starts with companies that exist today and treats them as the entire historical opportunity set. Businesses that failed, merged or delisted can disappear from the test, changing both the choices and the losses represented.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias: did the information exist yet?",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some company classification inputs use current metadata. Missing prices and corporate events can also affect the simulation. We therefore do not claim historical classifications or a universal absence of look-ahead bias.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -417,242 +583,100 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "See real world examples",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 – Financial Systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 – Medical Research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 - Financial systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 - Medical research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/powerpoint_jp/n/n19840a713886",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "url": "https://note.com/fond_jacana2921/n/n731cabf0b781",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/good_dill292/n/n93c0053a3deb",
+    "url": "https://note.com/ore_ore/n/n44a250debaba",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/automationjp/n/nedc6c5889a1e",
+    "url": "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/right_minnow9076/n/n62a51fb5e91c",
+    "url": "https://note.com/zz08/n/ne7f0598dcc83",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "url": "https://note.com/slidedogs_biz/n/n7f7e53c6edf8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
+    "url": "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ku2t/n/n73300b122872",
+    "url": "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "url": "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ku2t/n/ndcb6a117ec1c",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/n7917dc1cdfe9?gs=663dff57227b7a49591743e9446d73d5",
+    "url": "https://inet-sec.co.jp/column/20261029-95/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://recruit.group.gmo/engineer/jisedai/blog/cv-in-financial-time-series/",
+    "url": "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://fxreplay.com/ja/playbooks/education/why-backtesting-is-the-missing-link-in-most-trading-strategies",
+    "url": "https://powakadata.com/survivorship-bias-backtesting.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.saa.or.jp/learning/journal/each_title/2020/05.html",
+    "url": "https://backtestingsoftware.vyncedigitalwiki.com/blog/survivorship-bias-backtesting-definition-mitigation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lokad.com/ja/%E3%83%90%E3%83%83%E3%82%AF%E3%83%86%E3%82%B9%E3%83%88-%E5%AE%9A%E7%BE%A9/",
+    "url": "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "url": "https://rusakamarkets.com/resources/point-in-time-backtesting-research-paper",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "url": "https://clustermicro.com/guides/survivorship-bias-point-in-time.html",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://jp.edanz.com/blog/peer-review-limitations",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.pictet.co.jp/investment-information/market/deep-insight/20240130.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mri.co.jp/knowledge/column/20251216_2.html",
-    "status": "http_404",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/statistics/comments/okvglq/q_how_does_survivorship_bias_impact_survival/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
-    "status": "ok",
-    "method": "browser"
    }
   ]
  },
@@ -660,103 +684,88 @@
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） site:note.com",
    "results": [
-    "https://note.com/powerpoint_jp/n/n19840a713886",
-    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "https://note.com/good_dill292/n/n93c0053a3deb",
-    "https://note.com/automationjp/n/nedc6c5889a1e",
-    "https://note.com/right_minnow9076/n/n62a51fb5e91c",
-    "https://note.com/tata_15/n/n11ebe7d5b8be",
-    "https://note.com/qvb/n/n931062c31482",
-    "https://note.com/kite_vrc/n/n1ec0dae76693",
-    "https://note.com/zantoux/n/n7f01d5e350af",
-    "https://note.com/ezuremanagement/n/n3e69d2b40cb9"
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://note.com/fond_jacana2921/n/n731cabf0b781",
+    "https://note.com/ore_ore/n/n44a250debaba",
+    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
+    "https://note.com/zz08/n/ne7f0598dcc83",
+    "https://note.com/slidedogs_biz/n/n7f7e53c6edf8",
+    "https://note.com/tokushima_10940/n/n47a17e03aeea",
+    "https://note.com/",
+    "https://note.com/login"
    ]
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） note",
    "results": [
-    "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
-    "https://note.com/ku2t/n/ndcb6a117ec1c",
-    "https://note.jp/n/n7917dc1cdfe9",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "https://note.com/galileo_english/n/n793441346d70",
-    "http://benesse.jp/news/kosodate/join/20121202080027.html",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://inet-sec.co.jp/column/20261029-95/",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/"
    ]
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） やり方",
    "results": [
-    "https://recruit.group.gmo/engineer/jisedai/blog/cv-in-financial-time-series/",
-    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
-    "https://fxreplay.com/ja/playbooks/education/why-backtesting-is-the-missing-link-in-most-trading-strategies",
-    "https://www.saa.or.jp/learning/journal/each_title/2020/05.html",
-    "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
-    "https://www.lokad.com/ja/%E3%83%90%E3%83%83%E3%82%AF%E3%83%86%E3%82%B9%E3%83%88-%E5%AE%9A%E7%BE%A9/",
-    "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "https://jp.edanz.com/blog/peer-review-limitations",
-    "https://blogs.sas.com/content/sasjapan/2026/11/06/factorydatadecisionmaking/"
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://inet-sec.co.jp/column/20261029-95/"
    ]
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） 事例",
    "results": [
-    "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "https://note.com/nakanoam/n/nafb26eef1ed8",
-    "https://jp.edanz.com/blog/peer-review-limitations",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.pictet.co.jp/investment-information/market/deep-insight/20240130.html",
-    "https://www.mri.co.jp/knowledge/column/20251216_2.html",
-    "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb",
-    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
+    "https://note.com/todd547/n/nf06d432f2d9b",
     "https://inet-sec.co.jp/column/20261029-95/"
    ]
   },
   {
    "query": "point in time data survivorship bias research analyst method",
    "results": [
-    "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "https://www.reddit.com/r/statistics/comments/okvglq/q_how_does_survivorship_bias_impact_survival/",
-    "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "https://thedecisionlab.com/biases/survivorship-bias",
-    "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
-    "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
-    "https://www.sciencedirect.com/science/article/pii/S0304405X99000409",
-    "https://dataschool.com/misrepresenting-data/survivorship-bias/",
-    "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias"
+    "https://powakadata.com/survivorship-bias-backtesting.html",
+    "https://backtestingsoftware.vyncedigitalwiki.com/blog/survivorship-bias-backtesting-definition-mitigation",
+    "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias",
+    "https://rusakamarkets.com/resources/point-in-time-backtesting-research-paper",
+    "https://clustermicro.com/guides/survivorship-bias-point-in-time.html",
+    "https://trueverdikt.com/en/blog/survivorship-bias-in-stock-market-backtesting"
    ]
   },
   {
    "query": "site:note.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
    "results": [
-    "https://note.com/good_dill292/n/n93c0053a3deb",
-    "https://note.com/automationjp/n/nedc6c5889a1e",
-    "https://note.com/right_minnow9076/n/n62a51fb5e91c",
-    "https://note.com/tata_15/n/n11ebe7d5b8be",
-    "https://note.com/qvb/n/n931062c31482",
-    "https://note.com/masa13_/n/n1f4df2dd4113",
     "https://note.com/",
-    "https://note.com/jgiajfid_5293/n/na17dd8030399",
-    "https://note.com/g_kujo_ir/n/n0680d913daaf",
-    "https://note.com/keihin_inc/n/n46553f631c11"
+    "https://note.com/ore_ore/n/n44a250debaba",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://note.com/major_duck1729/n/n1425d76ac17b",
+    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
+    "https://note.com/tokushima_10940/n/n47a17e03aeea",
+    "https://note.com/sherpa1922/n/n708ac3de46e1"
    ]
   },
   {
    "query": "site:x.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
    "results": [
-    "https://x.com/Hatsuse_Kannon/status/2081364399068258532",
-    "https://x.com/shigeruinagaki3/status/2116984197529374891",
     "https://communitynotes.x.com/guide/ja/contributing/writing-and-rating-impact",
-    "https://x.com/Ecccm2Ecccm/status/2092222628350357999",
-    "https://x.com/sharoushi_drill/status/2112396182421147990",
+    "https://x.com/Kirinsha_Mgt/status/2095851873966412050",
     "https://x.com/structure_mind/status/2107999134540329039",
-    "https://x.com/Dataibridge_01/status/2118932542636396618"
+    "https://communitynotes.x.com/guide/ja/contributing/rating-notes",
+    "https://x.com/shigeruinagaki3/status/2116984197529374891",
+    "https://x.com/sharoushi_drill/status/2112396182421147990",
+    "https://x.com/Ecccm2Ecccm/status/2092222628350357999",
+    "https://x.com/J_Matsugami/status/2108695006949388759"
    ]
   },
   {
@@ -764,65 +773,159 @@
    "results": [
     "https://jp.linkedin.com/pulse/評価調整会議の進め方と目的納得感を生む目線合わせの技術-伸幸-石井-7qavc",
     "https://jp.linkedin.com/pulse/turning-historical-data-future-valuation-insights-guide-5mduc?tl=ja",
-    "https://www.linkedin.com/posts/青地-豊間根-b617811ba_研修資料はとはなぜなにどうで組み立てる-研修だけでなくすべての説明-activity-7240010163804422144-t0xx",
     "https://jp.linkedin.com/pulse/why-performance-appraisals-stink-most-people-dont-look-tony-moorcroft?tl=ja",
-    "https://jp.linkedin.com/posts/健佑-大原-664537208_組織を腐らせる人事考課のngパターンについて-最も罪深いのは現場の一次評価-activity-7440973479673327616-JHcw",
+    "https://jp.linkedin.com/posts/mkuroda_デロイトが国に納品したスライド351枚全部数えたらパターンは7つだけだった-activity-7483063287903846400-ABIR",
     "https://jp.linkedin.com/posts/skillty0217_ベテラン社員の評価どうする問題過去の功績ではなく現在の貢献で評価する役職定年-activity-7433298282782707713-LXGO",
-    "https://jp.linkedin.com/pulse/job-evaluation-using-point-factor-nikhil-maini?tl=ja"
+    "https://jp.linkedin.com/pulse/job-evaluation-using-point-factor-nikhil-maini?tl=ja",
+    "https://jp.linkedin.com/pulse/stages-project-evaluation-basic-principles-useful-tools-paturyan-49jbf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
-   "results": []
+   "results": [
+    "https://www.facebook.com/impress.madonomori/posts/windows-11の新しい復旧オプションポイントインタイム-リストアが一般提供ユーザーデータも復旧対象osがぶっ壊れても24時間以内のシステム状態に戻せる/1645920194208837/",
+    "https://www.facebook.com/gendaibusiness/posts/black-lives-matter運動のなかで人種主義を唱えた歴史上の人物の銅像や記念碑などが破壊されることがあったこれに対して日本でもsnsなどで現代の価値/3994851733864960/",
+    "https://www.facebook.com/dsol.sijirei/posts/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867138923486087/",
+    "https://www.facebook.com/dsol.sijirei/photos/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867865660080080/",
+    "https://www.facebook.com/watarutb/posts/武田熙先生のあまり世に知られていない資料です原pdfから武術部分だけの抜き出し以前にも紹介したかもしれませんが武田熙-通背拳法/37889794233999702/",
+    "https://www.facebook.com/imitsu.jp/videos/人事評価を経営に活かす自社に合うシステムを無料診断/1733604454337935/",
+    "https://www.facebook.com/yoshinori.mogami/videos/コロナ禍東京都の情報発信は適切だったのか当時東京都の公式hpではワクチンについて感染予防効果があるとの情報発信がなされ接種が推奨されていましたしかしその後感染予/1733827457709886/"
+   ]
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） note 社長",
    "results": [
-    "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://www.reddit.com/r/Bogleheads/comments/1u4h4e0/if_past_performance_is_not_indicative_of_future/?tl=ja",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.fs.hub.hit-u.ac.jp/news-event/2022/05/post-111.php",
-    "https://note.com/ogataka/n/n5a8d82cc73bc",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "https://note.jp/n/n7917dc1cdfe9",
-    "https://www.jpx.co.jp/equities/follow-up/jr4eth0000004vj2-att/mklp77000000lyr3.pdf",
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest"
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
+    "https://inet-sec.co.jp/column/20261029-95/"
    ]
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） X 投稿",
    "results": [
-    "https://note.com/ogataka/n/n51f144be23b1",
-    "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
-    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
-    "https://www.wantedly.com/companies/liddell/post_articles/985591",
-    "https://quid.tdse.jp/sns-analysis/x_algorithm/",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://gaiax-socialmedialab.jp/post-113007/",
-    "https://www.ajsa.or.jp/kentei/sns/x/x-recommendation-search-boost.html",
-    "https://camtsuku.com/guide/3811",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://inet-sec.co.jp/column/20261029-95/"
    ]
   },
   {
    "query": "point in time data survivorship bias research analyst method site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
-    "https://www.linkedin.com/posts/yanzhonghuang_how-to-build-a-point-in-time-pit-equity-activity-7396352125276078081-mpce",
-    "https://www.linkedin.com/pulse/how-does-quant-researcher-actually-discover-new-trading-mehul-mehta-3qw4f",
-    "https://www.linkedin.com/pulse/survivorship-bias-higher-education-stuart-norton-wcjcc",
-    "https://www.linkedin.com/posts/vinicio-donnarumma-0b786161_continuous-retraining-in-quantitative-finance-activity-7520454317930283010-L7vm",
-    "https://www.linkedin.com/pulse/survivorship-bias-localization-adrian-wajer-tkyff",
-    "https://www.linkedin.com/posts/david-innocent-5427a3199_one-of-the-fastest-ways-to-weaken-a-study-activity-7487054800744951808-09_b",
-    "https://www.linkedin.com/pulse/avoiding-survivorship-bias-what-you-dont-see-can-hurt-mark-pybus-fytye",
-    "https://in.linkedin.com/jobs/view/data-research-specialist-equity-strategy-at-acuity-analytics-4473663947",
-    "https://www.linkedin.com/jobs/view/senior-quantitative-equity-research-analyst-ai-platform-at-versant-media-4455639140"
+    "https://www.linkedin.com/posts/vaquerohq_vaquero-quantresearch-backtesting-activity-7498332180851535872-LvVS",
+    "https://www.linkedin.com/posts/mohammadzafari_machinelearning-quantitativefinance-financialdatascience-activity-7513194495816159233-r6Qs",
+    "https://www.linkedin.com/posts/carlozarattini_many-backtests-look-too-good-for-a-simple-activity-7407441450419998720-fZzc",
+    "https://www.linkedin.com/posts/eddie-chan-wai-hong-a318984a_quantitative-analysis-got-me-fascinate-with-activity-7467500627389198338-d0iP",
+    "https://www.linkedin.com/pulse/survivorship-bias-starts-data-problem-raymond-mullaney-1cx3e",
+    "https://www.linkedin.com/posts/quant-guild_3-backtesting-pitfalls-that-ruin-your-trading-activity-7439369906346737664-qzwO",
+    "https://www.linkedin.com/pulse/survivorship-bias-look-ahead-corporate-action-index-one-sri-rangan-jjgde"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 4,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "is a separate reporting surface and also needs its own dates and methodology understood.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Understand Tessera’s historical portfolio simulations: dated factor inputs, portfolio rules, price and dividend conventions, costs, and known methodological limits.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Stock Backtesting Bias: Survivorship, Look-Ahead and Overfitting",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn how survivorship bias, look-ahead bias and overfitting distort stock backtests, what point-in-time data helps with, and what Tessera cannot guarantee.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Three recurring problems are survivorship bias, look-ahead bias and overfitting. Point-in-time data addresses part of the problem, but it does not automatically make a historical simulation unbiased.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias: which companies are missing?",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias appears when a backtest starts with companies that exist today and treats them as the entire historical opportunity set. Businesses that failed, merged or delisted can disappear from the test, changing both the choices and the losses represented.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias: did the information exist yet?",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some company classification inputs use current metadata. Missing prices and corporate events can also affect the simulation. We therefore do not claim historical classifications or a universal absence of look-ahead bias.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-06T17:25:05.206776+00:00"
 }

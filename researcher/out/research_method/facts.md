@@ -329,8 +329,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -2418,21 +2418,21 @@
 ## OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）（OSINT source verification framework reliability grading provenance）
 - 文脈：探し先
 - 手順・やり方：
+  - 「Explored the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「How intelligence is evaluated and authorised within the applicable intelligence framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「History of Grading Frameworks」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Sample of an Intelligence Grading Framework」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「, due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Altss Private Markets OSINT Verification Standard | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Inspect the methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「5. Method」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Entity Resolution Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Temporal Data & Freshness Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Investment Signal Classification Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「the collection method, as process metadata (rule 6.2);」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「describes the quality and credibility of its underlying sources and methods;」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「6.2 Collection method is not origin.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
 - 突き合わせ・推定：
   - 「observed, derived and estimated data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2474,6 +2474,12 @@
   - 「What was NOT leaked? Leaks are typically incomplete; the leaker’s selection criteria bias what’s available」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
   - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
 - 実例：
+  - 「" case management, these practices are vital for success and help avoid "」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Since then, various intelligence grading systems have been developed and used by different organisations. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「These codes simplify communication and ensure consistency across different organisations or agencies. For example:」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「. For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
+  - 「Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.」（https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint）
   - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「11. Worked examples」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2483,12 +2489,6 @@
   - 「Example 2: a report of a filing.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Example 3: circular reporting.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Example 4: an attribute no usable source states.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Example 5: separating information from judgment.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Information: "The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target." (OFFICIAL_INSTITUTIONAL, OBSERVED.)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Example 6: one press release, two origins.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-  - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
 - 検索結果の抜粋：
   - 「Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
 
@@ -3390,7 +3390,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ11頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -5565,7 +5565,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6556,6 +6556,8 @@
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=36fa6184df2accd37fb3fb0b260ac935）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=36fa6184df2accd37fb3fb0b260ac935）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
@@ -6565,8 +6567,6 @@
   - 「三つ目の失敗は、競合分析の欠如です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「SOMの算出では、競合の市場占有率、顧客のスイッチングコスト、流通チャネルの支配力などを考慮しなければ、実現可能性を見誤ります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「社内だけで完結させようとせず、外部の調査会社を活用することで、バイアスのかかっていない市場評価が可能になります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「海外調査（グローバルリサーチ）とは？方法と失敗しない進め方を解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「海外調査（グローバルリサーチ）とは？設計・実施・注意点を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
@@ -8173,6 +8173,8 @@
   - 「Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「is a separate reporting surface and also needs its own dates and methodology understood.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
+  - 「Understand Tessera’s historical portfolio simulations: dated factor inputs, portfolio rules, price and dividend conventions, costs, and known methodological limits.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
   - 「The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Static pool (cohort) method:」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
@@ -8181,6 +8183,7 @@
   - 「Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.」（https://www.bellstatistics.com/glossary/survivorship-bias）
 - 突き合わせ・推定：
   - 「The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
   - 「US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
   - 「Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
   - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
@@ -8188,6 +8191,7 @@
   - 「Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
 - 一次情報の探し方：
   - 「https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
   - 「Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
 - 失敗・落とし穴：
   - 「Survivorship bias - The Decision Lab」（https://thedecisionlab.com/biases/survivorship-bias）
@@ -8214,6 +8218,8 @@
   - 「Example 2 – Medical Research」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「Example 1 - Financial systems」（https://thedecisionlab.com/biases/survivorship-bias）
   - 「Example 2 - Medical research」（https://thedecisionlab.com/biases/survivorship-bias）
+  - 「Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
+  - 「Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.」（https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead）
   - 「the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「3. Worked Example: Zero-Alpha Funds Over Ten Years」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
@@ -10216,11 +10222,11 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
@@ -10786,8 +10792,24 @@
 
 ## 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）（investigative journalism company records former names aliases checklist Don Ray dossier GIJN corporate records）
 - 文脈：同一性
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「Stephen Doig, Knight Chair of Journalism, Arizona State University (US), recommends:」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「by Phil Meyer (1972): a call for reporters to use social science methods, which touched off the data journalism revolution. Still a valuable and useful read.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「Stephen Grey, Reuters journalist and author (UK), recommends:」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「(2000), a film by Steven Soderbergh starring Julia Roberts, does a brilliant job of showing how to build source relationships with dreadfully victimized people – and thus to attract other sources who know how they were victimized. There is more tradecraft in this film than in」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「Knowing the Vietnam literature as I do, let me add one indispensable volume to (Stephen Grey’s) very fine choice of three great books on that war:」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「over the past 15 years. These are works chosen by fellow investigative journalists in large part for their impressive methodology and intensive research. I’ve listed below books which may have a more international appeal. You can see」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+- 実例：
+  - 「The Global Investigative Journalism Casebook」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「Anatomy of Injustice: A Murder Case Gone Wrong」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man’s contribution, Col John Vann.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「, by Graham Greene (1955). Fiction perhaps, but one of those cases where fiction speaks truer than reportage.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「I have used the excellent documentary “La Doble Desaparecida” (CNN in Spanish, 2003) to talk about investigative reporting – excellent example of the use of documents and confrontational interviews and just an amazing tale. Available at」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「(2012), which makes the case for the importance of undercover reporting. See also the astonishing companion database of hundreds of undercover stories that she created and made available at New York University:」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「by anthropologist Oscar Lewis (1961). A classic example of scientific field work and close observation.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「is an example of his craftsmanship. I think he’s the single best environmental investigative reporter around. He set the standard for a generation after him (in which I count myself), showing that environmental reporting is not for treehuggers or the fainthearted.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「<i>Anatomy of Injustice: A Murder Case Gone Wrong</i>, by Ray Bonner (2012),an unmissable look at the US death penalty system by one of the greats.</p><p>On War:<br>」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「- Neil Sheehan,&nbsp;<i>A Bright Shining Lie</i>&nbsp;(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man's contribution, Col John Vann.<br>」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
