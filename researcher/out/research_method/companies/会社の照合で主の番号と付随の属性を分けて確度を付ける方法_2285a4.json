@@ -8,48 +8,8 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T00:29:25.374994+00:00",
+ "researched_at": "2026-11-07T06:04:04.200594+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "法人番号をキーにして一発で同一法人を突き合わせられる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "実務での使い方 — 3つのステップ",
@@ -192,6 +152,26 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "Typical examples include:",
@@ -223,318 +203,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/xoperation/n/n93109494872d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ripla_business/n/n0e31a2c5fb03",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kounotori17/n/n3346583df4c7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/aijitanlab365/n/n853564136baf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kohworks/n/naa472d6ce84a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/renketsu_cpa/n/n0be2195756f2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsuzurika/n/n5a8fd14c56c9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/designessence/n/n1d59330f9c3b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sen_tejun/n/nc657d853ea3d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/logicalskill/n/n42727e0aa4ec",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/excel",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://invox.jp/invoice-matching",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nufactory.jp/2024/07/05/nubering-code/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.togu.co.jp/column/detail/85",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.crie.co.jp/chokotech/detail/38/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jugaad.co.jp/workflow/bunsyokanri/numbering/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://houjintouki.jp/houmu_news/%E5%95%86%E5%8F%B7%E3%81%AB%E4%BD%BF%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%AC%A6%E5%8F%B7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://veridion.com/services/entity-resolution",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cdp.com/glossary/entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 site:note.com",
-   "results": [
-    "https://note.com/xoperation/n/n93109494872d",
-    "https://note.com/ripla_business/n/n0e31a2c5fb03",
-    "https://note.com/kounotori17/n/n3346583df4c7",
-    "https://note.com/aijitanlab365/n/n853564136baf",
-    "https://note.com/kohworks/n/naa472d6ce84a",
-    "https://note.com/renketsu_cpa/n/n0be2195756f2",
-    "https://note.com/ai_income_work/n/n03396eba4ff5",
-    "https://note.com/aijitanlab365/n/n3e1dcf4a06db"
-   ]
-  },
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note",
-   "results": [
-    "https://note.com/tsuzurika/n/n5a8fd14c56c9",
-    "https://note.com/designessence/n/n1d59330f9c3b",
-    "https://note.com/sen_tejun/n/nc657d853ea3d",
-    "https://note.com/logicalskill/n/n42727e0aa4ec",
-    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
-    "https://note.com/ripla_business/n/n0e31a2c5fb03",
-    "https://note.com/sr_mako/n/n611995af6f74",
-    "https://help.sap.com/docs/SAP_S4HANA_CLOUD/90c07e91c7a64f328be3fd6b48955b13/a8172f85383947bd8538bf778e771874.html?locale=ja-JP",
-    "https://help.sap.com/docs/SAP_S4HANA_CLOUD/0fa84c9d9c634132b7c4abb9ffdd8f06/aa808a1eab8740f48d37567f1fdc44e9.html?locale=ja-JP",
-    "https://docs.oracle.com/cloud/help/ja/account-reconcile-cloud/SUARC/trans_match_setup_match_rule_cond_about.htm"
-   ]
-  },
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 やり方",
-   "results": [
-    "https://data-viz-lab.com/excel",
-    "https://invox.jp/invoice-matching",
-    "https://nufactory.jp/2024/07/05/nubering-code/",
-    "https://www.togu.co.jp/column/detail/85",
-    "https://www.crie.co.jp/chokotech/detail/38/",
-    "https://jugaad.co.jp/workflow/bunsyokanri/numbering/",
-    "https://www.furi-ten.com/how-to-assign-invoice-numbers-for-invoice-system-compliance/",
-    "https://www.youtube.com/watch?v=4K6b30rtGRw",
-    "https://www.houjin-bangou.nta.go.jp/documents/checkdigit.pdf",
-    "https://salesnow.jp/media/126/"
-   ]
-  },
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 事例",
-   "results": [
-    "https://houjintouki.jp/houmu_news/%E5%95%86%E5%8F%B7%E3%81%AB%E4%BD%BF%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%AC%A6%E5%8F%B7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
-   ]
-  },
-  {
-   "query": "entity resolution primary secondary identifiers confidence scoring company registry",
-   "results": [
-    "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "https://veridion.com/services/entity-resolution",
-    "https://cdp.com/glossary/entity-resolution/",
-    "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
-    "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
-    "https://arxiv.org/html/2607.26298v1",
-    "https://senzing.com/what-is-entity-resolution/",
-    "https://www.zigram.tech/article/entity-resolution-in-aml/",
-    "https://blog.opencorporates.com/category/use-case/entity-resolution/"
-   ]
-  },
-  {
-   "query": "site:note.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
-   "results": [
-    "https://note.com/modern_flea8708/n/nda4db7a05f40",
-    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
-    "https://note.com/modern_flea8708/n/n0fe4fa068026",
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "https://note.com/bunkichi_kujo/n/nb407982bc194",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/erpninja/n/n84cc265f484b",
-    "https://note.com/ripla_business/n/n0e31a2c5fb03",
-    "https://note.com/aijitanlab365/n/n853564136baf",
-    "https://note.com/kounotori17/n/n3346583df4c7"
-   ]
-  },
-  {
-   "query": "site:x.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
-   "results": [
-    "https://x.com/shibasaki_k/article/2102181183807455547",
-    "https://x.com/911_takuya/status/2104165916510679128",
-    "https://x.com/ksmi_aiworks/status/2104896477520679160",
-    "https://x.com/houjinbase/status/2108441091775004907",
-    "https://x.com/AIkenkyuFM/status/2080065351996551251",
-    "https://x.com/yohaku_shitate/status/2103148056346767499",
-    "https://x.com/Goro_bizaid/status/2082435517094981873",
-    "https://x.com/nayuta_office/status/2117149845580374283",
-    "https://x.com/nayuta_office/status/2110279656309989497",
-    "https://x.com/shigoto_tools/status/2116175504294433028"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
-   "results": [
-    "https://jp.linkedin.com/pulse/data-reconciliation-rohan-rekhi-2pene?tl=ja",
-    "https://jp.linkedin.com/pulse/cmdb-management-servicenow-using-identification-rules-kiran-r-qv9kc?tl=ja",
-    "https://jp.linkedin.com/pulse/master-data-management-101-part-2-guide-haresh-joshi-1e?tl=ja",
-    "https://www.linkedin.com/posts/shiori-c-62b5461a1_sapジャパン-on-twitter-連結決算プロセスにイノベーションを-activity-6957870694252597249-3BhG",
-    "https://www.linkedin.com/posts/真樹-佐野-3387a7116_t-check-invoiceインボイス事業者-照合システム-東計電算-製造システム-activity-7022344018348937216-7ui4",
-    "https://jp.linkedin.com/pulse/understanding-servicenow-cmdb-identification-reconciliation-jk7qc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-generative-ai-revolutionized-our-data-process-naveen-chauhan-xslrc?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
-   "results": [
-    "https://www.facebook.com/SansanJapan/posts/bill-oneに発注データ照合オプション機能を追加しました発注データをbill-oneにインポートすることで発注内容と請求書情報の照合作業をbill-one上/666023288894351/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/photos/便利機能紹介gx-works3-照合機能シーケンサ-のプログラムを作成する際の便利機能をご紹介編集していたプログラムやパラメータの変更箇所がわからなくなったru/415578364041658/",
-    "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
-    "https://www.facebook.com/GLOOBE/posts/gloobe-architect-操作ガイド-プロパティリンク編-gloobe-architectの各部材オブジェクトには初めからさまざまな属性情報プロパティ項/5466585053372642/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/",
-    "https://www.facebook.com/tae.220/videos/契約書の照合整理まだ手でやっていますか️claude-for-legal-にすぐ使えるテンプレートが6種類-追加されました条項の一覧表引用の照合案件管理ボード書/1144222328099111/"
-   ]
-  },
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note 社長",
-   "results": [
-    "https://note.com/sr_mako/n/n611995af6f74",
-    "https://note.com/tsuzurika/n/n5a8fd14c56c9",
-    "https://note.com/designessence/n/n1d59330f9c3b",
-    "https://note.com/sen_tejun/n/nc657d853ea3d",
-    "https://note.com/logicalskill/n/n42727e0aa4ec",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/658916e5-76ce-4d02-9377-1273577ffc88/1d463bfc/20220729_meeting_trust_dx_report_01.pdf",
-    "https://note.com/shuken_ai/n/n8a27b300f2de",
-    "https://digitalcast.jp/v/11619/",
-    "https://note.com/aijitanlab365/n/n853564136baf",
-    "https://note.com/kounotori17/n/n3346583df4c7"
-   ]
-  },
-  {
-   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 X 投稿",
-   "results": [
-    "https://snsschool.net/column/x-marketing/how-to-start",
-    "https://note.com/goodcomms/n/n02c80efd5a87",
-    "https://www.ownly.jp/sslab/33",
-    "https://www.shuttlerock.co.jp/article/detail/post-12450/",
-    "https://social-dog.net/ja/navi/xguide-summary/",
-    "https://www.marke-media.net/whitepaper/sns-010/",
-    "https://nwssbs.co.jp/blog/sns_55/",
-    "https://coco-and.jp/blog/x-empathy-posting/",
-    "https://socialbiz.jp/column/x%E3%81%A7%E5%AE%9F%E7%B8%BE%E3%82%92%E4%BD%9C%E3%82%8A-%E6%A8%A9%E5%A8%81%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95",
-    "https://it-notes.stylemap.co.jp/excel/excelでデータ突合を効率化する名簿照合と差分抽出/"
-   ]
-  },
-  {
-   "query": "entity resolution primary secondary identifiers confidence scoring company registry site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/pulse/design-rag-qa-system-millions-documents-hundreds-users-prem-vishnoi-irqmc",
-    "https://www.linkedin.com/pulse/gen-ai-business-97-winter-olympics-edition-eugina-jordan-pgmue",
-    "https://www.linkedin.com/pulse/context-management-ai-agentic-orchestration-amit-ranjan-odtbc",
-    "https://www.linkedin.com/in/cyberchristy",
-    "https://www.linkedin.com/in/darsei",
-    "https://www.linkedin.com/in/michaelmcevoy",
-    "https://www.linkedin.com/pulse/ops-i-did-again-ai-powered-vetting-ai-using-gemini-default-faenzi-yamff",
-    "https://www.linkedin.com/in/samuel30",
-    "https://www.linkedin.com/top-content/negotiation/preparing-for-a-contract-negotiation/mitigating-contractual-risks-in-construction/",
-    "https://www.linkedin.com/in/richardteachout"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ],
   "突き合わせ・推定": [
    {
@@ -555,96 +223,335 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "手順・やり方": [
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
    {
-    "quote": "実務での使い方 — 3つのステップ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/xoperation/n/n93109494872d",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "ステップ1: SFAのアカウントに法人番号フィールドを追加する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/erpninja/n/n84cc265f484b",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "型: テキスト(13桁固定長)",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/ripla_business/n/n0e31a2c5fb03",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "ステップ2: 既存リストに法人番号を付与する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/kounotori17/n/n3346583df4c7",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/aijitanlab365/n/n853564136baf",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "ステップ3: 法人番号をキーに複数ソースを統合する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/renketsu_cpa/n/n0be2195756f2",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める\"今アプローチすべき企業\"",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "quote": "6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Can you really trust your data? Here’s how to find out",
+    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/apple_ringo/n/nb87412c0f73e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takeru_tl/n/nf22289568436",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teamviewer.com/ja/special/digital-workplace-dx/data/table-2/row-02/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/11357/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fastaccounting.jp/blog/20230831/11797/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/tax_return/basic/73803/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invoice-kohyo.nta.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.cdata.com/blog/invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji44.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setuzei.biz/archives/92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagoya-kigyoseturitu.com/case/2791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuoka-shihousyoshi.jp/column/8656",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.ai-con.lawyer/articles/company-establish/72",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "How to check data coverage and freshness in OpenCorporates",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": ": 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://senzing.com/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://www.zigram.tech/article/entity-resolution-in-aml/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "url": "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
- "runs": 2,
+ "search_log": [
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 site:note.com",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/erpninja/n/n84cc265f484b",
+    "https://note.com/ripla_business/n/n0e31a2c5fb03",
+    "https://note.com/kounotori17/n/n3346583df4c7",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://note.com/renketsu_cpa/n/n0be2195756f2",
+    "https://note.com/nk_advisory/n/n30605c7330c8",
+    "https://note.com/aijitanlab365/n/n3e1dcf4a06db"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note",
+   "results": [
+    "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://note.com/apple_ringo/n/nb87412c0f73e",
+    "https://note.com/takeru_tl/n/nf22289568436",
+    "https://www.teamviewer.com/ja/special/digital-workplace-dx/Data/table-2/row-02",
+    "https://mesut.co.jp/backlink-note/",
+    "https://webtan.impress.co.jp/e/2020/06/05/36169",
+    "https://note.com/stock_value0407/n/n2631be42f144"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 やり方",
+   "results": [
+    "https://www.issoh.co.jp/column/details/11357/",
+    "https://www.fastaccounting.jp/blog/20230831/11797/",
+    "https://biz.moneyforward.com/tax_return/basic/73803/",
+    "https://www.invoice-kohyo.nta.go.jp/",
+    "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
+    "https://jp.cdata.com/blog/invoice",
+    "https://invox.jp/invoice-number",
+    "https://www.pwc.com/jp/ja/services/tax/indirect-tax/invoice-issuer-id-validator.html",
+    "https://patpost.jp/article/invoice/invoice-system-registration-number",
+    "https://salesnow.jp/media/126/"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 事例",
+   "results": [
+    "https://www.moj.go.jp/MINJI/minji44.html",
+    "https://www.setuzei.biz/archives/92",
+    "https://nagoya-kigyoseturitu.com/case/2791",
+    "https://www.fukuoka-shihousyoshi.jp/column/8656",
+    "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
+    "https://corporate.ai-con.lawyer/articles/company-establish/72",
+    "https://www.machida-legal.com/qa228/",
+    "https://www.netbk.co.jp/contents/hojin/tips/2021/1206_001884.html",
+    "https://shiodome.co.jp/js/blog/167",
+    "https://gxo.co.jp/column/master-data-matching-guide-2026"
+   ]
+  },
+  {
+   "query": "entity resolution primary secondary identifiers confidence scoring company registry",
+   "results": [
+    "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "https://senzing.com/what-is-entity-resolution/",
+    "https://www.zigram.tech/article/entity-resolution-in-aml/",
+    "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
+    "https://arxiv.org/html/2607.26298v1",
+    "https://www.precisely.com/solution/data-matching-and-entity-resolution-solutions/",
+    "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
+    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://blog.opencorporates.com/category/use-case/entity-resolution/"
+   ]
+  },
+  {
+   "query": "site:note.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
+    "https://note.com/modern_flea8708/n/n0fe4fa068026",
+    "https://note.com/bunkichi_kujo/n/nb407982bc194",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/modern_flea8708/n/nda4db7a05f40",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ripla_business/n/n0e31a2c5fb03",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://note.com/kounotori17/n/n3346583df4c7",
+    "https://note.com/renketsu_cpa/n/n0be2195756f2"
+   ]
+  },
+  {
+   "query": "site:x.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://x.com/shibasaki_k/article/2102181183807455547",
+    "https://x.com/911_takuya/status/2104165916510679128",
+    "https://x.com/ksmi_aiworks/status/2104896477520679160",
+    "https://x.com/houjinbase/status/2108441091775004907",
+    "https://x.com/Goro_bizaid/status/2082435517094981873",
+    "https://x.com/yohaku_shitate/status/2103148056346767499",
+    "https://x.com/AIkenkyuFM/status/2080065351996551251"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-reconciliation-rohan-rekhi-2pene?tl=ja",
+    "https://jp.linkedin.com/pulse/cmdb-management-servicenow-using-identification-rules-kiran-r-qv9kc?tl=ja",
+    "https://jp.linkedin.com/pulse/master-data-management-101-part-2-guide-haresh-joshi-1e?tl=ja",
+    "https://www.linkedin.com/posts/shiori-c-62b5461a1_sapジャパン-on-twitter-連結決算プロセスにイノベーションを-activity-6957870694252597249-3BhG",
+    "https://jp.linkedin.com/pulse/how-generative-ai-revolutionized-our-data-process-naveen-chauhan-xslrc?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-servicenow-cmdb-identification-reconciliation-jk7qc?tl=ja",
+    "https://jp.linkedin.com/posts/泰弘-菅野-427502172_azure-sql-databaseの照合順序設定を確認しましたデータベース作成時-activity-7391805908533755904-ZzqS"
+   ]
+  },
+  {
+   "query": "site:facebook.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに発注データ照合オプション機能を追加しました発注データをbill-oneにインポートすることで発注内容と請求書情報の照合作業をbill-one上/666023288894351/",
+    "https://www.facebook.com/bakurakulayerx/videos/請求と入金データの照合が大変なら業務を変えずラクになるai請求書発行送付システムはバクラク動画内の音声については音声読み上げソフト音読さんにて対応しています/951174994509972/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2173828220233834/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2450498005431450/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note 社長",
+   "results": [
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://note.com/sakusaku_excel/n/n826880608161",
+    "https://www.furi-ten.com/how-to-assign-invoice-numbers-for-invoice-system-compliance/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7227/",
+    "https://pandora-climber.jp/article/category_invoice/invoice_number.html",
+    "https://webtan.impress.co.jp/e/2020/06/05/36169",
+    "https://note.com/aijitanlab365/n/n853564136baf"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 X 投稿",
+   "results": [
+    "https://help.x.com/ja/managing-your-account/how-to-use-the-delegate-feature",
+    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
+    "https://www.tribalmedia.co.jp/note/marketing-1068/",
+    "https://s--line.co.jp/x-twitter-business-2026/",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-get-recommended.html",
+    "https://solezore.co.jp/blog/x-unyo-taisei/",
+    "https://flagout.co.jp/btob-x-twitter-guide/",
+    "https://tcd-theme.com/2025/08/x-accountsekkei.html",
+    "https://www.nttcoms.com/service/social/column/20220131/",
+    "https://docs.oracle.com/cd/G11809_01/trans/F77895-05/best-practices-for-mapping-matching-attributes.html"
+   ]
+  },
+  {
+   "query": "entity resolution primary secondary identifiers confidence scoring company registry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/maryastero",
+    "https://www.linkedin.com/in/nreineke",
+    "https://www.linkedin.com/pulse/design-rag-qa-system-millions-documents-hundreds-users-prem-vishnoi-irqmc",
+    "https://www.linkedin.com/in/samuel30",
+    "https://www.linkedin.com/in/nitish-shrivastava",
+    "https://www.linkedin.com/in/darsei",
+    "https://www.linkedin.com/in/kbsriharsha",
+    "https://www.linkedin.com/in/parulkchopra",
+    "https://www.linkedin.com/pulse/gen-ai-business-97-winter-olympics-edition-eugina-jordan-pgmue",
+    "https://www.linkedin.com/in/michaelmcevoy"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-06T20:08:54.369214+00:00"
 }

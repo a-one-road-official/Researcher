@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・161品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・163品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3452,6 +3452,7 @@
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 一次情報の探し方：
+  - 「官報の収録に抜けがあり期間が離れている場合、公告ページでは前期の列を出さず、企業ページの決算ハイライトでは「2024年3月期比」のように比較対象の期を明示します」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「「自分で登記できるもん」セルフ登記マンといわれる方々へ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「登記(会社設立や不動産名義変更)を税理士・行政書士に依頼してはいけない理由」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3466,7 +3467,6 @@
   - 「財産分与の登記：離婚のときに簡単に「財産分与」を登記原因として登記してはいけない理由と代替案」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「信託登記が入っている不動産の売却時チェックリスト」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「外国（海外）在住日本人の不動産登記手続（在留証明書･署名証明書）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 失敗・落とし穴：
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3485,6 +3485,7 @@
   - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3498,7 +3499,6 @@
   - 「義務を怠った際、過料が処されたケースが少ない」（https://keiridriven.mjs.co.jp/171979/）
   - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -5248,11 +5248,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -9308,11 +9308,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -9321,9 +9321,45 @@
   - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation」（https://arxiv.org/html/2404.05622）
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/html/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/html/2404.05622）
+  - 「In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of」（https://arxiv.org/html/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/html/2404.05622）
+  - 「A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section」（https://arxiv.org/html/2404.05622）
+  - 「evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.」（https://arxiv.org/html/2404.05622）
+  - 「represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/html/2404.05622）
+  - 「. This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results」（https://arxiv.org/html/2404.05622）
+  - 「, we introduce the proposed methodology. In section」（https://arxiv.org/html/2404.05622）
+  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
 - 突き合わせ・推定：
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「2. Global Performance Metric Estimates:」（https://arxiv.org/html/2404.05622）
+  - 「To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall」（https://arxiv.org/html/2404.05622）
+  - 「, we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section」（https://arxiv.org/html/2404.05622）
+  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
+  - 「, we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.」（https://arxiv.org/html/2404.05622）
+  - 「Estimated number of citations to PatentsView in academic literature by year.」（https://arxiv.org/html/2404.05622）
+  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
+  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews」（https://arxiv.org/html/2404.05622）
+  - 「. These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates」（https://arxiv.org/html/2404.05622）
+  - 「), or estimated for the unknown ground truth clustering」（https://arxiv.org/html/2404.05622）
+  - 「clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.」（https://arxiv.org/html/2404.05622）
+  - 「), which then can be estimated in the same way.」（https://arxiv.org/html/2404.05622）
+  - 「can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities」（https://arxiv.org/html/2404.05622）
+- 失敗・落とし穴：
+  - 「Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased」（https://arxiv.org/html/2404.05622）
+  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
+  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
+  - 「, we also can use the bias-adjusted estimator and variance estimator described in」（https://arxiv.org/html/2404.05622）
+  - 「) within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package」（https://arxiv.org/html/2404.05622）
+  - 「. We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in」（https://arxiv.org/html/2404.05622）
+  - 「pairwise recall. Note that bias is below」（https://arxiv.org/html/2404.05622）
+  - 「The empirical bias is always smaller than」（https://arxiv.org/html/2404.05622）
+  - 「when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.」（https://arxiv.org/html/2404.05622）
+  - 「pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.」（https://arxiv.org/html/2404.05622）
+  - 「Seeing the non-stars: (Some) sources of bias in past disambiguation」（https://arxiv.org/html/2404.05622）
 - 実例：
   - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Data showcases and customer case studies.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
@@ -9336,8 +9372,11 @@
   - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「A common production pattern scores each candidate pair and routes it by confidence: pairs above an accept threshold auto-merge, pairs below a reject threshold are auto-dismissed, and the ambiguous middle band goes to a human review queue — which preserves precision on hard cases while keeping throughput high.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Can you give a worked precision, recall and F1 example?」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+  - 「Entity resolution systems typically employ machine learning and artificial intelligence models to tackle this challenge. The models use contextual information to predict whether or not two records refer to the same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors, employer, and location, in addition to first and last names」（https://arxiv.org/html/2404.05622）
+  - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
+  - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
+  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -9902,3 +9941,51 @@
   - 「9．仮想アパレルA社のケース｜市場の大きさから投資判断まで」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「［1］経済産業省「令和7年度電子商取引に関する市場調査の結果を取りまとめました」（2026年10月21日）」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「［3］経済産業省「令和6年度電子商取引に関する市場調査の結果を取りまとめました」（2025年8月26日）」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+
+## 官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活（government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup）
+- 文脈：名寄せ
+- 手順・やり方：
+  - 「官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「企業リストの入手方法は3つある」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「手順は5つ——小さく作って一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「ファイル形式と規模、列名のないCSVの読み方、差分データの使い方は」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「手順は​5つ——​小さく​作って​一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「手順そのものより、運用が本体です」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「手元の営業リストに混ざった閉鎖・移転・重複を洗い直す手順は」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「まず、狙う1業種・1都道府県を決めて、上の5ステップを一度通してみてください」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「DX認定企業の一覧をCSVで取る方法と活用法」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+- 突き合わせ・推定：
+  - 「手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「数千件の個別照合や差分の自動取り込みはAPI向きです」（https://gomumari.com/knowledge/koukou-data-list/）
+- 一次情報の探し方：
+  - 「資本金・従業員数・届出/認定・財務・特許・補助金など」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）」（https://gomumari.com/knowledge/koukou-data-list/）
+- 失敗・落とし穴：
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+- 実例：
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
+
+## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
+- 文脈：検証
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
