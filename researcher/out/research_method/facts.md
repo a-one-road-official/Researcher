@@ -740,6 +740,10 @@
   - 「GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis. · GitHub」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
   - 「- Help find real world examples of functions, API's and libraries across 10+ sources.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
   - 「- Free. Nationwide search of 400 million+ United States court cases.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「脅威アクターがGitHubを不正な目的で悪用するケースが増加」（https://codebook.machinarecord.com/cyber-intelligence/osint/15117/）
+  - 「ここからは、企業でOSINTの手法を効果的に活用するための活用事例を6パターン紹介します」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
+  - 「調査結果は、日本語で分かりやすくまとめたレポートとして提供されます」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
+  - 「VPN機器の脆弱性はなぜ狙われる？2026年の不正アクセス事例とSCS評価制度★3で求められる対策」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
   - 「ネットで「消費税 軽減税率」と検索するのが「本を1冊だけ引っ張ってくる」行為なら、OSINTは「関連する通達・Q&A・他自治体の運用事例・国会答弁を横断的に集めて、自庁の規則と照らし合わせる」行為です」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「【ケース①：消費税の経過措置、あなたの自治体は正しく運用できていますか？】」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「しかし現場では、「昨年の担当者がまとめた資料」や「ベンダーから届いた説明資料」だけを頼りに運用しているケースが少なくありません」（https://note.com/solo_style/n/n985b3c636ab6）
@@ -748,10 +752,6 @@
   - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「といった投稿をSNSにしてしまうケースも実際に起きている」（https://note.com/red_structure/n/na2c79b00d217）
   - 「例えば「あるメールアドレス」を起点に、関連するドメイン・IPアドレス・SNSアカウント・人物情報が芋づる式に展開されていく」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「例えば、ビジネスにおける市場調査や競合他社の動向などの情報収集もOSINTです」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「例えば、まとめサイト、検索エンジンなどを利用することで、容易に情報を収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「例えば、採用ターゲットとなる個人や競合する企業の情報、日本に帰化した外国出身の方の名前などを収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「ただし、ユーザ情報をもとにしたカスタマイズをした検索結果が表示されるということも考慮した方がいいです」（https://note.com/subland_/n/nd946aa4f734d）
 - 検索結果の抜粋：
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — ユーザー名調査 Username 19件 公開されているユーザー名情報を調べるためのOSINTツールをまとめています。 Webでユーザー名を横断検索。 ユーザー名を複数サイトで横断検索（要ローカル導入）。 ユーザー名を複数サイトで横断検索（要ローカル導入）。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (OSINT) - Global Strategic Business ...GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of ...OSINT Methodology: How Open Source Intelligence WorksTop 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights B」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
@@ -3425,6 +3425,8 @@
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
 - 手順・やり方：
+  - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「東京官書普及（千代田区）への窓口持参からWEB申込まで、具体的な手順を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -3438,8 +3440,6 @@
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「司法書士会への非司行為(にせ司法書士)取締要請書（ひな型）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「新人司法書士が必ず陥る「誤字脱字などのケアレスミス地獄」からの脱出方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3490,6 +3490,7 @@
 - 実例：
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3502,7 +3503,6 @@
   - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「義務を怠った際、過料が処されたケースが少ない」（https://keiridriven.mjs.co.jp/171979/）
   - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -6089,9 +6089,9 @@
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -9002,6 +9002,7 @@
   - 「調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます」（https://qiqumo.jp/contents/knowhow/7500）
 - 検索結果の抜粋：
   - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアス... — Feb 2, 2026 · アンケート調査に潜むバイアスを調査設計・設問設計・分析報告の工程別に解説します。 確証バイアスや誘導質問など具体的な対策チェックポイントを紹介。 QiQUMOで精度の高いデータ収集を実現しましょう。」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアス... — Feb 2, 2026 · アンケート調査に潜むバイアスを調査設計・設問設計・分析報告の工程別に解説します。確証バイアスや誘導質問など具体的な対策チェックポイントを紹介。QiQUMOで精度の高いデータ収集を実現しましょう。」（https://qiqumo.jp/contents/knowhow/7500）
 
 ## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
 - 文脈：会社の数字
