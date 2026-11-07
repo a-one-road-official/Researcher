@@ -8,9 +8,215 @@
  ],
  "context": "統計の版",
  "kind": "market",
- "researched_at": "2026-11-06T20:47:22.287917+00:00",
+ "researched_at": "2026-11-07T01:30:24.945050+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Some revisions correct mistakes. Many do not.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A fictional worked example of revision bias",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "scale changes are mistaken for economic change.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, dispersion, autocorrelation, and news-noise diagnostics. It",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• β0 = 0(no bias)",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias Tests: Tests for the presence of mean bias and regression bias.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (mean): The mean revision, testing whether revisions are systematically biased.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (p-value): p-value from a t-test evaluating the significance of the mean revision.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Bias (robust p-value): Newey-West HAC robust p-value for the mean revision test.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the null hypothesis of unbiasedness and efficiency.",
+    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "(for example, a given month or quarter) a revision can be defined as",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
@@ -140,6 +346,12 @@
   ],
   "一次情報の探し方": [
    {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
@@ -159,6 +371,36 @@
    }
   ],
   "手順・やり方": [
+   {
+    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GDP quality and methodology information (QMI)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
@@ -388,201 +630,97 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Some revisions correct mistakes. Many do not.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A fictional worked example of revision bias",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "scale changes are mistaken for economic change.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, dispersion, autocorrelation, and news-noise diagnostics. It",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• β0 = 0(no bias)",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias Tests: Tests for the presence of mean bias and regression bias.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (mean): The mean revision, testing whether revisions are systematically biased.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (p-value): p-value from a t-test evaluating the significance of the mean revision.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Bias (robust p-value): Newey-West HAC robust p-value for the mean revision test.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the null hypothesis of unbiasedness and efficiency.",
-    "url": "https://cran.r-project.org/web/packages/reviser/reviser.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.52 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.425 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.507 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.851 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.326 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.181 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.202 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
+   {
+    "quote": "We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Revisions of estimates of UK gross domestic product (GDP)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article analyses the revisions to our quarterly GDP estimates that were published in our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
     "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
@@ -924,17 +1062,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/dr_sakura/n/n845fe91423c7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "status": "ok",
     "method": "http"
    },
@@ -944,7 +1072,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/ezuremanagement/n/ne844b7c1197b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocaml/n/n7d712123cbea",
     "status": "ok",
     "method": "http"
    },
@@ -954,7 +1092,7 @@
     "method": "http"
    },
    {
-    "url": "https://toketarou.com/cheatsheet/",
+    "url": "https://note.com/e_dao/n/n4a89d35ed368",
     "status": "ok",
     "method": "http"
    },
@@ -964,7 +1102,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/e_dao/n/n4a89d35ed368",
+    "url": "https://toketarou.com/cheatsheet/",
     "status": "ok",
     "method": "http"
    },
@@ -974,7 +1112,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/e_dao/n/n8a5b069c2264",
+    "url": "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
     "status": "ok",
     "method": "http"
    },
@@ -984,19 +1122,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.toukei-kentei.jp/grade/grade3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.statweb.jp/method",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.toukei-kentei.jp/grade/grade3/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://bellcurve.jp/statistics/course/9317.html",
@@ -1004,7 +1142,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201003nyuumon.pdf",
+    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1019,11 +1157,6 @@
     "method": "http"
    },
    {
-    "url": "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.tokyo-tosho.co.jp/02332/",
     "status": "ok",
     "method": "http"
@@ -1034,14 +1167,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.statcan.gc.ca/en/developers/real-time-data-tables",
+    "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://svannorden.org/original-vintage-data-sources/",
@@ -1054,12 +1187,12 @@
     "method": "http"
    },
    {
-    "url": "https://unstats.un.org/unsd/nationalaccount/workshops/2016/Denmark/Data_Revisions_and_macroeconomics.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
+    "url": "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
     "status": "http_403",
     "method": "http"
    },
@@ -1067,6 +1200,11 @@
     "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1075,29 +1213,30 @@
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） site:note.com",
    "results": [
     "https://note.com/jun8888888/n/n671b79694bb7",
-    "https://note.com/dr_sakura/n/n845fe91423c7",
     "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/ezuremanagement/n/ne844b7c1197b",
     "https://note.com/ocaml/n/n7d712123cbea",
     "https://note.com/dakudhigura/n/n83c3936035fc",
     "https://note.com/dakudhigura/n/nba796ec546bf",
-    "https://note.com/dakudhigura/n/n1cf48e633662"
+    "https://note.com/dakudhigura/n/n1cf48e633662",
+    "https://note.com/dakudhigura/n/n9afc1c8b6a7d"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note",
    "results": [
     "https://note.com/fueki_pug/n/n1a4676abf18b",
-    "https://toketarou.com/cheatsheet/",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
     "https://note.com/e_dao/n/n4a89d35ed368",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
+    "https://toketarou.com/cheatsheet/",
     "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://note.com/e_dao/n/n8a5b069c2264",
-    "https://www.tokyo-tosho.co.jp/02332/",
+    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://note.com/bluestatistics/n/n63deb183890b",
     "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000"
+    "https://www.tokyo-tosho.co.jp/02332/",
+    "https://www.stat.go.jp/data/nihon/index2-2.html"
    ]
   },
   {
@@ -1105,13 +1244,13 @@
    "results": [
     "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
     "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.statweb.jp/method",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "https://www.toukei-kentei.jp/grade/grade3/",
+    "https://www.statweb.jp/method",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
     "https://toketarou.com/cheatsheet/",
     "https://bellcurve.jp/statistics/course/9317.html",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201003nyuumon.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_04.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
    ]
   },
@@ -1119,29 +1258,29 @@
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） 事例",
    "results": [
     "https://www.toukei-kentei.jp/news/post-16945",
-    "https://www.statweb.jp/method",
     "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
+    "https://www.statweb.jp/method",
     "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
     "https://bellcurve.jp/statistics/course/10004.html",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "https://www.tokyo-tosho.co.jp/02332/",
     "https://toketarou.com/cheatsheet/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "https://www.tokyo-tosho.co.jp/02332/",
     "https://www.stat.go.jp/data/nihon/index2-2.html"
    ]
   },
   {
    "query": "official statistics revision analysis vintages real-time data revision triangle",
    "results": [
-    "https://www.statcan.gc.ca/en/developers/real-time-data-tables",
     "https://svannorden.org/original-vintage-data-sources/",
     "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://unstats.un.org/unsd/nationalaccount/workshops/2016/Denmark/Data_Revisions_and_macroeconomics.pdf",
     "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
-    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
     "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
+    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
     "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
     "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "https://www.statcan.gc.ca/en/developers/real-time-data-tables",
+    "https://en.wikipedia.org/wiki/Official_statistics",
     "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html"
    ]
   },
@@ -1153,8 +1292,8 @@
     "https://note.com/ego_station/n/nf3a2411b4a6e",
     "https://note.com/jack4manastalk/n/n81f611b08ce5",
     "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/ezuremanagement/n/ne844b7c1197b",
     "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ezuremanagement/n/ne844b7c1197b",
     "https://note.com/dakudhigura/n/n83c3936035fc",
     "https://note.com/dakudhigura/n/n1cf48e633662",
     "https://note.com/kamokita/n/n99626649661e"
@@ -1164,12 +1303,12 @@
    "query": "site:x.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
    "results": [
     "https://jf.x.com/images/media-preview/2113183583518990519",
-    "https://jf.x.com/images/media-preview/2104823350136898001",
+    "https://jf.x.com/images/media-preview/2106380537472356561",
     "https://x.com/koumuinright2/status/2057692623268462895",
     "https://x.com/RvFDRutpR26jgO3/status/2083179279106621564",
-    "https://x.com/smo_yutohisano/status/2075165578747342927",
+    "https://x.com/Logics_of_Blue/status/2043199544788504990",
     "https://x.com/Trader_Kengyo/status/1379658303760789504",
-    "https://x.com/Logics_of_Blue/status/2043199544788504990"
+    "https://x.com/nananairu7/status/2074096861515063569"
    ]
   },
   {
@@ -1180,7 +1319,7 @@
     "https://www.linkedin.com/posts/gagan-anand-328b8ba2_salesforce-salesforcedevelopers-salesforcewinter27-activity-7498169018109890560-V2uG",
     "https://www.linkedin.com/jobs/archives-technician-jobs",
     "https://cn.linkedin.com/pulse/exploring-delta-lakes-tables-unifying-data-management-hemant-kumar?tl=zh",
-    "https://jp.linkedin.com/posts/hirofumi-isobe-291239169_下水道分野における-jis-q-55001-適用ユーザーズガイド概要版の公表-activity-7444292072087392258-ze6P",
+    "https://jp.linkedin.com/posts/直純-村上-311b20259_おはよう御座います-逆三角s-トヨタでは重要保安部品にはsのマークが図面中-activity-7214775911135465473-LXOo",
     "https://jp.linkedin.com/pulse/spss-vs-r-choosing-right-tool-statistical-analysis-muhammad-faheem-mqhkf?tl=ja"
    ]
   },
@@ -1192,8 +1331,8 @@
     "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
     "https://www.facebook.com/Japan.RIETI/posts/2320489804709531/",
     "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
-    "https://www.facebook.com/tabemonooishii/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1117686964241019/",
-    "https://www.facebook.com/kanagawa.tokei.ch/posts/ランキングかながわ地域編統計指標でみる神奈川改訂第４版を作成しましたさまざまな分野の統計指標をもとに県内市町村の順位をまとめた-ランキングかながわ地域編統計指標/981522217343371/"
+    "https://www.facebook.com/nicowaku/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1529548559207135/",
+    "https://www.facebook.com/kandouhiwa/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1550440447120099/"
    ]
   },
   {
@@ -1202,13 +1341,13 @@
     "https://note.com/fueki_pug/n/n1a4676abf18b",
     "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
     "https://note.com/asobeyokiken_/n/n1205d172b215",
+    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
     "https://note.com/paguinu/n/n5e638afbfc77",
     "https://toketarou.com/cheatsheet/",
-    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
     "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
-    "https://note.com/e_dao/n/n4a89d35ed368",
-    "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf"
+    "https://www.tokyo-tosho.co.jp/02332/",
+    "https://www.stat.go.jp/data/nihon/index2-2.html"
    ]
   },
   {
@@ -1216,33 +1355,183 @@
    "results": [
     "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
     "https://www.toukei-kentei.jp/news/post-16945",
+    "https://x.com/toukei_kentei",
+    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
     "https://www.tokyo-tosho.co.jp/02332/",
-    "https://qiita.com/MariMurotani/items/1a216b6e48fc35d8ac47",
     "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://qiita.com/MariMurotani/items/1a216b6e48fc35d8ac47",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-september.pdf",
     "https://toketarou.com/cheatsheet/",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://bellcurve.jp/statistics/course/19647.html",
-    "https://x.com/toukei_kentei"
+    "https://www.stat.go.jp/data/nihon/index2-2.html"
    ]
   },
   {
    "query": "official statistics revision analysis vintages real-time data revision triangle site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/riccardo-trezzi-phd-780799a5_once-again-istat-has-revised-gdp-upward-activity-7508809509310586880-I0gj",
+    "https://www.linkedin.com/posts/domenico-giannone-55755b45_macroeconomic-forecasting-and-machine-learning-activity-7383993725779271680-ZTe2",
     "https://ca.linkedin.com/in/josef-perktold-josef-pktd-9a23b316",
     "https://de.linkedin.com/in/daniel-ollech/en",
-    "https://ca.linkedin.com/in/mohanad-salameh-0b26a097",
+    "https://www.linkedin.com/posts/jpazvd_officialstatistics-datagovernance-sdmx-activity-7523686501155704832-4arn",
     "https://sg.linkedin.com/jobs/view/senior-data-engineer-econtech-contract-at-monetary-authority-of-singapore-mas-4468179373",
     "https://ch.linkedin.com/in/vazquezvazquezmiguel",
-    "https://www.linkedin.com/posts/domenico-giannone-55755b45_macroeconomic-forecasting-and-machine-learning-activity-7383993725779271680-ZTe2",
-    "https://www.linkedin.com/pulse/nowcasting-financial-markets-ralph-sueppel",
-    "https://www.linkedin.com/posts/review-of-finance_noisy-factors-the-retroactive-impact-of-activity-7507725423116673027-4t7S",
-    "https://ca.linkedin.com/in/simon-van-norden"
+    "https://www.linkedin.com/posts/lorenzo-trapani-5855091_sequential-monitoring-for-distributional-activity-7388835584263487488-V7Wf",
+    "https://www.linkedin.com/in/jpazvd",
+    "https://www.linkedin.com/in/riccardo-trezzi-phd-780799a5"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 6,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GDP quality and methodology information (QMI)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Revisions of estimates of UK gross domestic product (GDP)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article analyses the revisions to our quarterly GDP estimates that were published in our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 7,
  "first_researched_at": "2026-11-05T22:24:39.527283+00:00"
 }

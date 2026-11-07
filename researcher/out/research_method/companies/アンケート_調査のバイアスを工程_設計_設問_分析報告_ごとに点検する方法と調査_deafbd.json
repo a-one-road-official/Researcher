@@ -8,120 +8,252 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-06T20:45:09.888807+00:00",
+ "researched_at": "2026-11-07T01:28:19.716344+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます",
+    "quote": "【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます",
+    "quote": "アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "推定量の系統誤差、設計・計測上の偏り",
+    "quote": "確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる",
+    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです",
+    "quote": "本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります",
+    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分",
+    "quote": "本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "選択肢は仮説の列挙で終わらせず、",
+    "quote": "まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す",
+    "quote": "バイアスとは偏りや歪み、傾きなどを表す言葉です",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます",
+    "quote": "ヒューリスティクス（代表性、利用可能性など）、確証バイアス",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる",
+    "quote": "プロスペクト理論（損失回避、参照点依存）、現状維持バイアス",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "3) 想起・推定の過大要求",
+    "quote": "グループシンク、同調、内集団バイアス、権威の影響",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する",
+    "quote": "サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する",
+    "quote": "構造的不平等、制度バイアス、排除のメカニズム",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く",
+    "quote": "選択バイアス、測定バイアス、p-hacking、サンプリング偏向",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Yes. Survey administration mode can affect who is reached, who agrees to participate, and how respondents interpret and answer questions. These influences are commonly distinguished as mode-related selection effects and mode-related measurement effects, both of which can affect survey estimates and comparisons.",
+    "quote": "How Survey Administration Mode Affects Responses and Bias",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "The resulting estimates could understate the barriers the study intends to investigate.",
+    "quote": "Survey Mode Effects and Response Bias",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Report mode-related limitations and their implications for estimates, subgroup comparisons, and trends.",
+    "quote": "Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Yes, provided the design and analysis account appropriately for sampling, administration, and potential measurement differences. Pooling responses without evaluating comparability may produce misleading estimates, particularly for mode-sensitive questions.",
+    "quote": "Does Self-Administration Reduce Social Desirability Bias?",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Self-administration should not be treated as a guarantee of truthful responses or freedom from social desirability bias.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Paper questionnaires permit respondents to move freely through the instrument, which may be convenient but can also result in missed items or routing mistakes.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Recent methodological work using directed acyclic graphs also demonstrates that conditioning on survey mode can introduce bias under some causal structures involving mode selection.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Researchers should explain why mode adjustment is justified rather than treating it as a routine correction that automatically removes bias.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Such assessments require adequate data and appropriate assumptions. They are not automatically necessary for every descriptive item, nor do they resolve selection bias by themselves.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Self-Administered Surveys Are Free from Social Desirability Bias",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Adding Survey Mode as a Regression Variable Removes Mode Bias",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Statistical adjustment requires assumptions about the relationships among mode selection, respondent characteristics, and outcomes. In some circumstances, conditioning on mode may introduce additional bias rather than eliminate it.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Response rates describe participation but do not directly measure nonresponse bias. A mode can achieve a relatively high response rate while systematically underrepresenting groups relevant to the research question.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If mode-related bias is central to the validity of your conclusions",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Are interviewer-administered surveys more biased than self-administered surveys?",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9 - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. Nonresponse bias threatens the representativeness of a survey. For a formal presentation: [e.g.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are many possible ways of estimating the size of nonresponse bias. The most common in survey practice—but highly criticized [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Additionally, counting only official marriages would make a big difference between countries with different legal landscapes regarding this matter, so both formal and informal partnerships should be included. In the following parts of this paper, I will refer to Sodeur’s internal criteria of nonresponse bias assessment as a nonresponse bias indicator (NBI).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For an extensive discussion on the usability of the different nonresponse bias measures and indicators in similar research, see the work of Jabkowski, Cichocki, and Kołczyńska [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. On the other hand, they are treated as a way to overcome the social desirability bias present mainly in the face-to-face context [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]; however, this type of bias is not a focus of this study. The downside of the mail mode is that it becomes more problematic if no individual frame is available. Random within-household selection made by household members may be of lower quality than one made by a skilled interviewer. However, the RR of mail surveys may also be higher than those of current web surveys [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "]. The idea of mixing different modes of data collection is motivated mainly by the desire to reduce cost, social desirability bias, or nonresponse (but not all at once). It may also involve modes of contact and a follow-up phase. Mix-mode surveys could possibly be cheaper than face-to-face surveys while achieving higher RR if carefully designed [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As stated previously, a body of literature concerning relations between survey mode and nonresponse bias exists but is not very large; nevertheless, any endeavor aimed at finding clear conclusions in it may be fruitless. This paper is a systematic review, not a narrative one. Therefore, the list of findings is more of an illustration. I will start with the single-mode comparisons. De Leeuw [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "] compared single-mode CATI, mail, and web surveys with their respective mixed-mode approaches with added face-to-face follow-up; in most cases, the bias measured by R-indicators for mixed-mode surveys was lower. Bianchi et al. [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
@@ -132,37 +264,19 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "is based is only an estimate and the true proportion of females in the defined subpopulation is already known to equal 0.5, the within-study variance may be calculated as:",
+    "quote": "], after conducting a meta-analysis of 96 surveys, found that using mixed-mode surveys resulted in nonresponse bias reduction measured by R-indicators compared to single-mode surveys. Sztabiński [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "To answer the research questions, I created random-effects meta-regression (alternatively called mixed-effects) models using the restricted maximum likelihood method to estimate τ",
+    "quote": "]. Therefore, I used the binary variable individual/nonindividual (household/address, area probability sampling). To not overcomplicate the model, I ignored the possible impact of the within-household selection method on nonresponse bias [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "## tau^2 (estimated amount of residual heterogeneity): 0.0002 (SE = 0.0001)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0126",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## estimate se tval df pval ci.lb ci.ub",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0131",
+    "quote": "p102–113] and thus at least the upper boundary of possible nonresponse bias. I chose to include a moderator that for each observation simply counts how many surveys were done previously in this country and program. This study, as stated previously, is based on observational data—like many meta-analyses in survey methodology [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -708,250 +822,118 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方",
+    "quote": "判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する",
+    "quote": "、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説",
+    "quote": "推定量の系統誤差、設計・計測上の偏り",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
+    "quote": "確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました",
+    "quote": "確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
+    "quote": "具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します",
+    "quote": "満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します",
+    "quote": "選択肢は仮説の列挙で終わらせず、",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "バイアスとは偏りや歪み、傾きなどを表す言葉です",
+    "quote": "分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ヒューリスティクス（代表性、利用可能性など）、確証バイアス",
+    "quote": "市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "プロスペクト理論（損失回避、参照点依存）、現状維持バイアス",
+    "quote": "「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "グループシンク、同調、内集団バイアス、権威の影響",
+    "quote": "3) 想起・推定の過大要求",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）",
+    "quote": "可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "構造的不平等、制度バイアス、排除のメカニズム",
+    "quote": "“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "選択バイアス、測定バイアス、p-hacking、サンプリング偏向",
+    "quote": "主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く",
     "url": "https://qiqumo.jp/contents/knowhow/7500",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "How Survey Administration Mode Affects Responses and Bias",
+    "quote": "Yes. Survey administration mode can affect who is reached, who agrees to participate, and how respondents interpret and answer questions. These influences are commonly distinguished as mode-related selection effects and mode-related measurement effects, both of which can affect survey estimates and comparisons.",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Survey Mode Effects and Response Bias",
+    "quote": "The resulting estimates could understate the barriers the study intends to investigate.",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.",
+    "quote": "Report mode-related limitations and their implications for estimates, subgroup comparisons, and trends.",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Does Self-Administration Reduce Social Desirability Bias?",
+    "quote": "Yes, provided the design and analysis account appropriately for sampling, administration, and potential measurement differences. Pooling responses without evaluating comparability may produce misleading estimates, particularly for mode-sensitive questions.",
     "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Self-administration should not be treated as a guarantee of truthful responses or freedom from social desirability bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Paper questionnaires permit respondents to move freely through the instrument, which may be convenient but can also result in missed items or routing mistakes.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Recent methodological work using directed acyclic graphs also demonstrates that conditioning on survey mode can introduce bias under some causal structures involving mode selection.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Researchers should explain why mode adjustment is justified rather than treating it as a routine correction that automatically removes bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Such assessments require adequate data and appropriate assumptions. They are not automatically necessary for every descriptive item, nor do they resolve selection bias by themselves.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Self-Administered Surveys Are Free from Social Desirability Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Adding Survey Mode as a Regression Variable Removes Mode Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Statistical adjustment requires assumptions about the relationships among mode selection, respondent characteristics, and outcomes. In some circumstances, conditioning on mode may introduce additional bias rather than eliminate it.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Response rates describe participation but do not directly measure nonresponse bias. A mode can achieve a relatively high response rate while systematically underrepresenting groups relevant to the research question.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If mode-related bias is central to the validity of your conclusions",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Are interviewer-administered surveys more biased than self-administered surveys?",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9 - PMC",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Nonresponse bias threatens the representativeness of a survey. For a formal presentation: [e.g.,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There are many possible ways of estimating the size of nonresponse bias. The most common in survey practice—but highly criticized [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Additionally, counting only official marriages would make a big difference between countries with different legal landscapes regarding this matter, so both formal and informal partnerships should be included. In the following parts of this paper, I will refer to Sodeur’s internal criteria of nonresponse bias assessment as a nonresponse bias indicator (NBI).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For an extensive discussion on the usability of the different nonresponse bias measures and indicators in similar research, see the work of Jabkowski, Cichocki, and Kołczyńska [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. On the other hand, they are treated as a way to overcome the social desirability bias present mainly in the face-to-face context [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]; however, this type of bias is not a focus of this study. The downside of the mail mode is that it becomes more problematic if no individual frame is available. Random within-household selection made by household members may be of lower quality than one made by a skilled interviewer. However, the RR of mail surveys may also be higher than those of current web surveys [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. The idea of mixing different modes of data collection is motivated mainly by the desire to reduce cost, social desirability bias, or nonresponse (but not all at once). It may also involve modes of contact and a follow-up phase. Mix-mode surveys could possibly be cheaper than face-to-face surveys while achieving higher RR if carefully designed [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As stated previously, a body of literature concerning relations between survey mode and nonresponse bias exists but is not very large; nevertheless, any endeavor aimed at finding clear conclusions in it may be fruitless. This paper is a systematic review, not a narrative one. Therefore, the list of findings is more of an illustration. I will start with the single-mode comparisons. De Leeuw [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "] compared single-mode CATI, mail, and web surveys with their respective mixed-mode approaches with added face-to-face follow-up; in most cases, the bias measured by R-indicators for mixed-mode surveys was lower. Bianchi et al. [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
@@ -962,19 +944,37 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "], after conducting a meta-analysis of 96 surveys, found that using mixed-mode surveys resulted in nonresponse bias reduction measured by R-indicators compared to single-mode surveys. Sztabiński [",
+    "quote": "is based is only an estimate and the true proportion of females in the defined subpopulation is already known to equal 0.5, the within-study variance may be calculated as:",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "]. Therefore, I used the binary variable individual/nonindividual (household/address, area probability sampling). To not overcomplicate the model, I ignored the possible impact of the within-household selection method on nonresponse bias [",
+    "quote": "To answer the research questions, I created random-effects meta-regression (alternatively called mixed-effects) models using the restricted maximum likelihood method to estimate τ",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "p102–113] and thus at least the upper boundary of possible nonresponse bias. I chose to include a moderator that for each observation simply counts how many surveys were done previously in this country and program. This study, as stated previously, is based on observational data—like many meta-analyses in survey methodology [",
+    "quote": "## tau^2 (estimated amount of residual heterogeneity): 0.0002 (SE = 0.0001)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## tau (square root of estimated tau^2 value): 0.0126",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## estimate se tval df pval ci.lb ci.ub",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## tau (square root of estimated tau^2 value): 0.0131",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1000,17 +1000,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/bakko_club/n/ne96e87de6465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/610_mto/n/n438488470076?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/taiseimurayama/n/nd11b24183494",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/iromegane_bot/n/n98aef7aa4662",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/610_mto/n/n5fe57e207f7b",
     "status": "ok",
     "method": "http"
    },
@@ -1025,12 +1025,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/qiqumo/n/n8a1dbc0c1e66",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
+    "url": "https://note.com/qiqumo/n/n8a1dbc0c1e66",
     "status": "ok",
     "method": "http"
    },
@@ -1040,22 +1040,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/qiqumo/n/n9ffe4b0998ed",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.cross-m.co.jp/introduction/research-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.surece.co.jp/column/04/",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
     "status": "ok",
     "method": "http"
    },
@@ -1065,17 +1050,37 @@
     "method": "http"
    },
    {
+    "url": "https://www.surece.co.jp/column/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cross-m.co.jp/introduction/research-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://researto.com/column/market-research-bias/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://surveroid.jp/mr-journal/survey_design/pCvZb",
+    "url": "https://tayori.com/blog/how-to-make-survey/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/column/entry-066/",
+    "url": "https://surveroid.jp/mr-journal/Knowledge/ss9Pu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.neo-m.jp/column/marketing-research_086_questionnaire-bias",
     "status": "ok",
     "method": "http"
    },
@@ -1090,22 +1095,12 @@
     "method": "http"
    },
    {
-    "url": "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://research-skills.com/articles/survey-bias-catalog/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "url": "https://www.collabotown.com/2025/12/24/product-planning-failure-cases-2/",
     "status": "ok",
     "method": "http"
    },
@@ -1115,12 +1110,7 @@
     "method": "http"
    },
    {
-    "url": "https://lensym.com/blog/survey-bias-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.evalacademy.com/articles/sampling-bias-identifying-and-avoiding-bias-in-data-collection",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "status": "ok",
     "method": "http"
    },
@@ -1128,6 +1118,21 @@
     "url": "https://www.sogolytics.com/learning-center/surveys/how-to-avoid-bias-in-surveys/",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://lensym.com/blog/survey-bias-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/survey-bias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evalacademy.com/articles/sampling-bias-identifying-and-avoiding-bias-in-data-collection",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1138,13 +1143,13 @@
     "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/deskrex/n/nb8db55cfdf8f",
     "https://note.com/misaki_ai_work/n/nac9368e58ce0",
+    "https://note.com/bakko_club/n/ne96e87de6465",
+    "https://note.com/610_mto/n/n438488470076?hl=en",
     "https://note.com/taiseimurayama/n/nd11b24183494",
-    "https://note.com/iromegane_bot/n/n98aef7aa4662",
-    "https://note.com/610_mto/n/n5fe57e207f7b",
-    "https://note.com/seinonotes/n/n165aba4b9984",
-    "https://note.com/jack4manastalk/n/n880406135053",
     "https://note.com/kagawatomo/n/n19063dcdd8e8",
-    "https://note.com/sohtanagasaka/n/n4e209489f0aa"
+    "https://note.com/iromegane_bot/n/n98aef7aa4662",
+    "https://note.com/m2ai_jp/n/n31d471de146a",
+    "https://note.com/jack4manastalk/n/n880406135053"
    ]
   },
   {
@@ -1152,12 +1157,12 @@
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
     "https://note.com/qiqumo/n/n8a1dbc0c1e66",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
     "https://www.dm-insight.jp/column/response-bias/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
     "https://note.com/qiqumo/n/n9ffe4b0998ed",
-    "https://magazine.fancrew.jp/what-is-survey-bias",
-    "https://www.onoff.ne.jp/blog/?p=10014",
+    "https://u-site.jp/alertbox/10-survey-challenges",
     "https://tayori.com/blog/how-to-make-survey/",
     "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ]
@@ -1166,14 +1171,14 @@
    "query": "アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果） やり方",
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
-    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
-    "https://www.cross-m.co.jp/introduction/research-guide",
-    "https://www.surece.co.jp/column/04/",
+    "https://www.dm-insight.jp/column/response-bias/",
     "https://u-site.jp/alertbox/10-survey-challenges",
+    "https://www.surece.co.jp/column/04/",
+    "https://www.cross-m.co.jp/introduction/research-guide",
     "https://researto.com/column/market-research-bias/",
-    "https://surveroid.jp/mr-journal/survey_design/pCvZb",
+    "https://tayori.com/blog/how-to-make-survey/",
+    "https://surveroid.jp/mr-journal/Knowledge/ss9Pu",
     "https://www.interviewz.io/blog/bias-questionnaire/"
    ]
   },
@@ -1182,28 +1187,28 @@
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.dm-insight.jp/column/response-bias/",
-    "https://www.surece.co.jp/column/04/",
-    "https://www.cross-m.co.jp/introduction/research-guide",
-    "https://www.macromill.com/service/column/entry-066/",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
-    "https://researto.com/column/market-research-bias/",
-    "https://surveroid.jp/mr-journal/survey_design/pCvZb",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
+    "https://researto.com/column/market-research-bias/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
+    "https://www.cross-m.co.jp/introduction/research-guide",
+    "https://www.surece.co.jp/column/04/",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://corp.neo-m.jp/column/marketing-research_086_questionnaire-bias",
     "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ]
   },
   {
    "query": "survey bias checklist by process mode effect sampling reach",
    "results": [
-    "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "https://www.bellandholmes.com/blog/survey-bias-types-survive-qa",
-    "https://lensym.com/blog/survey-bias-guide",
-    "https://www.evalacademy.com/articles/sampling-bias-identifying-and-avoiding-bias-in-data-collection",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "https://www.sogolytics.com/learning-center/surveys/how-to-avoid-bias-in-surveys/",
-    "https://surveymars.com/blog/sampling-bias/",
-    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283092",
-    "https://analythical.com/blog/types-of-bias-in-survey",
+    "https://lensym.com/blog/survey-bias-guide",
+    "https://casrai.org/guides/survey-bias",
+    "https://www.evalacademy.com/articles/sampling-bias-identifying-and-avoiding-bias-in-data-collection",
+    "https://www.kantar.com/north-america/inspiration/research-services/survey-bias-examples-pf",
+    "https://www.varsitytutors.com/practice/subjects/ssat-middle-level-writing/lessons/sampling-and-survey-bias",
+    "https://pulseairesearch.com/pulse-shift/blogs/1850/is_your_sample_biased_7_ways_to_detect_and_reduce_sampling_bias",
     "https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/"
    ]
   },
@@ -1226,12 +1231,12 @@
    "query": "site:x.com アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）",
    "results": [
     "https://x.com/nakamura/status/2033706299540836425",
-    "https://x.com/Miccom16/status/2072703259584893108",
     "https://x.com/MacopeninSUTABA/status/2073567838011556127",
     "https://x.com/dancehakase/status/1830169195231003001",
     "https://x.com/carrer0518happy/status/2096151454323220990",
     "https://x.com/AItest2026/status/2074826500143255801",
-    "https://x.com/donmai_0319/status/2104543061128986670"
+    "https://x.com/donmai_0319/status/2104543061128986670",
+    "https://x.com/bena_cuna/status/2066676147434180843"
    ]
   },
   {
@@ -1239,37 +1244,29 @@
    "results": [
     "https://jp.linkedin.com/pulse/survey-design-why-wording-your-questions-can-make-ana-paterra-ph-d--ttc9c?tl=ja",
     "https://www.linkedin.com/posts/qualtrics_ウェビナーへご登録いただきありがとうございます-クアルトリクス-activity-6899294147669237760-Jbbz",
-    "https://jp.linkedin.com/pulse/研究者の調査設計が抱える3つの課題と私たちができること-daisuke-yamashita-njudc",
     "https://jp.linkedin.com/pulse/unveiling-bias-data-collection-analysis-understanding-lkjff?tl=ja",
+    "https://jp.linkedin.com/pulse/研究者の調査設計が抱える3つの課題と私たちができること-daisuke-yamashita-njudc",
     "https://www.linkedin.com/posts/elena-tolstoguzova_15-分ウェビナーでスッキリわかる-サーベイ設問設計の基礎と実践-クアルトリクス-activity-6901820610826121216-L8Zu",
-    "https://jp.linkedin.com/pulse/detecting-data-distortions-three-types-biases-every-manager-eppler?tl=ja",
-    "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja"
+    "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja",
+    "https://jp.linkedin.com/pulse/detecting-data-distortions-three-types-biases-every-manager-eppler?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）",
-   "results": [
-    "https://www.facebook.com/a.tatsujin/posts/知りたい情報が得られる設問設計の方法アンケート調査を行う際に重要な設問設計-良くない設問の例を提示しながら分かりやすく解説していますぜひご覧くださいhttpsw/185566946488844/",
-    "https://www.facebook.com/DeNAJP/posts/アンケートの設問設計を成功させるにはアンケートをとったものの改善に役立つ結果が出なかったその原因はアンケート設問の設計にあるのかもしれません今回はアンケートを成/1772920599421351/",
-    "https://www.facebook.com/fullswingbyDeNA/posts/アンケートの設問設計を成功させるにはアンケートをとったものの改善に役立つ結果が出なかったその原因はアンケート設問の設計にあるのかもしれません今回はアンケートを成/372836656535096/",
-    "https://www.facebook.com/researchpr/",
-    "https://www.facebook.com/mmdlabo/posts/本日弊社リサーチャーによるコラム適切な設問設計とは1-設問文選択肢の基本的なルールをリリースいたしましたアンケート調査をするために課題の整理や設問案の検討はした/623687026115651/",
-    "https://www.facebook.com/usertestonsearch/posts/いいユーザーテストのためには良い設問タスク設計が必要です被験者を誘導しないバイアスを掛けないそんなことを意識しながら設問設計をしますナレッジ更新しましたhttp/927849993927589/",
-    "https://www.facebook.com/laboroai/videos/削っていた調査を必要十分な規模で/968979755564563/"
-   ]
+   "results": []
   },
   {
    "query": "アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果） note 社長",
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.interviewz.io/blog/bias-questionnaire/",
-    "https://www.dm-insight.jp/column/response-bias/",
     "https://note.com/qiqumo/n/n8a1dbc0c1e66",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
+    "https://u-site.jp/alertbox/10-survey-challenges",
+    "https://www.dm-insight.jp/column/response-bias/",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
     "https://note.com/qiqumo/n/n9ffe4b0998ed",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
     "https://www.onoff.ne.jp/blog/?p=10014",
-    "https://gmo-research.ai/research-column/survey-design",
-    "https://magazine.fancrew.jp/what-is-survey-bias",
     "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ]
   },
@@ -1279,11 +1276,11 @@
     "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.dm-insight.jp/column/response-bias/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
-    "https://researto.com/column/market-research-bias/",
-    "https://www.surece.co.jp/column/04/",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://surveroid.jp/mr-journal/survey_design/pCvZb",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://www.surece.co.jp/column/04/",
+    "https://researto.com/column/market-research-bias/",
     "https://www.interviewz.io/blog/bias-questionnaire/",
     "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ]
@@ -1293,990 +1290,19 @@
    "results": [
     "https://www.linkedin.com/posts/drnaveedurrehman_learn-these-9-popular-methods-for-estimating-activity-7444331740858454017-Nvhb",
     "https://www.linkedin.com/posts/nacke_research-phd-bias-activity-7366437766940745728-9rkI",
-    "https://www.linkedin.com/posts/dr-asma-tayyab-6b40b7272_thesiswriting-phdlife-academicwriting-activity-7508495231617703936-1lSE",
     "https://www.linkedin.com/pulse/idea-validation-condensed-guide-itamar-gilad",
-    "https://www.linkedin.com/top-content/recruitment-hr/implementing-employee-surveys/ethics-of-employee-surveying/",
-    "https://www.linkedin.com/top-content/user-experience/mobile-user-experience-best-practices/mobile-user-experience-and-the-importance-of-feedback/",
+    "https://www.linkedin.com/posts/dr-asma-tayyab-6b40b7272_thesiswriting-phdlife-academicwriting-activity-7508495231617703936-1lSE",
     "https://www.linkedin.com/in/mike-crites-ph-d-6b22242b",
-    "https://www.linkedin.com/in/kuanlinhuang",
-    "https://www.linkedin.com/in/sarastrickhouser",
-    "https://www.linkedin.com/in/michele-forlin"
+    "https://www.linkedin.com/top-content/recruitment-hr/implementing-employee-surveys/ethics-of-employee-surveying/",
+    "https://www.linkedin.com/in/ahmedmaali",
+    "https://www.linkedin.com/top-content/user-experience/mobile-user-experience-best-practices/mobile-user-experience-and-the-importance-of-feedback/",
+    "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf",
+    "https://www.linkedin.com/in/jeffrey-maxwell-36579a125"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推定量の系統誤差、設計・計測上の偏り",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "選択肢は仮説の列挙で終わらせず、",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3) 想起・推定の過大要求",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yes. Survey administration mode can affect who is reached, who agrees to participate, and how respondents interpret and answer questions. These influences are commonly distinguished as mode-related selection effects and mode-related measurement effects, both of which can affect survey estimates and comparisons.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The resulting estimates could understate the barriers the study intends to investigate.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Report mode-related limitations and their implications for estimates, subgroup comparisons, and trends.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yes, provided the design and analysis account appropriately for sampling, administration, and potential measurement differences. Pooling responses without evaluating comparability may produce misleading estimates, particularly for mode-sensitive questions.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], after analyzing a series of mode experiments conducted under the auspices of the ESS, concluded that “mixed-mode data collection designs are unlikely to increase RR or reduce nonresponse bias in survey estimates compared to data collected face to face. In fact, overall, they suggest that RR would decrease and nonresponse bias would probably increase.” Cornesse and Bosnjak [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is based is only an estimate and the true proportion of females in the defined subpopulation is already known to equal 0.5, the within-study variance may be calculated as:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To answer the research questions, I created random-effects meta-regression (alternatively called mixed-effects) models using the restricted maximum likelihood method to estimate τ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau^2 (estimated amount of residual heterogeneity): 0.0002 (SE = 0.0001)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0126",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## estimate se tval df pval ci.lb ci.ub",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0131",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, an online-only survey may be inaccessible to eligible participants without reliable internet access or suitable devices.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a telephone invitation from an unfamiliar number may be ignored, while a questionnaire distributed through a trusted institutional channel may receive greater attention.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, employees answering questions about workplace misconduct may feel uncomfortable disclosing certain experiences directly to an interviewer.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, researchers might offer online questionnaires to all eligible participants and subsequently conduct telephone interviews with selected nonrespondents.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, when respondents choose their mode and that choice is related to an unmeasured characteristic associated with the outcome, a simple regression adjustment may not isolate the measurement effect.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a response category available in an online questionnaire should not be omitted from the telephone version without a methodological justification.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "04 · A Practical Example",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The example illustrates why a statistically detectable difference between modes would not, by itself, identify the mechanism producing that difference.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Adaptive Survey Designs to Minimize Survey Mode Effects: A Case Study on the Dutch Labour Force Survey",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Souder’s example is heterosexual couples living together in two-person households; the gender balance in this situation should be 50–50. “Internal criteria assessments probe the integrity of the sample by exploiting this a priori knowledge and point to potential irregularities in the survey process” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Such assessment methods are only possible for the secondary data analysis, when required information is easily accessible to external researchers, which is rarely the case.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], or of another type. The widespread usage of this mode in scientific surveys may also come from the lack of the sampling frame necessary to use any other mode, but this is mostly the case in low- and middle-income countries. On the other hand, the main downside of this survey mode is its cost—usually the highest of all other single-mode surveys [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Nevertheless, there are multiple examples of well-designed mail surveys that achieved similar or even higher RRs than one would expect from face-to-face surveys in a similar context [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. It is because the mixed-mode surveys I will analyze in the forthcoming parts of this paper are heterogeneous in implementation specifics, as are single-mode surveys. In a study consisting of 795 cases, it would be impossible to address these differences substantially.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "] compared single-mode CATI, mail, and web surveys with their respective mixed-mode approaches with added face-to-face follow-up; in most cases, the bias measured by R-indicators for mixed-mode surveys was lower. Bianchi et al. [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p13]. However, these examples do not exhaust the usefulness of meta-analysis. On the contrary, “effect size is simply the size of anything that may be of interest” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p34], whether it is measured in exactly the same way for every study or recalculated to make it so. For example, in epidemiological studies, the true population mean, or proportion, may be of interest [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p61–86]. Fixed-effects models are justified only when the studies included are nearly identical and one is not interested in treating them as part of a bigger population. Therefore, random-effects models, being more robust and allowing for some generalizations, should be used in most cases. The simplest meta-analytical random-effects model looks like the equation below:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. The four identified highly problematic observations included ESS surveys in Slovakia conducted in rounds 4, 5, and 6 and an ESS survey in Lithuania from round 9. All of them were face-to-face surveys with unusually high value of NBI. Lithuanian cases were already identified by Jabkowski, Cichocki, and Kołczyńska [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. In this case, surveys were nested in 32 waves and 53 countries, which is a clearly sufficient number. As the ICC calculation and the checking of I",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ".] If design weights were available for all analyzed cases, it would be the best choice to use them in calculations.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. This finding is particularly optimistic in the context of limitations imposed by the COVID-19 pandemic, beginning in 2020, which made doing face-to-face research extremely hard. While the health concerns are in most cases lower at the time of writing this paper, changes in people’s attitudes may be more long-lasting.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Peytchev A, Riley S, Rosen J, Murphy J, Lindblad M. Reduction of nonresponse bias in surveys through case prioritization. Surv Res Methods. 2010;4: 21–29. doi: 10.18148/srm/2010.v4i1.3037",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The American Association for Public Opinion Research. Standard Definitions: Final Dispositions of Case Codes and Outcome Rates for Surveys. AAPOR; 2016.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6) 統計学・実験計画",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Plos1_review.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(98.6KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "survey review PLOS.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(102.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. Table 2 appears in such way, because the manuscript is converted to a PDF format. I think I sticks to the formatting guidelines; if not, I will discuss this topic with the editor. For the reviewers, I previously attached table 2 as a separate file and it is still available as an attachment.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (1.1 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "― 調査プロセス別のチェックポイントで“歪みの芽”を摘み取る手順 ―",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスは「気づけば混入している」ことが多いため、本章では典型的な発生パターンを工程別に分解し、どこで何を見れば“歪みの芽”を早期に発見できるかを示します",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "選択／カバレッジバイアスは、母集団定義、対象者条件（スクリーニング）、サンプル設計、回収方法といった「誰に聞くか／どう到達するか」を決める局面で起きます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "モード効果（Mode Effect）──同じ質問でも聞く方法で答えが変わる",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "モード効果は、調査の実施方法（Web／紙／電話／会場／郵送）や、回収方法（混合モードを含む）の選定に起因して発生します",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に複数の調査方法を併用する場合、その差が「回答者属性の違い」なのか「モードの違い」なのかが混ざり、差分の解釈を誤りやすくなります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前章「3.実践ステップ」では、「調査設計」「設問設計」「分析・報告」の各プロセスで発生するバイアスについて解説しましたが、この3つのプロセスのなかで、多くの種類のバイアスが存在するのが「設問設計」に関するバイアスです",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "時系列で追うKPIは、設問文・導入文・尺度・選択肢・対象条件（スクリーニング/割付）・回収方法（モード/チャネル）を原則同一に固定する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誘導質問や選択肢の偏り、サンプリング方法、集計時の選択的報告などが典型例です",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "QiQUMOのセルフ型調査なら設問設計をスピーディに修正できます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "These possibilities are central to survey methodology. Administration mode can influence both the composition of the responding sample and the measurement process itself.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The methodological concern is that interviewer presence becomes a potential source of measurement variation.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Recent methodological work using directed acyclic graphs also demonstrates that conditioning on survey mode can introduce bias under some causal structures involving mode selection.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a response category available in an online questionnaire should not be omitted from the telephone version without a methodological justification.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Anticipate and Evaluate Mode Effects in Your Survey",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A simple decision framework",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Method for Evaluating Mode Effects in Mixed-Mode Surveys",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Cite This Guide",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Visualization, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "] in survey nonresponses and, thus, possible nonresponse errors create difficulties with the implementation of the survey method. While in some countries this issue is addressed by increasing so-called “fieldwork effort” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Unit nonresponse is a major component of total survey error, which itself is currently the default framework for conducting survey methodology research [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. This method is based on finding the proportion in the sample, which is known",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Additionally, nonrespondents could be targeted by very short follow-up questionnaires, as in the ESS, but such follow-up may also be vulnerable to nonresponse. A similar vulnerability is shared by any method that compare early and late respondents, or individuals who needed the conversion procedures with the rest of the respondents [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Such assessment methods are only possible for the secondary data analysis, when required information is easily accessible to external researchers, which is rarely the case.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The data for this study come from methodological reports and data from ISSP waves 1996–2018 and ESS rounds 1 to 9. All ISSP documentation and datasets are stored and publicly available in the GESIS–Leibniz Institute for the Social Sciences repository [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], while the Norwegian Centre for Research Data provides hosting. The ESS is one of the most sophisticated methodologically among big cross-national comparative social survey programs [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. All nine pre-COVID-19 rounds of the ESS were guided by a set of ambitious principles: “non-duplication, longitudinality, cross-national equivalence, potential for multilevel analysis, ongoing refinement of methodology, simultaneous flexibility and stability, easy and inexpensive data access and clear definitions of both population and sampling” [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], who used all the methodological reports and datasets provided by the repositories formerly listed to create it, and because of the traditions and specific nature of meta-analysis in the survey methodology context, it is not possible nor necessary to use the entire PRISMA standards [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When enough heterogeneity between studies is found, meta-regression is the usual method of choice to analyze it [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. To avoid spurious findings while conducting meta-regression, methods such as using the so-called Knapp-Hartung test [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Many types of meta-analytical models have already been used to conduct research in the area of survey methodology, all of which either synthesize results from different papers or are based on self-calculated measures for selected survey programs [e.g.,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Therefore, I used the binary variable individual/nonindividual (household/address, area probability sampling). To not overcomplicate the model, I ignored the possible impact of the within-household selection method on nonresponse bias [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p102–113] and thus at least the upper boundary of possible nonresponse bias. I chose to include a moderator that for each observation simply counts how many surveys were done previously in this country and program. This study, as stated previously, is based on observational data—like many meta-analyses in survey methodology [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアスとは偏りや歪み、傾きなどを表す言葉です",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ヒューリスティクス（代表性、利用可能性など）、確証バイアス",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プロスペクト理論（損失回避、参照点依存）、現状維持バイアス",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "グループシンク、同調、内集団バイアス、権威の影響",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "構造的不平等、制度バイアス、排除のメカニズム",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "選択バイアス、測定バイアス、p-hacking、サンプリング偏向",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How Survey Administration Mode Affects Responses and Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey Mode Effects and Response Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Does Self-Administration Reduce Social Desirability Bias?",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Self-administration should not be treated as a guarantee of truthful responses or freedom from social desirability bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Paper questionnaires permit respondents to move freely through the instrument, which may be convenient but can also result in missed items or routing mistakes.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Recent methodological work using directed acyclic graphs also demonstrates that conditioning on survey mode can introduce bias under some causal structures involving mode selection.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Researchers should explain why mode adjustment is justified rather than treating it as a routine correction that automatically removes bias.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Such assessments require adequate data and appropriate assumptions. They are not automatically necessary for every descriptive item, nor do they resolve selection bias by themselves.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Self-Administered Surveys Are Free from Social Desirability Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Adding Survey Mode as a Regression Variable Removes Mode Bias",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Statistical adjustment requires assumptions about the relationships among mode selection, respondent characteristics, and outcomes. In some circumstances, conditioning on mode may introduce additional bias rather than eliminate it.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Response rates describe participation but do not directly measure nonresponse bias. A mode can achieve a relatively high response rate while systematically underrepresenting groups relevant to the research question.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If mode-related bias is central to the validity of your conclusions",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Are interviewer-administered surveys more biased than self-administered surveys?",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9 - PMC",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Survey mode and nonresponse bias: A meta-analysis based on the data from the international social survey programme waves 1996–2018 and the European social survey rounds 1 to 9",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Nonresponse bias threatens the representativeness of a survey. For a formal presentation: [e.g.,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There are many possible ways of estimating the size of nonresponse bias. The most common in survey practice—but highly criticized [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Additionally, counting only official marriages would make a big difference between countries with different legal landscapes regarding this matter, so both formal and informal partnerships should be included. In the following parts of this paper, I will refer to Sodeur’s internal criteria of nonresponse bias assessment as a nonresponse bias indicator (NBI).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For an extensive discussion on the usability of the different nonresponse bias measures and indicators in similar research, see the work of Jabkowski, Cichocki, and Kołczyńska [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. On the other hand, they are treated as a way to overcome the social desirability bias present mainly in the face-to-face context [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]; however, this type of bias is not a focus of this study. The downside of the mail mode is that it becomes more problematic if no individual frame is available. Random within-household selection made by household members may be of lower quality than one made by a skilled interviewer. However, the RR of mail surveys may also be higher than those of current web surveys [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. The idea of mixing different modes of data collection is motivated mainly by the desire to reduce cost, social desirability bias, or nonresponse (but not all at once). It may also involve modes of contact and a follow-up phase. Mix-mode surveys could possibly be cheaper than face-to-face surveys while achieving higher RR if carefully designed [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As stated previously, a body of literature concerning relations between survey mode and nonresponse bias exists but is not very large; nevertheless, any endeavor aimed at finding clear conclusions in it may be fruitless. This paper is a systematic review, not a narrative one. Therefore, the list of findings is more of an illustration. I will start with the single-mode comparisons. De Leeuw [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "] compared single-mode CATI, mail, and web surveys with their respective mixed-mode approaches with added face-to-face follow-up; in most cases, the bias measured by R-indicators for mixed-mode surveys was lower. Bianchi et al. [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], after analyzing a series of mode experiments conducted under the auspices of the ESS, concluded that “mixed-mode data collection designs are unlikely to increase RR or reduce nonresponse bias in survey estimates compared to data collected face to face. In fact, overall, they suggest that RR would decrease and nonresponse bias would probably increase.” Cornesse and Bosnjak [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], after conducting a meta-analysis of 96 surveys, found that using mixed-mode surveys resulted in nonresponse bias reduction measured by R-indicators compared to single-mode surveys. Sztabiński [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "]. Therefore, I used the binary variable individual/nonindividual (household/address, area probability sampling). To not overcomplicate the model, I ignored the possible impact of the within-household selection method on nonresponse bias [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p102–113] and thus at least the upper boundary of possible nonresponse bias. I chose to include a moderator that for each observation simply counts how many surveys were done previously in this country and program. This study, as stated previously, is based on observational data—like many meta-analyses in survey methodology [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-06T20:45:09.888807+00:00"
 }

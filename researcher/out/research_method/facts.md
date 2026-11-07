@@ -2171,6 +2171,10 @@
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
 - 手順・やり方：
+  - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告を電子公告に変更する登記手続きを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2182,10 +2186,6 @@
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「【早見表】会社の規模×公告方法で売上高がわかるかどうかが決まる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q4. 非上場企業の売上高を無料で確実に知る方法はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「「どんな会社の、どの決算公告なら売上高がわかるのか」を一覧できるよう、会社の規模と公告方法の組み合わせごとに整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「第二に、公告方法が電子公告の場合は要旨ではなく全文の掲載が必要ですが、それでも公告対象が貸借対照表だけであることに変わりはありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -5320,6 +5320,11 @@
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
 - 手順・やり方：
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「Topic 4 Revisions Analysis | Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -5330,32 +5335,29 @@
   - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
 - 突き合わせ・推定：
-  - 「Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「is a a preliminary (or earlier) estimate and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「was estimated. The real-time dataset is constructed as follows.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「, from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「is the preliminary estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「Correlation between revision and earlier estimate (test if revisions are “noise”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「Correlation between revision and earlier estimate (test if revisions are “news”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「are the standard deviations of the latest and preliminary estimates, respectively, and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
-  - 「is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Revisions of estimates of UK gross domestic product (GDP)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 - 一次情報の探し方：
+  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
 - 失敗・落とし穴：
+  - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -5370,8 +5372,8 @@
   - 「release is deemed efficient if it satisfies specific conditions of unbiasedness and efficiency, tested」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
   - 「• β0 = 0(no bias)」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
   - 「• Performs hypothesis tests for bias, efficiency, and correlation using robust methods (e.g.,」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
-  - 「• Bias Tests: Tests for the presence of mean bias and regression bias.」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
 - 実例：
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -5386,7 +5388,6 @@
   - 「# Example list of wide-format data frames」（https://cran.r-project.org/web/packages/reviser/reviser.pdf）
   - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
 
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
@@ -6029,11 +6030,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -6059,9 +6060,11 @@
   - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 検索結果の抜粋：
+  - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -7034,7 +7037,7 @@
   - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
   - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
   - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
@@ -8788,73 +8791,76 @@
 ## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
 - 文脈：会社の数字
 - 手順・やり方：
-  - 「合同会社の公告方法は官報？電子公告？それぞれのメリットを比較する」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法は、合同会社の登記事項とされています（」（https://shiodome.co.jp/js/blog/4723）
-  - 「そのため、合同会社は次の3つのうちから公告方法を選択する必要があり、どれも選択しなかったときは自動的に「官報に掲載する方法」が当該会社の公告方法となります（」（https://shiodome.co.jp/js/blog/4723）
-  - 「時事に関する事項を掲載する日刊新聞紙に掲載する方法」（https://shiodome.co.jp/js/blog/4723）
-  - 「各公告方法については、こちらの記事にも記載していますのでご確認ください」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法の定め方として、3つ（官報、日刊新聞紙、電子公告）のうち複数を選択することはできるでしょうか」（https://shiodome.co.jp/js/blog/4723）
-  - 「合同会社の公告方法を検討するには、どのようなときに合同会社が公告をする必要があるのかを知っておいた方がいいでしょう」（https://shiodome.co.jp/js/blog/4723）
-  - 「株式会社の場合は、法律上決算公告をすることが義務付けられているため、毎年の決算公告を安くするために会社の公告方法（あるいは貸借対照表の公告のみ）として電子公告を選択することも考えられます」（https://shiodome.co.jp/js/blog/4723）
-  - 「債権者保護手続きは、公告方法に関わらず官報公告が必要」（https://shiodome.co.jp/js/blog/4723）
-  - 「これらの行為をするときは、会社の公告方法に関わらず、原則として官報公告が必要となります」（https://shiodome.co.jp/js/blog/4723）
-  - 「つまり、会社の公告方法を「日刊工業新聞」や「電子公告」と定めている会社においても、必ず「官報公告」をしなければなりません」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法として電子公告を選択するメリットとしては、減資や合併等を行うときに、各債権者への個別催告に代えて電子公告をすることにより、各債権者への個別催告を省略できる点にあります」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法として日刊新聞紙を選択するメリットとしては、電子公告と同様に、減資や合併等を行うときに、各債権者への個別催告に代えて日刊新聞紙での公告をすることにより、各債権者への個別催告を省略できる点にあります」（https://shiodome.co.jp/js/blog/4723）
-  - 「合同会社を設立するときは、公告方法として「官報」を選ばれる方が多い印象です」（https://shiodome.co.jp/js/blog/4723）
-  - 「個人事業主から法人成りするケースや、資産管理会社として合同会社を選択される場合、官報以外の公告方法を選択するメリットはあまり感じられないかもしれません」（https://shiodome.co.jp/js/blog/4723）
+  - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「公告の方法には下記3つがあります」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「公告の方法は、会社の定款に定めることができます」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「このような所謂、債権者異議申述公告は、定款に定められている公告方法に関係なく」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「なお、官報と定款で定めた方法で二重に公告することで、」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「ベリーベスト法律事務所 新潟オフィス. “決算公告とは？ 具体的な方法や怠った場合の罰則などについて“, 2022.」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
 - 突き合わせ・推定：
+  - 「制度の要件と自社の運用体制を突き合わせたうえで、内製と外注の切り分けを検討することが実務的だといえるでしょう」（https://lassic.co.jp/media/column/electronic-public-notice/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「定時株主総会の日程が決まった時点で逆算してスケジュールを組む」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
   - 「食い違いに気づいたら、どちらが正しいのかを整理してください」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
   - 「Estimated reading time: 9 minutes」（https://www.mofo.com/resources/insights/220504-summary-update-enforcement）
 - 一次情報の探し方：
-  - 「合同会社の公告方法は官報？電子公告？それぞれのメリットを比較する」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法は、合同会社の登記事項とされています（」（https://shiodome.co.jp/js/blog/4723）
-  - 「そのため、合同会社は次の3つのうちから公告方法を選択する必要があり、どれも選択しなかったときは自動的に「官報に掲載する方法」が当該会社の公告方法となります（」（https://shiodome.co.jp/js/blog/4723）
-  - 「会社が義務付けられている公告としては、毎年の決算公告（下記のとおり、合同会社においては不要）や、一例として次のような行為をするときに求められます」（https://shiodome.co.jp/js/blog/4723）
-  - 「公告方法の定め方として、3つ（官報、日刊新聞紙、電子公告）のうち複数を選択することはできるでしょうか」（https://shiodome.co.jp/js/blog/4723）
-  - 「例えば、「官報及び日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
-  - 「一方で、「官報又は日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
-  - 「合同会社の1つの特徴として、「決算公告が不要」というものがあります」（https://shiodome.co.jp/js/blog/4723）
-  - 「株式会社の場合は、法律上決算公告をすることが義務付けられているため、毎年の決算公告を安くするために会社の公告方法（あるいは貸借対照表の公告のみ）として電子公告を選択することも考えられます」（https://shiodome.co.jp/js/blog/4723）
-  - 「決算公告は、非公開会社の大会社以外の会社で貸借対照表の要旨を掲載するパターンでも、1回につき7万円以上はかかります」（https://shiodome.co.jp/js/blog/4723）
-  - 「合同会社には決算公告義務がありませんので、決算公告に関する官報掲載費用を考える必要がありません」（https://shiodome.co.jp/js/blog/4723）
-  - 「債権者保護手続きは、公告方法に関わらず官報公告が必要」（https://shiodome.co.jp/js/blog/4723）
-  - 「これらの行為をするときは、会社の公告方法に関わらず、原則として官報公告が必要となります」（https://shiodome.co.jp/js/blog/4723）
-  - 「つまり、会社の公告方法を「日刊工業新聞」や「電子公告」と定めている会社においても、必ず「官報公告」をしなければなりません」（https://shiodome.co.jp/js/blog/4723）
-  - 「知れたる債権者がいるときは、減資や合併等を行うときに、官報公告に加えて各債権者への個別催告も必要となります」（https://shiodome.co.jp/js/blog/4723）
+  - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「とはいえ、税務申告をするうえで全ての企業で決算書の作成義務がありますし、株主や取引銀行から計算書類の提出が求められるでしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「１．決算公告」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「上場会社のほとんどは印刷会社の開示支援サービスを利用して、決算短信や有価証券報告書、招集通知などの開示書類を作成しています」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「なお、ここで作成すべきとされている注記表はあくまで計算書類のためのものであり、後述する全文による決算公告における注記とは必要なものが異なります」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「なお、電子公告にあたっては、ホームページのアドレスを登記する必要があります」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「持分会社（合名会社、合資会社、合同会社）については決算公告は不要」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「１－３．要旨による決算公告 - 中小企業 -」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
-  - 「ホームページを持っていなければならない点（公告用WEBページを貸し出している会社もありますが、ランニングコストが発生します）や、当該URLを変更したら原則としてその変更登記（登録免許税3万円）が必要となる点にも注意が必要です」（https://shiodome.co.jp/js/blog/4723）
-  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「セミナー参加者の募集をウェブ上で行なうときの注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「自己株式取得（総株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「自己株式取得（特定株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「コロナで延期していた株主総会や社員総会を開催するときに注意すべき事項～基準日を定めるべきか否かの判断基準」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「他社株式取得や組織再編の際に注意すべき「独禁法の事前届出」」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「実務上、非常に間違いやすいのが「電子公告」の登記との違いです」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
+  - 「ここを混同すると、前述した「減資の個別催告の省略（ダブル公告）」の手続きで失敗する原因になります」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
+  - 「つまり、期間の算定においては初日算入となりますので注意が必要です（民法第140条）」（https://llliii.jp/commercial-registration/3511/）
+  - 「・「5年の継続開示義務が残っている間は抹消できない（してはいけない）」という理解は誤り」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「：今年から官報に決算公告を再開（または移行）したのに、URL登記だけ残存しているケースに注意」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「・「継続開示5年が経ってから抹消する」が誤り」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「新規受任時 → 「間違い探し」としてURL登記の残存と実際の公告媒体」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「まず全体像を確認したうえで、具体的な手順、必要書類、費用の内訳、そして失敗しがちなポイントまで順番にお伝えします」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「URLを決める際の注意点として、登記するURLは「トップページURL」ではなく「公告が実際に掲載されるページのURL」です」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「公告方法の変更登記では、いくつかの落とし穴があります」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「特に注意が必要なのは、2週間の申請期限です」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
 - 実例：
-  - 「例えば、「官報及び日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
-  - 「合同会社において公告が求められるケースは、主に次のような行為をするときです」（https://shiodome.co.jp/js/blog/4723）
-  - 「加えて、電子公告には無いメリットとして、ホームページが無くてもダブル公告が可能なことと、債権者保護手続き期間終了と同時に（効力発生すれば）登記申請ができる点が挙げられます（電子公告の場合は、調査機関の結果が出てくるまで多少タイムラグがあります）」（https://shiodome.co.jp/js/blog/4723）
-  - 「個人事業主から法人成りするケースや、資産管理会社として合同会社を選択される場合、官報以外の公告方法を選択するメリットはあまり感じられないかもしれません」（https://shiodome.co.jp/js/blog/4723）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「高齢になった収益不動産オーナーの資産管理＜家族信託による解決事例＞」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「例えば、3月決算の会社が期中に資本金が5億円以上になった場合でも、その事業年度の貸借対照表が承認・報告される翌年の定時株主総会の時点ではじめて大会社に該当することになります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「何も決めなかった結果として官報になっている状態です」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
-  - 「純資産の部に資本金と利益剰余金が表示されるため、結果として赤字であることは読み取れますが、それを理由に免除されることはありません」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
+  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「「決算公告だけはホームページで行う」として、この②の登記だけを単独で入れておくケース」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
+  - 「・・・しかし、結局、いろいろ検討された結果、官報公告に落ち着きました」（https://tokucyan-siho.hatenablog.com/entry/2021/09/18/111852）
+  - 「さらに、公告期間が満了しても、調査会社は即日に電子公告がされていたことの証明書を出してくれるわけではありませんので、新設合併等の登記自体が効力発生日となっているケースでは、その証明書が発行されるまでの期間を考慮したスケジュールを立てなくてはなりません」（https://shiodome.co.jp/js/blog/507）
+  - 「合同会社であれば決算公告の義務はありませんので、官報公告を会社の公告方法としておくケースが多いのではないでしょうか」（https://shiodome.co.jp/js/blog/507）
+  - 「合同会社でも公告費用が安いから電子公告を選択しているという方がたまにいらっしゃいますが、決算公告義務がないことを考えると、決定公告においては官報公告の方が安くなるケースも少なくありません」（https://shiodome.co.jp/js/blog/507）
+  - 「上場企業は、かつては日本経済新聞に掲載するケースがほとんどでしたが、電子公告が認められるようになってからは、電子公告とするケースがほとんどのようです」（https://llliii.jp/commercial-registration/3511/）
+  - 「調査依頼を受けた電子公告調査機関は、公告期間中、6時間に1回以上の頻度で、あらかじめ調査機関に提出された公告情報と実際にインターネット上に掲載されている公告情報とか一致しているかどうか調査して、期間終了後、すみやかに「電子公告調査結果通知書」を発行します（電子公告規則第5条・第7条）」（https://llliii.jp/commercial-registration/3511/）
+  - 「この調査結果通知書は、登記申請の際の添付書面となります」（https://llliii.jp/commercial-registration/3511/）
+  - 「なお、以下は2023年7月に、ある上場企業からリリースされた適時開示の実例（一部抜粋）です」（https://llliii.jp/commercial-registration/3511/）
+  - 「を、提示ケースの範囲で整理します」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「：今年から官報に決算公告を再開（または移行）したのに、URL登記だけ残存しているケースに注意」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「・ケース1：公告方法を官報へ変更したが、URL抹消を失念」（https://asanagi.co.jp/2025/10/11/25611/）
+  - 「・ケース2：「継続開示5年が終わってから抹消」と誤解し、抹消を先送り」（https://asanagi.co.jp/2025/10/11/25611/）
 
 ## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
 - 文脈：推定
