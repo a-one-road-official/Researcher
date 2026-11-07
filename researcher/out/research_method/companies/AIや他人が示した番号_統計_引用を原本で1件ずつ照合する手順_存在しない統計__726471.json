@@ -1,0 +1,263 @@
+{
+ "name": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活",
+ "en": "verify AI cited statistics identifiers against original source checklist scope record",
+ "aliases": [
+  "生成AI 出典 照合 手順 原本",
+  "存在しない統計 見抜き方 一次情報",
+  "調査範囲 記録 母集団 件数"
+ ],
+ "context": "検証",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:05:21.475194+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MDPIJapan/posts/%E7%94%9F%E6%88%90ai%E3%81%8C%E6%8F%90%E7%A4%BA%E3%81%97%E3%81%9F%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%81%AB%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E8%AB%96%E6%96%87%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E6%9B%B8%E8%AA%8C%E6%83%85%E5%A0%B1%E3%81%AE%E8%AA%A4%E3%82%8A%E3%82%84%E6%9C%AC%E6%96%87%E3%81%AE%E4%B8%BB%E5%BC%B5%E3%82%92%E8%A3%8F%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%BC%95%E7%94%A8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E8%AB%96%E6%96%87%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%A8%E3%81%9D%E3%81%AE%E8%AB%96%E6%96%87%E3%81%8C%E5%BC%95/1458491333132526/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japan.box.com/blog/metadata-in-ai-era-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35247799/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/14403970/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000608307.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://answerthis.io/blog/how-to-check-references-for-ai-fabricated-citations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fifthrow.com/blog/how-to-verify-ai-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://library.bu.edu/gen-ai/verifying-citing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlasworkspace.ai/blog/ai-citation-checker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litsource.net/blog/fake-citation-checker-guide",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 site:note.com",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://www.facebook.com/MDPIJapan/posts/%E7%94%9F%E6%88%90ai%E3%81%8C%E6%8F%90%E7%A4%BA%E3%81%97%E3%81%9F%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%81%AB%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E8%AB%96%E6%96%87%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E6%9B%B8%E8%AA%8C%E6%83%85%E5%A0%B1%E3%81%AE%E8%AA%A4%E3%82%8A%E3%82%84%E6%9C%AC%E6%96%87%E3%81%AE%E4%B8%BB%E5%BC%B5%E3%82%92%E8%A3%8F%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%BC%95%E7%94%A8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E8%AB%96%E6%96%87%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%A8%E3%81%9D%E3%81%AE%E8%AB%96%E6%96%87%E3%81%8C%E5%BC%95/1458491333132526/",
+    "https://japan.box.com/blog/metadata-in-ai-era-1",
+    "https://www.youtube.com/watch?v=DJJ3m03doGY",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.mi.u-tokyo.ac.jp/pdf/3-2_ai_and_society.pdf"
+   ]
+  },
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 note",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://www.facebook.com/MDPIJapan/posts/%E7%94%9F%E6%88%90ai%E3%81%8C%E6%8F%90%E7%A4%BA%E3%81%97%E3%81%9F%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%81%AB%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E8%AB%96%E6%96%87%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E6%9B%B8%E8%AA%8C%E6%83%85%E5%A0%B1%E3%81%AE%E8%AA%A4%E3%82%8A%E3%82%84%E6%9C%AC%E6%96%87%E3%81%AE%E4%B8%BB%E5%BC%B5%E3%82%92%E8%A3%8F%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%BC%95%E7%94%A8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E8%AB%96%E6%96%87%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%A8%E3%81%9D%E3%81%AE%E8%AB%96%E6%96%87%E3%81%8C%E5%BC%95/1458491333132526/",
+    "https://japan.box.com/blog/metadata-in-ai-era-1",
+    "https://www.youtube.com/watch?v=DJJ3m03doGY",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.soumu.go.jp/main_content/000608307.pdf"
+   ]
+  },
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 やり方",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://www.youtube.com/watch?v=DJJ3m03doGY",
+    "https://japan.box.com/blog/metadata-in-ai-era-1",
+    "https://www.facebook.com/MDPIJapan/posts/%E7%94%9F%E6%88%90ai%E3%81%8C%E6%8F%90%E7%A4%BA%E3%81%97%E3%81%9F%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%81%AB%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E8%AB%96%E6%96%87%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E6%9B%B8%E8%AA%8C%E6%83%85%E5%A0%B1%E3%81%AE%E8%AA%A4%E3%82%8A%E3%82%84%E6%9C%AC%E6%96%87%E3%81%AE%E4%B8%BB%E5%BC%B5%E3%82%92%E8%A3%8F%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%BC%95%E7%94%A8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E8%AB%96%E6%96%87%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%A8%E3%81%9D%E3%81%AE%E8%AB%96%E6%96%87%E3%81%8C%E5%BC%95/1458491333132526/",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.soumu.go.jp/main_content/000608307.pdf"
+   ]
+  },
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 事例",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://www.facebook.com/MDPIJapan/posts/%E7%94%9F%E6%88%90ai%E3%81%8C%E6%8F%90%E7%A4%BA%E3%81%97%E3%81%9F%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E3%81%AB%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E8%AB%96%E6%96%87%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E6%9B%B8%E8%AA%8C%E6%83%85%E5%A0%B1%E3%81%AE%E8%AA%A4%E3%82%8A%E3%82%84%E6%9C%AC%E6%96%87%E3%81%AE%E4%B8%BB%E5%BC%B5%E3%82%92%E8%A3%8F%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%BC%95%E7%94%A8%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E8%AB%96%E6%96%87%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%A8%E3%81%9D%E3%81%AE%E8%AB%96%E6%96%87%E3%81%8C%E5%BC%95/1458491333132526/",
+    "https://japan.box.com/blog/metadata-in-ai-era-1",
+    "https://www.youtube.com/watch?v=DJJ3m03doGY",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.soumu.go.jp/main_content/000608307.pdf"
+   ]
+  },
+  {
+   "query": "verify AI cited statistics identifiers against original source checklist scope record",
+   "results": [
+    "https://answerthis.io/blog/how-to-check-references-for-ai-fabricated-citations",
+    "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "https://www.fifthrow.com/blog/how-to-verify-ai-research",
+    "https://library.bu.edu/gen-ai/verifying-citing",
+    "https://www.youtube.com/watch?v=lOQZUGaMlwQ",
+    "https://www.atlasworkspace.ai/blog/ai-citation-checker",
+    "https://litsource.net/blog/fake-citation-checker-guide",
+    "https://iu.libguides.com/c.php?g=1476583&p=11041935",
+    "https://gptzero.me/news/how-to-fact-check-chatgpt",
+    "https://sixsentences.com/resources/verify-ai-citations"
+   ]
+  },
+  {
+   "query": "site:note.com AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活",
+   "results": [
+    "https://note.com/meicoresystem/n/nc40a1c484d3e",
+    "https://note.com/tomo739/n/n1c32356381d0",
+    "https://note.com/famous_crow7951/n/n40e7a4cbdef9",
+    "https://note.com/shin7722/n/n55625438e5b2",
+    "https://note.com/gtminami/n/nb6963b01fb2f",
+    "https://note.com/rinsho_ai_lab/n/na25614a8cd65",
+    "https://note.com/akiufmi_dx/n/n6848960243aa",
+    "https://note.com/k314y/n/n89ff199943b6",
+    "https://note.com/prizma/n/ne560da3ed5b0",
+    "https://note.com/zeronin_keiei/n/nb72b7892a5f3"
+   ]
+  },
+  {
+   "query": "site:x.com AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活",
+   "results": [
+    "https://x.com/MakeAI_CEO/status/2043674800888119512",
+    "https://x.com/MakeAI_CEO/article/2087343694538264720",
+    "https://x.com/ai_jitan/status/2029032869738496135",
+    "https://x.com/i/article/2107030947149328893",
+    "https://x.com/MakeAI_CEO/article/2078449040761713138?lang=ar",
+    "https://x.com/ai_biostat/all",
+    "https://x.com/ai_biostat/status/2114326182149894457",
+    "https://x.com/hanimaru_draix/article/2105402601785409898",
+    "https://x.com/fujikawa/status/2115585448978563288",
+    "https://x.com/KagawaTomo/status/2114498354965352646"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活",
+   "results": [
+    "https://jp.linkedin.com/pulse/everything-you-write-ai-can-now-identified-invisible-how-skillicorn-mlzhe?tl=ja",
+    "https://jp.linkedin.com/pulse/wrong-ai-answers-dont-look-thats-whole-problem-syeda-fatima-ali-bdiaf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-create-answer-first-content-earns-citations-from-ai-erric-ravi-zvzec?tl=ja",
+    "https://jp.linkedin.com/pulse/how-do-researchers-verify-truth-ai-generated-world-d90ve?tl=ja",
+    "https://jp.linkedin.com/pulse/how-optimize-your-podcast-show-notes-ai-citations-mentions-buckley-d7gue?tl=ja",
+    "https://jp.linkedin.com/pulse/commerce-being-reinvented-ai-simon-taylor--i5fve?tl=ja",
+    "https://jp.linkedin.com/pulse/aeo-vs-geo-overlooked-search-strategy-decide-your-2026-schaffer-opfxc?tl=ja",
+    "https://jp.linkedin.com/pulse/why-chatgpt-recommends-someone-else-neeraj-shah--t66uf?tl=ja",
+    "https://jp.linkedin.com/pulse/ramp-cracked-enterprise-ai-heres-playbook-simon-taylor--stmkf?tl=ja",
+    "https://jp.linkedin.com/pulse/pssst-your-ai-research-assistant-might-lying-you-martin-zillmann-lsffe?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活",
+   "results": [
+    "https://www.facebook.com/earthholdingsinc/posts/%E9%AB%AA%E3%81%AB%E3%81%BE%E3%81%A8%E3%81%86%E3%83%AA%E3%83%83%E3%83%81%E3%81%AA%E9%A6%99%E3%82%8A-%E3%81%A4%E3%81%91%E3%81%9F%E3%81%A6%E3%81%AE%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E9%A6%99%E3%82%8A%E3%82%92%E3%82%AD%E3%83%BC%E3%83%97%E3%81%99%E3%82%8B%E7%8B%AC%E8%87%AA%E5%87%A6%E6%96%B9%E3%81%A7%E8%BB%BD%E3%82%84%E3%81%8B%E3%81%AB%E9%A6%99%E3%82%8A%E7%AB%8B%E3%81%A1%E8%87%AA%E7%84%B6%E3%81%AA%E4%BD%99%E9%9F%BB%E3%82%92%E6%AE%8B%E3%81%99-%E9%A6%99%E3%82%8A%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%81%A3%E3%81%9Fearth%E3%81%AE%E4%BA%BA%E6%B0%97%E3%83%98%E3%82%A2%E3%82%B1%E3%82%A2%E3%83%91%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%AA/1734221642038167/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/202129%E5%8F%B0%E6%B9%BE%E4%BB%A5%E4%B8%8Blink%E3%82%88%E3%82%8A%E5%BC%95%E7%94%A8k%E1%BB%83-t%E1%BB%AB-ng%C3%A0y-15022022-lao-%C4%91%E1%BB%99ng-vi%E1%BB%87t-nam-c%C3%B3-th%E1%BB%83-nh%E1%BA%ADp-c%E1%BA%A3nh-%C4%91%C3%A0i-loa/346637240802907/",
+    "https://www.facebook.com/groups/344435226213506/posts/2081779335812411/",
+    "https://www.facebook.com/kazuha.ogasawara/posts/%E8%BA%AB%E4%BD%93%E6%80%A7%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%9F%E3%82%93%E3%81%AB%E5%A4%B1%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8B-%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%AC%9B%E5%BA%A7%E4%BB%8A%E6%97%A5%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E8%BA%AB%E4%BD%93%E6%80%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E5%AE%9F%E3%81%AF%E3%81%9D%E3%81%86%E3%81%AF%E8%A8%80%E3%81%A3%E3%81%A6%E3%82%82%E8%87%AA%E5%88%86%E8%87%AA%E8%BA%AB%E3%81%A7%E8%BA%AB%E4%BD%93%E6%80%A7%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%AB%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%81%97%E3%81%9F%E7%96%91/29446460978271681/",
+    "https://www.facebook.com/WixJapan/",
+    "https://www.facebook.com/groups/344435226213506/",
+    "https://www.facebook.com/groups/214579045382206/posts/1043240475849388/",
+    "https://www.facebook.com/dnobori/posts/dn_superbook_pdf_converterv200-%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Focr-%E6%A9%9F%E8%83%BD%E3%82%82%E6%AC%B2%E3%81%97%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E5%A3%B0%E3%81%8C%E5%A4%9A%E3%81%8F%E8%89%B2%E3%80%85%E8%A9%A6%E3%81%97%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F-yomitok/25563938836589414/",
+    "https://www.facebook.com/huckleberryaustralia/?locale=ja_JP",
+    "https://www.facebook.com/pcireadycloud/"
+   ]
+  },
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 note 社長",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://article.auone.jp/5d9d097e-f787-4bd4-878b-2b5ed9efb0e0",
+    "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/kurahara/202606/593493.html",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.soumu.go.jp/main_content/000608307.pdf",
+    "https://www.mi.u-tokyo.ac.jp/pdf/3-2_ai_and_society.pdf"
+   ]
+  },
+  {
+   "query": "AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活 X 投稿",
+   "results": [
+    "https://www.reddit.com/r/research/comments/1qtrl74/how_do_you_ensure_references_actually_exist_when/?tl=ja",
+    "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+    "https://japan.cnet.com/article/35247799/",
+    "https://article.auone.jp/5d9d097e-f787-4bd4-878b-2b5ed9efb0e0",
+    "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/kurahara/202606/593493.html",
+    "https://newspicks.com/news/14403970/body/",
+    "https://www.soumu.go.jp/main_content/000608307.pdf",
+    "https://www.mi.u-tokyo.ac.jp/pdf/3-2_ai_and_society.pdf"
+   ]
+  },
+  {
+   "query": "verify AI cited statistics identifiers against original source checklist scope record site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-fact-check-ai-outputs/",
+    "https://www.linkedin.com/top-content/writing/editing-and-proofreading-skills/fact-checking-procedures/",
+    "https://www.linkedin.com/pulse/how-fact-check-ai-output-before-damages-your-kane-caps-c-d-s--pfxte",
+    "https://www.linkedin.com/posts/dr-tanmoy-roy-aaa6291b9_unpaywall-an-open-access-research-discovery-activity-7512195831815524353-YLDu",
+    "https://www.linkedin.com/posts/lorenabarba_academicpublishing-aiinresearch-peerreview-activity-7372740007931072513-OS_3",
+    "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf",
+    "https://www.linkedin.com/posts/ajaykumar-poreddiwar-3b3177241_aiagents-agenticai-aiengineering-activity-7513853189566390273-oTPG",
+    "https://www.linkedin.com/pulse/5-best-literature-review-ai-tools-researchers-free-paid-irfan--lplof",
+    "https://www.linkedin.com/pulse/ai-systems-tested-few-evaluated-even-fewer-monitored-chris-fong-p2gnc",
+    "https://www.linkedin.com/in/rick-doten-633470177"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ13頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ13頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ13頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ13頁・検索12回）",
+  "実例": "記載なし（読んだ13頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T07:05:21.475194+00:00"
+}

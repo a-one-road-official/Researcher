@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・150品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・152品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7740,6 +7740,233 @@
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
 - 10年推移：記載なし（読んだ55頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）（Japan Die and Mold Industry Association production value establishments employees source statistics table）
+- 文脈：金型・統計・出典
+- 痛み・損（深さの印）：
+  - 「国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 事業所数・社数：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした」（https://forwit.jp/column/die-and-mold/）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「また、事業所数、従業者数については、3年活動調査及」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（1） 産業中分類別事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 276 事業所、構成」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 1 表 産業中分類別事業所数及び従業者数（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「注1：事業所数及び従業者数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています」（https://www.jdmia.or.jp/toukei/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます」（https://forwit.jp/column/die-and-mold/）
+  - 「こうした形は、職人が1個ずつ削り出しているわけではありません」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした」（https://forwit.jp/column/die-and-mold/）
+  - 「一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 受注金額・加工賃収入：
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（14 兆 3348 億」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「2：製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 図 産業中分類別製造品出荷額等及び付加価値額の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「９.付加価値額（粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税（*1）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+  - 「７．有形固定資産額（従業者10人以上の事業所（一部を除く（*）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 10年推移：
+  - 「※「工業統計調査」は2020年調査（2019年実績）で廃止」（https://www.jdmia.or.jp/toukei/）
+  - 「2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている」（https://www.jdmia.or.jp/toukei/）
+  - 「（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用」（https://www.jdmia.or.jp/toukei/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+
+## 金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）（Japan metal stamping contract processing share processing fee vs product shipments）
+- 文脈：プレス・統計
+- 痛み・損（深さの印）：
+  - 「業名で、名称変更、あるいはその後倒産した企業も記載しておいた」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「安定所が離職による被保険者資格を喪失した者に交付した離職票の枚数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「失業給付を受けようとする者が安定所に出頭して離職票を提出した件数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「安定所が受け付けた離職票を審査し、求職者給付を受ける資格があると決定した件数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「（５）事業主都合離職者の状況（雇用保険の資格喪失データによる）」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「事業主都合による離職者は１６６人で、前年同月比４８．２％の増加となった」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「産業別では、 建設業３０人、製造業４２人、卸売業・小売業４４人、などで離職者が発生した」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+- 事業所数・社数：
+  - 「2005 年と 2008 年で、両年とも事業所数は 3 ヶ所である」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－12 安曇野市・喬木村・飯山市の情報通信機械器具製造業の事業所数」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「密機械工業の事業所数はこの間急増し、1965 年には 267 社、1970 年に 335 社、75 年には 454」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「２ 事業所数 ･･････････････････････････････････････････････････････････････････････････8」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「第７表 従業者規模別統計表（従業者30人以上の事業所） ･･･････････････････････････47」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「〔事業所数，敷地面積，1日当たり水源別用水量〕」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「・ 平成27年は「平成 28年経済センサス -活動調査」の数値であり ，事業所数及び従 業」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「・ 平成23年は「平成 24年経済センサス -活動調査」の数値であり ，事業所数及び従 業」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「１ 事業所数」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「令和元年の従業者４人以上の事業所数は 1944 事業所（前回比▲4.1％），従業者数は６万 9563」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「２ 事業所数」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「２－１ 事業所数（従業者４人以上の事業所） ········································ 5」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「８ 従業者規模別（従業者４人以上の事業所） ··································· 12」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「１ 事業所数、従業者数、製造品出荷額等の推移（明治４２年～） ·············· 23」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+- 社員数・平均社員数：
+  - 「図－1 有効求人倍率・完全失業率の推移（平成 26 年６月分まで）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図 －1で有効求人倍率の全国との比較を見れば明らかなように、長野県の優位性はITバブル」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－5 2005 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－6 2010 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－7 2011 年品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－8 2012 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－12は 3市村の情報通信機械器具製造業（従業者数 4以上の事業所）の出荷額等の」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「推移と、県全体のパーソナルコンピューター製造業（従業者数 4 以上の事業所）の出荷額の推」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図 －10 は産業別に従業者数の推移を 1991 年を 100 とする指数でみたものである」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－10 長野県従業員数の推移（1991＝100）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－11 長野県電機系産業従業員数の推移」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図 －11 から明らかなように電機系産業のなかでも情報通信機械器具製造業の従業者数がこ」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「の間最も、かつ 2010 年に上向くことなくこの分類の従業者数のみが一貫して減り続けている」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「1991年は総数でも、電機産業でも従業者数はピークをなし、総数では 303,866人、電機では」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「102,134 人を数えた」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+- 受注金額・加工賃収入：
+  - 「全体に占める電機産業の製造品出荷額等の割合）は2000年の 47.2％から 2012年には 36.5％ま」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－2 輸出出荷額等の推移（1989 年＝100）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－3 長野県の産業構造（総生産、名目、10 億円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「製造業の内訳の推移を製造品出荷額等でみておくと、 図－8と表－1 となる」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－8 長野県主要産業別製造品出荷額等の推移」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－1 長野県産業別製造品出荷額割合」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－8から見えてくるように 1980年代半ば以降、総額の推移は「電機」の出荷額等に大きく」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「「電機」は1996年に出荷額等が 3兆円の大台に乗り、2000年にピークの 3.35」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「兆円、製造品出荷額等全体の47.2％を占めるにいたった」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「の 2010年から 2012年にかけての 7097億円の急減は図－9に示されているように、 情報通信機」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「械器具製造業の 5656億円の減少によるところが大きい」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「造品出荷額等上位 25品目を 5年の刻みでみておきたい」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「その中にあってパーソナルコンピューター（注 5）は 1990年の 530億円、95年 1172」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「億円、2000年に 1430億円、2005年に 3376 億円、2009年に 5095億円の出荷を記録した」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「印刷装置も 2000 年にその年の最大の出荷額の 2452 億円を記録した」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+- 1人あたり・1社あたり金額：
+  - 「表－9 長野県品目別製造品出荷額等の推移（電子部品・デバイス・電子回路製造業） （万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－10 長野県品目別製造品出荷額等の推移（電気機械器具製造業） （万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－11 長野県品目別製造品出荷額等の推移（情報通信機械器具製造業） （万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－13 累年比較、市町村別 製造品出荷額等（万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－16 長野県各市町の電機出荷額等の推移（万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「紹介した様に、ワーカー一人当たり賃金は 500～800 人民元/月が最大の誘因になった」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「従来予想は 1 億 6 千万円の赤字だったが、半導体組み立て装置の」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「特別損失として、台湾市場向け製品在庫の評価損で 8 億 3 千万円、海外への生産移管に伴う」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「資本金 4800 万円の企業規模で、唯一の海外生産拠点である」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「減の 270 億 4800 万円だが、うち中国向けは 16.2％増の 25 億円だった」」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「表－19 坂城町製造品出荷額等の推移（千万円）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「９ 付加価値額 （粗付加価値額 ）」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「③ １事業所当た り及び従業 者１人当たり 付加価値額 は，前計算式のそれぞれの分 子」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「常用雇用者給 与④ 常用雇用 者1人当たり 現金給与額 ＝ 常用雇 用者数」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「人（同▲2.6％），製造品出荷額等は１兆9939億6739 万円（同▲3.7％)となった」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+- 生産能力・設備：
+  - 「理できる基板サイズを大型化し、搬送時間も短縮し、生産能力を 6割向上させた「GTM-X」で、」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「ヤノ（従業員 706人）も、景気減速に伴う設備投資抑制や中国などの海外メーカーとの価格競」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「① 有形固定資産投資総額は 970億 7520 万円で，平成 30 年に比べ 90 億8189万円（前回比▲」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「有形固定資産投資総額の業種別前回比をみると，業務（前回比＋196.6％），化学（同＋」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「② 従業者１人当たりの有形固定資産額の県平均は 1092 万円で，平成 30年に比べ 49万円（前」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「図１５ 有形固定資産投資総額推移 図１６ 年末在庫額推移」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「表２４ 有形固定資産額（従業者３０人以上の事業所）」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「３－１ 有形固定資産（従業者３０人以上の事業所） ································· 15」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「４ 有形固定資産（従業者３０人以上の事業所） ······························· 49」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「２ 有形固定資産（従業者３０人以上の事業所） ······························· 55」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「２ 有形固定資産（従業者３０人以上の事業所） ······························· 63」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「２ 事業所数、有形固定資産、有形固定資産投資額」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「３－１ 有形固定資産 （従業者３０人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「有形固定資産の年初現在高は、５，２３０億円で、年間取得額は、５５８億円となった」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+  - 「年間増減額は、＋１６億円となり、有形固定資産投資額は、５７４億円となった」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf）
+- 10年推移：
+  - 「図－1 有効求人倍率・完全失業率の推移（平成 26 年６月分まで）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－2 輸出出荷額等の推移（1989 年＝100）」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「年の 10年間、一貫して総生産に占める製造業の割合が高いことが見てとれる」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「製造業の内訳の推移を製造品出荷額等でみておくと、 図－8と表－1 となる」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－8 長野県主要産業別製造品出荷額等の推移」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「リーマンショック後からの 2 兆円の減少の原因と併せて考えておかなければならない」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－8から見えてくるように 1980年代半ば以降、総額の推移は「電機」の出荷額等に大きく」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「兆円に減少し、2010年に 2.57 兆円まで戻すものの、2012年には 1.86兆円に急減する」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「の 2010年から 2012年にかけての 7097億円の急減は図－9に示されているように、 情報通信機」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「械器具製造業の 5656億円の減少によるところが大きい」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「同製造業減少額の寄与率は 80％弱に及ぶのである」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「図－9 長野県電機系製造品出荷額等の推移」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「この10年間の統計を一見してみてとれる特徴を記」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「共通点は３産業ともリーマンショックで落ちて、2010年に戻すも、」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+  - 「ら 2009年の落ち方と 2010年から 2012年の落ち方を各比較してみよう」（https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf）
+- 人手と仕事の差：
+  - 「での議論を経て、生産性向上及び国内人材確保の取組を行ってもなお人手不足が深刻な産業分」（https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf）
+  - 「連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「製造等関連外注費 1,168,136 955,754 ▲ 212,382 138,407 153,669 106,061 33,882 523,735」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額 ＊」（https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf）
+  - 「アの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない」（https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など」（https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費および転売し」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「（５）製造等に関連する外注費」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「れるソフトウェアの開発など、 事業所収入に直接関連する外注費用をいい、 派遣、 委託生」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

@@ -1,0 +1,1212 @@
+{
+ "name": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+ "en": "Japan Die and Mold Industry Association production value establishments employees source statistics table",
+ "aliases": [
+  "日本金型工業会 金型生産 統計 出典 機械統計",
+  "金型 生産額 推移 生産動態統計 金型",
+  "金型 事業所数 従業者数 工業統計 2691 減少 増加"
+ ],
+ "context": "金型・統計・出典",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:05:20.634561+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした形は、職人が1個ずつ削り出しているわけではありません",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "産業の構造｜9人以下が6割、100人以上が生産額の4割",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造業）に関する集計（概要版）」は、従業者4人以上の事業所に限定した集計を行っ",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たが、産業別集計（製造業）は従業者1～3人も含めた全事業所における集計を行っている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、従業者4人以上の事業所について、産業細分類別、品目別、都道府県・市区町村別",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．3年活動調査においては、個人経営を含まない集計結果であることから、集計結果の時",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９．調査対象事業所は、「国税庁法人番号公表サイト」情報から、過去の調査では捉えてい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計については、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 上記４．のとおり、3年活動調査においては、個人経営を含まない集計結果であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、3年活動調査及",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 従業者数を産業中分類別構成比でみると、「食料品製造業」（110 万 1170 人、構成比 14.6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "産業の構造｜9人以下が6割、100人以上が生産額の4割",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "国別の順位も入れ替わり、日本金型工業会がISTMAの統計をもとに整理した比較で、日本の生産額シェアは7.4%の3位になりました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 活動調査における「在庫額」については、「統計調査における売上高等の集計に係る",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、構成比 19.8％）が最も高く、次いで「食料品製造業」（29 兆 7276 億円、同 9.8％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「化学工業」（28 兆 7305 億円、同 9.5％）、「生産用機械器具製造業」（19 兆 7080 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同6 . 5 ％ ） 、「電気機械器具製造業」（17 兆 8745 億円、同 5.9％）の順となっている（第 2",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円、構成比 14.7％）が最も高く、次いで「化学工業」（11 兆 5975 億円、同 11.9％）、「食",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "料品製造業」（10 兆 3178 億円、同 10.6％）、「生産用機械器具製造業」（7 兆 1908 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "※「工業統計調査」は2020年調査（2019年実績）で廃止",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額は日本金型工業会がISTMAの統計集2025年版に基づいて示した国別比較を使います",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易統計サービスのTrendEconomyがまとめた2023年の集計では、HS8480の世界輸出額は178億ドル、HS8207.30は54.3億ドルでした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産額は7兆382億円で、35カ国合計の53.6%を占めます（2024年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易でも同じ傾向が出ており、2023年のHS8480の世界輸出額178億ドルのうち中国が65.6億ドルで36.78%と最大、HS8207.30でも15.4億ドルで28%を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、雇用者の内訳については、時系列比較を行うことはできない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結果の時系列比較を行う際は、十分な留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11．時系列比較を行う場合は、工業統計について、以下の点に留意されたい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の税率（10％）と異なることから、時系列比較を行う際は十分な留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成22年(2010年)⼯業統計 平成22年12⽉31⽇現在 平成22年 平成22年1⽉〜12⽉ 平成22年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年(2016年)活動調査 平成28年6⽉1⽇現在 平成28年 平成27年1⽉〜12⽉ 平成27年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年(2017年)⼯業統計 平成29年6⽉1⽇現在 平成29年 平成28年1⽉〜12⽉ 平成28年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年(2018年)⼯業統計 平成30年6⽉1⽇現在 平成30年 平成29年1⽉〜12⽉ 平成29年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年(2019年)⼯業統計 令和元年6⽉1⽇現在 令和元年 平成30年1⽉〜12⽉ 平成30年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年(2020年)⼯業統計 令和2年6⽉1⽇現在 令和2年 令和元年1⽉〜12⽉ 令和元年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年(2021年)活動調査 令和3年6⽉1⽇現在 令和3年 令和2年1⽉〜12⽉ 令和2年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年） 構成比 （2021年） 構成比",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2020年） 構成比 （2020年） 構成比",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2021年） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2020年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、3年活動調査及",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 276 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 表 産業中分類別事業所数及び従業者数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数及び従業者数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数及び従業者数の調査時点については、令和3年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数及び従業者数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 品目別産出事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 表 産出事業所数上位 30 品目の状況（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：産出事業所数については、全事業所で再集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（14 兆 3348 億",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 図 産業中分類別製造品出荷額等及び付加価値額の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９.付加価値額（粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税（*1）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "７．有形固定資産額（従業者10人以上の事業所（一部を除く（*）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "内製と外注の線引きも産業の形を決めています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本｜精度と納期で勝ち、量と価格で押される",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "精度と納期、そして立ち上げの速さです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sokeizai_fairtrade/pdf/2025_001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jpkanagata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/iag/tgs/iag31-33.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ilo.org/media/348776/download",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 人手不足 受注 断る",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/sokeizai_fairtrade/pdf/2025_001_04_00.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://kigyoka-forum.jp/wp-content/uploads/2022/04/JES01_04_Kato.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "https://www.jdmia.or.jp/data/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.jdmia.or.jp/data/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jdmia.or.jp/data/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049"
+   ]
+  },
+  {
+   "query": "Japan Die and Mold Industry Association production value establishments employees source statistics table Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.bls.gov/iag/tgs/iag31-33.htm",
+    "https://www.ilo.org/media/348776/download",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://tradingeconomics.com/japan/industrial-production-mom",
+    "https://www.seaj.or.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+   "results": [
+    "https://note.com/dear_hyssop6712/n/ncc8e23b59d5d",
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://note.com/fukuda_jimusho/n/n4d518c125ba2",
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/fpri/n/n366d58aa2638",
+    "https://note.com/autosubsidy/n/na9e5ae748ff2",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/yharuki/n/nf6653981590c",
+    "https://note.com/taituna/n/n79bf258768fb",
+    "https://note.com/taka_peace369/n/n50270388da7a"
+   ]
+  },
+  {
+   "query": "site:x.com 日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+   "results": [
+    "https://x.com/sharouren",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/HiromitsuTakagi/article/2114323153182699946?lang=ar-x-fm",
+    "https://x.com/luigi_jpn/status/2115560898278592681",
+    "https://x.com/seikankon",
+    "https://x.com/songs349/status/2051071130249863438",
+    "https://x.com/jpzoho",
+    "https://x.com/M_Miho_JPN/status/2057719798801596459",
+    "https://x.com/KagawaTomo/status/2114002653177167907"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%9011-23-%E6%9C%88%E3%83%BB%E7%A5%9D-1day-web%E3%80%91%E3%80%90%E5%9F%BC%E7%8E%89%EF%BC%8F%E6%9C%9D%E9%9C%9E%E3%80%91%E3%83%9E%E3%83%AA%E3%83%B3%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%88%A6%E7%95%A5%E4%BC%81%E7%94%BB%E7%AB%8B%E6%A1%88%E2%97%86%E4%B8%AD%E9%95%B7%E6%9C%9F%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486420077",
+    "https://jp.linkedin.com/in/tomotokyo",
+    "https://jp.linkedin.com/in/jeffery-fj",
+    "https://jp.linkedin.com/in/kemtch",
+    "https://jp.linkedin.com/jobs/view/%E3%80%9011-23-%E6%9C%88%E3%83%BB%E7%A5%9D-1day-web%E3%80%91%E3%80%90%E5%9F%BC%E7%8E%89%E3%83%BB%E6%9C%9D%E9%9C%9E%E3%80%91%E3%83%9E%E3%83%AA%E3%83%B3%E4%BA%8B%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%95%86%E5%93%81%E6%88%A6%E7%95%A5%E4%BC%81%E7%94%BB%E2%97%86%E5%95%86%E5%93%81%E6%88%A6%E7%95%A5%E3%81%AE%E7%AB%8B%E6%A1%88-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486423280",
+    "https://jp.linkedin.com/in/ogatataiyo/en",
+    "https://jp.linkedin.com/in/jeffery-fj/en",
+    "https://jp.linkedin.com/in/hiroyuki-tada-33690358",
+    "https://jp.linkedin.com/in/glosperitydaisukekato",
+    "https://jp.linkedin.com/in/ogatataiyo"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/posts/1552726122652613/",
+    "https://www.facebook.com/groups/627324771859424/posts/1407880870470473/",
+    "https://www.facebook.com/groups/627324771859424/posts/1253029149288980/",
+    "https://www.facebook.com/groups/627324771859424/posts/1434552721136621/",
+    "https://www.facebook.com/groups/627324771859424/posts/1776394790285744/",
+    "https://www.facebook.com/groups/627324771859424/posts/1475195300405696/",
+    "https://www.facebook.com/groups/627324771859424/posts/1657072045551353/",
+    "https://www.facebook.com/groups/627324771859424/posts/1594344615157430/",
+    "https://www.facebook.com/groups/627324771859424/posts/1538964444028781/",
+    "https://www.facebook.com/groups/627324771859424/posts/1329996391592255/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://shokosoken.or.jp/jyosei/kenshou/2021/r2021-1.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の金型生産額・事業所数・従業者数の元の調査名と表（経産省 機械統計・工業統計のどの表か・名の無い統計を名指しの元へ戻す・4-74・4-75） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ]
+  },
+  {
+   "query": "Japan Die and Mold Industry Association production value establishments employees source statistics table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/worlds-top-ten-mold-manufacturing-powers-jackie-lee-qvvpf",
+    "https://www.linkedin.com/company/dynamic-tool-&-design",
+    "https://www.linkedin.com/company/elite-mold-&-engineering",
+    "https://www.linkedin.com/company/verizon",
+    "https://www.linkedin.com/company/hanson-intl",
+    "https://www.linkedin.com/company/plastic-molding-manufacturing",
+    "https://www.linkedin.com/company/plasticmoldingtechnology",
+    "https://www.linkedin.com/company/gardner-business-media-inc-",
+    "https://uk.linkedin.com/company/primetals",
+    "https://www.linkedin.com/in/stefan-joens"
+   ]
+  }
+ ],
+ "missing": {}
+}

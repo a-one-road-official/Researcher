@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・163品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・166品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -329,8 +329,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -2175,6 +2175,8 @@
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告を電子公告に変更する登記手続きを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「吸収分割の公告と決算公告の同時掲載とは？費用・手順・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2184,8 +2186,6 @@
   - 「決算公告を無料で検索する方法を5つ紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「【早見表】会社の規模×公告方法で売上高がわかるかどうかが決まる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「Q4. 非上場企業の売上高を無料で確実に知る方法はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2235,6 +2235,9 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
+  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2247,9 +2250,6 @@
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「バイアウトのケーススタディから投資について学びたい方」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -2498,6 +2498,8 @@
   - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「How to Clean Up Messy CRM Data (A Practitioner’s Workflow)」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Patentfieldの検索、AI分類、生成AI査読の役割を分け、候補集合から公報原文の確認、監視判断までをつなぐ実務手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2507,10 +2509,9 @@
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「公式ドキュメントで裏を取った3つのズレと、.claude/agents への固定方法、Fable 5がOpus 5のちょうど2倍単価であることから導ける損益分岐を解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2524,8 +2525,8 @@
   - 「前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
+  - 「Patentfieldとは？特許検索・分析とAI査読の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIへ任せる比較表と、人が決める採用要件・募集条件を分けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2540,7 +2541,6 @@
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「CAS SciFinder・Reaxys・Patsnap Eureka・Derwent・Patentfield AIR・IPRallyの使い分けと、三井化学1万件PDFエージェント事例、職種別早」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -5455,6 +5455,11 @@
   - 「T6「統計的には少数派**なのでしょうか？**」、T20「ある程度分類できてしまう、ということでも**あるのでしょうか？**」——どちらも疑問文です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「存在しない統計を肯定し分類を断定したのは AI です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 失敗・落とし穴：
+  - 「Every single method introduces method-specific error. Self-report surveys suffer from social-desirability bias;」（https://www.researchprospect.com/triangulation/）
+  - 「Reduces individual analyst bias」（https://www.researchprospect.com/triangulation/）
+  - 「survey alongside qualitative interviews. Because the methods do not share the same biases, between-method triangulation is the more powerful and is the engine of most」（https://www.researchprospect.com/triangulation/）
+  - 「Common mistakes to avoid」（https://www.researchprospect.com/triangulation/）
+  - 「If your methods share the same bias, agreement between them proves nothing.」（https://www.researchprospect.com/triangulation/）
   - 「⚠ Weak triangulation (multiple sources, same persona/bias)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「Do sources have different potential biases?」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「Common Triangulation Mistakes」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
@@ -5465,27 +5470,22 @@
   - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「持続不能となり、第3機能への解放（市場化・不満肥大）か、第1機能（宗教的・思想的ファンダメンタリズム）への逃避・爆発を起こす」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「宗教的ファンダメンタリズム（第1機能）による社会の強制再構築」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「・パターン3：宗教的・思想的ファンダメンタリズム（第1機能の暴走：原点回帰）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「抽出した主要クレーム25件の判定: **✅概ね正確 8件／⚠️要留保 6件／❌誤り・誤導 8件／🔮検証不能 2件／❓出典欠落 2件**」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「2. **固有名詞の破損**: Turn 15 の「**第七沙**」は**第五琦（だいごき）**の誤り」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「しかし誤りは、その最良スコアを付けたTurn 6・15・20・21に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「**誤りの分布には明確な法則があります**: 日本史部分（Turn 1-3）にはほぼ誤りがなく、比較文明論・一般理論（Turn 4-21）に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 実例：
+  - 「Triangulation in Research: Types & Examples - ResearchProspect」（https://www.researchprospect.com/triangulation/）
+  - 「Triangulation in Research: Types & Examples」（https://www.researchprospect.com/triangulation/）
+  - 「Use triangulation whenever a question is too complex, contested or context-dependent to trust to a single method, and especially when you want to strengthen the validity of quantitative work or the trustworthiness of qualitative work. It is a cornerstone of robust mixed-methods and case-study designs.」（https://www.researchprospect.com/triangulation/）
+  - 「Denzin distinguished four kinds of triangulation. They are not mutually exclusive — a single ambitious study may use several at once — but it helps to keep them conceptually separate so you can describe precisely what you did and why. The table below summarises each type, what gets varied, and a quick example.」（https://www.researchprospect.com/triangulation/）
+  - 「triangulation uses more than one technique inside the same paradigm — for example, several different scales within one questionnaire to measure the same construct, or open and closed questions in one interview. It checks internal consistency but cannot escape the limitations shared by all instruments of that type.」（https://www.researchprospect.com/triangulation/）
+  - 「A worked example: integrating survey, interviews and documents」（https://www.researchprospect.com/triangulation/）
+  - 「The clearest way to see triangulation is to walk through a realistic study end to end. The example below shows methodological and data triangulation working together in a business and organisational-psychology project, and — crucially — how the three strands were actually integrated rather than just reported side by side.」（https://www.researchprospect.com/triangulation/）
+  - 「Triangulation is especially valuable in case-study research, where Robert Yin treats the use of multiple sources of evidence as a defining feature of a rigorous case design and a key way of establishing construct validity.」（https://www.researchprospect.com/triangulation/）
+  - 「SWOT Analysis: Definition, Examples & Template」（https://www.researchprospect.com/triangulation/）
   - 「Example of FALSE independence:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「Example: Full Triangulation Map」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「: do the supporting sources share an origin, a coordinator, or a common failure mode — in which case their agreement is one voice, not many?」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
   - 「Arraying claims against independent source types to detect echoed rather than genuine corroboration is qualitative triangulation. GAO case-study guidance explicitly uses evidence matrices and multiple sources to corroborate findings and expose limitations.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
   - 「GAO, Case Study Evaluations: Triangulation and Evidence Matrices」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
   - 「," "supplier S is common to all cases" — becomes a row; each source stream a column.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
-  - 「単なる古代復古にとどまらず、西洋的「文明国」の君主としてふさわしい道徳性を身につけることが求められた結果、天皇・皇室は「国家最高レベルの道徳・人間性の体現者」としてのロールモデルへと再定義されました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「[一般知識 / 知識再生]政治・武力闘争に敗北し続けた結果、**「政治権力を完全に失うことで逆に純粋な道徳・人道性のシンボル化が進む」**という独自の進化」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「印欧語系国家の多くは、王が第一機能と第二機能を自らに「集約」しようとした結果、暴政化するか、王朝交代（革命や処刑）を招く歴史を辿りました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「一方、日本は第一機能（天皇）と第二機能（武家政権）を「完全に分化したまま二重構造としてシステム化（二元政治）」し続けたため、第一機能が「汚れ（政治の生々しさ・暴力）」から保護され、結果として「高潔な人間性・道徳のシンボル」としての規範を現在まで維持できたという論理が成り立ちます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「多くの場合、実権者が王を排除して融合を図りますが、日本のケースは「実権者（武家）側があえて神聖王を不可侵の存在として棚上げ（無力化・神聖化）し続けた」という極めて特異なシステム的安定に成功した例とみなされます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「「純粋に分化したまま数百年にわたって持続し、最終的に高潔な道徳・人間性の象徴へと結晶化したケース」は、比較史的に見ても極めて稀少で特異な歴史的帰結（少数派）であるといえます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 検索結果の抜粋：
   - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
   - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once. A list of sources tells you how many you have; it does not tell you which claims they actually cover, or whether the ones that agree are truly independent.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
@@ -9423,11 +9423,50 @@
   - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「How to use these figures:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「RPE calculated using month-end headcount differs from RPE using average headcount for the period. Neither is wrong, but switching between them creates false trends. Document which method applies every time the number is reported.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「【2026年最新】常勤換算とは？計算方法を具体例付きでわかりやすく解説｜介護事業所の人員配置基準 | 介護のコミミ」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「【2026年最新】常勤換算とは？計算方法を具体例付きでわかりやすく解説｜介護事業所の人員配置基準」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「介護事業所の管理者やサービス提供責任者にとって、この計算方法を正しく理解し、適切に運用することは最も基本的かつ重要なスキルと言えるでしょう」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「常勤換算方法とは、非常勤の従業者について「事業所の従業者の勤務延時間数を当該事業所において常勤の従業者が勤務すべき時間数で除することにより、常勤の従業者の員数に換算する方法」である」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「それでは、具体的な計算方法を見ていきましょう」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「実際の計算は、以下の3ステップで進めると分かりやすいです」（https://comimi.jp/archives/column/fte-kaigo）
+- 突き合わせ・推定：
+  - 「計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、」（https://comimi.jp/archives/column/fte-kaigo）
+- 一次情報の探し方：
+  - 「例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします」（https://comimi.jp/archives/column/fte-kaigo）
+- 失敗・落とし穴：
+  - 「有休・産休・兼務など、間違いやすいケースの扱い」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「労働基準法で定められた法定労働時間（週40時間）とは異なる場合がありますので注意してください」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここで注意したいのは、Gさんのように看護職員と介護職員を兼務している場合の扱いです」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、特に間違いやすいポイントを解説します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「同様に、訪問介護事業所でヘルパーが移動に費やした時間についても注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、主要なサービスの人員配置基準と、常勤換算における特有の注意点を解説します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「なお、この基準はサービス提供時間帯を通じて満たす必要があるため、利用者の送迎時間帯や入浴介助の時間帯など、業務量が集中する時間帯には特に注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「一度指定を取り消されると、その後5年間は再指定を受けることができないため、事業所にとっては致命的なダメージとなります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「今回は、介護事業所の運営に不可欠な「常勤換算」について、基本的な計算方法から、サービス別の注意点、運営指導対策、効率化の方法までを網羅的に解説しました」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「有休・産休・兼務・残業など、間違いやすいケースのルールを正確に理解することが重要」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「【2025年義務化】介護BCP研修は何から始める？効率的な進め方と失敗しない方法」（https://comimi.jp/archives/column/fte-kaigo）
 - 実例：
   - 「When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+  - 「常勤換算でよくある計算ミスと運営指導での指摘事例」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「有休・産休・兼務など、間違いやすいケースの扱い」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「計算結果に小数点以下の端数が出た場合、」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「なお、常勤換算の計算結果は、職種ごとに算出します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります」（https://comimi.jp/archives/column/fte-kaigo）
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
@@ -9991,6 +10030,30 @@
   - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
+- 文脈：検証
+- 手順・やり方：記載なし（読んだ13頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）
+
+## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
+- 文脈：名寄せ
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
+
+## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
+- 文脈：一次情報の探し方
+- 手順・やり方：記載なし（読んだ7頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ7頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ7頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ7頁・検索12回）
+- 実例：記載なし（読んだ7頁・検索12回）
+
+## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
 - 手順・やり方：記載なし（読んだ15頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ15頁・検索12回）

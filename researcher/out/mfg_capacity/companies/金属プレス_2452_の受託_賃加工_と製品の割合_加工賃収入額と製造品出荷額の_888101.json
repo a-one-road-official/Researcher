@@ -1,0 +1,2390 @@
+{
+ "name": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+ "en": "Japan metal stamping contract processing share processing fee vs product shipments",
+ "aliases": [
+  "工業統計 金属プレス製品製造業 加工賃収入額 割合",
+  "金属プレス 賃加工 比率 規模別",
+  "日本金属プレス工業協会 実態調査 受託 製品"
+ ],
+ "context": "プレス・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:05:30.212633+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "業名で、名称変更、あるいはその後倒産した企業も記載しておいた",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安定所が離職による被保険者資格を喪失した者に交付した離職票の枚数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "失業給付を受けようとする者が安定所に出頭して離職票を提出した件数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安定所が受け付けた離職票を審査し、求職者給付を受ける資格があると決定した件数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）事業主都合離職者の状況（雇用保険の資格喪失データによる）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業主都合による離職者は１６６人で、前年同月比４８．２％の増加となった",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、 建設業３０人、製造業４２人、卸売業・小売業４４人、などで離職者が発生した",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "2005 年と 2008 年で、両年とも事業所数は 3 ヶ所である",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－12 安曇野市・喬木村・飯山市の情報通信機械器具製造業の事業所数",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "密機械工業の事業所数はこの間急増し、1965 年には 267 社、1970 年に 335 社、75 年には 454",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数 ･･････････････････････････････････････････････････････････････････････････8",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 従業者規模別統計表（従業者30人以上の事業所） ･･･････････････････････････47",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業所数，敷地面積，1日当たり水源別用水量〕",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成27年は「平成 28年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成23年は「平成 24年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年の従業者４人以上の事業所数は 1944 事業所（前回比▲4.1％），従業者数は６万 9563",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２－１ 事業所数（従業者４人以上の事業所） ········································ 5",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 従業者規模別（従業者４人以上の事業所） ··································· 12",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数、従業者数、製造品出荷額等の推移（明治４２年～） ·············· 23",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２－１ 事業所数、従業者数、製造品出荷額等、粗付加価値額（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 全国の事業所数、従業者数、製造品出荷額等、粗付加価値額（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 産業中分類別 事業所数、従業者数、製造品出荷額等（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 規模別 事業所数、従業者数、製造品出荷額等（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 市町村別 事業所数、従業者数、製造品出荷額等（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－１ 事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 経営組織別事業所数、従業者数（従業者４人以上の事業所） ················· 43",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２－１ 経営組織別事業所数、従業者数、現金給与総額、原材料使用額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 経営組織別事業所数、従業者数、現金給与総額、原材料使用額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３－１ 経営組織別事業所数、従業者数、月別常用労働者数計",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－１ 事業所数、従業者数、現金給与総額、原材料使用額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 経営組織別事業所数、従業者数（従業者４人以上の事業所） ················ 53",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－１ 事業所数、従業者数、現 金給与総額、原材料使用額等、製 造品出荷額等、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 2021年 – 2024年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 2021年 – 2024年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＜ダウンロード＞ 経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査_製造事業者調査_表10-10_その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、全事業所）_年次 2021年 – 2024年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、3年活動調査及",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 276 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 表 産業中分類別事業所数及び従業者数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数及び従業者数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数及び従業者数の調査時点については、令和3年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数及び従業者数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 品目別産出事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 表 産出事業所数上位 30 品目の状況（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：産出事業所数については、全事業所で再集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 調査結果のうち、事業所数、産出事業所数、従業者数については、2022年６月１日現在の数値、製造品",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 事業所数は､2022 年６月１日現在で 590 事業所（県内４位）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 事業所数",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、590 事業所となっています",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類・従業者規模別事業所数",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 事業所数は令和４年６月１日現在の数値",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別従業者数",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類・従業者規模別製造品出荷額等",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類・従業者規模別付加価値額",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "図－1 有効求人倍率・完全失業率の推移（平成 26 年６月分まで）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 －1で有効求人倍率の全国との比較を見れば明らかなように、長野県の優位性はITバブル",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－5 2005 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－6 2010 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－7 2011 年品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－8 2012 年 品目別 製造品出荷額上位 25（従業者 4 人以上の事業所）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－12は 3市村の情報通信機械器具製造業（従業者数 4以上の事業所）の出荷額等の",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推移と、県全体のパーソナルコンピューター製造業（従業者数 4 以上の事業所）の出荷額の推",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 －10 は産業別に従業者数の推移を 1991 年を 100 とする指数でみたものである",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－10 長野県従業員数の推移（1991＝100）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－11 長野県電機系産業従業員数の推移",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 －11 から明らかなように電機系産業のなかでも情報通信機械器具製造業の従業者数がこ",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の間最も、かつ 2010 年に上向くことなくこの分類の従業者数のみが一貫して減り続けている",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1991年は総数でも、電機産業でも従業者数はピークをなし、総数では 303,866人、電機では",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "102,134 人を数えた",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それが 2012 年には総数ではその 61.8％の 187888 人、電機では 53.3％の",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "54,248 人にこの 21 年間で減少している",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1041 11 人造氷 ｔ",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★1122 絹・人絹織物（合成繊維長繊維織物を含む）",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－1122 92 ビスコース人絹・キュプラ・アセテート",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★1142 絹・人絹織物機械染色",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1142 11 絹・人絹織物機械染色 －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－1142 91 絹・人絹織物精練・漂白・染色、合成",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精錬、染色等を人力で行う場合は1145に",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★1161 織物製成人男子・少年服（不織布製及びレー",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1165 14 織物製成人男子・少年用学校服ズボン 点",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1162 13 織物製成人女子・少女用ブラウス ﾀﾞｰｽ",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1162 15 織物製成人女子・少女用制服 点",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★1162 織物製成人女子・少女服（不織布製及びレー",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1041 11 人造氷 ｔ",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★ 1122絹・人絹織物 （合成繊維長繊維織物を含む）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1122 41 ビスコース人絹織物 千㎡",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1122 92 ビスコース人絹・キュプラ・アセテート －",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★ 1142絹・人絹織物機械染色",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1142 11 絹・人絹織物精練・漂白・染色 －",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1142 91 絹・人絹織物機械染色 （賃加工） －",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★ 1161織物製成人男子・少年服 （不織布製及びレース製を含む）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 11 織物製成人男子・少年用背広服上衣 （ブ 点",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 12 織物製成人男子・少年用背広服ズボン 点",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 13 織物製成人男子・少年用オーバーコー 着",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 14 織物製成人男子・少年用制服上衣・オー 点",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 15 織物製成人男子・少年用制服ズボン 点",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1161 16 織物製成人男子・少年用ゴム引合羽・レ 着",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【特定技能】工業製品製造業における特定技能外国人受入れに関するFAQ ................................................. 1",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 受入れ人数、雇用について................................ ................................ ................................ .......................... 4",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 受入れ機関ごとの受入れ人数の制限 ....................................................................................................... 4",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 特定技能外国人を新しい業務に従事させる場合の訓練や研修について（令和4 年 8 月 30 日閣議",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 日本人従業員が通常従事する関連業務の扱い ..................................................................................... 27",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 受入れ人数、雇用について",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 受入れ機関ごとの受入れ人数の制限",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（質問 1-1）特定技能外国人を受け入れる際、受入れ機関ごとの人数制限はありますか",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（回答 1-1）受入れ機関ごとの受入れ人数に制限はありませんが、1 号特定技能外国人を受け入れるに当",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たっては、1 号特定技能外国人支援計画に基づく受入れ機関としての義務を果たすことに支障",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（質問 1-2）特定技能外国人の受入れ状況を教えてください",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（回答 1-2）1 号特定技能外国人の受入れ状況は、定期的に最新の特定産業分野別の特定技能外国人数が",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【特定技能在留外国人数の公表（6 か月ごとに更新） 】",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（質問 1-3）外国人材制度（特定技能・育成就労）で自粛するべき「引き抜き」とは、具体的にどの",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（回答 1-3）既に日本国内の他地域・他企業で就労している外国人を、積極的に引き抜いてきて自社で受",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 概 況（従業者４人以上の事業所） ･･････････････････････････････････････････････････････････････････････････7",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業者数 ･･････････････････････････････････････････････････････････････････････････12",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "全体に占める電機産業の製造品出荷額等の割合）は2000年の 47.2％から 2012年には 36.5％ま",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－2 輸出出荷額等の推移（1989 年＝100）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－3 長野県の産業構造（総生産、名目、10 億円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の内訳の推移を製造品出荷額等でみておくと、 図－8と表－1 となる",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－8 長野県主要産業別製造品出荷額等の推移",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－1 長野県産業別製造品出荷額割合",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－8から見えてくるように 1980年代半ば以降、総額の推移は「電機」の出荷額等に大きく",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「電機」は1996年に出荷額等が 3兆円の大台に乗り、2000年にピークの 3.35",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆円、製造品出荷額等全体の47.2％を占めるにいたった",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の 2010年から 2012年にかけての 7097億円の急減は図－9に示されているように、 情報通信機",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "械器具製造業の 5656億円の減少によるところが大きい",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等上位 25品目を 5年の刻みでみておきたい",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その中にあってパーソナルコンピューター（注 5）は 1990年の 530億円、95年 1172",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、2000年に 1430億円、2005年に 3376 億円、2009年に 5095億円の出荷を記録した",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "印刷装置も 2000 年にその年の最大の出荷額の 2452 億円を記録した",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2471 億円を記録するも、2002 年には 1 位の座をパーソナルコンピューターに明け渡し、65 位",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の 213 億円に急減するものとなり、直近の 2012 年には 361 億円、ピーク時の 14.7％の規模に",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「21 製造品出荷額、在庫額等」",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）「21 ア 品目別製造品出荷額」 、「21 イ 品目別製造品在庫額」の記入について",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）「21 ウ 加工賃収入額」の記入について",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0919 91 その他の畜産食料品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0912 91 肉加工品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0921 91 水産缶詰・瓶詰（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0922 91 海藻加工（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0923 91 水産練製品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0924 91 塩干・塩蔵品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0925 91 冷凍水産物（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0926 91 冷凍水産食品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0913 91 処理牛乳・乳飲料（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0929 91 その他の水産食料品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0942 91 しょう油・食用アミノ酸（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0943 91 ソース（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0944 91 食酢（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0949 91 その他の調味料（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0951 91 砂糖（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「21 製造品出荷額、在庫額等」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 「21 ア 品目別製造品出荷額」 、 「21 イ 品目別製造品在庫額」 の記入について",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仕入れて又は受け入れてそのまま販売するもの （転売品） はここに含めず、 第１面 欄 「事業別売上 （収入） 金額」 の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額 計 0,000 製造品在庫額 計 ☆ 0,000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 「21 ウ 加工賃収入額」 の記入について",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➥ 製造品及び賃加工品分類表 （４～ 80 ページ） 参照",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２） 賃加工品は、分類表において、番号の下２桁目が９、名前のあとに （賃加工） がついており、斜体で記しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）「番号」欄は、分類表にある賃加工品名の左側についている６桁番号を記入してください",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４）「賃加工品名」欄は、分類表の賃加工品名のあとに （賃加工） とついている品名を１品目１行を用いて記入してください",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他の企業 （国内外にかかわらず） が所有する原材料又は製品に賃加工をして令和２年中に引き渡したものに対して",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加工賃収入額 計 0,000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0912 91 肉加工品 （賃加工） －",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0913 91 処理牛乳・乳飲料 （賃加工） －",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(24) 該当性判断の個別相談ケース⑳（鋳物の賃加工） .......................................................................... 13",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近 1 年間に 「製造品出荷額等」が発生している必要がございます（該当性の確認は事業所毎に",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（回答 2-10）修理のための塗装や溶接、機械加工等での売上は修理料収入となり、修理業であるため対",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(24) 該当性判断の個別相談ケース⑳（鋳物の賃加工）",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（質問 2-24）当社は、鋳物を他社から受け入れて、機械加工の二次加工やバリ取り等の賃加工の事業",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○賃加工については、第 27 回生産物分類策定研究会の資料１－１の【論点３】の対処方針",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に工業統計において、JSIC の細分類 （４桁） ベースで、 賃加工のみしか存在しない分",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2432 ガス機器・石油機器製造業 機械刃物（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2446 製缶板金業 利器工匠具 手道具（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2479 その他の金属線製品製造業 その他の金物類（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "249 その他の金属製品製造業 配管工事用附属品（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2811 電子管製造業 電子管（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "表－9 長野県品目別製造品出荷額等の推移（電子部品・デバイス・電子回路製造業） （万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－10 長野県品目別製造品出荷額等の推移（電気機械器具製造業） （万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－11 長野県品目別製造品出荷額等の推移（情報通信機械器具製造業） （万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－13 累年比較、市町村別 製造品出荷額等（万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－16 長野県各市町の電機出荷額等の推移（万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "紹介した様に、ワーカー一人当たり賃金は 500～800 人民元/月が最大の誘因になった",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来予想は 1 億 6 千万円の赤字だったが、半導体組み立て装置の",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特別損失として、台湾市場向け製品在庫の評価損で 8 億 3 千万円、海外への生産移管に伴う",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 4800 万円の企業規模で、唯一の海外生産拠点である",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減の 270 億 4800 万円だが、うち中国向けは 16.2％増の 25 億円だった」",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表－19 坂城町製造品出荷額等の推移（千万円）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 付加価値額 （粗付加価値額 ）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ １事業所当た り及び従業 者１人当たり 付加価値額 は，前計算式のそれぞれの分 子",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用雇用者給 与④ 常用雇用 者1人当たり 現金給与額 ＝ 常用雇 用者数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人（同▲2.6％），製造品出荷額等は１兆9939億6739 万円（同▲3.7％)となった",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指数：平成27年＝100 （単位：人，万円，％）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は１兆9939億6739万円で，平成30年に比べ759億1053万円（前回比▲3.7％）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "べると，非鉄 39 億 3425 万円増（前回比＋",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11.0％)，紙 16 億 4182 万円増（同＋3.3",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円減（同▲18.8％），窯業 193 億 4746 万円",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 34.5％（6875億 3744 万円）で最も高く，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次いで飲料 19.6％（3899 億 3801 万円），",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子14.7％（2922億 9033万円），窯業8.5",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 粗付加価値額（従業者４人以上の事業所） ···································· 8",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 付加価値額（従業者４人以上の事業所） ······································ 9",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２－１ 事業所数、従業者数、製造品出荷額等、粗付加価値額（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 全国の事業所数、従業者数、製造品出荷額等、粗付加価値額（昭和６３年～）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額、付加価値額（従業者４人以上の事業所） ····················· 40",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 現金給与総額、原材料使用額等、製造品出荷額等、粗付加価値額",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額（従業者４人以上の事業所） ··································· 53",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗 付加価値額、付加価値額（従業者４人以上の事業所） ····················· 57",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗 付加価値額、付加価値額（従業者４人以上の事業所） ···················· 67",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗 付加価値額、付加価値額（従業者４人以上の事業所） ···················· 79",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製 造品出荷額等、粗付加価値額、付加価値額（従業者４人以上の事業所） ···· 82",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－１ 事業所数、従業者数、製造品出荷額等、粗付加価値額、付加価値額",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "244619 その他の製缶板金製品 １，０００万円",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "266111 数値制御旋盤 ５００万円",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "266212 精整仕上装置 ４００万円",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "263512 工業用ミシン ７００万円",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "292111 アーク溶接機 １，５００万円",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４，１００万円合 計",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（14 兆 3348 億",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 図 産業中分類別製造品出荷額等及び付加価値額の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９.付加価値額（粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税（*1）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等、品目別出荷金額、付加価値額については、2021年１年間の数値である",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 付加価値額（粗付加価値額）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税(※１)＋推計消",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造品出荷額は､2021 年１年間で 2,963 億 4,817 万円（県内５位）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 付加価値額は､2021 年１年間で 1,054 億 5,813 万円（県内５位 ※１）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※1 粗付加価値額の順位（「2022 年経済構造実態調査（製造業事業所調査）新潟県の概要」より）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "理できる基板サイズを大型化し、搬送時間も短縮し、生産能力を 6割向上させた「GTM-X」で、",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ヤノ（従業員 706人）も、景気減速に伴う設備投資抑制や中国などの海外メーカーとの価格競",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 有形固定資産投資総額は 970億 7520 万円で，平成 30 年に比べ 90 億8189万円（前回比▲",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額の業種別前回比をみると，業務（前回比＋196.6％），化学（同＋",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 従業者１人当たりの有形固定資産額の県平均は 1092 万円で，平成 30年に比べ 49万円（前",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１５ 有形固定資産投資総額推移 図１６ 年末在庫額推移",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２４ 有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３－１ 有形固定資産（従業者３０人以上の事業所） ································· 15",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 有形固定資産（従業者３０人以上の事業所） ······························· 49",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 有形固定資産（従業者３０人以上の事業所） ······························· 55",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 有形固定資産（従業者３０人以上の事業所） ······························· 63",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数、有形固定資産、有形固定資産投資額",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３－１ 有形固定資産 （従業者３０人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の年初現在高は、５，２３０億円で、年間取得額は、５５８億円となった",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間増減額は、＋１６億円となり、有形固定資産投資額は、５７４億円となった",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資額を産業別でみると、電子・ デバイスの１５７億円が最も多く、以下、化学の１０６億",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．有形固定資産額（従業者10人以上の事業所（一部を除く（*）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 有形固定資産額（従業者 30 人以上の事業所）",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業中分類別事業所数、有形固定資産額 ---------- ----------------------- 60",
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "pass": 3
+   },
+   {
+    "quote": "(５) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "pass": 3
+   },
+   {
+    "quote": "５ 有形固定資産額（従業者30 人以上の事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）有形固定資産の除却・売却による減少額",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）有形固定資産額の算式は以下のとおり",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額および有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 有形固定資産投資総額 ..................................................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産の額は、 平成22年 1 年間における数値で、 帳簿価額によっています",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 有形固定資産投資総額（表 8、統計表冊子 第 7表）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産総額は、52億 8,922万円で、前年に比べ116 億 2,691万円の減少（増減率",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、 有形固定資産投資総額の多い順に、電気 14億 4,616万円、輸送 11億 8,110",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 8 原材料使用額等、現金給与総額、有形固定資産投資総額（H21 年、H22年）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第7表 産業中分類別事業所数、現金給与総額、原材料使用額等、製造品出荷額等、在庫額、有形固定資産、リース金額、生産額、付加価値額、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "図－1 有効求人倍率・完全失業率の推移（平成 26 年６月分まで）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－2 輸出出荷額等の推移（1989 年＝100）",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年の 10年間、一貫して総生産に占める製造業の割合が高いことが見てとれる",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の内訳の推移を製造品出荷額等でみておくと、 図－8と表－1 となる",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－8 長野県主要産業別製造品出荷額等の推移",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リーマンショック後からの 2 兆円の減少の原因と併せて考えておかなければならない",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－8から見えてくるように 1980年代半ば以降、総額の推移は「電機」の出荷額等に大きく",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆円に減少し、2010年に 2.57 兆円まで戻すものの、2012年には 1.86兆円に急減する",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の 2010年から 2012年にかけての 7097億円の急減は図－9に示されているように、 情報通信機",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "械器具製造業の 5656億円の減少によるところが大きい",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同製造業減少額の寄与率は 80％弱に及ぶのである",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－9 長野県電機系製造品出荷額等の推移",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間の統計を一見してみてとれる特徴を記",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "共通点は３産業ともリーマンショックで落ちて、2010年に戻すも、",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら 2009年の落ち方と 2010年から 2012年の落ち方を各比較してみよう",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、電気機械器具製造業で 2785億円、情報通信機械器具産業で 4315億円減少している",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1238億円、電気機械器具製造業で 202億円、情報通信機械器具産業で 5656億円減少している",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年から 2012 年にかけては 3.11の影響もあろうが、減少の要因は別の要素の方が大きいで",
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★2021 工業用革製品（手袋を除く）",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 11 工業用革製品 －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 91 工業用革製品（賃加工） －",
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 103-01.indd 1 2020/09/11 16:13:502020/09/11 16:13:50",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＵＲＬ：https://www.stat.go.jp/data/e-census/2021/ichiran.html",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 203-01.indd 2 2020/09/11 16:13:542020/09/11 16:13:54",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 303-01.indd 3 2020/09/11 16:13:552020/09/11 16:13:55",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 403-01.indd 4 2020/09/11 16:13:562020/09/11 16:13:56",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 503-01.indd 5 2020/09/11 16:13:562020/09/11 16:13:56",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 603-01.indd 6 2020/09/11 16:13:572020/09/11 16:13:57",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 703-01.indd 7 2020/09/11 16:13:572020/09/11 16:13:57",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 803-01.indd 8 2020/09/11 16:13:582020/09/11 16:13:58",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 903-01.indd 9 2020/09/11 16:13:592020/09/11 16:13:59",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1003-01.indd 10 2020/09/11 16:13:592020/09/11 16:13:59",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1103-01.indd 11 2020/09/11 16:14:002020/09/11 16:14:00",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1203-01.indd 12 2020/09/11 16:14:002020/09/11 16:14:00",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1303-01.indd 13 2020/09/11 16:14:012020/09/11 16:14:01",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1403-01.indd 14 2020/09/11 16:14:012020/09/11 16:14:01",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1503-01.indd 15 2020/09/11 16:14:012020/09/11 16:14:01",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1603-01.indd 16 2020/09/11 16:14:022020/09/11 16:14:02",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03-01.indd 1703-01.indd 17 2020/09/11 16:14:022020/09/11 16:14:02",
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年度以降にすでに受験資格確認番号を取得された方は、次回",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・2020月報より、「ショベル系掘削機械（0.2㎥未満）」「ショベル系掘削機械（0.2㎥",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "263 繊維機械製造業 1 農業用乾燥機 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2633 染色整理仕上機械製造業 1 飼料機器 飼料裁断機、飼料粉砕器、飼料配合機等 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「ショベル系掘",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産動態統計（2020月報）の品目",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2651 鋳造装置製造業 1 掘さく機（ショベル系を除く） ドラグライン、クラムシェル、トンネル掘進機等 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「トラックク",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「整地機械",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2019年実績）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2020年工業統計調査について ････････････････････････････････････････････････････････････1",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2020年工業統計調査について",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本書は ，経済産業省 「2020年工業 統計調査」 の調査票情報 をもとに鹿 児島県が独 自",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時系列 表中の「平成 23年」及び「平成 27年」の数値 は，「経済セン サス-活動調 査",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 建設仮勘定の増加額とは，この勘定 の借方に加え られた額を いい，減少額 とは，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の 年間増減額＝増加 額－減少 額",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 主要項目の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 主要項目の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は 1944事業所で，平成 30年に比べ 83事業所（前回比▲4.1％）減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "での議論を経て、生産性向上及び国内人材確保の取組を行ってもなお人手不足が深刻な産業分",
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造等関連外注費 1,168,136 955,754 ▲ 212,382 138,407 153,669 106,061 33,882 523,735",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額 ＊",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない",
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など",
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費および転売し",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）製造等に関連する外注費",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れるソフトウェアの開発など、 事業所収入に直接関連する外注費用をいい、 派遣、 委託生",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額で、消費税",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外注費、転売",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.glpjp.com/topics/press/256/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://burrtec.co.jp/news/202108_mla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meijishoin.co.jp/news/index.php?action=detail&news_no=51899&changeview=smp&srsltid=AYCX9vLmII-utqYsfptLhxNlCy2txfidTzCUBX3gwvHDOuBw9M3_H3kJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/shueisha_258844/?tpgnr=busi-econ",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/250313-80155",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jprime.jp/ud/pressrelease/guid/dn0000367507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2452",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11800000/001724284.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/Dai96kai-Dai-1bu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/oricon_2472481/?tpgnr=busi-econ",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2023/06/21/ja_104yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://koritsu-group.co.jp/douko-tenbo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nozakipress.jp/column/detail/20251107100802/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-112842",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550630&tstat=000001023741&cycle=1&year=20180&month=23070908&tclass1=000001080195&stat_infid=000031761704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11062/5380986.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jmsa1964.com/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/2025_5_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E6%8E%B2%E8%BC%89%E7%94%A8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://warp.ndl.go.jp/info:ndljp/pid/13578718/forr.bosai.go.jp/sub_c/reports/pdf/h29_rpt_c_335.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 人手不足 受注 断る",
+   "results": [
+    "https://www.glpjp.com/topics/press/256/",
+    "https://burrtec.co.jp/news/202108_mla",
+    "https://www.meijishoin.co.jp/smp/news/index.php?action=detail&news_no=51899&changeview=smp&srsltid=AYCX9vLmII-utqYsfptLhxNlCy2txfidTzCUBX3gwvHDOuBw9M3_H3kJ",
+    "https://news.infoseek.co.jp/article/shueisha_258844/?tpgnr=busi-econ",
+    "https://www.jacom.or.jp/nousei/news/2025/03/250313-80155.php",
+    "https://www.jprime.jp/ud/pressrelease/guid/dn0000367507",
+    "https://career-tasu.nikkeihr.co.jp/now_news/inews/23/NIRKDBDGKKZO976456401/",
+    "https://bizhint.jp/article/94193",
+    "https://jsite.mhlw.go.jp/shimane-roudoukyoku/content/contents/002831812.pdf",
+    "https://jmsa1964.com/data/"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 受注残 人手不足",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2452",
+    "https://www.mhlw.go.jp/content/11800000/001724284.pdf",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://www.vessel.co.jp/btob/feature/5075.html",
+    "https://koritsu-group.co.jp/douko-tenbo/",
+    "https://nozakipress.jp/column/detail/20251107100802/"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 人手不足 損失 億円",
+   "results": [
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.senshu-u.ac.jp/~off1009/PDF/smr615.pdf",
+    "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/Dai96kai-Dai-1bu.pdf",
+    "https://news.infoseek.co.jp/article/oricon_2472481/?tpgnr=busi-econ",
+    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2023/06/21/ja_104yuho.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YIBR.pdf",
+    "https://www.kanadevia.com/ir/data/pdf/AR2009-J.pdf",
+    "https://placer.or.jp/topics.html"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2452",
+    "https://www.e-census-st.go.jp/download/data/Census8_01_class_Dir.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/top/ukeire_faq.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002283402.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2452"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://koritsu-group.co.jp/douko-tenbo/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://nozakipress.jp/column/detail/20251107100802/",
+    "https://www.globalresearch.co.jp/reports/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-112842",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550630&tstat=000001023741&cycle=1&year=20180&month=23070908&tclass1=000001080195&stat_infid=000031761704",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://jmsa1964.com/wp-content/uploads/2026/01/2025_11_統計データ掲載用.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html",
+    "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 従業者規模別",
+   "results": [
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.city.sanjo.niigata.jp/material/files/group/6/keizaikouzou2022.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11062/5380986.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 1人当たり 万円",
+   "results": [
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.pref.shiga.lg.jp/documents/11062/5380986.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://jmsa1964.com/data/"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） 2015 2025",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://forr.bosai.go.jp/sub_c/reports/pdf/h29_rpt_c_335.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904067.html",
+    "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "https://repo.qst.go.jp/items/export?action=repository_view_common_usagestatistics&itemId=49251&itemNo=1&page_id=13&block_id=21&nc_session=s7o5sqhlebne8qnl3h9t1qbvt5",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2452"
+   ]
+  },
+  {
+   "query": "Japan metal stamping contract processing share processing fee vs product shipments Japan statistics",
+   "results": [
+    "https://japanmetalstampingequipmentmarket.docs.apiary.io/",
+    "https://www.futuremarketinsights.com/reports/metal-stamping-market",
+    "https://www.grandviewresearch.com/industry-analysis/metal-stamping-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/metal-recycling-market/japan",
+    "https://www.mordorintelligence.com/industry-reports/automotive-metal-stamping-market",
+    "https://www.linkedin.com/pulse/japan-metal-stamping-products-market-7kgsf",
+    "https://cascade-partners.com/metal-fabricating-industry-report/",
+    "https://www.usitc.gov/publications/701_731/pub4395.pdf",
+    "https://www.bloominglobal.com/trade-database-detail/japan-statistics",
+    "https://www.meti.go.jp/english/statistics/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+   "results": [
+    "https://note.com/coherentmi/n/n03ba62f0e485",
+    "https://note.com/renuka_patil/n/na5b03841d28b",
+    "https://note.com/eyar/n/neb530068b283",
+    "https://note.com/3n7no_tech_pr/n/n0a7336f235ac",
+    "https://note.com/regen358/n/n871f91839194",
+    "https://note.com/ripe_clam2674/n/n9316ed5c7457",
+    "https://note.com/nakagawasann/n/n70b8aa442c02"
+   ]
+  },
+  {
+   "query": "site:x.com 金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+   "results": [
+    "https://x.com/Kiyama_bend",
+    "https://jf.x.com/images/media-preview/2091280109160587623",
+    "https://jf.x.com/images/media-preview/2099254777980883405",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/semi_journal_jp/status/2077502010983850256",
+    "https://x.com/soudosha_consul/status/2092364794980704583",
+    "https://x.com/realix1967"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+   "results": [
+    "https://www.linkedin.com/in/robert-martin-0752697b",
+    "https://br.linkedin.com/company/gupy/jobs",
+    "https://br.linkedin.com/",
+    "https://business.linkedin.com/hire/post-jobs",
+    "https://jp.linkedin.com/posts/乃慧-和田-a7aa6987_化学物半導体前工程専門家新規事業現年収up保証希望に応相談5年以上経歴-activity-7126090776618430464-uhsW",
+    "https://www.linkedin.com/posts/senju-metal-industry-co-ltd-_オートモーティブワールド2026-第19回国際カーエレクトロニクス技術展産業分析-activity-7449262973518356480-IoLl",
+    "https://jp.linkedin.com/posts/sibucho_切削加工のコストにおいて工具費が占める割合はわずか約4だとご存知でしょうか-activity-7495048809241018368-Md_0"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70）",
+   "results": [
+    "https://www.facebook.com/ShineikougyouMetalpressDiemaking/",
+    "https://www.facebook.com/people/大阪金属プレス工業会/100083214556350/",
+    "https://www.facebook.com/shimizupress/",
+    "https://www.facebook.com/toshiya.morita.90/posts/明日に向けて2452福島原発燃料デブリ取り出し作業延期問題の本質はそもそも取り出しなど不可能なこと見て見ぬふりをしていること守田です20240823-2300-/10229440626338409/",
+    "https://www.facebook.com/JMSAnews/",
+    "https://www.facebook.com/nkkmold/videos/順送型の排出確認です_材料投入か製品排出まで確認する事はたくさんありますねプレス金型順送型トライ東大阪/402975987016127/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/非鉄金属大手８社の２０２６年３月期連結業績予想は６社が当期減益を見込む銅製錬会社の加工賃収入であるｔｃｒｃ溶錬費精錬費が銅精鉱の供給不足と海外銅製錬所の新規稼働/1252133540250646/"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） note 社長",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://note.com/lucid_lotus6287/n/nde59afb9beae",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.vessel.co.jp/btob/feature/5075.html",
+    "https://note.com/kenjiyuasa/m/m4760a2178508",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2452"
+   ]
+  },
+  {
+   "query": "金属プレス（2452）の受託（賃加工）と製品の割合（加工賃収入額と製造品出荷額の内訳・同じ規模区分で下の方の理由の切り分け・4-70） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2452",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5/",
+    "https://m.x.com/lycorp_jp/status/2105569284391084260?launch_app_store=true&ct=engagement_generic",
+    "https://www.mhlw.go.jp/stf/newpage_09589.html",
+    "https://monozukuri-pro.com/case/",
+    "https://prtimes.jp/main/html/rd/p/000000060.000099008.html",
+    "https://www.shigaplaza.or.jp/lims/receive_order",
+    "https://www.kinzoku-express.jp/"
+   ]
+  },
+  {
+   "query": "Japan metal stamping contract processing share processing fee vs product shipments site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/kenmode-precision-metal-stamping",
+    "https://www.linkedin.com/company/rotation-engineering-&-manufacturing-company",
+    "https://www.linkedin.com/company/stone-city-products",
+    "https://www.linkedin.com/company/oneda-corporation",
+    "https://www.linkedin.com/in/david-larsen-5369725",
+    "https://www.linkedin.com/company/ultra-tool-&-manufacturing",
+    "https://www.linkedin.com/company/general-stamping-&-metalworks",
+    "https://www.linkedin.com/company/ams-accuratemetal",
+    "https://tt.linkedin.com/company/professional-tools-&-dies-sdn-bhd",
+    "https://www.linkedin.com/company/greenegroupindustries"
+   ]
+  }
+ ],
+ "missing": {}
+}

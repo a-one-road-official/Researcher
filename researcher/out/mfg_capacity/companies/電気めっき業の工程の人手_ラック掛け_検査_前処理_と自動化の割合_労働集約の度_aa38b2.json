@@ -1,0 +1,564 @@
+{
+ "name": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+ "en": "electroplating labor intensive process automation rate Japan job shop",
+ "aliases": [
+  "電気めっき 工程 人手作業 自動化 割合",
+  "めっき工場 省人化 進まない 理由",
+  "全国鍍金工業組合連合会 実態調査 自動化"
+ ],
+ "context": "めっき・工程",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:05:21.602084+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nbk1560.com/resources/other/article/labor-shortage/?srsltid=AYCX9vIbwu7cCoFhxamiN1HZiMHU0jYtuowWTC2xXBnq6ghJNa1Ro7Vs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/019/dl/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://waza.mhlw.go.jp/sasshi/pdf/H25_ginoushi_jireisyuu.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmcsystem.co.jp/column/fa/quality-inspection-automation-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/html/honbun/101014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD1691K0W5A710C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s.japan.zdnet.com/membership/login/?next=2f61727469636c652f33353235333030372f702f322f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hama-robo.com/model-introduction/%E4%BA%8B%E4%BE%8B%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%A2%B1%E5%8C%85%E5%B7%A5%E7%A8%8B%EF%BC%89%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%92%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A7%E8%87%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcu-i.com/wp/wp-content/uploads/2022/09/Surface_Treatment_Machines.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.robot-digest.com/contents/?id=1770253370-349734",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/article/plating-process-flow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fm-007.com/process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/contents/plating/chapter04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nogeden.co.jp/advantage/hr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/electroplating-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.monozukuri.org/techno/technote025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9205654",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/plating-processing-industry",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_06.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sma.jaxa.jp/TechDoc/Docs/JAXA-JERG-0-043-TM001A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/uploaded/attachment/14620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pubdata.nikkan.co.jp/uploads/book/pdf_file4e51d525015c2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E6%B0%97%E3%82%81%E3%81%A3%E3%81%8D%E5%B8%82%E5%A0%B4-110108",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-electroplating-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/semiconductor-electroplating-systems-plating-equipment-market-106021",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/tech-info/categories/surface_treatment_technology/st01/c1608.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/electroplating-equipment-market-102729",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A1%E3%83%83%E3%82%AD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111478",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20180108_09_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robo-navi.com/document/2017robothb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/robot/161019handbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4842724",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 人手不足 受注 断る",
+   "results": [
+    "https://www.nbk1560.com/resources/other/article/labor-shortage/?srsltid=AYCX9vIbwu7cCoFhxamiN1HZiMHU0jYtuowWTC2xXBnq6ghJNa1Ro7Vs",
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/torihikimondai/019/dl/003.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://waza.mhlw.go.jp/sasshi/pdf/H25_ginoushi_jireisyuu.pdf",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://www.chuokai-kyoto.or.jp/whatsnew/20200826_H30%20mono.pdf",
+    "https://sd1c27a6c8d051504.jimcontent.com/download/version/1614744918/module/14607175629/name/%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%EF%BC%89_all.pdf",
+    "https://neopretex.com/column/plating-automation-quality-cost/"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 受注残 人手不足",
+   "results": [
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.tmcsystem.co.jp/column/fa/quality-inspection-automation-cases",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.nbk1560.com/resources/other/article/labor-shortage/?srsltid=AYCX9vL5SxDNem1zlCarlymPNfC5XA0olo1ZWUhY7EsXmg1NuZg5XXXK",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/html/honbun/101014.html",
+    "https://www.nikkei.com/article/DGXZQOCD1691K0W5A710C2000000/",
+    "https://japan.zdnet.com/article/35253007/2/",
+    "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_all.pdf",
+    "https://www.chuokai-niigata.or.jp/wp-content/uploads/2021/05/5d2add1a09d05b8749b7c29d428def79.pdf",
+    "https://www.nippondenko.co.jp/shared/pdf/100anniversary.pdf",
+    "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/91118/1/24_rjgshhs_23_p017-030_r.pdf",
+    "https://www.jstage.jst.go.jp/article/sfj/77/3/77_102/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+   "results": [
+    "https://hama-robo.com/model-introduction/%E4%BA%8B%E4%BE%8B%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%A2%B1%E5%8C%85%E5%B7%A5%E7%A8%8B%EF%BC%89%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%92%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A7%E8%87%AA/",
+    "https://www.jcu-i.com/wp/wp-content/uploads/2022/09/Surface_Treatment_Machines.pdf",
+    "https://www.robot-digest.com/contents/?id=1770253370-349734",
+    "https://evort.jp/article/plating-process-flow",
+    "https://www.fm-007.com/process/",
+    "https://www.uyemura.co.jp/contents/plating/chapter04/",
+    "https://saltyster.co.jp/tips/case-1/",
+    "https://www.nogeden.co.jp/advantage/hr/",
+    "https://jp.misumi-ec.com/tech-info/categories/surface_treatment_technology/st01/c1608.html",
+    "https://www.jstage.jst.go.jp/article/sfj/77/3/77_102/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.fm-007.com/process/",
+    "https://www.nogeden.co.jp/advantage/hr/",
+    "https://www.mordorintelligence.com/ja/industry-reports/electroplating-market",
+    "http://www.monozukuri.org/techno/technote025.pdf",
+    "https://newscast.jp/smart/news/9205654",
+    "https://service.xenobrain.jp/forecastresults/market-size/plating-processing-industry",
+    "https://www.businessresearchinsights.com/jp/market-reports/electroplating-equipment-market-102729",
+    "https://saltyster.co.jp/tips/case-1/",
+    "https://nohohon-life67.com/plating-equipment-and-mechanism-guide/"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_06.pdf",
+    "http://www.monozukuri.org/techno/technote025.pdf",
+    "https://sma.jaxa.jp/TechDoc/Docs/JAXA-JERG-0-043-TM001A.pdf",
+    "https://www.iri-tokyo.jp/uploaded/attachment/14620.pdf",
+    "https://pubdata.nikkan.co.jp/uploads/book/pdf_file4e51d525015c2.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://milmec.jp/wp-content/uploads/2025/02/milmec_doc01.pdf",
+    "https://jp.misumi-ec.com/tech-info/categories/surface_treatment_technology/st01/c1608.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E6%B0%97%E3%82%81%E3%81%A3%E3%81%8D%E5%B8%82%E5%A0%B4-110108",
+    "https://www.imarcgroup.com/report/ja/japan-electroplating-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/semiconductor-electroplating-systems-plating-equipment-market-106021",
+    "https://service.xenobrain.jp/forecastresults/market-size/plating-processing-industry",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "http://www.monozukuri.org/techno/technote025.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://jp.misumi-ec.com/tech-info/categories/surface_treatment_technology/st01/c1608.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 1人当たり 万円",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/electroplating-equipment-market-102729",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-electroplating-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A1%E3%83%83%E3%82%AD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111478",
+    "https://www.neji-bane.jp/news/20180108_09_01/",
+    "https://www.robo-navi.com/document/2017robothb.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/robot/161019handbook.pdf",
+    "https://www.n-bareru.co.jp/2026/05/22/plating-cost-reduction-barrel/"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） 2015 2025",
+   "results": [
+    "https://newscast.jp/smart/news/9205654",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/electroplating-market",
+    "https://www.fm-007.com/process/",
+    "https://www.atpress.ne.jp/news/4842724",
+    "https://www.businessresearchinsights.com/jp/market-reports/electroplating-equipment-market-102729",
+    "https://www.nogeden.co.jp/advantage/hr/",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E6%B0%97%E3%82%81%E3%81%A3%E3%81%8D%E5%B8%82%E5%A0%B4-110108",
+    "https://www.altmetric.com/details/doi/10.1103/PhysRevX.6.041014",
+    "https://neopretex.com/column/plating-automation-quality-cost/"
+   ]
+  },
+  {
+   "query": "electroplating labor intensive process automation rate Japan job shop Japan statistics",
+   "results": [
+    "https://www.imf.org/en/publications/fandd/issues/2018/06/japan-labor-force-artificial-intelligence-and-robots-schneider",
+    "https://ifr.org/ifr-press-releases/news/robots-help-to-solve-japans-2024-problem",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.hpipro.com/blog/the-evolution-of-electroplating-from-manual-labor-to-automation/",
+    "https://www.thefabricator.com/thefabricator/article/shopmanagement/metal-fabrication-in-japan-technology-and-data-for-a-comfortable-day",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/factory-industrial-automation-sme-smb-market/Japan",
+    "https://www.wellington.com/en/insights/japans-factory-automation-sector",
+    "https://www.mckinsey.com/~/media/mckinsey/locations/asia/japan/our%20insights/future%20of%20work%20in%20japan/the-future-of-work-in-japan_v4_en.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/wp23e07.htm",
+    "https://www.sciencedirect.com/science/article/pii/S0954349X26001323"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+   "results": [
+    "https://note.com/lucid_lotus6287/n/nd08e710f0020",
+    "https://note.com/platypus2000jp/n/nba85794a9039",
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/one2204/n/n2876ba9d5984",
+    "https://note.com/one2204/n/n1bd7cb4c04ff",
+    "https://note.com/anomaly_inc/n/n7dba89dc647f",
+    "https://note.com/anomaly_inc/n/nd663acf90f19",
+    "https://note.com/starup_ogata/n/n5190454119e5",
+    "https://note.com/nasu_sikano/n/n392752ecba73",
+    "https://note.com/ripla_business/n/n69edf0a9d4fe"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2108903228306067911",
+    "https://x.com/ayano_kunimitsu/status/1686265750313730048",
+    "https://x.com/ME_JP_official/status/2034102654297592013",
+    "https://x.com/kitaishihon/status/2115005592477823140",
+    "https://x.com/nrm_710/status/2069692828570226970",
+    "https://x.com/TISS2043/status/2106871484014801395",
+    "https://x.com/TISS2043/status/2107965190578835678"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+   "results": [
+    "https://jp.linkedin.com/pulse/smtラインの検査工程2-aoi-naoya-okumura-reu2c",
+    "https://www.linkedin.com/jobs/view/★＜稲沢市＞くるま内外装部品のめっき検査-日払いok【アナタのスキル活かしませんか？】稼ぐ優先・高収入work☆ヘアスタイル自由☆-at-株式会社綜合キャリアオプション-4414984233",
+    "https://jp.linkedin.com/jobs/view/＜掛川市＞めっき用銅板の接続・顕微鏡検査-日払いok【未経験者カンゲイ♪】高収入ワーク！適度に残業あって稼げる！-at-株式会社綜合キャリアオプション-4484409771",
+    "https://jp.linkedin.com/jobs/view/＜上伊那郡辰野町＞めっき前治具掛け外し・検査梱包-日払いok【未経験から安心スタート♪】程よく残業で収入にプラス♪少人数の職場！-at-株式会社綜合キャリアオプション-4454869279",
+    "https://ca.linkedin.com/jobs/view/電子部品のめっき加工業\n電子部品の組立加工\n製品の受入・検査・梱包・出荷-at-東電化工業（株）-4474166984?position=47&pageNum=0",
+    "https://www.linkedin.com/posts/mcc-kayo_カイゼン-現場カイゼン-工程管理-activity-7078934009740742656-exD4",
+    "https://jp.linkedin.com/jobs/view/＜浜松市中央区＞めっき部品の膜厚測定・外観検査-日払いok【経験不問！未経験◎】残業基本ナシで趣味・遊びも充実♪社会人経験をつもう！-at-株式会社綜合キャリアオプション-4478082968"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56）",
+   "results": [
+    "https://www.facebook.com/elephantech.jpn/videos/動画紹介めっきプロセス-自動処理ライン/2617901088316406/",
+    "https://www.facebook.com/elephantech.jpn/posts/めっき自動搬送装置ができるまで第6回目今回はいよいよ工場でのライン立ち上げの話です自動搬送装置が完成し本番稼働しますものづくりの一番嬉しい瞬間かもしれませんht/699834317094921/",
+    "https://www.facebook.com/elephantech.jpn/videos/めっきプロセス-自動処理ライン/2722981221065129/",
+    "https://www.facebook.com/elephantech.jpn/posts/めっきプロセス自動処理ラインを動画でご紹介します装置は全長10メートルありこのラインで基板の上に銀インクで印刷した回路の上に銅の層を形成する工程をおこないますh/647164705695216/",
+    "https://www.facebook.com/elephantech.jpn/posts/めっき自動搬送装置ができるまでシリーズ最終回ですなにかをつくりあげる軌跡を読んでいくのは実際にものづくりを疑似体験をしているようなワクワク感と面白さがありますh/822842874794064/",
+    "https://www.facebook.com/elephantech.jpn/posts/めっき自動搬送装置ができるまでシリーズ第二弾です今回は持ち上げる運ぶ置くができるような機構設計です一応機械系の人間ですから第1回のポンチ絵のあとはcadで設計し/674356139642739/",
+    "https://www.facebook.com/kumaboumetal/videos/検査物流センター新しい検査物流センターでは毎日たくさんのモノと人が動いています現場の熱気ぜひ動画で感じてみてください物流の裏側現場密着製造業-検査めっき/3979105092344279/"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） note 社長",
+   "results": [
+    "https://note.com/starup_ogata/n/n5190454119e5",
+    "https://www.saycom.jp/product/mekki-note",
+    "https://note.com/juicy_roses9363/n/n6042aed4a4f5",
+    "https://www.ttxpens.com/ja/rack-plating-vs-barrel-plating-guide/",
+    "https://www.youtube.com/watch?v=yu0bVsfVXZk",
+    "https://newscast.jp/smart/news/9205654",
+    "https://newji.ai/procurement-purchasing/basic-plating-efficient-process-management-techniques-and-troubleshooting-solutions/",
+    "https://www.optimax.co.jp/ai-information/m6-manufacturing-document-automation-hub/",
+    "https://saltyster.co.jp/tips/case-1/",
+    "https://jp.misumi-ec.com/tech-info/categories/surface_treatment_technology/st01/c1608.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の工程の人手（ラック掛け・検査・前処理）と自動化の割合（労働集約の度合い・代わりの仮説1・業界団体の調査・減っている例と増えている例の両方・4-56） X 投稿",
+   "results": [
+    "https://hama-robo.com/model-introduction/%E4%BA%8B%E4%BE%8B%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%A2%B1%E5%8C%85%E5%B7%A5%E7%A8%8B%EF%BC%89%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%92%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A7%E8%87%AA/",
+    "https://www.robot-digest.com/contents/?id=1770253370-349734",
+    "https://www.helmut-fischer.com/jp/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%94%A3%E6%A5%AD%E5%88%A5/%E3%83%A1%E3%83%83%E3%82%AD%E5%8A%A0%E5%B7%A5",
+    "https://furnace.jp/case/%E4%BD%9C%E6%A5%AD%E8%80%85%E8%B2%A0%E6%8B%85%E3%82%92%E8%BB%BD%E6%B8%9B%E3%80%80%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF%E8%A9%B0%E6%9B%BF%E8%87%AA%E5%8B%95%E5%8C%96%E4%BA%8B%E4%BE%8B/",
+    "https://www.fm-007.com/case/auto-plating-line/",
+    "https://saltyster.co.jp/tips/case-1/",
+    "https://www.saitamadx.com/case/15096/",
+    "https://anomaly-inc.com/blog/surface-treatment-plating-process-management-ai",
+    "https://gazou-kensa.com/tips/1205/",
+    "https://www.sht-net.co.jp/mekki/mekki-system/"
+   ]
+  },
+  {
+   "query": "electroplating labor intensive process automation rate Japan job shop site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/nickel-plated-steel-strip-market-us-japan-korea-6el4f",
+    "https://www.linkedin.com/pulse/what-driving-electroplating-system-market-neon-node-dabif",
+    "https://www.linkedin.com/pulse/global-players-automatic-electroplating-production-1nsge",
+    "https://www.linkedin.com/pulse/whats-driving-europe-electroplating-solution-market-boom-key-jbpte",
+    "https://www.linkedin.com/jobs/view/loader-unloader-electroplating-autoline-support-2nd-shift-m-f-3pm-11pm-at-greenwood-fabricating-plating-llc-4486102157",
+    "https://www.linkedin.com/jobs/view/electroplating-expert-at-applied-materials-4483959139",
+    "https://www.linkedin.com/pulse/evaluating-profitability-growth-germany-electroplating-solution-ik2he",
+    "https://www.linkedin.com/posts/awaji-global-gateway_apply-for-a-job-agg-careers-activity-7522859899727425536-aOBx",
+    "https://www.linkedin.com/pulse/electroplating-chemicals-market-insights-cover-historical-bajge",
+    "https://in.linkedin.com/company/kamtress-automation-systems-private-limited"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}
