@@ -8,8 +8,1062 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T16:19:19.120136+00:00",
+ "researched_at": "2026-11-07T21:41:44.088810+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Citation precision >= 0.98; citation recall >= 0.95; hallucination rate < 0.01; evaluated on held-out state appellate decisions with Weights & Biases",
+    "url": "https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "12 even in the best setting, and reports a primacy bias in which",
+    "url": "https://www.emergentmind.com/topics/citation-grounding-cg",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "\"required\": [\"bias_assessment\", \"changed_elements\"],",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "\"bias_assessment\": { \"type\": \"string\" },",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「分からない」はVerificationの失敗ではない",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤りの影響が大きいほど、元Source・反対Evidence・Human Reviewまで確認を深くする",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他者が読む資料や、誤りがOutput品質へ影響する情報では確認を深くします",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strict Verification｜誤りの影響が大きい・専門性が高い",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証すべき事項や注意点を明記することで、ハルシネーション（幻覚：AIが事実でない情報を生成する現象）を抑制します",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査においては、以下のような誤りが頻発します：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. 調査時の注意点",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚠️ 注意: これは推定であり、公式分類ブラウザでの検証が必須です",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出力には必ず誤りのリスクがあることを前提に、検証を促す指示をプロンプト内に含めます",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚠️ 重要な注意事項：AI出力の限界について",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出力の正確性（検証で誤りが見つかった割合）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "### 7. 調査実施時の注意点",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- [ ] [注意点1]",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- [ ] [注意点2]",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- [ ] [注意点3]",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 10-12点: 高リスク（要注意）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 4-6点: 低リスク（一応注意）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. ハルシネーション防止の注意書きを含める",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 注意すべき基本特許・支配的権利者のリスト",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その方が、絞り込みの失敗による漏れよりも、リカバリーが容易だからです",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIの最大の落とし穴は、ハルシネーション（幻覚）です",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4-5. プロンプト設計の注意点",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ「文章を書く」という業務でも、受け手によって「許容される誤りの水準」がまったく違うのです",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "■ 除外しない注意パターン（見落としやすいケース）",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本弁理士会のガイドラインは、秘密保持規約のない第三者のプラットフォームに情報を載せると新規性を喪失する可能性があると注意を促しています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、同じヘルプには完全な網羅は保証できないとも書かれているので、注意が必要です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "INPITは、J-PlatPatの利用上の注意として、大量データのダウンロードや、プログラムによる定期的な自動データ収集のようなロボットアクセスを禁止しています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "J-PlatPatの利用上の注意はINPITの公式ページによります（いずれも2026年9月27日確認）",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分類の候補はPMGSで定義を読むまで採用しないという順番を守ると、AIの間違いが検索式に入り込みにくくなるでしょう",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外に出願する予定がある場合は、国ごとに例外の扱いが異なる点にも注意が必要です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本弁理士会のガイドラインが示す3つの注意",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本弁理士会は令和7年4月に「弁理士業務AI利活用ガイドライン」を公表し、弁理士が生成AIを業務で使うときの注意を整理しています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、AIの生成結果を内容の検討・精査もせずにそのままクライアントに提供することは、善管注意義務（民法第644条）に違反する恐れがあるとしています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ガイドラインは著作権への配慮にも触れており、他人の明細書や文献に類似したものを生成させる目的の入力には注意が必要です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの生成結果を検討・精査せずにそのまま提供することは、善管注意義務に違反する恐れがあるとされています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the user's mistaken premise—in reality, Justice Ginsburg joined the Court's landmark decision legalizing same- sex marriage—and instead provides",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the introduction of new forms of bias, and lawyers' ultimate",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mistaken understanding of the law",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fourth, the queries probe for “contrafactual bias,” or the ten -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Perlman 2023; Tan et al. 2023), but contrafactual bias poses a",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Last, to guard against selection bias in our results (i.e., choosing",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tions—in which the query contains a mistaken understanding",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI explained the mistaken premise, and cited the relevant, up -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "wrong doctrine,” a doctrine pertaining to mistake- of- fact in -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "dency to agree with the user even when the user is mistaken",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lucination rate is not meant to be an unbiased estimate of the",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exact mistakes that their tools purportedly avoid, companies",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Goddard, K., A. Roudsari, and J. C. Wyatt. 2012. “Automation Bias: A",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Pitfalls of Artificial Intelligence for Legal Applications.” Journal of",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "metadata- citation- 130 The original query was mistakenly trun -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "流暢な文章ほど誤りに気づきにくいため、出典、数値、前提、権利を分けて確かめる仕組みが欠かせません",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤り、不確実な回答、情報不足による適切な拒否、意見や創作は同じラベルにしません",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正答率だけを追うと、安全な拒否まで失敗と数え、危険な過剰回答を促してしまうためです",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人の注意力に頼らず、記録を次の検証セットへ戻すことが再発防止になります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現場ログを匿名化して追加すれば、導入後の失敗を事前に見つけやすくなります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLM-as-a-Judgeは大量比較に便利ですが、長い回答を高く評価する冗長性バイアスや、評価モデル自身の偏りがあります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "では、回答が誤ったときに検索失敗か生成失敗かを分けて確認します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指標名を追うのではなく、利用者が求める回答の安全性と、失敗したときの業務影響に結び付けて採用します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず失敗質問を「見つからない」「不要文書が多い」「根拠はあるが誤生成」に分類します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため変更前後の代表質問、失敗質問、高リスク質問を実行し、合格基準を満たした場合だけ本番へ反映します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に「簡潔に答える」という修正は、根拠や注意書きまで削ることがあります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAG運用の監視では、正答率だけでなく、根拠なし回答率、回答拒否率、検索失敗率、応答時間、利用者からの訂正件数を追います",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証で誤りが見つかったら、出典差し替え、プロンプト修正、再評価、利用者通知までを一連の手順として実行します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答、情報源、検索、プロンプト、運用ログをつなぎ、誤りを早く発見して安全に改善するための業務設計です",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まずは頻出質問、失敗しやすい質問、高リスク質問を含む小規模なセットから始めます",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここで注意したいのが、日付の種類です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tobias Schimanski, Jingwei Ni, Mathias Kraus, and Markus Leippold.",
+    "url": "https://arxiv.org/html/2606.00898v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "over a citation grammar compiled into a finite-state automaton, and posthoc span alignment. In constrained decoding, the automaton tracks whether decoding is in Claim, DOCID, or SNIPPET mode, restricts allowable tokens accordingly, and retries up to 3 times with temperature increased by",
+    "url": "https://www.emergentmind.com/topics/citation-grounding-cg",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. **逐語引用のない判定は採用しない",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この3段階も公的機関の公式分類ではなく、日常利用向けの簡略Ruleです",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この3段階はANPSによる実務整理であり、公的機関の公式分類ではない",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査におけるプロンプト～生成AI活用～（プロンプト付）｜角渕由英（つのぶちよしひで）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査におけるプロンプト～生成AI活用～（プロンプト付）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査における生成AI活用のためのプロンプトについて、生成AIに出力をさせてみました",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIを活用した特許調査：プロンプトエンジニアリングの理論と実践【完全版】",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "― 企業IP部門・特許事務所・R&D部門のための包括的ガイド ―",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査の歴史を振り返ると、明確な3つの時代区分が見えてきます：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AI関連特許ファミリの公開数：2014年約733件 → 2023年1万4千件超（",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従来の特許調査は、専門的なサーチャーが複雑なブール演算式（Boolean Logic）を構築し、「検索漏れ（False Negative）」と「ノイズ（False Positive）」のバランスを調整する職人芸的なプロセスでした",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本ガイドは、生成AIを特許調査に適用する際の核心技術である「",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査におけるプロンプトの4大機能",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査官、知財コンサルタント、技術専門家など、特定の役割（ペルソナ）を与えることで、その分野に適した語彙、視点、分析フレームワークを引き出します",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「特許調査官」役割指定：推薦精度 68%",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「15年経験の国際特許調査官」詳細役割指定：推薦精度 79%",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査においては、以下のような誤りが頻発します：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLMは2023年初頭（または2024年中頃）までのデータで訓練されており、最新の特許情報は含まれていません",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AI時代の特許調査のまとめ｜角渕由英（つのぶちよしひで）",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事は、特許実務の最前線における「発明の捉え方」から「調査の実践」、そして「組織への導入戦略」まで、生成AI時代に求められる新しい実務の体系を包括的に解説します",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クレーム（特許請求の範囲）を書く行為は、この多次元的な技術的実体を、特定の座標系に",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "真に強固な特許ポートフォリオとは、",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2部：特許調査のパラダイムシフト ～「読める範囲」から「あるべき範囲」へ～",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIは、特許調査における長年の制約条件を破壊しました",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長年、特許調査の母集団設計は、ある不等式に支配されてきました",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この設計思想を採用する理由は3つあります",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：特許調査の結論は法的責任を伴う判断であり、AIに委ねられない",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あなたは特許調査に熟達した弁理士かつプロサーチャーです",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・広すぎる一般論は避け、調査キーワードに落とせる語を優先して採用",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下の判断基準に従って、特許文献の関連度を判定してください",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あなたは熟練した特許サーチャーおよび弁理士です",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・検証方法：全ての引用箇所について原文PDFと照合し、正確性を確認",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許実務におけるプロンプトは、もはや",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査のAI活用｜手順と出願前の発明を守る使い方",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査のAI活用｜出願前の発明を守る使い方と手順",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査のAI活用とは、J-PlatPatなどの特許データベースで集めた公報を、生成AIに要約させたり絞り込ませたりして、人が読む量を減らす使い方です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIは公報のデータベースそのものではないため、集める役は特許データベース、読む・絞る役はAI、最後の判断は人という分担が基本になります",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査の4つの種類と、AIが役立つ場面",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許調査は目的によって調べる範囲と求められる精度が変わるため、AIに任せてよい作業の幅も種類ごとに違ってきます",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは法律や特許庁が定めた区分ではなく、特許事務所や調査会社の現場で使われている呼び方になります",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "侵害予防調査は、自社の製品やサービスが他社の特許権を侵害しないかを確かめる調査で、FTO（Freedom to Operate）調査とも呼ばれます",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許庁が運営するスタートアップ向けの知財サイトIP BASEでは、FTO調査を第三者の権利を侵害する等の支障がないかどうかを調査するものと説明しています",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無効資料調査は、他社の特許を無効にできる証拠となる文献を、その特許の出願日より前の公報や論文から探し出す調査です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※調査の4分類は実務で一般に使われる呼び方で、法律や特許庁の定義ではありません",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FTO調査の説明はIP BASE（特許庁）の記載によります（2026年9月27日確認）",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無効資料調査では、対象特許の構成要件を基準にして、大量の公報を一次で振り分ける作業が向いているでしょう",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ChatGPTやClaude、Geminiといった汎用の生成AIは、特許の公報を1件ずつ収めたデータベースではありません",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが答える特許番号や発明の内容は、学習した文章やWeb検索の結果から組み立てられたもので、特許庁の公報と照らし合わせた結果とは限らないことになります",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "submitting filings to courts citing nonexistent case law halluci -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mat. However, instead of accessing all the primary sources that",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "connected to a wider body of case law and primary sources. This",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "states that the deadlines set by bankruptcy rules governing the filing of dischargeability",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "law36 0news. com/ 18260 00/ 18261 28/ law360_ pulse - ai_ survey. pdf.",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fictions: Profiling Legal Hallucinations in Large Language Models.”",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ds/ 2024/ 04/ Task- Force - on- AI- Repor t- draft - 2024- 04- 02- FINAL. pdf.",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "docum ents/ ethics/ Gener ative - AI- Pract ical- Guida nce. pdf.",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "First you turn opinions into machine-readable text. Modern federal opinions are clean, text-based PDFs, so a parser like PyMuPDF or pdfplumber gives you decent text.",
+    "url": "https://www.vaquill.ai/blog/how-ai-legal-research-works-rag",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一次情報へ遡り、二次情報は補助根拠として扱うルールを事前に決めます",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ベンチマークで高得点でも、社内規程に答えられない、応答が遅い、費用が合わないなら採用判断は変わります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各テストケースに合格基準を置き、重要項目が1件でも不合格なら、平均点が高くても公開しないルールを採用します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指標名を追うのではなく、利用者が求める回答の安全性と、失敗したときの業務影響に結び付けて採用します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIハルシネーション統計 2026：50以上の出典データポイント – Suprmind",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公的な認証制度や学術的な評価スコアではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Large legal fictions: Profiling legal hallucinations in large",
+    "url": "https://arxiv.org/html/2606.00898v1",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "documents — PDFs, scans, contracts, case files — with hybrid retrieval (BM25 keyword matching plus dense semantic vectors, then reranking), and it answers only from what it finds. Every answer streams in with",
+    "url": "https://lawyers-assistant.github.io/blog/can-you-trust-ai-legal-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.",
@@ -780,1614 +1834,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2．技術的なポイントは、分解・検索・引用検証の3つ",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "したがって、検証は二段階に分けたいと思います",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クレーム解釈 → 候補発見 → 収集・保全 → 索引・検索 → 要素対比 → 引用検証 → 人のレビュー",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※本稿は文献・公開情報に基づく設計検討であり、実運用での精度や工数削減を検証した報告ではありません",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "P5 証拠箇所抽出 ─▶ P6 要素充足判定 ─▶ P7 グラウンディング検証 ─▶ P8 複数ジャッジ統合",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "`{{OUTPUT_MODE}}=json` とし、付録AのJSONスキーマで構造化出力（またはスキーマ検証）を行う",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- §112(f) の推定（\"means for\" は推定あり、\"configured to\" 等は構造を示す語かどうか）を要件ごとに",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クエリは事実の主張ではなく探索のための仮説である",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの回答、どこまで確認する？ 出典・数字・引用を検証する5つのチェック｜とある博士学生",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの回答、どこまで確認する？ 出典・数字・引用を検証する5つのチェック",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元Sourceの該当箇所と並べると照合しやすくなります",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "毎回すべてを最大強度で検証すると、AIを使うBenefitよりVerification Costの方が大きくなる場合があります",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大きな矛盾や、利用に必要な重要Factを中心に確認します",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証すべき事項や注意点を明記することで、ハルシネーション（幻覚：AIが事実でない情報を生成する現象）を抑制します",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証指示を含むプロンプト：ハルシネーション率 23%",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階的思考＋検証指示プロンプト：ハルシネーション率 8%",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "❌ 特許番号や分類コードの確定的な提示（検証が必須）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【Step 3: 分類推定】",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 1, 2の分析に基づき、関連する特許分類を推定してください：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "⚠️ 注意: これは推定であり、公式分類ブラウザでの検証が必須です",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【Step 5: 検証計画】",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "上記で生成した情報の検証方法を提案してください：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 特許分類の検証方法（使用するデータベース・ツール）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出力には必ず誤りのリスクがあることを前提に、検証を促す指示をプロンプト内に含めます",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- すべての提案には「要検証」の注記を付けてください",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第2層：検証方法の指示（プロンプト内に含める）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あなたの回答には、必ず以下の検証方法を付記してください：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1. 特許番号の検証方法",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり、品質は「1回の試行の精度」ではなく、次の掛け算で決まるようになりました",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仮説を立て、検証し、学びを次に活かす実験設計の能力",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2-4. 「検証予算（V）」という新しいパラメータ",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「読む上限（N）」ではなく「検証できる上限（V）」",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "予算 → 検証工数 → 検証できる件数V → 証拠母集団の上限",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、人間が最終的に責任を持って原文を確認（検証）できる件数には限りがあります",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証予算Vは、以下の要素で構成されます",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ポイントは、「人が読む上限N」の代わりに、「人が検証できる上限V」を設計パラメータにすることです",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これにより、AIによる処理件数（参照母集団のサイズ）と、人間の検証コスト（証拠母集団のサイズ）を、",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この2つが欠けた報告書は、後から検証できず、意思決定にも使えない「死んだ文書」になってしまいます",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・検証方法：全ての引用箇所について原文PDFと照合し、正確性を確認",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ところが、その番号が実在しない、実在しても中身が違う、権利がすでに消滅している、といった食い違いが起こりえます",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワードと分類で作った母集団と、類似検索の結果を突き合わせて漏れを確かめる使い方が無難です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "関係なしと判定された公報の中にも取りこぼしが混じるため、一部を抜き出して人が読み、AIの判定と食い違いがないかを確かめる手順を入れてください",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判定基準は公報側の技術の特徴で書き、自社の発明と突き合わせる工程は、後で説明する入力先の区分に沿って行いましょう",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・関係なし判定からの抜き取り件数と、食い違いの件数：",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・件数は一覧から数えた数だけを書き、推計はしないでください",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが示した公報番号と引用は、J-PlatPatの原文で1件ずつ照合するまで使わないでください",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "食い違いが1件でも見つかったときは、その公報がなぜ関係なしと判定されたのかをAIの理由欄で確かめてみてください",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公報番号の照合、引用の確認、抜き取りの精読は、どれも人の手で行う作業です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2つのAIで判定を突き合わせる",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "答えが一致したから正しいとは言えませんが、食い違いは人が見るべき箇所の目印になるでしょう",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "作業を2つに分け、公報側の整理はどこでも、自社の発明との突き合わせは会社契約の環境か人の手で、と切り分けるのが無理のない進め方です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "いずれも各社の自己申告で、第三者が検証した結果ではありません",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "符号と部材名の対応は取り違えが起きやすいため、図面と1つずつ突き合わせる確認を省かないようにしましょう",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "which lawyers turn to generative AI. Our estimate of the hal -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "lucination rate is not meant to be an unbiased estimate of the",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI出力検証で信頼できる回答を運用する方法",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "開発担当だけでなく、承認者や現場利用者が共有できる検証フローを整えましょう",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "顧客データを扱う場合は、入力内容も検証対象です",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人の注意力に頼らず、記録を次の検証セットへ戻すことが再発防止になります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "は、文書を大量投入することではなく、仮説を一つずつ検証することです",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "とは、内部の推論をもっともらしく語らせることではなく、利用者が回答を検証・判断できる根拠を示すことです",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "監査担当は検証記録と変更履歴を確認することで、単一担当者に判断が集中するリスクを減らせます",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社外へ出す回答には、検証済みの日時、対象となる文書版、承認者を記録します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証済みロゴだけを表示するのではなく、後から根拠と判断過程を追跡できることが信頼につながります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全社のあらゆる文書を一度にRAG化するより、回答責任と根拠が明確な領域で検証サイクルを確立できます",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証で誤りが見つかったら、出典差し替え、プロンプト修正、再評価、利用者通知までを一連の手順として実行します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証対象数、不合格件数、訂正までの時間、再発件数を記録し、",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI出力検証は、生成AIの回答を疑うためだけの作業ではありません",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q1. AI出力検証は誰が担当すべきですか？",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q5. 検証で誤りを見つけた後は何をすべきですか？",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが提示した出典を検証する7つの方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "方法3：資料名・著者・発行年を照合する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ3：検証結果を整理する",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※これは検証方法を説明するための架空の例です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際のアプリや検証実験の結果ではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "必要に応じて第三者による検証記事も参考にします",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※以下の主張は検証手順を説明するために設定したものです",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証作業を終えたら、確認できた範囲を記録します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "over a citation grammar compiled into a finite-state automaton, and posthoc span alignment. In constrained decoding, the automaton tracks whether decoding is in Claim, DOCID, or SNIPPET mode, restricts allowable tokens accordingly, and retries up to 3 times with temperature increased by",
-    "url": "https://www.emergentmind.com/topics/citation-grounding-cg",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. **逐語引用のない判定は採用しない",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この3段階も公的機関の公式分類ではなく、日常利用向けの簡略Ruleです",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この3段階はANPSによる実務整理であり、公的機関の公式分類ではない",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査におけるプロンプト～生成AI活用～（プロンプト付）｜角渕由英（つのぶちよしひで）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査におけるプロンプト～生成AI活用～（プロンプト付）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査における生成AI活用のためのプロンプトについて、生成AIに出力をさせてみました",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIを活用した特許調査：プロンプトエンジニアリングの理論と実践【完全版】",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "― 企業IP部門・特許事務所・R&D部門のための包括的ガイド ―",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査の歴史を振り返ると、明確な3つの時代区分が見えてきます：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AI関連特許ファミリの公開数：2014年約733件 → 2023年1万4千件超（",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従来の特許調査は、専門的なサーチャーが複雑なブール演算式（Boolean Logic）を構築し、「検索漏れ（False Negative）」と「ノイズ（False Positive）」のバランスを調整する職人芸的なプロセスでした",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本ガイドは、生成AIを特許調査に適用する際の核心技術である「",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査におけるプロンプトの4大機能",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査官、知財コンサルタント、技術専門家など、特定の役割（ペルソナ）を与えることで、その分野に適した語彙、視点、分析フレームワークを引き出します",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「特許調査官」役割指定：推薦精度 68%",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「15年経験の国際特許調査官」詳細役割指定：推薦精度 79%",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査においては、以下のような誤りが頻発します：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "LLMは2023年初頭（または2024年中頃）までのデータで訓練されており、最新の特許情報は含まれていません",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AI時代の特許調査のまとめ｜角渕由英（つのぶちよしひで）",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事は、特許実務の最前線における「発明の捉え方」から「調査の実践」、そして「組織への導入戦略」まで、生成AI時代に求められる新しい実務の体系を包括的に解説します",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クレーム（特許請求の範囲）を書く行為は、この多次元的な技術的実体を、特定の座標系に",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "真に強固な特許ポートフォリオとは、",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第2部：特許調査のパラダイムシフト ～「読める範囲」から「あるべき範囲」へ～",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIは、特許調査における長年の制約条件を破壊しました",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "長年、特許調査の母集団設計は、ある不等式に支配されてきました",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この設計思想を採用する理由は3つあります",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：特許調査の結論は法的責任を伴う判断であり、AIに委ねられない",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あなたは特許調査に熟達した弁理士かつプロサーチャーです",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・広すぎる一般論は避け、調査キーワードに落とせる語を優先して採用",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下の判断基準に従って、特許文献の関連度を判定してください",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あなたは熟練した特許サーチャーおよび弁理士です",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・検証方法：全ての引用箇所について原文PDFと照合し、正確性を確認",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許実務におけるプロンプトは、もはや",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査のAI活用｜手順と出願前の発明を守る使い方",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査のAI活用｜出願前の発明を守る使い方と手順",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査のAI活用とは、J-PlatPatなどの特許データベースで集めた公報を、生成AIに要約させたり絞り込ませたりして、人が読む量を減らす使い方です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIは公報のデータベースそのものではないため、集める役は特許データベース、読む・絞る役はAI、最後の判断は人という分担が基本になります",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査の4つの種類と、AIが役立つ場面",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査は目的によって調べる範囲と求められる精度が変わるため、AIに任せてよい作業の幅も種類ごとに違ってきます",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは法律や特許庁が定めた区分ではなく、特許事務所や調査会社の現場で使われている呼び方になります",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "侵害予防調査は、自社の製品やサービスが他社の特許権を侵害しないかを確かめる調査で、FTO（Freedom to Operate）調査とも呼ばれます",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許庁が運営するスタートアップ向けの知財サイトIP BASEでは、FTO調査を第三者の権利を侵害する等の支障がないかどうかを調査するものと説明しています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "無効資料調査は、他社の特許を無効にできる証拠となる文献を、その特許の出願日より前の公報や論文から探し出す調査です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※調査の4分類は実務で一般に使われる呼び方で、法律や特許庁の定義ではありません",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "FTO調査の説明はIP BASE（特許庁）の記載によります（2026年9月27日確認）",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "無効資料調査では、対象特許の構成要件を基準にして、大量の公報を一次で振り分ける作業が向いているでしょう",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ChatGPTやClaude、Geminiといった汎用の生成AIは、特許の公報を1件ずつ収めたデータベースではありません",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIが答える特許番号や発明の内容は、学習した文章やWeb検索の結果から組み立てられたもので、特許庁の公報と照らし合わせた結果とは限らないことになります",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "submitting filings to courts citing nonexistent case law halluci -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mat. However, instead of accessing all the primary sources that",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "connected to a wider body of case law and primary sources. This",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "states that the deadlines set by bankruptcy rules governing the filing of dischargeability",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "law36 0news. com/ 18260 00/ 18261 28/ law360_ pulse - ai_ survey. pdf.",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Fictions: Profiling Legal Hallucinations in Large Language Models.”",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ds/ 2024/ 04/ Task- Force - on- AI- Repor t- draft - 2024- 04- 02- FINAL. pdf.",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "docum ents/ ethics/ Gener ative - AI- Pract ical- Guida nce. pdf.",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "First you turn opinions into machine-readable text. Modern federal opinions are clean, text-based PDFs, so a parser like PyMuPDF or pdfplumber gives you decent text.",
-    "url": "https://www.vaquill.ai/blog/how-ai-legal-research-works-rag",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一次情報へ遡り、二次情報は補助根拠として扱うルールを事前に決めます",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ベンチマークで高得点でも、社内規程に答えられない、応答が遅い、費用が合わないなら採用判断は変わります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各テストケースに合格基準を置き、重要項目が1件でも不合格なら、平均点が高くても公開しないルールを採用します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "指標名を追うのではなく、利用者が求める回答の安全性と、失敗したときの業務影響に結び付けて採用します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIハルシネーション統計 2026：50以上の出典データポイント – Suprmind",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公的な認証制度や学術的な評価スコアではありません",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Large legal fictions: Profiling legal hallucinations in large",
-    "url": "https://arxiv.org/html/2606.00898v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "documents — PDFs, scans, contracts, case files — with hybrid retrieval (BM25 keyword matching plus dense semantic vectors, then reranking), and it answers only from what it finds. Every answer streams in with",
-    "url": "https://lawyers-assistant.github.io/blog/can-you-trust-ai-legal-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Citation precision >= 0.98; citation recall >= 0.95; hallucination rate < 0.01; evaluated on held-out state appellate decisions with Weights & Biases",
-    "url": "https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "12 even in the best setting, and reports a primacy bias in which",
-    "url": "https://www.emergentmind.com/topics/citation-grounding-cg",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "\"required\": [\"bias_assessment\", \"changed_elements\"],",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "\"bias_assessment\": { \"type\": \"string\" },",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「分からない」はVerificationの失敗ではない",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤りの影響が大きいほど、元Source・反対Evidence・Human Reviewまで確認を深くする",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "他者が読む資料や、誤りがOutput品質へ影響する情報では確認を深くします",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Strict Verification｜誤りの影響が大きい・専門性が高い",
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証すべき事項や注意点を明記することで、ハルシネーション（幻覚：AIが事実でない情報を生成する現象）を抑制します",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査においては、以下のような誤りが頻発します：",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. 調査時の注意点",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "⚠️ 注意: これは推定であり、公式分類ブラウザでの検証が必須です",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出力には必ず誤りのリスクがあることを前提に、検証を促す指示をプロンプト内に含めます",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "⚠️ 重要な注意事項：AI出力の限界について",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出力の正確性（検証で誤りが見つかった割合）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "### 7. 調査実施時の注意点",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- [ ] [注意点1]",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- [ ] [注意点2]",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- [ ] [注意点3]",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 10-12点: 高リスク（要注意）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 4-6点: 低リスク（一応注意）",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. ハルシネーション防止の注意書きを含める",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. 注意すべき基本特許・支配的権利者のリスト",
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その方が、絞り込みの失敗による漏れよりも、リカバリーが容易だからです",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIの最大の落とし穴は、ハルシネーション（幻覚）です",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4-5. プロンプト設計の注意点",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ「文章を書く」という業務でも、受け手によって「許容される誤りの水準」がまったく違うのです",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "■ 除外しない注意パターン（見落としやすいケース）",
-    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本弁理士会のガイドラインは、秘密保持規約のない第三者のプラットフォームに情報を載せると新規性を喪失する可能性があると注意を促しています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で、同じヘルプには完全な網羅は保証できないとも書かれているので、注意が必要です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "INPITは、J-PlatPatの利用上の注意として、大量データのダウンロードや、プログラムによる定期的な自動データ収集のようなロボットアクセスを禁止しています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "J-PlatPatの利用上の注意はINPITの公式ページによります（いずれも2026年9月27日確認）",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分類の候補はPMGSで定義を読むまで採用しないという順番を守ると、AIの間違いが検索式に入り込みにくくなるでしょう",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "海外に出願する予定がある場合は、国ごとに例外の扱いが異なる点にも注意が必要です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本弁理士会のガイドラインが示す3つの注意",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本弁理士会は令和7年4月に「弁理士業務AI利活用ガイドライン」を公表し、弁理士が生成AIを業務で使うときの注意を整理しています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で、AIの生成結果を内容の検討・精査もせずにそのままクライアントに提供することは、善管注意義務（民法第644条）に違反する恐れがあるとしています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ガイドラインは著作権への配慮にも触れており、他人の明細書や文献に類似したものを生成させる目的の入力には注意が必要です",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの生成結果を検討・精査せずにそのまま提供することは、善管注意義務に違反する恐れがあるとされています",
-    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the user's mistaken premise—in reality, Justice Ginsburg joined the Court's landmark decision legalizing same- sex marriage—and instead provides",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the introduction of new forms of bias, and lawyers' ultimate",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mistaken understanding of the law",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Fourth, the queries probe for “contrafactual bias,” or the ten -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Perlman 2023; Tan et al. 2023), but contrafactual bias poses a",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Last, to guard against selection bias in our results (i.e., choosing",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tions—in which the query contains a mistaken understanding",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI explained the mistaken premise, and cited the relevant, up -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "wrong doctrine,” a doctrine pertaining to mistake- of- fact in -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "dency to agree with the user even when the user is mistaken",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "lucination rate is not meant to be an unbiased estimate of the",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "exact mistakes that their tools purportedly avoid, companies",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Goddard, K., A. Roudsari, and J. C. Wyatt. 2012. “Automation Bias: A",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Pitfalls of Artificial Intelligence for Legal Applications.” Journal of",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "metadata- citation- 130 The original query was mistakenly trun -",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "流暢な文章ほど誤りに気づきにくいため、出典、数値、前提、権利を分けて確かめる仕組みが欠かせません",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤り、不確実な回答、情報不足による適切な拒否、意見や創作は同じラベルにしません",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "正答率だけを追うと、安全な拒否まで失敗と数え、危険な過剰回答を促してしまうためです",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人の注意力に頼らず、記録を次の検証セットへ戻すことが再発防止になります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現場ログを匿名化して追加すれば、導入後の失敗を事前に見つけやすくなります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "LLM-as-a-Judgeは大量比較に便利ですが、長い回答を高く評価する冗長性バイアスや、評価モデル自身の偏りがあります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "では、回答が誤ったときに検索失敗か生成失敗かを分けて確認します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "指標名を追うのではなく、利用者が求める回答の安全性と、失敗したときの業務影響に結び付けて採用します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず失敗質問を「見つからない」「不要文書が多い」「根拠はあるが誤生成」に分類します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため変更前後の代表質問、失敗質問、高リスク質問を実行し、合格基準を満たした場合だけ本番へ反映します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に「簡潔に答える」という修正は、根拠や注意書きまで削ることがあります",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAG運用の監視では、正答率だけでなく、根拠なし回答率、回答拒否率、検索失敗率、応答時間、利用者からの訂正件数を追います",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証で誤りが見つかったら、出典差し替え、プロンプト修正、再評価、利用者通知までを一連の手順として実行します",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答、情報源、検索、プロンプト、運用ログをつなぎ、誤りを早く発見して安全に改善するための業務設計です",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まずは頻出質問、失敗しやすい質問、高リスク質問を含む小規模なセットから始めます",
-    "url": "https://alion.jp/posts/ai-output-validation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に注意したいのは、3つ目の「出典と説明が一致しない」問題です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここで注意したいのが、日付の種類です",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、AI自身が新たな誤りを生成する可能性もあります",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法",
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Tobias Schimanski, Jingwei Ni, Mathias Kraus, and Markus Leippold.",
-    "url": "https://arxiv.org/html/2606.00898v1",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Deployment is governed by a rigorous evaluation framework using",
@@ -3091,6 +2537,560 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2．技術的なポイントは、分解・検索・引用検証の3つ",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "したがって、検証は二段階に分けたいと思います",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クレーム解釈 → 候補発見 → 収集・保全 → 索引・検索 → 要素対比 → 引用検証 → 人のレビュー",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※本稿は文献・公開情報に基づく設計検討であり、実運用での精度や工数削減を検証した報告ではありません",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "P5 証拠箇所抽出 ─▶ P6 要素充足判定 ─▶ P7 グラウンディング検証 ─▶ P8 複数ジャッジ統合",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "`{{OUTPUT_MODE}}=json` とし、付録AのJSONスキーマで構造化出力（またはスキーマ検証）を行う",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- §112(f) の推定（\"means for\" は推定あり、\"configured to\" 等は構造を示す語かどうか）を要件ごとに",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クエリは事実の主張ではなく探索のための仮説である",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの回答、どこまで確認する？ 出典・数字・引用を検証する5つのチェック｜とある博士学生",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの回答、どこまで確認する？ 出典・数字・引用を検証する5つのチェック",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元Sourceの該当箇所と並べると照合しやすくなります",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎回すべてを最大強度で検証すると、AIを使うBenefitよりVerification Costの方が大きくなる場合があります",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大きな矛盾や、利用に必要な重要Factを中心に確認します",
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証すべき事項や注意点を明記することで、ハルシネーション（幻覚：AIが事実でない情報を生成する現象）を抑制します",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証指示を含むプロンプト：ハルシネーション率 23%",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階的思考＋検証指示プロンプト：ハルシネーション率 8%",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "❌ 特許番号や分類コードの確定的な提示（検証が必須）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【Step 3: 分類推定】",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1, 2の分析に基づき、関連する特許分類を推定してください：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚠️ 注意: これは推定であり、公式分類ブラウザでの検証が必須です",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【Step 5: 検証計画】",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記で生成した情報の検証方法を提案してください：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 特許分類の検証方法（使用するデータベース・ツール）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出力には必ず誤りのリスクがあることを前提に、検証を促す指示をプロンプト内に含めます",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- すべての提案には「要検証」の注記を付けてください",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2層：検証方法の指示（プロンプト内に含める）",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あなたの回答には、必ず以下の検証方法を付記してください：",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 特許番号の検証方法",
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまり、品質は「1回の試行の精度」ではなく、次の掛け算で決まるようになりました",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮説を立て、検証し、学びを次に活かす実験設計の能力",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2-4. 「検証予算（V）」という新しいパラメータ",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「読む上限（N）」ではなく「検証できる上限（V）」",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予算 → 検証工数 → 検証できる件数V → 証拠母集団の上限",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、人間が最終的に責任を持って原文を確認（検証）できる件数には限りがあります",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証予算Vは、以下の要素で構成されます",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ポイントは、「人が読む上限N」の代わりに、「人が検証できる上限V」を設計パラメータにすることです",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これにより、AIによる処理件数（参照母集団のサイズ）と、人間の検証コスト（証拠母集団のサイズ）を、",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この2つが欠けた報告書は、後から検証できず、意思決定にも使えない「死んだ文書」になってしまいます",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・検証方法：全ての引用箇所について原文PDFと照合し、正確性を確認",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ところが、その番号が実在しない、実在しても中身が違う、権利がすでに消滅している、といった食い違いが起こりえます",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キーワードと分類で作った母集団と、類似検索の結果を突き合わせて漏れを確かめる使い方が無難です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "関係なしと判定された公報の中にも取りこぼしが混じるため、一部を抜き出して人が読み、AIの判定と食い違いがないかを確かめる手順を入れてください",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判定基準は公報側の技術の特徴で書き、自社の発明と突き合わせる工程は、後で説明する入力先の区分に沿って行いましょう",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・関係なし判定からの抜き取り件数と、食い違いの件数：",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・件数は一覧から数えた数だけを書き、推計はしないでください",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが示した公報番号と引用は、J-PlatPatの原文で1件ずつ照合するまで使わないでください",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食い違いが1件でも見つかったときは、その公報がなぜ関係なしと判定されたのかをAIの理由欄で確かめてみてください",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公報番号の照合、引用の確認、抜き取りの精読は、どれも人の手で行う作業です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2つのAIで判定を突き合わせる",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "答えが一致したから正しいとは言えませんが、食い違いは人が見るべき箇所の目印になるでしょう",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作業を2つに分け、公報側の整理はどこでも、自社の発明との突き合わせは会社契約の環境か人の手で、と切り分けるのが無理のない進め方です",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれも各社の自己申告で、第三者が検証した結果ではありません",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "符号と部材名の対応は取り違えが起きやすいため、図面と1つずつ突き合わせる確認を省かないようにしましょう",
+    "url": "https://coplus-one.jp/tokkyo-chosa-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "which lawyers turn to generative AI. Our estimate of the hal -",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lucination rate is not meant to be an unbiased estimate of the",
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI出力検証で信頼できる回答を運用する方法",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "開発担当だけでなく、承認者や現場利用者が共有できる検証フローを整えましょう",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "顧客データを扱う場合は、入力内容も検証対象です",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人の注意力に頼らず、記録を次の検証セットへ戻すことが再発防止になります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、文書を大量投入することではなく、仮説を一つずつ検証することです",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "とは、内部の推論をもっともらしく語らせることではなく、利用者が回答を検証・判断できる根拠を示すことです",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "監査担当は検証記録と変更履歴を確認することで、単一担当者に判断が集中するリスクを減らせます",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社外へ出す回答には、検証済みの日時、対象となる文書版、承認者を記録します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証済みロゴだけを表示するのではなく、後から根拠と判断過程を追跡できることが信頼につながります",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全社のあらゆる文書を一度にRAG化するより、回答責任と根拠が明確な領域で検証サイクルを確立できます",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証で誤りが見つかったら、出典差し替え、プロンプト修正、再評価、利用者通知までを一連の手順として実行します",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証対象数、不合格件数、訂正までの時間、再発件数を記録し、",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI出力検証は、生成AIの回答を疑うためだけの作業ではありません",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q1. AI出力検証は誰が担当すべきですか？",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q5. 検証で誤りを見つけた後は何をすべきですか？",
+    "url": "https://alion.jp/posts/ai-output-validation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、初心者でも取り組みやすい7つの検証方法を解説します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが提示した出典を検証する7つの方法",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "方法3：資料名・著者・発行年を照合する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ3：検証結果を整理する",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、今回紹介する検証方法の中でも特に重要です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※これは検証方法を説明するための架空の例です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際のアプリや検証実験の結果ではありません",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "必要に応じて第三者による検証記事も参考にします",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※以下の主張は検証手順を説明するために設定したものです",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証作業を終えたら、確認できた範囲を記録します",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -3102,12 +3102,32 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
+    "url": "https://note.com/tasty_dunlin998/n/nfca926337175",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
+    "url": "https://note.com/k314y/n/n89ff199943b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/auverimo/n/n7c48e409762f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/ncfedae3684d7",
     "status": "ok",
     "method": "http"
    },
@@ -3117,17 +3137,22 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "url": "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jpo.go.jp/faq/yokuaru/patent/inyouhitokkyobunnkennqa.html",
+    "url": "https://note.com/tsunobuchi/n/ne2e188e3b847",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chizai-jj-lab.com/2022/11/25/1125/",
     "status": "ok",
     "method": "http"
    },
@@ -3152,6 +3177,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://nihon-ir.jp/generative-ai_patent-search_chemical1/",
     "status": "ok",
     "method": "http"
@@ -3162,14 +3192,19 @@
     "method": "http"
    },
    {
-    "url": "https://chizai-jj-lab.com/2022/11/25/1125/",
+    "url": "https://www.jpo.go.jp/resources/shingikai/sangyo-kouzou/shousai/kijun_wg/document/17-shiryou/003.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.omni-pat.com/archives/precedent_domestic/%EF%BC%88%E7%9F%A5%E8%B2%A1%E9%AB%98%E8%A3%81%E3%80%81%E7%89%B9%E8%A8%B1%EF%BC%89%E5%BC%95%E7%94%A8%E7%99%BA%E6%98%8E%E3%81%8C%E6%9C%AC%E9%A1%98%E7%99%BA%E6%98%8E%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://proceedings-of-deim.github.io/DEIM2023/3a-1-4.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
@@ -3207,22 +3242,43 @@
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） site:note.com",
    "results": [
-    "https://note.com/tsunobuchi/n/nb8ca80cd6249"
-   ]
+    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "https://note.com/tasty_dunlin998/n/nfca926337175",
+    "https://note.com/k314y/n/n89ff199943b6",
+    "https://note.com/auverimo/n/n7c48e409762f",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "https://note.com/zeronin_keiei/n/nb72b7892a5f3",
+    "https://note.com/modecchi/n/nb18b4dae6429",
+    "https://note.com/hulk_kei/n/ndb03de89e5a7",
+    "https://note.com/kadonashi/n/n889a305455f5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
   },
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） note",
    "results": [
     "https://note.com/tsunobuchi/n/nb8ca80cd6249",
     "https://note.com/tsunobuchi/n/ncfedae3684d7",
-    "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
     "https://note.com/tsunobuchi/n/nfa83993cdf28",
-    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
-    "https://www.jpo.go.jp/faq/yokuaru/patent/inyouhitokkyobunnkennqa.html",
+    "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
+    "https://note.com/tsunobuchi/n/ne2e188e3b847",
     "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "https://chizai-jj-lab.com/2022/11/25/1125/",
-    "https://note.com/tsunobuchi/n/ne2e188e3b847"
-   ]
+    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "https://proceedings-of-deim.github.io/DEIM2023/3a-1-4.pdf",
+    "https://sophiate.co.jp/ragで根拠（引用）を必ず出す方法：社内利用で信/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） やり方",
@@ -3235,8 +3291,14 @@
     "https://www.jpo.go.jp/resources/report/sonota/service/document/h28-minkan/03.pdf",
     "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
     "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
-    "https://nihon-ir.jp/generative-ai_patent-search_chemical1/"
-   ]
+    "https://nihon-ir.jp/generative-ai_patent-search_chemical1/",
+    "https://sophiate.co.jp/ragで根拠（引用）を必ず出す方法：社内利用で信/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） 事例",
@@ -3246,11 +3308,15 @@
     "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
     "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
     "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
-    "https://www.jpo.go.jp/faq/yokuaru/patent/inyouhitokkyobunnkennqa.html",
-    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
     "https://chizai-jj-lab.com/2022/11/25/1125/",
-    "https://www.omni-pat.com/archives/precedent_domestic/%EF%BC%88%E7%9F%A5%E8%B2%A1%E9%AB%98%E8%A3%81%E3%80%81%E7%89%B9%E8%A8%B1%EF%BC%89%E5%BC%95%E7%94%A8%E7%99%BA%E6%98%8E%E3%81%8C%E6%9C%AC%E9%A1%98%E7%99%BA%E6%98%8E%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92"
-   ]
+    "https://www.jpo.go.jp/resources/shingikai/sangyo-kouzou/shousai/kijun_wg/document/17-shiryou/003.pdf",
+    "https://www.omni-pat.com/archives/precedent_domestic/%EF%BC%88%E7%9F%A5%E8%B2%A1%E9%AB%98%E8%A3%81%E3%80%81%E7%89%B9%E8%A8%B1%EF%BC%89%E5%BC%95%E7%94%A8%E7%99%BA%E6%98%8E%E3%81%8C%E6%9C%AC%E9%A1%98%E7%99%BA%E6%98%8E%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92",
+    "https://proceedings-of-deim.github.io/DEIM2023/3a-1-4.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "quote grounding verification extracted citation exists in source text RAG hallucination legal research",
@@ -3263,26 +3329,70 @@
     "https://www.vaquill.ai/blog/how-ai-legal-research-works-rag",
     "https://bulletin.chicagolawlib.org/2025/11/detecting-ai-hallucinations-in-legal-materials/",
     "https://servient.com/guides/agentic-legal-research/ai-hallucination-legal-research",
-    "https://www.dataiku.com/blog/grounding-verification-in-ai"
-   ]
+    "https://www.dataiku.com/blog/grounding-verification-in-ai",
+    "https://arxiv.org/html/2606.00898v1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:note.com 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）",
    "results": [
-    "https://note.com/tsunobuchi/n/nb8ca80cd6249"
-   ]
+    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "https://note.com/tasty_dunlin998/n/nfca926337175",
+    "https://note.com/auverimo/n/n7c48e409762f",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://note.com/k314y/n/n89ff199943b6",
+    "https://note.com/toaru_hakase/n/n6aed01d88f0c",
+    "https://note.com/hacklog_stealth/n/n304fd0165b84",
+    "https://note.com/zeronin_keiei/n/nb72b7892a5f3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:x.com 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）",
-   "results": []
+   "results": [
+    "https://x.com/dansyu_callenge/status/2049960495218921859",
+    "https://x.com/masa_ai_med/status/2109470240975503632",
+    "https://x.com/OWATA_YT/status/2114138368191975735",
+    "https://x.com/koshi999991/status/2066652693108756728",
+    "https://x.com/suna_gaku/status/2086627997059301814",
+    "https://x.com/kebura_P/status/2114736189441991027",
+    "https://x.com/kwuc_kenjiro/status/2088963321760469343"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）",
-   "results": []
+   "results": [
+    "https://jp.linkedin.com/pulse/retrieval-beyond-rag-every-problem-needs-embeddings-raahil-modi-ijfkf?tl=ja",
+    "https://www.linkedin.com/pulse/complete-2026-guide-modern-rag-architectures-how-retrieval-pathan-rx1nf",
+    "https://jp.linkedin.com/pulse/notebooklmで出力された内容の参照元を確認する-憲孝-田村-vlsrc",
+    "https://www.linkedin.com/posts/mdpi-japan_生成aiが提示した参考文献には存在しない論文だけでなく書誌情報の誤りや本文の-activity-7521018029091024896-zMbK",
+    "https://jp.linkedin.com/pulse/battling-ai-hallucinations-can-we-trust-citations-gaburro-phd-ccc-vuenf?tl=ja",
+    "https://jp.linkedin.com/pulse/aiは便利だが責任は人間にある-米国裁判所が示した生成ai時代の実務ルール-太一-遠藤-clf2c",
+    "https://jp.linkedin.com/posts/君子-亀田-39829123b_編集後記-文章の美しさよりも構造の強さが問われる時代へ-今回ご紹介する-activity-7434460396121518080-Lm1-"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）",
-   "results": []
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） note 社長",
@@ -3290,13 +3400,19 @@
     "https://note.com/tsunobuchi/n/nfa83993cdf28",
     "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
     "https://www.ipbizsolutions.com/post/%E7%94%9F%E6%88%90ai%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%89%B9%E8%A8%B1%E9%96%A2%E9%80%A3%E6%9B%B8%E9%9D%A2%E3%81%AE%E8%AA%A4%E5%BC%95%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6uspto%E3%81%AE%E5%88%A4%E6%96%AD",
-    "https://note.com/tsunobuchi/n/n431e327e44fc",
-    "https://www.jpo.go.jp/faq/yokuaru/patent/inyouhitokkyobunnkennqa.html",
-    "https://www.omni-pat.com/archives/precedent_domestic/%EF%BC%88%E7%9F%A5%E8%B2%A1%E9%AB%98%E8%A3%81%E3%80%81%E7%89%B9%E8%A8%B1%EF%BC%89%E5%BC%95%E7%94%A8%E7%99%BA%E6%98%8E%E3%81%8C%E6%9C%AC%E9%A1%98%E7%99%BA%E6%98%8E%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92",
     "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://note.com/tasty_dunlin998/n/nfca926337175",
+    "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
+    "https://www.omni-pat.com/archives/precedent_domestic/%EF%BC%88%E7%9F%A5%E8%B2%A1%E9%AB%98%E8%A3%81%E3%80%81%E7%89%B9%E8%A8%B1%EF%BC%89%E5%BC%95%E7%94%A8%E7%99%BA%E6%98%8E%E3%81%8C%E6%9C%AC%E9%A1%98%E7%99%BA%E6%98%8E%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92",
+    "https://academy.claude.com/ja/use-cases/legal-research-memo",
     "https://proceedings-of-deim.github.io/DEIM2023/3a-1-4.pdf",
-    "https://academy.claude.com/ja/use-cases/legal-research-memo"
-   ]
+    "https://sophiate.co.jp/ragで根拠（引用）を必ず出す方法：社内利用で信/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務） X 投稿",
@@ -3309,54 +3425,38 @@
     "https://www.youtube.com/watch?v=_y1D15pGaLA",
     "https://qiita.com/YushiYamamoto/items/f54cd4bb3d9dc659ca7a",
     "https://chizai-jj-lab.com/2022/11/25/1125/",
-    "https://shop.zimaspace.com/ja/blogs/tech-ai-hub/citation-span-alignment-why-matters-rag-evidence?srsltid=AYCX9vK_lwdwVZyGJv-pABCU0aDO6Y6PfbTYZskXmNNVqXMaXZTgTv7O"
-   ]
+    "https://shop.zimaspace.com/ja/blogs/tech-ai-hub/citation-span-alignment-why-matters-rag-evidence?srsltid=AYCX9vKzszklqRfcG5q19r4eCa8WO5Ph2CBZE9cZOfoCxFZoCEPmf_ki",
+    "https://sophiate.co.jp/ragで根拠（引用）を必ず出す方法：社内利用で信/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "quote grounding verification extracted citation exists in source text RAG hallucination legal research site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/jennifer-case-1b5486b_lets-talk-hallucinations-damien-charlotin-activity-7467592896980897792-cgOi",
-    "https://www.linkedin.com/pulse/building-legal-ai-guardrails-knowledge-graphs-hemanth-kumar-mwvqc",
     "https://www.linkedin.com/posts/joshuaupinesq_harvey-done-lost-its-artificial-mind-this-activity-7444453955620798464-WNRz",
     "https://www.linkedin.com/pulse/ai-legal-problem-nobody-talking-more-dangerous-than-kalim-ullah-101if",
+    "https://www.linkedin.com/pulse/building-legal-ai-guardrails-knowledge-graphs-hemanth-kumar-mwvqc",
     "https://www.linkedin.com/posts/intuceo_ai-powered-semantic-search-for-legal-documents-activity-7492958008377839616-SciJ",
     "https://www.linkedin.com/top-content/artificial-intelligence/explainable-ai-tools/ai-hallucinations-and-their-legal-implications/",
     "https://www.linkedin.com/pulse/ai-hallucinations-down-96-legal-exception-dorna-moini-ndlec",
-    "https://www.linkedin.com/pulse/beware-poisonedrag-hidden-danger-ai-legal-practice-amy-swaner-kjl5c",
     "https://www.linkedin.com/pulse/ai-hallucinations-when-artificial-intelligence-gets-wrong-aleem-falsf",
-    "https://www.linkedin.com/posts/benjamindsexton_retrieval-augmented-generation-rag-is-the-activity-7371882831435898880-QjX2"
-   ]
+    "https://www.linkedin.com/posts/benjamindsexton_retrieval-augmented-generation-rag-is-the-activity-7371882831435898880-QjX2",
+    "https://www.linkedin.com/pulse/beware-poisonedrag-hidden-danger-ai-legal-practice-amy-swaner-kjl5c"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "be reflected in future conversations about how to responsibly",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "lyze situations with an IRAC framework—first identify the issue",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ical step prior to querying its database, thereby ending up with",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "framework for chat- based interfaces, the evaluation for more",
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 7,
+ "new_this_run": {},
+ "runs": 8,
  "first_researched_at": "2026-11-06T12:09:21.706339+00:00"
 }
