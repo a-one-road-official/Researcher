@@ -1,0 +1,1253 @@
+{
+ "name": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
+ "en": "business survey unit response rate vs quantity response rate imputation share large units",
+ "aliases": [
+  "企業調査 回答率 加重 回答率 大企業 占める",
+  "quantity response rate business survey TQRR",
+  "事業所調査 補完 割合 推計 精度"
+ ],
+ "context": "失敗・落とし穴",
+ "kind": "market",
+ "researched_at": "2026-11-07T22:04:20.743611+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "certainty, account for 47 percent of the total estimate.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "data used to develop the publication estimate, including imputed data and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The total quantity response rate (TQRR) is defined as the percentage of the estimated",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "item-level indicator of the “quality” of each estimate. In contrast to the URR, these weighted",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TQRR for a particular estimate, it is necessary to determine the source of the final tabulated",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "An estimate with a coefficient of variation (CV) greater than 30 percent, with a TQRR less than",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "unless the estimate has consistently been published for prior years and the CV and TQRR are",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "acceptably close to the thresholds. A suppressed estimate and its corresponding measure of",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "context of a nonresponse bias analysis study.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "perspective for monitoring them. We illustrate this approach with examples from ongoing",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "that is unusual and in many cases unexpected. Moreover, control charts are useful because",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "they show what a process is capable of – for example, providing evidence that a given",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "target value. In the latter case, some form of modiﬁcation of the process would be required",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sampling rates; and (3) sample the remaining cases with very low sampling rates (usually",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "less than 0.01). As a result, sampled cases with large design weights often contribute very",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To avoid overrepresentation of such small cases in computation, the URR is computed",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the certainty or large noncertainty cases, making URR an inconsistent indicator of data",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "nonresponding cases contribute very little to the total tabulation so that the TQRR value",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is approximately 93%. These examples demonstrate how the more consistent measures",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "constructed units. Examples of survey units for different economic programs include",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "parts of the business or other entity type. For example, a large, diverse company in a company-",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A tabulation unit houses the data used for estimation (or tabulation, in the case of a census). As",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "operates. In this case, the tabulation unit represents a portion of a survey unit. For AWTS, the",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, an annual program might collect data on the prior year’s business activity; the",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rates within the statistical process control framework. Current procedures typically",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/humble_crane7701/n/n917c11401561",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n509e3f985875",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/comix_ceo162230/n/ncb862b9364fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qiqumo/n/nbd0bd5fb4f54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linx-corp.com/blog/survey-response-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tayori.com/blog/survey-rate-tips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.neo-m.jp/column/marketing-research_151_enquete-response-rate-up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macromill.com/service/column/entry-080/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://freeasy24.research-plus.net/blog/survey-response-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unii-research.com/business/media/survey-responserate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markecchi-lab.com/research-responserate/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lifestyle.assist-all.co.jp/survey-analysis-visualization-report-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smilesurvey.jp/contents/knowledge/no57/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nces.ed.gov/FCSM/pdf/IHSNG_ASA02_finalrad9A6D5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/osmr/response-rates/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aapor.org/response-rates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2384218/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） site:note.com",
+   "results": [
+    "https://note.com/humble_crane7701/n/n917c11401561",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/kagawatomo/n/n509e3f985875",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/comix_ceo162230/n/ncb862b9364fc",
+    "https://note.com/kagawatomo/n/n74ea6752ae25",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/kagawatomo/n/nab03732233e5",
+    "https://note.com/reading_monkey/n/n6f7508910f9f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） note",
+   "results": [
+    "https://note.com/qiqumo/n/nbd0bd5fb4f54",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://linx-corp.com/blog/survey-response-rate/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://tayori.com/blog/survey-rate-tips/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "https://markecchi-lab.com/research-responserate/",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） やり方",
+   "results": [
+    "https://corp.neo-m.jp/column/marketing-research_151_enquete-response-rate-up",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://www.webcas.jp/formulator/knowhow/valid-respondents/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/analysis/questionnaire_collection_rate/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://www.macromill.com/service/column/entry-080/",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://tayori.com/blog/survey-rate-tips/",
+    "https://freeasy24.research-plus.net/blog/survey-response-rate"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） 事例",
+   "results": [
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.medallia.com/ja/blog/how-to-boost-survey-response-rates/",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://markecchi-lab.com/research-responserate/",
+    "https://www.macromill.com/service/column/entry-080/",
+    "https://tayori.com/blog/survey-rate-tips/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_rate/",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "business survey unit response rate vs quantity response rate imputation share large units",
+   "results": [
+    "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "https://nces.ed.gov/FCSM/pdf/IHSNG_ASA02_finalrad9A6D5.pdf",
+    "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "https://www.bls.gov/osmr/response-rates/",
+    "https://aapor.org/response-rates/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2384218/",
+    "https://www.kantar.com/Inspiration/Research-Services/what-is-a-good-survey-response-rate-pf",
+    "https://www.snapsurveys.com/blog/importance-calculating-survey-response-rate/",
+    "https://www.qualtrics.com/articles/strategy-research/tools-increase-response-rate/",
+    "https://www.researchgate.net/publication/289815340_Response_Rates_in_Business_Surveys_Going_Beyond_the_Usual_Performance_Measure"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
+   "results": [
+    "https://note.com/humble_crane7701/n/n917c11401561",
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/nec_iise/n/n918b283b59d5",
+    "https://note.com/kengomori/n/n2974437d650d",
+    "https://note.com/career_nic/n/n888c72cb7e82",
+    "https://note.com/hisaya_amano/n/n58af108e789e",
+    "https://note.com/seikahaibun/n/n40f1e0202b4a",
+    "https://note.com/iqoys/n/na14b42ab12a6",
+    "https://note.com/diggle/n/nf4ec4bd03f3b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
+   "results": [
+    "https://x.com/k_koga555/status/2116277340057776210",
+    "https://x.com/FABYMETAL4/status/1882040847254094103?lang=ar",
+    "https://x.com/FABYMETAL4/status/2115905256714535388",
+    "https://x.com/k_koga555/status/2118099719805378815",
+    "https://x.com/indbgraphreport",
+    "https://x.com/jpx_JQuants/status/2089988777746063564",
+    "https://x.com/zakiryo1533/article/2084636113227132978",
+    "https://x.com/_mayumayu13/article/2069188008511943145",
+    "https://x.com/jftc",
+    "https://x.com/marikomabuchi/status/1807336025863389399"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
+   "results": [
+    "https://jp.linkedin.com/pulse/trade-to-gdp-wrong-gauge-openness-richard-baldwin-ufu1e?tl=ja",
+    "https://www.linkedin.com/posts/sumitomocorporation-globalresearch_%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88-activity-7504163917749735424-swPp",
+    "https://jp.linkedin.com/pulse/evolve-capital-partners-attends-iti-heres-what-we-saw-evolvecapital-zjnvc?tl=ja",
+    "https://www.linkedin.com/posts/raquel-villaca%C3%B1a-b229056_futureofwork-workrelationshipindex-aiunlocksourhumanpotential-activity-7515991131344711680--TMe",
+    "https://jp.linkedin.com/pulse/essential-aec-firm-kpis-every-principal-should-track-sdanational-qz9zc?tl=ja",
+    "https://jp.linkedin.com/pulse/whos-left-10x-arr-club-incredible-shrinking-elite-public-lemkin-l1vjc?tl=ja",
+    "https://jp.linkedin.com/pulse/ode-restraint-lessons-from-tim-cook-legacy-apple-aswath-damodaran-mz8bc?tl=ja",
+    "https://jp.linkedin.com/pulse/week-ai-anthropic-nears-1-trillion-opus-48-illinois-sets-djon-kleine-jbtvf?tl=ja",
+    "https://www.linkedin.com/in/takuya-katayama-35b04614",
+    "https://jp.linkedin.com/company/spirit-advisors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）",
+   "results": [
+    "https://www.facebook.com/hitoyoshishi/posts/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9%E3%81%AE%E8%AA%BF%E6%9F%BB%E5%93%A1%E3%82%92%E5%8B%9F%E9%9B%86%E4%B8%AD%E5%B8%82%E5%86%85%E3%81%AE%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%B8%E8%AA%BF%E6%9F%BB%E7%A5%A8%E3%82%92%E9%85%8D%E5%B8%83%E5%9B%9E%E5%8F%8E%E3%81%99%E3%82%8B%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E6%9C%AA%E7%B5%8C%E9%A8%93ok%EF%B8%8F%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%93%E5%88%B6%E3%82%82%E5%85%85%E5%AE%9F%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9C%9F%E9%96%93r85%E6%9C%886%E6%9C%88%E6%9C%AB%E5%A0%B1%E9%85%AC%E7%9B%AE%E5%AE%896%E4%B8%87%E5%86%86%E7%A8%8B%E5%BA%A6%E7%94%B3%E8%BE%BC/1311718904324415/",
+    "https://www.facebook.com/toshihito.kumagai/photos/29056104500699015/",
+    "https://www.facebook.com/camarajaponesapy/?locale=da_DK",
+    "https://www.facebook.com/cgtnjapanese/posts/5%E5%B9%B4%E9%96%93%E3%81%A7%E7%B4%AF%E8%A8%88%E7%B4%8430%E5%85%86%E5%85%83-%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E5%AF%BE%E5%A4%96%E8%B2%BF%E6%98%93%E8%A6%8F%E6%A8%A1%E3%81%AF%E7%9D%80%E5%AE%9F%E3%81%AB%E6%8B%A1%E5%A4%A7%E5%B1%B1%E6%9D%B1%E7%9C%81%E6%B8%88%E5%8D%97%E7%A8%8E%E9%96%A2%E3%81%AE%E7%B5%B1%E8%A8%88%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A82021%E5%B9%B4%E3%81%8B%E3%82%892025%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE5%E5%B9%B4%E9%96%93%E3%81%A7%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E8%BC%B8%E5%87%BA%E5%85%A5%E7%B7%8F%E9%A1%8D%E3%81%AF29%E5%85%869500/1469273338676258/",
+    "https://www.facebook.com/akihisa.shiozaki/posts/3%E6%9C%8819%E6%97%A5%E8%87%AA%E6%B0%91%E5%85%9A%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E6%9C%AC%E9%83%A8%E3%81%8C%E9%96%8B%E3%81%8B%E3%82%8C%E4%BC%81%E6%A5%AD%E7%B5%B1%E6%B2%BB%E3%81%A8%E6%8A%95%E8%B3%87%E3%81%AE%E4%BF%83%E9%80%B2%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E6%B4%BB%E7%99%BA%E3%81%AA%E8%AD%B0%E8%AB%96%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AA%E3%81%9C%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%AF%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87%E3%82%84%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%B8%E3%81%AE%E5%88%86%E9%85%8D%E3%82%92%E6%80%A0%E3%82%8A%E8%87%AA%E7%A4%BE%E6%A0%AA%E8%B2%B7%E3%81%84%E3%82%84%E9%85%8D%E5%BD%93%E3%81%B0%E3%81%8B%E3%82%8A/10163429420852950/",
+    "https://www.facebook.com/yasushi.hosaka.7/posts/%E5%BF%97%E6%9C%A8%E5%B8%82%E3%81%AE%E6%9F%B3%E7%80%AC%E5%B7%9D%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AF%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E5%AD%90%E4%BE%9B%E3%81%AE%E8%AA%AD%E6%9B%B8%E6%B4%BB%E5%8B%95%E5%84%AA%E7%A7%80%E5%AE%9F%E8%B7%B5%E5%9B%B3%E6%9B%B8%E9%A4%A8-%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E5%A4%A7%E8%87%A3%E8%A1%A8%E5%BD%B0%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E4%BB%A4%E5%92%8C%EF%BC%95%E5%B9%B4%E5%BA%A6%E3%81%8B%E3%82%89%E5%85%83%E6%A0%A1%E9%95%B7%E3%81%AE%E6%96%B9%E3%82%92%E5%AD%A6%E6%A0%A1%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BA%8B%E6%A5%AD%E6%8E%A8%E9%80%B2%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E9%85%8D/29101156569516165/",
+    "https://www.facebook.com/noriaki.imai/",
+    "https://www.facebook.com/matsuo.akihito/posts/bmw%E5%86%8D%E8%B5%B7%E3%82%92%E6%96%B0%E5%9E%8Bev%E3%81%AB%E8%A8%97%E3%81%99%E4%B8%AD%E5%9B%BD%E3%81%A7%E8%8B%A6%E6%88%A6%E3%81%99%E3%82%8B%E9%AB%98%E7%B4%9A%E8%BB%8A%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-10%E6%9C%883%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8bmw%E3%81%8C%E4%B8%AD%E5%9B%BD%E3%81%A7%E3%81%AE%E8%B2%A9%E5%A3%B2%E4%B8%8D%E6%8C%AF%E3%82%92%E5%8F%97%E3%81%91%E6%96%B0%E5%9E%8Bev%E3%81%A8%E7%B5%84%E7%B9%94%E6%94%B9%E9%9D%A9%E3%81%AB%E3%82%88%E3%82%8B%E7%AB%8B%E3%81%A6%E7%9B%B4%E3%81%97%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/28681188534834641/",
+    "https://www.facebook.com/groups/627324771859424/posts/1494389375152955/",
+    "https://www.facebook.com/camarajaponesapy/posts/%E6%97%A5%E6%9C%AC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A2%E3%81%A8%E3%83%88%E3%83%9E%E3%82%B9%E3%83%AD%E3%83%A1%E3%83%AD%E3%83%9A%E3%83%AC%E3%82%A4%E3%83%A9%E3%81%AE%E5%9B%A3%E4%BD%93%E3%81%B819%E4%B8%875000%E3%83%89%E3%83%AB%E3%82%92%E5%AF%84%E4%BB%98%E3%81%B8abc-%E3%82%B3%E3%83%AD%E3%83%BC%E3%83%AB%E7%B4%99%E6%8A%84%E8%A8%B3-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E3%81%AF%E5%9B%BD%E5%86%85%E3%81%AE2%E3%81%A4%E3%81%AE%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%95%B4%E5%82%99%E3%81%8A%E3%82%88%E3%81%B3%E5%AE%89%E5%85%A8%E6%80%A7%E3%81%AE/1377291027759329/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） note 社長",
+   "results": [
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/02toukatsu01_03000127.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204926",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://blog.hubspot.jp/service/questionnaire-collection-rate",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合） X 投稿",
+   "results": [
+    "https://surveroid.jp/mr-journal/survey_design/nWDvw",
+    "https://webtan.impress.co.jp/e/2008/05/16/3080",
+    "https://tayori.com/blog/survey-rate-tips/",
+    "https://www.nttcoms.com/service/mobileweb/column/20211117/",
+    "https://unii-research.com/business/media/survey-responserate/",
+    "https://corp.neo-m.jp/column/marketing-research_162_webenquete-response-rate",
+    "https://jp.surveymonkey.com/curiosity/how-many-people-do-i-need-to-take-my-survey/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
+    "https://www.cross-m.co.jp/column/marketing/util81",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0102.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "business survey unit response rate vs quantity response rate imputation share large units site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
+    "https://www.linkedin.com/in/giulianopezzoli",
+    "https://ir.linkedin.com/in/mehdi-azizmohammad-looha-0307aa130",
+    "https://www.linkedin.com/in/alex-farach",
+    "https://www.linkedin.com/in/joelpersson",
+    "https://www.linkedin.com/in/seth-carter-a84695146",
+    "https://www.linkedin.com/in/isabella-jiang-45a3b0283",
+    "https://www.linkedin.com/in/hammed-olayinka-254886158",
+    "https://www.linkedin.com/in/harshal-amin",
+    "https://www.linkedin.com/in/israel-agaku-8179882b8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "key estimates reported by responding units or obtained from equivalent quality sources",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "53 percent of the total estimate (value). The remaining four units, which are selected with",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "certainty, account for 47 percent of the total estimate.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "payroll, capital expenditures) to account for the unit’s relative importance in the estimates",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "improve the quality of the estimates. Analysts strive to reduce imputation rates for all key",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "expected to contribute substantially to the estimate, followed by intensive analyst research",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Ry is the weighted estimate obtained by summing reported data for item y in the",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Ay is the weighted estimate obtained by summing equivalent source data (auxiliary",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Y is the estimated (weighted) total of the item in the statistical period. It includes all",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "data used to develop the publication estimate, including imputed data and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "measures at that point in time of the proportion of the estimate that was not imputed. In this",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ratio of correlated random variables and that the point estimates in the time series are not",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and covariance estimates used in analysis must account for the complex survey design, if",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The total quantity response rate (TQRR) is defined as the percentage of the estimated",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "item-level indicator of the “quality” of each estimate. In contrast to the URR, these weighted",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TQRR for a particular estimate, it is necessary to determine the source of the final tabulated",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "An estimate with a coefficient of variation (CV) greater than 30 percent, with a TQRR less than",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "unless the estimate has consistently been published for prior years and the CV and TQRR are",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "acceptably close to the thresholds. A suppressed estimate and its corresponding measure of",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "context of a nonresponse bias analysis study.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "perspective for monitoring them. We illustrate this approach with examples from ongoing",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "that is unusual and in many cases unexpected. Moreover, control charts are useful because",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "they show what a process is capable of – for example, providing evidence that a given",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "target value. In the latter case, some form of modiﬁcation of the process would be required",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimated totals originating from a small set of cases. Consequently, the majority of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sampling rates; and (3) sample the remaining cases with very low sampling rates (usually",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "less than 0.01). As a result, sampled cases with large design weights often contribute very",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To avoid overrepresentation of such small cases in computation, the URR is computed",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the certainty or large noncertainty cases, making URR an inconsistent indicator of data",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "nonresponding cases contribute very little to the total tabulation so that the TQRR value",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is approximately 93%. These examples demonstrate how the more consistent measures",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "constructed units. Examples of survey units for different economic programs include",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "parts of the business or other entity type. For example, a large, diverse company in a company-",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A tabulation unit houses the data used for estimation (or tabulation, in the case of a census). As",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "operates. In this case, the tabulation unit represents a portion of a survey unit. For AWTS, the",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, an annual program might collect data on the prior year’s business activity; the",
+    "url": "https://www2.census.gov/programs-surveys/wholesale/technical-documentation/methodology/awts/2021_awts_response_rate.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rates within the statistical process control framework. Current procedures typically",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "adequate framework for analyzing the response process. Instead, we propose using control",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Directorate, which motivates the proposed control chart framework also introduced in",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "StEPS database. The retrospective analysis examples provided in Section 5.1 are presented",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "computed using the delete-a-group jackknife method. The ACES uses weight adjustment",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "More details concerning the ACES survey design, methodology, and data limitations are",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "receipts for selected service sectors. Standard errors are computed using the method of",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "than-expected value. Thus, a logical next step is to compute response rates by selected",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assembling S is more involved. For example, programs can use replication methods or",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Taylor linearization methods to obtain point estimates of the variance and autocovariance",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "gov/indicator/qss/qsstecdoc.pdf.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-07T22:04:20.743611+00:00"
+}

@@ -1,0 +1,234 @@
+{
+ "name": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+ "en": "SME White Paper labor productivity distribution manufacturing percentile appendix statistics",
+ "aliases": [
+  "中小企業白書 労働生産性 分布 上位10% 中央値 下位10% 製造業 site:chusho.meti.go.jp",
+  "中小企業白書 付属統計資料 労働生産性 xlsx",
+  "労働生産性 分位 中小企業 製造業 -コスト削減 -外注費"
+ ],
+ "context": "統計・ばらつき",
+ "kind": "market",
+ "researched_at": "2026-11-07T22:00:47.871853+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k18.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2026_734a5e68-en/full-report/labour-productivity-patterns-across-firm-sizes_7edc4fb8.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/0812.0208v4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usitc.gov/publications/332/working_papers/ahmad_oliver_peters_pdf.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 人手不足 受注 断る",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 受注残 人手不足",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 人手不足 損失 億円",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 推移",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 統計 PDF",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://ja.wikipedia.org/wiki/工業統計調査",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k18.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_shosai.pdf",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=製造業事業所調査　工業統計"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 従業者規模別",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 1人当たり 万円",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） 2015 2025",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SME White Paper labor productivity distribution manufacturing percentile appendix statistics Japan statistics",
+   "results": [
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2026_734a5e68-en/full-report/labour-productivity-patterns-across-firm-sizes_7edc4fb8.html",
+    "https://arxiv.org/html/0812.0208v4",
+    "https://www.usitc.gov/publications/332/working_papers/ahmad_oliver_peters_pdf.pdf",
+    "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "https://www.tamago-db.com/japan-labor-shortage-sme-transformation/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布（製造業・規模別・上位10%・中央値・下位10%の金額・site:chusho.meti.go.jp・xlsx・受注金額の記事を除く -コスト削減） X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SME White Paper labor productivity distribution manufacturing percentile appendix statistics site:linkedin.com",
+   "results": [
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/impact-labour-conditions-on-female-leadership-hiring.pdf",
+    "https://www.linkedin.com/in/bglasner",
+    "https://www.linkedin.com/in/russell-sloboda-dabt-848b968",
+    "https://www.linkedin.com/in/arto-kovanen-1a425a22",
+    "https://ca.linkedin.com/in/hany-fahmy-b5473aa1",
+    "https://in.linkedin.com/in/tarinbansal",
+    "https://www.linkedin.com/in/loretta-baxter-15295b78",
+    "https://in.linkedin.com/in/parth-patel-b5308",
+    "https://pl.linkedin.com/in/jalilnkh",
+    "https://pk.linkedin.com/in/hashimzulfikarkhan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ12頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ12頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ12頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ12頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ12頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ12頁・検索18回）",
+  "10年推移": "記載なし（読んだ12頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ12頁・検索18回）"
+ }
+}

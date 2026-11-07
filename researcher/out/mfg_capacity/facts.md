@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・189品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・193品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -10041,6 +10041,167 @@
 - 1人あたり・1社あたり金額：記載なし（読んだ51頁・検索18回）
 - 生産能力・設備：記載なし（読んだ51頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ51頁・検索18回）
+
+## 経済センサス‐活動調査 利用上の注意（製造品出荷額等・加工賃収入額・付加価値額の定義・税込み・秘匿・工業統計との比較・site:meti.go.jp filetype:pdf・r03_kakuho_ryu・4-81・4-90）（Economic Census for Business Activity notes on use manufacturing definitions comparability Census of Manufacture）
+- 文脈：統計・注意
+- 事業所数・社数：
+  - 「(1) 事業所数は、3,279事業所で、前年と比較すると206事業所の減少(前年比5.9%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「・事業所数は事業所数は6148事業所」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・事業所数は4825事業所で、前回調査より737事業所減少」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 社員数・平均社員数：
+  - 「「令和3年経済センサス－活動調査（製造業）」(令和３年6月1日現在：従業者4人以上の事業所)の結果は、以下のとおりである」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(2) 従業者数は、154,274人で、前年と比較すると4,414人の減少(同2.8%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「※ 令和3年活動調査（当年）が個人経営を含まない集計結果であるのに対し、令和2 年工業統計調査（前年）は個人経営を含む調査結果であるため、本書中の記述及び統計表における前年比（前回比）、増減数及び増減額については、単純に比較ができないことに留意されたい」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「表１ 主要項目の推移（従業者4人以上の事業所）」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「図１ 主要項目の推移（従業者4人以上の事業所）」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「・従業者数は20万6238人」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・従業者数は19万8141人で、前回調査より9421人増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「従業者数4人以上の事業所の集計となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：令和3年経済センサス-活動調査（製造業）の産業別集計では個人経営の事業所は集計対象外となっており、工業統計と単純比較ができないことに留意してください」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：令和3年調査では、平成28年経済センサス-活動調査では活用されていなかった「国税庁法人番号公表サイト」情報を加えた調査名簿を基に調査を行っております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 受注金額・加工賃収入：
+  - 「・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「(3) 製造品出荷額等は、4兆7,670億円で、前年と比較すると3,220億円の減少(同6.3%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(4) 付加価値額は、1兆6,386億円で、前年と比較すると763億円の減少(同4.5%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「・製造品出荷額等は7兆1391億6000万円」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「注：事業所数と従業者数について、項目の表示年次の翌年6月1日現在の数値、製造品出荷額等は項目の表示年次の1年間の数値です」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「平成28年調査では事業所と従業者数について個人経営事業所は集計対象、製造品出荷額等について個人経営事業所は集計対象外となっております」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 1人あたり・1社あたり金額：
+  - 「(4) 付加価値額は、1兆6,386億円で、前年と比較すると763億円の減少(同4.5%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「・製造品出荷額等は7兆1391億6000万円」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+  - 「・製造品出荷額等は6兆431億1631万円で、前回調査より1636億8411万円増加」（https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html）
+- 10年推移：
+  - 「甲調査及び乙調査とも2021年６月１日を調査日として実施している」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「ることから、時系列比較を行う際は、十分に留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「https://www.stat.go.jp/data/e-census/2021/kekka/pdf/hotei.pdf」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「https://www.stat.go.jp/data/e-census/2021/kekka/pdf/otherwiseclassified.pdf」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「このため、雇用者の内訳については、時系列比較を行うことはできない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「集計結果の時系列比較を行う際は、十分に留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_kakuho_ryu.pdf）
+  - 「http://www.stat.go.jp/data/e-census/2021/index.htm」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&stat_infid=000040187280）
+  - 「2021年 6月」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&stat_infid=000040187280）
+  - 「2024-06-25 14:00」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&stat_infid=000040187280）
+  - 「掲載日：2023年12月22日更新」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(1) 事業所数は、3,279事業所で、前年と比較すると206事業所の減少(前年比5.9%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(2) 従業者数は、154,274人で、前年と比較すると4,414人の減少(同2.8%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(3) 製造品出荷額等は、4兆7,670億円で、前年と比較すると3,220億円の減少(同6.3%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+  - 「(4) 付加価値額は、1兆6,386億円で、前年と比較すると763億円の減少(同4.5%減)となった」（https://www.pref.fukushima.lg.jp/sec/11045b/keisenr3.html）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）（Census of Manufacture preliminary vs final revision establishments employees shipments Japan）
+- 文脈：統計・改訂
+- 事業所数・社数：
+  - 「事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「2 事業所数 ･･････････････････････････････････････････････････････6」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「(2)従業者規模別」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図1-1 事業所数 および 従業者数 の推移 ･･･････････････････････････････4」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図2-1 産業別事業所数 の構成比 ･････････････････････････････････････6」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図2-2 従業者規模別事業所数 の構成比」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図3-2 従業者規模別従業者数 の構成比」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図4-2 従業者規模別製造品出荷額等 の構成比」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表2-1 産業中分類別事業所数 ･･･････････････････････････････････････7」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表2-2 従業者規模別事業所数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表2-3 地区別事業所数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表2-4 経営組織別事業所数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表3-2 従業者規模別従業者数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+- 社員数・平均社員数：
+  - 「事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「海外現地法人四半期調査(2025年10-12月期調査)」（https://www.meti.go.jp/statistics/）
+  - 「業務委託先への不正アクセスによる個人情報の漏えいについて（2025年7月11日更新）」（https://www.meti.go.jp/statistics/）
+  - 「3 従業者数 ･･････････････････････････････････････････････････････8」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「9 従業者一人当 たり」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図1-1 事業所数 および 従業者数 の推移 ･･･････････････････････････････4」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図3-1 産業別従業者数 の構成比 ･････････････････････････････････････8」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図3-2 従業者規模別従業者数 の構成比」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表3-1 産業中分類別従業者数 ･･･････････････････････････････････････9」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表3-2 従業者規模別従業者数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表3-3 地区別従業者数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表3-4 経営組織別従業者数」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表5 産業中分類別 1事業所当 たり 従業者数 、製造品出荷額等 および」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+- 受注金額・加工賃収入：
+  - 「製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「4 製造品出荷額等 ････････････････････････････････････････････････10」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図1-2 製造品出荷額等 の推移」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図4-1 産業別製造品出荷額等 の構成比 ･･･････････････････････････････10」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「図4-2 従業者規模別製造品出荷額等 の構成比」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表4-1 産業中分類別製造品出荷額等 ･････････････････････････････････11」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表4-2 従業者規模別製造品出荷額等」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表4-3 地区別製造品出荷額等」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表4-4 経営組織別製造品出荷額等」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表5 産業中分類別 1事業所当 たり 従業者数 、製造品出荷額等 および」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表6 産業中分類別 １人当 たり 製造品出荷額等 および 粗付加価値額」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「（３）調査内容 ・事業所の名称及び所在地、本社又は本店の名称及び所在地、経営組織、資本金額又は出資金額、 従業者数、現金給与総額、製造品出荷額、在庫額等 他１２事項」（https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html）
+  - 「製造品出荷額等 ２兆５，８８１億 ４４ 百万円」（https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html）
+- 1人あたり・1社あたり金額：
+  - 「製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「6 粗付加価値額」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「粗付加価値額 ･･･････････････････････････････････････････････13」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「表6 産業中分類別 １人当 たり 製造品出荷額等 および 粗付加価値額」（https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf）
+  - 「製造品出荷額等 ２兆５，８８１億 ４４ 百万円」（https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html）
+  - 「付加価値額 １兆 ３２８億 ８３ 百万円」（https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html）
+  - 「従業者数 対前年増減数 対前年増減率（％） 対平成23年指数 1事業所当たり従業者数」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「産業(中分類)別に対前年増減数をみると、増加したのは 「食料品製造業」が 736,596 万円（対」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「前年比 8.5％増）、「化学工業」が 360,903 万円（同 156.6％増）、 「飲料・たばこ・飼料製造業」」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「が 315,111 万円（同 14.9％増） などの 15 産業で、減少したのは 「ゴム製品製造業」が 159,126」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「万円（同 42.1％減）、 「金属製品製造業」が 96,588 万円（同 7.3％減） 、 「生産用機械器具製造」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「業」が 42,294 万円（同 19.8％減）などの 7 産業となっている」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「表9 産業(中分類)別製造品出荷額等 （金額単位：万円）」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「各規模の全体に占める割合は、「50～99 人規模」が 5,211,793万円（構成比27.7％）と最も」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+- 生産能力・設備：
+  - 「製造工業生産能力・稼働率指数(8月分)」（https://www.meti.go.jp/statistics/）
+- 10年推移：
+  - 「2019年工業統計調査結果（速報） | 兵庫県」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「> 2019年工業統計調査結果（速報）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「更新日：2024年3月29日」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「2019年工業統計調査結果（速報）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「2019年工業統計調査(調査期日:令和元年6月1日)の調査結果について、県独自で集計したものを公表します」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「2019年工業統計調査結果速報（PDF：612KB）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「2019年工業統計調査結果（確報）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「2020年工業統計調査結果（確報）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html）
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）（plating heat treatment die makers association member list employee count pension insured persons）
+- 文脈：会員・人数
+- 痛み・損（深さの印）：記載なし（読んだ52頁・検索18回）
+- 事業所数・社数：記載なし（読んだ52頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ52頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ52頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ52頁・検索18回）
+- 生産能力・設備：記載なし（読んだ52頁・検索18回）
+- 10年推移：記載なし（読んだ52頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ52頁・検索18回）
+
+## 中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）（SME White Paper appendix labor productivity distribution manufacturing xlsx chusho meti）
+- 文脈：統計・ばらつき
+- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
+- 事業所数・社数：記載なし（読んだ44頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ44頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ44頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ44頁・検索18回）
+- 生産能力・設備：記載なし（読んだ44頁・検索18回）
+- 10年推移：記載なし（読んだ44頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ44頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

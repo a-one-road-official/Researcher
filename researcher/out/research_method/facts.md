@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・202品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・205品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5311,11 +5311,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -8876,7 +8876,7 @@
   - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -9659,7 +9659,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -11444,11 +11444,11 @@
 
 ## 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界（estimate private company revenue physical footprint square footage locations equipment funding valuation limits）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）（record linkage data cleansing impossible values renamed companies former names matching）
 - 文脈：手法
@@ -11936,11 +11936,11 @@
 
 ## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）（survivorship bias correction business data closed firms best worst case assumption）
 - 文脈：失敗・落とし穴
@@ -11977,3 +11977,220 @@
   - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「：上記を踏まえて、筆者がバーチャルタレントの現場で有効だと考える運用方法」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「自分で目標を決め、自分を鼓舞し、自分の出来を振り返り、自分で練習方法を探し、問題が起きれば自分で解決する」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「タレントは、その目標を目指す意味と達成までの方法を説明できるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「責任だけを渡し、情報も方法も渡さない状態です（第三章）」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「状況対応型リーダーシップ（SL理論）の考え方が役に立ちます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「方法は渡されず、届かなかったときの説明責任だけがタレントにある」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「どうやるかはタレントに任せます、という言い方で、方法の設計責任が移されます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「自分がマネジメントされた経験がない人は、見聞きした方法や、かつて自分が受けたマネジメントを、見よう見まねで再現しがちです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「この先の章では、ひとりで活動している方にも使える四つの方法を扱います」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「目標を起案する自分と検証する自分を分ける手順、疲れる前に稼働の上限を決める方法、うまくいかなかったときに自分の努力より先に工程を疑う手順、そして外注先や相談相手という「手段」をどう設計するかです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「売上に責任を持つ → 価格・販売方法・予算を決める権限はあるか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「健康・表現・権利・設備の議論を混同しないために筆者が用いている整理方法」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「COVER株式会社も、2026年のタレントマネジメント本部長インタビューで、登録者数や同時接続数を伸ばしたいタレントに対して市場動向を一緒に確認し、具体的なステップへ落とし込んだ事例や、ソロライブという夢から逆算して楽曲・MV制作のロードマップを組んだ事例を紹介しています」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+- 突き合わせ・推定：
+  - 「契約内容の理解に食い違いが生じたとき、意図せず炎上したとき、タレントから「事務所を辞めたい」と言われたとき」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「ただし、目標に届かなかったとき、その責任をタレントの努力不足だけに求めず、目標設定、予算、情報、支援体制、工程そのものに問題がなかったかを検証します」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「目標に届かなかったとき、タレントの努力より先に工程を検証しているか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「目標を起案する自分と検証する自分を分ける手順、疲れる前に稼働の上限を決める方法、うまくいかなかったときに自分の努力より先に工程を疑う手順、そして外注先や相談相手という「手段」をどう設計するかです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「この行動をこれだけやれば、この結果に届くはずだ」という仮説です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「そうすることで、目標に届かなかったときに疑うべき対象は、「タレントの頑張り」から「仮説」へと変わります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「COVER株式会社も、2026年のタレントマネジメント本部長インタビューで、登録者数や同時接続数を伸ばしたいタレントに対して市場動向を一緒に確認し、具体的なステップへ落とし込んだ事例や、ソロライブという夢から逆算して楽曲・MV制作のロードマップを組んだ事例を紹介しています」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「タレントは約束した行動を実行できたか」、次に「仮説は正しかったか」」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「その後、えのぐが大きな炎上を幸いにも回避できている理由のひとつは、メンバーが仮説や予測を立ててさまざまな視点から考え抜くことの重要性を理解していることにあると思います」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「こうしたことまで伝えて、はじめて数字が、何かを判断したり、仮説を立てたりするための材料になります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「- 推定した値には「推定」と付け、根拠にした資料の箇所を示してください」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「責任者は、手引き9の仮説のつながりを、今ある候補の審査に使う方向に切り替えるかを決めます（第4章の4.7）」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「AIで集計する場合はプロンプト4-2を使い、ひな形で照合する」（https://note.com/harunakamura41/n/n7cfa7307c806）
+- 一次情報の探し方：
+  - 「本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「本稿では、筆者自身の実務経験に加えて、以下の書籍、論文、公的資料、業界各社の公開情報を参考にしました」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「COVER株式会社 採用情報「Talent Management」」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「- 効果は、おおまかには「AIを使える範囲 × 推奨が採用される割合 × 採用された推奨が判定基準に合う割合 × 一件あたりの改善幅」」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「- AIの推奨が採用される割合は、高いほど良いとは限りません」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る」（https://note.com/harunakamura41/n/n7cfa7307c806）
+  - 「公的なデータを使っていることは、出どころを確認するうえで重要です」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
+  - 「2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
+  - 「ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
+  - 「全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
+  - 「採用理由と代替地点を残し、差が判断に影響するかを調べます」（https://note.com/satoruhiguchi/n/n645bc9cbb946）
+- 失敗・落とし穴：
+  - 「注意をしただけで「評価」をしたつもりになる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「注意することを、育成だと思っている」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「一度の失敗で信頼も収入も失う環境では、人は挑戦ではなく保身を選びます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「同じ「10,000人」が、失敗にも成功にもなった」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「先週の配信、あの切り返しがよかった」「今回の新曲、ビブラートがきれいだった」など、注意深く見ていなければ言えない話題です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「ここでマネージャーがやりがちな失敗が、教訓を先に言ってしまうことです」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「心」の摩耗は、弱さではなく設計の失敗」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「失敗の振り返りを、人ではなく工程に向ける」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「このチームで、失敗を認めても不利にならないと思うか」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「このチームでは、失敗を早めに報告できる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「だからメンバー同士がぶつかったとき、それをただちに「失敗」と判断するのは早計です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「禁止事項を増やし、注意書きを長くする」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+- 実例：
+  - 「結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「：VTuber事務所、行政機関などが公表している資料や事例」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「目標を定め、工程を設計し、結果を振り返る」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「自分で決め、結果を受け止める経験を積むことで、活動を自分で組み立てる力が身につきます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「結果として、トラブルのきっかけになることもあります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「人手が足りず、結果として手が回っていない状態」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「数字は結果の指標であって、行動の指示ではありません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「その負担は、結果や数字には表れません」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「10,000人という結果指標だけがあり、どうやって10,000人に届かせるかという行動が設計されていなかったことが、批判の対象でした」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「タレントと一緒に設定する目標は、結果と行動の二段階で設計します」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「この行動をこれだけやれば、この結果に届くはずだ」という仮説です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+  - 「2023年に行われた「TIFアイドル総選挙」では予備選挙一位、本選挙三位という結果を残し、最終日のグランドフィナーレでHOT STAGEに立つという目標も実現しました」（https://note.com/enogu_llc/n/ncd8acbdc4199）
+
+## 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）（business survey unit response rate vs quantity response rate imputation share large units）
+- 文脈：失敗・落とし穴
+- 手順・やり方：
+  - 「implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「methodological issues are those of the authors and not necessarily those of the U.S. Census Bureau.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「rates within the statistical process control framework. Current procedures typically」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「adequate framework for analyzing the response process. Instead, we propose using control」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Directorate, which motivates the proposed control chart framework also introduced in」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「StEPS database. The retrospective analysis examples provided in Section 5.1 are presented」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「retrospective analysis in Section 5.1 for presentation reasons: the ACES methodologists」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「computed using the delete-a-group jackknife method. The ACES uses weight adjustment」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「More details concerning the ACES survey design, methodology, and data limitations are」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「receipts for selected service sectors. Standard errors are computed using the method of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「than-expected value. Thus, a logical next step is to compute response rates by selected」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Assembling S is more involved. For example, programs can use replication methods or」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Taylor linearization methods to obtain point estimates of the variance and autocovariance」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 突き合わせ・推定：
+  - 「key estimate reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「key estimates reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「53 percent of the total estimate (value). The remaining four units, which are selected with」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「certainty, account for 47 percent of the total estimate.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「payroll, capital expenditures) to account for the unit’s relative importance in the estimates」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「improve the quality of the estimates. Analysts strive to reduce imputation rates for all key」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「expected to contribute substantially to the estimate, followed by intensive analyst research」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Ry is the weighted estimate obtained by summing reported data for item y in the」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Ay is the weighted estimate obtained by summing equivalent source data (auxiliary」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「. Y is the estimated (weighted) total of the item in the statistical period. It includes all」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「data used to develop the publication estimate, including imputed data and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「measures at that point in time of the proportion of the estimate that was not imputed. In this」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「ratio of correlated random variables and that the point estimates in the time series are not」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「and covariance estimates used in analysis must account for the complex survey design, if」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 一次情報の探し方：
+  - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 失敗・落とし穴：
+  - 「Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「collection, data review), or of the potential level of nonresponse bias (Peytcheva and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Both numerator and denominator cases are weighted by “unbiased” weights, which」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「extracted from a larger cited nonresponse bias analysis study. Both studies were mandated」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「context of a nonresponse bias analysis study.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Many programs will also conduct nonresponse bias analyses, which at a minimum」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+- 実例：
+  - 「perspective for monitoring them. We illustrate this approach with examples from ongoing」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「that is unusual and in many cases unexpected. Moreover, control charts are useful because」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「they show what a process is capable of – for example, providing evidence that a given」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「target value. In the latter case, some form of modiﬁcation of the process would be required」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「Bureau. Section 4 provides background on our two case studies. In Section 5, we discuss」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「estimated totals originating from a small set of cases. Consequently, the majority of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「(1) include “large” cases with certainty; (2) may sample “medium sized” cases with high」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「sampling rates; and (3) sample the remaining cases with very low sampling rates (usually」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「less than 0.01). As a result, sampled cases with large design weights often contribute very」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「To avoid overrepresentation of such small cases in computation, the URR is computed」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「the certainty or large noncertainty cases, making URR an inconsistent indicator of data」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「nonresponding cases contribute very little to the total tabulation so that the TQRR value」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+  - 「is approximately 93%. These examples demonstrate how the more consistent measures」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
+
+## 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）（relative mean absolute revision first estimate vintage comparison statistics journalism）
+- 文脈：失敗・落とし穴
+- 手順・やり方：
+  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「is not a bad method of estimating ", but it’s not as efficient a method as Strategy 1. The proof of」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「hand side). Strategy 3 performs poorly in comparison with the other methods.」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Thus, a naive evaluation methodology (which relies entirely on current-vintage data) predicts fairly」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「McNees, Stephen K. (1987) “Consensus Forecasts: Tyranny of the Majority,” New England」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「9. The exception is when revisions to the government’s methodology for calculating y(t) are so」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「great as to shift ". Ideally, the analyst would apply the government’s latest methodology」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「retroactively, using real-time vintage source data to obtain methodologically-consistent series for」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「methodological revisions and–if necessary–introduce one or more dummy variables on the right-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「technical conditions are also met. Among them is the requirement that the methodology used to」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「the second step in which they place the real-time (1992)」（https://d-nb.info/1166858995/34）
+  - 「most-recent-vintage data come from the first step in which」（https://d-nb.info/1166858995/34）
+  - 「status quo methods of data selection. Such a conclusion, how-」（https://d-nb.info/1166858995/34）
+  - 「quium participants at the Chair for Quantitative Methods in the」（https://d-nb.info/1166858995/34）
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+- 突き合わせ・推定：
+  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「We further argue that first-available official estimates should be used for the left-hand-side variable」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「when estimating the forecasting equation. First-available estimates ought to be used on the」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「growth and early estimates of (say) employment growth will typically be different from that」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「between GDP growth and estimates of employment growth available several years after the fact. It」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「release is an efficient estimate of subsequent releases, meaning that revisions to the initial release」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「this additional information is extraneous noise. Even if the government’s initial estimates are not」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+- 一次情報の探し方：
+  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+- 失敗・落とし穴：
+  - 「In those studies where the potential pitfalls of relying on current-vintage data have been」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「to Equation 3 yields an unbiased and consistent estimate of ". Less obviously, var(T(t)) # var(w(t)),」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「government at time t, applying least squares to Equation 3' will yield an unbiased estimate of ".」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「inconsistent estimate of " and a biased forecast of y(T).」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「y(t) = x(t)" + w(t), although both strategies yield unbiased estimates of ".」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「estimate the forecasting model of interest yield unbiased parameter estimates (West and」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「and, we argue, mistakenly, assume that it is the actual state」（https://d-nb.info/1166858995/34）
+- 実例：
+  - 「example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Except in the uninteresting case in which y(t)t is never revised, the Equation 3's error term has」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「x(T)T and the sample mean of the x(t)t (t = 0, 1, ...T - 1). The simplest case is that in which x(T)T」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「We will use this case as a benchmark when comparing the performance of Strategy 1 to the」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「case of Strategy-1 estimation arises when the vector x(t)t on the right-hand-side of Equation 3 is」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「the corresponding term on the right-hand side of Equation 6. In the benchmark case in which x(T)T」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「and the sample mean of the x(t)t coincide, for example, Equation 6' reduces to」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「exceptional case in which revisions to the government’s estimates of y(t) and movements in >(t)T "」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「As an extreme example, consider the special case in which " = 0, so that x(T)T is of」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「IV. An Example: Forecasting Current-Quarter GDP Growth」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「sample-vintage, real-time-vintage, and (as a special case of real-time-vintage) first-release data sets.」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）

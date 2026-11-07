@@ -8,8 +8,196 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T16:20:13.328584+00:00",
+ "researched_at": "2026-11-07T22:03:36.196738+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Illustrative example: the KYC record from the top of this guide against the subsidiary",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Setting thresholds by use case",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thresholds are set per use case: a sanctions check tolerates fewer false negatives than a marketing list.",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "07A Worked Example",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Illustrative example · fictitious company",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Deterministic matching uses exact rules, for example the same registration number and jurisdiction means the same company. Probabilistic matching combines several partial signals, such as name similarity, address, officers and domain, into a score and compares it with thresholds. Good systems apply deterministic rules first and score the rest.",
+    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Typical examples include:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Verification Case Study Compendium",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strip legal-form suffixes, punctuation and case; transliterate scripts; expand common abbreviations. Normalised strings are used only to compare. The names as stated in sources are kept. See",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A unique identifier that clearly refers to the same individual in both records: for example an individual's CRD number (the CRD system holds the registration records of individuals associated with broker-dealers, and investment adviser representatives are registered through it), or a unique canonical identifier issued by the source for that individual.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Where the evidence is insufficient or conflicting, the records stay separate. Records are never merged to make a profile look more complete. Ambiguous cases with a high impact, such as a senior decision-maker at an allocator, go to research review before any merge, and the review is recorded under the validation rules of the",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 1: two pension systems sharing a domain family (illustrative).",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 2: a fund and its adviser.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 3: a rename.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 4: an acquisition.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 5: a family group.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 6: a high similarity score.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 7: duplicate vs sibling.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "First publication. Establishes the separation of identity, relation and role; the merge rule; the treatment of signals as relation candidates; the limits on deterministic and probabilistic matching; reversible merges; the no-family-sum rule; temporal rules for renames, mergers and acquisitions; and worked examples.",
+    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If the API can’t return beneficial ownership structures where published, it’s incomplete for compliance use cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.",
+    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "検索結果の抜粋": [
    {
     "quote": "Frequently Asked Questions - California Secretary of StateEntity Resolution Explained: Matching Company Records Across ...Entity Resolution Without Fuzzy Matching: How Registry ...Tracking Entity Name Changes Across State SOS DatabasesHow to Verify a Business Was Dissolved & Get ProofTrack Entity Name Changes Through SOS Records — A business entity can be formed in California online at bizfileOnli",
@@ -408,194 +596,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "実例": [
-   {
-    "quote": "The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Illustrative example: the KYC record from the top of this guide against the subsidiary",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Setting thresholds by use case",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Thresholds are set per use case: a sanctions check tolerates fewer false negatives than a marketing list.",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "07A Worked Example",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Illustrative example · fictitious company",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Deterministic matching uses exact rules, for example the same registration number and jurisdiction means the same company. Probabilistic matching combines several partial signals, such as name similarity, address, officers and domain, into a score and compares it with thresholds. Good systems apply deterministic rules first and score the rest.",
-    "url": "https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Typical examples include:",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Entity Verification Case Study Compendium",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers",
-    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Strip legal-form suffixes, punctuation and case; transliterate scripts; expand common abbreviations. Normalised strings are used only to compare. The names as stated in sources are kept. See",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A unique identifier that clearly refers to the same individual in both records: for example an individual's CRD number (the CRD system holds the registration records of individuals associated with broker-dealers, and investment adviser representatives are registered through it), or a unique canonical identifier issued by the source for that individual.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Where the evidence is insufficient or conflicting, the records stay separate. Records are never merged to make a profile look more complete. Ambiguous cases with a high impact, such as a senior decision-maker at an allocator, go to research review before any merge, and the review is recorded under the validation rules of the",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "10. Edge cases",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "11. Worked examples",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 1: two pension systems sharing a domain family (illustrative).",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 2: a fund and its adviser.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 3: a rename.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 4: an acquisition.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 5: a family group.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 6: a high similarity score.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 7: duplicate vs sibling.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "First publication. Establishes the separation of identity, relation and role; the merge rule; the treatment of signals as relation candidates; the limits on deterministic and probabilistic matching; reversible merges; the no-family-sum rule; temporal rules for renames, mergers and acquisitions; and worked examples.",
-    "url": "https://altss.com/knowledge-center/frameworks/entity-resolution-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If the API can’t return beneficial ownership structures where published, it’s incomplete for compliance use cases.",
-    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Bring the jurisdictions, identifier types, approximate record count and a description of the ambiguous cases your team needs to resolve. Check",
-    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Registry identifiers are unique codes assigned to companies by government authorities at the time of incorporation. Examples include Company Registration Numbers (UK), EINs (US), Handelsregisternummer (Germany), and CNPJ (Brazil). They don’t change when a company rebrands and are unique within their jurisdiction.",
-    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Deterministic matching using a registration number and jurisdiction code achieves near-perfect accuracy (~99.9%). Probabilistic matching based on company names typically achieves 60–95% accuracy depending on data quality, and requires confidence thresholds and manual review for borderline cases.",
-    "url": "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "Revenue and employee estimates",
@@ -629,12 +629,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
+    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "url": "https://note.com/houjinbase/n/n3453fdaa031d",
     "status": "ok",
     "method": "http"
    },
@@ -664,7 +664,7 @@
     "method": "http"
    },
    {
-    "url": "https://sawada-cpta.com/blog/deemed-dissolution/",
+    "url": "https://www.office-yoshida.net/column/column_028.htm",
     "status": "ok",
     "method": "http"
    },
@@ -684,12 +684,12 @@
     "method": "http"
    },
    {
-    "url": "https://yagi-jimusho.com/kaishatouki/shougouhenkou.html",
+    "url": "https://www.jetro.go.jp/invest/setting_up/section1/page7.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jetro.go.jp/invest/setting_up/section1/page7.html",
+    "url": "https://yagi-jimusho.com/kaishatouki/shougouhenkou.html",
     "status": "ok",
     "method": "http"
    },
@@ -699,14 +699,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.moj.go.jp/MINJI/MINJI50/minji50-01.html",
+    "url": "https://houmukyoku.moj.go.jp/homu/content/001365410.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.office-yoshida.net/column/column_028.htm",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.kaisan-kaisya.com/15826779980155",
@@ -719,17 +714,17 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/establish/basic/76291/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cdp.com/glossary/entity-resolution/",
+    "url": "https://biz.moneyforward.com/establish/basic/76291/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
     "status": "ok",
     "method": "http"
    },
@@ -739,22 +734,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sheshbabu.com/posts/entity-resolution-challenges/",
+    "url": "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sheshbabu.com/posts/entity-resolution-challenges/",
     "status": "ok",
     "method": "http"
    }
@@ -768,12 +768,17 @@
     "https://note.com/aozora7kumo7kaze/n/n779f261b24a6",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/sr_mako/n/n611995af6f74",
-    "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/houjinbase/n/n3453fdaa031d",
-    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
+    "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
+    "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
     "https://note.com/manaworks_axdx/n/n5f4f961cffb2"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 note",
@@ -784,11 +789,16 @@
     "https://note.com/real_ram9758/n/n52ba2cf56d2e?sub_rt=share_pb",
     "https://www.help-note.com/hc/ja/articles/19067497997465-%E5%A5%91%E7%B4%84%E7%A4%BE%E5%90%8D%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E7%A7%BB%E8%AD%B2%E3%81%99%E3%82%8B",
     "https://www.moj.go.jp/MINJI/minji05_00237.html",
-    "https://sawada-cpta.com/blog/deemed-dissolution/",
     "https://www.office-yoshida.net/column/column_028.htm",
     "https://note.com/shi_sunao/n/n4c4b4b842eeb",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
     "https://note.com/kanai_sho/n/nff1ff5d30eac"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 やり方",
@@ -796,44 +806,59 @@
     "https://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html",
     "https://www.asakonet.co.jp/column/detail-7293/company-name-change-procedures-registration-flow/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
-    "https://yagi-jimusho.com/kaishatouki/shougouhenkou.html",
     "https://www.jetro.go.jp/invest/setting_up/section1/page7.html",
+    "https://yagi-jimusho.com/kaishatouki/shougouhenkou.html",
     "https://corporate-a-lawoffice.com/companiesact919/",
     "https://www.shogyohoumu-partner.com/%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AE%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95-%E6%94%AF%E5%BA%97/",
     "https://biz.moneyforward.com/establish/basic/76291/",
     "https://www.kaisan-kaisya.com/15826779980155",
     "https://eigyouya.jp/listgene/column/data-cleansing.html"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 事例",
    "results": [
-    "https://www.moj.go.jp/MINJI/MINJI50/minji50-01.html",
-    "https://www.office-yoshida.net/column/column_028.htm",
+    "https://houmukyoku.moj.go.jp/homu/content/001365410.pdf",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
+    "https://www.office-yoshida.net/column/column_028.htm",
     "https://www.kaisan-kaisya.com/15826779980155",
-    "https://www.houjin-bangou.nta.go.jp/sp/oshirase/r08/r081023.html",
     "https://corporate.ai-con.lawyer/articles/basic-knowledge/57",
-    "https://biz.moneyforward.com/establish/basic/76291/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page7.html",
     "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
-    "https://toyonaka-shihoshoshi.com/seisannin-juushohennkoutouki/",
+    "https://www.houjin-bangou.nta.go.jp/sp/oshirase/r08/r081023.html",
+    "https://biz.moneyforward.com/establish/basic/76291/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "company entity resolution registry identifiers name changes branches dissolved",
    "results": [
-    "https://cdp.com/glossary/entity-resolution/",
     "https://senzing.com/what-is-entity-resolution/",
-    "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
     "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
-    "https://www.sheshbabu.com/posts/entity-resolution-challenges/",
+    "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
+    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
     "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
-    "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
-    "https://veridion.com/services/entity-resolution",
-    "https://zephira.ai/products/entity-resolution/",
-    "https://entitysearch.us/"
-   ]
+    "https://www.sheshbabu.com/posts/entity-resolution-challenges/",
+    "https://www.tigergraph.com/blog/preventing-entity-resolution-merges-that-ignore-lifecycle-evolution/",
+    "https://www.lakefusion.ai/blog/entity-resolution-vs-data-deduplication",
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "https://www.techsalerator.com/post/entity-resolution-explained-matching-company-records-across-global-registries"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:note.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
@@ -841,49 +866,69 @@
     "https://note.com/ichi_twnovel/n/n6451222506bb",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/sr_mako/n/n611995af6f74",
-    "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
     "https://note.com/cute_peony965/n/n356d7d9ecfaa",
-    "https://note.com/sae_content_lab/n/na010ef23723f"
-   ]
+    "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:x.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
    "results": [
     "https://x.com/mhimt/status/2117740102218916004",
     "https://x.com/e_patent/status/2037752844573606155",
-    "https://jf.x.com/images/media-preview/2098312951807594522",
-    "https://jf.x.com/images/media-preview/2089858944223072593",
+    "https://jf.x.com/images/media-preview/2096187573794165230",
+    "https://jf.x.com/images/media-preview/2098941900715855954",
     "https://x.com/kigyoulist/status/2108920610042855467",
-    "https://x.com/hhayashiss/status/2068967239894843745",
     "https://x.com/Kadono_W/status/2046504051907735993",
-    "https://x.com/Dmiag2008/status/2080894491280736546"
-   ]
+    "https://x.com/hhayashiss/status/2068967239894843745",
+    "https://x.com/WorkX0927/status/2104330241959174443"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
    "results": [
-    "https://www.linkedin.com/feed/update/urn:li:share:7110450956240056320/",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
     "https://www.linkedin.com/posts/ntt-com-online_2025128開催セミナー名寄せの本質と実践-mdm実務者のための再入門-activity-7277261975917621250-eVin",
     "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7362794827819728896/",
     "https://de.linkedin.com/in/dr-med-bea-merscher-8ab267126",
     "https://jp.linkedin.com/posts/nakajimakaichi_最近クライアントとのアポ準備の中で社名表記について考えることがありました-activity-7417030246056734720-UkJC",
     "https://jp.linkedin.com/posts/yoshitaka-araki-8922569b_会社設立のご報告-20241021月に登記書類を出してきまして無事に-activity-7261710933771583488-nNOd"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
    "results": [
     "https://www.facebook.com/gvacorporate/posts/会社の商号変更社名変更における株主総会議事録の書き方という記事を掲載しましたhttpscorporateai-conlawyerarticlescompany-/1145342772929704/",
-    "https://www.facebook.com/DMGMORI.CO/posts/dmg森精機グループ会社-社名変更のお知らせdmg森精機株式会社以下当社のグループ会社である倉敷機械株式会社は2024年4月1日付でdmg-mori-preci/901507025316469/",
     "https://www.facebook.com/HakusanInc/posts/社名変更本社登記移転および子会社合併のご案内謹啓-時下ますますご清栄のこととお慶び申し上げます平素は格別のご高配を賜り厚く御礼申し上げますさて-弊社は１０月１日/1150145435033016/",
-    "https://www.facebook.com/anozaki/posts/26968266356124553/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg森精機グループ会社-社名変更のお知らせdmg森精機株式会社以下当社のグループ会社である倉敷機械株式会社は2024年4月1日付でdmg-mori-preci/901507025316469/",
+    "https://www.facebook.com/takanori.miura/photos/丨-社名変更株式会社-海の出版社第２の起業2025年10月15日に開催された臨時株主総会で正式に承認され天狼院書店の運営会社の会社名が東京プライズエージェンシー/25146433501648358/",
     "https://www.facebook.com/photo/?fbid=24244019468608975",
     "https://is-is.facebook.com/humanite2103.co.jp/posts/補足-不動産について財産開示の名寄せについても東京法務局が指定-令和３年５月１日施行予定民事執行法昭和５４年法律第４号以下改正法という第２０５条第１項において債/4145556572122312/",
-    "https://www.facebook.com/100057489668461/posts/備忘録ノートその3登記の現場改め消滅会社被合併会社の会社法人等番号についてa登記上の抵当権者a商号変更b合併1抵当権抹消の前提として合併による抵当権移転が必要2/1887009914769829/"
-   ]
+    "https://www.facebook.com/100057489668461/posts/備忘録ノートその3登記の現場改め消滅会社被合併会社の会社法人等番号についてa登記上の抵当権者a商号変更b合併1抵当権抹消の前提として合併による抵当権移転が必要2/1887009914769829/",
+    "https://www.facebook.com/lead.lab/posts/1733518216682710/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
   },
   {
    "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 note 社長",
@@ -891,48 +936,63 @@
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/real_ram9758/n/n52ba2cf56d2e?sub_rt=share_pb",
     "https://www.houjin-bangou.nta.go.jp/sp/oshirase/r08/r081023.html",
+    "https://www.help-note.com/hc/ja/articles/19067497997465-%E5%A5%91%E7%B4%84%E7%A4%BE%E5%90%8D%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E7%A7%BB%E8%AD%B2%E3%81%99%E3%82%8B",
     "https://www.office-yoshida.net/column/column_028.htm",
     "https://note.com/koshimizu_haruka/n/n6fcab71c03d9",
-    "https://www.help-note.com/hc/ja/articles/19067497997465-%E5%A5%91%E7%B4%84%E7%A4%BE%E5%90%8D%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E7%A7%BB%E8%AD%B2%E3%81%99%E3%82%8B",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
     "https://sawada-cpta.com/blog/deemed-dissolution/",
-    "https://www.moj.go.jp/MINJI/MINJI50/minji50-01.html",
-    "https://eigyo-go.com/blog/corporate-number-change-tracking"
-   ]
+    "https://shiodome.co.jp/js/blog/18612",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 X 投稿",
    "results": [
-    "https://houmukyoku.moj.go.jp/homu/content/001365410.pdf",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.houjin-bangou.nta.go.jp/sp/oshirase/r08/r081023.html",
+    "https://www.asakonet.co.jp/column/detail-7293/company-name-change-procedures-registration-flow/",
+    "https://www.moj.go.jp/MINJI/minji06_00090.html",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
     "https://shiodome.co.jp/js/blog/18612",
-    "https://corporate.ai-con.lawyer/articles/basic-knowledge/57",
+    "https://shigyo-ai.com/column/minashi-kaisan-todoke",
     "https://www.yano-office.com/company-registration-of-alteration/",
-    "https://www.houjin-bangou.nta.go.jp/sp/oshirase/r08/r081023.html",
-    "https://www.meinanlegalconsulting.jp/service/corporatebusiness-6/",
-    "https://www.fukuoka-shihousyoshi.jp/column/9051",
-    "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
+    "https://corporate-a-lawoffice.com/companiesact919/",
     "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "company entity resolution registry identifiers name changes branches dissolved site:linkedin.com",
    "results": [
-    "https://uk.linkedin.com/company/opencorporates",
     "https://www.linkedin.com/pulse/online-company-registration-turkey-turkey-company-registry-qpcpf",
+    "https://uk.linkedin.com/company/opencorporates",
     "https://www.linkedin.com/pulse/key-changes-uaes-federal-decree-law-10-2025-amluae-vwqqf",
-    "https://www.linkedin.com/in/lexie-niemoeller",
     "https://www.linkedin.com/pulse/analysis-privacy-trustworthiness-manusim-francesco-faenzi-sruif",
-    "https://www.linkedin.com/posts/arnold-kasalwe-ca-zm_zambia-revenue-authority-v-nestle-zambia-activity-7367293926216568834-HwWq",
     "https://www.linkedin.com/pulse/company-closure-online-filing-stk-2-cpace-shiriti-kumari-tb2hc",
+    "https://www.linkedin.com/posts/arnold-kasalwe-ca-zm_zambia-revenue-authority-v-nestle-zambia-activity-7367293926216568834-HwWq",
     "https://www.linkedin.com/jobs/view/general-counsel-at-good-carbon-co-4469311972",
+    "https://www.linkedin.com/in/lexie-niemoeller",
     "https://de.linkedin.com/in/stephen-harrison",
-    "https://www.linkedin.com/in/sylvia-ho-94360116"
-   ]
+    "https://in.linkedin.com/in/purva-arora-7b0b9033"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-06T02:52:21.796239+00:00"
 }

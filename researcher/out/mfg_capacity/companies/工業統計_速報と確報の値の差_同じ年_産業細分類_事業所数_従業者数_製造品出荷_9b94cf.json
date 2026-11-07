@@ -1,0 +1,1636 @@
+{
+ "name": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+ "en": "Census of Manufacture preliminary vs final revision establishments employees shipments Japan",
+ "aliases": [
+  "工業統計 速報 確報 差 製造品出荷額等",
+  "工業統計調査 速報 確報 改定 事業所数 従業者数 site:meti.go.jp",
+  "経済構造実態調査 速報 確報 製造業事業所調査 差"
+ ],
+ "context": "統計・改訂",
+ "kind": "market",
+ "researched_at": "2026-11-07T22:00:50.513197+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 事業所数 ･･････････････････････････････････････････････････････6",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図1-1 事業所数 および 従業者数 の推移 ･･･････････････････････････････4",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図2-1 産業別事業所数 の構成比 ･････････････････････････････････････6",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図2-2 従業者規模別事業所数 の構成比",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図3-2 従業者規模別従業者数 の構成比",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図4-2 従業者規模別製造品出荷額等 の構成比",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2-1 産業中分類別事業所数 ･･･････････････････････････････････････7",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2-2 従業者規模別事業所数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2-3 地区別事業所数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2-4 経営組織別事業所数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3-2 従業者規模別従業者数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4-2 従業者規模別製造品出荷額等",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数 および 従業者数 （全事業所 ）････････････････････15",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 が3以上でも必要がある 場合は、秘匿している",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 １，６９６ 事業所",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2．従業者規模別統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、事業所敷地面積及び１日当たり水源別用水量",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成27年、事業所数及び従業者数については平成28年6月1日現在、それ以外の経",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成23年、事業所数及び従業者数については平成24年2月1日現在、それ以外の経",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成23年及び27年以外、事業所数及び従業者数については各年次の12月31日現在、",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数 ………………………………… 1",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)産業(中分類)別事業所数 ……………… 2",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別事業所数 ………………… 3",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別従業者数 ………………… 5",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別製造品出荷額等 ………… 7",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 年次別事業所数",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 6 年次別従業者規模別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 7 産業(中分類)別事業所数、従業者数、製造品出荷額等 構成比",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 9 産業(小分類)別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市の事業所数は 242 事業所、従業者数は 7,240 人、製造品出荷額等は 1,885 億円となって",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 238 242 4 1.7",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 「事業所数」及び「従業者数」は、平成26年は年末現在、平成27年は平成28年6月1日現在である",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は 242 事業所で、前年に比べ４事業所(対前年比 1.7％増)増加した",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地法人四半期調査(2025年10-12月期調査)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "業務委託先への不正アクセスによる個人情報の漏えいについて（2025年7月11日更新）",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "3 従業者数 ･･････････････････････････････････････････････････････8",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 従業者一人当 たり",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図1-1 事業所数 および 従業者数 の推移 ･･･････････････････････････････4",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図3-1 産業別従業者数 の構成比 ･････････････････････････････････････8",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図3-2 従業者規模別従業者数 の構成比",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3-1 産業中分類別従業者数 ･･･････････････････････････････････････9",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3-2 従業者規模別従業者数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3-3 地区別従業者数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3-4 経営組織別従業者数",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表5 産業中分類別 1事業所当 たり 従業者数 、製造品出荷額等 および",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表6 産業中分類別 １人当 たり 製造品出荷額等 および 粗付加価値額",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数 および 従業者数 （全事業所 ）････････････････････15",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 は、従業者 30人以上 の事業所 については 「工業調査票甲 」、従業者 29人",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たため 、平成16年調査分結果 の公表より従業者数 の秘匿は行わないこととした",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4人以上の事業所）",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）調査対象 ・日本標準産業分類に掲げる「大分類E-製造業」に属する事業所（国に属する事業所及び製造加工を行っていない本社、従業者３人以下の事業所を除く）",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査内容 ・事業所の名称及び所在地、本社又は本店の名称及び所在地、経営組織、資本金額又は出資金額、 従業者数、現金給与総額、製造品出荷額、在庫額等 他１２事項",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 ７２，０３２ 人",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者30人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（3）従業者4～29人の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（3）従業者30人の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者４人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "推計による従業者３人以下の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "－従業者４人以上の事業所－",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 大分類Ａ－「農業、林業」に属する個人経営の事業所",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 大分類Ｂ－「漁業」に属する個人経営の事業所",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の事業所であること",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成27年、事業所数及び従業者数については平成28年6月1日現在、それ以外の経",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成23年、事業所数及び従業者数については平成24年2月1日現在、それ以外の経",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年次は平成23年及び27年以外、事業所数及び従業者数については各年次の12月31日現在、",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、平成28年活動調査においては、調査事項を一部簡素化（一部廃止）した個人経営調査",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 従業者数は、工業統計の集計における定義に合わせた形で再集計しています",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業者数 ………………………………… 3",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)産業(中分類)別従業者数 ……………… 4",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別従業者数 ………………… 5",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 年次別従業者数",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "4 製造品出荷額等 ････････････････････････････････････････････････10",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図1-2 製造品出荷額等 の推移",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図4-1 産業別製造品出荷額等 の構成比 ･･･････････････････････････････10",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図4-2 従業者規模別製造品出荷額等 の構成比",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4-1 産業中分類別製造品出荷額等 ･････････････････････････････････11",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4-2 従業者規模別製造品出荷額等",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4-3 地区別製造品出荷額等",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4-4 経営組織別製造品出荷額等",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表5 産業中分類別 1事業所当 たり 従業者数 、製造品出荷額等 および",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表6 産業中分類別 １人当 たり 製造品出荷額等 および 粗付加価値額",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）調査内容 ・事業所の名称及び所在地、本社又は本店の名称及び所在地、経営組織、資本金額又は出資金額、 従業者数、現金給与総額、製造品出荷額、在庫額等 他１２事項",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 ２兆５，８８１億 ４４ 百万円",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 １兆 ３２８億 ８３ 百万円",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "５ 製造品出荷額等の経理事項については、原則消費税込みで把握していますが、一部の消費税",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等 ………………………… 5",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)産業(中分類)別製造品出荷額等 ……… 6",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別製造品出荷額等 ………… 7",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 年次別製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 5 年次別 1 事業所当たり製造品出荷額等・従業者数及び従業者 1 人当たり製造品",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 6 年次別従業者規模別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 7 産業(中分類)別事業所数、従業者数、製造品出荷額等 構成比",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 8 産業(中分類)別 1 事業所当たり従業者数、製造品出荷額等及び従業者 1 人当たり製造品",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 9 産業(小分類)別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市の事業所数は 242 事業所、従業者数は 7,240 人、製造品出荷額等は 1,885 億円となって",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "6 粗付加価値額",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 ･･･････････････････････････････････････････････13",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表6 産業中分類別 １人当 たり 製造品出荷額等 および 粗付加価値額",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 ２兆５，８８１億 ４４ 百万円",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 １兆 ３２８億 ８３ 百万円",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 対前年増減数 対前年増減率（％） 対平成23年指数 1事業所当たり従業者数",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは 「食料品製造業」が 736,596 万円（対",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 8.5％増）、「化学工業」が 360,903 万円（同 156.6％増）、 「飲料・たばこ・飼料製造業」",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 315,111 万円（同 14.9％増） などの 15 産業で、減少したのは 「ゴム製品製造業」が 159,126",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 42.1％減）、 「金属製品製造業」が 96,588 万円（同 7.3％減） 、 「生産用機械器具製造",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業」が 42,294 万円（同 19.8％減）などの 7 産業となっている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表9 産業(中分類)別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各規模の全体に占める割合は、「50～99 人規模」が 5,211,793万円（構成比27.7％）と最も",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多く、以下、「100 人以上規模」が5,017,530 万円（同26.6％）、「10～19 人規模」が3,503,618",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 18.6％）となっており、30 人以上規模の事業所が全体の 62.1％を占めている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表10 従業者規模別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2019年工業統計調査結果（速報） | 兵庫県",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "更新日：2024年3月29日",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査(調査期日:令和元年6月1日)の調査結果について、県独自で集計したものを公表します",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は7,603事業所で前年に比べ2.5%減少、従業者数は363,448人で前年に比べ0.4%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は16兆4870億円で前年に比べ5.2%増加、付加価値額は5兆899億円で前年に比べ2.3%増加となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の2019年工業統計調査に関する速報によると、全国に占める兵庫県の位置は、事業所数が構成比4.1%で第6位、従業者数が4.7%で第5位、製造品出荷額等が5.0%で第5位、付加価値額が4.9%で第5位となっています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果速報（PDF：612KB）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2021年実績> 以降",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2020年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2019年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2018年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成29(2017)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成28(2016)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27(2015)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022.12.26",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2025年経済構造実態調査」三次集計結果 産業横断調査(事業所に関する集計)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省生産動態統計 時系列表(61ヶ月)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省企業活動基本調査(2025年調査確報)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "海外事業活動基本調査(2025年調査)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地法人四半期調査(2025年10-12月期調査)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年経済産業省企業活動基本調査速報(2024年度実績)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省企業活動基本調査確報(2021年度実績)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省企業活動基本調査確報(2020年度実績)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査 品目別統計表",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査 地域別統計表",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査 産業別統計表",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年商業動態統計年報",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査 産業別統計表（概要版）",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査速報",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業総供給表（2020年8月分）公表の延期について",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年資源エネルギー統計年報(石油)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度産業向け財・サービスの内外価格調査結果",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和３年経済センサス-活動調査」の統計表の訂正について（2025年12月25日更新）",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "図1-1 事業所数 および 従業者数 の推移 ･･･････････････････････････････4",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図1-2 製造品出荷額等 の推移",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 主要項目 の10年間 の推移 ･････････････････････････････････････5",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比算出 のため 、平成13年の「印刷」については 「新聞」、「 出版」分を除いた",
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/stat/cate3_711.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/stat/cate3_711.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/stat/cate3_711.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査結果速報",
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2021.08.13",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "と時系列比較を行うため、経済センサス‐活動調査（以下「活動調査」という",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は 242 事業所で、前年に比べ４事業所(対前年比 1.7％増)増加した",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2 事業所数の推移",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは「窯業・土石製品製造業」が 3 事",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所（対前年比 30.0％増）、「はん用機械器具製造業」が 2 事業所(同 33.3%増)などの 7 産業",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、減少したのは「飲料・たばこ・飼料製造業」の 1 事業所(同 12.5%減)、「家具・装備品製",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は 7,240 人で、前年に比べ 70 人（1.0％減）減少した",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表5 従業者数の推移",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは「金属製品製造業」が 37 人（対前",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品製造業」が 26 人（同 3.9％増）などの 9 産業で、減少したのは「飲料・たばこ・飼料製造",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は 1,885 億円で、前年と比べ 153.7 億円（8.9％増）増加した",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表8 製造品出荷額等の推移",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "製造工業生産能力・稼働率指数(8月分)",
+    "url": "https://www.meti.go.jp/statistics/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/local_newsletter/n/n6de70cd3e57a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/20681",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcer.or.jp/j-column/column-saito/2025023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/cm_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/page/728220.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spt.metro.tokyo.lg.jp/tosei/hodohappyo/press/2021/03/30/20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/site/toukei/2020kogyokakuho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001156946&layout=datalist&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15332.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00381169/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007257.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/stat/cate3_711.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022687&tclass2=000001045446&tclass3val=0&statdisp_id=0003093289",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2020-kakuhou/h31-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00375096/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000614173.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000541/541258/R01_kougyou_gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00550010&tstat=000001022686&tclass1=000001022790",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00358923/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 人手不足 受注 断る",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "https://note.com/local_newsletter/n/n6de70cd3e57a",
+    "https://www.yokohama-cci.or.jp/wp-content/uploads/2024/02/report_Oct2019.pdf",
+    "https://jimae-saiyo.jp/column/67/",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.dlri.co.jp/files/macro/666459.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/menu_juchu.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 人手不足 損失 億円",
+   "results": [
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.jcer.or.jp/j-column/column-saito/2025023.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/cm_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.pref.okayama.jp/page/728220.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2001/01qdsta0008.pdf",
+    "https://www.pref.oita.jp/site/toukei/2020kogyokakuho.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/cm_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.okayama.jp/page/728220.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.spt.metro.tokyo.lg.jp/tosei/hodohappyo/press/2021/03/30/20.html",
+    "https://www.pref.oita.jp/site/toukei/2020kogyokakuho.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.okayama.jp/page/728220.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001156946&layout=datalist&tclass3val=0",
+    "https://www.pref.oita.jp/site/toukei/2020kogyokakuho.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15332.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/17/s/cm_s-info.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji00381169/index.html",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007257.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://web.pref.hyogo.lg.jp/stat/cate3_711.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022687&tclass2=000001045446&tclass3val=0&statdisp_id=0003093289",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "http://www.etisa.or.jp/kkj-2.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/13/k/cm_sangyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2020-kakuhou/h31-jisseki.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/index.html",
+    "https://www.pref.oita.jp/site/toukei/2020kogyokakuho.html",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15332.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.jagat.or.jp/archives/20681",
+    "https://www.soumu.go.jp/main_content/000614173.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000541/541258/R01_kougyou_gaikyou.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.pref.saga.lg.jp/toukei/kiji00358923/index.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1003959.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Census of Manufacture preliminary vs final revision establishments employees shipments Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202607.html",
+    "https://tradingeconomics.com/japan/manufacturing-pmi",
+    "https://www.prnewswire.com/news-releases/census-bureau-completes-release-of-all-364-manufacturing-reports-from-economic-census-industry-series-277803591.html",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+   "results": [
+    "https://note.com/akiyoshitakumori/n/nd35553e87644",
+    "https://note.com/trex_ai/n/n6b4e73906645",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/y44901726/n/n015115dc59d6",
+    "https://note.com/noted_ixora104/n/n064114b5c265",
+    "https://note.com/akiyoshitakumori/n/nc443007d3a8a",
+    "https://note.com/akiyoshitakumori/n/nf6d2c1bec3cf",
+    "https://note.com/akiyoshitakumori/n/n52552772d46a",
+    "https://note.com/trex_ai/n/nbf0fb23199a2",
+    "https://note.com/akiyoshitakumori/n/nb140bdecf965"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+   "results": [
+    "https://x.com/meti_NIPPON/status/2117214013767741612",
+    "https://x.com/meti_Kanto/status/2112725559822471556",
+    "https://x.com/meti_NIPPON/status/1930190855756710032",
+    "https://x.com/METI_chb/status/2113193649454342216",
+    "https://x.com/meti_NIPPON/status/1808863332704866422",
+    "https://x.com/matsumoto1116/status/2058375654119510452",
+    "https://x.com/chosakai_info",
+    "https://x.com/takagi1/status/1133345824480608257",
+    "https://x.com/LPGadvisorJP/status/2057579841055252832",
+    "https://x.com/CgtnJapanese/status/2113527578623680969"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-update-1-2025-draw-dangers-aswath-damodaran-bx4bc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-where-did-intra-industry-trade-emerge-richard-baldwin-ed4he?tl=ja",
+    "https://www.linkedin.com/posts/ryushiro_%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E5%AE%98%E8%A3%BD%E3%81%AE%E6%88%90%E9%95%B7%E8%AB%96%E5%89%8D%E9%9D%A2%E3%81%AB%E5%BE%8C%E9%80%80%E3%81%99%E3%82%8B%E6%A0%AA%E4%B8%BB%E9%87%8D%E8%A6%96%E6%8A%95%E8%B3%87%E3%81%AE%E8%A6%8F%E5%BE%8B%E3%81%AB%E4%B8%8D%E5%AE%89-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7510150074761621504-c4j5",
+    "https://jp.linkedin.com/pulse/major-industry-classification-systems-around-world-part-zhang?tl=ja",
+    "https://www.linkedin.com/in/mayosuzuki/",
+    "https://www.linkedin.com/products/2nf-japan-%E9%A1%A7%E5%AE%A2%E9%96%A2%E4%BF%82%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB/",
+    "https://www.linkedin.com/posts/hirotakashoneshibata_data-book-2026-english-data-book-%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%96%AC%E5%B7%A5%E6%A5%AD%E5%8D%94%E4%BC%9A-activity-7442135903105576960-SdzB",
+    "https://www.linkedin.com/in/hidenobu-mochigase-50674416b",
+    "https://jp.linkedin.com/pulse/%E5%B7%AE%E5%8B%95%E3%82%A2%E3%83%B3%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E6%9C%80%E8%BF%91%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AE%E5%BD%B1%E9%9F%BF%E5%88%86%E6%9E%90%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-optic-orbitse-9u8be",
+    "https://hk.linkedin.com/in/kathy-wang-27664235"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90）",
+   "results": [
+    "https://www.facebook.com/ReutersJapan/posts/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%B5%B1%E8%A8%88%E5%B1%80%E3%81%8C%EF%BC%92%EF%BC%97%E6%97%A5%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%EF%BC%99%E6%9C%88%E3%81%AE%E5%B7%A5%E6%A5%AD%E9%83%A8%E9%96%80%E4%BC%81%E6%A5%AD%E5%88%A9%E7%9B%8A%E3%81%AF%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%88%E6%AF%94%EF%BC%91%EF%BC%94%EF%BC%94%E5%A2%97%E5%8A%A0%E3%81%97%EF%BC%98%E6%9C%88%E3%81%AE%EF%BC%94%EF%BC%92%E5%A2%97%E3%81%8B%E3%82%89%E5%8A%A0%E9%80%9F%E3%81%97%E3%81%9F%E3%81%9F%E3%81%A0%E7%B5%8C%E6%B8%88%E3%81%AE%E4%BA%8C%E6%A5%B5%E5%8C%96%E3%81%8C%E6%B7%B1%E3%81%BE%E3%82%8A%E4%BC%81%E6%A5%AD%E5%8F%8E%E7%9B%8A%E3%82%92%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E5%9C%A7%E8%BF%AB/1783382690456770/",
+    "https://www.facebook.com/jlia.or.jp/posts/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9%E7%9A%AE%E9%9D%A9%E5%8F%8A%E3%81%B3%E9%9D%A9%E8%A3%BD%E5%93%81%E9%96%A2%E9%80%A3%E8%B2%BF%E6%98%93%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E6%9B%B4%E6%96%B0%E8%B2%BF%E6%98%93%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF%E8%B2%A1%E5%8B%99%E7%9C%81%E9%96%A2%E7%A8%8E%E5%B1%80%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E8%B2%BF%E6%98%93%E7%B5%B1%E8%A8%88%E3%82%92%E5%9F%BA%E7%A4%8E%E8%B3%87%E6%96%99%E3%81%A8%E3%81%97%E3%81%A6%E7%9A%AE%E9%9D%A9%E5%8F%8A%E3%81%B3%E9%9D%A9%E8%A3%BD%E5%93%81%E9%96%A2%E9%80%A3%E3%81%AE%E4%B8%BB%E3%81%AA%E9%A0%85%E7%9B%AE%E3%82%92%E9%9B%86%E8%A8%88/1643624007549059/",
+    "https://www.facebook.com/phrmajapanoffice/?locale=ja_JP",
+    "https://www.facebook.com/takaichisanae/posts/%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6%E3%82%92%E5%BC%B7%E3%81%8F%E8%B1%8A%E3%81%8B%E3%81%AB%E4%B8%89%E9%87%8D%E7%B7%A8%E6%9C%AC%E6%97%A5%E3%81%AF%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E6%88%A6%E7%95%A5%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8D%E4%B8%89%E9%87%8D%E7%9C%8C%E3%81%8C%E7%AD%96%E5%AE%9A%E3%81%97%E3%81%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E7%94%A3%E6%A5%AD%E5%88%86%E9%87%8E%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9C%B0%E5%9F%9F%E7%94%A3%E6%A5%AD%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E8%A8%88%E7%94%BB%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AFdx%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95/1480637284161920/",
+    "https://www.facebook.com/ReutersJapan/posts/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%B5%B1%E8%A8%88%E5%B1%80%E3%81%8C28%E6%97%A5%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A81-8%E6%9C%88%E3%81%AE%E5%B7%A5%E6%A5%AD%E9%83%A8%E9%96%80%E4%BC%81%E6%A5%AD%E5%88%A9%E7%9B%8A%E3%81%AF%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%88%E6%AF%94157%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%9F/1751385940323112/",
+    "https://www.facebook.com/ChinaDailyAsiaCH/posts/%E4%B8%AD%E5%9C%8B%E9%80%A0%E8%88%B9%E6%A5%AD%E4%B8%89%E5%A4%A7%E6%8C%87%E6%A8%99%E9%A0%98%E8%B7%91%E5%85%A8%E7%90%83-%E5%A4%9A%E5%9E%8B%E8%88%B9%E8%88%B6%E6%96%B0%E6%8E%A5%E8%A8%82%E5%96%AE%E4%BF%9D%E6%8C%81%E9%AB%98%E4%BD%8D10%E6%9C%8823%E6%97%A5%E4%B8%AD%E5%9C%8B-%E5%B7%A5%E6%A5%AD%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E9%83%A8%E7%99%BC%E5%B8%832026%E5%B9%B41%E8%87%B39%E6%9C%88%E5%85%A8%E5%9C%8B%E8%88%B9%E8%88%B6%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E6%95%B8%E6%93%9A%E9%80%A0%E8%88%B9%E6%A5%AD%E4%B8%89%E5%A4%A7%E6%8C%87%E6%A8%99%E6%8C%81%E7%BA%8C%E5%85%A8%E7%90%83%E9%A0%98%E8%B7%91%E4%B8%AD%E5%9C%8B%E9%80%A0%E8%88%B9/1673999368069799/",
+    "https://www.facebook.com/groups/statnccu/posts/1626710465293649/",
+    "https://www.facebook.com/latviaembassy.tokyo/posts/-nextstatx%E7%9C%9F%E3%81%AB%E5%8F%8C%E6%96%B9%E5%90%91%E3%81%AE%E4%BA%A4%E6%B5%81%E3%81%B8%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%90%E3%83%AB%E3%83%88%E3%81%AE%E8%BC%AA-10%E6%9C%887%E6%97%A5%E3%82%AB%E3%82%B9%E3%83%91%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AB%E3%83%A0%E3%83%9B%E3%83%AB%E3%83%84%E6%AC%A1%E6%9C%9F%E9%A7%90%E6%97%A5%E3%83%A9%E3%83%88%E3%83%93%E3%82%A2%E5%A4%A7%E4%BD%BF%E3%81%AF2026%E5%B9%B4%E5%BA%A6-%E7%B5%B1%E8%A8%88dx%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E4%BA%A4%E6%B5%81%E4%BA%8B%E6%A5%ADnex/1392411413068062/",
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.facebook.com/yanotsuneta/?locale=ja_JP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） note 社長",
+   "results": [
+    "https://note.com/kiku_keizai/n/n63e5592032a5",
+    "https://www.meti.go.jp/statistics/tyo/yosoku/result-4.html",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/todobuono/m/m212af1fc670f/hashtag/%E7%94%9F%E7%94%A3",
+    "https://www.nikkei.com/",
+    "https://x.com/ipo_majime/status/2046882379839778997",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/d827621d-e032-4d0b-9423-c8797fa22e82/download",
+    "https://note.com/todobuono/m/m212af1fc670f/hashtag/GDP",
+    "https://www.rieti.go.jp/users/iwamoto-koichi/serial/207.html",
+    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計 速報と確報の値の差（同じ年・産業細分類・事業所数・従業者数・製造品出荷額等・直しの大きさを前年からの変化と並べる・4-90） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://kantoko.com/blog/2023/09/90447/",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/kogyotoukeityosa.html",
+    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/sokuho/index.html",
+    "https://data-seisaku.com/00550-meti-00550010-1-03-full-list/",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000333.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://x.com/meti_NIPPON/status/2117214013767741612",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Census of Manufacture preliminary vs final revision establishments employees shipments Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/timothy-persons",
+    "https://www.linkedin.com/in/swayamsiddha-sarangi-56190552",
+    "https://uz.linkedin.com/in/najy-benhassine-86b84263",
+    "https://www.linkedin.com/in/gayleroenbaugh",
+    "https://www.linkedin.com/in/jimredden",
+    "https://www.linkedin.com/in/maximiliano-dvorkin-105175227",
+    "https://www.linkedin.com/in/nicholas-nonnenmacher",
+    "https://www.linkedin.com/in/jacob-otto-218682101",
+    "https://www.linkedin.com/in/kaquansah",
+    "https://www.linkedin.com/in/shenderovich"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

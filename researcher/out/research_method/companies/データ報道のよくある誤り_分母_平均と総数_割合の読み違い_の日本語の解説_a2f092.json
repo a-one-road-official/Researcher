@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-07T16:32:39.931713+00:00",
+ "researched_at": "2026-11-07T22:07:03.847394+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -34,12 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n071245058836",
+    "url": "https://note.com/reading_monkey/n/nc163a82be160",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/nc163a82be160",
+    "url": "https://note.com/reading_monkey/n/n071245058836",
     "status": "ok",
     "method": "http"
    },
@@ -69,9 +69,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
+    "url": "https://note.com/d2cid_inc/n/n8f0d0873057f",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
@@ -94,18 +94,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://lab-brains.as-1.co.jp/enjoy-learn/2025/04/75007/",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -114,7 +104,27 @@
     "method": "http"
    },
    {
+    "url": "https://kyodonewsprwire.jp/corp/glossary/7035/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wakara.co.jp/mathlog/20260304",
     "status": "ok",
     "method": "http"
    },
@@ -139,6 +149,11 @@
     "method": "http"
    },
    {
+    "url": "https://isoj.org/research/knowing-the-numbers-assessing-attitudes-among-journalists-and-educators-about-using-and-interpreting-data-statistics-and-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
     "status": "ok",
     "method": "http"
@@ -147,11 +162,6 @@
     "url": "https://www.reddit.com/r/Journalism/comments/wf2mcz/how_common_are_such_rudimentary_math_errors_in/",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://americanpressinstitute.org/data-reporting-common-mistakes/",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -163,13 +173,18 @@
     "https://note.com/mototchen/n/n3f7bb0989f47",
     "https://note.com/naruhiko_007/n/ndcf3dfc64fda",
     "https://note.com/suoh2009/n/n3df559457547",
-    "https://note.com/reading_monkey/n/n071245058836",
     "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/reading_monkey/n/n071245058836",
     "https://note.com/epolicy_actvst/n/nb3cb56078b4b",
-    "https://note.com/kagawatomo/n/ne8d541e57ea5",
     "https://note.com/kitecareplan/n/n05ffe0700fff",
+    "https://note.com/kagawatomo/n/ne8d541e57ea5",
     "https://note.com/bizgram/n/n9a587c22ec50"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 note",
@@ -180,11 +195,16 @@
     "https://data.wingarc.com/statistical-terms-31007",
     "https://note.com/genial_robin6007/n/n60eb97bcad5d",
     "https://www.youtube.com/watch?v=UufmBeh_GcA",
-    "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
-    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
+    "https://note.com/d2cid_inc/n/n8f0d0873057f",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://note.com/rich_mango631/n/n5eb9b8d4629e"
-   ]
+    "https://note.com/rich_mango631/n/n5eb9b8d4629e",
+    "https://note.com/qiqumo/n/n1c61def6c306"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 やり方",
@@ -195,24 +215,36 @@
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
     "https://www.youtube.com/watch?v=UufmBeh_GcA",
-    "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
-    "https://kenkyo.ai/llmo-paper-citation-vulnerabilities-2025/"
-   ]
+    "https://kenkyo.ai/llmo-paper-citation-vulnerabilities-2025/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://blog.truestar.co.jp/exploratory/20210827/47128/",
+    "https://www.software-plaza.com/column/誤用されがちな統計用語/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 事例",
    "results": [
     "https://data.wingarc.com/statistical-terms-31007",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
+    "https://kyodonewsprwire.jp/corp/glossary/7035/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://lab-brains.as-1.co.jp/enjoy-learn/2025/04/75007/",
+    "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "https://www.software-plaza.com/column/誤用されがちな統計用語/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "common data journalism mistakes averages totals denominators",
@@ -220,14 +252,19 @@
     "https://gijn.org/stories/10-common-mistakes-data-journalism/",
     "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://bookdown.org/profrobwells/bookdown-demo/introduction-to-data-analysis.html",
+    "https://isoj.org/research/knowing-the-numbers-assessing-attitudes-among-journalists-and-educators-about-using-and-interpreting-data-statistics-and-research/",
     "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
     "https://www.reddit.com/r/Journalism/comments/wf2mcz/how_common_are_such_rudimentary_math_errors_in/",
     "https://americanpressinstitute.org/data-reporting-common-mistakes/",
     "https://mediahelpingmedia.org/advanced/data-journalism-glossary/",
-    "https://isoj.org/research/knowing-the-numbers-assessing-attitudes-among-journalists-and-educators-about-using-and-interpreting-data-statistics-and-research/",
-    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
+    "https://guides.library.columbia.edu/journalism-data/analyzing",
     "https://senseofstudy.com/statistics/mistakes"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:note.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
@@ -242,19 +279,28 @@
     "https://note.com/jack4manastalk/n/n880406135053",
     "https://note.com/arukuwa/n/n465f6ccdb4a5",
     "https://note.com/platypus2000jp/n/n7dc4e5cc8a49"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
    "results": [
-    "https://x.com/takumi_deveblog/status/2111343954419417174",
     "https://x.com/takashi_hatai/status/2090066374265831904",
+    "https://x.com/takumi_deveblog/status/2111343954419417174",
     "https://x.com/tmaita77/status/1134384826960605185",
-    "https://x.com/grok/status/2104783488968798347",
     "https://x.com/tak_ru_mon55/status/2109854628510880179",
     "https://x.com/cractyo/status/2109762250424885269",
-    "https://x.com/TORicky_JPN/status/2062739825392758992"
-   ]
+    "https://x.com/TORicky_JPN/status/2062739825392758992",
+    "https://x.com/CoKI_______/status/2107850886982811892"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
@@ -263,29 +309,50 @@
     "https://jp.linkedin.com/posts/dhbr_データの読解力を高めるたった一つの方法-分母に注目するだけで意思決定の質が変-activity-7361139755545190401-yCAa",
     "https://www.linkedin.com/posts/toshiyuki-shimono-17a90323_一昨日東京都庁展望台で集団接種を受けたときにもらった紙書いてある割合のパーセント-activity-6956535054000947200-prUk",
     "https://www.linkedin.com/posts/thibault-fondere_平均値は真実を語るのか-平均するとです-データ分析ではよく聞くフレーズ-activity-7313387269292232704-ByG_",
-    "https://jp.linkedin.com/posts/宏徳-高木-69a109108_分析してだけでは平均と件数しか返ってこない-売上やアンケートのデータを-activity-7503604175545577472-ZRpn",
     "https://jp.linkedin.com/posts/尊-河合-6b73aa1a5_テレアポで間違えがちなのがコール数を分母においてしまうこと-たとえば2000-activity-7496791857515913216-v-Z3",
+    "https://jp.linkedin.com/posts/宏徳-高木-69a109108_分析してだけでは平均と件数しか返ってこない-売上やアンケートのデータを-activity-7503604175545577472-ZRpn",
     "https://jp.linkedin.com/pulse/分布データが示す平均値という幻想-michio-okazaki-k3w2c"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説",
-   "results": []
+   "results": [
+    "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
+    "https://www.facebook.com/uenotakashi.plaza/posts/平均値の使い方の誤りの典型例金融庁がこんな事でいいのかマスコミもマスコミだ年金制度とは無関係いい記事発見/2560536127563567/",
+    "https://www.facebook.com/yumehome/posts/よくニュースなどで出てくる数字基本的に分母と比較が無い数字って何の意味もない見てる人をある一定の方向に誘導したい場合分母や比較は絶対にしませんバレるから笑新型コ/4795976150415724/",
+    "https://www.facebook.com/ONAJapan/posts/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955051576136/",
+    "https://www.facebook.com/AYMDS.JP/posts/第25報の投稿において一部集計値の誤りが御座いましたお詫びして訂正させて頂きます今回の調査では医師のメンタルヘルスの状態について日本版精神健康調査票genera/697342731061348/",
+    "https://www.facebook.com/best.biostatistics/posts/論文でよく見る最小二乗平均-lsmeanこれただの平均値と何が違うか説明できますか-実はこれ交絡因子の影響を消し去りグループ間の真の差を暴く魔法の指標なんですそ/1369404434643192/",
+    "https://www.facebook.com/NewsweekJAPAN/posts/現代的なデータ報道のニュース体験は読むから体験するに変わっていく-by-荻原和樹google-news-lab-ティーチングフェロー-新型コロナ禍で普及したデー/930843602377647/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 note 社長",
    "results": [
     "https://note.com/kubinashi_ai/n/na2e7ad97504a",
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://note.com/makememo/n/n7731279fdf2c",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://data.wingarc.com/statistical-terms-31007",
     "https://note.com/d2cid_inc/n/n8f0d0873057f",
     "https://www.youtube.com/watch?v=UufmBeh_GcA",
     "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
+    "https://business.nikkei.com/atcl/seminar/19/00067/",
     "https://www.high-s.tsukuba.ac.jp/shs/kiyou/2009/kiyou2009.pdf",
-    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
-    "https://note.com/qiqumo/n/n1c61def6c306"
-   ]
+    "https://note.com/rich_mango631/n/n5eb9b8d4629e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 X 投稿",
@@ -294,38 +361,48 @@
     "https://data.wingarc.com/statistical-terms-31007",
     "https://www.gixo.jp/blog/12335/",
     "https://www.youtube.com/watch?v=3WPUgvA8x3I",
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
-    "https://www.jmp.com/ja/statistics-knowledge-portal/measures-of-central-tendency-and-variability/mean-median-and-mode",
     "https://wakara.co.jp/mathlog/20201121",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://webtan.impress.co.jp/e/2026/09/15/53172",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "https://www.software-plaza.com/column/誤用されがちな統計用語/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "common data journalism mistakes averages totals denominators site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/average-youre-using-wrong-geometric-harmonic-means-data-mcnichol",
     "https://in.linkedin.com/in/prakriti-bakshi-data",
+    "https://www.linkedin.com/in/samantha-dean123",
     "https://www.linkedin.com/in/matt-calder-11778b19",
     "https://www.linkedin.com/in/meena-maharjan-aa6b34150",
     "https://uk.linkedin.com/in/steve-ellerd-elliott-19a752a9",
-    "https://www.linkedin.com/in/samantha-dean123",
     "https://www.linkedin.com/posts/umairlive-data-analyst-market-research-analyst_a-police-report-said-3-8-a-new-academic-activity-7513649328960200704-U5H-",
-    "https://www.linkedin.com/in/aishwarya-sarkar",
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-in-journalism/ai-vs-human-creativity-in-news/",
     "https://www.linkedin.com/in/nathan-crouse-00728278",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-in-journalism/ai-vs-human-creativity-in-news/"
-   ]
+    "https://www.linkedin.com/in/aishwarya-sarkar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ28頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）",
-  "実例": "記載なし（読んだ28頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T21:41:56.514499+00:00"
 }
