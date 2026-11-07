@@ -8,8 +8,34 @@
  ],
  "context": "探し先・書き手",
  "kind": "market",
- "researched_at": "2026-11-07T01:28:01.287288+00:00",
+ "researched_at": "2026-11-07T06:46:54.510950+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "Advantages Primary source, direct participants ’/",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "chy levels (primary sources), in addition to outside experts",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The remaining edge in fundamental equity research is increasingly a human one. Not the ability to build a better model, but the ability to have better conversations — with the people who sit one or two steps away from the company being analyzed and who have a ground-level view of what is actually happening that no quarterly filing captures.",
+    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Human intelligence from channel sources is most powerful when it can be reconciled against quantitative data that provides independent corroboration or challenge. Trade data — customs records, shipping databases, and import/export filings across relevant jurisdictions — provides exactly that corroboration for companies with significant physical product flows.",
+    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "interview is close to zero; it needs to be cross-checked",
@@ -62,6 +88,152 @@
    {
     "quote": "Absolutely. MAXQDA allows integration of semi-structured interview data with other data, such as focus groups, open-ended survey responses, and field notes. Combining data sources enhances triangulation and deepens interpretation.",
     "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "cases where the number of observations is low. Experts can",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "interventions into the tax administration; and b) examples",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "about the political process or event of interest. In this case,",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "outline with examples from a research project on particu-",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of interest. In this case, expert interviews are a proxy for",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The case for mid- and low-level insiders: Oftentimes,",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "level civil servants. For example, to investigate political",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "managers in these cases was ‘don’t go to this man, this",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "scholars reject the method in di ﬃcult cases.",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "analysis (von Soest 2009; for another example, Lundgren",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Mavourneen G. Casey, and Michael Lawless. 2019.",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“Case Study Research: Putting the Quant into the",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "George, Alexander L., and Andrew Bennett. 2005. Case",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gerring, John. 2017. Case Study Research: Principles and",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Neopatrimonialism Aﬀect the African State? The Case",
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An Example of a Semi-Structured Interview Guide",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Semi-structured interviews should feel like guided conversations. How to achieve this will depend on the participant. For example, some participants are naturally talkative, while others will be shyer for different reasons. Therefore, consider this list as general best practices:",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Encourage participants to elaborate rather than give yes/no answers by asking open-ended questions. For example, asking “What do you like about the program?” instead of “Do you like the program?”",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is equally important to avoid phrasing that can make participants feel judged or pressured. For example,",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The code relations browser (Figure 5) and MAXMaps allow you to represent how codes and themes interconnect, how often concepts were mentioned, or how perspectives differ across cases. For semi-structured interviews, this makes it easier to display variations between participants while keeping findings linked to the underlying coded material.",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Damiano, M., Wager, B., Rocco, A., Shertzer, K. W., Murray, G. D., & Cao, J. (2022). Integrating information from semi-structured interviews into management strategy evaluation: A case study for Southeast United States marine fisheries.",
+    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Customers: Are the use cases and satisfaction levels reported by current customers consistent with the retention narrative? What are churned customers saying about why they left?",
+    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Below is an example of how Channel Checks translate to market insights by industry. See our full list of sector coverage at the bottom of this article.",
+    "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"ROI on Meta in 3Q25 met expectations and in some cases exceeded them, with improved signals and signal stability enhancing algorithm optimization, particularly benefiting e-commerce and D2C brands.\" –",
+    "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -214,178 +386,6 @@
    {
     "quote": "At the heart of our Channel Checks is the AI Interviewer: a live, unbiased system trained on extensive sector knowledge and optimized to extract clarity from complex markets. Each interview follows a standardized yet adaptive framework that combines consistent question flow with dynamic probing, ensuring every conversation reveals the “why” behind shifts in sentiment, pricing, or performance.",
     "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "cases where the number of observations is low. Experts can",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "interventions into the tax administration; and b) examples",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "about the political process or event of interest. In this case,",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "outline with examples from a research project on particu-",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of interest. In this case, expert interviews are a proxy for",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The case for mid- and low-level insiders: Oftentimes,",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "level civil servants. For example, to investigate political",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "managers in these cases was ‘don’t go to this man, this",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "scholars reject the method in di ﬃcult cases.",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "analysis (von Soest 2009; for another example, Lundgren",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Mavourneen G. Casey, and Michael Lawless. 2019.",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Case Study Research: Putting the Quant into the",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "George, Alexander L., and Andrew Bennett. 2005. Case",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Gerring, John. 2017. Case Study Research: Principles and",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Neopatrimonialism Aﬀect the African State? The Case",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An Example of a Semi-Structured Interview Guide",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Semi-structured interviews should feel like guided conversations. How to achieve this will depend on the participant. For example, some participants are naturally talkative, while others will be shyer for different reasons. Therefore, consider this list as general best practices:",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Encourage participants to elaborate rather than give yes/no answers by asking open-ended questions. For example, asking “What do you like about the program?” instead of “Do you like the program?”",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It is equally important to avoid phrasing that can make participants feel judged or pressured. For example,",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The code relations browser (Figure 5) and MAXMaps allow you to represent how codes and themes interconnect, how often concepts were mentioned, or how perspectives differ across cases. For semi-structured interviews, this makes it easier to display variations between participants while keeping findings linked to the underlying coded material.",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Damiano, M., Wager, B., Rocco, A., Shertzer, K. W., Murray, G. D., & Cao, J. (2022). Integrating information from semi-structured interviews into management strategy evaluation: A case study for Southeast United States marine fisheries.",
-    "url": "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Customers: Are the use cases and satisfaction levels reported by current customers consistent with the retention narrative? What are churned customers saying about why they left?",
-    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Below is an example of how Channel Checks translate to market insights by industry. See our full list of sector coverage at the bottom of this article.",
-    "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"ROI on Meta in 3Q25 met expectations and in some cases exceeded them, with improved signals and signal stability enhancing algorithm optimization, particularly benefiting e-commerce and D2C brands.\" –",
-    "url": "https://www.alpha-sense.com/resources/product-articles/channel-checks-market-insights-q3-2025/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Advantages Primary source, direct participants ’/",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "chy levels (primary sources), in addition to outside experts",
-    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The remaining edge in fundamental equity research is increasingly a human one. Not the ability to build a better model, but the ability to have better conversations — with the people who sit one or two steps away from the company being analyzed and who have a ground-level view of what is actually happening that no quarterly filing captures.",
-    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Human intelligence from channel sources is most powerful when it can be reconciled against quantitative data that provides independent corroboration or challenge. Trade data — customs records, shipping databases, and import/export filings across relevant jurisdictions — provides exactly that corroboration for companies with significant physical product flows.",
-    "url": "https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -658,7 +658,7 @@
     "method": "http"
    },
    {
-    "url": "https://comemo.nikkei.com/n/na17ba34bcfb6?gs=ff09652d89d7d09287ceaec88a47bb4d",
+    "url": "https://comemo.nikkei.com/n/na17ba34bcfb6?gs=98359fc833e180cbfba339240c135769",
     "status": "ok",
     "method": "http"
    },
@@ -668,7 +668,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/in_the/n/n9e6ae156b0ed",
+    "url": "https://note.com/kataokadesign/n/n6e055cc58efc",
     "status": "ok",
     "method": "http"
    },
@@ -698,17 +698,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ikechan/n/n6360071091e3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.tunag.jp/article/55649",
+    "url": "https://www.siteengine.co.jp/blog/kokyakukaizoudo/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.wowcom.co.jp/blog/datamarketing/how-to-get-customer-voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.tunag.jp/article/55649",
     "status": "ok",
     "method": "http"
    },
@@ -719,16 +719,16 @@
    },
    {
     "url": "https://www.kwm.co.jp/blog/customer-voice/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizgarage.jp/column/seo_id17",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://chat-interview.com/blog/articles/customer-voice.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.bizgarage.jp/column/seo_id17",
+    "url": "https://biz.nikkan.co.jp/service/enq2.html",
     "status": "ok",
     "method": "http"
    },
@@ -739,12 +739,17 @@
    },
    {
     "url": "https://spice-factory.co.jp/tips/voc-about/",
-    "status": "ok",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chaco-web.com/blog/customer-voice-for-sme/",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
     "url": "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/",
-    "status": "ok",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -754,11 +759,6 @@
    },
    {
     "url": "https://bcj-co.jp/keiei28/consulting/knowhow469.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.consulnote.com/articles/communication/organizational-listening/",
     "status": "ok",
     "method": "http"
    },
@@ -773,9 +773,14 @@
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6910737/",
+    "url": "https://wwwn.cdc.gov/QBank/QUEST/QDET1/ramirez.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.scribbr.com/methodology/structured-interview/",
@@ -786,11 +791,6 @@
     "url": "https://www.researchgate.net/post/How_can_a_solo_researcher_avoid_introducing_bias_when_analysing_data_collected_in_interviews_and_surveys",
     "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://wwwn.cdc.gov/QBank/QUEST/QDET1/ramirez.pdf",
-    "status": "ok",
-    "method": "pdf"
    }
   ]
  },
@@ -803,8 +803,8 @@
     "https://note.com/yossy_pr88/n/na8d40c223fc4",
     "https://note.com/keisuke36/n/na17ba34bcfb6",
     "https://biz.note.com/magazines",
-    "https://note.com/in_the/n/n9e6ae156b0ed",
     "https://note.com/kataokadesign/n/n6e055cc58efc",
+    "https://note.com/in_the/n/n9e6ae156b0ed",
     "https://note.com/tck/n/n95812964bcbb",
     "https://note.com/konkon4192/n/nc04b0ed3a10f",
     "https://note.com/nandakore_8823/n/n420feee48428"
@@ -817,26 +817,26 @@
     "https://biz.note.com/n/nc7a7d0c422c4",
     "https://note.com/yassango2/n/n118c3762972c",
     "https://biz.moneyforward.com/work-efficiency/basic/1925/",
-    "https://www.youtube.com/watch?v=8Su80jXWpso",
     "https://knowns.co.jp/blog/1311/",
-    "https://note.com/ikechan/n/n6360071091e3",
     "https://www.siteengine.co.jp/blog/kokyakukaizoudo/",
+    "https://note.com/info/n/nfb589036d885",
     "https://www.comnico.jp/we-love-social/note_matome",
-    "https://note.com/ichihashi_log/n/n756f282dee08"
+    "https://www.conmark.jp/column/recruitment-note-case-study",
+    "https://note.com/takesato126/n/ne07de1c17597"
    ]
   },
   {
    "query": "現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手 やり方",
    "results": [
-    "https://biz.tunag.jp/article/55649",
     "https://www.wowcom.co.jp/blog/datamarketing/how-to-get-customer-voice/",
+    "https://biz.tunag.jp/article/55649",
+    "https://biz.moneyforward.com/work-efficiency/basic/1925/",
     "https://squareup.com/jp/ja/townsquare/how-to-collect-user-voice",
     "https://www.kwm.co.jp/blog/customer-voice/",
-    "https://knowns.co.jp/blog/1311/",
-    "https://biz.moneyforward.com/work-efficiency/basic/1925/",
-    "https://chat-interview.com/blog/articles/customer-voice.html",
     "https://www.bizgarage.jp/column/seo_id17",
-    "https://www.siteengine.co.jp/blog/kokyakukaizoudo/",
+    "https://biz.nikkan.co.jp/service/enq2.html",
+    "https://knowns.co.jp/blog/1311/",
+    "https://emotion-tech.co.jp/column/2025/voc-collection-method/",
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/"
    ]
   },
@@ -844,14 +844,14 @@
    "query": "現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手 事例",
    "results": [
     "https://www.wowcom.co.jp/blog/datamarketing/how-to-get-customer-voice/",
-    "https://biz.tunag.jp/article/55649",
     "https://www.toshibatec.co.jp/useful/rt/202304-dstopics01.html",
+    "https://biz.tunag.jp/article/55649",
     "https://knowns.co.jp/blog/1311/",
     "https://squareup.com/jp/ja/townsquare/how-to-collect-user-voice",
     "https://spice-factory.co.jp/tips/voc-about/",
     "https://www.kwm.co.jp/blog/customer-voice/",
-    "https://chat-interview.com/blog/articles/customer-voice.html",
-    "https://www.youtube.com/watch?v=tOLoisDAsA4",
+    "https://www.chaco-web.com/blog/customer-voice-for-sme/",
+    "https://biz.nikkan.co.jp/service/enq2.html",
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/"
    ]
   },
@@ -860,37 +860,38 @@
    "results": [
     "https://www.ajqr.org/download/meaningful-member-checking-a-structured-approach-to-member-checking-12973.pdf",
     "https://www.maxqda.com/research-guides/semi-structured-interviews",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6910737/",
+    "https://wwwn.cdc.gov/QBank/QUEST/QDET1/ramirez.pdf",
+    "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
     "https://www.scribbr.com/methodology/structured-interview/",
     "https://www.researchgate.net/post/How_can_a_solo_researcher_avoid_introducing_bias_when_analysing_data_collected_in_interviews_and_surveys",
-    "https://wwwn.cdc.gov/QBank/QUEST/QDET1/ramirez.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/",
     "https://delvetool.com/blog/member-check-respondent-validation",
-    "https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf",
-    "https://www.youtube.com/watch?v=PQWyN0Jsx8A"
+    "https://www.ebsco.com/research-starters/communication-and-mass-media/interviews/",
+    "https://nextyn.com/articles/channel-check-methodology"
    ]
   },
   {
    "query": "site:note.com 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手",
    "results": [
+    "https://note.com/takesato126/n/ne07de1c17597",
     "https://note.com/ichihashi_log/n/nd3bb2b3ebabb",
     "https://note.com/startday0/n/nd35924ef93ea",
-    "https://note.com/takesato126/n/ne07de1c17597",
     "https://note.com/gonchan_kanri/n/nc82c8fdcb93c",
     "https://note.com/ichihashi_log/n/n756f282dee08",
     "https://note.com/hrbuddy/n/n273b14f47953",
-    "https://note.com/engagementrun/n/n52c5f5440b52"
+    "https://note.com/shouhei9489/n/n9965ac71f6e6"
    ]
   },
   {
    "query": "site:x.com 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手",
    "results": [
     "https://x.com/genbanokoe_jpn",
+    "https://x.com/ShioseGoku",
+    "https://x.com/KIDpgkh/status/2114870821869310283",
     "https://x.com/chibakome1117/status/2068287748990288162",
     "https://x.com/kondo_shoichi/status/2073956703679529202",
-    "https://x.com/KIDpgkh/status/2114870821869310283",
-    "https://x.com/GWqfc06/status/2064981528707485818",
     "https://x.com/takeuchi_shacho/status/2035114660492456417",
-    "https://x.com/hasibiro_maga/status/2106573889879076894"
+    "https://x.com/GWqfc06/status/2064981528707485818"
    ]
   },
   {
@@ -929,7 +930,7 @@
     "https://business.nikkei.com/atcl/seminar/21nv/00065/092800002/",
     "https://note.com/info/n/n7f1a7c35c7ea",
     "https://knowns.co.jp/blog/1311/",
-    "https://note.com/ichihashi_log/n/n756f282dee08"
+    "https://note.com/takesato126/n/ne07de1c17597"
    ]
   },
   {
@@ -940,8 +941,8 @@
     "https://squareup.com/jp/ja/townsquare/how-to-collect-user-voice",
     "https://www.youtube.com/watch?v=pfq09RXdVnc",
     "https://www.nttdata-strategy.com/archives/survey/goo/pdf/goo_130805.pdf",
-    "https://prx.dentsuprc.co.jp/blog/c111",
     "https://knowns.co.jp/blog/1311/",
+    "https://prx.dentsuprc.co.jp/blog/c111",
     "https://gaiax-socialmedialab.jp/post-46022/",
     "https://readycrew.jp/media/post/550",
     "https://writing-interview.com/manufacturing-case-study-field-voice-writing-guide/"
@@ -952,19 +953,19 @@
    "results": [
     "https://www.linkedin.com/posts/nacke_research-phd-bias-activity-7366437766940745728-9rkI",
     "https://www.linkedin.com/top-content/recruitment-hr/interview-techniques-for-recruiters/challenges-of-traditional-interview-methods/",
-    "https://www.linkedin.com/pulse/evidence-based-guide-hiring-interviews-cosmin-gabriel-sofron",
-    "https://www.linkedin.com/top-content/recruitment-hr/overcoming-hiring-biases/preventing-bias-in-hospitality-hiring-practices/",
     "https://www.linkedin.com/top-content/consulting/conducting-market-research-for-clients/best-practices-for-client-interviews-in-research/",
+    "https://www.linkedin.com/pulse/evidence-based-guide-hiring-interviews-cosmin-gabriel-sofron",
     "https://www.linkedin.com/top-content/user-experience/understanding-user-experience/how-to-conduct-user-research/",
+    "https://www.linkedin.com/in/rebecca-goldring-b6a63711",
     "https://www.linkedin.com/pulse/updated-pt-2-interview-unusual-people-analytics-expert-rosenow-ezu0e",
-    "https://www.linkedin.com/top-content/communication/guidelines-for-effective-surveys/tips-for-designing-surveys-with-clear-outcomes/",
     "https://www.linkedin.com/posts/international-statistical-institute-nl_surveymethodology-questionnairedesign-activity-7516846062964301825-f-P7",
-    "https://www.linkedin.com/in/rebecca-goldring-b6a63711"
+    "https://www.linkedin.com/top-content/communication/guidelines-for-effective-surveys/tips-for-designing-surveys-with-clear-outcomes/",
+    "https://www.linkedin.com/posts/ridwan-imran-125181273_talentiouscareerpartners-recruitment-talentacquisition-activity-7513503681837842432-qtkL"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T07:49:18.721290+00:00"
 }

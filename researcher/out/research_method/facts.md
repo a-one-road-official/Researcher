@@ -6045,11 +6045,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -6077,9 +6077,9 @@
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -7074,7 +7074,7 @@
   - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
   - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
   - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
@@ -7507,41 +7507,47 @@
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説 | Scholar Compass」（https://scholarcompass.net/columns/184）
-  - 「研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります」（https://scholarcompass.net/columns/184）
-  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーションとは、複数のデータ・方法・研究者・理論を組み合わせ、同じ現象を多角的に検証することで、研究の妥当性・信頼性を高める方法」（https://scholarcompass.net/columns/184）
-  - 「データ・研究者・理論・方法論の4種類」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーションとは、一つの現象を研究する際に、複数のデータ・方法・研究者・理論といった異なる視点を組み合わせ、結論の妥当性・信頼性を高める方法です」（https://scholarcompass.net/columns/184）
-  - 「複数の観測点（データ・方法など）から同じ現象を捉えることで、より確からしい理解に近づく」（https://scholarcompass.net/columns/184）
-  - 「デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています」（https://scholarcompass.net/columns/184）
-  - 「面接と観察、質問紙と面接など、複数の方法で同じ現象を調べる」（https://scholarcompass.net/columns/184）
-  - 「異なる集団・場面・時期からデータを得て、比較・照合する方法です」（https://scholarcompass.net/columns/184）
-  - 「複数の研究者が同じ研究に従事し、観察や分析を独立に行って突き合わせる方法です」（https://scholarcompass.net/columns/184）
-  - 「一つのデータを、複数の理論的枠組みから解釈する方法です」（https://scholarcompass.net/columns/184）
-  - 「複数の方法（手法）で同じ現象を調べる方法です」（https://scholarcompass.net/columns/184）
-  - 「さらに、同じ方法の中で複数の手段を使う「方法内（within-method）」と、質的方法と量的方法など異なる方法を組み合わせる「方法間（between-method）」に分けられることもあります」（https://scholarcompass.net/columns/184）
-  - 「例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です」（https://scholarcompass.net/columns/184）
+  - 「Triangulation in Research: Multi-Method Validation Guide (2026) | Koji」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Triangulation is the practice of using more than one data source, method, researcher, or theoretical lens to study the same phenomenon — and then comparing what each approach reveals. When the findings converge, your confidence in the result rises sharply. When they diverge, you have learned something important about the limits of any single method.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Every research method has a built-in blind spot. Surveys capture attitudes but not behavior. Interviews capture stories but not scale. Analytics capture behavior but not motivation. Triangulation closes those gaps by deliberately stacking complementary methods so the weakness of one is offset by the strength of another.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「"Diversifying user research methods ensures more reliable, valid results by considering multiple ways of collecting and interpreting data. Using triangulation helps tell a consistent and cohesive story with multiple sources of data, to avoid stakeholder temptation to cherry-pick data that supports preexisting assumptions." — Nielsen Norman Group,」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Triangulation: Get Better Research Results by Using Multiple UX Methods」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「The most widely cited framework comes from sociologist Norman Denzin, who introduced four basic types in 1978. They remain the backbone of how researchers reason about validity today.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「4. Methodological triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Combining multiple research methods. This is the most common and intuitive form, and it splits into two flavors:」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「: multiple variants of the same kind of method (e.g., two different survey instruments measuring the same construct).」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「: methods of different kinds (e.g., qualitative interviews + quantitative survey + behavioral analytics).」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Between-method triangulation is what most practitioners mean when they say "triangulation" without qualifying.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「The phenomenon is invisible to a single method.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Programmatic research benefits compound when methods reinforce each other across studies. Combining whole studies over time, rather than methods within one question, is」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「heavy triangulation for quick directional checks, internal stakeholder alignment exercises, or methodologies you have already validated in past triangulated studies.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「When you triangulate, the methods can produce three patterns — and all three are useful.」（https://www.koji.so/docs/triangulation-in-research-guide）
 - 突き合わせ・推定：
-  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
-  - 「もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーションとは、複数のデータ・方法・研究者・理論を組み合わせ、同じ現象を多角的に検証することで、研究の妥当性・信頼性を高める方法」（https://scholarcompass.net/columns/184）
-  - 「読みは「トライアンギュレーション」（トリアンギュレーションとも表記）、英語は「triangulation」」（https://scholarcompass.net/columns/184）
-  - 「単一でも二元的でもなく、三次元以上の多角的な視点を想定することから「三角測量」と呼ばれます」（https://scholarcompass.net/columns/184）
-  - 「2人以上の研究者が同じ研究に関わり、観察・分析を突き合わせる」（https://scholarcompass.net/columns/184）
-  - 「複数の理論・仮説の枠組みからデータを解釈する」（https://scholarcompass.net/columns/184）
-  - 「異なる集団・場面・時期からデータを得て、比較・照合する方法です」（https://scholarcompass.net/columns/184）
-  - 「複数の研究者が同じ研究に従事し、観察や分析を独立に行って突き合わせる方法です」（https://scholarcompass.net/columns/184）
-  - 「：複数の視点の食い違いから、新たな問いや解釈が生まれることがある」（https://scholarcompass.net/columns/184）
-  - 「結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーション・デザイン（Triangulation Design）が挙げられます（Creswell et al., 2007）」（https://scholarcompass.net/columns/184）
-  - 「し、両者を突き合わせて研究課題の理解を深めるデザインです」（https://scholarcompass.net/columns/184）
-  - 「：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります」（https://scholarcompass.net/columns/184）
-  - 「複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証し、結論の確からしさを高める方法」（https://scholarcompass.net/columns/184）
+  - 「Triangulation in Research: Multi-Method Validation Guide (2026) | Koji」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「What is triangulation in research?」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Triangulation is the practice of using more than one data source, method, researcher, or theoretical lens to study the same phenomenon — and then comparing what each approach reveals. When the findings converge, your confidence in the result rises sharply. When they diverge, you have learned something important about the limits of any single method.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Why triangulation matters (the BLUF)」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Every research method has a built-in blind spot. Surveys capture attitudes but not behavior. Interviews capture stories but not scale. Analytics capture behavior but not motivation. Triangulation closes those gaps by deliberately stacking complementary methods so the weakness of one is offset by the strength of another.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「"Diversifying user research methods ensures more reliable, valid results by considering multiple ways of collecting and interpreting data. Using triangulation helps tell a consistent and cohesive story with multiple sources of data, to avoid stakeholder temptation to cherry-pick data that supports preexisting assumptions." — Nielsen Norman Group,」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Triangulation: Get Better Research Results by Using Multiple UX Methods」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「The cost of skipping triangulation shows up later: a stakeholder asks "but does this match what we see in the product data?" and you cannot answer. Triangulation builds that answer into the design of the study.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Denzin's four types of triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「1. Data triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「2. Investigator (researcher) triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「3. Theory triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Theory triangulation is the rarest in industry research but the most useful when stakeholders are stuck arguing past each other — different theories often map to different team functions.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「4. Methodological triangulation」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Between-method triangulation is what most practitioners mean when they say "triangulation" without qualifying.」（https://www.koji.so/docs/triangulation-in-research-guide）
 - 一次情報の探し方：
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「PDF (2.2 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
 - 失敗・落とし穴：
+  - 「: methods disagree. Your survey says users love the new feature; your interviews say users find it confusing. This is not a failure of triangulation — it is the most valuable outcome, because it tells you something is going on that one method is missing. Common causes: social desirability bias in surveys, unrepresentative interview samples, or two methods actually measuring different things.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「The mistake new researchers make is treating divergence as a problem to be hidden. Experienced researchers treat it as a finding to be investigated.」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Common triangulation mistakes」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「— biases that triangulation helps surface and correct」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research」（https://www.koji.so/docs/triangulation-in-research-guide）
+  - 「A comprehensive guide to the 9 most damaging cognitive biases in user research — from confirmation bias to social desirability bias — with practical strategies to detect and eliminate them before they corrupt your findings.」（https://www.koji.so/docs/triangulation-in-research-guide）
   - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
   - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
   - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
@@ -7551,7 +7557,6 @@
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「Moreover, each class of data generated -interviews, questionnaires, observation and physical evidence- is potentially biased and its specificity may be threatened. Ideally, data should converge,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
-  - 「the greatest goal of triangulation is to control the personal bias of researchers and cover the intrinsic deficiencies of a single researcher or a unique theory, or the same method of study and, thus, increase the validity of the results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
 - 実例：
   - 「ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます」（https://scholarcompass.net/columns/184）
   - 「例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます」（https://scholarcompass.net/columns/184）
@@ -9987,8 +9992,8 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ13頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）

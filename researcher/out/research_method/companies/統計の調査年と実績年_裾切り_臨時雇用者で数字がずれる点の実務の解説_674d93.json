@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-07T01:42:10.600302+00:00",
+ "researched_at": "2026-11-07T06:46:31.731064+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -34,12 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "url": "https://note.com/data_pn/n/n3a33a9120a47",
     "status": "ok",
     "method": "http"
    },
@@ -94,13 +94,18 @@
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.dlri.co.jp/report/dlri/654419.html",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -109,12 +114,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jstat.or.jp/toukei_y24/editinal_note/",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "url": "https://www.dlri.co.jp/report/dlri/654419.html",
     "status": "ok",
     "method": "http"
    },
@@ -129,7 +129,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/data/roudou/10.html",
+    "url": "https://www.stat.go.jp/data/roudou/2.html",
     "status": "ok",
     "method": "http"
    },
@@ -173,12 +173,12 @@
     "https://note.com/kazunomo/n/ne59b0909d029",
     "https://note.com/tt1933mania/n/n8d22c2011ac6",
     "https://note.com/yoshi993/n/n24c3dbc880aa",
-    "https://note.com/data_pn/n/n3a33a9120a47",
     "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://note.com/data_pn/n/n3a33a9120a47",
     "https://note.com/good_poppy696/n/n4f00eca6d7e1",
-    "https://note.com/yoshi993/n/n95e654ef41d0",
     "https://note.com/furu_kaggle/n/ne5ef243c586a",
-    "https://note.com/seikahaibun/n/nb9c70e53a94a"
+    "https://note.com/yoshi993/n/n95e654ef41d0",
+    "https://note.com/yoshi993/n/n23319afbc4e7"
    ]
   },
   {
@@ -192,8 +192,8 @@
     "https://shikiho.toyokeizai.net/news/0/34650",
     "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
     "https://note.com/jyaga0716/n/n0aa7362ae7b7",
-    "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+    "https://www.m2j.co.jp/market/report/50763",
+    "https://www.pref.oita.jp/uploaded/life/119744_141193_misc.pdf"
    ]
   },
   {
@@ -205,9 +205,10 @@
     "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
     "https://www.nstac.go.jp/create/practice/",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.dlri.co.jp/report/dlri/654419.html",
-    "https://www.m2j.co.jp/market/report/90495"
+    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
+    "https://www.m2j.co.jp/market/report/90495",
+    "https://www.stat.go.jp/data/roudou/10.html"
    ]
   },
   {
@@ -215,10 +216,10 @@
    "results": [
     "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
     "https://www.mhlw.go.jp/toukei/list/43-1d.html",
     "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
     "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "https://www.dlri.co.jp/report/dlri/654419.html",
     "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
@@ -236,7 +237,7 @@
     "https://www.demographic-research.org/articles/volume/32/26",
     "https://blog.gaijinpot.com/2025-japan-census/",
     "https://en.wikipedia.org/wiki/Census",
-    "https://demographics-by-cubit.helpscoutdocs.com/article/80-should-i-compare-data-year-over-year",
+    "https://www.japanlivingguide.com/expatinfo/official-issues/japan-national-census/",
     "https://www.stat.go.jp/english/data/kokusei/index.html"
    ]
   },
@@ -258,22 +259,22 @@
     "https://x.com/nineKan821/status/2091011604200759444",
     "https://x.com/DAKURAblog/status/2029919305320780283",
     "https://x.com/rkakui/status/2114876378038538487",
+    "https://x.com/Ai_Usuki/status/2071387731339694306",
     "https://x.com/kyookine/status/2095837126394871999",
-    "https://x.com/OldBlurman/status/2117753505352130846",
     "https://x.com/hujimari/status/2028425278494818581",
-    "https://x.com/CIPHER1978/status/2108487235666661736"
+    "https://x.com/kudoyama456489/status/2089005533953249391"
    ]
   },
   {
    "query": "site:linkedin.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
+    "https://au.linkedin.com/jobs",
     "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
     "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
     "https://www.linkedin.com/feed/update/urn:li:activity:7467172911100055552/",
     "https://www.linkedin.com/feed/update/urn:li:activity:7377298388138029056/",
     "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
-    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ",
-    "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja"
+    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ"
    ]
   },
   {
@@ -294,13 +295,13 @@
     "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
     "https://note.com/tnishimaki/n/ndbaaed8d02be",
     "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/fr159.html",
+    "https://note.com/yukionoguchi/n/n70c3519e1ae9",
     "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
-    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
     "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.pictet.co.jp/investment-information/market/today/20251007.html",
-    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
-    "https://note.com/kamokita/n/nbaaffd43b076",
-    "https://www.soumu.go.jp/main_content/000623516.pdf"
+    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
+    "https://toyokeizai.net/articles/-/535758?display=b",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
   {
@@ -310,12 +311,12 @@
     "https://www.reuters.com/jp/markets/japan/WPO4FDFF2BI6HDEFHHP4BHTNEA-2026-08-28/",
     "https://www.bloomberg.com/jp/news/articles/2026-02-09/TA74I6T9NJLT00",
     "https://www.youtube.com/watch?v=k2bONNDXf4M",
+    "https://www.nikkei.com/article/DGXZQOGN19DCJ0Z11C25A1000000/",
     "https://www.stat.go.jp/data/seigo/roudou/index.html",
     "https://www.m2j.co.jp/market/report/50763",
     "https://www.bbc.com/japanese/articles/c4gl2994d71o",
-    "https://www.nikkei.com/article/DGXZQOGN030100T00C26A2000000/",
     "https://online.nikkei-cnbc.co.jp/vod/61276",
-    "https://www.stat.go.jp/data/roudou/10.html"
+    "https://www.soumu.go.jp/main_content/000623516.pdf"
    ]
   },
   {
@@ -327,10 +328,10 @@
     "https://www.linkedin.com/in/staskolenikov",
     "https://www.linkedin.com/in/curtiss-chapman",
     "https://www.linkedin.com/in/emin-dinlersoz-874a8822",
+    "https://www.linkedin.com/in/kerrieleslie",
     "https://www.linkedin.com/in/yezzi-lee",
     "https://www.linkedin.com/in/mark-muenchrath-348228b",
-    "https://www.linkedin.com/in/carolina-franco-20826145",
-    "https://www.linkedin.com/in/ron-jarmin-8083a85"
+    "https://www.linkedin.com/in/carolina-franco-20826145"
    ]
   }
  ],
@@ -342,6 +343,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
 }

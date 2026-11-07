@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T01:25:19.009273+00:00",
+ "researched_at": "2026-11-07T06:43:56.386135+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -372,332 +372,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "estimators that account for sampling biases. Our approach is simple, practical and principled – key",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias = 0.467",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias = -0.001",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "discussed in section 1.1, are nearly unbiased, and are easy to use in practice.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimators based on cluster and block samples. Past work either ignored biases when computing precision",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "100 times in order to provide the distribution of the estimators and metrics such as bias and root mean",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased sample of labelled data. This makes standard unbiased sampling impractical in",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biased sampling [Fu+12 ; Rah+14 ], however the resulting performance estimates may",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be misleading due to statistical bias. It is also common to avoid evaluation altogether",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "upon the eﬃciency of unbiased sampling methods, while ensuring that the performance",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimates remain unbiased. This problem has received little attention in the ER literature",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "results. However, standard unbiased methods require an impractically large quantity of",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "signi/f_icant bias. It is clear that alternative methods are required to produce accurate",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biased, adaptive sampling policy. We prove that the estimates produced by our framework",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "does not bias the results.",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "model [CH90 ]. The model was observed to achieve lower bias for various parameters",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "quality control when relying on crowdsourcing—e.g. due to worker biases, lack of eﬀort",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cluster reassignments, through a user-speci/f_ied biased distribution on the product space",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of cluster items. However, the biased distribution must be designed so that random item",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is below",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The empirical bias is always smaller than",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(Bias of precision computed on benchmark datasets)",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "shows our proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared error (rmse) are reported in each figure.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "shows the distribution of our proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same data. They only differ in how they account for the underlying sampling process and the extrapolation from small benchmark datasets to the full data.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", are nearly unbiased, and are easy to use in practice.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Furthermore, our approach is novel. To our knowledge, we are the first to propose unbiased performance estimators based on cluster and block samples. Past work either ignored biases when computing precision and recall from benchmark datasets",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "times in order to provide the distribution of the estimators and metrics such as bias and root mean squared error (rmse).",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") with the bias adjustment given in (",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") and with the bias adjustment given in (",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "introduces a bias in some cases.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "should be preferred as a pairwise precision estimator. The bias and rmse of the precision estimators are reported in table",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias and root mean squared error (rmse) of precision estimators for the simulation study described in section",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). The bias and rmse of the recall estimators are reported in table",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias and root mean squared error of recall estimators for the simulation study described in section",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias of Precision Computed on Benchmark Datasets",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-",
@@ -1043,6 +717,332 @@
    },
    {
     "quote": "is a special case that does not require ratio-of-means estimation. We propose to use a simple unbiased estimator:",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "estimators that account for sampling biases. Our approach is simple, practical and principled – key",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias = 0.467",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias = -0.001",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "discussed in section 1.1, are nearly unbiased, and are easy to use in practice.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimators based on cluster and block samples. Past work either ignored biases when computing precision",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100 times in order to provide the distribution of the estimators and metrics such as bias and root mean",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased sample of labelled data. This makes standard unbiased sampling impractical in",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biased sampling [Fu+12 ; Rah+14 ], however the resulting performance estimates may",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be misleading due to statistical bias. It is also common to avoid evaluation altogether",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "upon the eﬃciency of unbiased sampling methods, while ensuring that the performance",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimates remain unbiased. This problem has received little attention in the ER literature",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "results. However, standard unbiased methods require an impractically large quantity of",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "signi/f_icant bias. It is clear that alternative methods are required to produce accurate",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biased, adaptive sampling policy. We prove that the estimates produced by our framework",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "does not bias the results.",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "model [CH90 ]. The model was observed to achieve lower bias for various parameters",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "quality control when relying on crowdsourcing—e.g. due to worker biases, lack of eﬀort",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cluster reassignments, through a user-speci/f_ied biased distribution on the product space",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of cluster items. However, the biased distribution must be designed so that random item",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is below",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The empirical bias is always smaller than",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(Bias of precision computed on benchmark datasets)",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "shows our proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared error (rmse) are reported in each figure.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "shows the distribution of our proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same data. They only differ in how they account for the underlying sampling process and the extrapolation from small benchmark datasets to the full data.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", are nearly unbiased, and are easy to use in practice.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Furthermore, our approach is novel. To our knowledge, we are the first to propose unbiased performance estimators based on cluster and block samples. Past work either ignored biases when computing precision and recall from benchmark datasets",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "times in order to provide the distribution of the estimators and metrics such as bias and root mean squared error (rmse).",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") with the bias adjustment given in (",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") and with the bias adjustment given in (",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "introduces a bias in some cases.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "should be preferred as a pairwise precision estimator. The bias and rmse of the precision estimators are reported in table",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias and root mean squared error (rmse) of precision estimators for the simulation study described in section",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The bias and rmse of the recall estimators are reported in table",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias and root mean squared error of recall estimators for the simulation study described in section",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias of Precision Computed on Benchmark Datasets",
     "url": "https://arxiv.org/html/2210.01230v2",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1433,12 +1433,12 @@
     "method": "http"
    },
    {
-    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "url": "https://note.com/kikaben/n/nc457443773b7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kikaben/n/nc457443773b7",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJAKMbIYu0f-2hDFGM_DDDSuISUw8apx65SJoU5PsRkeNi18351",
     "status": "ok",
     "method": "http"
    },
@@ -1448,14 +1448,14 @@
     "method": "http"
    },
    {
-    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "url": "https://www.chowagiken.co.jp/future-studio/precision_recall/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJPrznqCj12Jumqx0FAXTz31f9GOGUHlC32bzObZ6QK_3DY9bvf",
+    "url": "https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://note.com/kikaben/n/nb62d7c37cb6e",
@@ -1463,12 +1463,22 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLpwkWRafuzBESxy71NNul5292f_oFGQGLV2J-Swaj-ghqqw0uZ",
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vK_UW7GA7Hk7ERBzS29Of5BIbl4g5mK7mryOsf5Dp5ttYhYoyTr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "status": "ok",
     "method": "http"
    },
@@ -1478,27 +1488,12 @@
     "method": "http"
    },
    {
-    "url": "https://since2020.jp/media/f1-precision-recall/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://milab.mi-6.co.jp/article/t0017",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIPGvdb6EtP_BUBQluDVHJNpplk-alNFPKvOiGg81dHDiiRkpIP",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJ8ADBHiK13eRa2_iI6GKBBr0iWhVO3iHGIyqWaxHkLROEPSSK7",
     "status": "ok",
     "method": "http"
    },
@@ -1508,12 +1503,22 @@
     "method": "http"
    },
    {
-    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "url": "https://since2020.jp/media/f1-precision-recall/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://engineering-technology.brexa.com/blog/technavi/aiaccuracy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
     "status": "ok",
     "method": "http"
    },
@@ -1539,8 +1544,8 @@
    },
    {
     "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://www.researchgate.net/publication/390081198_Unsupervised_Evaluation_of_Entity_Resolution",
@@ -1562,21 +1567,21 @@
     "https://note.com/jack4manastalk/n/nf93aed11e4b9",
     "https://note.com/good_dill292/n/n93c0053a3deb",
     "https://note.com/bunkichi_kujo/n/n39624ca51bc1",
-    "https://note.com/gilles1974/n/n56718998d7ba"
+    "https://note.com/bunkichi_kujo/n/n1864a74a0a1a"
    ]
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） note",
    "results": [
-    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://note.com/kikaben/n/nc457443773b7",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJAKMbIYu0f-2hDFGM_DDDSuISUw8apx65SJoU5PsRkeNi18351",
     "https://ai-compass.weeybrid.co.jp/algorizm/weighted-f-measure-balancing-precision-and-recall/",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJPrznqCj12Jumqx0FAXTz31f9GOGUHlC32bzObZ6QK_3DY9bvf",
-    "https://note.com/kikaben/n/nb62d7c37cb6e",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2",
-    "https://since2020.jp/media/f1-precision-recall/",
     "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2",
+    "https://note.com/kikaben/n/nb62d7c37cb6e",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://www.t-denshi-k.co.jp/media/column/sampling-inspection"
    ]
   },
@@ -1584,29 +1589,29 @@
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） やり方",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLpwkWRafuzBESxy71NNul5292f_oFGQGLV2J-Swaj-ghqqw0uZ",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vK_UW7GA7Hk7ERBzS29Of5BIbl4g5mK7mryOsf5Dp5ttYhYoyTr",
     "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
-    "https://since2020.jp/media/f1-precision-recall/",
-    "https://milab.mi-6.co.jp/article/t0017",
     "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
-    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
-    "https://machiruka.com/sampling-inspection-criteria/"
+    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall-f1/",
+    "https://since2020.jp/media/f1-precision-recall/"
    ]
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） 事例",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJ8ADBHiK13eRa2_iI6GKBBr0iWhVO3iHGIyqWaxHkLROEPSSK7",
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIPGvdb6EtP_BUBQluDVHJNpplk-alNFPKvOiGg81dHDiiRkpIP",
     "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
-    "https://since2020.jp/media/f1-precision-recall/",
-    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
     "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://engineering-technology.brexa.com/blog/technavi/aiaccuracy/",
+    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "https://engineering-technology.brexa.com/blog/technavi/aiaccuracy/"
+    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection"
    ]
   },
   {
@@ -1620,7 +1625,8 @@
     "https://www.researchgate.net/publication/390081198_Unsupervised_Evaluation_of_Entity_Resolution",
     "https://openproceedings.org/2026/conf/edbt/paper-245.pdf",
     "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2026.1736939/pdf",
-    "https://arxiv.org/pdf/2404.05622"
+    "https://arxiv.org/pdf/2404.05622",
+    "https://arxiv.org/html/2404.05622"
    ]
   },
   {
@@ -1630,10 +1636,10 @@
     "https://note.com/hiradumi/n/n9fc28ee73acc",
     "https://note.com/thinking2a/n/nc33f1f679aec",
     "https://note.com/itso_/n/n796329050730",
-    "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "https://note.com/tnishimaki/n/n6e244572e076",
+    "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/momoen_de/n/n09c0d3822c1f",
+    "https://note.com/tnishimaki/n/n6e244572e076",
     "https://note.com/tsunobuchi/n/nc3e40211794d",
     "https://note.com/kamokita/n/n28e65e0a9da0"
    ]
@@ -1641,50 +1647,50 @@
   {
    "query": "site:x.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
+    "https://x.com/aigrowlevel/status/2109123557448175941",
     "https://x.com/kigyoka_mezase/status/2108860090866626961",
     "https://x.com/seiseiai_pass/status/2090272659091468755",
     "https://x.com/masamune_sakaki/status/2111713129906176259",
     "https://x.com/ai_database/status/2100166253402800265",
-    "https://x.com:8443/technoport_web/status/2109769831792972077",
-    "https://x.com/aigrowlevel/status/2109123557448175941",
-    "https://x.com/sincevisionjp/status/2115360671475085418"
+    "https://x.com/fujitech_ai/status/2067908253070340459",
+    "https://x.com:8443/technoport_web/status/2109769831792972077"
    ]
   },
   {
    "query": "site:linkedin.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
+    "https://jp.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7244885387460952065-NKrC",
     "https://jp.linkedin.com/pulse/precision-recall-trade-off-finding-balancing-point-6-javier-rjibf?tl=ja",
     "https://jp.linkedin.com/pulse/precision-vs-recall-striking-right-balance-machine-learning-molleti-bu37c?tl=ja",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
     "https://www.linkedin.com/posts/lyric-technology-corporation-【japan】-269589278_現在ハイエンド製造業は高精度高信頼性高生産能力の実現に向けて急速に進化しています-activity-7517726286426062848-P9_4",
-    "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
     "https://jp.linkedin.com/pulse/understanding-precision-recall-without-any-formulas-rahul-dengra?tl=ja",
-    "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106"
+    "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
     "https://www.facebook.com/story.php/?story_fbid=928799332617794&id=100064632072166",
+    "https://www.facebook.com/kamt.jp/posts/287693410177275/",
     "https://www.facebook.com/qcfantasie/photos/oc曲線製品抜き取り検査の際-ロットの不良率とそのロットの合格率の関係を表す図であるqc検定qckenteioc曲線/398315923082097/",
     "https://www.facebook.com/NishidaTakeshiLab/videos/産業用ロボットによる対象物操作を目的として対象物のリアルタイム三次元計測システムを開発しましたデータベースに登録されている3次元データと安価な三次元計測センサi/2326992890994509/",
-    "https://www.facebook.com/kamt.jp/posts/287693410177275/",
+    "https://www.facebook.com/enforcer4427/videos/aiに答えを出させるだけでなくその答えが本当に元データと一致しているかを仕組みとして確かめるそんな取り組みを映像にまとめました今回つくったのは気候データ根拠エー/2100636210592371/",
     "https://www.facebook.com/yasuhiro.matsuhashi1/videos/種芋農家の目線病気芋を歩いて目視して見分けその株だけを抜き取る種芋農家の抜き取り作業のリアル8ha他と違う株があるから見つけてみてねわかったら明日からあなたも種/27865946846357138/",
-    "https://www.facebook.com/kikusui.noshiro/videos/機械だけじゃ終わらない最後は人の目で確かめます熱々の瓶を一本ずつ確認し汚れや異物がないか丁寧にチェック昔ながらの設備と人の手仕事で支えられる酒造りです/1602951614100076/",
-    "https://www.facebook.com/necjapan/posts/1813130145376382/"
+    "https://www.facebook.com/dit.kagoshima/posts/gps衛星測位システム観測実験中の田中教授アンテナの違いによる精度を確かめているそうです第一工科大学第一工大工学部環境エネルギー工学科gps衛星測位システム観測/1060892604720503/"
    ]
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） note 社長",
    "results": [
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJcjavys_mBYRtoi4OxzhOKrfPavIegquZ-pfnrc3dRBaI8-AVg",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLq1oAvShhtFOiQ_KM2et5KNVXkO6gUVN23davX_4G1oCi32mEW",
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://note.com/tks849/n/nba829fbeee49",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://note.com/kenichiro/n/n73cdd7349e00",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
     "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "https://note.com/taichi_endoh/n/nee24ccbac122",
+    "https://note.com/ohara_designer/n/n9d0d2cc27b36",
     "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
     "https://www.t-denshi-k.co.jp/media/column/sampling-inspection"
    ]
@@ -1693,15 +1699,15 @@
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） X 投稿",
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLjyeuXSk3s9ARby3ZL29NR52ekkm0MVQA6Kuy2u8OrbUSJLzC2",
-    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
     "https://www.chowagiken.co.jp/future-studio/precision_recall/",
-    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vII8oor2dPHKHyb-sscOWZqyc-y_fAvg0m3cnZqRBBUd0EexaZa",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
-    "https://since2020.jp/media/f1-precision-recall/",
+    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
     "https://note.com/kikaben/n/nc457443773b7",
-    "https://machiruka.com/sampling-inspection-criteria/"
+    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection"
    ]
   },
   {
@@ -1721,9 +1727,9 @@
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T08:01:19.777193+00:00"
 }
