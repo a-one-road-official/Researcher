@@ -2218,14 +2218,14 @@
   - 「吸収分割の公告と決算公告の同時掲載とは？費用・手順・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告の官報掲載ガイド｜費用・手順・申込みを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告の官報掲載を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告を無料で検索する方法を5つ紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2259,6 +2259,7 @@
   - 「Q2. 大会社かどうかは決算公告のどこで見分けられますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 失敗・落とし穴：
+  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2273,7 +2274,6 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2542,13 +2542,13 @@
   - 「Patentfieldの検索、AI分類、生成AI査読の役割を分け、候補集合から公報原文の確認、監視判断までをつなぐ実務手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIのファイルアクセス要求をRead・Create・Update・Deleteに分け、契約、送信、権限取消まで確認する手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillが具体的すぎると使えない｜個別例を判断基準へ抽象化する方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「How to Find Decision Makers in Your Customer List (2026 Sales Guide)」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「AI Skillを社外へ無料配布するときの一仕事の決め方、個別の有料支援との境界、取得・利用完了・相談を別々に確かめる方法を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2567,6 +2567,7 @@
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
   - 「Patentfieldとは？特許検索・分析とAI査読の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「論文サーベイAIとZotero、EndNote、Mendeleyの違いを、探索、要約、引用管理、PDF整理など9つの役割で比較します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIへ任せる比較表と、人が決める採用要件・募集条件を分けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2580,7 +2581,6 @@
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -10883,6 +10883,28 @@
   - 「(2000), a film by Steven Soderbergh starring Julia Roberts, does a brilliant job of showing how to build source relationships with dreadfully victimized people – and thus to attract other sources who know how they were victimized. There is more tradecraft in this film than in」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
   - 「Knowing the Vietnam literature as I do, let me add one indispensable volume to (Stephen Grey’s) very fine choice of three great books on that war:」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
   - 「over the past 15 years. These are works chosen by fellow investigative journalists in large part for their impressive methodology and intensive research. I’ve listed below books which may have a more international appeal. You can see」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
+  - 「OSINT Chinese Companies: How to Investigate Corporate Networks Beyond the Great Firewall」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Practical OSINT Workflow: Step-by-Step」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 1: Identify Core Entity」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 2: Pull Official Registration」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 3: Map Equity via Aggregators」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 4: Search Judicial Records」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 5: Search Bond and Financial Filings」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 6: Expand Internationally」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 7: Archive and Preserve」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+- 突き合わせ・推定：
+  - 「Cross-check ownership percentages. Contradictions often expose hidden layers.」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Methodological Discipline: Triangulation」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+- 一次情報の探し方：
+  - 「Political sensitivity around corporate-state ties」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「These are not marketing claims. They are legal filings.」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Name-matching errors occur. Duplicate individuals appear. Always verify with original filings.」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Chinese domestic records may be restricted. Overseas filings are not.」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「: US filings disclose subsidiaries and VIE structures」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「: Ownership and financial filings」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Step 5: Search Bond and Financial Filings」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Massive public filing infrastructure」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「If a Shanghai Stock Exchange filing conflicts with Qichacha data, check:」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
 - 実例：
   - 「The Global Investigative Journalism Casebook」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
   - 「Anatomy of Injustice: A Murder Case Gone Wrong」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
@@ -10894,9 +10916,11 @@
   - 「is an example of his craftsmanship. I think he’s the single best environmental investigative reporter around. He set the standard for a generation after him (in which I count myself), showing that environmental reporting is not for treehuggers or the fainthearted.」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
   - 「<i>Anatomy of Injustice: A Murder Case Gone Wrong</i>, by Ray Bonner (2012),an unmissable look at the US death penalty system by one of the greats.</p><p>On War:<br>」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
   - 「- Neil Sheehan,&nbsp;<i>A Bright Shining Lie</i>&nbsp;(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man's contribution, Col John Vann.<br>」（https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+  - 「Sensitive cases vanished. Registration became stricter. Search results were capped. Still, corporate disputes, contract conflicts, and enforcement actions remain searchable.」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「The guide warns that cases can disappear without notice .」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「Following the Waste Back to Italy: An OSINT Case Study from Croatia」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+  - 「AI-Designed Viral Genomes: What the First Functional Phage Case Changes」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
 
 ## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
 - 文脈：裏取り
@@ -11503,8 +11527,8 @@
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）

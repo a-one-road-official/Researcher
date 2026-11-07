@@ -1169,7 +1169,7 @@
   - 見積・受注の採算判断支援
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：19件／数字のある品目 19件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.chusho.meti.go.jp と inada-tax.com：品目の重なり 2/3（67%）
-  - www.funaisoken.co.jp と www.sme-support.co.jp：品目の重なり 1/3（33%）
+  - www.sme-support.co.jp と www.funaisoken.co.jp：品目の重なり 1/3（33%）
   - yachiyo-sol.com と www.sme-support.co.jp：品目の重なり 1/4（25%）
   - yachiyo-sol.com と www.funaisoken.co.jp：品目の重なり 1/4（25%）
   - www.chusho.meti.go.jp と www.sme-support.co.jp：品目の重なり 1/4（25%）
