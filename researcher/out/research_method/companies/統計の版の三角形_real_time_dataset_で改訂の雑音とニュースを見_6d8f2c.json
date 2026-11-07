@@ -8,8 +8,480 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T05:03:38.195122+00:00",
+ "researched_at": "2026-11-07T10:34:51.792412+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "The Self-Controlled Case Series Method",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example Datasets for a Learning Guide to R",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Inference with Available Complete-Case Missing Values",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example Datasets for 'SyncER'",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Positive and Unlabeled Learning from Unbalanced Cases and Sparse",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "inference algorithm for the R x C case”",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Case-Based Least Squares Estimation of Nonlinear Structural",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Robust DPD Methods for Casewise and Cellwise Contamination",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Highly Performant String Case Converter",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Examples using 'Rcpp' to Interface R and C++",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Examples using 'RcppClassic' to Interface R and C++",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Wrapper for 'run_example()'",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data Sets Useful for Modeling Examples",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Design, Monitor, and Analyze Single-Case (N-of-1) Intensive",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Generate Tests from Examples Using 'roxygen' and 'testthat'",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A compact example with GDP vintages",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The package ships with a GDP example dataset in long vintage format.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For many users, revision summaries will be the main use case.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example following the Kishor-Koenig workflow from the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "significant and there is no case where the V -VAR model generates a statistically significant better forecast than",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A compact example with GDP vintages",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The package ships with a GDP example dataset in long vintage format.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For many users, revision summaries will be the main use case.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example following the Kishor-Koenig workflow from the",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Regression Sensitivity Analysis for Omitted Variable Bias",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eclipse Plot: A Graphical Visualization for Risk of Bias",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias Diagnostic for Linear Mixed Models",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Biased Matching for Two-Urn Sampling Problems",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias and Uncertainty Corrected Sample Size",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias Reduction in Generalized Linear Models",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PublicationBiasBenchmark",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Benchmark for Publication Bias Correction Methods",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bootstrap Inference with Debiased Nonparametric Estimators",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Visualize ROBUST-RCT Risk of Bias Assessments",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sensitivity Analysis of Omitted Variable Bias",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Debiased Score Tests for Goodness of Fit and Model Comparison",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bootstrap Bias Correction of Predictive Performance",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Liu Regression with Liu Biasing Parameters and Statistics",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Multistate Model Bias-Corrected Robust Variance",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "select(id, release, `Bias (mean)`, `Bias (robust p-value)`, `Noise/Signal`)",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
@@ -489,478 +961,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "実例": [
-   {
-    "quote": "The Self-Controlled Case Series Method",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example Datasets for a Learning Guide to R",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Inference with Available Complete-Case Missing Values",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example Datasets for 'SyncER'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Positive and Unlabeled Learning from Unbalanced Cases and Sparse",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "inference algorithm for the R x C case”",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Case-Based Least Squares Estimation of Nonlinear Structural",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Robust DPD Methods for Casewise and Cellwise Contamination",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Highly Performant String Case Converter",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples using 'Rcpp' to Interface R and C++",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples using 'RcppClassic' to Interface R and C++",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Wrapper for 'run_example()'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Data Sets Useful for Modeling Examples",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Design, Monitor, and Analyze Single-Case (N-of-1) Intensive",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Generate Tests from Examples Using 'roxygen' and 'testthat'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A compact example with GDP vintages",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The package ships with a GDP example dataset in long vintage format.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For many users, revision summaries will be the main use case.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example following the Kishor-Koenig workflow from the",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this euro area example, the efficient-release step selects",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "significant and there is no case where the V -VAR model generates a statistically significant better forecast than",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A compact example with GDP vintages",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The package ships with a GDP example dataset in long vintage format.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For many users, revision summaries will be the main use case.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example following the Kishor-Koenig workflow from the",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this euro area example, the efficient-release step selects",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Regression Sensitivity Analysis for Omitted Variable Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Eclipse Plot: A Graphical Visualization for Risk of Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias Diagnostic for Linear Mixed Models",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Biased Matching for Two-Urn Sampling Problems",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias and Uncertainty Corrected Sample Size",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias Reduction in Generalized Linear Models",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PublicationBiasBenchmark",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Benchmark for Publication Bias Correction Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bootstrap Inference with Debiased Nonparametric Estimators",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Visualize ROBUST-RCT Risk of Bias Assessments",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sensitivity Analysis of Omitted Variable Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Debiased Score Tests for Goodness of Fit and Model Comparison",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bootstrap Bias Correction of Predictive Performance",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Liu Regression with Liu Biasing Parameters and Statistics",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Multistate Model Bias-Corrected Robust Variance",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.52 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.425 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.507 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.851 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.326 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.181 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.202 )",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "select(id, release, `Bias (mean)`, `Bias (robust p-value)`, `Noise/Signal`)",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.52 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.425 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.507 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.851 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.326 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.181 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• No significant bias detected (p = 0.202 )",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -982,32 +982,97 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/arima_planning/n/n8257c129345e",
+    "url": "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/marthay/n/n6a5a3633cd40",
+    "url": "https://note.com/kiyo_ai_note/n/n585dd695c8bc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tnishimaki/n/nff97c41334d6",
+    "url": "https://note.com/futaro_/n/ne92955415538",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf",
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nekoai_lab/n/n5a81ebd5c600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.trifields.jp/pypi-science-and-technology-2-6054",
+    "url": "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://ec.europa.eu/eurostat/data/database",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
     "status": "ok",
     "method": "http"
    },
@@ -1022,41 +1087,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://datasetsearch.research.google.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shingi.jst.go.jp/pdf/2023/2023_shizuoka_004.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jef.or.jp/Nariyasu_Yamasawa_2022_5-6.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun208/bun208k.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.math.sci.ehime-u.ac.jp/~matsuura/2021pro2/dataset.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gacco.org/stat-japan3/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
     "status": "ok",
     "method": "http"
@@ -1067,24 +1097,24 @@
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/documents/3859598/8555708/KS-GQ-17-008-EN-N.pdf",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/09/oecd-glossary-of-statistical-terms_g1gh9ad7/9789264055087-en.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://ec.europa.eu/eurostat/web/science-technology-innovation/information-data",
-    "status": "ok",
+    "url": "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "url": "https://www.ine.es/art/ree/178_2.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajs.or.at/index.php/ajs/article/download/1468/794",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -1095,46 +1125,58 @@
     "https://note.com/doiwa/n/n0397da719f07",
     "https://note.com/e_dao/n/n1d4439bbbc9a",
     "https://note.com/yamaaki_07/n/n974447a24c5e",
-    "https://note.com/arima_planning/n/n8257c129345e",
+    "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
+    "https://note.com/kiyo_ai_note/n/n585dd695c8bc",
+    "https://note.com/futaro_/n/ne92955415538",
     "https://note.com/marthay/n/n6a5a3633cd40",
-    "https://note.com/tnishimaki/n/nff97c41334d6",
-    "https://note.com/novel_yeflo/n/n650b3a7c5f2b"
+    "https://note.com/medomedo/n/nf5e10f52defb",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/asahi_ictrad/n/nc78e25837f39"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note",
    "results": [
-    "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf",
-    "https://www.trifields.jp/pypi-science-and-technology-2-6054",
-    "https://ec.europa.eu/eurostat/data/database",
-    "https://ec.europa.eu/eurostat/",
-    "https://note.com/doiwa/n/n0397da719f07",
-    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://www.jstage.jst.go.jp/article/jasj/64/1/64_KJ00004806476/_article/-char/ja",
-    "https://www.jef.or.jp/Nariyasu_Yamasawa_2022_5-6.pdf"
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/nekoai_lab/n/n5a81ebd5c600",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
+    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
+    "https://ec.europa.eu/eurostat/data/database"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） やり方",
    "results": [
-    "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf",
-    "https://www.trifields.jp/pypi-science-and-technology-2-6054",
-    "https://ec.europa.eu/eurostat/data/database",
-    "https://datasetsearch.research.google.com/",
-    "https://ec.europa.eu/eurostat/",
-    "https://shingi.jst.go.jp/pdf/2023/2023_shizuoka_004.pdf",
-    "https://www.jef.or.jp/Nariyasu_Yamasawa_2022_5-6.pdf",
-    "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun208/bun208k.pdf",
-    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "https://www.math.sci.ehime-u.ac.jp/~matsuura/2021pro2/dataset.html"
+    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
+    "https://ec.europa.eu/eurostat/data/database"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） 事例",
    "results": [
-    "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf"
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
+    "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
+    "https://ec.europa.eu/eurostat/data/database"
    ]
   },
   {
@@ -1142,39 +1184,36 @@
    "results": [
     "https://ropensci.org/blog/2026/04/13/reviser/",
     "https://ec.europa.eu/eurostat/data/data-revision-policy",
-    "https://ec.europa.eu/eurostat/documents/3859598/8555708/KS-GQ-17-008-EN-N.pdf",
-    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/09/oecd-glossary-of-statistical-terms_g1gh9ad7/9789264055087-en.pdf",
-    "https://ec.europa.eu/eurostat/web/science-technology-innovation/information-data",
-    "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "https://ec.europa.eu/eurostat/web/national-accounts/database/data-revisions",
-    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "https://cran.r-project.org/web/packages//reviser/vignettes/understanding-revisions.html"
+    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
+    "https://www.youtube.com/watch?v=sPmLhZSEeH8",
+    "https://www.ine.es/art/ree/178_2.pdf",
+    "https://www.ajs.or.at/index.php/ajs/article/view/1468/794",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618392",
+    "https://www.restud.com/wp-content/uploads/2023/01/MS30764manuscript.pdf",
+    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/"
    ]
   },
   {
    "query": "site:note.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://note.com/doiwa/n/n0397da719f07",
-    "https://note.com/noe_official/n/n336306f3c427",
-    "https://note.com/statistics_ai/n/n5c3557fcb50a",
-    "https://note.com/kenxxxken/n/nce7762dcec30",
     "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
+    "https://note.com/garuru11/n/n7c5cfc770b72",
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
     "https://note.com/e_dao/n/n1d4439bbbc9a",
-    "https://note.com/kamokita/n/n3f24873e37f8",
-    "https://note.com/nekoai_lab/n/n3e408fe6d088",
-    "https://note.com/super_guppy179/n/n275140ebfdfd",
-    "https://note.com/grin_corp/n/nfd68ccd84f65"
+    "https://note.com/marthay/n/n6a5a3633cd40",
+    "https://note.com/data_pn/n/n3a33a9120a47"
    ]
   },
   {
    "query": "site:x.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://jf.x.com/images/media-preview/2113759896936370264",
-    "https://jf.x.com/images/media-preview/2104204905997308126",
-    "https://jf.x.com/images/media-preview/2098969925586997426",
-    "https://jf.x.com/images/media-preview/2103455884366188544",
-    "https://jf.x.com/images/media-preview/2102648431223468343",
+    "https://jf.x.com/images/media-preview/2100404370546303364",
+    "https://jf.x.com/images/media-preview/2089344058112217298",
+    "https://jf.x.com/images/media-preview/2096811175669584046",
+    "https://jf.x.com/images/media-preview/2099346487994147068",
     "https://x.com/jaeho38line/status/2089126729071911030",
     "https://x.com/smo_yutohisano/status/2075165578747342927"
    ]
@@ -1183,522 +1222,74 @@
    "query": "site:linkedin.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://www.linkedin.com/posts/zahra-kharazian_scania-component-x-dataset-a-real-world-activity-7312774232524963841-_VBt",
+    "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
     "https://ca.linkedin.com/company/axiom-real-time-metrics",
-    "https://in.linkedin.com/company/qualitykiosk-technologies",
-    "https://www.linkedin.com/pulse/technology-behind-linkedins-fight-against-ai-slop-tim-jurka-7ojbc",
     "https://jp.linkedin.com/pulse/demystifying-project-management-iron-triangle-scope-dvhpf?tl=ja",
-    "https://jp.linkedin.com/pulse/issue-209-steve-jobs-signal-to-noise-ratio-forgotten-half-scott-mautz-rwwlc?tl=ja",
-    "https://jp.linkedin.com/pulse/data-quality-validation-python-dataframes-miguel-cabrera?tl=ja"
+    "https://jp.linkedin.com/pulse/data-quality-validation-python-dataframes-miguel-cabrera?tl=ja",
+    "https://jp.linkedin.com/pulse/handbook-anomaly-detection-python-outlier-3-ecod-kuo-ph-d-cpcu?tl=ja",
+    "https://jp.linkedin.com/pulse/issue-209-steve-jobs-signal-to-noise-ratio-forgotten-half-scott-mautz-rwwlc?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
-    "https://graph.facebook.com/v2.8/10157238489260205/picture/",
     "https://www.facebook.com/buzzbuzzne/posts/頭の体操三角形は何個ある解答はコメント欄に答え合わせはコチラ/3232076147114905/",
-    "https://www.facebook.com/weathertimejnet/",
+    "https://www.facebook.com/Isuzugtime/videos/astronネクスターnexter品番hab003j価格297000-税込新開発のデュアルタイムクロノグラフがレギュラーモデルとして登場三角形で構築された幾何学/1016528547728478/",
     "https://www.facebook.com/reel/801382729299547/",
-    "https://www.facebook.com/JCA1948/videos/オンラインセミナーコンクール課題曲集オンラインセミナー開講中sample公開f4定点観測第32回朝日作曲賞受賞者宮本正太郎さんによる自作解説です三角みず紀さんの/1008110706543171/",
+    "https://www.facebook.com/marketplace/item/39079823494950476/",
+    "https://www.facebook.com/CSISut/posts/共同研究利用システムjorasに実人流データセット東京都2024年5月2025年5月が追加されました携帯端末位置情報に基づいたリアル人流データですぜひご利用くだ/1368827928373937/",
     "https://www.facebook.com/adachi.hanga/posts/浮世絵の初版しょはんと後版あとはんとは-アダチの初版へのこだわり-先日ご紹介した広重の猿若町夜の景この作品の満月にかかるあてなしぼかしで摺られた一筋の黒い雲は初/1709043655914249/",
-    "https://www.facebook.com/supergt.net/photos/810-11開催2019-super-gt-公式テスト-スポーツランドsugo-タイムスケジュール-731発行-改訂版-改訂理由11日日-am走行スケジュールの/1177639329088262/"
+    "https://www.facebook.com/JCA1948/videos/オンラインセミナーコンクール課題曲集オンラインセミナー開講中sample公開f4定点観測第32回朝日作曲賞受賞者宮本正太郎さんによる自作解説です三角みず紀さんの/1008110706543171/"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note 社長",
    "results": [
-    "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf"
+    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
+    "https://lab.ndl.go.jp/dl/book/1312003?page=1",
+    "https://ec.europa.eu/eurostat/data/database"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） X 投稿",
    "results": [
-    "https://www.ism.ac.jp/kouhou/project/index/project_web.pdf",
-    "https://www.trifields.jp/pypi-science-and-technology-2-6054",
-    "https://ec.europa.eu/eurostat/data/database",
-    "https://ec.europa.eu/eurostat/",
-    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
-    "https://www.math.sci.ehime-u.ac.jp/~matsuura/2021pro2/dataset.html",
-    "https://www.jstage.jst.go.jp/article/jasj/64/1/64_KJ00004806476/_article/-char/ja"
+    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
+    "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2024/data/html/program/pdf/E-024.pdf",
+    "https://ec.europa.eu/eurostat/data/database"
    ]
   },
   {
    "query": "revision triangle real-time dataset noise versus news test mean revision t-test Eurostat site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/0/how-can-you-handle-noisy-data-your-analysis-skills-data-science-qe9bf",
-    "https://www.linkedin.com/advice/1/how-can-you-identify-noisy-data-mining-skills-data-mining",
-    "https://si.linkedin.com/company/test-triangle",
-    "https://www.linkedin.com/company/eurostat/",
-    "https://www.linkedin.com/pulse/t-test-simplified-step-by-step-guide-real-world-applications-deb-vsj9f",
-    "https://www.linkedin.com/advice/3/how-can-you-reduce-noise-machine-learning-1r6kf",
-    "https://www.linkedin.com/posts/stegan_the-revision-triangle-activity-7513870948719104000-9dRC"
+    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-september-edition-eurostat-5h6vc",
+    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-april-edition-eurostat-vegie",
+    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-july-edition-eurostat-hfibc",
+    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-june-edition-eurostat-y5zyc",
+    "https://be.linkedin.com/company/european-commission",
+    "https://uk.linkedin.com/in/teraallas",
+    "https://www.linkedin.com/posts/antonymartini_luxembourg-ranks-fifth-lowest-at-43-fossil-activity-7503707100271820802-UGI1",
+    "https://www.linkedin.com/posts/giacomo-romanini-1ba60a63_productionnetworks-monetarypolicy-champ-activity-7518330205011243008-HR5z",
+    "https://www.linkedin.com/in/casey-a-weston",
+    "https://uk.linkedin.com/in/yu-jinghui-sage"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simply Beautiful PDF Letters from Markdown",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digitally Sign and Verify PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Tools for Easy Use of the 'e-Stat' API",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Transcription Elongation Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Feature Stores for the 'diseasy' Framework",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Functional Machine Learning Framework",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Branch-Level Inference Framework for Recognizing Optimal Shifts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Specification Curve Analysis for Synthetic Control Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimation and Inference Methods for Sorted Causal Effects and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Various Methods for the Goodness-of-Fit Problem in D>1",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Statistical Methods for Auditing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A Robust Deterministic Data Splitting Method",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Various Methods for the Two Sample Problem in D>1 Dimensions",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minimalist Async Evaluation Framework for R",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graph Community Detection Methods into Systematic Conservation",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Steve's Toy Data for Teaching About a Variety of Methodological,",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Comprehensive ARDL: Panel, Bootstrap and Fourier Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bayesian Quantitative Decision-Making Framework for Binary,",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate Potential Impact and Population Attributable Fractions",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Heterogeneous Effects in Factorial Experiments Using",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Pollinator Body Size and Co-Varying Ecological Traits",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Genetic Sex from Expression Counts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Mapping Smoothed Effect Estimates from Individual-Level Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Constrained Delaunay Triangulation Meshes for Spatial 'SPDE'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conconi Estimate of Anaerobic Threshold from a TCX File",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Inverse Probability Weights",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simulate and Estimate Close-Kin Dispersal Kernels",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate 3D Orientations from 2D Landmarks",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimating the Distribution of True Effects from Noisy Estimates",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Sleep from 'Accelerometry' Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Constrained Delaunay Triangulation with Refinement",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Survival from Common Data Model Cohorts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimates and Plots Single-Level and Multilevel Latent Class",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "The Self-Controlled Case Series Method",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example Datasets for a Learning Guide to R",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Inference with Available Complete-Case Missing Values",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example Datasets for 'SyncER'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Positive and Unlabeled Learning from Unbalanced Cases and Sparse",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "inference algorithm for the R x C case”",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Case-Based Least Squares Estimation of Nonlinear Structural",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Robust DPD Methods for Casewise and Cellwise Contamination",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Highly Performant String Case Converter",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples using 'Rcpp' to Interface R and C++",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples using 'RcppClassic' to Interface R and C++",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Wrapper for 'run_example()'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Data Sets Useful for Modeling Examples",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Design, Monitor, and Analyze Single-Case (N-of-1) Intensive",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Generate Tests from Examples Using 'roxygen' and 'testthat'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Regression Sensitivity Analysis for Omitted Variable Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Eclipse Plot: A Graphical Visualization for Risk of Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias Diagnostic for Linear Mixed Models",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Biased Matching for Two-Urn Sampling Problems",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias and Uncertainty Corrected Sample Size",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias Reduction in Generalized Linear Models",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PublicationBiasBenchmark",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Benchmark for Publication Bias Correction Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bootstrap Inference with Debiased Nonparametric Estimators",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Visualize ROBUST-RCT Risk of Bias Assessments",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sensitivity Analysis of Omitted Variable Bias",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Debiased Score Tests for Goodness of Fit and Model Comparison",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bootstrap Bias Correction of Predictive Performance",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Liu Regression with Liu Biasing Parameters and Statistics",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Multistate Model Bias-Corrected Robust Variance",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-06T07:05:14.243850+00:00"
 }

@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T05:43:25.043083+00:00",
+ "researched_at": "2026-11-07T10:34:46.103275+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -217,146 +217,6 @@
    },
    {
     "quote": "学術雑誌や評判の良いニュースメディアなど信頼できる情報源と照合して、質問や主張の正確性を確認します",
-    "url": "https://note.com/sato_sei/n/nea81a8341caf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "不確かな情報を発信しないように注意し、常に正しい情報を発信する",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意すべきは、",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお、ここで注意したいのが",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、現時点では日本の情報環境に特化している点には注意が必要です",
-    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、信頼できそうな記事であっても、情報源が明示されていない場合は注意が必要です",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI・ツールを使う際の注意点と信頼性判断のポイント",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "存在しない情報源を示したり、事実と異なる内容を提示したりする場合があることに注意が必要です",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIやツールを使えば、文章内の数値や表現を学習済みデータや外部ソースをもとに、誤りや不整合の可能性がある箇所を自動で提示できます",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、AIの指摘は「誤りの可能性」を示すものに過ぎないため、最終的な表現判断は人が行う必要があります",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ChatGPT・Grok・Geminiなどのツールや専用サービスを活用すれば効率化できますが、AIの出力を鵜呑みにせず必ずダブルチェックを行いましょう",
-    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これを怠り内容に誤りがあると見なされてしまうと、読み手の信頼を失うだけでなく、Googleに記事として内容が不十分だと認識され、上位表示されにくくなります",
-    "url": "https://simplique.jp/fact-checking/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "といいます）においては、正確かつ誤りない情報の提供がより求められています",
-    "url": "https://simplique.jp/fact-checking/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "内容に誤りがある記事コンテンツが多いWebサイトは検索順位の向上が見込めません",
-    "url": "https://simplique.jp/fact-checking/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "文章アプローチによって文意の齟齬が起きていないか、注意を払う必要があります",
-    "url": "https://simplique.jp/fact-checking/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "サプリのみ取り入れてダイエットに成功していたとしても、著者が過去にダイエットサプリを使ったダイエットに失敗した場合「サプリだけでなく運動も取り入れよう」と記載するでしょう",
-    "url": "https://simplique.jp/fact-checking/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "では、検証結果に誤り があったときは誠実に、オープンに訂正することを掲げています",
-    "url": "https://navi.fij.info/about-navi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "万が一、事実関係や根拠に誤りがあると気づいた方は、",
-    "url": "https://navi.fij.info/about-navi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証結果は真実性や誤りの程度に基づいて評価され、例えば「真実」「誤り」「古い情報」などのタグが付けられます",
-    "url": "https://note.com/sato_sei/n/nea81a8341caf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SNSで衝撃的な情報を見て、思わずシェアしたくなった時こそ要注意です",
     "url": "https://note.com/sato_sei/n/nea81a8341caf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -631,6 +491,30 @@
    },
    {
     "quote": "ターゲティングとは？マーケティング成功の鍵を握る手法とフレームワークを解説",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Google AIモードの使い方と使えないときの対処法！質問のコツやSEO/LLMO戦略も解説",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【PR動画事例】阪本高生堂のクールグリースを魅力的に魅せるコツとは",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法",
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -996,6 +880,152 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "不確かな情報を発信しないように注意し、常に正しい情報を発信する",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意すべきは、",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、ここで注意したいのが",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、現時点では日本の情報環境に特化している点には注意が必要です",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、信頼できそうな記事であっても、情報源が明示されていない場合は注意が必要です",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI・ツールを使う際の注意点と信頼性判断のポイント",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "存在しない情報源を示したり、事実と異なる内容を提示したりする場合があることに注意が必要です",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIやツールを使えば、文章内の数値や表現を学習済みデータや外部ソースをもとに、誤りや不整合の可能性がある箇所を自動で提示できます",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、AIの指摘は「誤りの可能性」を示すものに過ぎないため、最終的な表現判断は人が行う必要があります",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ChatGPT・Grok・Geminiなどのツールや専用サービスを活用すれば効率化できますが、AIの出力を鵜呑みにせず必ずダブルチェックを行いましょう",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これを怠り内容に誤りがあると見なされてしまうと、読み手の信頼を失うだけでなく、Googleに記事として内容が不十分だと認識され、上位表示されにくくなります",
+    "url": "https://simplique.jp/fact-checking/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "といいます）においては、正確かつ誤りない情報の提供がより求められています",
+    "url": "https://simplique.jp/fact-checking/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内容に誤りがある記事コンテンツが多いWebサイトは検索順位の向上が見込めません",
+    "url": "https://simplique.jp/fact-checking/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "文章アプローチによって文意の齟齬が起きていないか、注意を払う必要があります",
+    "url": "https://simplique.jp/fact-checking/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプリのみ取り入れてダイエットに成功していたとしても、著者が過去にダイエットサプリを使ったダイエットに失敗した場合「サプリだけでなく運動も取り入れよう」と記載するでしょう",
+    "url": "https://simplique.jp/fact-checking/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "では、検証結果に誤り があったときは誠実に、オープンに訂正することを掲げています",
+    "url": "https://navi.fij.info/about-navi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "万が一、事実関係や根拠に誤りがあると気づいた方は、",
+    "url": "https://navi.fij.info/about-navi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証結果は真実性や誤りの程度に基づいて評価され、例えば「真実」「誤り」「古い情報」などのタグが付けられます",
+    "url": "https://note.com/sato_sei/n/nea81a8341caf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SNSで衝撃的な情報を見て、思わずシェアしたくなった時こそ要注意です",
+    "url": "https://note.com/sato_sei/n/nea81a8341caf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません",
@@ -1301,9 +1331,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000749420.pdf",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://fij.info/",
@@ -1311,9 +1341,9 @@
     "method": "http"
    },
    {
-    "url": "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
+    "url": "https://www.soumu.go.jp/main_content/000861267.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2022_03_international-fact-checkingday2022/",
@@ -1331,13 +1361,13 @@
     "method": "http"
    },
    {
-    "url": "https://seotimes.jp/fact-check/",
-    "status": "http_403",
+    "url": "https://simplique.jp/fact-checking/",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://simplique.jp/fact-checking/",
-    "status": "ok",
+    "url": "https://seotimes.jp/fact-check/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1351,12 +1381,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fij.info/activity/advocacy/navi",
+    "url": "https://fij.info/introduction/guideline",
     "status": "ok",
     "method": "http"
    },
@@ -1366,12 +1391,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://navi.fij.info/navi-search/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://newsinitiative.withgoogle.com/ja-jp/resources/trainings/google-fact-check-tools/",
+    "url": "https://www.factcheckcenter.jp/course/others/jfc-factcheck-course-practice1/",
     "status": "ok",
     "method": "http"
    },
@@ -1381,13 +1401,8 @@
     "method": "http"
    },
    {
-    "url": "https://toolbox.google.com/factcheck/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.idx.inc/newsroom/how-googles-fact-check-tools-and-serp-features-work",
-    "status": "ok",
+    "url": "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools/",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -1399,6 +1414,16 @@
     "url": "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.idx.inc/newsroom/how-googles-fact-check-tools-and-serp-features-work",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolbox.google.com/factcheck/",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -1413,8 +1438,8 @@
     "https://note.com/rich_swift4733/n/nfa94983163db",
     "https://note.com/senioranalyst_sn/n/ne652da8871e7",
     "https://note.com/sato_sei/n/nea81a8341caf",
+    "https://note.com/fact_check_1/n/nbdf0e49569c3",
     "https://note.com/cd350476/n/ne8103a1208e7",
-    "https://note.com/jfactcheckcenter/m/m2663551b4f4e",
     "https://note.com/lyco_pene/n/n8df9ee7a82c4"
    ]
   },
@@ -1423,14 +1448,14 @@
    "results": [
     "https://fungry.co.jp/cnaps/blog/fact-check/",
     "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
-    "https://www.soumu.go.jp/main_content/000749420.pdf",
-    "https://fij.info/",
     "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
+    "https://fij.info/",
+    "https://www.soumu.go.jp/main_content/000861267.pdf",
     "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2022_03_international-fact-checkingday2022/",
+    "https://simplique.jp/fact-checking/",
     "https://transparency.meta.com/ja-jp/features/how-fact-checking-works/",
     "https://www.meltwater.com/jp/blog/fact-checking",
-    "https://simplique.jp/fact-checking/",
-    "https://navi.fij.info/about-navi/"
+    "https://navi.fij.info/"
    ]
   },
   {
@@ -1443,8 +1468,8 @@
     "https://www.soumu.go.jp/main_content/000948334.pdf",
     "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2022_03_international-fact-checkingday2022/",
     "https://www.meltwater.com/jp/blog/fact-checking",
-    "https://seotimes.jp/fact-check/",
     "https://simplique.jp/fact-checking/",
+    "https://seotimes.jp/fact-check/",
     "https://navi.fij.info/"
    ]
   },
@@ -1452,43 +1477,35 @@
    "query": "ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順 事例",
    "results": [
     "https://fungry.co.jp/cnaps/blog/fact-check/",
-    "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
     "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "https://developers.google.com/search/docs/appearance/structured-data/factcheck?hl=ja",
     "https://www.soumu.go.jp/main_content/000948334.pdf",
     "https://fij.info/",
     "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2022_03_international-fact-checkingday2022/",
     "https://www.meltwater.com/jp/blog/fact-checking",
+    "https://simplique.jp/fact-checking/",
     "https://seotimes.jp/fact-check/",
-    "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
-    "https://fij.info/activity/advocacy/navi"
+    "https://navi.fij.info/"
    ]
   },
   {
    "query": "fact check explorer how to use verify translated summarized claims against original source",
    "results": [
-    "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools/",
     "https://libguides.csun.edu/evaluating-sources/fact-checking-and-verification",
-    "https://toolbox.google.com/factcheck",
-    "https://www.idx.inc/newsroom/how-googles-fact-check-tools-and-serp-features-work",
+    "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools/",
     "https://blog.google/products-and-platforms/products/news/new-features-coming-to-fact-check-explorer/",
     "https://developers.google.com/search/docs/appearance/structured-data/factcheck",
-    "https://garrettcollege.libguides.com/fakenews/verify",
+    "https://www.idx.inc/newsroom/how-googles-fact-check-tools-and-serp-features-work",
+    "https://toolbox.google.com/factcheck",
     "https://libguides.pittcc.edu/evaluate/fact-checking",
     "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
+    "https://garrettcollege.libguides.com/fakenews/verify",
     "https://gizmodo.com/how-to-use-google-s-fact-check-to-verify-claims-1851166049"
    ]
   },
   {
    "query": "site:note.com ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順",
-   "results": [
-    "https://note.com/ai_medical/n/nbbeb8ab4d08c",
-    "https://note.com/rich_swift4733/n/nfa94983163db",
-    "https://note.com/jfactcheckcenter/n/nb5dd7b8aa987",
-    "https://note.com/money_tree/n/na7b672bd6509",
-    "https://note.com/fact_check_1/n/nae72d55821ee",
-    "https://note.com/ai_medical/n/n9604cca7247f",
-    "https://note.com/senioranalyst_sn/n/ne652da8871e7"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順",
@@ -1550,9 +1567,9 @@
     "https://fij.info/",
     "https://www.soumu.go.jp/main_content/000948334.pdf",
     "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2022_03_international-fact-checkingday2022/",
+    "https://toolbox.google.com/factcheck",
     "https://simplique.jp/fact-checking/",
     "https://www.meltwater.com/jp/blog/fact-checking",
-    "https://www.factcheckcenter.jp/jfc-factcheck-course-practice7/",
     "https://navi.fij.info/"
    ]
   },
@@ -1564,11 +1581,11 @@
     "https://ke.linkedin.com/in/ash-pendo-a369401aa",
     "https://www.linkedin.com/posts/ifip--international-federation-for-information-processing_smart-humanity-ai-lends-a-hand-during-activity-7515770964178022400-K_cT",
     "https://ke.linkedin.com/in/joseph-gichimu-98241b337",
-    "https://www.linkedin.com/in/emilyhood",
     "https://www.linkedin.com/posts/yanzhi-wang-9677a562_github-rchowdhubnorscale-activity-7504846966607040512-zvbH",
-    "https://ke.linkedin.com/in/ray-polo-284a0846",
+    "https://www.linkedin.com/in/emilyhood",
     "https://ke.linkedin.com/in/robert-masai-23a011261",
-    "https://www.linkedin.com/in/acmiyaguchi"
+    "https://www.linkedin.com/in/acmiyaguchi",
+    "https://ke.linkedin.com/in/ray-polo-284a0846"
    ]
   }
  ],
@@ -1576,25 +1593,39 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "Felo（フェロー）とは？日本発AI検索エンジンの使い方や料金、Perplexityとの違いを徹底解説",
+    "quote": "Google AIモードの使い方と使えないときの対処法！質問のコツやSEO/LLMO戦略も解説",
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "AI検索「Genspark（ジェンスパーク）」の使い方！始め方や活用例なども徹底解説【2026年最新版】",
+    "quote": "マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説",
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ターゲティングとは？マーケティング成功の鍵を握る手法とフレームワークを解説",
+    "quote": "【PR動画事例】阪本高生堂のクールグリースを魅力的に魅せるコツとは",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法",
+    "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説",
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T11:12:14.636365+00:00"
 }

@@ -8,17 +8,11 @@
  ],
  "context": "探し先・書き手",
  "kind": "market",
- "researched_at": "2026-11-07T05:45:43.360464+00:00",
+ "researched_at": "2026-11-07T10:37:47.192125+00:00",
  "evidence": {
-  "実例": [
+  "突き合わせ・推定": [
    {
     "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(無料、データ加工実例)",
     "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -45,14 +39,6 @@
    },
    {
     "quote": ": 「○○年から計算方法を変更」のような注記",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
     "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -149,6 +135,20 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(無料、データ加工実例)",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -190,12 +190,12 @@
     "method": "http"
    },
    {
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "url": "https://www.e-stat.go.jp/stat-search/database",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/database",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "status": "ok",
     "method": "http"
    },
@@ -225,17 +225,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/001093339.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000825604.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
+    "url": "https://www.research-skills.com/articles/estat-howto/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.research-skills.com/articles/estat-howto/",
+    "url": "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
     "status": "ok",
     "method": "http"
    },
@@ -255,12 +255,12 @@
     "method": "http"
    },
    {
-    "url": "https://manuelgarcia.info/guides/research/guide/ai-generate-statistical-code-research",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9150877/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9150877/",
+    "url": "https://manuelgarcia.info/guides/research/guide/ai-generate-statistical-code-research",
     "status": "ok",
     "method": "http"
    },
@@ -271,7 +271,7 @@
    },
    {
     "url": "https://web.archive.org/web/20251230112235/https://citeseerx.ist.psu.edu//document?repid=rep1&type=pdf&doi=f611a0beb8a5c6df7e2fee9537df206c724c21b8",
-    "status": "http_404",
+    "status": "http_429",
     "method": "http"
    },
    {
@@ -306,30 +306,30 @@
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） note",
    "results": [
     "https://www.e-stat.go.jp/",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "https://www.e-stat.go.jp/stat-search/database",
+    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "https://note.com/yukionoguchi/n/n72456a1984f8",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://www.youtube.com/watch?v=39NW-vGtA5k",
     "https://www.e-stat.go.jp/usageguide",
     "https://webtan.impress.co.jp/e/2014/06/24/17731",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.youtube.com/watch?v=39NW-vGtA5k",
+    "https://kansai-u.libguides.com/c.php?g=891898&p=6429763",
     "https://note.com/stats47/n/n7e4572d23a1b"
    ]
   },
   {
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） やり方",
    "results": [
-    "https://www.e-stat.go.jp/stat-search/database",
     "https://www.e-stat.go.jp/",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://www.youtube.com/watch?v=39NW-vGtA5k",
     "https://www.e-stat.go.jp/usageguide",
+    "https://www.youtube.com/watch?v=39NW-vGtA5k",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://www.e-stat.go.jp/stat-search/database",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://kansai-u.libguides.com/c.php?g=891898&p=6429763",
-    "https://www.soumu.go.jp/main_content/001093339.pdf",
-    "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06"
+    "https://www.soumu.go.jp/main_content/000825604.pdf",
+    "https://www.research-skills.com/articles/estat-howto/"
    ]
   },
   {
@@ -351,44 +351,52 @@
    "query": "e-Stat practical search techniques statistical code metadata notes",
    "results": [
     "https://www.youtube.com/watch?v=lEA25uDgeeg",
-    "https://manuelgarcia.info/guides/research/guide/ai-generate-statistical-code-research",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC9150877/",
+    "https://manuelgarcia.info/guides/research/guide/ai-generate-statistical-code-research",
     "https://unece.org/fileadmin/DAM/stats/documents/ece/ces/bur/2009/mtg1/20.add.1.e.pdf",
     "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f611a0beb8a5c6df7e2fee9537df206c724c21b8",
     "https://nces.ed.gov/fcsm/pdf/Metadata_projects_plain_US_federal_statistics.pdf",
     "https://www.ncci.com/Articles/Pages/Atlas-Unlock-the-Power-of-Statistical-Codes-With-Class-Look-Up.aspx",
-    "https://ec.europa.eu/eurostat/documents/3859598/13925930/KS-GQ-21-021-EN-N.pdf",
+    "https://www.elderresearch.com/resource/books/practical-statistics-for-data-scientists-50-essential-concepts/",
     "https://projects.officialstatistics.org/hb-mgnt-org-nss/handbook/chapters/C11/11_4_Metadata_-_providing_information_on_the_properties_of_statistical_data.html",
-    "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-api-data-search/reference.md"
+    "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-file-search/SKILL.md"
    ]
   },
   {
    "query": "site:note.com e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）",
    "results": [
     "https://note.com/taotao_marudora/n/n2647aa6a0dc1",
-    "https://note.com/stats47/n/n258277f96f88",
     "https://note.com/stats47/n/n7e4572d23a1b",
+    "https://note.com/stats47/n/n258277f96f88",
+    "https://note.com/stats47/n/nc5a1358141a5",
     "https://note.com/stats47/n/n73a4d300e045",
     "https://note.com/stats47/m/m1b836e4c8dce/archive",
     "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
-    "https://note.com/stats47/n/nc5a1358141a5",
-    "https://note.com/stats47/n/naf04e81afb7b"
+    "https://note.com/stats47/n/n0bd95dda8588"
    ]
   },
   {
    "query": "site:x.com e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）",
-   "results": []
+   "results": [
+    "https://x.com/pengoo_writer/status/2025207882195849475",
+    "https://x.com/AkenoYasutake/status/2095348795282464958",
+    "https://x.com/OpenWave_25/status/2099718833129034216",
+    "https://x.com/satoPUBLIC/status/2026221573561102478",
+    "https://x.com/u_sharoushi/status/2106927076116992488",
+    "https://x.com/aireporter_nana/status/2043272797749968997",
+    "https://x.com/Kadomatsu_Lib/status/2092745885700747773"
+   ]
   },
   {
    "query": "site:linkedin.com e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）",
    "results": [
     "https://jp.linkedin.com/pulse/linkedin検索を攻略人企業投稿の効率的な探し方とコツを整理-嘉一-中島-h75hc",
-    "https://jp.linkedin.com/in/akiko-yamane-ito-94492863",
     "https://www.linkedin.com/posts/asa8043_人口移動統計2025から読み取れること-自治体広報実務との接点を考える-activity-7430034964089372672-iO4F",
+    "https://jp.linkedin.com/in/yuki-ando-a918032b5",
     "https://jp.linkedin.com/posts/oodateyoshimasa_頻度の低い定型業務は担当者の記憶に頼ると毎回思い出すコストから始まります-activity-7486540725765976064-cGiQ",
-    "https://jp.linkedin.com/pulse/人口移動統計2025から読み取れること-自治体広報実務との接点を考える-hiroyuki-asakura-pk6wc",
     "https://jp.linkedin.com/posts/hirotakashoneshibata_2025年9月16日厚労省が令和6年2024人口動態統計確定数を公開-activity-7377628947456589824-t-3P",
-    "https://jp.linkedin.com/in/hiroyuki-atsumi"
+    "https://jp.linkedin.com/in/hiroyuki-atsumi",
+    "https://jp.linkedin.com/pulse/important-steps-drawing-conclusions-statistics-silvio-caionda-ojwcf?tl=ja"
    ]
   },
   {
@@ -398,8 +406,8 @@
     "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/stat.japan/posts/1月13日総務省統計局からお知らせします誰でも使える統計オープンデータ開講-総務省統計局は誰でも無料で学べるデータサイエンスオンライン講座誰でも使える統計オープ/1308782831285742/",
     "https://www.facebook.com/tmlibrary/photos/122水午後3４時統計情報の調べ方都立中央図書館独統計センターより講師をお招きする特別セミナーです政府統計ポータルサイトe-stat地図で見る統計jstat-m/3138928889455242/",
+    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
     "https://www.facebook.com/tokyoacademy.koumuin/posts/stay-homeおウチでできる自治体研究②統計統計とはある集団を時間や地域などの一定の条件下で調べこの結果を集計加工して得られた数値のことをいいます数値やその/3836047226467420/",
-    "https://www.facebook.com/gosegirl/posts/市職員有志が制作-統計the御所-r6御所ボーイｍです御所市役所の職員有志でつくる自主研究グループ御所市統計研究会吉岡聖会長がグラフやデータ等を用いた統計書統計/802209968609212/",
     "https://www.facebook.com/stat.japan/photos/統計局からのお知らせ本日13時00分から統計ダッシュボードのアドレスurlが変わりました新httpsdashboarde-statgojp旧urlでアクセスいた/1505660842846741/"
    ]
   },
@@ -412,25 +420,25 @@
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://webtan.impress.co.jp/e/2014/06/24/17731",
     "https://www.youtube.com/watch?v=39NW-vGtA5k",
+    "https://note.com/tag/e-Stat",
     "https://www.e-stat.go.jp/stat-search/files",
     "https://kansai-u.libguides.com/c.php?g=891898&p=6429763",
-    "https://www.soumu.go.jp/main_content/000825604.pdf",
     "https://note.com/stats47/n/n7e4572d23a1b"
    ]
   },
   {
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） X 投稿",
    "results": [
-    "https://www.e-stat.go.jp/about",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.youtube.com/watch?v=39NW-vGtA5k",
     "https://www.e-stat.go.jp/",
-    "https://kansai-u.libguides.com/c.php?g=891898&p=6429763",
+    "https://www.youtube.com/watch?v=39NW-vGtA5k",
+    "https://www.e-stat.go.jp/help/operation",
     "https://www.soumu.go.jp/main_content/001093339.pdf",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.e-stat.go.jp/help/operation",
-    "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06"
+    "https://www.e-stat.go.jp/stat-search/database",
+    "https://webtan.impress.co.jp/e/2014/06/24/17731",
+    "https://note.com/stats47/n/n258277f96f88"
    ]
   },
   {
@@ -439,13 +447,13 @@
     "https://www.linkedin.com/posts/tpfaff_teaching-with-real-data-activity-7411849533133066240-AG_I",
     "https://www.linkedin.com/pulse/understanding-cdisc-standards-clinical-research-practical-guide-ojn8e",
     "https://www.linkedin.com/in/emmaholmesbraun",
+    "https://www.linkedin.com/posts/bouchernicolas_i-gave-chatgpt-instant-and-chatgpt-pro-the-activity-7515101429297176577-9cU8",
     "https://www.linkedin.com/in/chesterismay",
-    "https://www.linkedin.com/in/wenxuanjessehe",
-    "https://www.linkedin.com/in/yu-zheng-statistics",
     "https://co.linkedin.com/in/christianmongeau",
-    "https://www.linkedin.com/posts/ericamelloni_thinking-tor-differently-loving-clarity-activity-7519655745240580096-dn8U",
-    "https://www.linkedin.com/in/ldjackman",
-    "https://ca.linkedin.com/in/brianbuffett"
+    "https://www.linkedin.com/in/yu-zheng-statistics",
+    "https://www.linkedin.com/in/wenxuanjessehe",
+    "https://it.linkedin.com/in/pietro-gennari-185b7845",
+    "https://www.linkedin.com/in/ldjackman"
    ]
   }
  ],
@@ -453,6 +461,6 @@
   "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-05T08:54:13.847710+00:00"
 }

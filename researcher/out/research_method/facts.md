@@ -2163,11 +2163,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3804,11 +3804,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3844,7 +3844,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -4296,8 +4296,8 @@
   - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
 - 検索結果の抜粋：
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -7271,16 +7271,16 @@
   - 「Felo（フェロー）とは？日本発AI検索エンジンの使い方や料金、Perplexityとの違いを徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「AI検索「Genspark（ジェンスパーク）」の使い方！始め方や活用例なども徹底解説【2026年最新版】」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ターゲティングとは？マーケティング成功の鍵を握る手法とフレームワークを解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Google AIモードの使い方と使えないときの対処法！質問のコツやSEO/LLMO戦略も解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「【PR動画事例】阪本高生堂のクールグリースを魅力的に魅せるコツとは」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックには、さまざまなステップや方法があります」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ここでは、具体的な方法を見ていきましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「LLMOモニタリングの手順と計測設計とは？【AI引用率を月次で追う実践ガイド】」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「AISoVスコアとは？AI検索での自社シェアを数値化する計測方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「SEOに強いタイトルの付け方！文字数の目安やクリック率を高める手順をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「コンテンツSEOとは？コンテンツマーケティングとの違いや効果・やり方を事例で解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7314,6 +7314,7 @@
   - 「情報源を確認する（公的機関・公式発表との照合）」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「政策、法律、統計、災害、健康、経済などの分野では、国や自治体、国際機関、企業の公式発表と照合することが重要」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
 - 失敗・落とし穴：
+  - 「マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「不確かな情報を発信しないように注意し、常に正しい情報を発信する」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「注意すべきは、」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「なお、ここで注意したいのが」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7328,7 +7329,6 @@
   - 「AIやツールを使えば、文章内の数値や表現を学習済みデータや外部ソースをもとに、誤りや不整合の可能性がある箇所を自動で提示できます」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「ただし、AIの指摘は「誤りの可能性」を示すものに過ぎないため、最終的な表現判断は人が行う必要があります」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「ChatGPT・Grok・Geminiなどのツールや専用サービスを活用すれば効率化できますが、AIの出力を鵜呑みにせず必ずダブルチェックを行いましょう」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
-  - 「これを怠り内容に誤りがあると見なされてしまうと、読み手の信頼を失うだけでなく、Googleに記事として内容が不十分だと認識され、上位表示されにくくなります」（https://simplique.jp/fact-checking/）
 - 実例：
   - 「近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -9450,9 +9450,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報

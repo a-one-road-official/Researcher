@@ -8,7 +8,7 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-07T05:43:13.658420+00:00",
+ "researched_at": "2026-11-07T10:42:41.526709+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -128,6 +128,32 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "地域コード結合の完全チェックリスト｜統計で見る都道府県",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計表の値を地図に載せたら、いくつかの県だけ色が付かない",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計表の調査年と境界データの基準年月日を別々に記録してください",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "e-Statには市区町村名・コードと廃置分合等を調べる入口があります",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "stats47の地域分析も、単に県別の数値を並べるだけでなく、入力した層、空間演算、途中結果、47県の集計まで辿れることを重視しています",
@@ -225,186 +251,160 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "地域コード結合の完全チェックリスト｜統計で見る都道府県",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表の値を地図に載せたら、いくつかの県だけ色が付かない",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表の調査年と境界データの基準年月日を別々に記録してください",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "e-Statには市区町村名・コードと廃置分合等を調べる入口があります",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "url": "https://forum.pornchat.com/threads/recommended-writers-on-pornchat.69697/page-2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tasuto11/n/n5ecf7cefd0a2",
+    "url": "https://forum.pornchat.com/tags/dad-daughter/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sensei_playflow/n/nfedb9f601f8a",
+    "url": "https://forum.pornchat.com/threads/ps-i-love-you.463875/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kanbe67/n/n91c422bb4911",
+    "url": "https://forum.pornchat.com/threads/the-office.647101/page-20",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/mbbs/n/n04eab75110e4",
+    "url": "https://forum.pornchat.com/threads/next-door-neighbours-if-youre-lucky.433919/page-76",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tukishiro555/n/nafa73f8f7c4b",
+    "url": "https://forum.pornchat.com/threads/sexy-sissys-traps-and-trans-lgbt.481583/page-69",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kazukio/n/nd4f0e127fd31",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/triviews/n/n0a513b146c39",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kiyodataeng/n/n6bbb404f97c9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asahishimbun-saiyou.com/company/datajournalism",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/how-to-data-cleaning",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kyodonewsprwire.jp/corp/glossary/7035/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://www.asahi.com/miraimedia/dj/case/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kazukio/n/nedb9fb057839",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-journalism.org/en/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://slownews.com/n/ne04e905d070c?gs=6b82eb367876398af42bef72416bd97a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/travel/comments/12c9409/questions_about_taking_a_carryon_on_a_skiplagged/",
+    "url": "https://www.timeanddate.com/date/dateadd.html",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "url": "https://timedatecalc.com/10-days-from-today",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://calculator.today/10-days-from-today",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning",
+    "url": "https://calculator-online.net/days-from-today/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calculator.net/date-calculator.html?today",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daysfromdate.com/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.ovaledge.com/blog/data-cleaning-techniques",
+    "url": "https://www.nhl.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://datamgmtinedresearch.com/clean",
+    "url": "https://www.nhl.com/standings",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
+    "url": "https://www.nhl.com/schedule",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.nhl.com/redwings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhl.com/playoffs/2023/bracket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhl.com/canucks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://account.microsoft.com/account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.uscis.gov/sites/default/files/document/data/eb_inventory_october_2026_v1.xlsx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.purdue.edu/idata/wp-content/uploads/2026/04/CDS-2025-2026.xlsx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://pages.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://home.treasury.gov/system/files/131/OZ2-Designations-2027-Data-Transparency-10302026.xlsx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.federalreserve.gov/econres/files/scf2025_tables_public_real_historical.xlsx",
+    "status": "ok",
+    "method": "table"
    }
   ]
  },
@@ -412,237 +412,177 @@
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） site:note.com",
    "results": [
-    "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "https://note.com/tasuto11/n/n5ecf7cefd0a2",
-    "https://note.com/sensei_playflow/n/nfedb9f601f8a",
-    "https://note.com/kanbe67/n/n91c422bb4911",
-    "https://note.com/mbbs/n/n04eab75110e4",
-    "https://note.com/tukishiro555/n/nafa73f8f7c4b",
-    "https://note.com/trans_n_ai/n/n7fc979a7b01a",
-    "https://note.com/kadobun_note/n/n1457acf071b5",
-    "https://note.com/ichi_twnovel/n/n7e6c92aeb011",
-    "https://note.com/tukishiro555/n/n71b3b874cf07"
+    "https://forum.xnxx.com/threads/recommended-writers-on-xnxx.69697/page-2",
+    "https://forum.xnxx.com/tags/dad-daughter/",
+    "https://forum.xnxx.com/threads/ps-i-love-you.463875/",
+    "https://forum.xnxx.com/threads/the-office.647101/page-20",
+    "https://forum.xnxx.com/threads/next-door-neighbours-if-youre-lucky.433919/page-76",
+    "https://forum.xnxx.com/threads/sexy-sissys-traps-and-trans-lgbt.481583/page-69",
+    "https://forum.xnxx.com/threads/how-to-get-grils-talking-to-me.322329/",
+    "https://forum.xnxx.com/threads/next-door-neighbours-if-youre-lucky.433919/page-13",
+    "https://forum.xnxx.com/threads/pleasure.167911/",
+    "https://forum.xnxx.com/threads/x-rated-underwear-modeling.210439/"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note",
    "results": [
-    "https://note.com/kazukio/n/nd4f0e127fd31",
-    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://note.com/triviews/n/n0a513b146c39",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://note.com/kiyodataeng/n/n6bbb404f97c9",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://data-viz-lab.com/accounting-data",
-    "https://note.com/qiqumo/n/nf33b92cba9b3",
-    "https://www.wsfa.com/"
+    "https://www.timeanddate.com/date/dateadd.html",
+    "https://timedatecalc.com/10-days-from-today",
+    "https://calculator.today/10-days-from-today",
+    "https://calculator-online.net/days-from-today/",
+    "https://www.calculator.net/date-calculator.html?today",
+    "https://www.daysfromdate.com/",
+    "https://dashcalculator.com/calculators/days-from-today?days=10",
+    "https://www.daysfromtoday.ai/en/days/10",
+    "https://www.datecalculator.org/days-from-today-calculator",
+    "https://www.calculatorsoup.com/calculators/time/date-day.php"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） やり方",
    "results": [
-    "https://www.asahishimbun-saiyou.com/company/datajournalism",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "https://kyodonewsprwire.jp/corp/glossary/7035/",
-    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
-    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://techlife.asahi.com/n/n723a75435b1d"
+    "https://www.nhl.com/",
+    "https://www.nhl.com/standings",
+    "https://www.nhl.com/schedule",
+    "https://www.nhl.com/redwings/",
+    "https://www.nhl.com/playoffs/2023/bracket",
+    "https://www.nhl.com/canucks/",
+    "https://www.nhl.com/blues/schedule",
+    "https://www.nhl.com/kraken/schedule",
+    "https://www.nhl.com/bruins/standings",
+    "https://media.nhl.com/site/asset/public/ext/2022-23/2023StanleyCupPlayoffs_1stRound.pdf"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） 事例",
    "results": [
-    "https://www.asahishimbun-saiyou.com/company/datajournalism",
-    "http://www.asahi.com/miraimedia/dj/case/",
-    "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
-    "https://note.com/kazukio/n/nedb9fb057839",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
-    "https://data-journalism.org/en/",
-    "https://slownews.com/n/ne04e905d070c",
-    "https://kyodonewsprwire.jp/corp/glossary/7035/",
-    "https://www.reddit.com/r/travel/comments/12c9409/questions_about_taking_a_carryon_on_a_skiplagged/"
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://www.microsoft.com/",
+    "https://myaccount.microsoft.com/login",
+    "https://myaccount.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://mysignins.microsoft.com/"
    ]
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks",
    "results": [
-    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
-    "https://www.tableau.com/learn/articles/what-is-data-cleaning",
-    "https://www.ovaledge.com/blog/data-cleaning-techniques",
-    "https://datamgmtinedresearch.com/clean",
-    "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
-    "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
-    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1198040/",
-    "https://en.m.wikipedia.org/wiki/Data"
+    "https://www.uscis.gov/sites/default/files/document/data/eb_inventory_october_2026_v1.xlsx",
+    "https://www.purdue.edu/idata/wp-content/uploads/2026/04/CDS-2025-2026.xlsx",
+    "https://pages.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls",
+    "https://home.treasury.gov/system/files/131/OZ2-Designations-2027-Data-Transparency-10302026.xlsx",
+    "https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx",
+    "https://www.federalreserve.gov/econres/files/scf2025_tables_public_real_historical.xlsx",
+    "https://files.worldhappiness.report/WHR26_Data_Figure_2.1.xlsx",
+    "https://www.sfelections.org/results/20261103/data/20261106/d4/d4_short.xlsx",
+    "https://www.policyuncertainty.com/media/All_Country_Data.xlsx",
+    "https://oxfordinsights.com/wp-content/uploads/2026/01/2025-Government-AI-Readiness-Index-data-1.xlsx"
    ]
   },
   {
    "query": "site:note.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://www.arsenal.com/",
-    "https://www.arsenal.com/fixtures/men/fixtures",
-    "https://www.premierleague.com/en/clubs/3/arsenal/matches",
-    "https://matchcountdown.com/en/football/teams/arsenal",
-    "https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal",
-    "https://www.espn.com/soccer/team/fixtures/_/id/359/league/eng.1/arsenal",
-    "https://www.premierleague.com/en/news/4675132/all-of-arsenals-fixtures-for-202627-premier-league-season",
-    "https://sports.yahoo.com/soccer/teams/arsenal/schedule/?fr=sycsrp_catchall",
-    "https://www.nytimes.com/athletic/football/team/arsenal/schedule/",
-    "https://www.si.com/soccer/arsenal/schedule"
+    "https://github.com/Someone0nEarth/excalidraw-self-hosted",
+    "https://www.wordplays.com/crossword-solver/Draw-Simulated-\"Selfhost\"",
+    "https://www.virtualizationhowto.com/2023/04/excalidraw-whiteboard-ultimate-docker-self-hosted-home-lab-diagramming/",
+    "https://www.youtube.com/watch?v=yk5bBo8JAG4",
+    "https://github.com/excalidraw/excalidraw",
+    "https://www.wordplays.com/crossword-solver/Draw-Simulated-25%,-30%-Self-hostDraw-Helloo-25%,-30%-Self-host1-Microsoft-W",
+    "https://www.reddit.com/r/selfhosted/comments/xw66pl/any_selfhosted_alternative_to_drawio_or_excalidraw/",
+    "https://www.symbolab.com/solver/step-by-step/Draw+Simulated+Selfhost",
+    "https://www.neowin.net/guides/self-hosting-installing-docker-and-an-excalidraw-container-on-linux/",
+    "https://plus.excalidraw.com/"
    ]
   },
   {
    "query": "site:x.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://en.m.wikipedia.org/wiki/Siouxsie_and_the_Banshees",
-    "https://en.m.wikipedia.org/wiki/Siouxsie_Sioux",
-    "https://worldwarwings.com/wwii-burma-banshees-battle/",
-    "https://m.imdb.com/name/nm1229640/",
-    "https://burmabanshees.com/",
-    "https://www.ebay.com/itm/127550330938",
-    "https://m.youtube.com/watch?v=0l1FLBpHCxQ",
-    "https://www.deviantart.com/waterhollow/art/Asian-banshee-1379102229",
-    "https://www.amazon.com/Asian-Knights-Shibuya-February-Broadcast/dp/B0DMQMFZPF",
-    "https://guerssen.com/product/asian-nights-live-at-shibuya-kokaido-yellow/"
+    "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+    "https://techcommunity.microsoft.com/Events",
+    "https://techcommunity.microsoft.com/category/microsoft-security",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://www.microsoft.com/en-us/",
+    "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail"
    ]
   },
   {
    "query": "site:linkedin.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
-   "results": [
-    "https://stopanxiety.org/anxiety-symptoms/",
-    "https://www.calmclinic.com/anxiety-guide/symptoms",
-    "https://www.anxietycentre.com/anxiety-disorders/symptoms/",
-    "https://www.healthline.com/health/anxiety-disorder-symptoms",
-    "https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961",
-    "https://health.clevelandclinic.org/signs-of-anxiety",
-    "https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders",
-    "https://www.anxietycentre.com/faq/how-do-i-know-i-have-anxiety/",
-    "https://www.anxiety.org/what-is-anxiety",
-    "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/symptoms-of-anxiety/"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://aotr.vaultedvaluesx.com/value-list",
-    "https://aotrtradingvalue.com/",
-    "https://aotrevolution.com/values",
-    "https://www.game.guide/attack-on-titan-revolution-value-list",
-    "https://grimzeal.com/attack-on-titan-revolution/value",
-    "https://www.aotrvalue.com/",
-    "https://aotr.vaultedvaluesx.com/home",
-    "https://www.aotr.trade/",
-    "https://titanvalues.com/values"
+    "https://en.m.wikipedia.org/wiki/Seattle",
+    "https://visitseattle.org/",
+    "https://www.seattle.gov/",
+    "https://visitseattle.org/things-to-do/sightseeing/top-25-attractions/",
+    "https://www.britannica.com/place/Seattle-Washington",
+    "https://seattle.net/",
+    "https://www.seattletimes.com/",
+    "https://www.lonelyplanet.com/articles/top-things-to-do-in-seattle",
+    "https://www.visittheusa.com/destinations/washington/seattle/",
+    "https://travel.usnews.com/seattle_wa/things_to_do/"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note 社長",
    "results": [
-    "https://note.com/kazukio/n/nd4f0e127fd31",
-    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://www.yomiuri.co.jp/world/nieman/20190620-OYT8T50054/",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.zentsuken.net/journal/file/166_2.html",
-    "https://jisedaisystem.atlassian.net/wiki/pages/resumedraft.action?draftId=2240283043",
-    "https://www.nba.com/team/1610612755/sixers"
+    "https://www.zhihu.com/question/22888187",
+    "https://www.city-data.com/forum/military-life-issues/1437749-air-force-discharge-code-question.html",
+    "https://www.city-data.com/forum/military-life-issues/804871-spain-any-americans-remember-royal-oaks-9.html",
+    "https://www.zhihu.com/question/297465882",
+    "https://www.resetera.com/forums/gaming-forum.7/",
+    "https://www.resetera.com/threads/katseye-has-superior-jeeaaans-gap-counters-the-sweeney-ad.1277841/",
+    "https://www.zhihu.com/question/36270160",
+    "https://www.city-data.com/forum/new-jersey/1011012-remembering-old-plainfield-4.html",
+    "https://www.city-data.com/forum/military-life-issues/2668625-what-average-age-ranks-rates.html",
+    "https://www.city-data.com/locations/OldNavy/Orange-County-CA.html"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） X 投稿",
    "results": [
-    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
-    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
-    "https://support.site24x7.com/portal/ja/community/tag/auditing",
-    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
-    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://help.x.com/ja/resources/addressing-misleading-info",
-    "https://www.ups.com/track?loc=EN_US"
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://www.microsoft.com/",
+    "https://myaccount.microsoft.com/login",
+    "https://myaccount.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://mysignins.microsoft.com/"
    ]
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/science/best-practices-for-data-management/how-to-validate-data-before-acting/",
-    "https://www.linkedin.com/in/%F0%9F%8E%AF-ming-tommy-tang-40650014",
-    "https://www.linkedin.com/in/tracy-j-mao-12139b1a1",
-    "https://in.linkedin.com/in/chayan-banerjee",
-    "https://id.linkedin.com/in/sarifmj",
-    "https://ng.linkedin.com/in/ehichioya-david-ebaluegbe-646240284",
-    "https://ca.linkedin.com/in/kartiw",
-    "https://www.linkedin.com/in/emikoroe",
-    "https://www.linkedin.com/in/saloni3597",
-    "https://www.linkedin.com/in/edward-dongbo-cui"
+    "https://oxfordinsights.com/wp-content/uploads/2026/01/2025-Government-AI-Readiness-Index-data-1.xlsx",
+    "https://www.uscis.gov/sites/default/files/document/data/eb_inventory_october_2026_v1.xlsx",
+    "https://www.purdue.edu/idata/wp-content/uploads/2026/04/CDS-2025-2026.xlsx",
+    "https://pages.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls",
+    "https://home.treasury.gov/system/files/131/OZ2-Designations-2027-Data-Transparency-10302026.xlsx",
+    "https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx",
+    "https://www.federalreserve.gov/econres/files/scf2025_tables_public_real_historical.xlsx",
+    "https://files.worldhappiness.report/WHR26_Data_Figure_2.1.xlsx",
+    "https://www.sfelections.org/results/20261103/data/20261106/d4/d4_short.xlsx",
+    "https://www.policyuncertainty.com/media/All_Country_Data.xlsx"
    ]
   }
  ],
  "missing": {
   "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "後半には、そのまま使えるPython検査キットと実行手順を付けています",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "たとえば北海道のコード `01000` を表計算ソフトが数値の `1000` として保存すると、見た目は小さな違いでも文字列としての結合は失敗します",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "stats47の地域分析も、単に県別の数値を並べるだけでなく、入力した層、空間演算、途中結果、47県の集計まで辿れることを重視しています",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "地域コード結合の完全チェックリスト｜統計で見る都道府県",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表の値を地図に載せたら、いくつかの県だけ色が付かない",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表の調査年と境界データの基準年月日を別々に記録してください",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "e-Statには市区町村名・コードと廃置分合等を調べる入口があります",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 11,
+ "new_this_run": {},
+ "runs": 12,
  "first_researched_at": "2026-11-05T15:23:56.343731+00:00"
 }
