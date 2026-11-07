@@ -1498,22 +1498,27 @@
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「AIで市場調査をする方法：情報を集め、出典付きレポートにまとめる」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「4. 既存の対処方法と残る疑問」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「許可された資料を自分で渡す方法もありますが、その場合は「渡した資料の分析」です」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「では、ノート型は担当者や期限を別途管理する必要があり、チケット型は会議中にチケット間を移動する手間がある、という違いが説明されています」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分ける」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「現在の主要AIサービスには、最新Web情報を取得する検索、複数の検索を自律的に進めるエージェント型検索、長時間の調査と統合を行うDeep Research、アップロード資料から関連箇所を検索するファイル検索・RAGなどがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「では、適切な方法が異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「この流れは、AIを信用しないための手順ではありません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「次の問いは、それぞれ調査方法が違います」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「検索語を変えながら論点を掘るならエージェント型検索を使う」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「エージェント型検索では、AIが検索結果を読み、」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「一方、効果はタスク、利用者、利用方法、評価指標によって異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分けられる」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「そして、生成AIは、判決文等の定型」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「化型の生成AIもあり、契約書レビューサービス、文」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「弁護士業務において、ある程度類型的な思考」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「⑴ 文献・判例調査においては、汎用型の生成 AIを」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「⑴ 定型的な訴状であれば、ひな形をあらかじめ生成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「非定型的な訴状や、どのような要件事実を主張」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「情が強く反映される「非定型的な契約書」をゼロから」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「⑴ 定 型 的 な 規 約 や ポリシーの たたき台 作 成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「内容が定型化されているドキュメントについては、必」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「義規定と後段の条項で用語の使い方が矛盾していたり、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「⑴ 定 型 メー ル ・ 文 書 の 作 成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「文、紹介者へのお礼など、定型的な文面の作成は生成」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「取らせ、データ化する方法も便利である」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「「総合型として分野を広げる」かで悩んでいる」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「電話応対の手順や来客対応など、これまで新人事」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 突き合わせ・推定：
+  - 「◦契約書等の文章の論理チェック・矛盾点指摘」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「拠とどこが矛盾していると考えているのかをプロンプ」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「客観的証拠と矛盾している、不合理である、経験則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「義規定と後段の条項で用語の使い方が矛盾していたり、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「AI に「論理的な矛盾点や、複数の」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「もっともらしい製品アイデアを、検証済みの需要として扱わない」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「少数の投稿だけで市場規模は推計できないため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
@@ -1524,59 +1529,54 @@
   - 「12件の出典は、検証済みの利用事例が12件あるという意味ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「編集時に元ページを別途取得し、AIとツールでこの記述を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「未取得の原文、対象者の情報不足、古い資料、矛盾する情報」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「出典ID、日付、不明点、結論を原版と照合する」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「企業の公式発表を、第三者が検証した市場評価のように扱っていた」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「AI活用成熟度のフェーズ4では、問い、前提、仮説、代替案、判断基準を整理しました」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「フェーズ5では、その判断に使う情報が本当に信頼できるのかを検証します」（https://note.com/gtminami/n/n5d18b36d3acc）
 - 一次情報の探し方：
+  - 「れは、ある単語の次にどのような単語が続くかを統計」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「◦膨大な文書（PDF, Word など） をアップロード」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「事務所ウェブサイトの更新、スタッフの採用・育成・勤」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「弁護士3名の事務所で、事務員の採用がうまくい」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「と、採用・定着の改善策を、中小企業の経営コンサル」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf）をご参照のこと」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「その際、根拠 （公的機関」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「に応じた柔軟な報酬設計を採用することも否定され」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「＊27：原文については、日弁連の会員専用サイ ト （https://member.nichibenren.or.jp/gyoumu/other/documentFile/AI_2025.pdf） を ご参照のこ と」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「引用先が一次情報か、別資料の要約か」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「しかし、実際にFACTとして採用するには、」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「「一次情報を使えばよい」と言われることがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「一次情報は、事実の原点を確認するために使う」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「一次情報を「中立的な情報」と決めつけず、」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「統計的に差があっても、実務上は小さな差かもしれません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「AIによって調査を速くしながら、何を根拠として採用したかを説明できる状態を作ることです」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「そして、主張ごとに採用する引用、保留する主張、提出前や登壇前に更新する再検索条件を適切に決める手順を解説します」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「また、契約外の論文PDFを丸ごと送信することは避け、公開されているメタデータや許諾範囲内の抜粋テキストのみを利用します」（https://media.deskrex.ai/case-citation-research-2026/）
 - 失敗・落とし穴：
-  - 「一人の実務者による運用の考え方を示す資料であり、人数とオンライン会議の利用を確認できる小規模チームの最近の失敗事例ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「一方、一度取得に失敗したからといって、その情報が誤りだとは限りません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「矛盾は、どちらかが間違いとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「AI時代には、仮説を速く作ることだけでなく、間違いに気づき、現実に合わせて修正する速度が重要であることを扱っています」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「この整理において最も注意すべきは、引用関係があるという事実を「元の研究への支持」と同一視してはいけない点です」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「対象集団や実験条件が異なる複数の追試を、「同じ再現結果が得られた」とひとまとめに扱わないように注意してください」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「Transformerの自己注意が抱えるO(N^2)の計算コストを、SSM（状態空間モデル、例：Mamba）のO(N)でどう回避するか」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「Hikvision、Predpol、Flock Safety、Abel Policeなど、警察の犯罪捜査や現場の業務効率化に革新をもたらす技術とは？プライバシーやバイアスの課題も議論します」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「導入判断では論文数より調査の失敗が減るかを見る」（https://note.com/gtminami/n/n0a5308378b21）
-  - 「どの主張をどの情報源で確かめるかを先に決める方が、AIリサーチの誤りを減らしやすい」（https://note.com/gtminami/n/n0a5308378b21）
-  - 「査読状況、撤回、研究デザイン、サンプル、バイアス、因果の妥当性、対象への適用可能性」（https://note.com/gtminami/n/n0a5308378b21）
-  - 「検索から検証までの失敗しやすい工程を、明示的に設計できたときです」（https://note.com/gtminami/n/n0a5308378b21）
-  - 「深い研究は、いきなり deep にすると高確率で失敗します」（https://note.com/tasty_dunlin998/n/nef86167fa436）
-  - 「失敗1：質問が広すぎて、調査が散る」（https://note.com/tasty_dunlin998/n/nef86167fa436）
-  - 「失敗2：出典はあるが、単一ソース依存になる」（https://note.com/tasty_dunlin998/n/nef86167fa436）
+  - 「4 弁護士業務における生成A I 活用上の主な注意点 14頁」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「注意喚起することで、利活用とのバランスを図るもの」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「及する判例については、その内容を鵜呑みにすること」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「個人向けのプランでは、適用がない点には注意が必要」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「出力形式、制約条件 （してはいけないこと、又は注意」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「み込ませる書籍によっては、書式やドラフト、注意」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「4 弁護士業務における生成 A I 活用上の主な注意点」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「本稿では、生成AI 活用上の主な注意点について、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「ける生成 AI の利活用等に関する注意事項」 （会員限定」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「れており（執筆者も経験したことがある） 、注意を要す」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「3 日弁連AI 戦略WGによる注意事項＊26」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「「弁護士業務における生成AIの利活用等に関する注意」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「事項」＊27（以下「注意事項」ともいう）を取りまとめ、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「＊26：本稿の作成にあたっては、日弁連WGの注意事項の内容を参考にさせていただいているが、同資料が会員限定の非公開資料であることに鑑み、具」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「同注意事項は日弁連の公式見解を示すものではな」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 実例：
-  - 「レポートは実際の生成結果を基に要約・言い換えした編集版で、未編集の出力ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「ロシア語・英語の結果は同じ調査の翻訳で、各市場の独立調査ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「誰の、どの仕事の、どの段階を調べ、結果を何の判断に使うかを決めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「12件の出典は、検証済みの利用事例が12件あるという意味ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「一人の実務者による運用の考え方を示す資料であり、人数とオンライン会議の利用を確認できる小規模チームの最近の失敗事例ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「これは日付のある提供企業の発表として扱い、現在のOtterの全機能を調べた結果とはしていません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「否定的な結果や結論保留でも、確認範囲と未解決事項が分かれば成果物になります」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「ロシア語の成果物も日本語・英語の資料に基づいているため、ロシアの利用者を調査した結果とは説明できません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「URL数ではなく、重複を除いた独立性と関連性のある事例を数える」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
-  - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「重要なのは、検索結果を大量に集めることでも、参考文献の数を増やすことでもありません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「調査結果を誰が何に使うかで、確認密度を変える」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「ただし、検索結果の要約やスニペットだけで確定せず、最終的には該当ページを開きます」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「エージェント型検索では、AIが検索結果を読み、」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「3 弁護士業務における活用事例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「成AIによる誤情報が法廷に提出された事例として報」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「道された最初の事例であり、また、連邦民事訴訟規則」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「11 条による制裁金が課された最初の事例でもある」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「「AI Hallucination Cases ＊3」という、裁判所による」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「に依拠したと認定された事例を集めたデータベースに」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「＊2：Mata v. Avianca, Inc. Case No. 22-cv-1461 (S.D.N.Y.)」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「な お、上記AI Hallucination Casesに お い て は、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「ない裁判例、書面、条文を生成した事例、②裁判例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「文言を引用した事例、③関連性がない裁判例や条文」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「を引用した事例、④その後の判例や法改正で時代遅」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「れになった裁判例や条文を引用した事例である」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「例えば、個人情報保護法とその関連するガイドラ」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「示した法令や判例が実在しないケースは依然として多」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「クロスボーダー案 件や海 外の規 制 動 向（ 例えば、」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -5784,7 +5784,7 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
@@ -7054,11 +7054,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -8452,21 +8452,21 @@
 ## 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）（Japan kessan koukoku obligation change delisting capital increase large company P/L summary）
 - 文脈：決算公告
 - 手順・やり方：
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「そして、公告方法を変えるには」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「これらの公告を「どの方法で行うか」を定めたものが、」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「公告方法は3種類」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「会社法は、株式会社が選べる公告方法を次の3つと定めています（会社法939条1項）」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「公告方法は、登記簿（履歴事項全部証明書）に記載される」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「定款で公告方法を定めているときは、その定め」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「決算公告の負担（特に官報の掲載料）は、公告方法を見直すきっかけになることが多い論点です」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「まず会社法の基本条文を確認し、次に大会社・非大会社の開示範囲の違い、そして公告方法ごとの記載ルールを順にお伝えします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告で損益計算書が必要かを判断する5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ステップ1: 会社形態の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ステップ2: EDINET利用の有無」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ステップ3: 大会社の判定」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ステップ4: 公告方法の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ステップ5: 付記事項の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告の方法は「官報」「日刊新聞紙」「電子公告」の3種類があり、それぞれ損益計算書の記載ルールが異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「については、費用や手順を含めて別記事で詳しく解説しています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「自社の決算公告で損益計算書の開示が必要かどうかは、以下の5つのステップで判断できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「売上高、売上原価、各段階利益など、競合他社に知られたくない経営情報が長期間にわたって公開されることになるため、大会社への移行を機に公告方法を電子公告から官報へ変更する企業もあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ただし、公告方法の変更には定款変更が必要であり、株主総会の特別決議（議決権の3分の2以上の賛成）と登記手続きが求められます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「まずは自社が大会社に該当するかどうかを確認し、該当する場合は公告方法に応じた損益計算書の準備を始めましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 突き合わせ・推定：
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -8474,22 +8474,28 @@
   - 「3. 申込から掲載まで約15営業日かかるため、逆算してスケジュールを立てる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
 - 一次情報の探し方：
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「は、官報のほかに、日刊新聞紙や電子公告（自社ホームページ等への掲載）を選ぶことができます」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「設立時の定款をあらためて確認してみると、官報になっていることがほとんどです」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「公告方法は、登記簿（履歴事項全部証明書）に記載される」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「電子公告を選んでいるときは、あわせて**ウェブページのアドレス（URL）**も登記されます（会社法911条3項28号イ）」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「「中小企業はやらなくていい」と思われがちですが、法律上は中小企業にも決算公告の義務があります」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「なお、決算公告で公告するのは貸借対照表などの「決算の数字」ですが、その作成や税務処理は税理士の専門領域です」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「本記事では公告という手続きの面に絞って解説し、決算書の中身や税務については触れません」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「「決算公告を出すとき、損益計算書まで載せなければいけないのだろうか」と疑問に思ったことはありませんか」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告と損益計算書の関係とは？会社法の基本ルールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告で損益計算書が必要かを判断する5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「Q1: 決算公告で損益計算書を省略すると罰則はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「Q2: 合同会社は損益計算書の決算公告が必要ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「Q6: 決算公告で損益計算書の当期純損益が赤字の場合も公告する必要がありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「まとめ：決算公告で損益計算書が必要かのチェックポイント」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告とは、株式会社が定時株主総会の終結後に、貸借対照表（大会社にあっては貸借対照表および損益計算書）を公告する義務のことです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「まず、決算公告に関わる法令の全体像を整理しましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「つまり、大会社に該当しない中小企業が決算公告を行う場合は、貸借対照表だけを開示すれば法律上の義務は満たされます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「経営の透明性をアピールすることで、採用活動にプラスの効果がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 失敗・落とし穴：
+  - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -8499,12 +8505,6 @@
   - 「また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です」（https://keiridriven.mjs.co.jp/171979/）
   - 「官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう」（https://keiridriven.mjs.co.jp/171979/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -8521,6 +8521,11 @@
   - 「例えば、電子公告を選択する場合、官報や新聞公告に比べて費用を抑えることができます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「例えば、決算公告の準備と同時に、税務上のメリットが得られるような手続きの提案を受けることも可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「法律顧問料はかかりますが、結果としてコストの削減にも繋がっていきます」（https://www.kigyou-houmu.com/secret-4/）
+- 検索結果の抜粋：
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
+  - 「決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なか」（https://www.kigyou-houmu.com/secret-4/）
 
 ## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
 - 文脈：裏取り

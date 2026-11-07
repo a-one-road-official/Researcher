@@ -4217,22 +4217,28 @@
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC232U20T20C26A2000000/）
   - 「Review of operating period (40 years + 20-year extension + shutdown period such as inspection)」（https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf）
 - 顧客（金を払う側）：
-  - 「は、合成燃料開発工場の完成予想図）」（https://rief-jp.org/ct4/147936）
-  - 「企業のサステナビリティ報告のグローバル・フレーム...」（https://rief-jp.org/ct4/147936）
-  - 「欧州最大級の合成燃料工場、オーステッドが建設断念 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「【ロンドン=湯前宗太郎】洋上風力世界最大手のデンマークのオーステッドは15日、スウェーデンで進める合成燃料工場の建設を断念すると発表した」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「オーステッドが断念するのは、スウェーデン北東部で進めていた合成メタノールの製造工場の建設」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「三井物産の合成燃料、想定外の車向け受注増 デンマーク工場商業稼働」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「住友電工が英国に海底ケーブル工場 洋上風力の成長市場、欧州勢追う」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「住友電工、ドイツ風力発電の送電ケーブル受注 過去最大3600億円」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「正解なきデジタル主権論への「現実解」 日本企業へ5つの提言」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「勝てる起業家は？素直だけど執念深く型破り、バーティカルAI企業に勝機」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「「企業の女性登用は、単なる特別扱いではない」とキャシー松井氏」（https://www.alterna.co.jp/162592/）
-  - 「国際企業で相次ぐ「ウォーターポジティブ」とは」（https://www.alterna.co.jp/162592/）
-  - 「インドネシアの森林火災、「煙害」の責任追及は日本企業の取引先にも」（https://www.alterna.co.jp/162592/）
-  - 「• 合成燃料（e-fuel）の導入促進に向けた官民協議会における検討等を経て、2023年６月、」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
+  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
+  - 「e-fuelは、次の利点を有していることから、メタン、ガソリン、軽油、ジェット燃料などの既存燃料に代替し、カーボンニュートラルに貢献する次世代の燃料として導入の拡大が期待されています」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「が排出されますが、製造時に発電所や工場などから排出されるあるいは大気中のCO」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「当社グループは、水素製造から燃料合成、精製までの事業化（初期検討から設計・調達・建設および既存設備の改造・統合を含む有効活用）を一気通貫で支援するソリューションを提供します」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「を一酸化炭素（CO）へ変換する設備の設計・調達・建設業務を遂行しています」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「原料の一部は国内調達が可能であり、エネルギーの安定供給にも貢献します」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「合成燃料（e-fuel）は、再生可能エネルギー由来の水素（このような水素を「グリーン水素」といいます）と、発電所や工場から排出される二酸化炭素や大気中の二酸化炭素を使って製造することから、従来の化石燃料と違い、ライフサイクル上で大気中の二酸化炭素を増やすことがない、カーボンニュートラルな燃料と言えます」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「このプロジェクトの背景には、JOGMECが民間企業と共同で、1998年から2012年にかけて取り組んできた日本独自のGTL技術「JAPAN-GTLプロセス」が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「JAPAN-GTLプロセスの開発プロジェクトでは、まず、1998～2000年度にかけて、JOGMECと民間企業3社が共同で実験室レベルの研究をスタートさせ、日本独自の合成ガス製造技術とFT合成技術を開発しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「2001～2004年度には、JOGMECと民間企業5社と共同で、北海道苫小牧市にGTLパイロットプラントを建設し、日量7バレルの液体燃料の製造を成功させました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「さらに、2006～2012年度には、民間企業6社と共同で、新潟県新潟市にGTL実証プラントを建設し、日量500バレルの液体燃料の製造を達成させたのです」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「受注高 1,348 億円」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
+  - 「 蓄電池は、再生可能エネルギーの導入拡大に向けた課題である電力需給」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
+  - 「ＥＮＥＯＳ(株 )向け大型蓄電池設備 設置工事 2件を受注」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「排出量を削減でき、航空業界の脱炭素化に貢献します」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「以下項目の製造技術、主なイノベーション、プロジェクト事例紹介、技術サプライヤー、課題・機会分析」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
+  - 「培養装置（光バイオリアクターと屋外開放型装置）とサプライヤー分析」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
+  - 「再生可能メタノール市場：バイオメタノールとeメタノールの技術サプライヤー、主要プロジェクト開発者、公表済みプロジェクトの生産能力、展望」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
+  - 「Overview of leading electrolyzer OEMs globally」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
+  - 「What are the qualifications of the people conducting IDTechEx research?」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
   - 「脱炭素化がもたらすインフレの「上振れリスク」」（https://www.alterna.co.jp/162592/）
   - 「■e-fuelの脱炭素価値（LC-GHG排出量基準）に関する検討」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
@@ -4242,29 +4248,25 @@
   - 「■次世代燃料の環境価値認証・移転制度の検討②」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
   - 「会（脱炭素燃料政策小委 、資源・燃料分科会）等にお」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
   - 「会にて環境価値認証 ・移転制度の検討を進めて行くと」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「政機関等で構成された 『環境価値認証 ・移転制度検討」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「【2024年11月】審議会（脱炭素燃料政策小委、資源・燃料分科会）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「➢ 環境整備WGの下に環境価値認証・移転制度検討タスクフォース」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「➢ 環境価値認証・移転制度の手法選択の方向性及び実現する上での」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「（産業脱炭素化と排出削減が困難なセクター）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「交通部門での効率的な脱炭素化の一部として、2050年ま」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「［オルタナEV速報］日本・中国・東南アジア・欧州・米国・中南米のＥＶ月次統計をななめ読み」（https://www.alterna.co.jp/162592/）
+  - 「中間選挙の民主党圧勝で米国の再エネ復活の原動力は知事たち」（https://www.alterna.co.jp/162592/）
+  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
+  - 「石油由来の燃料との競争では、資源量も多く相対的に安価な天然ガスと資源がタイトになりつつある原油との価格差が拡がればGTLが経済的に有利になる期待がありました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「2023年には、中国国家エネルギー局（NEA）が内モンゴル自治区に大規模な合成燃料工場を建設する計画を発表した」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「この取り組みは、エネルギー安全保障の強化と炭素排出量の削減という中国のより広範な戦略に沿ったものであり、中国をアジア太平洋地域における市場成長の主要な推進力として位置づけるものである」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「米国では、強力な政府支援と大手エネルギー企業からの投資増加により、世界市場が勢いを増している」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「米国エネルギー省（DOE）は、2050年までに温室効果ガス排出量実質ゼロを達成するという戦略の一環として、合成燃料技術の研究開発に1億ドル以上を投じている」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「さらに、エクソンモービルなどの米国企業は、ワイオミング州における二酸化炭素回収・利用（CCU）イニシアチブなど、合成燃料プロジェクトに多額の投資を行っている」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
   - 「日本がアジアで進める化石燃料依存偏重のAZEC政策は、中国へ...」（https://rief-jp.org/ct4/147936）
   - 「欧州最大級の合成燃料工場、オーステッドが建設断念 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
   - 「住友電工が英国に海底ケーブル工場 洋上風力の成長市場、欧州勢追う」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
   - 「インドネシアの森林火災、「パーム産業への批判に危機感」とRSPOトップ」（https://www.alterna.co.jp/162592/）
   - 「インドネシアの森林火災、「煙害」の責任追及は日本企業の取引先にも」（https://www.alterna.co.jp/162592/）
-  - 「事業の開発をグローバルに推進する米国HIF Global社の一部株式取得を出資対象事業として」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「HIF Global社 概要 米国プロジェクトサイト完工イメージ」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「（出典）米国穀物協会（U.S. Grains Council：USGC） <https://safmagazine.com/articles/usgc-publishes-new-ethanol-infographics>」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「• インドは25年までに全土でE20の実現、ブラジルは30年までにE30の実現を目指している」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「• 米国やブラジルなどは、バイオエタノールを国内で生産し、使用することが可能（自給率が高い）」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
-  - 「欧州の環境規制や中東情勢が追い風になっている」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
-  - 「1. インドネシア・タングーLNG」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
-  - 「インドネシア・日本のエネルギー安定供給に貢献」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
 - 自社の競合（商社・代理店・仲介）：
+  - 「グローバルインフォメーションはStratistics Market Research Consultingの日本における正規代理店です」（https://japan.zdnet.com/release/31193903/）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://japan.zdnet.com/release/31193903/）
   - 「グローバルインフォメーションはValue Market Researchの日本における正規代理店です」（https://japan.zdnet.com/release/31206669/）
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://japan.zdnet.com/release/31206669/）
   - 「European Commission. "ReFuelEU Aviation." transport.ec.europa.eu」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
@@ -4278,9 +4280,9 @@
   - 「EU「Report from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions State of the Energy Union Report 2023」」（https://kpmg.com/jp/ja/insights/2025/12/auto-intelligence-biofuel02.html）
   - 「また、CCUS EXPOには、電力会社やガス会社、自動車メーカーや商社、脱炭素に取り組む企業などの研究者・開発者が多数来場します」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
   - 「グローバルインフォメーションはStratistics Market Research Consultingの日本における正規代理店です」（https://japan.zdnet.com/release/31188372/）
-  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://japan.zdnet.com/release/31188372/）
-  - 「If you are a reseller/distributor please」（https://www.idtechex.com/ja/research-report/sustainable-biofuels-and-e-fuels-market/1144）
 - 政治（法・予算・規制）：
+  - 「2022年4月、政府は合成燃料（e-fuel）を「グリーン戦略」における重要な技術の1つに選定しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
   - 「ところが、今年10月、政府が主催する産業構造審議会で、 ENEOSはパイロットプラント以降の建設を無期延期、つまり事実上中止すると表明した」（https://www.alterna.co.jp/162592/）
   - 「政府、GHG算定に使う「排出原単位」を大幅減: 重厚長大産業は5割減も」（https://www.alterna.co.jp/162592/）
   - 「GI基金プロジェクトを通じた早期商用化の検討」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
@@ -4294,9 +4296,10 @@
   - 「で生産・供給されたジェット燃料のＧＨＧ排出量の５ ％相当量以上」と設定するなど、中長期的な規制・制度的措置により国」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf）
   - 「欧州の環境規制や中東情勢が追い風になっている」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
   - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「明確な国家戦略の不備や政府の石油公社への過度な保護があだになった結果だ」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「政府が石油公社（PEMEX）を支援している」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
 - 経済（規模・価格・為替）：
+  - 「ペットDNA検査の世界市場規模、シェア、動向および成長分析レポート2026-2034年」（https://japan.zdnet.com/release/31206669/）
+  - 「救急部門情報システムの世界市場規模、シェア、動向および成長分析レポート2026-2034年」（https://japan.zdnet.com/release/31206669/）
+  - 「バイオ医薬品受託製造の世界市場規模、シェア、動向および成長分析レポート、2026年～2034年」（https://japan.zdnet.com/release/31206669/）
   - 「長期的な需要先と見込んできた海運業界での需要が伸びず、化石燃料由来のメタノールに比べて、水素とCO2から製造する合成メタノール（合成燃料）の価格低下が見込めないためとしている」（https://rief-jp.org/ct4/147936）
   - 「合成燃料は、EUが2035年から実施するガソリン車の新車販売禁止措置の例外としてハイブリッド車等での併用燃料としての使用が可能になる見通しだが、価格低下が見込めないと、合成燃料車は電気自動車（EV）に対抗できなくなる」（https://rief-jp.org/ct4/147936）
   - 「住友電工、ドイツ風力発電の送電ケーブル受注 過去最大3600億円」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
@@ -4309,9 +4312,6 @@
   - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
   - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXZQOUC201SR0Q6A820C2000000/）
   - 「受注残高 1.１兆円の確実な遂行に」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
-  - 「* 特別損失 ▲ 204億円含む (顧客との和解等によるプロジェクト関連損失 )」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
-  - 「受注高 1,348 億円」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
-  - 「（進捗 45％） 3,000 億円」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
 - 社会（人・担い手）：
   - 「 プラント・建設業界の ビジネスセーフティ <少子高齢化による人手不足、設備の」（https://www.chiyodacorp.com/jp/ir/assets/2023Q2_Overview_J.pdf）
   - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
@@ -4329,22 +4329,23 @@
   - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html）
   - 「未利用バイオマスや廃棄物をエネルギー資源に変えることは、地方の雇用創出や廃棄物処理コストの削減にもつながります」（https://kpmg.com/jp/ja/insights/2025/12/auto-intelligence-biofuel02.html）
 - 技術（新しい技術・実証）：
-  - 「大規模な合成燃料（e-fuel）開発事業を断念」（https://rief-jp.org/ct4/147936）
-  - 「「e-fuel」車開発にも影響か（RIEF） | 一般社団法人環境金融研究機構」（https://rief-jp.org/ct4/147936）
-  - 「「e-fuel」車開発にも影響か（RIEF） ｜」（https://rief-jp.org/ct4/147936）
-  - 「は、合成燃料開発工場の完成予想図）」（https://rief-jp.org/ct4/147936）
-  - 「洋上風力など再エネ大手のデンマークのオーステッド（Orsted）は15日、スウェーデン北部で進めていた合成燃料（e-fuel）開発プロジェクトを中止すると発表した」（https://rief-jp.org/ct4/147936）
-  - 「オーステッドが中止を決めた合成燃料開発プ……」（https://rief-jp.org/ct4/147936）
-  - 「日本の再生可能エネルギーの開発計画は増えるが、系統連系は...」（https://rief-jp.org/ct4/147936）
-  - 「Email: green@rief-jp.org」（https://rief-jp.org/ct4/147936）
-  - 「AIが使えなくなる日 「デジタル安全保障」確保せよ」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「勝てる起業家は？素直だけど執念深く型破り、バーティカルAI企業に勝機」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
-  - 「ENEOSが合成燃料の開発断念、もともと無理筋の技術だった - オルタナ」（https://www.alterna.co.jp/162592/）
-  - 「ENEOSが合成燃料の開発断念、もともと無理筋の技術だった」（https://www.alterna.co.jp/162592/）
-  - 「ENEOSは合成燃料「e-fuel」の開発を断念した」（https://www.alterna.co.jp/162592/）
-  - 「今後、得られた知見をもとに、より収益性の高いバイオ系合成燃料の開発に生かしていくという」（https://www.alterna.co.jp/162592/）
-  - 「これを研究開発によって200円まで下げるという構想であった」（https://www.alterna.co.jp/162592/）
+  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
+  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOGR15BPQ0V10C24A8000000/）
+  - 「次世代燃料の社会実装に向けたソリューションの提供」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「）から人工的に製造される燃料の総称で、カーボンニュートラル社会の実現に向けた次世代燃料として注目されています」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「合成燃料の主な種類にはe-fuelとSAF (Sustainable Aviation Fuel)があります」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「e-fuelは、次の利点を有していることから、メタン、ガソリン、軽油、ジェット燃料などの既存燃料に代替し、カーボンニュートラルに貢献する次世代の燃料として導入の拡大が期待されています」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「を原料とした合成燃料製造プロセスの早期技術確立を目的とした１BD（日量1バレル）実証プラントや、世界最大級のCO」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「メタネーション実証の試験設備を完工しました」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「１BD合成燃料実証設備」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「SAF (Sustainable Aviation Fuel)」（https://www.chiyodacorp.com/jp/service/lowcarbon/e-fuel/）
+  - 「すでに官民一体となって研究開発が進む合成燃料（e-fuel）ですが、実はその裏には、JOGMECが民間企業と共同で開発した、「JAPAN-GTLプロセス」という技術が生かされています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「現在、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「グリーンイノベーション基金事業／CO2等を用いた燃料製造技術開発プロジェクト」（2022～2028年度）の下、商業化に向け、官民連携による合成燃料（e-fuel）の製造技術の研究開発が進められています」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「実はこの「CO2等を用いた燃料製造技術開発プロジェクト」は、製造プロセスをすべてゼロから開発するわけではありません」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「約10年前に確立したJAPAN-GTLプロセスにおける原料以外の部分、つまり、合成ガス製造からFT合成、アップグレーティングまでの製造プロセスを最大限に活用しつつ、原料が変わったことに伴う合成ガス製造技術や、製造効率を飛躍的に高めるための革新技術を新たに開発することで、合成燃料（e-fuel）の早期商業化を目指そうというわけです」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
+  - 「JAPAN-GTLプロセスの開発プロジェクトでは、まず、1998～2000年度にかけて、JOGMECと民間企業3社が共同で実験室レベルの研究をスタートさせ、日本独自の合成ガス製造技術とFT合成技術を開発しました」（https://www.jogmec.go.jp/about/publish/jogmec-news-plus/plus_vol06.html）
 - 検索結果の抜粋：
+  - 「e-fuel 市場 規模・予測レポート 2026〜2035年 — e-fuel 市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > e-fuel-market」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
   - 「産構審作業部会 CO2 合成燃料 プロジェクトを断念 ENEOS — 産構審作業部会 CO2 合成燃料 プロジェクトを断念 ENEOS 環境新聞オンライン https://www.kankyo-news.co.jp > ニュース」（https://www.kankyo-news.co.jp/news/9209c0d3-987e-4e2c-b717-d6f2943fee38）
   - 「Japan E - Fuel Market Size, Growth, Outlooks, Forecasts to 2033 — Japan E - Fuel Market Size, Growth, Outlooks, Forecasts to 2033 Spherical Insights https://www.sphericalinsights.com > j...」（https://www.sphericalinsights.com/reports/japan-e-fuel-market）
   - 「E - Fuel Market Size, Share And Growth Report, 2026-2050 — E - Fuel Market Size, Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
@@ -4359,7 +4360,6 @@
   - 「合成燃料市場 規模、業界 シェア 、2034年までの予測 — 合成燃料市場 規模、業界 シェア 、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497）
   - 「合成燃料 の 市場 規模、2030年には701億ドルへと増加する ... — 合成燃料 の 市場 規模、2030年には701億ドルへと増加する ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7740472）
   - 「合成燃料 までの10年をどう繋ぐか - KPMG International — 合成燃料 までの10年をどう繋ぐか - KPMG International kpmg.com https://kpmg.com > トップ > インサイト > 2025 > 12」（https://kpmg.com/jp/ja/insights/2025/12/auto-intelligence-biofuel02.html）
-  - 「合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... — 合成燃料 （e-fuel）とは？作り方からメリット・デメリットや ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_58」（https://www.wsew.jp/hub/ja-jp/blog/article_58.html）
 
 ## 地熱発電（geothermal power）
 - 文脈：12 GX ④次世代型地熱
@@ -4371,38 +4371,41 @@
   - 「稼働停止*1」（https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf）
   - 「設備容量 運転開始 稼働停止 運転期間 発電方式 FIT/FIP」（https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf）
 - 顧客（金を払う側）：
-  - 「日本地熱開発企業協議会によると、出力3万kWの地熱発電設備をつくる際、井戸の掘削費用と蒸気生産設備費用は、建設費全体（約258億円）の39％におよぶ」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「これまで地熱発電に参入する企業のほとんどが、大きな資本力のある企業に限られていたのは、こうした理由からだ」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「近年は大企業でも単独での開発ではなく、リスクを低減するために複数の民間企業が資金を出し合って開発するケースが増えてきている」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「こうした理由で、これまで地域主体の企業やベンチャー企業の参入はかなりハードルが高かったのが現状である」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「正解なきデジタル主権論への「現実解」 日本企業へ5つの提言」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「勝てる起業家は？素直だけど執念深く型破り、バーティカルAI企業に勝機」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「しかし、日本においては、地熱発電の導入が遅れており、普及が進んでいません」（https://taiyoko-anshin.com/column/1346/）
-  - 「また、世界でも有数の地震国であるため、地熱発電による安定した電力供給が求められることから、地震対策として地熱発電の導入が進められることがあります」（https://taiyoko-anshin.com/column/1346/）
-  - 「政府や企業が積極的な導入策を進めることで、地熱発電を通じて、地域の発展やクリーンエネルギーの確保につながることが期待されます」（https://taiyoko-anshin.com/column/1346/）
-  - 「このプロジェクトは出力14,990kWを誇るダブルフラッシュ方式を採用した地熱発電設備であり、天候に左右されない安定したベースロード電源としての提供価値を持っています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「対象となる顧客は、FIT（固定価格買取制度）を利用して電力を買い取る電力会社であり、稼働後は長期にわたって確実な売電収入を得るモデルが構築されています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「同社の事業を根底で支えているのは、国内有数のエネルギー企業による強力なジョイントベンチャー体制です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「同社の最大の強みは、出光興産、INPEX地熱開発、東京電力リニューアブルパワーという日本を代表するエネルギー企業3社による強力な支援体制にあります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「また、固定資産18,446百万円という巨大な設備投資を抱え込むことは、稼働後の減価償却費負担が長期間にわたって利益を圧迫し続けることを意味し、コスト構造の硬直化をもたらすという側面があります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
+  - 「東芝、工場廃熱使うバイナリー発電で出力10%増 他社撤退の市場に参入」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
+  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
+  - 「地熱発電所が22年間新設されなかった理由 | リコー経済社会研究所 | リコーグループ 企業・IR | リコー」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「再生可能エネルギーの固定価格買取制度（FIT）導入や、地熱資源が豊富な国立公園内の開発規制緩和など政策の後押しもあり、地熱発電は息を吹き返した」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「苦労を乗り越えて稼働に漕ぎ着けた新発電所では、最新型の軸流排気タービンを国内で初めて採用した」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「東京電力の人事担当役員が語る新卒採用「強い使命感や情熱を重視」」（https://www.nikkei.com/topics/23012000）
+  - 「最高労務人事責任者の忍義彦常務執行役に社風や採用で重視する点を聞きました」（https://www.nikkei.com/topics/23012000）
+  - 「岩手県八幡平市、みずほ銀行と連携協定 地熱発電生かした企業誘致へ」（https://www.nikkei.com/topics/23012000）
+  - 「京都フュージョ、米地熱新興から受注 核融合の用途以外で初」（https://www.nikkei.com/topics/23012000）
+  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/topics/23012000）
+  - 「(1) 再生可能エネルギーの導入拡大・・・・・・・・・・・・・・・・・８」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「１ 再生可能エネルギーの安定供給、導入拡大・・・・・・・・・・・・・11」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「電気事業では、10年後の目指す姿 「再生可能エネルギーの安定供給と導入拡大により、」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「平成21 年以降は、再生可能エネルギーの導入を促進するため、」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 企業局もこの方針に沿い、水力発電所や太陽光発電所の運営に加え、地熱資源の」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「一見すると大きな赤字に見える数値ですが、その背景には脱炭素社会の実現に向けてベースロード電源として期待される地熱発電所の壮大な建設プロジェクトが隠されています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「同社を取り巻く外部環境を見ると、脱炭素社会の実現に向けた再生可能エネルギーへの需要がかつてなく高まっています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「そのため、脱炭素社会へ向けて2030年へと拡大する再エネ市場の追い風と、国内トップクラスのスポンサー陣の知見を最大限に活かし、プロジェクトを完遂する力は十分にあると推測されます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「2050年カーボンニュートラル及び2030年度削減目標の実現に向けて、エネルギー対策特別会計において、令和4年度に創設された地域脱炭素移行・再エネ推進交付金について、達成目標の明確化等の制度見直しや中間評価を踏まえた事業のブラッシュアップ等を行った上で、自営線を用いたマイクログリッド構築等を支援する交付金（特定地域脱炭素移行加速化交付金）とあわせて385億円〔▲40億円〕を計上しているほか、我が国のエネルギー消費の約15％を占める家庭部門のCO2削減目標達成に貢献するため、住宅のZEH（ネット・ゼロ・エネルギー・ハウス）化及び断熱リフォームの支援に85億円〔▲25億円〕を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「そのほか、COP29（国連気候変動枠組条約第29回締約国会議）における議論等を踏まえ、我が国のCO2排出量削減にも資する脱炭素インフラ等の輸出を推進するため、日本企業による優れた脱炭素技術のパートナー国への導入支援に143億円〔▲0.2億円〕を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「[2035年日本レポート 電力脱炭素化に向けた戦略].」（https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB）
-  - 「蒸気タービン OEM 供給契約締結（三菱重工業／東芝／富士電機）」（https://globaldeal.io/finder/ja/articles/japan-indonesia-geothermal-market-entry）
-  - 「(※)EPC事業：発電所の設計（Engineering）・調達（Procurement）・建設（Construction）を一括して請け負う電力事業」（https://denki.marubeni.co.jp/company/feature/overview/）
-  - 「●欧州の認証・評価制度 .................................................................................................... 52」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「●北米の認証・評価制度 .................................................................................................... 54」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「●その他の地域の認証・評価制度 ..................................................................................... 56」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「加えて自然エネルギーの電力を 認証する国内・海外の制度や、」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「重要な事項に対しては第三者認証を取得することが義務づけられている」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「発行量 2 億 5900 万 kWh (2019 年度) 11 億 4200 万 kWh (2019 年度の認証量) 879 億 kWh (2019 年 1～12 月発電分)」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
+  - 「○ こうした取組みを通じて、県内の脱炭素化に向けた機運醸成や地域活性化を図っ」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「〇 脱炭素社会の実現に向け、国においても、令和２(2020)年 10 月に「2050 年カー」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「おり、脱炭素化への取組みを一層推進することが必要です」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ こうした脱炭素化の推進に貢献するため、 企業局においては、 新規開発に加え、」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「れまで以上に県内の脱炭素化や地域活性化へ貢献することが求められます」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 脱炭素化に向けた投資や人材確保への影響も避けられないことから、中長期的」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「できる事業継続計画（BCP）の実効性をこれまで以上に徹底する必要があります」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「や事業者における脱炭素化に向けた機運醸成を図ります」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「世界的な脱炭素の流れを受けて再生可能エネルギーが注目されていますが、天候に左右されない地熱発電の利用が加速しています」（https://kabu.com/kabuyomu/money/644.html）
+  - 「地熱資源は地点ごとに性状が異なるため、高度な技術と経験が要求されます」（https://kabu.com/kabuyomu/money/644.html）
+  - 「脱炭素社会に向けに需要が高まるパワー半導体とは？関連5銘柄紹介」（https://kabu.com/kabuyomu/money/644.html）
+  - 「計画書が審査を通って、認証委員会」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
+  - 「自然エネルギーの電力を自家消費した分の CO2 削減量を報告書で申請して、認証」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
+  - 「■「J-クレジット」のプロジェクト登録申請～クレジット認証・発行の手続き」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
+  - 「J-クレジット制度の共同運営者である環境省は J-クレジットの認証量・取引量を拡大するために、」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
+  - 「日本地熱協会によれば、その資源量は未利用分も含めると米国、インドネシアに次ぐ第3位（2347万kW）」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/topics/23012000）
   - 「次世代型の実用化で海外勢が先行する中、」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
   - 「各国の地熱資源量を見ると、世界最大規模の地熱地帯(ザ・ガイザーズ地熱地帯)をもつアメリカが第1位(3,000万kW)、多くの火山島からなるインドネシアが第2位(2,800万kW)、次いで日本 は世界第3位( 2,300万kW)に位置しており、世界有数の地熱資源国と言えます」（https://journal.jogmec.go.jp/geothermal/learn/plant-foreign/index.html）
@@ -4415,9 +4418,6 @@
   - 「2024年の地熱発電量が最も多い国は**インドネシア**で、16.8TWhです」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
   - 「中国がトップ、世界合計30,664TWh」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
   - 「中国が首位、世界総計28,534TWh」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
-  - 「中国がトップ、世界総量は9957テラワット時」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
-  - 「中国が首位、世界合計2,090TWh」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
-  - 「中国が首位、世界合計2,512テラワット時」（https://jp.atlasbig.com/enerugi/kuni-betsu-chinetsu-hatsuden）
 - 自社の競合（商社・代理店・仲介）：
   - 「電力会社や商社が単独で走ると、WKP 入札資格・PT PLN PPA・JOGMEC 探査リスクシェア・AMDAL 四関門のいずれかで詰まる」（https://globaldeal.io/finder/ja/articles/japan-indonesia-geothermal-market-entry）
   - 「丸紅グループの持分発電容量は日本総合商社グループ最大級の12,284MW（2017年12月現在）です」（https://denki.marubeni.co.jp/company/feature/overview/）
@@ -4435,6 +4435,10 @@
   - 「WKP入札・PerPres 112/2022・PT PLNのPPAを軸に、JBIC・JOGMEC・商社・蒸気タービンOEMの参入導線を整理する実務ガイド」（https://globaldeal.io/finder/ja/articles/japan-indonesia-geothermal-market-entry）
   - 「新規 LOI を組む日本企業は、商社の資源部門と JOGMEC 探査リスクシェア枠組みと AZEC／ETM 多国間ファイナンスを同時に巻き込むのが標準」（https://globaldeal.io/finder/ja/articles/japan-indonesia-geothermal-market-entry）
 - 政治（法・予算・規制）：
+  - 「再生可能エネルギーの固定価格買取制度（FIT）導入や、地熱資源が豊富な国立公園内の開発規制緩和など政策の後押しもあり、地熱発電は息を吹き返した」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「政府は重要なエネルギー源として、30年に発電量を約110億キロワット時程度に拡大する計画を立てていますが、湯量が減少」（https://www.nikkei.com/topics/23012000）
+  - 「併せて、予算管理・経理処理など、関連システムとの統合も検討します」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「日本では小泉進次郎環境相が今年4月に開発加速を宣言し、6月には河野太郎規制改革担当相が2030年に地熱発電施設を倍増する目標を掲げています」（https://kabu.com/kabuyomu/money/644.html）
   - 「しかし、現在は自然環境の保全などに配慮をしつつ地域と共生した地熱開発が進められるよう、規制運用が図られてきています」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「この規制緩和に加え、開発リスクやコストを低減するための技術開発もおこなわれています」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「しかし、規制緩和や開発にあたり、近隣の温泉資源への影響を心配する声もあるため、地元の理解が何よりも重要です」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
@@ -4446,59 +4450,57 @@
   - 「経済産業省の令和7年度一般会計予算は、エネルギー対策特別会計への繰入の削減等により、対前年度当初予算で▲189億円の8,506億円となっている」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
   - 「主な項目で見ると、エネルギー対策特別会計において、カーボンプライシングで得られる将来の財源を裏付けとした「GX経済移行債」を発行し、官民のGX投資を促進することとしており、次世代太陽電池等のサプライチェーン構築等に必要な予算を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
   - 「また、経済対策で決定した「AI・半導体産業基盤強化フレーム」に基づき、次世代半導体の量産化に向けた金融支援や、先端半導体設計拠点等の整備等に必要な予算を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「科学技術振興費について、科学技術立国の観点から、特に、新産業創出につながる先進的な研究開発、サイバーセキュリティ対策等に必要な予算を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「また、価格転嫁対策の推進、経営改善・事業承継等に係る支援体制の整備など、持続的な賃上げに向けた環境整備等に必要な予算を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「（政府全体及び中小企業庁計上の中小企業対策費は、前年度を上回る予算を措置」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「東日本大震災復興特別会計においては、復興の進展も踏まえ、避難指示解除区域等への企業立地の促進や、福島国際研究教育機構におけるロボット分野の研究開発の実施等に必要な予算を計上し、引き続き復興支援を推進することとしている」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
 - 経済（規模・価格・為替）：
+  - 「2026年3月期は福島第一原子力発電所における作業費用等を特別損失に計上し、純利益が4542億円の赤字でした」（https://www.nikkei.com/topics/23012000）
+  - 「大林組、ニュージーランドで太陽光発電事業 66億円出資」（https://www.nikkei.com/topics/23012000）
+  - 「アイスランドの温泉「ブルーラグーン」1.6万円から 東京の銭湯25回分」（https://www.nikkei.com/topics/23012000）
+  - 「令和５年度に売電単価が大きく上昇したことにより、料金収入の減少幅を抑える」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 地域の温泉事業者と協力して地熱井（約1,500m）を掘削し、固定価格買取制度を」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「※１ 再エネ電気を国の定める価格で一定期間買い取る制度」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「収益的収入の総額は平均 74.4 億円、収益的支出の総額は平均 59.1 億円を見込んでい」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「また、計画期間中の経常利益の平均は 16.2 億円、当年度純利益の平均は 15.3 億」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「大長谷第二発電所が令和 10 年度から固定価格買取制度により売電することとなり」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「一方で、仁右ヱ門、庄、小摺戸の３つの小水力発電所が期間中に固定価格買」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「これらにより、売電収益は平均 66.1 億円を見込んでいます」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 容量確保契約金額※：平均 3.9億円の収入を見込んでいます」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「銅は10年ぶり最高値 価格上昇で恩恵受ける！？非鉄金属関連5銘柄！」（https://kabu.com/kabuyomu/money/644.html）
+  - 「もちろん、買取期間の15年が満了しても運転そのものはその後長期にわたって継続することができますし、満了後は主要電力と競合できるくらいの価格で電気を販売することも可能です」（https://www.enecho.meti.go.jp/about/special/johoteikyo/interview13ogura01.html）
   - 「2000メートルの井戸を1本掘る費用は、約5億～10億円とされる」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「日本地熱開発企業協議会によると、出力3万kWの地熱発電設備をつくる際、井戸の掘削費用と蒸気生産設備費用は、建設費全体（約258億円）の39％におよぶ」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
-  - 「#22984 決算分析 : 小安地熱株式会社 第8期決算 当期純損失 250百万円（赤字） - 決算公告データ倉庫」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「決算数値の裏側に潜むビジネスの真意を読み解く本シリーズですが、今回は当期純損失250百万円を計上した小安地熱株式会社の決算に焦点を当てていきます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「本記事では、同社が抱える約190.0億円という巨額の資産と赤字決算が意味するものを深掘りし、巨大インフラ事業ならではの事業構造と今後の経営環境を徹底的に分析していきましょう」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「19,003百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「(約190.0億円)」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「13,224百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「(約132.2億円)」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「5,779百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「(約57.8億円)」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「250百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「(約2.5億円)」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
 - 社会（人・担い手）：
+  - 「(7) 組織変革と人材の確保・育成・・・・・・・・・・・・・・・・・・９」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 発電所の建設等を通じた社会基盤整備や雇用創出、 地元市町村への交付金の交付」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 脱炭素化に向けた投資や人材確保への影響も避けられないことから、中長期的」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 電気保安人材の高齢化・人材不足が進む中、保安水準を維持するには、山間部」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「(7) 組織変革と人材の確保・育成」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「くりを進めるには、人材戦略を再設計し、職員一人ひとりが公営企業の役割と意」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 人材の採用段階では、求める人材像を明確にした上で職場の魅力を訴求し、採」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「また、施設を維持運営していくための費用・人材の確保も必要です」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
+  - 「○ 人材確保に向け、ターゲットや訴求ポイント（公営企業の仕事の意義や魅力等）」（https://www.pref.toyama.jp/documents/50822/denki4.pdf）
   - 「しかし、地熱発電所の運営にはメンテナンスや修理が必要で、それには専門知識や技術を持った人材が必要です」（https://taiyoko-anshin.com/column/1346/）
   - 「こうした人材の不足や、地熱発電所の老朽化による設備更新の必要性が課題となっています」（https://taiyoko-anshin.com/column/1346/）
   - 「これらの課題に対して、日本の地熱発電業界では、技術の改良や専門人材の育成などに力を入れて取り組んでいます」（https://taiyoko-anshin.com/column/1346/）
   - 「さらに、国内でのプラント建設を担う技術者や現場作業員の人手不足も深刻化しており、予定通りの工期と予算内で建設を完遂させることが業界全体の重い課題と言える状況です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
   - 「昨今の世界的なインフレや円安、さらには人手不足による労務費の高騰は、プラント建設の総費用を当初の予算から大きく引き上げるリスクを孕んでおり、採算性の悪化に直結しかねません」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
   - 「第二の施策として、稼働後のO&M（運転保守）体制の構築に向けた、地元雇用を含めた人材の早期確保と育成を進めることが求められます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「最新の遠隔監視システムの導入などを併せて準備し、人手不足時代にも対応できる効率的な運営体制を今のうちから整備しておくことが有効であると考えます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/11/04/144500）
-  - 「具体的には、東日本大震災及び原子力災害によって産業が失われた避難指示解除区域等において、雇用の創出及び産業集積を図り、被災者の自立・帰還を加速するため、工場等の新増設の支援を実施するため110億円〔▲12億円〕、災害現場等の過酷環境下や人手不足の産業現場等でも対応可能となるようなロボットの研究開発を実施するとともに、再生可能エネルギーを動力源として利用する水素エネルギーネットワークの構築等の技術開発等を実施するため63億円〔＋2億円〕等を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「原子力規制に必要な知見を有する人材を育成し、審査・検査体制等の充実・強化につなげるため、国内の大学等における原子力規制に係る教育研究プログラム確立に5億円〔＋0.3億円〕を計上しているほか、令和6年能登半島地震において地盤の隆起や変位・変形が生じたことを踏まえ、断層の活動性の評価手法等について新たな知見を取得し、審査ガイドラインの見直し等を実施するために5億円〔＋2億円〕を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「また、育成就労制度の創設を始めとする出入国管理及び難民認定法等の改正への対応を含め、円滑かつ厳格な出入国管理体制や外国人材の受入れ体制の整備及び共生社会の実現に向けた取組の強化として253億円〔＋10億円〕を計上している」（https://www.mof.go.jp/public_relations/finance/202503/202503d.html）
-  - 「新電力として15年以上にわたってビジネスを展開してきた当社には、電力需給運用全体のマネジメントができる豊富な人材と、多くのノウハウが蓄積されています」（https://denki.marubeni.co.jp/company/feature/overview/）
-  - 「新しい発電設備を建設・運転する事業を通じて、地域に雇用 も生まれる」（https://www.renewable-ei.org/pdfdownload/activities/RE_Procurement_Guidebook_JP_2021.pdf）
-  - 「✓ その中で①人材/雇用、②コスト/契約、③掘削機器/資機材、④規制、⑤技」（https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf）
-  - 「1 人材不足」（https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf）
-  - 「2 人材不足 発注者側の施工管理能力向上 ◎」（https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf）
 - 技術（新しい技術・実証）：
+  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
+  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOUC154F70V11C26A0000000/）
+  - 「地質などの事前調査に時間が掛かり、開発コストが膨らみやすい」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「再生可能エネルギーの固定価格買取制度（FIT）導入や、地熱資源が豊富な国立公園内の開発規制緩和など政策の後押しもあり、地熱発電は息を吹き返した」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「高橋さんは「一時は開発を断念する寸前まで追い込まれた」と明かす」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「実は、地熱発電の開発が難しいもう一つの理由が既存温泉との関係だ」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「八幡平市の場合は地熱発電と温泉の開発が同時に進んだ歴史があるため大きな問題にならなかったが、温泉の湯量に悪影響を与えるとして反対運動が起きるケースも少なくない」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「開発を進めるには自然と共存するための配慮が不可欠だ」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「自然エネルギーの開発によって、環境破壊が起きては本末転倒になってしまう」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
+  - 「https://blogs.ricoh.co.jp/RISB/technology/post_460.html」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
   - 「地熱発電が普及しない要因には、地熱資源が北海道や東北、九州など火山地帯にかたより存在しており、適した地域が限られているといった自然的な要因に加え、日本の地熱資源の8割が国立・国定公園内にあり、これまでは各公園での地熱開発が認められて来なかったことが挙げられます」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「しかし、現在は自然環境の保全などに配慮をしつつ地域と共生した地熱開発が進められるよう、規制運用が図られてきています」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「この規制緩和に加え、開発リスクやコストを低減するための技術開発もおこなわれています」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「たとえば、熱水や水蒸気の有無、地層の状態などの地下構造を探査する技術の向上や、発電所の運転開始後に十分な蒸気量を維持するため人工的に水を注入する技術（人工かん養）の開発などがあります」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「また、革新的な「超臨界地熱発電技術」の開発も試みており、この技術は、従来の掘削よりもさらに地下深く、マグマに近い部分にある超臨界状態の熱水資源（「超臨界状態」とは、液体と気体の区別がつかなくなっている水）を活用することで、これまでよりも大規模な発電が可能になります」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
-  - 「さらに、この超臨界地熱資源の特徴は、超高温・超高圧であり、酸性濃度が高いことから、井戸やタービンなど設備の腐食対策や、大深度の掘削技術を確立するため、開発もおこなわれています」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
-  - 「しかし、規制緩和や開発にあたり、近隣の温泉資源への影響を心配する声もあるため、地元の理解が何よりも重要です」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
-  - 「日本温泉協会からは、「温泉事業者の多くは地熱反対派ではなく、地熱心配派であり、無秩序な開発がおこなわれることを懸念している」との声もあがっており、事業の成功にはこうした不安を解消するため、地元との意見交換や、温泉への影響にかかわるモニタリング調査、勉強会などを開催し理解の促進を図ることが重要となります」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
-  - 「【引用：国立研究開発法人 新エネルギー・産業技術総合開発機構HP 超臨界地熱発電技術研究開発】」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
-  - 「地熱発電開発の大きな障壁となっているのが、調査開始から発電所建設までのリードタイム」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「さらに環境アセスメント（環境影響評価）に約3年、そして井戸の掘削や発電所建設などの開発に約3年かかり、」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「井戸は、最低でも開発の是非を調べるために3本、生産性を予測するのに5本は掘削する必要があるとされる」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「日本地熱開発企業協議会によると、出力3万kWの地熱発電設備をつくる際、井戸の掘削費用と蒸気生産設備費用は、建設費全体（約258億円）の39％におよぶ」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「近年は大企業でも単独での開発ではなく、リスクを低減するために複数の民間企業が資金を出し合って開発するケースが増えてきている」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
-  - 「AIの電力消費はどれくらい？データセンターの仕組みと課題をわかりやすく紹介」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
 - 検索結果の抜粋：
+  - 「天候に左右されない再生可能エネルギー！ 地熱発電 関連8銘柄！ — 天候に左右されない再生可能エネルギー！ 地熱発電 関連8銘柄！ 三菱UFJ eスマート証券 https://kabu.com > カブヨム > 資産運用ノウハウ」（https://kabu.com/kabuyomu/money/644.html）
+  - 「Geothermal Power Market Size, Share And Forecast, 2034 — Geothermal Power Market Size, Share And Forecast, 2034 IMARC Group https://www.imarcgroup.com > geoth...」（https://www.imarcgroup.com/geothermal-power-market）
   - 「【第11回】 地熱発電 が普及しない要因と施策について ... - 八雲町 — 【第11回】 地熱発電 が普及しない要因と施策について ... - 八雲町 八雲町 https://www.town.yakumo.lg.jp > soshiki > syoukou > zer...」（https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html）
   - 「これまで 地熱発電 が進まなかった理由①：リードタイムは10年 ... — これまで 地熱発電 が進まなかった理由①：リードタイムは10年 ... ふるさと熱電 https://furusato-nd.co.jp > magazine > time-and-cost-issues」（https://furusato-nd.co.jp/magazine/time-and-cost-issues/）
   - 「地熱発電 所が22年間新設されなかった理由 - リコージャパン — 地熱発電 所が22年間新設されなかった理由 - リコージャパン リコー ソリューション・商品サイト https://blogs.ricoh.co.jp > RISB > technology > post_460」（https://blogs.ricoh.co.jp/RISB/technology/post_460.html）
@@ -4512,8 +4514,6 @@
   - 「次世代 地熱発電技術 への取り組み - 国際環境経済研究所 — 次世代 地熱発電技術 への取り組み - 国際環境経済研究所 NPO法人 国際環境経済研究所 https://ieei.or.jp > 2026/01 > takeuchi_260115」（https://ieei.or.jp/2026/01/takeuchi_260115/）
   - 「地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... — 地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > geothermal_power2026」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
   - 「次世代 地熱発電 技術への取り組み — 次世代 地熱発電 技術への取り組み NPO法人 国際環境経済研究所 https://ieei.or.jp > 2026/01 > takeuchi_260115」（https://ieei.or.jp/2026/01/takeuchi_260115/）
-  - 「地熱発電 システムの市場を調査。2050年度の国内市場を3524 ... — 地熱発電 システムの市場を調査。2050年度の国内市場を3524 ... fkg-report.jp https://www.fkg-report.jp > market-trends > 2026」（https://www.fkg-report.jp/market-trends/2026/3429.html）
-  - 「伸び悩む 地熱発電 の現状 | 脱炭素技術センター — 伸び悩む 地熱発電 の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > renewable_5000」（https://www.decarbonation-tech.com/renewable_5000/）
 
 ## 洋上風力（offshore wind）
 - 文脈：12 GX ⑤洋上風力

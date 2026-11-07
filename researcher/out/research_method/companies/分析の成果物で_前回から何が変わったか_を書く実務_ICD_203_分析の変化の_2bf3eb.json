@@ -8,8 +8,198 @@
  ],
  "context": "書き方",
  "kind": "market",
- "researched_at": "2026-11-06T23:30:58.316578+00:00",
+ "researched_at": "2026-11-07T04:43:00.730173+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "has led to mistaken arrests30 or disparate outcomes in sentencing, as warnings of",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "mistakes to come.31 Adopting AI tools provides exciting new opportunities but",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the potential for it to contain error and bias. As noted in the ATS 3 example, any",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "reveal and mitigate bias. ” Further, the section notes that analysts must be “alert to",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "own biases, a fair reading would extend that awareness to other sources which",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Controlling for bias is nothing new in the conduct of analysis. Further, contending",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is controlling for bias. Even with this backdrop, the introduction of an AI tool",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "workers’ use of AI tools revealed both benefits and pitfalls. While some",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2’s review will develop recommendations on how to avoid potential pitfalls",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "19 This includes: Kwoun, J. (2021); “Cognitive Biases and the Need for Analytic Tradecraft Standards in Large-Scale Ground",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "31 Angwin, Julia; Larson, Jeff; Mattu, Surya; Kirchner, Lauren; “Machine Bias;” ProPublica; May 23, 2016; https:/ /www.",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "33 Gordon, Susan; “Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem;” CNBC; August",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7, 2020; Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem | Belfer Center for",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and mitigate bias. Analysts should be alert to influence by existing analytic positions or judgments and must consider",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "standards, taking steps to anticipate challenges, and set the conditions for the IC",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1) Properly describes quality and credibility of underlying sources, data, and methodologies",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“more effective methods for creating, exploiting, and sharing databases”25 and",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and credibility of underlying sources, data, and methodologies. ” (emphasis added)",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Methodologies casts a wide enough net that it could include adding a descriptor or",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Framework for Artificial Intelligence46 and any AI governing policies",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of data which may have been processed using AI/ML methods.47",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2’s review will develop recommendations on how to avoid potential pitfalls",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "46 See Artificial Intelligence Ethics Framework for the Intelligence Community v. 1.0 as of June 2020; AI_Ethics_",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Framework_for_the_Intelligence_Community_10.pdf (dni.gov)",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every product has to describe the quality and credibility of its underlying sources, data, and methodologies, so a reader can tell whether a judgment rests on a single human source with a mixed track record or on several corroborating intercepts. A separate directive, ICD 206, governs the specific sourcing descriptors analysts use in disseminated products.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The current edition of ICD 203 was issued on January 2, 2015, replacing the original 2007 directive. The 2015 revision expanded the tradecraft list from eight standards to nine by adding the requirement for accurate judgments and assessments, and formally established the ODNI Analytic Ombuds within the directive’s compliance framework.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "Intelligence Community Directive 203; ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)",
@@ -158,196 +348,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
-   {
-    "quote": "standards, taking steps to anticipate challenges, and set the conditions for the IC",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1) Properly describes quality and credibility of underlying sources, data, and methodologies",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“more effective methods for creating, exploiting, and sharing databases”25 and",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and credibility of underlying sources, data, and methodologies. ” (emphasis added)",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Methodologies casts a wide enough net that it could include adding a descriptor or",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Framework for Artificial Intelligence46 and any AI governing policies",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of data which may have been processed using AI/ML methods.47",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2’s review will develop recommendations on how to avoid potential pitfalls",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "46 See Artificial Intelligence Ethics Framework for the Intelligence Community v. 1.0 as of June 2020; AI_Ethics_",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Framework_for_the_Intelligence_Community_10.pdf (dni.gov)",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Every product has to describe the quality and credibility of its underlying sources, data, and methodologies, so a reader can tell whether a judgment rests on a single human source with a mixed track record or on several corroborating intercepts. A separate directive, ICD 206, governs the specific sourcing descriptors analysts use in disseminated products.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The current edition of ICD 203 was issued on January 2, 2015, replacing the original 2007 directive. The 2015 revision expanded the tradecraft list from eight standards to nine by adding the requirement for accurate judgments and assessments, and formally established the ODNI Analytic Ombuds within the directive’s compliance framework.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "has led to mistaken arrests30 or disparate outcomes in sentencing, as warnings of",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "mistakes to come.31 Adopting AI tools provides exciting new opportunities but",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the potential for it to contain error and bias. As noted in the ATS 3 example, any",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "reveal and mitigate bias. ” Further, the section notes that analysts must be “alert to",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "own biases, a fair reading would extend that awareness to other sources which",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Controlling for bias is nothing new in the conduct of analysis. Further, contending",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is controlling for bias. Even with this backdrop, the introduction of an AI tool",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "workers’ use of AI tools revealed both benefits and pitfalls. While some",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2’s review will develop recommendations on how to avoid potential pitfalls",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "19 This includes: Kwoun, J. (2021); “Cognitive Biases and the Need for Analytic Tradecraft Standards in Large-Scale Ground",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "31 Angwin, Julia; Larson, Jeff; Mattu, Surya; Kirchner, Lauren; “Machine Bias;” ProPublica; May 23, 2016; https:/ /www.",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "33 Gordon, Susan; “Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem;” CNBC; August",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7, 2020; Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem | Belfer Center for",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and mitigate bias. Analysts should be alert to influence by existing analytic positions or judgments and must consider",
-    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "In the wake of the faulty 2002 National Intelligence Estimate (NIE) on Iraq’s",
@@ -361,32 +361,112 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/taketori_ponzoo/n/ne8cca64da3af",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rehashigoto_lab/n/n20f4dea89233",
+    "url": "https://note.com/naruhiko_007/n/n54d8724400d9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/caremanenote/n/n8b464b888fde",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/manabu_ikarashi/n/n42c6e3a3afae",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/codex_jidoka/n/n93343fa32a34",
+    "url": "https://note.com/freegoogleton/n/ne3f144a91b9f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rinsho_ai_lab/n/n0ffcf0bc7b64",
+    "url": "https://note.com/masa1992/n/nf52dbcb4991b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesanalytics.co.jp/column/no00480/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/structuring_labo/n/n05286376ed31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/docs/ja/wsr-and-r/8.5.6?topic=analysis-patterns-impact",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://xica.net/xicaron/4-types-of-data-anlysis-for-marketers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.loyalty.co.jp/column/136/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/ja/analytics/data-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.missiondrivenbrand.jp/entry/thinking_analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.digital.panasonic.co.jp/column/data-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scinable.com/use-cases/44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/analyticalmethod-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researto.com/column/narrative-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/ja/fundamentals/predictive-analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proactive.jp/resources/columns/predictive-analysis-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/8-examples-of-data-conversion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://repro.io/contents/abc-analysis/",
     "status": "ok",
     "method": "http"
    },
@@ -396,29 +476,34 @@
     "method": "http"
    },
    {
-    "url": "https://nurscode.com/2026/11/01/jisshu-furikaeri-kakikata/",
-    "status": "ok",
+    "url": "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.intelligence.gov/mission/our-values/objectivity",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/yoshisen/items/8c963ec32110a0c81241",
+    "url": "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
     "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/why-analytic-standards-exist",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://cm-memo.com/task-analysis/",
-    "status": "ok",
+    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://itdojp.github.io/engineering-documentation-book/chapters/chapter-01/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://caremane-tane.com/assessment-care-plan1/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -426,54 +511,96 @@
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） site:note.com",
    "results": [
-    "https://note.com/taketori_ponzoo/n/ne8cca64da3af",
-    "https://note.com/rehashigoto_lab/n/n20f4dea89233",
-    "https://note.com/caremanenote/n/n8b464b888fde",
-    "https://note.com/manabu_ikarashi/n/n42c6e3a3afae",
-    "https://note.com/codex_jidoka/n/n93343fa32a34",
-    "https://note.com/rinsho_ai_lab/n/n0ffcf0bc7b64",
-    "https://note.com/binspiral/n/neecaccbeeb61"
+    "https://note.com/shinu/n/n92a701e0f992",
+    "https://note.com/naruhiko_007/n/n54d8724400d9",
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/freegoogleton/n/ne3f144a91b9f",
+    "https://note.com/masa1992/n/nf52dbcb4991b",
+    "https://note.com/miraino_fashion/n/n8c2215b72039",
+    "https://note.com/ykame/n/n3268169bdfb2",
+    "https://note.com/miraisya/n/n073dc756dd69",
+    "https://note.com/_takumi_inoue_/n/n3f23736cc36a"
    ]
   },
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） note",
-   "results": []
+   "results": [
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://www.salesanalytics.co.jp/column/no00480/",
+    "https://note.com/structuring_labo/n/n05286376ed31",
+    "https://www.ibm.com/docs/ja/wsr-and-r/8.5.6?topic=analysis-patterns-impact",
+    "https://xica.net/xicaron/4-types-of-data-anlysis-for-marketers/",
+    "https://biz.loyalty.co.jp/column/136/",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/",
+    "https://note.com/hik0107/n/ne240d47572c9"
+   ]
   },
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） やり方",
-   "results": []
+   "results": [
+    "https://www.salesanalytics.co.jp/column/no00480/",
+    "https://www.snowflake.com/ja/analytics/data-analysis/",
+    "https://xica.net/xicaron/4-types-of-data-anlysis-for-marketers/",
+    "https://www.missiondrivenbrand.jp/entry/thinking_analysis",
+    "https://biz.loyalty.co.jp/column/136/",
+    "https://service.digital.panasonic.co.jp/column/data-analysis",
+    "https://www.scinable.com/use-cases/44",
+    "https://data-viz-lab.com/analyticalmethod-list",
+    "https://note.com/shinu/n/n567c6705ec18"
+   ]
   },
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） 事例",
    "results": [
-    "https://kango.clius.jp/column/2026/10/13/nursing-practicum-final-report-examples/",
-    "https://nurscode.com/2026/11/01/jisshu-furikaeri-kakikata/",
-    "https://qiita.com/yoshisen/items/8c963ec32110a0c81241",
-    "https://cm-memo.com/task-analysis/",
-    "https://itdojp.github.io/engineering-documentation-book/chapters/chapter-01/",
-    "https://caremane-tane.com/assessment-care-plan1/",
-    "https://ptkimura.com/integration-interpretation/"
+    "https://researto.com/column/narrative-analysis/",
+    "https://xica.net/xicaron/4-types-of-data-anlysis-for-marketers/",
+    "https://service.digital.panasonic.co.jp/column/data-analysis",
+    "https://www.missiondrivenbrand.jp/entry/thinking_analysis",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/",
+    "https://proactive.jp/resources/columns/predictive-analysis-guide/",
+    "https://www.salesanalytics.co.jp/column/no00480/",
+    "https://data-viz-lab.com/8-examples-of-data-conversion",
+    "https://repro.io/contents/abc-analysis/",
+    "https://kango.clius.jp/column/2026/10/13/nursing-practicum-final-report-examples/"
    ]
   },
   {
    "query": "analytic standards change in analytic judgment explain what changed ICD 203 tradecraft",
-   "results": []
+   "results": [
+    "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
+    "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
+    "https://pangearesearch.substack.com/p/why-analytic-standards-exist",
+    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
+    "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
+    "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf"
+   ]
   },
   {
    "query": "site:note.com 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）",
    "results": [
-    "https://note.com/taketori_ponzoo/n/ne8cca64da3af",
-    "https://note.com/codex_jidoka/n/n93343fa32a34",
-    "https://note.com/yuyamatsushima/n/n81cfc3d3fa47",
-    "https://note.com/rehashigoto_lab/n/n20f4dea89233",
-    "https://note.com/toushi51/n/n6718337ab6d6",
-    "https://note.com/makotokam2/n/n766911646b0c",
-    "https://note.com/manabu_ikarashi/n/n42c6e3a3afae"
+    "https://note.com/shinu/n/n92a701e0f992",
+    "https://note.com/naruhiko_007/n/n54d8724400d9",
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/freegoogleton/n/ne3f144a91b9f",
+    "https://note.com/ykame/n/n3268169bdfb2",
+    "https://note.com/miraisya/n/n073dc756dd69",
+    "https://note.com/nn1112/n/nedb2da3e718b",
+    "https://note.com/_takumi_inoue_/n/n3f23736cc36a",
+    "https://note.com/id_sugar_salt/n/n536a06ec5937"
    ]
   },
   {
    "query": "site:x.com 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）",
    "results": [
+    "https://x.com/hirokazuarai",
+    "https://x.com/shimada_cardio",
+    "https://x.com/ADHD_TIMES",
     "https://x.com/MacopeninSUTABA/status/2086649486600782188",
     "https://x.com/michinorioimai/status/2099471734282027205",
     "https://x.com/Find_Route_/status/2115583967877628005",
@@ -486,50 +613,79 @@
   {
    "query": "site:linkedin.com 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）",
    "results": [
-    "https://jp.linkedin.com/pulse/artefacts-business-analyst-maria-igonina-bay8f?tl=ja",
-    "https://jp.linkedin.com/pulse/how-connect-babok-techniques-real-life-deliverables-rvoxc?tl=ja",
-    "https://www.linkedin.com/posts/takeru-tsuzuki-319590273_ノウハウを残す-何か開発をした時にそこで得た知見がどのくらい残されて-まとめられて-activity-7083093031339360256-Wa7P",
-    "https://jp.linkedin.com/learning/project-management-foundations-2/730076",
-    "https://jp.linkedin.com/pulse/getting-clear-deliverables-moves-results-quint-studer-bunfc?tl=ja",
-    "https://jp.linkedin.com/pulse/making-architecture-tangible-how-when-use-ea-guide-justice-aj--ewmzc?tl=ja",
-    "https://jp.linkedin.com/pulse/hidden-product-how-change-gets-made-gary-boon-ejrve?tl=ja"
+    "https://jp.linkedin.com/pulse/accountability-mandate-why-corporate-intelligence-requires-gobin-0flse?tl=ja",
+    "https://jp.linkedin.com/pulse/investigating-beyond-thats-how-we-do-reliability-center-inc--p2upe?tl=ja",
+    "https://jp.linkedin.com/pulse/what-threat-advisory-report-tar-charles-morris-e6r4c?tl=ja",
+    "https://ch.linkedin.com/in/paolo-montrone-984094b",
+    "https://ca.linkedin.com/in/andre-wen",
+    "https://jp.linkedin.com/pulse/%E5%9F%8B%E3%82%81%E8%BE%BC%E3%81%BF%E5%9E%8B%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AAswot%E5%88%86%E6%9E%90%E6%A5%AD%E7%95%8C%E5%8B%95%E5%90%91%E3%81%8A%E3%82%88%E3%81%B320262033%E5%B9%B4%E3%81%AEcagr68%E3%82%92%E4%BF%83%E9%80%B2%E3%81%99-7515302309879341056-c3eoe",
+    "https://jp.linkedin.com/in/koichiro-kuramochi-4433b832",
+    "https://jp.linkedin.com/pulse/%E6%A4%8D%E8%BE%BC%E3%81%BF%E5%9E%8B%E9%99%A4%E7%B4%B0%E5%8B%95%E5%99%A8-icd-%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BA%88%E6%B8%AC%E5%8F%8E%E7%9B%8A%E3%81%A8%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr134-aqcde",
+    "https://jp.linkedin.com/pulse/%E5%BF%83%E5%AE%A4%E9%A0%BB%E8%84%88%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E7%94%A8%E9%80%94%E6%8C%81%E7%B6%9A%E6%80%A7%E5%BF%83%E5%AE%A4%E9%A0%BB%E8%84%88%E9%9D%9E%E6%8C%81%E7%B6%9A%E6%80%A7%E5%BF%83%E5%AE%A4%E9%A0%BB%E8%84%88%E3%81%A8%E7%A8%AE%E9%A1%9E%E5%88%A5%E3%81%AE%E8%A9%B3%E7%B4%B0%E6%A6%82%E8%A6%812026%E5%B9%B42033%E5%B9%B4-7515699709685125122-yovce",
+    "https://jp.linkedin.com/pulse/%E6%8E%92%E6%B0%B4%E7%94%A8%E6%B6%88%E8%80%97%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A5%AD%E7%95%8C%E7%99%BA%E5%B1%95%E3%81%AE%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AE%E9%96%93%E3%81%AB%E6%8E%A8%E5%AE%9Acagr98%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87-bioharbor-analytics-3kcne"
    ]
   },
   {
    "query": "site:facebook.com 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）",
    "results": [
+    "https://www.facebook.com/yukusu42/posts/3748402865311827/",
+    "https://www.facebook.com/kinohikariclinic/videos/%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%82%B9%E3%81%AF%E3%83%8B%E3%82%AD%E3%83%93%E3%83%8B%E3%82%AD%E3%83%93%E8%B7%A1%E6%AF%9B%E7%A9%B4%E3%82%B7%E3%83%AF%E3%81%8F%E3%81%99%E3%81%BF%E3%82%AF%E3%83%9E%E8%B5%A4%E3%82%89%E9%A1%94%E3%81%AA%E3%81%A9%E3%81%AB%E5%8A%B9%E6%9E%9C%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%E3%81%AE%E7%94%9F%E6%88%90%E3%82%92%E4%BF%83%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A7%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%86%E3%81%A1%E3%81%AB%E3%83%8F%E3%83%AA%E3%83%84%E3%83%A4/1325312602918064/",
+    "https://www.facebook.com/InyakuTomoya/posts/%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%81%8C%E3%81%8A%E7%B1%B3%E3%82%92%E6%94%BE%E5%B0%84%E7%B7%9A%E8%82%B2%E7%A8%AE%E3%81%AB%E5%85%A8%E9%87%8F%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BB%B6%E3%81%AE%E3%83%91%E3%83%96%E3%82%B3%E3%83%A1%E3%81%9D%E3%81%AE3%E7%B7%A0%E3%82%81%E5%88%87%E3%82%8A8%E6%9C%8821%E6%97%A5%E3%81%BE%E3%81%A7-%E3%81%82%E3%81%8D%E3%81%9F%E3%81%93%E3%81%BE%E3%81%A1r%E3%81%AF%E6%94%BE%E5%B0%84%E7%B7%9A%E8%82%B2%E7%A8%AE%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E7%A7%8B%E7%94%B0%E7%9C%8C%E6%8B%85%E5%BD%93%E8%80%85-8%E6%9C%881%E6%97%A5%E3%81%AB%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%81%A7/8022708487755911/",
+    "https://www.facebook.com/kusuyama1975/posts/openai-chatgpt-sild-v20%E3%82%BC%E3%83%AD%E6%AC%A1%E5%8E%9F%E7%82%B9%E3%81%8B%E3%82%89%E3%81%AE%E5%AD%A6%E8%A1%93%E7%9A%84%E5%86%8D%E6%A7%8B%E6%88%90sild-v20-comprehensive-academic-re-derivati/1682684457201061/",
     "https://www.facebook.com/100063517418740/posts/総合教育センターwebページ-研究成果物掲載のお知らせ令和４年11月28日に当センターのホームページをリニューアルしていますこちらではこれまでと同様に研修や研究/678390580954850/",
     "https://www.facebook.com/fumihiko.kanzaki/photos/酒井-淳平先生の誤解だらけの探究学習を読んだ本書が指摘する探究が手順をこなす学習になっていること外部コンテストや入試を意識して成果物の見栄えが優先されていること/27456457707381848/",
     "https://www.facebook.com/thinkmngmnt/posts/成果物の種類まとめてみました成果物には紙の資料も電子データも含まれる最終成果物と納品物って同じ意味クライアントから受け取った資料も成果物わかっているようで実はや/996670130410747/",
     "https://www.facebook.com/arimototaichi1964/videos/day-40phase-2でターゲット課題商品成果物価格対象外市場提案シートまで作りましたここで更に新しいサービスを足す必要はありません必要なのは全部が一本につ/1383316493341781/",
     "https://www.facebook.com/css.co.jp/photos/今日ご紹介するのはこちらのブログ️データ分析の現場でよくある疑問を実際の使用シーンを通して比較しましたデータの準備方法グラフ作成の流れ成果物の共有quicksi/1370960888367106/",
-    "https://www.facebook.com/takayuki.kitahira/photos/note-2026年7月-gemini-drops何が変わった声で伝え動かし自分らしく作るaiへㅤㅤgeminiの7月アップデートは6つの新機能として見ると少し/4498107467090758/",
-    "https://www.facebook.com/reel/1271237067247751/"
+    "https://www.facebook.com/takayuki.kitahira/photos/note-2026年7月-gemini-drops何が変わった声で伝え動かし自分らしく作るaiへㅤㅤgeminiの7月アップデートは6つの新機能として見ると少し/4498107467090758/"
    ]
   },
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） note 社長",
-   "results": []
+   "results": [
+    "https://note.com/mhamadajp/n/n1f8182d402d3",
+    "https://www.salesanalytics.co.jp/column/no00480/",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://note.com/hik0107/n/ne240d47572c9",
+    "https://biz.loyalty.co.jp/column/136/",
+    "https://www.ibm.com/docs/ja/wsr-and-r/8.5.6?topic=analysis-patterns-impact",
+    "https://www.bizreach.jp/column/ctrt-no77/",
+    "https://note.com/structuring_labo/n/n05286376ed31",
+    "https://researto.com/column/narrative-analysis/"
+   ]
   },
   {
    "query": "分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え） X 投稿",
-   "results": []
+   "results": [
+    "https://www.salesanalytics.co.jp/column/no00480/",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/ds_202406_causal-ia.html",
+    "https://researto.com/column/narrative-analysis/",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://xica.net/xicaron/4-types-of-data-anlysis-for-marketers/",
+    "https://www.missiondrivenbrand.jp/entry/thinking_analysis",
+    "https://ximix.niandc.co.jp/column/data-analysis-storytelling-guide",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://techblog.zozo.com/entry/screen-analyze-v2"
+   ]
   },
   {
    "query": "analytic standards change in analytic judgment explain what changed ICD 203 tradecraft site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
     "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
-    "https://lk.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy",
-    "https://in.linkedin.com/posts/akshata-kumavat-79479a117_nnfc-analytic-tradecraft-checklist-activity-7057280314120835072-fr5J",
     "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze",
-    "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-intelligenceanalysis-activity-7426960069356867584-4bFY",
-    "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse"
+    "https://www.linkedin.com/pulse/necessary-burden-analytic-tradecraft-standards-st-clair--kz87c",
+    "https://www.linkedin.com/pulse/accountability-mandate-why-corporate-intelligence-requires-gobin-0flse",
+    "https://www.linkedin.com/pulse/foundation-missing-why-corporate-intelligence-without-joshua-gobin-w4mec",
+    "https://www.linkedin.com/pulse/software-sage-30-intelligence-analysts-wrote-playbook-sage-faraday-blqvc",
+    "https://www.linkedin.com/pulse/ai-enabled-intelligence-osint-tradecraft-gap-im-seeing-joshua-gobin-fjvee",
+    "https://www.linkedin.com/posts/stephen-marrin-53b3b21_hi-all-i-asked-a-question-yesterday-but-activity-7396190023748067328-uSUL",
+    "https://www.linkedin.com/posts/andrew-morgado-2167978_i-have-always-been-wary-of-the-expert-label-activity-7511169506266976256-zb3W",
+    "https://www.linkedin.com/pulse/general-theory-intelligence-analysis-stephen-marrin"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T14:44:56.858439+00:00"
 }
