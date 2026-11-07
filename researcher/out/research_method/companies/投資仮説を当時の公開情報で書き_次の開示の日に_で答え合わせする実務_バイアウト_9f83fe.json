@@ -8,13 +8,13 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T04:43:00.876989+00:00",
+ "researched_at": "2026-11-07T09:40:41.126480+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
     "status": "http_403",
     "method": "pdf"
    },
@@ -24,14 +24,9 @@
     "method": ""
    },
    {
-    "url": "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "url": "https://www.sc.mufg.jp/products/stock/new/pdf/210524_7318_4.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://release.nikkei.co.jp/attach_file/0531373_02.pdf",
-    "status": "robots_disallowed",
-    "method": ""
+    "method": "pdf"
    },
    {
     "url": "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
@@ -39,17 +34,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
     "status": "http_403",
     "method": "pdf"
    },
@@ -59,19 +54,29 @@
     "method": ""
    },
    {
-    "url": "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "url": "https://www.shigagin.com/pdf/investor_bank_2026_honshi.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://trade-sign.xsrv.jp/magazine/1920/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO10003001-20174717-0003.pdf?file_id=154437",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r147/r147_02.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://publications.aaahq.org/accounting-review/article/98/1/109/386/Investor-Disagreement-Disclosure-Processing-Costs",
@@ -99,7 +104,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.scheller.gatech.edu/directory/research/accounting/moon/pdf/financial-analysis-on-social-media-and-disclosure-processing-costs-evidence-from-seeking-alpha.pdf",
+    "url": "https://webuser.bus.umich.edu/ppasquar/disclosure.pdf",
     "status": "ok",
     "method": "pdf"
    }
@@ -109,58 +114,58 @@
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） site:note.com",
    "results": [
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
     "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
-    "https://release.nikkei.co.jp/attach_file/0531373_02.pdf",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210524_7318_4.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
     "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/",
     "https://note.com/pe_gogo/n/n87e8bcb20d2b"
    ]
   },
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） note",
    "results": [
-    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
     "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
-    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/",
-    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download"
+    "https://www.shigagin.com/pdf/investor_bank_2026_honshi.pdf",
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO10003001-20174717-0003.pdf?file_id=154437",
+    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r147/r147_02.pdf"
    ]
   },
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） やり方",
    "results": [
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
     "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
-    "https://release.nikkei.co.jp/attach_file/0531373_02.pdf",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210524_7318_4.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
-    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/"
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24"
    ]
   },
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） 事例",
    "results": [
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
     "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
-    "https://release.nikkei.co.jp/attach_file/0531373_02.pdf",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210524_7318_4.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
-    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/"
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24"
    ]
   },
   {
@@ -171,11 +176,11 @@
     "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21415&tk=BesFNks5",
     "https://www.freewritings.law/",
     "https://onlinelibrary.wiley.com/doi/full/10.1111/jbfa.12857",
-    "https://www.scheller.gatech.edu/directory/research/accounting/moon/pdf/financial-analysis-on-social-media-and-disclosure-processing-costs-evidence-from-seeking-alpha.pdf",
     "https://webuser.bus.umich.edu/ppasquar/disclosure.pdf",
+    "https://www.sec.gov/files/rules/proposed/2022/ia-6034.pdf",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12874102/",
     "https://link.springer.com/article/10.1007/s11142-026-09964-1",
-    "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_10_equity_me_US/106_disclosures_US.html"
+    "https://www.researchsquare.com/article/rs-5708262/v1.pdf"
    ]
   },
   {
@@ -193,20 +198,20 @@
   {
    "query": "site:x.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
    "results": [
-    "https://x.com/SectorNexus/status/2086990600948289909",
     "https://x.com/yuna_ito_fx/status/2096236481111269813",
     "https://x.com/pygmy_hem/status/2026035592317039044",
-    "https://x.com/nekobuta33/status/2117906547108114433",
     "https://x.com/daken_in_market/status/1758117245119836668",
+    "https://x.com/SectorNexus/status/2086990600948289909",
+    "https://x.com/DBC_ITO/status/2069308736574042374",
     "https://x.com/negitts/status/2105295333182025977",
-    "https://x.com/tohataha079/status/2076845317820207500"
+    "https://x.com/nekobuta33/status/2117906547108114433"
    ]
   },
   {
    "query": "site:linkedin.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
    "results": [
-    "https://jp.linkedin.com/pulse/how-write-perfect-investor-update-otto-pohl-jr1yf?tl=ja",
     "https://jp.linkedin.com/posts/bambootakemura_開示項目が増えたことと投資家が企業をより判断できるようになったことは同-activity-7509860764258791424-ZAzi",
+    "https://jp.linkedin.com/pulse/how-write-perfect-investor-update-otto-pohl-jr1yf?tl=ja",
     "https://www.linkedin.com/posts/yohack_仮説思考入門限られた情報から最善の答えを導く方法-activity-7442178393946828800-ksQX",
     "https://www.linkedin.com/posts/yoheikawazoe_コーポレートファイナンス6市場効率性仮説から行動ファイナンスへ-株式投資をしている-activity-7197171349734203393-LPi6",
     "https://jp.linkedin.com/posts/yushu-shuku-87059b135_以前自分がnoteで公開した事業仮説のど真ん中で起業されている高見澤さんshutakamizawa-activity-7450415356193538048-r0m3",
@@ -217,41 +222,41 @@
   {
    "query": "site:facebook.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
    "results": [
-    "https://www.facebook.com/JSDA.PR/posts/個人投資家の証券投資に関する意識調査報告書-公表本協会では毎年有価証券保有者に対して個人投資家の証券投資に関する意識調査を行っております今回の調査では有価証券の/1110657461202685/",
-    "https://www.facebook.com/groups/247816822664827/",
     "https://www.facebook.com/nikkei/posts/知的財産やブランドなど無形資産への投資額企業に開示を要請-政府が要綱を公表します将来の収益につながる投資を促すとともに投資家など市場からの評価を高める効果も見込/1577021307102599/",
     "https://www.facebook.com/KPMG.JP/videos/ifrsr会計基準オンライン基礎講座-新基準である-ifrs第18号財務諸表における表示及び開示について動画で解説します-httpskpmgcomjpjains/1583782126239860/",
+    "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報4月8日火開催-金融庁担当官に聞く有報におけるサステナビリティ情報開示等のポイントと制度化に関する議論の最新動向詳細お申し込み-金融庁企業開示課の担/1150202353784417/",
     "https://www.facebook.com/JAFCO.PR/posts/ai投資仮説レポート第4号公開aiラッパーに価値があるかではなくいかにして単なるaiラッパーという揶揄を跳ね除け独自の優位性を築くか同じ出発点から評価額8010/1431248729012946/",
     "https://www.facebook.com/photo/?fbid=1397886392349180",
-    "https://www.facebook.com/KPMG.JP/posts/2026年2月20日金融庁はサステナビリティ開示基準の適用開始に向けた環境整備人的資本に関する開示の拡充等のための改正企業内容等の開示に関する内閣府令等を公表し/1349893057157888/"
+    "https://www.facebook.com/KPMG.JP/posts/2026年2月20日金融庁はサステナビリティ開示基準の適用開始に向けた環境整備人的資本に関する開示の拡充等のための改正企業内容等の開示に関する内閣府令等を公表し/1349893057157888/",
+    "https://www.facebook.com/nihon.horei/photos/国交省建設工事の見積書様式例-徹底-書き方ガイド運用編公開労務費等を内訳明示した見積書で新たな商習慣の定着へ-国土交通省httpswwwmlitgojprepo/1505348564928326/"
    ]
   },
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） note 社長",
    "results": [
-    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
     "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
-    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/",
-    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download"
+    "https://www.shigagin.com/pdf/investor_bank_2026_honshi.pdf",
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO10003001-20174717-0003.pdf?file_id=154437",
+    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r147/r147_02.pdf"
    ]
   },
   {
    "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） X 投稿",
    "results": [
-    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/015/teaserItems5/0/linkList/0/link/108_full_jsec.pdf",
     "https://contents.xj-storage.jp/xcontents/AS08619/06451eb3/759b/4cc5/9ca7/ed1b1b79a2b6/20250520190126467s.pdf",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
-    "https://release.nikkei.co.jp/attach_file/0531373_02.pdf",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210524_7318_4.pdf",
     "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
     "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://release.nikkei.co.jp/attach_file/0534783_02.pdf",
     "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
-    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
-    "https://trade-sign.xsrv.jp/magazine/1920/"
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24"
    ]
   },
   {
@@ -263,21 +268,21 @@
     "https://ae.linkedin.com/in/lopezdeprado",
     "https://www.linkedin.com/in/tony-cookson-23348573",
     "https://www.linkedin.com/in/kennethmcgovern",
-    "https://www.linkedin.com/in/xieanthony",
-    "https://www.linkedin.com/in/jasonyum",
+    "https://www.linkedin.com/in/jeff-greenfield-925b283",
+    "https://www.linkedin.com/in/lou-fernandes-cfa-98706814",
     "https://www.linkedin.com/in/rileykaminer",
-    "https://www.linkedin.com/in/john-alberg-8b09a73"
+    "https://www.linkedin.com/in/lyncy-nyandoche"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）",
-  "実例": "記載なし（読んだ18頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ19頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）",
+  "実例": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T10:29:21.916933+00:00"
 }

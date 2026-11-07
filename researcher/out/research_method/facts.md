@@ -1101,6 +1101,7 @@
   - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1115,7 +1116,6 @@
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 - 検索結果の抜粋：
   - 「How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl」（https://derrick-app.com/business-data/find-revenue）
 
@@ -5804,6 +5804,8 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+- 検索結果の抜粋：
+  - 「Structured Analytic Techniques Primer | PDF | Intelligence ...A Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their analysis. It introduces techniques to challenge as」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
 - 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
@@ -7104,31 +7106,35 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
 - 手順・やり方：
-  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「How To Use These Techniques .................................................................................. 5」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「HOW TO USE THESE TECHNIQUES」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「step process will help analysts:」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「other structured methods explained later」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「possible next steps for further research」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Like other contrarian methods, “What If?”」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「stepping back to consider what alternative」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「to step outside their normal analytic」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「A two-phase, twelve-step, structured」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「managers—are reluctant to change. Rather than trying to fit ideas into the framework of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「next steps for analysis.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「and contextual framework. By recasting the」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「• It provides a broader analytic framework」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Have Seen Coming and How To Prevent Them. Examines the cognitive, organizational and」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 突き合わせ・推定：
+  - 「Availability. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Anchoring. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「certainty into a probability estimate, people」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「goal-maximizing policy is overestimated.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
@@ -7153,37 +7159,37 @@
   - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
+  - 「Cognitive and perceptual biases in」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「treatment of cognitive bias found in the Sherman」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Common Perceptual and Cognitive Biases」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Evaluating Evidence」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Estimating Probabilities」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Biases in Perceiving Causality」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「bias, “analysis can be improved.”3」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「common mistakes that can lead to」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「free of his or her cognitive biases without」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.」（https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4）
-  - 「: This technique is designed to combat cognitive biases like "mirror imaging" where analysts fall into the error of assuming an adversary or target of analysis is likely to think and perceive an issue as they would. This technique can also be useful to trade places with the customers to better tailor analysis to their needs and perspectives.」（https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques）
-  - 「Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors.」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
-  - 「By utilizing SATs, we can enhance the way in which we analyze information, ensuring our conclusions are well-structured and based on logical reasoning. SATs also help to overcome cognitive biases, foster creativity in our thinking, and identify early warning signs of change, which are crucial in uncertain and high-stakes situations.」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
-  - 「Help avoid cognitive biases」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
 - 実例：
-  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「example, the extent to which other people」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「For example, military analysis may focus」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「these forces actually fight?). In this case,」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「might fluctuate. All of these examples」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「a good example of how this technique could have been applied. After the initial flurry of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「accurately. In the case of HUMINT , this will」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「builds a more concrete case for the analytic」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「when it is important to make a case that a」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「case, explore what could account for」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「hypotheses—in some cases, analysts」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「hypotheses. In the latter case, the evidence can」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「best possible case for an alternative」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「In some cases, the analyst or a team」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
+  - 「merits of each case, pose questions back」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 検索結果の抜粋：
   - 「Improving your Intelligence Analysis with Structured Analytic ... — Jun 22, 2023 · KEY POINTS: 🔗︎ Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors. The effectiveness of the KAC lies in its ability to yield immediate 」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
   - 「structured-analytic-techniques — May 20, 2026 · Key assumptions check Quality of information check Indicators or signposts of change Analysis of competing hypotheses (ach) Contrarian Techniques (Explicitly challenge current thinking) Devil’s advocacy team b High Impact low Probability analysis What if? analysis Imaginative Thinking Techniques (Develop new insights, perspectives, and ...」（https://mattdot.github.io/sats4llms/concepts/structured-analytic-techniques）
@@ -8440,17 +8446,17 @@
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「市場規模の調査を有効活用するためには、いくつか注意すべき点があります」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
   - 「コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
+  - 「市場規模の調査を有効活用するためには、いくつか注意すべき点があります」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794045042.4962339401245117187500）
+  - 「コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794045042.4962339401245117187500）
+  - 「数字の信頼性を上げる 一次データとよくある失敗」（https://timewell.jp/columns/market-sizing-tam-sam-som）
+  - 「そのうえで、私が現場でよく見る失敗を挙げておきます」（https://timewell.jp/columns/market-sizing-tam-sam-som）
+  - 「(3) 二重計上、桁間違い、購入頻度の掛け忘れの疑い」（https://timewell.jp/columns/market-sizing-tam-sam-som）
+  - 「個人情報保護委員会の注意喚起（令和5年6月2日）に沿った実務仕様で、入力してはいけない情報や出力の取扱いを条文化」（https://timewell.jp/columns/market-sizing-tam-sam-som）
   - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「もう一つの落とし穴は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「● 設問設計による回答バイアスを最小限に抑えたい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e）
-  - 「これを3年間ずっと続く確定予測として使うのは誤りです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「10．市場規模分析でよくある失敗」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -8471,19 +8477,23 @@
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
 - 手順・やり方：
-  - 「― 調査プロセス別のチェックポイントで“歪みの芽”を摘み取る手順 ―」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「バイアスは「気づけば混入している」ことが多いため、本章では典型的な発生パターンを工程別に分解し、どこで何を見れば“歪みの芽”を早期に発見できるかを示します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「選択／カバレッジバイアスは、母集団定義、対象者条件（スクリーニング）、サンプル設計、回収方法といった「誰に聞くか／どう到達するか」を決める局面で起きます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「モード効果（Mode Effect）──同じ質問でも聞く方法で答えが変わる」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「モード効果は、調査の実施方法（Web／紙／電話／会場／郵送）や、回収方法（混合モードを含む）の選定に起因して発生します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「特に複数の調査方法を併用する場合、その差が「回答者属性の違い」なのか「モードの違い」なのかが混ざり、差分の解釈を誤りやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「前章「3.実践ステップ」では、「調査設計」「設問設計」「分析・報告」の各プロセスで発生するバイアスについて解説しましたが、この3つのプロセスのなかで、多くの種類のバイアスが存在するのが「設問設計」に関するバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「時系列で追うKPIは、設問文・導入文・尺度・選択肢・対象条件（スクリーニング/割付）・回収方法（モード/チャネル）を原則同一に固定する」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「誘導質問や選択肢の偏り、サンプリング方法、集計時の選択的報告などが典型例です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「QiQUMOのセルフ型調査なら設問設計をスピーディに修正できます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「人事評価におけるアンカリングを防ぐ仕組みと実践3ステップ | HRコラム」（https://www.cbase.co.jp/column/article717/）
+  - 「人事評価におけるアンカリングを防ぐ仕組みと実践3ステップ」（https://www.cbase.co.jp/column/article717/）
+  - 「⇒【マンガでわかる】「360度評価」のメリットやデメリット、失敗しないための導入方法が詳しく学べる資料を1分でダウンロード」（https://www.cbase.co.jp/column/article717/）
+  - 「を軸に、組織全体でアンカリングを防ぐための3つの実践ステップを紹介します」（https://www.cbase.co.jp/column/article717/）
+  - 「特に面談の進め方は、社員の納得感を左右する重要な要素です」（https://www.cbase.co.jp/column/article717/）
+  - 「人事評価面談での伝え方｜低評価の伝え方・納得感を高める方法」（https://www.cbase.co.jp/column/article717/）
+  - 「アンカリングの典型的な影響のひとつが、「前年とほぼ同じ評価になる」現象です」（https://www.cbase.co.jp/column/article717/）
+  - 「は、変化を適切に捉える有効な方法です」（https://www.cbase.co.jp/column/article717/）
+  - 「「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です」（https://www.cbase.co.jp/column/article717/）
+  - 「（職務行動特性に基づく評価）を導入することで、個人の印象に左右されにくいフレームを持たせることができます」（https://www.cbase.co.jp/column/article717/）
+  - 「コンピテンシー評価とは？人事評価との違い・導入方法とメリット・デメリット」（https://www.cbase.co.jp/column/article717/）
+  - 「多面評価とは？メリット・デメリット・導入手順・評価項目を解説」（https://www.cbase.co.jp/column/article717/）
+  - 「“運用の検証を仕組みにする”ことこそ、アンカリングを制度レベルで抑える最も確実な方法です」（https://www.cbase.co.jp/column/article717/）
+  - 「ここでは、社員が納得し、評価者も自信を持って説明できる人事評価を実現するための3つのステップを紹介します」（https://www.cbase.co.jp/column/article717/）
+  - 「具体的な表現方法は、「」（https://www.cbase.co.jp/column/article717/）
 - 突き合わせ・推定：
+  - 「“運用の検証を仕組みにする”ことこそ、アンカリングを制度レベルで抑える最も確実な方法です」（https://www.cbase.co.jp/column/article717/）
   - 「判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「推定量の系統誤差、設計・計測上の偏り」（https://qiqumo.jp/contents/knowhow/7500）
@@ -8498,7 +8508,6 @@
   - 「3) 想起・推定の過大要求」（https://qiqumo.jp/contents/knowhow/7500）
   - 「可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する」（https://qiqumo.jp/contents/knowhow/7500）
   - 「“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く」（https://qiqumo.jp/contents/knowhow/7500）
 - 一次情報の探し方：
   - 「認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、」（https://qiqumo.jp/contents/knowhow/7500）
   - 「6) 統計学・実験計画」（https://qiqumo.jp/contents/knowhow/7500）
@@ -8507,37 +8516,37 @@
   - 「p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう」（https://qiqumo.jp/contents/knowhow/7500）
   - 「セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る」（https://qiqumo.jp/contents/knowhow/7500）
 - 失敗・落とし穴：
-  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「バイアスとは偏りや歪み、傾きなどを表す言葉です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ヒューリスティクス（代表性、利用可能性など）、確証バイアス」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「プロスペクト理論（損失回避、参照点依存）、現状維持バイアス」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「グループシンク、同調、内集団バイアス、権威の影響」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「構造的不平等、制度バイアス、排除のメカニズム」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「選択バイアス、測定バイアス、p-hacking、サンプリング偏向」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「⇒【マンガでわかる】「360度評価」のメリットやデメリット、失敗しないための導入方法が詳しく学べる資料を1分でダウンロード」（https://www.cbase.co.jp/column/article717/）
+  - 「本記事では、この心理的バイアスが生じる仕組みと評価への影響を整理し、」（https://www.cbase.co.jp/column/article717/）
+  - 「アンカリング効果とは ― 人事評価に潜む心理的バイアス」（https://www.cbase.co.jp/column/article717/）
+  - 「の一つですが、他のバイアスとも密接に関係しています」（https://www.cbase.co.jp/column/article717/）
+  - 「人事評価に潜む確証バイアスとは？公平性をゆがめる心理の仕組みと防止策」（https://www.cbase.co.jp/column/article717/）
+  - 「が評価に大きな影響を与えるため、評価プロセス全体の設計段階から注意を払うことが重要です」（https://www.cbase.co.jp/column/article717/）
+  - 「この“思考の省略”が、結果としてバイアスを生み出します」（https://www.cbase.co.jp/column/article717/）
+  - 「特に評価制度が年次単位で行われる場合、前年の情報がそのまま評価基準として残りやすい点に注意が必要です」（https://www.cbase.co.jp/column/article717/）
+  - 「また、評価バイアス全体を俯瞰して整理したい場合は、「」（https://www.cbase.co.jp/column/article717/）
+  - 「人事評価のエラー・バイアス10選｜不公平を防ぐ仕組みと改善策を解説」（https://www.cbase.co.jp/column/article717/）
+  - 「アンカリング以外のバイアスとの関連を理解することで、自社の評価制度のどこに改善余地があるかをより明確にできます」（https://www.cbase.co.jp/column/article717/）
+  - 「評価者の心理だけでなく、制度やプロセスの側面からも働きかけることで、バイアスの影響を最小限に抑えられます」（https://www.cbase.co.jp/column/article717/）
+  - 「「なぜそう判断したのか」「どの情報を根拠にしているのか」を言語化できるようになることで、バイアスの影響を減らすことができます」（https://www.cbase.co.jp/column/article717/）
+  - 「“一人の判断に依存しない評価構造”を整えることが、制度的アンチバイアスの第一歩です」（https://www.cbase.co.jp/column/article717/）
+  - 「アンカリングを根本的に抑えるには、評価者個人の注意だけでなく、」（https://www.cbase.co.jp/column/article717/）
 - 実例：
+  - 「面談の初回印象や普段の発言トーンなど、初期の印象がアンカーとなり、実際の業績よりも印象面が強く影響するケースがあります」（https://www.cbase.co.jp/column/article717/）
+  - 「この“思考の省略”が、結果としてバイアスを生み出します」（https://www.cbase.co.jp/column/article717/）
+  - 「たとえば、評価フォームに前年のスコアを記載していたり、評価面談の冒頭で前年の結果を振り返る構成にしていると、それがアンカーとして機能します」（https://www.cbase.co.jp/column/article717/）
+  - 「結果として、改善や成長が十分に反映されず、「頑張っても評価が変わらない」という不満につながります」（https://www.cbase.co.jp/column/article717/）
+  - 「これが評価への不信や、離職のトリガーになるケースも少なくありません」（https://www.cbase.co.jp/column/article717/）
+  - 「このような歪みを放置すると、結果的に」（https://www.cbase.co.jp/column/article717/）
+  - 「「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です」（https://www.cbase.co.jp/column/article717/）
+  - 「面談の流れそのものがアンカリングを誘発しているケースもあります」（https://www.cbase.co.jp/column/article717/）
+  - 「トレーニングでは、実際の評価シートを使い、複数の評価者で同一ケースを採点・比較してみると効果的です」（https://www.cbase.co.jp/column/article717/）
+  - 「また、評価結果をフィードバックする際に、「自分がどの情報をもとに結論を出したか」を明確に説明できる状態を目指すことが理想です」（https://www.cbase.co.jp/column/article717/）
+  - 「評価項目は「結果」「プロセス」「行動」の3軸で整理すると、判断がブレにくくなります」（https://www.cbase.co.jp/column/article717/）
+  - 「評価者研修で事例を用いたすり合わせを行うと、評価の方向性が統一されやすくなります」（https://www.cbase.co.jp/column/article717/）
+  - 「評価結果の分布を分析し、部門間・評価者間で偏りがないかを確認します」（https://www.cbase.co.jp/column/article717/）
   - 「調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
 
 ## 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）（Japan kessan koukoku obligation change delisting capital increase large company P/L summary）
 - 文脈：決算公告
@@ -8586,6 +8595,7 @@
   - 「有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます」（https://asanagi.co.jp/2023/03/07/5096/）
+  - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -8594,8 +8604,9 @@
   - 「以下のとおり手続きを行う必要がありますので注意しましょう」（https://www.kigyou-houmu.com/secret-4/）
   - 「また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です」（https://keiridriven.mjs.co.jp/171979/）
   - 「官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう」（https://keiridriven.mjs.co.jp/171979/）
-  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
+  - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
+  - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「株式会社の決算公告義務とは？幸田町・岡崎市・蒲郡市の事例を詳しく解説｜神谷佳希｜人生について考え続け、その歩みに寄り添う人」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
@@ -8609,13 +8620,14 @@
   - 「例えば、地元での公告手段の選択や、商工会議所との連携など、地域性を考慮したアプローチが可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「例えば、地元紙への公告を検討する場合や、商工会議所との連携を図る際に、有用な情報を提供してくれます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「例えば、電子公告を選択する場合、官報や新聞公告に比べて費用を抑えることができます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「例えば、決算公告の準備と同時に、税務上のメリットが得られるような手続きの提案を受けることも可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「法律顧問料はかかりますが、結果としてコストの削減にも繋がっていきます」（https://www.kigyou-houmu.com/secret-4/）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なか」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告はいつまでに｜方法の選択と電子公告日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告 - Wikipedia決算公告はいつまでに｜方法の選択と電子公告 — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法令によって義務づけられている」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しか」（https://www.kigyou-houmu.com/secret-4/）
 
 ## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
 - 文脈：裏取り
@@ -10211,11 +10223,11 @@
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
