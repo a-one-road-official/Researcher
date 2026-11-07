@@ -1002,6 +1002,7 @@ def kougyo_section(topic):
     md += kougyo_callband(by)
     md += kougyo_callband(by, "従業者1人あたり付加価値額_万円", "万円")
     md += kougyo_decompose(by)
+    md += kougyo_jump_exit(by)
     return md + [""]
 
 # 2026-11-07 4-70（hrbench「Revenue per employee」：1人あたりが動いた理由は分子と分母のどちらが動いたかで別物。
@@ -1041,6 +1042,47 @@ def kougyo_decompose(by):
     if not md: return []
     return ["", "### 1人あたりの向きを分子と分母に分ける（4-70・段差をまたがない最長の区間・同じ表の組・名目・機械）",
             "- 1人あたりの年率は (1+出荷額の年率)÷(1+従業者の年率)−1。同じ1人あたりの上昇でも、出荷額が伸びた型と人が減った型は意味が逆なので、scan.md ではどちらの型かを書く"] + md
+
+# 2026-11-08 4-89（DataJournalism.com「Data journalism: a guide for editors」：意外な跳び（1年で5割増など）はまず誤りを疑って確かめる・
+# 数える対象の範囲（ユニバース）を途中で変えない。CASRAI「Survivorship bias」：退出した先が記録から消えると平均が上振れする。
+# 退出した側について最良・中間・最悪の仮定を置き、結論がその幅で残るかを確かめる）。
+# ①注目の細分類と製造業計で、隣り合う年に事業所数・従業者数・製造品出荷額等・加工賃収入額が1.5倍以上か2/3以下に動いた点を「意外な跳び」として出す
+#   （既知の段差の年 2015・2016 は別に印す）。②段差をまたがない最長の区間で、事業所数が1割以上減り1人あたり出荷額が上がった細分類を
+#   「生き残りの疑い」として、退出した割合と並べる。退出した先の1人あたりを仮定する値は作らない（scan.md で3つの仮定を言葉で書く）
+def kougyo_jump_exit(by):
+    sheet = "1100"
+    jumps, surv = [], []
+    for (code, name), rs in sorted(by.items()):
+        if code != "0000" and (not _kfocus(name) or code[-1:] == "0"): continue
+        for fld in ("事業所数", "従業者数", "製造品出荷額等", "加工賃収入額"):
+            pts = _kseries(rs, fld, sheet)
+            for (y0, v0), (y1, v1) in zip(pts, pts[1:]):
+                if not v0 or v0 <= 0 or y1 != y0 + 1: continue
+                r = v1 / v0
+                if r >= 1.5 or r <= 2 / 3:
+                    jumps.append(f"  - {code} {name} {fld} {y0}年 {v0:,.0f}→{y1}年 {v1:,.0f}（{r:.2f}倍" + ("・既知の段差の年" if y1 in (2015, 2016) else "") + "）")
+        n = dict(_kseries(rs, "事業所数", sheet)); num = dict(_kseries(rs, "製造品出荷額等", sheet)); den = dict(_kseries(rs, "従業者数", sheet))
+        ys = [y for y in sorted(set(n) & set(num) & set(den)) if y not in (2015, 2016)]
+        seg, cur = [], []
+        for y in ys:
+            if cur and y != cur[-1] + 1: seg.append(cur); cur = []
+            cur.append(y)
+        if cur: seg.append(cur)
+        seg = [x for x in seg if len(x) >= 2]
+        if not seg: continue
+        s = max(seg, key=len); a, b = s[0], s[-1]
+        if not (n[a] and den[a] and den[b]): continue
+        ex = 1 - n[b] / n[a]
+        pa, pb = num[a] / den[a], num[b] / den[b]
+        if ex >= 0.10 and pb > pa:
+            surv.append(f"  - {code} {name} {a}→{b}年：事業所数 {n[a]:,.0f}→{n[b]:,.0f}（{ex:.0%} 減）、1人あたり出荷額 {pa:,.2f}→{pb:,.2f}百万円（{pb / pa - 1:+.1%}）")
+    if not jumps and not surv: return []
+    return ["", "### 意外な跳びと生き残りの疑い（4-89・同じ表の組・名目・機械）",
+            f"- 隣り合う年で1.5倍以上か2/3以下に動いた点：{len(jumps)}件。向きに使う前に、表の取り違え・単位・秘匿・調査範囲の変更を先に疑って本文で確かめる",
+            *jumps[:30],
+            f"- 事業所数が1割以上減ったのに1人あたり出荷額が上がった細分類：{len(surv)}件。退出した事業所が記録から消えた上振れの疑い。"
+            "scan.md では、退出した先の1人あたりを「残った先と同じ（最良）／最初の年の自分の値（中間）／最初の年の下位（最悪）」の3つで言葉で置き、向きがその幅で残るかを書く。数値の仮置きはしない",
+            *surv[:30]]
 
 # 2026-11-06 走査で見つかった失敗から（4-26・4-37・4-44）：上の年率は実績2013→2019年を1本で結ぶので、
 # 経済センサスの2015年と、製造業計で1事業所あたり従業者が段差を作る2015→2016年（事業所の数え方の違いの疑い）をまたぐ。
