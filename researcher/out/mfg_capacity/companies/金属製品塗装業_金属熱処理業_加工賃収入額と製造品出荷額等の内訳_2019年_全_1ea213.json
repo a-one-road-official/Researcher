@@ -1,0 +1,461 @@
+{
+ "name": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+ "en": "Japan metal coating heat treatment industry receipts for processing 2019 detailed industry",
+ "aliases": [
+  "工業統計表 金属熱処理業 加工賃収入額",
+  "工業統計表 金属製品塗装業 加工賃収入額",
+  "工業統計 2465 2461 加工賃"
+ ],
+ "context": "塗装・熱処理・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T05:18:06.304965+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2469",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resas.go.jp/industry-manufactured-goods/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_r4_d/fil/R4seizougyo_houkokusyo.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kochi.lg.jp/doc/kougyou13kaku/file_contents/2012020200214_www_pref_kochi_lg_jp_uploaded_attachment_63777.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.zentsuji.kagawa.jp/uploaded/attachment/2489.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=565&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000890407.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/high-temperature-coatings-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/paint-coating-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/heat-treating-market-104963",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/heat-treating-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469",
+    "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://resas.go.jp/industry-manufactured-goods/"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_r4_d/fil/R4seizougyo_houkokusyo.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 統計 PDF",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.kochi.lg.jp/doc/kougyou13kaku/file_contents/2012020200214_www_pref_kochi_lg_jp_uploaded_attachment_63777.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.city.zentsuji.kagawa.jp/uploaded/attachment/2489.pdf"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 従業者規模別",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kochi.lg.jp/doc/kougyou13kaku/file_contents/2012020200214_www_pref_kochi_lg_jp_uploaded_attachment_63777.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 1人当たり 万円",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=565&page=1000",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.soumu.go.jp/main_content/000890407.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469"
+   ]
+  },
+  {
+   "query": "Japan metal coating heat treatment industry receipts for processing 2019 detailed industry Japan statistics",
+   "results": [
+    "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "https://www.strategicmarketresearch.com/market-report/high-temperature-coatings-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/paint-coating-market/japan",
+    "https://www.fortunebusinessinsights.com/heat-treating-market-104963",
+    "https://www.grandviewresearch.com/industry-analysis/heat-treating-market",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://www.linkedin.com/pulse/global-metal-coater-market-us-japan-korea-europe-2026-2034-n7mrf",
+    "https://www.marketdataforecast.com/market-reports/asia-pacific-hard-coatings-market",
+    "https://www.coatingsworld.com/the-coating-industry-in-japan/",
+    "https://www.stat.go.jp/english/data/nenkan/68nenkan/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+   "results": [
+    "https://note.com/bold_hornet726/n/n843af36b5be1",
+    "https://note.com/nagatacho_5/n/ncb80486483f4",
+    "https://note.com/kiyotakasato/n/n93a13a008df9",
+    "https://note.com/y44901726/n/n9bff4f458124",
+    "https://note.com/kiyotakasato/n/n3fe9dbd2d046",
+    "https://note.com/sangyo_web/n/n76cae4216f0a",
+    "https://note.com/onokoki_/n/nb36ffaa09b0b",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660",
+    "https://note.com/engawa_koushi/n/na0d18fdb9a80"
+   ]
+  },
+  {
+   "query": "site:x.com 金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2111680219052642760",
+    "https://jf.x.com/images/media-preview/2097513349240267064",
+    "https://x.com/keizaikaiseki/status/1851775556670624151",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/TEKKOSHIMBUN/status/2073889663790752085",
+    "https://x.com/keizaikaiseki/status/1368781833274597376"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+   "results": [
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／製造未経験からしっかり稼げる！注目の高収入work☆／月収例33-7万円【ステンレス製品の機械加工・目視検査など】（no-cb-19212-01-jp）-at-フジアルテ株式会社-4464974323",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／未経験から高収入◎／月収例32-7万円【鋼板や鉄鋼コイルの機械加工・梱包・出荷業務】（no-sd-19272-01-jp）-at-フジアルテ株式会社-4464388257",
+    "https://jp.linkedin.com/pulse/maximizing-income-industrial-machinery-manufacturing-lean-cattermole?tl=ja",
+    "https://jp.linkedin.com/jobs/view/＜小矢部市＞アルミ材の押出成形加工-日払いok【初心者カンゲイ♪】稼ぐ優先・高収入work☆程よく残業で収入にプラス♪-at-株式会社綜合キャリアオプション-4476550132",
+    "https://jp.linkedin.com/jobs/view/＜松阪市＞組立・加工・食品製造など-日払いok【未経験者カンゲイ♪】高収入ワーク！残業月20h以上！高収入ゲットの大チャンス☆-at-株式会社綜合キャリアオプション-4445661464",
+    "https://www.linkedin.com/jobs/data-engineer-jobs",
+    "https://jp.linkedin.com/jobs/view/＜伊賀市＞梱包・出荷・仕分けなど-日払いok【未経験の方も安心◎】稼ぐ優先・高収入work☆ガッツリ稼げる残業月20h以上！-at-株式会社綜合キャリアオプション-4438132926"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ）",
+   "results": [
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/photo.php/?fbid=1237778328363840",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/groups/1117274224969459/posts/27093195153617344/",
+    "https://www.facebook.com/keizaikaiseki/posts/901968635444521/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/非鉄金属大手８社の２０２６年３月期連結業績予想は６社が当期減益を見込む銅製錬会社の加工賃収入であるｔｃｒｃ溶錬費精錬費が銅精鉱の供給不足と海外銅製錬所の新規稼働/1252133540250646/"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2461",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.npo-homepage.go.jp/npoportal/document/011091377/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2461",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.kkj-st.go.jp/download/data/seizo_class.pdf",
+    "https://www.sr-miwa.com/news_contents_9316.html"
+   ]
+  },
+  {
+   "query": "金属製品塗装業・金属熱処理業 加工賃収入額と製造品出荷額等の内訳 2019年 全国 産業細分類（賃加工の重さ） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.city.isehara.kanagawa.jp/docs/2019103000013/file_contents/201904kogyou.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2469",
+    "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html"
+   ]
+  },
+  {
+   "query": "Japan metal coating heat treatment industry receipts for processing 2019 detailed industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/bluewater-thermal-solutions",
+    "https://www.linkedin.com/in/jamie-kuriger-90403b1b",
+    "https://www.linkedin.com/in/shloksundaresh",
+    "https://www.linkedin.com/posts/onyeka-franklin-ochonogor_consulting-engineeringleadership-additivemanufacturing-activity-7510182792010518528-12FZ",
+    "https://uk.linkedin.com/in/david-donnelly-76472773",
+    "https://www.linkedin.com/showcase/curtiss-wright-surface-tech/",
+    "https://www.linkedin.com/in/sammy-stevens-25a656a4",
+    "https://www.linkedin.com/in/rajiv-akolkar-73435613",
+    "https://www.linkedin.com/in/krishnardula",
+    "https://ca.linkedin.com/in/seyedmohammadtabaie"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ36頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ36頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ36頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ36頁・検索18回）",
+  "10年推移": "記載なし（読んだ36頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索18回）"
+ }
+}

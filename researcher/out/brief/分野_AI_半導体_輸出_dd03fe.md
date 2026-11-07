@@ -235,14 +235,14 @@
 - SNS・note（X・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-06「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
 ### 日本→海外（輸出）｜バーティカルAI（vertical AI）
-- 取得：2026-11-06T05:08・調査3回目・読んだ頁71
+- 取得：2026-11-07T05:17・調査4回目・読んだ頁72
 - 痛み・損（深さの印）（5件）：
   - ［記事］2026-11-06「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/
   - ［記事］2026-11-06「人手不足倒産、1万3500社が「予備軍」 飲食や介護に急増リスク」https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/
   - ［記事］2026-11-06「4〜9月の企業倒産4％増、13年ぶり高水準 人手不足理由が過去最多」https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/
   - ［記事］2026-11-06「1〜8月の人手不足倒産、過去最多の333件 TSR調べ」https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/
   - ［記事］2026-11-06「Key drivers include enterprise AI adoption, the Society 5.0 framework, healthcare digitization, labor shortages pushing automation, expanding domestic LLMs, and government investment in foundation-model research and infr」https://www.imarcgroup.com/japan-generative-ai-market
-- 顧客（金を払う側）（38件）：
+- 顧客（金を払う側）（45件）：
   - ［一次］2026-11-05「右するフィジカルAIは、工場等の現場データやノウハウ、高い品」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①植物工場 ・・・p.279」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「品・技術等」毎に、研究開発、実証、本格商品化、量産化といった発展ステージが、今後どの程度の時間軸で上がっていくかのシナリオによって、その関与度合」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
@@ -254,37 +254,37 @@
   - ［記事］2026-11-06「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
   - ［記事］2026-11-06「令和9年度の概算要求のうち、中小の製造業・物流業と関係が深い主な項目は次のとおりです」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
   - ［記事］2026-11-06「令和９年度概算要求：金額明示の主要事業計 約２兆1,156億円 ＋ 事項要求（複数件）」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-- 顧客の競合（奪いに来る側）（41件）：
+- 顧客の競合（奪いに来る側）（44件）：
+  - ［記事］2026-11-07「こうした背景から、米国のAIベンダーやスタートアップを中心に、業界特化型のAIを明確に区別するVertical AIという概念が重視されるようになりました」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「米国のAI企業Turing社は、今後のビジネス変革を主導する存在として「Vertical AI Agents」を挙げています」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/
   - ［記事］2026-11-06「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/
   - ［記事］2026-11-06「答えを探して、政府の資料と、米国のベンチャーキャピタルが出した2本のレポートを読み比べました」https://innovatopia.jp/ai/ai-news/113176/
-  - ［記事］2026-11-06「Shopify、Toast、Procore、ServiceTitanといった垂直SaaS企業を早くから支援してきた米国のベンチャーキャピタル、」https://innovatopia.jp/ai/ai-news/113176/
-  - ［記事］2026-11-06「Bessemerの概算では、ビジネス・専門サービス業は米国GDPの13%を占め、これはソフトウェア市場の、およそ10倍にあたります」https://innovatopia.jp/ai/ai-news/113176/
-  - ［記事］2026-11-06「Menlo Venturesという米国のベンチャーキャピタルが、2025年12月に「2025: The State of Generative AI in the Enterprise」という調査レポートを出しています」https://innovatopia.jp/ai/ai-news/113176/
-- 自社の競合（商社・代理店・仲介）（45件）：
+- 自社の競合（商社・代理店・仲介）（61件）：
   - ［一次］2026-11-06「 自律行動型AI(Agentic AI)の社会実装やＡＩを軸とした経営改革（AX)の進展により、想定以上の付加価値の創出が期待されている」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［記事］2026-11-05「推論能力の高度化やマルチモーダル化、さらにはAI自身がコーディングを行う技術の実用化により、目的達成のために自ら計画・実行・検証・修正を繰り返す「自律行動型AI（Agentic AI）」が急速に伸長しています」https://newspicks.com/news/17011823/body/
-  - ［記事］2026-11-05「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strate」https://www.imarcgroup.com/japan-generative-ai-market
-  - ［記事］2026-11-05「General-Purpose AI, Vertical AI Agents, or Build In-House? How to Decide What to Adopt in the AI Era, Based on the Latest Research and Cases | mign, Inc.」https://www.mign.io/en/articles/58226/
-- 政治（法・予算・規制）（37件）：
+  - ［記事］2026-11-07「米国のAI企業Turing社は、今後のビジネス変革を主導する存在として「Vertical AI Agents」を挙げています」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「※6：出典「How Vertical AI Agents Are Reshaping Industries in 2025」（Turing・2026）」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」https://diamond.jp/zai/articles/-/1070254
+- 政治（法・予算・規制）（40件）：
   - ［一次］2026-11-04「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-07「広く浅い用途に対応する、一般的な汎用AIは多種多様なタスクをこなせる反面、業界固有の業務フローや規制、複雑な判断基準を前提とした活用には限界があります」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「Vertical AIを「特定の業界やユースケースに合わせて設計され、業界特有のデータ・規制・既存ワークフローと密接に統合されたAI」」https://www.members.co.jp/column/20260326-vertical-ai
+  - ［記事］2026-11-07「ヘルスケアや金融といった規制産業では、価格戦略や調達、償還（リインバースメント）といった事業上の意思決定を左右する領域には、いまだ十分に踏み込めていない実情があります」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-06「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-  - ［記事］2026-11-06「令和9年度AI関連予算の要点」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-  - ［記事］2026-11-06「ステップ3 補助金・支援策の情報を追う」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-  - ［記事］2026-11-06「令和7年12月23日には、初の「人工知能基本計画」が閣議決定されています」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-- 経済（規模・価格・為替）（76件）：
+- 経済（規模・価格・為替）（77件）：
   - ［一次］2026-11-04「後10年間で50兆円を超える官民投資を実現する「AI半導体産業基盤強化フレーム」を策定し、先端ロジック半導体等の製造基盤整備や次世代」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「予測CAGR 63.9%」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「主要ハイパースケーラーの設備投資額は、2024年を境に予測値を」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「上回って急拡大し、2026年には6,020億ドル（約90兆円）まで急拡大する見込み」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「モリが市場全体の成長を牽引し、2026年には想定より４年早く世界市場規模は1兆ドル（約150兆円）が視野に入る」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
-- 社会（人・担い手）（43件）：
+- 社会（人・担い手）（47件）：
   - ［一次］2026-11-05「⚫ AIロボティクス実装を通じた産業競争力の強化や構造的人手不足などの社会課題の解決の実現のため、経済安全保障上の観点から、ア」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-05「⚫ DXが進まない１つの要因として、日本では85.7%の企業がDX人材不足を感じている（米国は22.6%）」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「⚫ 本来、地域での人手不足を始め、社会課題が山積する我が国こそ、世界に先立ちAIと向き合い、能動的に利活用を進めていかなければな」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
   - ［一次］2026-11-04「チェーンの強化・最適化や必要な産業再編に向けた取組を進めるとともに、国内半導体産業の基盤となる人材育成や、工業用水・産業用地等の」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
-  - ［記事］2026-11-06「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ - フィデックス株式会社」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-- 技術（新しい技術・実証）（70件）：
+  - ［記事］2026-11-07「※3：出典「LayerXが開発するAi Workforce、法務領域に進出」https://www.members.co.jp/column/20260326-vertical-ai
+- 技術（新しい技術・実証）（86件）：
   - ［一次］2026-11-05「・ また、AIロボットに限らず、フィジカルAIは現実世界で作用す」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①フィジカルAI（特にAIロボット） ・・・p.4」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「③バーティカルAI（領域特化型AI） ・・・p.14」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
@@ -296,16 +296,6 @@
   - ［SNS］2026-11-05「デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域... 同時に、AI政策を力強く前進させるため、政府の司令 塔機能を抜本的に強化し、省庁の縦割りを越えて、政 策、予算、データ、計算資源、人材を一体的に動かす 体制を構築します。 「AIを使う国」から、「AIで社会を変え、新たな価値 を創る国」へ。」https://www.facebook.com/hiratakuchan/videos/vertical-ai/4454192671502881/
   - ［SNS］2026-11-05「日刊工業新聞 - 政府のAI（人工知能）ロボティクスの成長戦略に、領域... May 27, 2026 · 政府のAI（人工知能）ロボティクスの成長戦略に、領域特化のバーティカル（垂直型）AIと、ロボットや産業機械を自律的に動かすフィジカルAIが盛り込まれる。 バーティカルAIで専門知識や現場ノウハウをAIが... #日刊工業新聞」https://www.facebook.com/nikkan.BusinessLine/posts/政府のａｉ人工知能ロボティクスの成長戦略に領域特化のバーティカル垂直型ａｉとロボットや産業機械を自律的に動かすフィジカルａｉが盛り込まれるバーティカルａｉで専門/1590737529723577/
   - ［SNS］2026-11-04「建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook 建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook Facebook https://www.facebook.com > andpad > posts > 建設バー...」https://www.facebook.com/andpad/posts/%E5%BB%BA%E8%A8%AD%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%81%A8%E7%8F%BE%E5%A0%B4%E7%B5%8C%E9%A8%93%E8%B1%8A%E5%AF%8C%E3%81%AA%E3%83%97%E3%83%AD%E4%BA%BA%E6%9D%90%E3%81%8C%E6%A5%AD%E5%8B%99%E4%BB%A3%E8%A1%8C%E3%82%92%E8%A1%8C%E3%81%86andpad-ai-bpo%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B-%E7%AC%AC%EF%BC%91%E5%BC%BE%E3%81%A8%E3%81%97%E3%81%A6%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E4%BC%9A%E7%A4%BE%E5%90%91%E3%81%91%E3%81%AB%E6%8B%BE%E3%81%84%E5%87%BA%E3%81%97%E3%81%8B%E3%82%89%E8%A6%8B%E7%A9%8D%E3%81%BE%E3%81%A7%E3%81%AE%E7%A9%8D/1739760981489053/
-- SNS・note（note・検索結果の抜粋）（3件）：
-  - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 note https://note.com > 科学・テクノロジー > AI・機械学習」https://note.com/mugimugi92/n/n97bd457851d3
-  - ［SNS］2026-11-04「Vertical AI は「すべての会社が取り組む課題」？ - note Vertical AI は「すべての会社が取り組む課題」？ - note note https://note.com > ビジネス > 経営・マネジメント」https://note.com/muarata/n/n563662390fa8
-  - ［SNS］2026-11-04「「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note 「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note note https://note.com > 投資・マネー > 投資・マネー全般」https://note.com/144292/n/nb9690ab333a5
-- SNS・note（X・検索結果の抜粋）（8件）：
-  - ［SNS］2026-11-05「#バーティカルAI - Search / X See posts about #バーティカルAI on X. See what people are saying and join the conversation.」https://x.com/hashtag/バーティカルAI
-  - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
-  - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
-  - ［SNS］2026-11-05「バーティカルAI領域別戦略 中間とりまとめ【詳細資料】 https://t.co/... ️7月10日【第5回人工知能戦略本部】を開催 AIの活用や「人工知能基本計画」の改定案、業界特化型AI「バーティカルAI」に関する戦略 主な決定事項と戦略のポイント ・バーティカルAIの重点支援 ・フィジカルAIと開発基盤 ・信頼性確保と法整備 💬 1 🔄 0 🤍 2」https://x.com/extreme877/status/2076305803213144171
-  - ［SNS］2026-11-05「バーティカルAIは生き残れるかーLegalOn角田氏が語る、独自価値を作る... May 21, 2026 · そのうえで角田さんが整理してくれたのが、バーティカルAIが基盤モデルと共存しながら独自価値を出すための3つの要件でした。 ・専門領域における高い精度 ・深い知識との接続 ・業務オペレーションのカバー」https://x.com/productai_/article/2057601150543868194
 - 検索結果の抜粋（17件）：
   - ［一次］2026-11-05「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
   - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
@@ -318,9 +308,19 @@
   - ［SNS］2026-11-04「実は最近、ちょっとゾッとしたニュースを見つけたんです。。。」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「「ChatGPTとかClaude、使いこなせてるから大丈夫！」って思ってた私なんですが、日経クロステックの記事を読んで「あれ、私、次のフェーズに乗り遅れてる...？」って焦りが出てきちゃいました。」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「その正体が「バーティカルAI（Vertical AI）」なんです。日本政府は、バーティカルAIについて2040年度までの官民投資額を23.1兆円と想定しており、その投資による経済波及効果を222兆円と試算しているそうで、桁がもう頭に入ってこないレベルなんです（笑）」https://note.com/mugimugi92/n/n97bd457851d3
-- SNS・note（LinkedIn・検索結果の抜粋）（11件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（13件）：
+  - ［SNS］2026-11-07「Reiji Sato - バーティカルAI で建設・不動産領域のAI活用を促進 Reiji Sato - バーティカルAI で建設・不動産領域のAI活用を促進 LinkedIn https://jp.linkedin.com > ...」https://jp.linkedin.com/in/reiji-sato-87323bb
+  - ［SNS］2026-11-07「Vertical AI - LinkedIn Vertical AI - LinkedIn LinkedIn https://www.linkedin.com > company」https://www.linkedin.com/company/verticalstudio-ai
   - ［SNS］2026-11-05「専門業務を支えるVertical AI（バーティカルAI）とは？汎用AIだけでは... 🆕【AI】ChatGPTを全社展開したのに成果が出ない？ 専門業務を支えるVertical AI（バーティカルAI）の必要性 「ChatGPTを全社展開したのに、現場の成果になかなかつながらない」 こうした悩みの背景には、汎用AIの構造的な限界があるのかもしれません。」https://jp.linkedin.com/posts/members-co--ltd_専門業務を支えるvertical-aiバーティカルaiとは汎用aiだけでは超-activity-7446798891208830976-Mw1E
   - ［SNS］2026-11-05「バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型A... バーティカルAI（領域特化型AI）による日本復活を目指す 日本政府は2040年迄に強く豊かな日本列島を目指し、 370兆円の国内投資を行います その中の1丁目1番地がバーティカルAIへの投資です。」https://jp.linkedin.com/posts/志浩-竹下-379929273_バーティカルaiとは何かit予算ではなく人件費を狙う領域特化型aiの正体-activity-7498137052610387968-yjrF
   - ［SNS］2026-11-05「The Vertical AI | LinkedIn TheVertical.ai is the AI-native Enterprise OS — unifying conversations, compliance, and outcomes. From AI voice and chat agents to audit, analytics, training, CRM, omnichannel engagement, and..」https://in.linkedin.com/company/theverticalai
-  - ［SNS］2026-11-05「The surge of vertical AI companies, the trends and the top ... Sep 17, 2025 · This is where the vertical AI trend emerges. Instead of selling a generic tool, these startups build bespoke solutions for a specific industry」https://www.linkedin.com/pulse/surge-vertical-ai-companies-trends-top-from-around-world-engman-xj3wf/
-  - ［SNS］2026-11-05「Understanding Horizontal and Vertical AI: What's the ... Jul 23, 2025 · In this article, we’ll break down the difference between horizontal and vertical AI, explore real-world examples, and look at how these models are s」https://www.linkedin.com/pulse/understanding-horizontal-vertical-ai-whats-difference-thilakaratne-jf84e
+- SNS・note（X・検索結果の抜粋）（9件）：
+  - ［SNS］2026-11-07「dragonbird on X: "専門業務を支えるVertical AI （ バーティカル ... dragonbird on X: "専門業務を支えるVertical AI （ バーティカル ... X https://x.com > @dragonb63254274」https://x.com/dragonb63254274/status/2118503530558562466
+  - ［SNS］2026-11-05「#バーティカルAI - Search / X See posts about #バーティカルAI on X. See what people are saying and join the conversation.」https://x.com/hashtag/バーティカルAI
+  - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
+  - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
+  - ［SNS］2026-11-05「バーティカルAI領域別戦略 中間とりまとめ【詳細資料】 https://t.co/... ️7月10日【第5回人工知能戦略本部】を開催 AIの活用や「人工知能基本計画」の改定案、業界特化型AI「バーティカルAI」に関する戦略 主な決定事項と戦略のポイント ・バーティカルAIの重点支援 ・フィジカルAIと開発基盤 ・信頼性確保と法整備 💬 1 🔄 0 🤍 2」https://x.com/extreme877/status/2076305803213144171
+- SNS・note（note・検索結果の抜粋）（3件）：
+  - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 note https://note.com > 科学・テクノロジー > AI・機械学習」https://note.com/mugimugi92/n/n97bd457851d3
+  - ［SNS］2026-11-04「Vertical AI は「すべての会社が取り組む課題」？ - note Vertical AI は「すべての会社が取り組む課題」？ - note note https://note.com > ビジネス > 経営・マネジメント」https://note.com/muarata/n/n563662390fa8
+  - ［SNS］2026-11-04「「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note 「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note note https://note.com > 投資・マネー > 投資・マネー全般」https://note.com/144292/n/nb9690ab333a5

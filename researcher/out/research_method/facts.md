@@ -255,6 +255,9 @@
   - 「今回は、株のファンダメンタル分析に使う様々な株式指標が出てきたので、特に投資初心者の方は、少し戸惑ってしまったかもしれません」（https://note.com/billye/n/n1b91b3c986af）
   - 「また、PBRやROAなど、横3文字の経済用語に抵抗感がある場合、ファンダメンタル分析を行うことに、億劫だと感じてしまう方もいるかもしれません」（https://note.com/billye/n/n1b91b3c986af）
 - 実例：
+  - 「有報の読み方 有報ガイド 有報が使えない非上場人気企業の調べ方を体系化し、サイトの構造的弱点を解消する 親子上場の有報活用テクニックなど、他の就活メディアにはない実践的な調査手法を提供 就活人気企業の中には非上場企業が多数あり、有報が使えないケースが実際に存在する 非上場でも決算公告・信用調査・上場子会社の有報など代替情報源は複数ある サントリーHDのように非上場でも上場子会社の有報から事業内容を読み取れるケースがある 情報源ごとに信頼性と入手しやすさが異なるため、複数を組み合わせるのが基本」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
+  - 「従業員の多様性データや環境関連の投資額など、面接での差別化に使える情報が見つかるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
+  - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「「インターンシップで学びたいこと」の答え方例文｜選考突破者の実例」（https://careerpark-agent.jp/column/67587）
   - 「事業内容とは｜企業研究や選考対策への活用方法を事例付きで解説」（https://careerpark-agent.jp/column/67587）
   - 「例えば、お金の資金繰りがうまくいっていない企業の場合、損益計算書上では利益が出ているように見えても、回収や支払のタイミングによっては営業のキャッシュフローが赤字になっているケースもあります」（https://note.com/billye/n/n1b91b3c986af）
@@ -267,9 +270,6 @@
   - 「具体的な数字や事業事例を引用することで、ほかの学生と差別化された、中身の濃い志望動機になるでしょう」（https://careerticket.jp/media/article/320/）
   - 「就活中は企業研究だけでなく、スケジュールや自己分析の結果など、あらゆる情報を整理しなければなりません」（https://careerticket.jp/media/article/320/）
   - 「準備不足からくる不安は表情や声に現れやすく、面接官に「自社への関心が薄い」という印象を与えてしまい、結果として合格率を下げてしまう可能性があります」（https://careerticket.jp/media/article/320/）
-  - 「多くの社数をこなすよりも、「なぜこの会社なのか？」という問いに自信をもって答えられる企業を増やすほうが、結果として合格率は高まるでしょう」（https://careerticket.jp/media/article/320/）
-  - 「たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね」（https://careerpark-agent.jp/column/67587）
-  - 「複数の分野に事業を展開している場合があり、それが一般的に知られていないケースもあります」（https://www.theport.jp/portcareer/article/27262/）
 - 検索結果の抜粋：
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
@@ -4080,85 +4080,85 @@
 ## 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）（entity resolution gold standard labeled pairs evaluation precision recall manual review）
 - 文脈：同一性
 - 手順・やり方：
-  - 「名寄せとは？意味や実施方法などわかりやすく解説 - myBridgeブログ」（https://sharebook.mybridge.com/blog/article13）
-  - 「この手順で確認するのは入力データの一致です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「ベンチマークの方法論と再現手順（固定コミット）」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「情報を入力する人や入力方法が複数あることも、重複を生む要因です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/name-collection）
+  - 「名寄せとは？正確な顧客データ管理の方法と活用ポイントを徹底解説」（https://data-viz-lab.com/name-collection）
+  - 「本記事では、データの重複や表記ゆれを整理し、信頼できる顧客情報を維持するうえで欠かせないプロセスである名寄せの基本から具体的な実施手順、効率化のポイントまでを体系的にわかりやすく解説します」（https://data-viz-lab.com/name-collection）
+  - 「次に、名寄せを実施する際の基本的な流れを5つのステップに分けて解説します」（https://data-viz-lab.com/name-collection）
+  - 「最初のステップは、」（https://data-viz-lab.com/name-collection）
+  - 「名寄せを実施する方法には、手作業で行うものから自動化されたシステムまで、いくつかのアプローチがあります」（https://data-viz-lab.com/name-collection）
+  - 「目的やデータ量、組織の規模によって最適な方法は異なります」（https://data-viz-lab.com/name-collection）
+  - 「ここでは、代表的な3つの方法を見ていきましょう」（https://data-viz-lab.com/name-collection）
+  - 「小規模な名寄せや初期の整理段階に向いている方法といえるでしょう」（https://data-viz-lab.com/name-collection）
+  - 「導入コストは高めですが、人的工数の削減と品質の両立を図れる点で、今後の主流となる方法といえるでしょう」（https://data-viz-lab.com/name-collection）
+  - 「「自社データの名寄せをしたいけれど、進め方に不安がある」「データ分析の専門家の知見を取り入れたい」という方は、データ業務の実績豊富な弊社、データビズラボにお気軽にご相談ください」（https://data-viz-lab.com/name-collection）
+  - 「貴社の課題や状況に合わせて、名寄せの進め方をご提案させていただきます」（https://data-viz-lab.com/name-collection）
+  - 「名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説 - GENIEE's library」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「名寄せとは？その意味やデータ統合に向けた具体的な進め方を解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
 - 突き合わせ・推定：
-  - 「同一顧客かどうかの判定は、氏名・住所・電話番号・メールアドレスといった属性データを突き合わせて行います」（https://sharebook.mybridge.com/blog/article13）
-  - 「共通の顧客IDがあればIDで突合できますが、部署やシステムが分かれていると使えないこともあるため、属性データによる照合が中心になります」（https://sharebook.mybridge.com/blog/article13）
-  - 「照合キーにはならないが、統合後に顧客単位で正しく紐付けるべき情報」（https://sharebook.mybridge.com/blog/article13）
-  - 「照合に使う項目（氏名、会社名、住所、電話番号など）と、統合後に活用したい項目（購買履歴、商談履歴など）を区別して整理します」（https://sharebook.mybridge.com/blog/article13）
-  - 「抽出したデータは、そのままでは表記のばらつきが原因で正しく照合できません」（https://sharebook.mybridge.com/blog/article13）
-  - 「5.7 統合後の精度と業務への影響を検証する」（https://sharebook.mybridge.com/blog/article13）
-  - 「統合が完了したら、想定した精度で名寄せができているかを検証します」（https://sharebook.mybridge.com/blog/article13）
-  - 「ずれが見つかった場合は、ルールを修正して再度照合します」（https://sharebook.mybridge.com/blog/article13）
-  - 「判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます」（https://sharebook.mybridge.com/blog/article13）
-  - 「データ件数が増えるほど前処理や確認の工数は大きく膨らむため、事前調査からルール設計、検証までを含めた計画的なスケジュール管理が欠かせません」（https://sharebook.mybridge.com/blog/article13）
-  - 「ただし判定根拠が分からないため、なぜ統合されたのかを後から検証できません」（https://sharebook.mybridge.com/blog/article13）
-  - 「あわせて、誤統合が発生した場合の修正対応と成果物の検証方法を契約前に明確にしておくことが重要です」（https://sharebook.mybridge.com/blog/article13）
-  - 「名寄せとは、氏名・住所・電話番号・法人番号など複数の項目を照合し、同一人物や同一企業を識別して顧客データを統合する作業です」（https://sharebook.mybridge.com/blog/article13）
-  - 「「どれだけ客観的に検証できるか」、つまりオラクルの有無で並べる」（https://note.com/zephel01/n/n42f04bb3e886）
-  - 「指示追従は、文字数・JSON妥当性・正規表現みたいにプログラムで検証できる制約なら、judge なしで完全に客観判定できる」（https://note.com/zephel01/n/n42f04bb3e886）
+  - 「名寄せとは、複数のデータを突き合わせ、重複や不整合を取り除き、同一対象の情報を整理・統合して整合性の取れたデータを構築する作業のことです」（https://data-viz-lab.com/name-collection）
+  - 「データマッチングは、異なるデータベース間で共通項目を照合し、同一人物・同一企業を特定する工程です」（https://data-viz-lab.com/name-collection）
+  - 「どのシステムや部門のデータを統合するのか、どの項目を基準に照合するのかを定義しましょう」（https://data-viz-lab.com/name-collection）
+  - 「たとえば、顧客データの名寄せであれば、氏名・住所・電話番号・メールアドレスといった照合に必要な項目を選定します」（https://data-viz-lab.com/name-collection）
+  - 「氏名や住所、電話番号などの一致率を基準に照合し、同一と判断されたレコードを1件にまとめます」（https://data-viz-lab.com/name-collection）
+  - 「完全一致だけでなく、類似度の高いデータを突き合わせることで、表記の揺れや入力ミスにも対応できます」（https://data-viz-lab.com/name-collection）
+  - 「統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です」（https://data-viz-lab.com/name-collection）
+  - 「たとえば、VLOOKUP関数やCOUNTIF関数を使えば、同一データの抽出や照合が可能です」（https://data-viz-lab.com/name-collection）
+  - 「これらの技術を用いることで、単純な文字列の一致にとどまらず、意味的な類似性や文脈を踏まえた照合が可能になります」（https://data-viz-lab.com/name-collection）
+  - 「また、名寄せに使用する照合ルールやマッチング方式も事前に検討しておく必要があります」（https://data-viz-lab.com/name-collection）
+  - 「さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します」（https://data-viz-lab.com/name-collection）
+  - 「個人顧客であれば氏名・住所・電話番号・メールアドレスが主な照合項目となり、法人顧客であれば企業名・法人番号・部署名・担当者名が対象になります」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「マッチングでは、どの項目を照合キーとして使うか（マッチングキーの設計）と、どの判定方式を使うかの2点が重要です」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「大量のデータを手作業で照合するには限界があり、担当者が変わるたびに品質がばらつくという問題も生じます」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「項目ごとに固有の表記ゆれパターンがあり、どれを照合に使うかで精度が変わります」（https://salesnow.jp/media/124/）
 - 一次情報の探し方：
+  - 「統合後は、どのデータを採用したのか履歴を残し、検証可能な状態を維持することが重要です」（https://data-viz-lab.com/name-collection）
+  - 「完全一致・部分一致・あいまい一致など、どの基準を採用するかを明確にし、データ特性に合った手法を選ぶことが精度向上につながります」（https://data-viz-lab.com/name-collection）
+  - 「需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「公的な法人番号は「法人」に対して付与される番号のため、法人格を持たない事業体や、同一法人内の部署・拠点単位までは区別できません」（https://salesnow.jp/media/124/）
+  - 「SalesNowはこの粒度差を埋めるためにJCコードを採用しています」（https://salesnow.jp/media/124/）
+  - 「：登記された法人に幅広く付与されており、BtoB領域の対象を広くカバーする」（https://salesnow.jp/media/124/）
+  - 「会社情報の更新・従業員数推移・求人出稿状況・ニュース／プレスリリース配信・上場状況という5つの一次データから算出しており、「どの企業が今動いているか」をアプローチ順の判断材料に使えます」（https://salesnow.jp/media/124/）
+  - 「品番が手入力で揺れている、図面番号はあるが版がない、写真ファイル名から個体が追えない、測定値がPDFの画像にしかない、といった欠落はAI以前の課題です」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
+  - 「文書名だけが似ていても、顧客、品番、適用開始条件が一致しない限り審議資料へ自動採用しません」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
   - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「ただし、統計上のばらつきは上昇と下落の両方を含みます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 失敗・落とし穴：
+  - 「こうした誤りは、経営の信頼性にも関わる重大な問題です」（https://data-viz-lab.com/name-collection）
+  - 「各ステップの作業内容と注意点を順に確認します」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「典型的な失敗パターンを把握した上で、継続的に機能させる仕組みをセットで設計することが重要です」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「名寄せの失敗は、大きく4つのパターンに集約されます」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説」（https://geniee.co.jp/media/cdp/whatis-nameidentification/）
+  - 「ここを混同したまま着手すると順序を誤り、どれだけ手を動かしても精度が上がりません」（https://salesnow.jp/media/124/）
+  - 「顧客データ統合とは？進め方5ステップ・ツール比較・失敗例まで解説」（https://salesnow.jp/media/124/）
+  - 「多くの場合、それは「データが汚いから」ではなく「汚いデータのせいで判断を誤った」という具体的な失敗体験です」（https://salesnow.jp/media/124/）
+  - 「どのキーも万能ではないため、注意点とセットで理解しておくことが重要です」（https://salesnow.jp/media/124/）
+  - 「なお、企業データベースに接続していない生成AI単体にCSVを貼り付けて名寄せさせると、表記の似た別社を統合するといった誤りが起こります」（https://salesnow.jp/media/124/）
+  - 「RFPには、案件ID、品番、ロット・シリアル、数量、保留理由、処置コード、承認状態、再検査結果、解除時刻について「どこが正本か」「誰が更新できるか」「どこへ通知するか」「失敗時にどう再送するか」を表にします」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
+  - 「ERPへの解除通知だけ失敗した場合、品質側で解除が承認されていても出荷側は保留を維持し、再送または人手復旧を求めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
+  - 「正常な記録だけでなく、仕様改訂直後、部分数量のみ保留、計測単位違い、再検査の失敗、顧客承認が必要な特採、原本欠落、同一ロットの複数案件を含めます」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
+  - 「情報システム担当者は連携失敗の検知と復旧を受け持ちますが、品質上の保留を勝手に解除する権限は持ちません」（https://tomastc.com/blog/manufacturing-nonconforming-product-disposition-ai-thailand-2026/）
   - 「データクレンジングとの違いや、よくある失敗例も交えて紹介します」（https://sharebook.mybridge.com/blog/article13）
-  - 「とくに注意したいのが、顧客の信頼を損なうミスです」（https://sharebook.mybridge.com/blog/article13）
-  - 「4. 名寄せの対象となる顧客情報と注意点」（https://sharebook.mybridge.com/blog/article13）
-  - 「一意性が高く精度を上げやすいが、ハイフンや国番号、部署ごとの代表番号に注意」（https://sharebook.mybridge.com/blog/article13）
-  - 「5. 失敗しない名寄せの進め方」（https://sharebook.mybridge.com/blog/article13）
-  - 「9. 名寄せでよくある失敗例」（https://sharebook.mybridge.com/blog/article13）
-  - 「大量の名刺を一括処理するコツと注意点も紹介」（https://sharebook.mybridge.com/blog/article13）
-  - 「エクセルでの名刺管理の手順や必要な項目、名刺画像の取込方、楽な入力法といった具体的な方法から、注意すべきポイントなどを解説しています」（https://sharebook.mybridge.com/blog/article13）
-  - 「しかもジャッジを候補モデル自身にすると、自分の出力を高く付ける self-enhancement bias（MT-Bench で報告された傾向）が入る」（https://note.com/zephel01/n/n42f04bb3e886）
-  - 「どの採点器も最後は「成功か失敗か、品質0〜100」という同じ形に正規化して返す」（https://note.com/zephel01/n/n42f04bb3e886）
-  - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「人手に戻る件数と、自動処理に混ざる誤りを、一つの数字で表そうとしないための2軸です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「この条件で自動確定した1,363件では、誤りが観測されませんでした」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「DBに存在しない企業を混ぜる評価では、同じ集計式をそのまま使えない点にも注意が必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「この合成セットでのconfident判定の誤り」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
 - 実例：
-  - 「5.6 マッチング結果を確認してデータを統合する」（https://sharebook.mybridge.com/blog/article13）
-  - 「統合結果を関係部門に共有し、実際の運用で不整合が生じていないかを確認することで、判定ルールが妥当だったかを最終的に見極められます」（https://sharebook.mybridge.com/blog/article13）
-  - 「判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます」（https://sharebook.mybridge.com/blog/article13）
-  - 「営業・マーケティング・情報システムのいずれかが主導するケースが多いですが、部署をまたいでデータを使う以上、単独では判断基準がずれます」（https://sharebook.mybridge.com/blog/article13）
-  - 「もっともらしく誤った統合が行われるほか、行のズレによる誤統合の事例も報告されており、最終判断は必ず人が確認する運用が前提です」（https://sharebook.mybridge.com/blog/article13）
-  - 「自動確定できた割合と、自動確定した結果の正しさを分けて測ること」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「公開している合成データ2,000件のベンチマークを使い、指標の分母、曖昧な入力の採点、測定結果の読み方を整理します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「正解を付けた評価データに適用して、結果を測る必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「正解データを作るときには、入力だけでは一社に決められないケースも考える必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「合成2,000件の測定結果を読む」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「ここからは、2026年7月20日付の結果JSONに記録された測定値です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「一方、公開している閾値カーブには、候補のスコアに別の閾値を当てた比較結果もあります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「これは候補のスコアを使った事後分析であり、本番の設定を変えて測り直した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「閾値を選ぶ材料にはなりますが、0.85が最適だと示した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「顧客データの重複や不整合によって、営業の連携ミスや分析結果のゆがみが生まれてしまう――こうした課題を抱える企業は少なくありません」（https://data-viz-lab.com/name-collection）
+  - 「最新情報が反映されず分析結果が不正確になるリスク」（https://data-viz-lab.com/name-collection）
+  - 「企業では、顧客情報や取引先情報などをさまざまなシステムで管理しているケースが多く、同じ顧客が別のIDや表記で登録されていることがあります」（https://data-viz-lab.com/name-collection）
+  - 「BtoB企業では、同一グループ内の複数拠点が個別に管理されているケースが多く、企業単位での正確な名寄せが営業や分析の効率を左右します」（https://data-viz-lab.com/name-collection）
+  - 「結果として、営業担当が同じ顧客に重複してアプローチしたり、別の部署が異なる情報を基に対応したりといった混乱が起こります」（https://data-viz-lab.com/name-collection）
+  - 「たとえば、SFA上では最新の担当者情報に更新されているのに、請求システムでは古い担当者のままになっているようなケースです」（https://data-viz-lab.com/name-collection）
+  - 「結果として、請求書の誤送付や確認作業の手戻りが発生し、業務効率が大きく損なわれます」（https://data-viz-lab.com/name-collection）
+  - 「たとえば、「株式会社」と「(株)」を統一したり、「東京」と「TOKYO」のような表記の違いを修正したりするケースがあります」（https://data-viz-lab.com/name-collection）
+  - 「名寄せでは、顧客の住所や氏名などの個人情報を扱うケースが多く、適切なセキュリティ対策が求められます」（https://data-viz-lab.com/name-collection）
+  - 「さらに、名寄せの結果を検証し、どの部分で誤判定や漏れが起きたかを分析して改善を重ねることで、品質は徐々に向上します」（https://data-viz-lab.com/name-collection）
+  - 「機械的な判断では対応しきれない曖昧なデータや、特例的なケースが存在するため、人の目による最終確認が欠かせません」（https://data-viz-lab.com/name-collection）
+  - 「たとえば、AIが高確率で同一と判断しても、実際には異なる顧客だったというケースがあります」（https://data-viz-lab.com/name-collection）
+  - 「しかし、業務の仕組みやデータ管理の状況によっては、早急に取り組むべきケースがあります」（https://data-viz-lab.com/name-collection）
+  - 「長期間にわたってデータを蓄積している企業では、古い情報と最新の情報が混在しているケースが少なくありません」（https://data-viz-lab.com/name-collection）
+  - 「この状態で名寄せを行わずに分析やマーケティングを実施すると、実際の状況と乖離した結果が出てしまいます」（https://data-viz-lab.com/name-collection）
 
 ## 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）（analytic standards change in analytic judgment explain what changed ICD 203 tradecraft）
 - 文脈：書き方
@@ -5865,7 +5865,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -5984,6 +5984,12 @@
 ## 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務（company entity resolution registry identifiers name changes branches dissolved）
 - 文脈：同一性
 - 手順・やり方：
+  - 「Company Entity Resolution: How to Match Legal Entities Globally (200+ Countries) - globaldatabase.com」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Company Entity Resolution: How to Match Legal Entities Globally (200+ Countries)」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Five steps, each one inspectable」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「compare each attribute with the method suited to it, combine the results into a score, and keep the agreeing and disagreeing attributes alongside it.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「08How to Evaluate Entity Resolution Software and Providers」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -5993,15 +5999,15 @@
   - 「Altss Entity Resolution Methodology | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「Matching methods used to find candidate pairs, and the limits on what they may decide.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「LP/GP Relationship Intelligence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Identity verification for anti-money-laundering or know-your-customer purposes. This methodology resolves records for research; it is not a regulated verification process.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「The same identifier quoted on the subject's own website has origin DISCLOSED; quoted by another party, OSINT_SOURCED; supplied in a licensed dataset, LICENSED_THIRD_PARTY. None of these merges records until the identifier is found in the issuing register (5.6, step 5).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「5. Method」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「5.6 Resolution steps.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「. This methodology does not publish numeric matching thresholds: the rule above states which evidence is admissible, not a calibrated score. Collection and publication of personal data are additionally limited by privacy law.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 突き合わせ・推定：
   - 「Revenue and employee estimates」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
 - 一次情報の探し方：
+  - 「merges two different companies: one company's insolvency or adverse filing is attributed to the wrong counterparty, and decisions get made on someone else's data.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Resolve each legal entity, then link them through ownership filings」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「resolved entities change status, names, officers and owners. Watch the register and re-resolve when a material filing appears, with」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Deduplication solves the row; linkage solves the roll-up. Once each record points at the right legal entity, ownership filings connect subsidiaries to parents, so exposure, spend or risk can be totalled at group level. Under OFAC's 50 Percent Rule, set out in」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「the subsidiary and parent are linked through the shareholder filing, and both are monitored for status, officer and ownership changes.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Continuously, if possible. In the UK alone, 801,864 companies were incorporated and 726,735 dissolved in the year to March 2025. Names, statuses, officers and owners change, so resolved records should be monitored against the register and re-resolved when a material filing appears.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -6011,15 +6017,16 @@
   - 「No public IRS register among the sources cited; taken from a filing that states it」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「4.2 Filings that establish identity.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「A registry identifier retrieved from the issuing body's own system (the Global LEI Index, EDGAR, BrokerCheck or IAPD, SIRENE, the Companies House register), or from a filing on a regulator's system that states it, has origin REGULATORY_PUBLIC_RECORD and derivation OBSERVED.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「a filing or registry record names both as one entity (4.2).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Every merge records the surviving record, the absorbed record, the identifier or filing that justified it, the actor and the date. The absorbed record's identifier is kept and resolves to the surviving record. A merge with no recorded justifying identifier or filing is a defect. Any merge can be undone: the unmerge restores both records, and each claim returns to the record its evidence supports.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Filing or registry record naming both as one entity, or listing both identifiers as one filer's own」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Kept separate, not merged; identity only if a register or filing links both to one entity」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Private family entities, foreign entities outside accessible registers and informal groups may carry none. Their records are kept separate, related where evidence supports it, and merged only when an identifier or naming filing appears. The correct number of merges without such evidence is zero.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 失敗・落とし穴：
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
+  - 「The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Illustrative example: the KYC record from the top of this guide against the subsidiary」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Setting thresholds by use case」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Thresholds are set per use case: a sanctions check tolerates fewer false negatives than a marketing list.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「07A Worked Example」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Illustrative example · fictitious company」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
+  - 「Deterministic matching uses exact rules, for example the same registration number and jurisdiction means the same company. Probabilistic matching combines several partial signals, such as name similarity, address, officers and domain, into a score and compares it with thresholds. Good systems apply deterministic rules first and score the rest.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -6028,13 +6035,6 @@
   - 「Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Strip legal-form suffixes, punctuation and case; transliterate scripts; expand common abbreviations. Normalised strings are used only to compare. The names as stated in sources are kept. See」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「A unique identifier that clearly refers to the same individual in both records: for example an individual's CRD number (the CRD system holds the registration records of individuals associated with broker-dealers, and investment adviser representatives are registered through it), or a unique canonical identifier issued by the source for that individual.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Where the evidence is insufficient or conflicting, the records stay separate. Records are never merged to make a profile look more complete. Ambiguous cases with a high impact, such as a senior decision-maker at an allocator, go to research review before any merge, and the review is recorded under the validation rules of the」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「11. Worked examples」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Example 1: two pension systems sharing a domain family (illustrative).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Example 2: a fund and its adviser.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Example 3: a rename.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 検索結果の抜粋：
   - 「Frequently Asked Questions - California Secretary of StateEntity Resolution Explained: Matching Company Records Across ...Entity Resolution Without Fuzzy Matching: How Registry ...Tracking Entity Name Changes Across State SOS DatabasesHow to Verify a Business Was Dissolved & Get ProofTrack Entity Name Changes Through SOS Records — A business entity can be formed in California online at bizfileOnli」（https://www.sos.ca.gov/business-programs/business-entities/faqs）
 
@@ -7321,36 +7321,36 @@
 - 文脈：突き合わせ・推定
 - 手順・やり方：
   - 「データ統合技術とは？主要7手法の選び方と導入5ステップを解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/data-integration-technology）
-  - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「まずは、そのような制御しやすい使い方から始めたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「私としては、取得方法やアクセス頻度を決める手順と、集めた文章・図をチャートにどのように掲載するかを確認する手順を、別々に設けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「## 0. 使い方」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「材料・組成（MATERIAL）／工程（STEP）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- クレームカテゴリ（物／方法／プログラム／システム／製造方法）を判定し、方法クレームの場合は」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 方法クレームの実施主体の仮置きが実態と合うか」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 特許法101条（間接侵害）の検討に必要な材料：クレームの物・方法の「生産にのみ用いる物」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 方法クレームの分割実施（divided infringement, Akamai）の可能性がある場合、指揮・管理の関係が」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「3. 規格・認証・型番の手がかり（該当し得る規格名、認証マーク、チップの型番、インタフェース名）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「1. 要件ごとの語彙表（下位概念／業界用語／規格・型番の手がかり／機能の見え方／反対証拠の表現）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「データ統合の問題とは？よくある7つの課題と解決手順を解説」（https://data-viz-lab.com/data-integration-issues）
+  - 「本記事では、データ統合でよくある7つの問題を3領域に分けて整理し、解決までの6ステップや統合方式の判断基準、失敗パターンと回避策を解説します」（https://data-viz-lab.com/data-integration-issues）
+  - 「データ統合の問題を解決する進め方6ステップ」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP1：現状診断：データソースと問題箇所の棚卸し」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP2：目的とスコープの定義：統合対象と優先順位の決定」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP3：データ定義の標準化：コード体系・項目定義・マスタの統一」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP4：データクレンジング：表記ゆれ・欠損・不正値の是正」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP5：名寄せと重複排除：標準化後に同一エンティティを統合」（https://data-viz-lab.com/data-integration-issues）
+  - 「STEP6：統合基盤への連携と運用ルールの策定：更新と監視の仕組み化」（https://data-viz-lab.com/data-integration-issues）
+  - 「統合の方法は、大きく分けて物理統合と論理統合の2種類です」（https://data-viz-lab.com/data-integration-issues）
+  - 「物理統合はDWHなどの基盤にデータを実際に集めて保持する方法で、分析時の応答速度に優れています」（https://data-viz-lab.com/data-integration-issues）
+  - 「論理統合はデータを元の場所に置いたまま仮想的に結合する方法で、コピーを持たない分だけ鮮度を保ちやすいのが利点です」（https://data-viz-lab.com/data-integration-issues）
+  - 「データ統合とは？統合の目的や初心者向けの進め方を解説」（https://data-viz-lab.com/data-integration-issues）
+  - 「営業部門が独自に契約したMAツールの顧客リストを、他部門の誰も把握していないという状況は典型的です」（https://data-viz-lab.com/data-integration-issues）
 - 突き合わせ・推定：
   - 「本当に必要なのは、自社の用途から逆算して手法を組み合わせるための判断軸です」（https://data-viz-lab.com/data-integration-technology）
   - 「基本プロセス：抽出・マッピング・変換・検証・ロード・同期の流れ」（https://data-viz-lab.com/data-integration-technology）
-  - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「2．技術的なポイントは、分解・検索・引用検証の3つ」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「したがって、検証は二段階に分けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「クレーム解釈 → 候補発見 → 収集・保全 → 索引・検索 → 要素対比 → 引用検証 → 人のレビュー」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「※本稿は文献・公開情報に基づく設計検討であり、実運用での精度や工数削減を検証した報告ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「P5 証拠箇所抽出 ─▶ P6 要素充足判定 ─▶ P7 グラウンディング検証 ─▶ P8 複数ジャッジ統合」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「`{{OUTPUT_MODE}}=json` とし、付録AのJSONスキーマで構造化出力（またはスキーマ検証）を行う」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これをそのまま結合すると「髙」や「﨑」のような機種依存文字が文字化けし、顧客名の照合に失敗します」（https://data-viz-lab.com/data-integration-issues）
+  - 「このままでは、ある取引先の受注額と入金額を突き合わせるだけで、担当者が手作業で対応表を引く作業が欠かせない状態です」（https://data-viz-lab.com/data-integration-issues）
+  - 「記録先は1か所に決め、処理の追加や変更のたびに更新するルールにしないと、すぐに実態と食い違います」（https://data-viz-lab.com/data-integration-issues）
+  - 「統合前の企業では、経営会議の資料を作るために各部門からExcelを集め、担当者が手作業で突き合わせる作業に月数日かかることも珍しくありません」（https://data-viz-lab.com/data-integration-issues）
+  - 「情報が分断されたままでは、顧客接点が増えるほど対応の矛盾も増えていくのが現実です」（https://data-viz-lab.com/data-integration-issues）
+  - 「手作業の突き合わせが発生している箇所こそ、統合によって最も効果が出る候補です」（https://data-viz-lab.com/data-integration-issues）
+  - 「手作業での突き合わせや転記の有無と、その月間工数」（https://data-viz-lab.com/data-integration-issues）
+  - 「法人であれば法人番号、個人であればメールアドレスのように、一意性の高いキーから順に照合していきます」（https://data-viz-lab.com/data-integration-issues）
+  - 「条件を満たしやすい例としては、営業部門と経理部門にまたがる売上と入金データの突き合わせが挙げられます」（https://data-viz-lab.com/data-integration-issues）
+  - 「この領域は関係部門が2つで済み、突き合わせの工数を削減時間としてそのまま示せます」（https://data-viz-lab.com/data-integration-issues）
+  - 「手作業による集計や突き合わせが月20時間以上発生している」（https://data-viz-lab.com/data-integration-issues）
+  - 「「品質が悪い」という感覚的な評価のままでは改善の優先順位が決められず、対策の効果も検証できません」（https://data-viz-lab.com/data-integration-issues）
+  - 「正確性：マスタとの照合で不一致となったレコードの割合」（https://data-viz-lab.com/data-integration-issues）
 - 一次情報の探し方：
   - 「対象はSFAや会計システムなどの業務システムに加え、Excelファイル、Webのアクセスログ、外部の統計データまで含まれます」（https://data-viz-lab.com/data-integration-technology）
   - 「ストリーミングは構築・運用の難易度が7手法の中で最も高いため、秒単位の反応が本当に必要な用途に限定して採用するのが賢明です」（https://data-viz-lab.com/data-integration-technology）
@@ -7384,21 +7384,21 @@
   - 「この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
-  - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「検索エージェントを評価するBrowseComp-Plusの研究でも、同じLLMに組み合わせる検索器を変えることで、結果が大きく変わる例が報告されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「例えば、クレームの抽象的な用語をそのまま検索するだけでなく、「メーカーなら、この機能をどう説明するか」を考えて検索語をつくるイメージです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「実務上の表示は、例えば次のようにしたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「例えばPatlyticsの公式資料では、公開情報や製品文書を探索し、構成要件単位のクレームチャートを作成する機能、証拠のスナップショット保存、Word・Excelへの出力などが紹介されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「個別に検討し、検討結果を明記する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「分解結果はP3〜P10のすべてで参照されるため、G1で人が確定させてから先に進む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- **チャット（手動）**：弁理士が検索結果や候補ページの本文を貼り、同じシステムプロンプトで整理させる」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「私が検索結果やページ本文を貼りますので、」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「判定の手順（要件ごとに必ずこの順で検討し、検討結果を出力する）：」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「在庫照会のように最新値が求められる用途では、論理統合を採用するケースが多く見られます」（https://data-viz-lab.com/data-integration-issues）
+  - 「部門ごとに最適なシステムを選んできた結果、データが部門の中に閉じて横断的に使えない状態を」（https://data-viz-lab.com/data-integration-issues）
+  - 「現場でよくあるのは、社内で使われているSaaSの数を誰も正確に把握していないケースです」（https://data-viz-lab.com/data-integration-issues）
+  - 「PoCの段階では手作業で整えたデータで精度が出ても、本番で最新データを自動連携した途端に精度が落ちる事例は少なくありません」（https://data-viz-lab.com/data-integration-issues）
+  - 「APIが存在せず、データを取り出す手段が夜間に出力される固定長ファイルだけというケースも珍しくないのが実情です」（https://data-viz-lab.com/data-integration-issues）
+  - 「その結果、「在庫がマイナスになっている」といった実態とかけ離れた数値が出て、データそのものへの信頼が損なわれます」（https://data-viz-lab.com/data-integration-issues）
+  - 「文書には判断の期限と結果の共有方法まで記載しておくと、後から議論が蒸し返される事態を防げます」（https://data-viz-lab.com/data-integration-issues）
+  - 「両方を備えた人材は社内に少なく、結果として特定の1〜2名に作業が集中しがちです」（https://data-viz-lab.com/data-integration-issues）
+  - 「棚卸しでは、各部門の担当者に15〜30分のヒアリングを行い、結果をスプレッドシートの一覧表にまとめます」（https://data-viz-lab.com/data-integration-issues）
+  - 「棚卸しの結果をもとに、統合の目的と対象範囲を決めます」（https://data-viz-lab.com/data-integration-issues）
+  - 「標準化で現場がつまずきやすいのは、全部門の合意を待って作業が止まってしまうケースです」（https://data-viz-lab.com/data-integration-issues）
+  - 「標準化前に名寄せした場合と比べて、候補件数が半分以下に減るケースもあります」（https://data-viz-lab.com/data-integration-issues）
+  - 「成果が見えないまま1年以上が経過すると、経営層の関心が薄れ、プロジェクトが縮小されるケースが少なくありません」（https://data-viz-lab.com/data-integration-issues）
+  - 「現場でよくあるつまずきは、データスチュワードを任命したものの、本来業務との兼任で作業時間が確保されないケースです」（https://data-viz-lab.com/data-integration-issues）
+  - 「指標ごとに目標値と測定方法を決め、誰が測っても同じ結果になる状態にしておくのが前提です」（https://data-viz-lab.com/data-integration-issues）
 
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
