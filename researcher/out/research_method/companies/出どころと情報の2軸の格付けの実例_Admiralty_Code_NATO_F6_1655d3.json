@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-07T02:07:44.536049+00:00",
+ "researched_at": "2026-11-07T07:31:18.024834+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -338,32 +338,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "Filing history and accounts consistent",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Register shows active status and recent filing",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
@@ -473,43 +447,64 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filing history and accounts consistent",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Register shows active status and recent filing",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/poncorocoro/n/n444668066be4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jpnca/n/n5bed3a92cb08",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/poncorocoro/n/nd71662d63db8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/poncorocoro/n/n0c7829aee1af",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/poncorocoro/n/n591851fd08c3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/poncorocoro/n/n40205124e2b9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://en.wikipedia.org/wiki/Admiralty_code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://h3ad-sec.github.io/H3AD-REF/references/admiralty-code-tlp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
     "status": "ok",
     "method": "http"
    },
@@ -524,7 +519,7 @@
     "method": "http"
    },
    {
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "url": "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
     "status": "ok",
     "method": "http"
    },
@@ -543,19 +538,19 @@
  "search_log": [
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） site:note.com",
-   "results": [
-    "https://note.com/poncorocoro/n/n444668066be4",
-    "https://note.com/jpnca/n/n5bed3a92cb08",
-    "https://note.com/poncorocoro/n/nd71662d63db8",
-    "https://note.com/poncorocoro/n/n0c7829aee1af",
-    "https://note.com/poncorocoro/n/n591851fd08c3",
-    "https://note.com/poncorocoro/n/n40205124e2b9",
-    "https://note.com/yama_note_365/n/n83fb14e8bce1"
-   ]
+   "results": []
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note",
-   "results": []
+   "results": [
+    "https://en.wikipedia.org/wiki/Admiralty_code",
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "https://h3ad-sec.github.io/H3AD-REF/references/admiralty-code-tlp.html",
+    "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
+    "https://www.lioncipherlabs.com/labs/gs-grade-sources-with-the-admiralty-system"
+   ]
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） やり方",
@@ -572,60 +567,42 @@
     "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
     "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
     "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
     "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "https://sabujkundu.com/reliability-credibility-importance-confidence-in-osint-software-a-complete-guide/",
-    "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters"
+    "https://sabujkundu.com/reliability-credibility-importance-confidence-in-osint-software-a-complete-guide/"
    ]
   },
   {
    "query": "site:note.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
-    "https://note.com/poncorocoro/n/n444668066be4",
     "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
     "https://note.com/poncorocoro/n/n591851fd08c3",
+    "https://note.com/poncorocoro/n/n40205124e2b9",
     "https://note.com/yama_note_365/n/n83fb14e8bce1",
-    "https://note.com/ibdginza/n/n3b7073d4cae7"
+    "https://note.com/poncorocoro/n/n444668066be4"
    ]
   },
   {
    "query": "site:x.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
     "https://x.com/grok/status/2113953616864145785",
-    "https://x.com/deepone5950/status/1988706349769973775",
-    "https://x.com/RAY2rkk/status/2099754836527112314",
-    "https://x.com/K_Ichida/status/2109057387998978372",
-    "https://x.com/grok/status/2098669509930267082",
-    "https://x.com/JASDF_PAO/status/1158295719079366656",
+    "https://x.com/admiralty_code_",
+    "https://x.com/saltydog16411/status/1765587341857767840",
     "https://x.com/HarryFurumura/status/2099314785573908526",
-    "https://x.com/admiralty_code_"
+    "https://x.com/JASDF_PAO/status/1158295719079366656",
+    "https://x.com/grok/status/2098669509930267082",
+    "https://x.com/mutamana/status/2098031046625571167"
    ]
   },
   {
    "query": "site:linkedin.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
-   "results": [
-    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
-    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://www.linkedin.com/posts/alwynswart-fulcrumanalytics_the-nato-admiralty-score-how-to-rate-your-activity-7421136893293068288-Q--Q",
-    "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
-    "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr",
-    "https://fr.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=fr",
-    "https://jp.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=ja"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
-   "results": [
-    "https://www.facebook.com/pressajp/posts/英スターマー首相わが国の情報機関および他のnato諸国の評価によれば早ければ2030年にもロシアがnatoを攻撃する可能性があるウクライナ戦争であれだけ損耗して/1545010880314794/",
-    "https://www.facebook.com/Rinya.Watanabe/posts/iphone-と-ipad-が機密-nato-情報の取り扱いに承認されましたドイツ政府による厳格なセキュリティテストと広範な評価を経てiphone-と-ipad/3833355320301447/",
-    "https://www.facebook.com/M.Fudano/photos/ウクライナ紛争の概略ゼレンスキー氏は空爆されてもなぜ強気なのか米国主導のnato東方拡大は軍事的にも制度的にも進められておりプーチン大統領がそれを政治的な動きと/1585737852805606/",
-    "https://www.facebook.com/AVIO.KNOWLEDGE/posts/aviation-phonetics-when-every-letter-mattersin-aviation-communication-must-be-cl/1683364123830070/",
-    "https://www.facebook.com/pressajp/posts/ウォールストリートジャーナルがアメリカの情報機関の分析としてロシアのプーチン大統領がnatoの結束を試すためことしの秋から3年後の2029年にかけて加盟国を攻撃/1597618698387345/",
-    "https://www.facebook.com/reel/2587588821653462/",
-    "https://www.facebook.com/nihonmatsu/photos/ご指摘ありがとうございます重要な論点だと思いますただこの点については国連憲章の解釈と実務運用に整理が必要ですまず国連憲章51条は加盟国に限定しない形で自衛権を規/25216311174644424/",
-    "https://www.facebook.com/CNNcojp/posts/米情報機関は最近ロシアのプーチン大統領が今後数年のうちに北大西洋条約機構nato加盟国に限定的な攻撃を仕掛けnatoの決意を試そうとする可能性があるとの分析をま/1729003415897983/"
-   ]
+   "results": []
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note 社長",
@@ -633,7 +610,15 @@
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） X 投稿",
-   "results": []
+   "results": [
+    "https://en.wikipedia.org/wiki/Admiralty_code",
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "https://www.lioncipherlabs.com/labs/gs-grade-sources-with-the-admiralty-system",
+    "https://yasashii-cybersecurity.com/dema_check_prompt/"
+   ]
   },
   {
    "query": "Admiralty code source reliability information credibility grading OSINT practice examples site:linkedin.com",
@@ -641,17 +626,17 @@
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
     "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
     "https://pe.linkedin.com/pulse/trust-your-gpt-verify-how-osint-analysts-can-outwit-crowden-cco-ccpa-j3b0e",
+    "https://pe.linkedin.com/pulse/intelligence-source-grading-ensuring-reliability-critical-mcquade-lgs1c",
     "https://www.linkedin.com/posts/forensicosint_matthias-wilsonrecently-shared-a-practical-activity-7333477156246667266-FlIV",
-    "https://www.linkedin.com/posts/chintangurjar_threatintelligence-osint-cybersecurity-activity-7245197389475594241-1XF4",
     "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
-    "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr"
+    "https://www.linkedin.com/posts/chintangurjar_threatintelligence-osint-cybersecurity-activity-7245197389475594241-1XF4"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ11頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T09:11:14.119716+00:00"
 }

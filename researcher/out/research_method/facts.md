@@ -92,38 +92,45 @@
 ## 複数の情報源を突き合わせる三角測量（トライアンギュレーション）（triangulation multiple sources research）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量とは、複数の視点から現象を検討する手法であり、結論が単一の情報源、単一の方法、単一の分析者、あるいは単一の理論のみに依存しないようにするものです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「いかなる単一の証拠収集方法にも特有の盲点があり、それらの盲点はランダムに発生するものではありません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量は通常、妥当性を高めるためのもの（同じことを2つの方法で検証し、答えが一致すればより確信を持てる）として喧伝されます」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「は、異なる方法が現象の異なる側面を明らかにするため、その目的は検証ではなく、より全体的な像を描くことにあるとします」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「異なる方法は、」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「他の方法を使用することでは明らかにできない現象の側面を明らかにする」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「方法論のセクションでそう述べることは、あなたがその違いを理解していることを示します" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「そうではなく、それぞれの方法がどのような位置づけで観察していたのかを問いかけてください」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「ここでの異議は、検証としての三角測量が、複数の方法が収束する「単一の客観的現実」を前提としている点にあります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「1回はデータ収集方法において、もう1回は信頼性を高めるためのテクニックとしてです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「<CTA title="擁護可能な方法論セクションを書く" description="章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「プロンプト構造化（RCOSフレームワーク）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「プロンプトの工夫、ロールの付与、定型文の自動化、悪魔の代弁者モード――」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「３つのAIに異なる立場で議論させる（法廷型）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「法廷型ディベートモデル「PROClaim」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「LLM-as-a-Judge（裁判官としてのLLM）フレームワーク」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」により、詳細な手順を指示しなくても高精度なタスク達成が可能です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「■ 「LLM審判」実装の３ステップ」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「これを個人の意思決定に応用する最もシンプルな方法が、以下の３ステップです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ１】１つのAIで応答を生成する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ２】その応答をコピーし、別のAIに評価させる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ３】評価結果を踏まえて、再質問する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ１】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ２】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【ステップ３】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【テクニック２】 ３つのAIを「議論」させる 法廷型ディベート」（https://note.com/tomohiko_naba/n/n45c8146428ce）
 - 突き合わせ・推定：
-  - 「解説 三角測量に由来する (triangulation)」（https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html）
-  - 「それは、「質的研究におけるトライアンギュレーション」について、「三角測量(triangulation)な見方が必要である」といったような抽象的なレベルを超えて、「複数の評定者がどの程度類似した判定をしていて、それはどのような判定か」あるいは「どの程度多様な評定があり、それはどのような内容か」を数理的に明確に把握することが可能となるからです」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量（トライアンギュレーション）は測量法にその名を由来しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「<CTA title="データと主張の整合性を保つ" description="Jenniは、すべての主張がデータに裏付けられているかどうか、下書き、引用、検証をサポートします" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量（トライアンギュレーション）とは？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量とは、複数の視点から現象を検討する手法であり、結論が単一の情報源、単一の方法、単一の分析者、あるいは単一の理論のみに依存しないようにするものです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「デンジンによる4つの三角測量のタイプ」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「データの三角測量 (Data triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「調査者の三角測量 (Investigator triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「理論の三角測量 (Theory triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「【テクニック１】メタ・クロスチェック」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【テクニック４】真実の三角測量」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「複数LLMエージェントによる議論検証「DebateCV」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「知的誠実さが極めて高く、論理的な矛盾を突く能力に長けています」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」（Constitutional AI）による自己検証能力により、ユーザーへの忖度が最も少ないのが特徴です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「シコファンシー対策での役割】最新データ照合」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「まずはClaudeにアイデアを投げ、「前提の矛盾」や「隠れたリスク」を徹底的に洗い出させます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【テクニック１】 メタ・クロスチェック」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「■ なぜ「別のAI」によるクロスチェックが必要なのか？」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「なぜ、1つのAIに「自分の回答を見直して（Self-Criticism）」と指示するのではなく、わざわざ「別のAI」にクロスチェックさせる必要があるのでしょうか？」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「１つのAIの追従を、別のAIの批判で中和する――これが「メタ・クロスチェック」の核心です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「■ 上級者の応用 「双方向メタ・クロスチェック」」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「■ DebateCV（2025年） 議論駆動型検証」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」（真実を議論する：複数の大規模言語モデルエージェントによる議論駆動型主張検証）は、複数のLLMに議論させて情報の真偽を検証するフレームワーク「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「単一のLLMは複雑で多面的な事象の検証に弱い」（https://note.com/tomohiko_naba/n/n45c8146428ce）
 - 一次情報の探し方：
+  - 「３つのうち「多数派の判断」を、初期仮説として採用する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「最も感度の高いセンサーが１つでも反応したら、それに従う」のが統計的・論理的な最適解」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」で平均化・相殺し、機械学習の理論に基づいて統計的な信頼性を飛躍的に向上させるアプローチです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「最新の一次情報を持つ「人間の専門家」にも相談」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「1990年代に統計学者レオ・ブライマン（Leo Breiman）が提唱したバギング（Bagging）が祖先的概念です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「最もシンプルな実装は多数決（Majority Voting / メジャリティ・ボーティング）で、３つのAIに同じ質問を投げ、多数派の判断を採用します」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「（コンテキスト長増加による応答品質の劣化）も避け、AI同士の議論が統計的に安定したと判定された時点で停止します」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「レーション」という用語を採用した理由について説」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「のデータを集めた上で統計的に処理することによっ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
@@ -132,47 +139,41 @@
   - 「そして，経験科学が採用している因果法則とい」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「（量的アプローチ）を採用してクラスを扱うとき」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「研究者は、様々な方法、データソース、視点を採用することで、調査結果を確認し、結論が一貫していることを確認することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量を採用するかどうかを選択する際、研究者は研究の背景、目的、利用可能な資源、研究テーマの性質を慎重に評価すべきである」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「調査は、統計的に評価できる量的情報を提供し、さまざまな質的情報源と組み合わせることができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「結果を包括的かつ透明性をもって提示し、データ源と採用した分析プロセスを明らかにする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「この科目を担当していたのは、このプログラムの生徒の授業時間の大部分を、進路指導部の教員がカバーする必要があったため、学校側が採用した措置でした」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www. psicothema.com/pdf/3429.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.revistaeducacion.educacion.es/re356/re356_08.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
 - 失敗・落とし穴：
-  - 「注意点は、各評定者におけるM11,M12などのラベルは、名称は同じでも、そのラベルに含まれるカードは必ずしも同じではないことです」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「なお、各評定者による三つのケーススコア軸{RE1,RE2,RE3}および{KA1,KA2,KA3}および{ON1,ON2,ON3}について、それぞれ{ }内の組み合わせによる相関は原理的にはゼロですが、以下の表では計算誤差のため必ずしもゼロとなっていないので注意」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「Common Mistakes in Mixed Methods Research」（https://atlasti.com/guides/the-guide-to-mixed-methods-research/triangulation-in-mixed-methods-research）
-  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「This helps to reduce the risk of relying on a single source that may be biased or incomplete.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「. A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「What are Bias in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「In short, researcher triangulation democratizes the research process. It helps to avoid biases and limitations and also increases data reliability as opposed to using just one single researcher.」（https://delvetool.com/blog/researcher-triangulation）
-  - 「provide constructive feedback and help identify possible errors, biases, or oversights.」（https://delvetool.com/blog/researcher-triangulation）
+  - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】｜なば」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「上記を踏まえると、シコファンシーの罠を抜け出すための「３つのAI使い分け」は、以下のリレー形式が基本となります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「ただし、無料プランは入力データがAIの学習に利用される可能性があるため、機密情報の取り扱いには十分注意してください」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」（Self-enhancement bias）といった、AI特有の新たなバイアスが生じてしまうのです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「に「これで本当に正しいか？」とチェックさせても、同じバイアスの「合わせ鏡」の中で肯定し合ってしまう危険性があります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「同論文でも、こうしたAI審判のバイアスを緩和する最も有効な戦略の一つとして、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「異なるモデルは、それぞれ全く異なる種類のバイアスの弱点を持つ」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「という「第三者の審判」に持ち込んで初めて、その隠れた追従性や見落とし（共通バイアス）を客観的にあぶり出すことができるのです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「AIは与えられた役割（ポジション）にアンカリング（固執）しがちですが、役割を交換してもなお「同じ結論」（判決）に収束した場合、それはAIのバイアスではなく「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「「ダニング・クルーガー効果の罠」を、AI同士の監視の連鎖によって強制的に克服する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「「１つのAI」に単独で判定を任せるより、異なる個性とバイアスを持つ「多様なモデルのパネル」（複数AIの集合）を利用した方が、はるかに客観的で信頼性の高い結果が得られる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「先ほど確認した通り、ChatGPT、Claude、Geminiはそれぞれ異なる個性とバイアス（追従の方向性）を持っています」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「1. 私の確証バイアスを中和する仕組み（友人フレーミングなど）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「【テクニック１】で触れたように、異なるAIは異なるバイアスを持っているため、設計者と実行者を分離することで、互いの死角が補完され追従抑制効果がさらに高まります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
 - 実例：
-  - 「その基本は、数量化理論�V類による分析結果を複数の評定者の間で比較するもので、相関係数や因子分析などを用いて数理的に解析を行うことにあります」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「まず評定者ＲＥによる「カード布置」「カードとラベルの対応表」「数量化理論�V類による分析結果」(ラベルについての「カテゴリースコア」、カードについての「カードスコア」)を示します」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「とりあえず、評定者ＲＥと評定者ＫＡの結果を示し、この二名の比較を進めることにします」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「評定者ＫＡによる「カードとラベルの対応表」の分析結果」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「評定者ＲＥと評定者ＫＡの二人について、「カード布置」・「カードとラベルの対応表」・「数量化理論�V類による分析結果」を示しました」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「例えば、以下に示す評定者ＲＥ、ＫＡについてみると、「カテゴリースコア軸」の第１軸から第５軸に対応して、９枚のカード{L1,L2,〜L9}にも、「カードスコア軸」が第１軸から第５軸まで計算されています」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「この第�T軸・第�U軸は、評定者ＲＥとＫＡについて得られている「ラベルの軸構造」(カテゴリースコア)に対応して、「カードの軸構造」(ケーススコア)として算出されていることはすでに述べました」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「相関係数を計算するデータは、数量化理論�V類による「ケーススコア」として得られているもので、以下の数値になっています」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「評定者７名から得られた「ケーススコア」を、７名それぞれ第�V軸まで注目して表示」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「ただし、ケーススコアとして得られた実数値情報を順位に落としてまで計算する必要はないでしょう」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「なお、各評定者による三つのケーススコア軸{RE1,RE2,RE3}および{KA1,KA2,KA3}および{ON1,ON2,ON3}について、それぞれ{ }内の組み合わせによる相関は原理的にはゼロですが、以下の表では計算誤差のため必ずしもゼロとなっていないので注意」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「ケーススコアを類似度を把握するために因子分析を行ってみると、固有値が{1}以上のものが四つあることが分かったので、四つの次元を考えればRE1,RE2,RE3,KA1,KA2,KA3,ON1,ON2,ON3のケーススコアを把握できると考えられます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「ここでは、そのうち、第一次元と第２次元の平面上に、評定者三名のそれぞれ三つずつあるケーススコアをプロットして、それらの類似度あるいは距離をみてみましょう」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「評定者ＲＥによるケーススコア軸に関わる対比的なラベルを取り出しておきます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「【ステップ３】評価結果を踏まえて、再質問する」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「例えば、転職の判断について相談した場合、以下のような化学反応が起きます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「「両論および最新の市場データを検討した結果、独立成功には『6ヶ月分の生活防衛資金』『代替不可能な専門性』『既存の顧客ネットワーク』の3条件が必要」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「■ 「アドバーサリアル・プロンプト連鎖」の実例」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「「１つのAI」に単独で判定を任せるより、異なる個性とバイアスを持つ「多様なモデルのパネル」（複数AIの集合）を利用した方が、はるかに客観的で信頼性の高い結果が得られる」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「その結果、これらの新しい集約法が、」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「その結果、AIを複数集めて多数決をとるだけで、単独で最も優秀なAIを使うよりも、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「論文はこの驚異的な結果を受け、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「（B）共通バイアスへの素早い収束（極めて警戒すべき結果）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「３つの観測点（AI）すべてが「共通の歪み」を持っている場合、測量結果もまた歪みます」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「最終的な決断を下し、その結果の責任を負うのは「あなた自身」（人間）である」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「全21のテクニック（第８回７つ＋第９回７つ＋第１０回７つ）、６つの心理学的根拠（第７回）、複数の実害事例（第３回〜第６回）、そして語源の歴史（第２回）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「結果としてF1スコアが最大65%も大幅向上し、ハルシネーション率の低下を確認」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」（大規模言語モデルのアンサンブル：サーベイ） Ibomoiye Domor Mienye, Theo G. Swart、MDPI Information、2025年8月 （LLMにおけるアンサンブル学習（Bagging, Boosting, Voting等）の手法と、医療・法律・教育などの応用事例を体系的にまとめた包括的レビュー論文）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「」（2026年企業向けガイド） IntuitionLabs、2026年5月 （ChatGPT Enterprise、Claude Enterprise、Microsoft Copilot、Gemini Enterpriseの企業向け4大AIを、セキュリティ、コンプライアンス、導入事例、市場シェアの観点で網羅的に比較したレポート）」（https://note.com/tomohiko_naba/n/n45c8146428ce）
 - 検索結果の抜粋：
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【48時間の専門家化】Google検索は素人の所業。未知の業界の「急所」... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【48時間の専門家化】Google検索は素人の所業。未知の業界の「急所」... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...」（https://note.com/kasano/n/n5300393c2f30）
@@ -186,7 +187,6 @@
   - 「Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and de」（https://researchmethod.net/triangulation/）
   - 「Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research is the practice of using multiple data sources, methods, investigators or theories to study a single phenomenon, so that the findings rest on more than one line of evidence.」（https://www.researchprospect.com/triangulation/）
   - 「Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
-  - 「(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.」（https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives）
 
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
@@ -2687,6 +2687,9 @@
   - 「Learn how customer-facing analytics works, including its architecture, benefits, examples, tools, implementation strategies, and best practices.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「combine entity resolution with graph analytics, relationship discovery and case investigation. These platforms are commonly evaluated for fraud, financial crime,」（https://dataladder.com/best-entity-resolution-software/）
   - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+- 検索結果の抜粋：
+  - 「Golden records: what entity resolution actually decides — Aug 29, 2026 · Entity resolution decides which records are the same thing; survivorship decides which value survives into the golden record. Deterministic rules resolve the clean majority, probabilistic scoring handles the residue, and the threshold you choose is a business decision about whether a false merge or a missed duplicate costs mo」（https://prolyz.com/blog/master-data-management-entity-resolution）
+  - 「Solved: Blueprint: Entity Resolution (Dedup & Golden Record ... — Mar 14, 2026 · Clustering --> They then group matched pairs into clusters/entities (e.g., using graph‑style connected‑components logic) to get from pairwise to entity‑level views. Golden‑record selection --> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the be」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -3098,11 +3101,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3386,7 +3389,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ11頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -5556,7 +5559,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6534,6 +6537,8 @@
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
@@ -6545,8 +6550,6 @@
   - 「社内だけで完結させようとせず、外部の調査会社を活用することで、バイアスのかかっていない市場評価が可能になります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「海外調査（グローバルリサーチ）とは？方法と失敗しない進め方を解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「海外調査（グローバルリサーチ）とは？設計・実施・注意点を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「言語・文化的背景を踏まえた調査手法選択から注意点まで、ネットリサーチ・会場調査・定性調査…」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「本記事では、TAM・SAM・SOMの定義と計算方法（トップダウン・ボトムアップ・フェルミ推定）から、業界別の具体例、ピッチ資料での見せ方、よくある誤解と注意点まで実践的に解説します」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
@@ -6561,8 +6564,8 @@
   - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
 
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
@@ -10047,11 +10050,11 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ7頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ7頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ7頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ7頁・検索12回）
-- 実例：記載なし（読んだ7頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
