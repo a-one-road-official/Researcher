@@ -1,0 +1,570 @@
+{
+ "name": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+ "en": "Japan electroplating industry by employee size establishments employees value added 2016 2019",
+ "aliases": [
+  "工業統計表 電気めっき業 従業者規模別",
+  "工業統計 2464 規模別 付加価値額",
+  "金属表面処理 事業所 規模別 統計表"
+ ],
+ "context": "めっき・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:36:14.794594+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済センサス‐活動調査 産業編 9 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "経済センサス‐活動調査 産業編 9 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_00_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1122_絹・人絹織物業_20_その他",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_00_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1142_絹・人絹織物機械染色業_20_その他",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "経済センサス‐活動調査 産業編 9 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "経済センサス‐活動調査 産業編 9 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0911_部分肉・冷凍肉製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0911_部分肉・冷凍肉製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0911_部分肉・冷凍肉製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2023-05-31 15:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_00_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0000_製造業計_20_その他",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_00_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_11_1000万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_12_1千万円以上 3千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_13_3千万円以上 5千万円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_14_5千万円以上 3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_15_3億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0900_食料品製造業_20_その他",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_0910_畜産食料品製造業_00_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/viz/e-census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/f2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fm-007.com/case/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/pamphlet/h24st_en.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.statista.com/statistics/638339/japan-manufacturing-industry-employee-number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syntaxpartners.com/en/6195japan-plating-surface-treatment-ma-succession/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/10068/business-enterprises-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/tomodachi/2018/winter2018/plating_tech_brings_Innovations.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 人手不足 受注 断る",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 受注残 人手不足",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 人手不足 損失 億円",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 推移",
+   "results": [
+    "https://www.stat.go.jp/viz/e-census/index.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/f2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.fm-007.com/case/plating/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004029509",
+    "https://www.stat.go.jp/data/nihon/07.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/nenpou.htm"
+   ]
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 統計 PDF",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 経済構造実態調査 OR 工業統計",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 従業者規模別",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） 2015 2025",
+   "results": []
+  },
+  {
+   "query": "Japan electroplating industry by employee size establishments employees value added 2016 2019 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/pamphlet/h24st_en.pdf",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.statista.com/statistics/638339/japan-manufacturing-industry-employee-number/",
+    "https://syntaxpartners.com/en/6195japan-plating-surface-treatment-ma-succession/",
+    "https://www.statista.com/topics/10068/business-enterprises-in-japan/",
+    "https://www.japan.go.jp/tomodachi/2018/winter2018/plating_tech_brings_Innovations.html",
+    "https://www.e-stat.go.jp/en",
+    "https://www.businesswire.com/news/home/20190625005608/en/The-Global-Electroplating-Market-2016-2019-2024---Electricals-Electronics-and-Automotive-Industries-Dominate-the-Market---ResearchAndMarkets.com",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html",
+    "https://pdf.marketpublishers.com/profresearch/2017-japan-electroplating-equipment-industry-report.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/denkikogyo/n/nf93cd9801966",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/grand_lion6003/n/na7f814927371",
+    "https://note.com/marketindustry/n/n7a3d51601698",
+    "https://note.com/kaisyakachitrend/n/nb7d30b87e575",
+    "https://note.com/starup_ogata/n/n5190454119e5",
+    "https://note.com/fungarage_tech/n/necf67ebbad64",
+    "https://note.com/papasandesu/n/ne41ae42e3d4f"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+   "results": [
+    "https://www.linkedin.com/directory/companies",
+    "https://business.linkedin.com/advertise/linkedin-pages",
+    "https://www.linkedin.com/?language=english",
+    "https://uk.linkedin.com/?do=register",
+    "https://jp.linkedin.com/company/電気興業（株）",
+    "https://jp.linkedin.com/pulse/溶融亜鉛メッキの世界シェアと主要企業-tietrackx-rj8je",
+    "https://jp.linkedin.com/posts/悠暉-大島-a0a302a0_山形市めっき老舗のスズキハイテック売上高100億円へ3本の矢-日本経済新聞-activity-7373997027627765760-4vPr"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別）",
+   "results": [
+    "https://www.facebook.com/sankoseisaku/",
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/otaplating/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/takagikinzoku/posts/中小企業白書2019に掲載されました今後とも一層の技術向上を目指し誠心誠意邁進して参ります何卒ご支援のほどよろしくお願い申し上げます-事例-3-1-21-大企業/1882750135160909/",
+    "https://www.facebook.com/sunkk2510/photos/令和5年度全国めっき技術コンクールにて第1位の厚生労働大臣賞1チームを含む3チームが入賞し令和5年11月22日水に機械振興会館で行われた表彰式に出席いたしました/867591008485993/",
+    "https://www.facebook.com/denkimekki/posts/2024年度総会ならびに講演会のご案内加飾めっき技術と新たなめっき技術-下記のとおり2024年度総会講演会を講演会を開催いたしますので万障繰り合わせ上ご参加くだ/922117589615656/"
+   ]
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） note 社長",
+   "results": []
+  },
+  {
+   "query": "電気めっき業・溶融めっき業 従業者規模別 事業所数・従業者数・付加価値額 2016〜2019年 全国（工業統計表 産業別 規模別） X 投稿",
+   "results": []
+  },
+  {
+   "query": "Japan electroplating industry by employee size establishments employees value added 2016 2019 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-electroplating-microelectronics-market-report-growth-analysis-9jryc/",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-uljec/",
+    "https://www.linkedin.com/pulse/japan-nickel-electroplating-market-growth-analysis-investors-wrorc",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-value-chain-competitive-tg9bf",
+    "https://www.linkedin.com/pulse/japan-electroplating-intermediate-market-product-technology-bmn8c",
+    "https://www.linkedin.com/pulse/thorough-analysis-japan-electroplating-machinery-msk4e",
+    "https://www.linkedin.com/pulse/japan-electroplating-production-line-market-size-investment-io2df/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ12頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ12頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ12頁・検索18回）"
+ }
+}

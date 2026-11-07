@@ -8,186 +8,90 @@
  ],
  "context": "凄腕・実務",
  "kind": "market",
- "researched_at": "2026-11-06T23:13:31.756663+00:00",
+ "researched_at": "2026-11-07T04:32:06.858376+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "quote": "有名になりたいという気持ちは私にもありますが、仕事で自分の露出が目的化しないよう注意しています",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "quote": "ただ自分に対して使う場合には、自らが使う言葉で錯覚しないよう細心の注意を払っています",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
@@ -198,698 +102,472 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "特に取引先からの「サービス導入事例インタビュー」は、自分自身が注目されていると錯覚しやすい機会なので十分に注意します",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下は私の場合のリストです（よく失敗しているのでこれはごく一部）",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が言うことはすぐ変わるから、結局自分のことは自分で考えることを放棄してはダメだね",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "note株式会社はシニアプロダクトデザイナーを採用しています",
+    "quote": "新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法｜仙田 真郷",
     "url": "https://note.com/sendamasato/n/n2aa275f51bad",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "note株式会社はプロダクトデザイナーを採用しています",
+    "quote": "新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法",
     "url": "https://note.com/sendamasato/n/n2aa275f51bad",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "note株式会社はグラフィックデザイナーアシスタント(アルバイト)を採用しています",
+    "quote": "デスクリサーチをすることが度々あり、たくさん失敗をしてきました",
     "url": "https://note.com/sendamasato/n/n2aa275f51bad",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "2年間の失敗や学びを踏まえて、今デスクリサーチをするときに気をつけていることを書こうと思います",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1年目によくやっていた失敗と、だから今こうして対策してる！という話をセットで書いてみました",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に注意しているのが事実と解釈を分けること",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここは定点観測形式で調査をやり慣れている組織でも起きるので注意が必要です",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "集計・分析（統計処理・パターン抽出・ストーリ化）",
-    "url": "https://www.macromill.com/service/words/researcher/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Market research, demographic profiling.",
+    "quote": "Time-consuming, interviewer bias.",
     "url": "https://www.litmaps.com/articles/types-of-research-methods",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Snapshot analyses, consumer behavior, population profiling",
+    "quote": "Limited generalizability, possible researcher bias.",
     "url": "https://www.litmaps.com/articles/types-of-research-methods",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Data security is a fundamental consideration. Researchers must take measures to safeguard collected data from unauthorized access, disclosure, or breaches. This involves secure storage and encryption of digital data and the use of locked filing cabinets for physical records.",
+    "quote": "Time-intensive to conduct and analyze; subject to interviewer bias",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Highly time-consuming and prone to observer bias",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Low response rates, superficial or biased answers.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How do I ensure my research is unbiased?",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods promote rigor and reliability in research. They offer systematic procedures for data collection, reducing the likelihood of bias and errors. This, in turn, enhances the credibility and trustworthiness of research findings.",
     "url": "https://www.appinio.com/en/blog/market-research/research-methods",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "that are unambiguous and to the point. Avoid leading or biased questions.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Randomization is a critical aspect of experimental design. It helps eliminate bias and ensures that the results can be generalized.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Implement blinding techniques to prevent bias in data collection.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maintain a neutral and unbiased stance.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Examine the potential impact of publication bias, where studies with significant findings are more likely to be published.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Minimize sources of error or bias in data collection.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Transparency is vital to research integrity. Researchers should provide clear and thorough reports of their research methods, results, and limitations. This includes disclosing potential conflicts of interest that could bias the research findings.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いいね！とリツイートにより短期記憶をつくる～当日か翌日のうちに一次情報である元記事を読み込む～自分の言葉で要約して投稿することで長期記憶に留める",
+    "quote": "で、機械にお任せの自動録画だと結果的に見なくなるので注意してください",
     "url": "https://note.com/diisuket/n/n80b79847745f",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この観察で得た物品・場所・人の活動などの情報を、統計データと突き合わせていきます",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "quote": "What is Self-Serving Bias: Definition and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（政府統計・業界年鑑・産業白書などを見る）",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "quote": "A basic human tendency or a cognitive bias that is inherent in individuals is to attribute all positive outcomes and good results to their actions",
+    "url": "https://researcher.life/blog/category/research-tips/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Biomarker Profiling by Nuclear Magnetic Resonance Spectroscopy for the Prediction of All-Cause Mortality: An Observational Study of 17,345 Persons",
-    "url": "https://www.listening.com/blog/academic-blogs",
+    "quote": "What is Optimism Bias: Definition and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "What is Sampling Bias? Definition, Types and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Accurate and valid research relies on carefully selected samples that represent the population under study. However, sometimes researchers fall prey to sampling bias, which occurs",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is Affinity Bias? Definition and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "quote": "特に注意が必要なのは、",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more ",
+    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un",
+    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of",
+    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o",
+    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods Community21 Best Academic Blogs Every Researcher Must FollowResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger ",
+    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1810,568 +1488,6 @@
    {
     "quote": "重要な数値や主張は、異なる調査主体の情報と照合します",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "有名になりたいという気持ちは私にもありますが、仕事で自分の露出が目的化しないよう注意しています",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただ自分に対して使う場合には、自らが使う言葉で錯覚しないよう細心の注意を払っています",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本業で、社員インタビュー（採用広報など）・顧客インタビュー（導入事例など）・各種表彰（社内外）を受ける際も注意が必要です",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に取引先からの「サービス導入事例インタビュー」は、自分自身が注目されていると錯覚しやすい機会なので十分に注意します",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下は私の場合のリストです（よく失敗しているのでこれはごく一部）",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人が言うことはすぐ変わるから、結局自分のことは自分で考えることを放棄してはダメだね",
-    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法｜仙田 真郷",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチをすることが度々あり、たくさん失敗をしてきました",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2年間の失敗や学びを踏まえて、今デスクリサーチをするときに気をつけていることを書こうと思います",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1年目によくやっていた失敗と、だから今こうして対策してる！という話をセットで書いてみました",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意しているのが事実と解釈を分けること",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここは定点観測形式で調査をやり慣れている組織でも起きるので注意が必要です",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Time-consuming, interviewer bias.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Limited generalizability, possible researcher bias.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Time-intensive to conduct and analyze; subject to interviewer bias",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Highly time-consuming and prone to observer bias",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Low response rates, superficial or biased answers.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How do I ensure my research is unbiased?",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods promote rigor and reliability in research. They offer systematic procedures for data collection, reducing the likelihood of bias and errors. This, in turn, enhances the credibility and trustworthiness of research findings.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that are unambiguous and to the point. Avoid leading or biased questions.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Randomization is a critical aspect of experimental design. It helps eliminate bias and ensures that the results can be generalized.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Implement blinding techniques to prevent bias in data collection.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Maintain a neutral and unbiased stance.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Examine the potential impact of publication bias, where studies with significant findings are more likely to be published.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Minimize sources of error or bias in data collection.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Transparency is vital to research integrity. Researchers should provide clear and thorough reports of their research methods, results, and limitations. This includes disclosing potential conflicts of interest that could bias the research findings.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で、機械にお任せの自動録画だと結果的に見なくなるので注意してください",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Self-Serving Bias: Definition and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A basic human tendency or a cognitive bias that is inherent in individuals is to attribute all positive outcomes and good results to their actions",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Optimism Bias: Definition and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Sampling Bias? Definition, Types and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Accurate and valid research relies on carefully selected samples that represent the population under study. However, sometimes researchers fall prey to sampling bias, which occurs",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Affinity Bias? Definition and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more ",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods Community21 Best Academic Blogs Every Researcher Must FollowResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger ",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3574,6 +2690,890 @@
    {
     "quote": "同じテーマでも、質問文や調査対象者が異なると結果は変わります",
     "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本業で、社員インタビュー（採用広報など）・顧客インタビュー（導入事例など）・各種表彰（社内外）を受ける際も注意が必要です",
+    "url": "https://note.com/diisuket/n/n01a1dc6cd4e7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=ee20c479525c9ff0b45bc9334218dc7b",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "note株式会社はシニアプロダクトデザイナーを採用しています",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "note株式会社はプロダクトデザイナーを採用しています",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "note株式会社はグラフィックデザイナーアシスタント(アルバイト)を採用しています",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "集計・分析（統計処理・パターン抽出・ストーリ化）",
+    "url": "https://www.macromill.com/service/words/researcher/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Market research, demographic profiling.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Snapshot analyses, consumer behavior, population profiling",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data security is a fundamental consideration. Researchers must take measures to safeguard collected data from unauthorized access, disclosure, or breaches. This involves secure storage and encryption of digital data and the use of locked filing cabinets for physical records.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いいね！とリツイートにより短期記憶をつくる～当日か翌日のうちに一次情報である元記事を読み込む～自分の言葉で要約して投稿することで長期記憶に留める",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この観察で得た物品・場所・人の活動などの情報を、統計データと突き合わせていきます",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（政府統計・業界年鑑・産業白書などを見る）",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Biomarker Profiling by Nuclear Magnetic Resonance Spectroscopy for the Prediction of All-Cause Mortality: An Observational Study of 17,345 Persons",
+    "url": "https://www.listening.com/blog/academic-blogs",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報は一次情報・二次情報に分類する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -4800,17 +4800,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ulcons/n/n4e5578444b56",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/cbp189/n/n6a551322e899",
+    "url": "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi1456/n/ne0b285061612",
     "status": "ok",
     "method": "http"
    },
@@ -4840,12 +4840,27 @@
     "method": "http"
    },
    {
-    "url": "https://resory.jp/resory_cases",
+    "url": "https://wwstd.jp/media/webwriter-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yoshi1456/n/ne0b285061612",
+    "url": "https://note.shiftinc.jp/n/nb8fc981e8b12?gs=ad66aa545e5a8a1ac07ccde14a06cfd6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crex-consulting.com/column/research/company-research-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emmadiaries.com/blog-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caledonia01.com/blog-research-10712",
     "status": "ok",
     "method": "http"
    },
@@ -4855,32 +4870,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.listening.com/blog/academic-blogs",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.springernature.com/gp/researchers/the-researchers-source",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://research.ibm.com/blog",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "url": "https://popinsight.jp/blog/?p=4528",
     "status": "ok",
     "method": "http"
    }
@@ -4893,10 +4883,11 @@
     "https://note.com/iid_research01/n/n3c59f93f08a5",
     "https://note.com/diisuket/n/n80b79847745f",
     "https://note.com/shintaku0707/n/na55f7dab824d",
-    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
     "https://note.com/ulcons/n/n4e5578444b56",
+    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
+    "https://note.com/yoshi1456/n/ne0b285061612",
     "https://note.com/cbp189/n/n6a551322e899",
-    "https://note.com/erikosato/n/nbfe2e44af493"
+    "https://note.com/mizuhiki_kaka/n/n25c97af4755e"
    ]
   },
   {
@@ -4913,7 +4904,18 @@
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ やり方",
-   "results": []
+   "results": [
+    "https://wwstd.jp/media/webwriter-research/",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://note.shiftinc.jp/n/nb8fc981e8b12",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://www.kotora.jp/c/50381/",
+    "https://crex-consulting.com/column/research/company-research-guide/",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://www.emmadiaries.com/blog-research/",
+    "https://manamina.valuesccg.com/articles/1877",
+    "https://caledonia01.com/blog-research-10712"
+   ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ 事例",
@@ -4921,39 +4923,39 @@
     "https://www.kotora.jp/c/50381/",
     "https://manamina.valuesccg.com/articles/1877",
     "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "https://resory.jp/resory_cases",
-    "https://note.com/yoshi1456/n/ne0b285061612",
     "https://glohai.com/blog/7741",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://popinsight.jp/blog/?p=4528",
     "https://note.com/diisuket/n/n80b79847745f"
    ]
   },
   {
    "query": "professional researcher blog research techniques",
-   "results": [
-    "https://www.listening.com/blog/academic-blogs",
-    "https://www.exordo.com/blog/the-best-academic-blogs",
-    "https://researcher.life/blog/category/research-tips/",
-    "https://www.springernature.com/gp/researchers/the-researchers-source",
-    "https://research.ibm.com/blog",
-    "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "https://researchmethodscommunity.sagepub.com/blog"
-   ]
+   "results": []
   },
   {
    "query": "site:note.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
    "results": [
     "https://note.com/iid_research01/n/n3c59f93f08a5",
     "https://note.com/diisuket/n/n80b79847745f",
+    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
     "https://note.com/ulcons/n/n4e5578444b56",
     "https://note.com/shintaku0707/n/na55f7dab824d",
-    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
     "https://note.com/yoshi1456/n/ne0b285061612",
     "https://note.com/cbp189/n/n6a551322e899"
    ]
   },
   {
    "query": "site:x.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
-   "results": []
+   "results": [
+    "https://x.com/daifukujinji/status/2080035174147080520",
+    "https://x.com/diisuket",
+    "https://x.com/carrer0518happy/status/2043996092883447988",
+    "https://x.com/consul_ichinose/status/2076583071118475306",
+    "https://x.com/carrer0518happy/status/2102925972970557847",
+    "https://x.com/carrer0518happy/article/2042527679170384138",
+    "https://x.com/sora_biz/status/2098015633162330240"
+   ]
   },
   {
    "query": "site:linkedin.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
@@ -4964,7 +4966,7 @@
     "https://www.linkedin.com/pulse/調べてみよう書いてみよう-世の中への扉-昌幸-増田",
     "https://jp.linkedin.com/in/yutaka-suzuki-7a5721345",
     "https://jp.linkedin.com/posts/kent-ishizaki-394a50168_リサーチをして色々わかったけれど結局何をすべきか決まらないそんなご-activity-7120760289133793281-pHkL",
-    "https://jp.linkedin.com/pulse/how-navigate-career-ux-research-strategies-success-dabhade-she-her--divwf?tl=ja"
+    "https://jp.linkedin.com/posts/ryohei-fujita-9353b119_リサーチャーを雇う余裕はないという会社へ-リサーチ専任者がいる会社はごく一部-activity-7513538643425345537-n0QI"
    ]
   },
   {
@@ -4972,23 +4974,24 @@
    "results": [
     "https://www.facebook.com/note.poc/posts/ビジネスリサーチャーが毎日やっている調べる習慣の身に付け方twitterinstagramyoutubetv雑誌でできるリサーチ方法をリサーチャーの菅原大介di/4665718136838340/",
     "https://www.facebook.com/mmdlabo/posts/本日mmdリサーチャーコラムインタビュー調査は時間がかかるはもう古いaiでスピードも質もあきらめないmmdlaboの挑戦をリリースいたしましたインタビュー調査っ/1265668631917484/",
-    "https://www.facebook.com/dentsuho/posts/リサーチを軸にした戦略立案やマーケティング支援を行うブランドリサーチャーとプランナーの二人がマーケティングの未来を紐解くキーワードやリサーチのコツを語り合いまし/5426924340739693/",
     "https://www.facebook.com/RakutenInsight/photos/ナットクリサーチqa弊社顧問である三木康夫が皆様のマーケティングリサーチに関する質問にお答えするナットクリサーチqa頂戴しました中から今回はこちらの質問に回答い/2989835111099870/",
+    "https://www.facebook.com/popinsight/posts/新着-ブログ未経験-からuxリサーチャーとして1年新人リサーチャーが失敗から得た学びをご紹介プロトタイプ-作成での認識齟齬社内体制の把握不足uxリサーチ-のコミ/577279817732892/",
+    "https://www.facebook.com/dentsuho/posts/リサーチを軸にした戦略立案やマーケティング支援を行うブランドリサーチャーとプランナーの二人がマーケティングの未来を紐解くキーワードやリサーチのコツを語り合いまし/5426924340739693/",
     "https://www.facebook.com/mmdlabo/posts/本日弊社リサーチャーによるコラム定性調査の進め方3定性調査の活用法をリリースいたしました前回のコラムでは定性調査が適している場面についてお話しました今回は定性調/541495321001489/",
-    "https://www.facebook.com/RakutenInsight/posts/本日楽天リサーチのwebサイトに第8回リサーチャーs-コラムをリリースしました今回はリサーチ統括部シニアエキスパートの田中がマーケティングリサーチの役割というテ/1675446659205395/",
-    "https://www.facebook.com/RakutenInsight/posts/本日楽天リサーチのwebサイトに第7回リサーチャーs-コラムをリリースしました今回はリサーチ統括部の濱田が定性調査の分析に必要なのは多様な価値観を持つことという/1614475531969175/"
+    "https://www.facebook.com/100082493656223/posts/コラム-リサーチャーのつぶやき-第1回新入生アンケートで学生のインサイトを探ろう新年度を迎え大変お忙しい時期かと存じます弊社では調査担当者の皆さまのお役に立てる/114883897850961/"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ note 社長",
    "results": [
     "https://www.comnico.jp/we-love-social/note_matome",
-    "https://note.com/taku_yeah/n/nbb443d8a1b8c",
-    "https://scrapbox.io/DoubleLoop/専門家個人＋会社組織人という二刀流の働き方｜菅原大介｜リサーチャー｜note",
     "https://note.com/yoshi1456/n/ne0b285061612",
     "https://note.com/yoshinkanri1124/n/n7d34426eb074",
     "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "https://note.com/kazutomo_0819/n/nc8f14674c055"
+    "https://scrapbox.io/DoubleLoop/専門家個人＋会社組織人という二刀流の働き方｜菅原大介｜リサーチャー｜note",
+    "https://www.kotora.jp/c/50381/",
+    "https://crex-consulting.com/column/research/company-research-guide/",
+    "https://www.exblog.jp/genre/work/manager"
    ]
   },
   {
@@ -4998,153 +5001,32 @@
     "https://x.com/yama_research",
     "https://research.thinkmove.jp/",
     "https://note.com/cbp189/n/n6a551322e899",
+    "https://www.kotora.jp/c/50381/",
     "https://tatap.jp/knowledge/x-search-commands/",
-    "https://researto.com/column/researcher-career/",
-    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8"
+    "https://gaishishukatsu.com/archives/36953",
+    "https://x.com/carrer0518happy/article/2042527679170384138",
+    "https://x.com/cross_marketing/status/2100509199524610340",
+    "https://x.com/y_henshucho/status/2118629470798229532"
    ]
   },
   {
    "query": "professional researcher blog research techniques site:linkedin.com",
    "results": [
     "https://www.linkedin.com/advice/1/how-can-you-master-advanced-research-techniques-skills-research",
-    "https://www.linkedin.com/advice/3/how-can-you-use-blogs-effectively-communicate-31hvc",
+    "https://www.linkedin.com/pulse/how-work-professional-researcher-practical-guide-hbpbc",
     "https://br.linkedin.com/pulse/how-read-understand-scientific-research-papers-sakshi-theurkar-kivef?tl=pt",
-    "https://in.linkedin.com/in/researcher-blogs-a1252b281",
     "https://in.linkedin.com/in/priyan-p-s",
-    "https://ca.linkedin.com/in/peggymackenzie",
-    "https://ca.linkedin.com/in/michelle-hampson-123b6a41"
+    "https://in.linkedin.com/in/researcher-blogs-a1252b281",
+    "https://br.linkedin.com/pulse/training-army-nonresearchers-eduardo-gómez-ruiz?tl=pt",
+    "https://uk.linkedin.com/in/blake-graham-forman",
+    "https://www.linkedin.com/advice/3/how-can-you-use-blogs-effectively-communicate-31hvc",
+    "https://www.linkedin.com/advice/3/how-can-you-use-blog-communicate-your-research-1o7qf",
+    "https://in.linkedin.com/in/adv-dbiswas"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "検索結果の抜粋": [
-   {
-    "quote": "The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un",
-    "url": "https://www.exordo.com/blog/the-best-academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Conceptual framework in research example",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples of Conceptual Research",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The 7 steps in the research process with examples",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Use cases of cross-sectional studies",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The PhD Blog is suitable for anyone considering or already doing doctoral-level research. Robert MacIntosh, Honorary Professor at the University of St. Andrews and Head of the School of Management and Languages at Heriot-Watt University, manages it. The blog covers topics such as research methodology, epistemology and ontology, research questions, and finding gaps in the literature.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Writing for Research aims to help researchers master the art of writing creative non-fiction at a research level, providing guidance and resources for every step of the writing process.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Get a Life, PhD is packed with tips and practical step-by-step advice from Tanya Golash-Boza for various aspects of the writing and publishing process.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GradHacker is an academic blog for graduates looking for “stories, tips, and challenges of others experiencing the same things.” Written by a community of bloggers, the topics range from software reviews to disabilities to how to communicate your research to a general audience.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to write a research blog sample?",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Index vs Appendix: How to Reference in Appendix",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7 Steps in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Basic Steps in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Conceptual framework in research example",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Conceptual Frameworks",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Final Step in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to choose the right PhD Topic",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Do a Thematic Literature Review",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Implement Grounded Theory in Your Research",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to publish a research paper for students",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 16,
+ "new_this_run": {},
+ "runs": 17,
  "first_researched_at": "2026-11-05T00:46:28.171761+00:00"
 }

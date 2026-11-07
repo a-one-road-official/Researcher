@@ -1036,6 +1036,7 @@
 ## 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）（estimate private company revenue headcount methods）
 - 文脈：凄腕・推定
 - 手順・やり方：
+  - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1050,7 +1051,6 @@
   - 「How To Estimate A Private Company's Revenue (2026)」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
   - 「How to Estimate a Private Company’s Revenue: A Practical Guide」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
   - 「How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
-  - 「This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
@@ -1339,7 +1339,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -3263,7 +3263,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -8298,54 +8298,58 @@
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
 - 手順・やり方：
-  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「3つの算出方法」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 突き合わせ・推定：
-  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「市場規模の算出方法（専門調査会社に依頼して推計する）」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「ネットリサーチ（Webアンケート）を用いた市場規模の推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 一次情報の探し方：
-  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「総務省統計局、統計研究研修所の共同運営」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「自社の調査目的に合致した統計を選択すること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「代表的な業界団体・協会の調査データを下表にまとめました」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「生産統計（数字でわかる！見て学ぶ！2026」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「市場規模の調査を有効活用するためには、いくつか注意すべき点があります」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
+  - 「コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
   - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
@@ -8357,26 +8361,22 @@
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e）
   - 「これを3年間ずっと続く確定予測として使うのは誤りです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「10．市場規模分析でよくある失敗」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗①：広い業界統計を自社TAMと呼んでしまう」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗④：前年の成長率を将来に機械的に延長する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 実例：
-  - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「人材紹介大手3社転職実績集計結果」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
+  - 「この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
+  - 「調査結果を活かすための、市場規模の分析と活用方法」（https://www.dm-insight.jp/column/market-size/?doing_wp_cron=1794025900.1220140457153320312500）
 
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
@@ -9027,6 +9027,13 @@
 ## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「Situationship: How to Cope When Commitment is Unclear」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation is often described through three roles from Stephen Karpman’s “drama triangle”: the victim, the rescuer and the persecutor (Karpman, 1968).」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Bowen argued that two-person relationships are unstable under stress. A pair alone has no built-in way to dilute the tension between them. The process unfolds in three steps:」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Family members learn to notice when they have been drawn into someone else’s conflict. Then they step back. They encourage direct communication between the two people who hold the disagreement, so the third position can be vacated.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Take a step back, evaluate, and assess all of the facts.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「The most robust way of dealing with these situations is to take a step back, assess what is occurring, and act accordingly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「They can help you learn more about your relationships involving triangulation and how to navigate them safely.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Triangulation in Research: Types, Purpose, and How to Apply It」（https://casrai.org/guides/triangulation-in-research）
   - 「Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
   - 「more than one method or technique used to investigate the same question.」（https://casrai.org/guides/triangulation-in-research）
@@ -9035,30 +9042,24 @@
   - 「4. Methodological Triangulation」（https://casrai.org/guides/triangulation-in-research）
   - 「Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:」（https://casrai.org/guides/triangulation-in-research）
   - 「Within-method triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「: using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).」（https://casrai.org/guides/triangulation-in-research）
-  - 「Between-method (or across-method) triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.」（https://casrai.org/guides/triangulation-in-research）
-  - 「Triangulation vs. Mixed-Methods Research」（https://casrai.org/guides/triangulation-in-research）
-  - 「mixed-methods research」（https://casrai.org/guides/triangulation-in-research）
-  - 「Mixed-methods research」（https://casrai.org/guides/triangulation-in-research）
-  - 「is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.」（https://casrai.org/guides/triangulation-in-research）
 - 突き合わせ・推定：
-  - 「Triangulation in Research: The 4 Types — CASRAI」（https://casrai.org/guides/triangulation-in-research）
-  - 「Triangulation in Research: Types, Purpose, and How to Apply It」（https://casrai.org/guides/triangulation-in-research）
-  - 「Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
-  - 「evidence triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「What Triangulation Means in Research」（https://casrai.org/guides/triangulation-in-research）
-  - 「Operationally, a study is using triangulation when it deliberately brings together more than one of the following」（https://casrai.org/guides/triangulation-in-research）
-  - 「Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.」（https://casrai.org/guides/triangulation-in-research）
-  - 「The Four Classic Types of Triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「1. Data Triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「Data triangulation means gathering data from multiple sources within the same study — commonly broken down into triangulation across」（https://casrai.org/guides/triangulation-in-research）
-  - 「(collecting data from different levels or types of participants, such as individuals, groups, and organizational records). A study interviewing both frontline staff and managers about the same program, or observing the same practice across several clinics rather than one, is using data triangulation.」（https://casrai.org/guides/triangulation-in-research）
-  - 「2. Investigator Triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「Investigator triangulation uses more than one researcher or coder to independently collect and/or analyze the same material, then compares their results. In qualitative coding, this typically means two or more coders working from the same codebook on the same transcripts, with agreement and disagreement both documented. This is closely related to, but distinct from, formal」（https://casrai.org/guides/triangulation-in-research）
-  - 「statistics — investigator triangulation is broader, and can include qualitative reconciliation of interpretive disagreements, not just a numeric agreement score.」（https://casrai.org/guides/triangulation-in-research）
-  - 「3. Theory Triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation in Families」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation in relationships refers to a communication pattern where one person avoids direct interaction with another, instead using a third person as an intermediary. This can create misunderstandings and conflicts, often serving as a」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation typically entails a dynamic where the victim and persecutor engage in conflict while a third party assumes the role of the rescuer.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation is a pattern where one person routes communication through a third person instead of speaking directly to the other.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What is Triangulation in Families?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What is Triangulation Manipulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What are the signs of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What are the three points of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「How is triangulation used in relationships?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What are the effects of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「What does recent research say about Triangulation in Families?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation Manipulation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「, triangulation is one of the best known.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation is a form of manipulation and is used to exploit an interaction between two people who are not communicating directly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation is often an attempt to gain control. The manipulator seeks advantage from the situation, in the form of loyalty or attention from the other parties.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
 - 失敗・落とし穴：
+  - 「, blamed for faults and mistakes whether or not they are responsible.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.」（https://casrai.org/guides/triangulation-in-research）
   - 「different assumptions and are vulnerable to different biases」（https://casrai.org/guides/triangulation-in-research）
   - 「Common Pitfalls and Limitations」（https://casrai.org/guides/triangulation-in-research）
@@ -9074,6 +9075,14 @@
   - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
 - 実例：
+  - 「Example 1: Using a Messenger」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「The third person may also be an inappropriate choice. For example, a parent becomes a mediator between the other parent and their child.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「In some cases, triangulation is an intentional attempt to make the situation in favor of the manipulator.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Example 2: Unintentional Triangulation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Simultaneously, each sibling is treated very differently and is discouraged from communicating with one another except via the parent; this is a clear case of triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Example 3: Avoiding Direct Confrontation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「In that case, direct communication may not have been used. Instead, the friend or family may have chosen to manipulate a third party or another person to say everything they needed.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Annie Wright shows how this plays out in a composite case she calls “Rosalind,” whose mother was the link between her and her sister.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Worked Examples of Each Type」（https://casrai.org/guides/triangulation-in-research）
   - 「), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.」（https://casrai.org/guides/triangulation-in-research）
   - 「— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to」（https://casrai.org/guides/triangulation-in-research）
@@ -9081,12 +9090,7 @@
   - 「For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「. A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
 - 文脈：裏取り

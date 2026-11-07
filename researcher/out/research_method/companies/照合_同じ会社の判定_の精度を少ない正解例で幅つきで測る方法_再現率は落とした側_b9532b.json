@@ -8,12 +8,156 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-06T23:07:52.936697+00:00",
+ "researched_at": "2026-11-07T04:25:46.730233+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
-    "url": "https://arxiv.org/abs/2404.05622",
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is below",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The empirical bias is always smaller than",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -200,158 +344,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is below",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The empirical bias is always smaller than",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
@@ -530,6 +522,14 @@
    {
     "quote": ". For example, systematic failure to disambiguate inventor names from a given culture, for instance due to differences in naming conventions, could be considered an unacceptable flaw even if the relative prevalence of such inventors is low. It is therefore necessary to test systems and to investigate errors to help identify such issues",
     "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
+    "url": "https://arxiv.org/abs/2404.05622",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -751,12 +751,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kagawatomo/n/nb60fdfc4d236",
+    "url": "https://note.com/kagawatomo/n/n5425654d0f5d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "url": "https://note.com/kagawatomo/n/nb60fdfc4d236",
     "status": "ok",
     "method": "http"
    },
@@ -776,7 +776,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gtminami/n/n208e4b4bd110",
+    "url": "https://note.com/door13/n/nb61e017dabb7",
     "status": "ok",
     "method": "http"
    },
@@ -786,17 +786,12 @@
     "method": "http"
    },
    {
-    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kikaben/n/nc457443773b7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/materialdx/n/na4cc0df7efeb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "status": "ok",
     "method": "http"
    },
@@ -807,6 +802,11 @@
    },
    {
     "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trust_dx/n/n2d67406648ed",
     "status": "ok",
     "method": "http"
    },
@@ -826,22 +826,12 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJ0UasqcS7RgtZQsmzZFM2oEHpd4KXTmZFyjEU_dNwT_ck5qJbV",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://stepio-easier-to-learn.com/what-is-model-evaluation/",
+    "url": "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hackson.jp/accuracy/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJTeEZRKxqCmvArZy2gcql8saBpWIhMfnygR8hIPbB1QZH32CU2",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJTJkhHwrif5iRYGJ_LpJwj7pM6x5YhlNk6Cv_IMC4IcCk6_aqq",
     "status": "ok",
     "method": "browser"
    },
@@ -851,7 +841,22 @@
     "method": "http"
    },
    {
-    "url": "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
+    "url": "https://qiita.com/anoiro/items/887525b0a1d3c8af462f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cryptul.co.jp/insights/articles/242-accuracy-baseline-imbalanced-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stepio-easier-to-learn.com/what-is-model-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hackson.jp/accuracy/",
     "status": "ok",
     "method": "http"
    },
@@ -871,17 +876,17 @@
     "method": "http"
    },
    {
+    "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
+    "url": "https://www.science.org/doi/10.1126/sciadv.abi8021",
     "status": "http_403",
     "method": "http"
    }
@@ -891,30 +896,30 @@
   {
    "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） site:note.com",
    "results": [
-    "https://note.com/kagawatomo/n/nb60fdfc4d236",
     "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "https://note.com/kagawatomo/n/nb60fdfc4d236",
     "https://note.com/comix_ceo162230/n/nf7c25a363588",
     "https://note.com/kagawatomo/n/n235c187d6f80",
     "https://note.com/comix_ceo162230/n/n1ee1c5b22738",
-    "https://note.com/gtminami/n/n208e4b4bd110",
     "https://note.com/door13/n/nb61e017dabb7",
     "https://note.com/nob75note/n/n052803f42d1f",
     "https://note.com/zenkok/n/n5ffc34269a5f",
-    "https://note.com/kagawatomo/n/nb08177c47fd0"
+    "https://note.com/gtminami/n/n208e4b4bd110",
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9"
    ]
   },
   {
    "query": "照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り） note",
    "results": [
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
-    "https://note.com/kikaben/n/nc457443773b7",
     "https://note.com/materialdx/n/na4cc0df7efeb",
+    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "https://note.com/trust_dx/n/n2d67406648ed",
     "https://since2020.jp/media/f1-precision-recall/",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL28s32XfJGhmQVFqFhi4P6OQHrurObDeUueeC4lmqvKOCXKn2w",
-    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
+    "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
+    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
     "https://note.com/tsunobuchi/n/nbd110dd5513a"
    ]
   },
@@ -929,8 +934,7 @@
     "https://since2020.jp/media/f1-precision-recall/",
     "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
     "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJ0UasqcS7RgtZQsmzZFM2oEHpd4KXTmZFyjEU_dNwT_ck5qJbV",
-    "https://stepio-easier-to-learn.com/what-is-model-evaluation/"
+    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000"
    ]
   },
   {
@@ -939,25 +943,26 @@
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://since2020.jp/media/f1-precision-recall/",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJTeEZRKxqCmvArZy2gcql8saBpWIhMfnygR8hIPbB1QZH32CU2",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJTJkhHwrif5iRYGJ_LpJwj7pM6x5YhlNk6Cv_IMC4IcCk6_aqq",
     "https://www.cybernet.co.jp/ncs/column_glossary/glossary/recall/",
     "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
-    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000"
+    "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
+    "https://qiita.com/anoiro/items/887525b0a1d3c8af462f"
    ]
   },
   {
    "query": "entity resolution evaluation precision recall confidence interval importance sampling few labels",
    "results": [
     "https://arxiv.org/pdf/2404.05622",
-    "https://aws.amazon.com/blogs/industries/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
     "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
     "https://dl.acm.org/doi/10.1145/3721985",
+    "https://scikit-learn.org/stable/modules/model_evaluation.html",
     "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://www.science.org/doi/10.1126/sciadv.abi8021",
     "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "https://vldb.org/pvldb/vol3/R18.pdf",
     "https://www.factil.io/technology/evaluation/"
    ]
@@ -966,8 +971,8 @@
    "query": "site:note.com 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）",
    "results": [
     "https://note.com/zenkok/n/n9883e45a6e8b",
-    "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/kikaben/n/nc457443773b7",
+    "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/rd_analytics_hub/n/n5bd93bd7aa33",
     "https://note.com/ict_mogishiken/n/n67680cae92c9",
     "https://note.com/vast_elk830/n/nf2777bcd3267",
@@ -978,40 +983,29 @@
   {
    "query": "site:x.com 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）",
    "results": [
-    "https://x.com/G59_JP/status/2109216968318517561",
     "https://x.com/ecojojo24/status/2107630025491255662",
-    "https://x.com/kaikei_ai/status/2080047307937251726",
     "https://x.com/gembashift_jp/status/2115413324007628889",
+    "https://x.com/G59_JP/status/2109216968318517561",
+    "https://x.com/kaikei_ai/status/2080047307937251726",
     "https://x.com/ashikari_nb/status/2102238960118542520",
-    "https://x.com/ecojojo24/status/2107442936090956140",
-    "https://x.com/gembashift_jp/status/2115413322321510663"
+    "https://x.com/akira_ishikawa1/status/2116370307921682628",
+    "https://x.com/shibasaki_k/article/2102181183807455547"
    ]
   },
   {
    "query": "site:linkedin.com 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）",
-   "results": [
-    "https://jp.linkedin.com/in/%E8%A3%95%E4%BB%8B-%E9%BD%8A%E7%94%B0-4b56a295",
-    "https://www.linkedin.com/posts/harakan_記事掲載経理情報実務解説親子会社間で会計ソフトが異なる際の照合差額の検証-activity-7191370890947747842-0_xL",
-    "https://www.linkedin.com/posts/issei-takahashi-233022172_生成aiが自社の決算の数字を間違えていないかを継続して確かめるための照合テストの-activity-7520742180177498112-L8fK",
-    "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-i-revolutionized-bank-reconciliation-ai-from-30-balasubramanian-zrrhc?tl=ja",
-    "https://jp.linkedin.com/pulse/maximize-accuracy-reconciliation-automation-solutions-10decoders-eoi6c?tl=ja",
-    "https://jp.linkedin.com/posts/hiroyuki-nagase_処理が完了でも受け取った件数と合っていますか-例えば架空の申請10件を整理-activity-7522485185746120704-PI0b",
-    "https://jp.linkedin.com/posts/kenya-sakurai-65790218b_請求書処理をaiで自動化すると聞くとocrで読み取れば終わりと思われがちです-activity-7480733712117178368-v-Ul"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）",
    "results": [
-    "https://www.facebook.com/hisashi.itoi/",
-    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/groups/1727899860780122/posts/4502587869977960/",
     "https://www.facebook.com/necjapan/posts/1813130145376382/",
-    "https://www.facebook.com/yu.yokoyama.92/videos/在留カードが本物ならどんな仕事でもできるわけではありません外国人採用時は原本の表裏読取アプリ在留資格と仕事内容の照合までを会社の標準手順にしましょう採用担当者向/905155692352114/",
     "https://www.facebook.com/hisashi.ando.583/photos/確定申告の医療費領収書の山を見るだけでhp削られますそこで仕組み化しました医療費明細をpdfcsvにしてexcelにコピペできるプロンプト作りました筋トレと同じ/25800477036282424/",
     "https://www.facebook.com/hiroshi.nakata.1447/videos/福岡で電気工事の担当者が自分都合で作ってみてますきっと役に立つはず️今回は火が付いた現場に入った何が正解か分からない施工図ないプロット配置️原設計を元に図面を書/1049181820860584/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
-    "https://www.facebook.com/smbccard/videos/公式三井住友パーチェシングカード/1349206409750812/",
-    "https://www.facebook.com/reel/25863109499964426/"
+    "https://www.facebook.com/reel/25863109499964426/",
+    "https://www.facebook.com/yu.yokoyama.92/videos/在留カードが本物ならどんな仕事でもできるわけではありません外国人採用時は原本の表裏読取アプリ在留資格と仕事内容の照合までを会社の標準手順にしましょう採用担当者向/905155692352114/"
    ]
   },
   {
@@ -1020,13 +1014,13 @@
     "https://note.com/materialdx/n/na4cc0df7efeb",
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://note.com/trust_dx/n/n2d67406648ed",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKB3EGPQyXwdVFV-myU-TzrXd59U8H5S0Gzp0eNWz3itT8c3hS_",
+    "https://note.com/kikaben/n/nc457443773b7",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
-    "https://milab.mi-6.co.jp/article/t0017",
-    "https://kentei.ai/blog/archives/1610",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
-    "https://stepio-easier-to-learn.com/what-is-model-evaluation/"
+    "https://note.com/trust_dx/n/n2d67406648ed",
+    "https://www.flowhunt.io/ja/%E7%94%A8%E8%AA%9E%E9%9B%86/recall-in-machine-learning/",
+    "https://zero2one.jp/learningblog/evaluation-metrics-for-machine-learning/?srsltid=AYCX9vKqtpCPViZ4R_WeMC9WUe0VBUzn1MuC6MOkht1N0PmMBnzB0Qv4",
+    "https://qiita.com/anoiro/items/887525b0a1d3c8af462f"
    ]
   },
   {
@@ -1034,13 +1028,14 @@
    "results": [
     "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "https://www.youtube.com/watch?v=FywetXSZPG0",
     "https://tech-blog.optim.co.jp/entry/2021/05/31/100000",
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLWkJfnUMFRvz4_FX_Wz8zBbY2qLkGTV9EaHx1YnJDEAUY4iTg6",
     "https://milab.mi-6.co.jp/article/t0017",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL0crEc-dFcuLV7dfgMGli31_AjkQTwywtk_QRxu-FJprvfn1Vi",
+    "https://www.youtube.com/watch?v=FywetXSZPG0",
     "https://note.com/kikaben/n/nc457443773b7",
     "https://kentei.ai/blog/archives/1610",
-    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall"
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://stepio-easier-to-learn.com/what-is-model-evaluation/"
    ]
   },
   {
@@ -1061,6 +1056,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-06T10:17:19.580496+00:00"
 }

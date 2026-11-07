@@ -1,0 +1,400 @@
+{
+ "name": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+ "en": "Japan census of manufactures 2016 2019 by employee size class electroplating heat treatment die same years",
+ "aliases": [
+  "工業統計表 産業別統計表 2016年 産業細分類 従業者規模別 2464",
+  "工業統計 2019年 確報 金属熱処理業 従業者規模別 1人当たり",
+  "site:meti.go.jp 工業統計 2016 産業細分類 規模別 xls"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:23:56.139221+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/15th/saitaku15ji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sbf63f4a28f487f52.jimcontent.com/download/version/1403999522/module/5193953572/name/%E5%B9%B3%E6%88%90%EF%BC%92%EF%BC%95%E5%B9%B4%E5%BA%A6%E8%A3%9C%E6%AD%A3%E3%80%80%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%83%BB%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%BB%E5%95%86%E6%A5%AD%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%9D%A9%E6%96%B0%E4%BA%8B%E6%A5%AD%20%EF%BC%91%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87%E3%80%80%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://aoito.co.jp/wp-content/uploads/2024/03/s23_14_hokkaido_merged.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/2nd/saitaku2ji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jadocz.com/doc/595832/1%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87-%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140002150107010/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://www.smartene.org/san_code/2564.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1970025753173756859?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/items/027030037",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&toukei=00550010&tstat=000001022686&second2=1&layout=dataset&statdisp_id=0003146041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11035/5203151.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_r4_d/fil/R4seizougyo_houkokusyo.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11037/5137104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/415309.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://login.libproxy.pcc.edu/login?qurl=https://www.statista.com%2fstatistics%2f1558529%2fjapan-number-companies-fabricated-metal-products-manufacturing-industry%2f",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/pdf/k_gaiyoe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00550010",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://jp.gdfreak.com/public/detail/jp010140002110107010/1",
+    "https://www.stat.go.jp/data/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 受注残 人手不足",
+   "results": [
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/15th/saitaku15ji.pdf",
+    "https://sbf63f4a28f487f52.jimcontent.com/download/version/1403999522/module/5193953572/name/%E5%B9%B3%E6%88%90%EF%BC%92%EF%BC%95%E5%B9%B4%E5%BA%A6%E8%A3%9C%E6%AD%A3%E3%80%80%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%83%BB%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%BB%E5%95%86%E6%A5%AD%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%9D%A9%E6%96%B0%E4%BA%8B%E6%A5%AD%20%EF%BC%91%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87%E3%80%80%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7.pdf",
+    "https://aoito.co.jp/wp-content/uploads/2024/03/s23_14_hokkaido_merged.pdf",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/2nd/saitaku2ji.pdf",
+    "https://jadocz.com/doc/595832/1%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87-%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 人手不足 損失 億円",
+   "results": [
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/15th/saitaku15ji.pdf",
+    "https://sbf63f4a28f487f52.jimcontent.com/download/version/1403999522/module/5193953572/name/%E5%B9%B3%E6%88%90%EF%BC%92%EF%BC%95%E5%B9%B4%E5%BA%A6%E8%A3%9C%E6%AD%A3%E3%80%80%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%83%BB%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%BB%E5%95%86%E6%A5%AD%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%9D%A9%E6%96%B0%E4%BA%8B%E6%A5%AD%20%EF%BC%91%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87%E3%80%80%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7.pdf",
+    "https://jadocz.com/doc/595832/1%E6%AC%A1%E5%85%AC%E5%8B%9F%E4%BA%8C%E6%AC%A1%E7%B7%A0%E5%88%87-%E6%8E%A1%E6%8A%9E%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://jp.gdfreak.com/public/detail/jp010140002150107010/2",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/",
+    "http://www.smartene.org/san_code/2564.html"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&toukei=00550010&tstat=000001022686&second2=1&layout=dataset&statdisp_id=0003146041",
+    "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://www.pref.shiga.lg.jp/documents/11035/5203151.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_r4_d/fil/R4seizougyo_houkokusyo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 推移",
+   "results": [
+    "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11035/5203151.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&toukei=00550010&tstat=000001022686&second2=1&layout=dataset&statdisp_id=0003146041",
+    "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_r4_d/fil/R4seizougyo_houkokusyo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.pref.shiga.lg.jp/documents/11035/5203151.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&toukei=00550010&tstat=000001022686&second2=1&layout=dataset&statdisp_id=0003146041",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432846",
+    "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11035/5203151.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11037/5137104.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 1人当たり 万円",
+   "results": [
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/415309.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） 2015 2025",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf"
+   ]
+  },
+  {
+   "query": "Japan census of manufactures 2016 2019 by employee size class electroplating heat treatment die same years Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www-statista-com.libproxy.pcc.edu/statistics/1558529/japan-number-companies-fabricated-metal-products-manufacturing-industry/",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://www.e-stat.go.jp/en/statistics/00550010",
+    "https://www.stat.go.jp/english/data/e-census/2016/pdf/k_gaiyoe.pdf",
+    "https://www.stat.go.jp/english/data/e-census/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.e-stat.go.jp/en",
+    "https://www.e-stat.go.jp/en/stat-search/"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+   "results": [
+    "https://note.com/ray77/n/n5ea726e60ad1",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/osakagiya/n/n4432dae0480a",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/vast_slug4459/n/n16700091eddc",
+    "https://note.com/sugersweet0416/n/n0c3ea34ee0e2",
+    "https://note.com/irppy3/n/nf8f3793dbcaa",
+    "https://note.com/fast_tiger8331/n/nf3661cf89257",
+    "https://note.com/pe_metals_o/n/n90ffc61bffe6"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2115714725048947144",
+    "https://jf.x.com/images/media-preview/2108533210846216390",
+    "https://x.com/asinukimss/status/2049999654562275558",
+    "https://x.com/tesuta001/status/1607257020494925824",
+    "https://x.com/mekki1601/status/1670745212820529152",
+    "https://x.com/haiku9999/status/2103297236017066285",
+    "https://x.com/hashtag/めっきの実績"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+   "results": [
+    "https://jp.linkedin.com/company/電気興業（株）",
+    "https://za.linkedin.com/in/magadi-moeletsi-1463a8232",
+    "https://economicgraph.linkedin.com/",
+    "https://jp.linkedin.com/in/純-齋藤-4748331b0",
+    "https://www.linkedin.com/company/alliantgroup",
+    "https://jp.linkedin.com/in/拓馬-木村-9907841b9",
+    "https://www.linkedin.com/pulse/what-meaning-difference-between-af-circuit-breakers-eltawil-xnzef"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31）",
+   "results": [
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/kyouritukakou/",
+    "https://www.facebook.com/takagikinzoku/posts/中小企業白書2019に掲載されました今後とも一層の技術向上を目指し誠心誠意邁進して参ります何卒ご支援のほどよろしくお願い申し上げます-事例-3-1-21-大企業/1882750135160909/",
+    "https://www.facebook.com/YAMAMOTOMS/posts/特注品実績紹介-ロールtoロールめっき装置-連続プロセスによりコストダウン高生産性省エネルギーを実現できるロールtoロールのめっき装置は液晶パネルや太陽電池有機/298296357741726/",
+    "https://www.facebook.com/takagikinzoku/photos/1882749448494311/",
+    "https://www.facebook.com/denkimekki/posts/６月例会のご案内-めっきのブレークスルー-めっき品質向上環境対応へのさらなる展開-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますよ/3993278470728387/",
+    "https://www.facebook.com/denkimekki/posts/1094705143919082/"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） note 社長",
+   "results": [
+    "https://aoito.co.jp/wp-content/uploads/2024/03/s23_14_hokkaido_merged.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 実績2016〜2019年 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者規模別（同じ年どうしで全区分がそろう表・規模の内側の向き・構成変化の確認・4-25・4-31） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&toukei=00550010&tstat=000001022686&second2=1&layout=dataset&statdisp_id=0003146041"
+   ]
+  },
+  {
+   "query": "Japan census of manufactures 2016 2019 by employee size class electroplating heat treatment die same years site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/thorough-analysis-japan-electroplating-machinery-msk4e",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-uljec/",
+    "https://in.linkedin.com/company/japan-automobile-manufacturers-association-inc-",
+    "https://www.linkedin.com/pulse/japan-nickel-electroplating-market-growth-analysis-investors-wrorc",
+    "https://www.linkedin.com/pulse/japan-cutlery-bath-fittings-electroplating-professional-orkzc",
+    "https://www.linkedin.com/pulse/japan-electroplating-market-size-outlook-regional-growth-xcgcf",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-value-chain-competitive-tg9bf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ35頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ35頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ35頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ35頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ35頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ35頁・検索18回）",
+  "10年推移": "記載なし（読んだ35頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ35頁・検索18回）"
+ }
+}

@@ -8,58 +8,8 @@
  ],
  "context": "突き合わせ・失敗",
  "kind": "market",
- "researched_at": "2026-11-06T22:57:53.108484+00:00",
+ "researched_at": "2026-11-07T04:30:00.770745+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "availability, show inconsis tencies and breaks in their dynamic profile. In other cases the partial",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In most of these cases estimation techniques which make use of all the ava ilable information to get",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "such cases, it’s rather natural to attempt to exploit this fact, for example by means of a linear model",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "by this way to get more precision in the back-calculated data. This case is encountered, for example,",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 This happens, for example, when one whishes to estimate ‘harmonized’ Eurozone data when ‘old’, not-harmonized",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and () 2, 0, hht WN εεσ \u0000 . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.",
-    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "‘reasonable’ estimates of the se ries of interest can offer a valid solution, whose quality and",
@@ -172,6 +122,56 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "実例": [
+   {
+    "quote": "availability, show inconsis tencies and breaks in their dynamic profile. In other cases the partial",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In most of these cases estimation techniques which make use of all the ava ilable information to get",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "such cases, it’s rather natural to attempt to exploit this fact, for example by means of a linear model",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "by this way to get more precision in the back-calculated data. This case is encountered, for example,",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 This happens, for example, when one whishes to estimate ‘harmonized’ Eurozone data when ‘old’, not-harmonized",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and () 2, 0, hht WN εεσ \u0000 . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "1 Lavoro svolto nell’ambito del Task-Project di Eurostat “Methodology for back-recalculation”. Ringrazio Fabio Sartori",
@@ -227,9 +227,34 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocaml/n/n505db5d67548",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tk_caesar/n/n0f2a00012968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/outlifest/n/n428fa2839fc2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
@@ -237,63 +262,118 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not260625a.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/23739.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "url": "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
+    "url": "https://bellcurve.jp/statistics/course/12933.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "url": "https://www.pref.tottori.lg.jp/309966.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "url": "https://support.google.com/youtubetv/?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cabletv.com/youtube-tv/deals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/img/n24_5_b_2_01c.html",
+    "url": "https://photo.walgreens.com/store/home",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Structural_break",
+    "url": "https://photo.walgreens.com/store/home",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://fastercapital.com/content/Structural-Breaks--Breaking-Points-in-Data--Structural-Breaks-and-Their-Connection-to-Unit-Roots.html",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://maseconomics.com/structural-breaks-in-time-series-analysis-managing-sudden-changes/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://tpetzoldt.github.io/elements/slides/10-timeseries-outlook.html",
+    "url": "https://www.walgreens.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/publication/335557620_Tests_for_Structural_Breaks_in_Time_Series_Analysis_A_Review_of_Recent_Development",
-    "status": "http_403",
+    "url": "https://www.walgreens.com/login.jsp?fromPage=photo",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/publication/325075681_Structural_Breaks_in_Time_Series",
-    "status": "http_403",
+    "url": "https://www.photoprintsplus.com/stores/walgreens-edmond-6436-5426/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stata.com/features/overview/structural-breaks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rady.ucsd.edu/_files/faculty-research/timmermann/time-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bu.edu/econ/files/2019/01/structural-change-oxford.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aptech.com/structural-breaks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpubs.com/Ken_Fritzell/982102",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -301,146 +381,189 @@
  "search_log": [
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ocaml/n/n505db5d67548",
+    "https://note.com/tk_caesar/n/n0f2a00012968",
+    "https://note.com/outlifest/n/n428fa2839fc2",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
+    "https://note.com/takusuke_note/n/n62ee167dcb62",
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7"
+   ]
   },
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） note",
    "results": [
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
-    "https://www.mhlw.go.jp/toukei/list/30-1h.html"
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
+    "https://www.boj.or.jp/statistics/outline/notice_2026/not260625a.htm",
+    "https://bellcurve.jp/statistics/course/23739.html",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://note.com/e_dao/n/na035c697b84a",
+    "https://www.lightstone.co.jp/analysis/004-time-series-analysis.html",
+    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf"
    ]
   },
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） やり方",
    "results": [
     "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://bellcurve.jp/statistics/course/12933.html",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.pref.tottori.lg.jp/309966.htm",
+    "https://tv.youtube.com/welcome，",
+    "https://tv.youtube.com/welcome/"
    ]
   },
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） 事例",
    "results": [
     "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www5.cao.go.jp/keizai3/2024/0212nk/img/n24_5_b_2_01c.html",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html"
+    "https://bellcurve.jp/statistics/course/23739.html",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://photo.walgreens.com/store/welcome",
+    "https://photo.walgreens.com/store/home"
    ]
   },
   {
    "query": "statistical time series break linking retropolation official statistics",
    "results": [
-    "https://en.wikipedia.org/wiki/Structural_break",
-    "https://fastercapital.com/content/Structural-Breaks--Breaking-Points-in-Data--Structural-Breaks-and-Their-Connection-to-Unit-Roots.html",
-    "https://maseconomics.com/structural-breaks-in-time-series-analysis-managing-sudden-changes/",
-    "https://tpetzoldt.github.io/elements/slides/10-timeseries-outlook.html",
-    "https://www.researchgate.net/publication/335557620_Tests_for_Structural_Breaks_in_Time_Series_Analysis_A_Review_of_Recent_Development",
-    "https://www.researchgate.net/publication/325075681_Structural_Breaks_in_Time_Series",
-    "https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000"
+    "https://www.stata.com/features/overview/structural-breaks/",
+    "https://rady.ucsd.edu/_files/faculty-research/timmermann/time-series.pdf",
+    "https://www.bu.edu/econ/files/2019/01/structural-change-oxford.pdf",
+    "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
+    "https://www.aptech.com/structural-breaks/",
+    "https://rpubs.com/Ken_Fritzell/982102",
+    "https://stats.stackexchange.com/questions/395078/how-to-detect-and-quantify-a-structural-break-in-time-series-r",
+    "https://ec.europa.eu/eurostat/documents/3888793/5838209/KS-DT-05-029-EN.PDF/9cb16268-6479-4014-8a0c-68606e772a2f",
+    "https://docs.iza.org/dp1196.pdf",
+    "https://en.m.wikipedia.org/wiki/Structural_break"
    ]
   },
   {
    "query": "site:note.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
    "results": [
+    "https://note.com/tk_caesar/n/n0f2a00012968",
     "https://note.com/outlifest/n/n428fa2839fc2",
     "https://note.com/nanto_econ/n/n480d956bf5a9",
-    "https://note.com/qsgly/n/n816869d5eaa7",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
     "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
-    "https://note.com/e_dao/n/nd75a74b66c9d",
     "https://note.com/takusuke_note/n/n62ee167dcb62",
-    "https://note.com/e_dao/n/n378940bcd85a"
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7",
+    "https://note.com/takonosuke/n/n6d33beec6a99",
+    "https://note.com/dapper_pansy7918/n/nd2d56084e2e0"
    ]
   },
   {
    "query": "site:x.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
    "results": [
-    "https://jf.x.com/images/media-preview/2113477377489789340",
-    "https://jf.x.com/images/media-preview/2112719820307521679",
-    "https://x.com/uchujin17/status/2110479404661137705",
-    "https://x.com/sci_koho/status/2043922065359810594",
-    "https://x.com/shi__works/status/2082773813138518053",
-    "https://x.com/ChibaUnivIMO/status/2043941224470724634",
-    "https://x.com/Spia23Tc/status/2114965654780706877"
+    "https://note.com/outlifest/n/n428fa2839fc2",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
+    "https://note.com/takusuke_note/n/n62ee167dcb62",
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7",
+    "https://note.com/takonosuke/n/n6d33beec6a99",
+    "https://note.com/dapper_pansy7918/n/nd2d56084e2e0",
+    "https://note.com/tk_caesar/n/n0f2a00012968"
    ]
   },
   {
    "query": "site:linkedin.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
    "results": [
-    "https://www.linkedin.com/pulse/作業ログ20240526-koji-hirai-h8pnf",
-    "https://jp.linkedin.com/pulse/breaking-down-trends-guide-time-series-decomposition-haitham-radhi-vzeff?tl=ja",
-    "https://jp.linkedin.com/pulse/intro-time-series-analysis-thu-m-pham-qx8rc?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-join-two-time-series-when-timestamps-dont-match-marco-gessner?tl=ja",
-    "https://jp.linkedin.com/pulse/time-series-forecasting-decomposition-practical-kalyan-sarvepalli-p6bic?tl=ja",
-    "https://jp.linkedin.com/learning/tableau-desktop-essential-training/3201316"
+    "https://note.com/outlifest/n/n428fa2839fc2",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
+    "https://note.com/takusuke_note/n/n62ee167dcb62",
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7",
+    "https://note.com/takonosuke/n/n6d33beec6a99",
+    "https://note.com/dapper_pansy7918/n/nd2d56084e2e0",
+    "https://note.com/tk_caesar/n/n0f2a00012968"
    ]
   },
   {
    "query": "site:facebook.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
    "results": [
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー卸売小売サービス価格指数の長期遡及推計価格数量の分離問題と生産性野村-浩二-ファカルティフェローを掲載いたしましたhttpswwwriet/2843003312458175/",
-    "https://www.facebook.com/seikatsusoken/posts/ニュースリリース生活者への長期時系列調査-生活定点19922024の最新結果を発表本リリースではコロナ禍前後の意識や行動の変化に注目しましたhttpsseika/988707399727818/",
-    "https://www.facebook.com/seikatsusoken/posts/サイト更新長期時系列調査生活定点の最新2024年データを公開中膨大なデータをグラフィカルに分かりやすく表示するとともに意外な発見やヒントを得たい方のために様々な/988155229783035/",
-    "https://www.facebook.com/hamakaze.shinbun/posts/創立30周年記念講演会開催三浦半島活断層調査会三浦半島の大地を知り減災を考える2025年7月4日号-横須賀三浦湘南版活断層のことを多くの人に正確に伝えるため調査/1242975424506407/",
-    "https://www.facebook.com/economics.kwansei/videos/授業の様子をお届けrによるデータ分析経済学部３年生以上が履修できる人気授業rによるデータ分析に潜入してきましたこの授業では統計分析ソフト-r-を使い高度なデータ/1620697982952099/",
-    "https://www.facebook.com/nikkei/posts/東九州新幹線の駅ルート需要推計国が初調査-50年ぶりの動き-国は2026年度中に整備の手法を調査するケーススタディーを初めて実施します整備計画への格上げにつなが/1623868429084553/",
-    "https://www.facebook.com/NHKonline/photos/ｎｈｋスペシャル-緊急報告熊本地震の衝撃-爆発断層猛暑現場で何がhttpswwwwebnhktvanspecialplseries-tep-2ny2qqlpm3/1575506497271555/"
+    "https://note.com/outlifest/n/n428fa2839fc2",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
+    "https://note.com/takusuke_note/n/n62ee167dcb62",
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7",
+    "https://note.com/takonosuke/n/n6d33beec6a99",
+    "https://note.com/dapper_pansy7918/n/nd2d56084e2e0",
+    "https://note.com/tk_caesar/n/n0f2a00012968"
    ]
   },
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） note 社長",
    "results": [
     "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
+    "https://www.boj.or.jp/statistics/outline/notice_2026/not260625a.htm",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
+    "https://bellcurve.jp/statistics/course/23739.html",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.soumu.go.jp/main_content/000428257.pdf",
     "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html"
+    "https://www.soumu.go.jp/main_content/000576512.pdf"
    ]
   },
   {
    "query": "統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり） X 投稿",
    "results": [
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.soumu.go.jp/main_content/000571394.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://metricgate.com/blogs/ja/time-series-vs-cross-sectional/",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.boj.or.jp/research/research_data/cai/rel200605b.htm",
+    "https://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%EF%BC%88%EF%BC%91%EF%BC%89_2019.pdf",
+    "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
+    "https://www.mext.go.jp/a_menu/kaihatu/jishin/projects/20250604-ope_dev03-4.pdf",
+    "https://bellcurve.jp/statistics/course/18948.html",
+    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf"
    ]
   },
   {
    "query": "statistical time series break linking retropolation official statistics site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/1/how-can-you-test-structural-breaks-time-series-data-econometric-rtg6e",
-    "https://www.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf",
-    "https://uk.linkedin.com/posts/titi-kanti-lestari-5aaa1a122_dataintegration-timeseries-activity-7039828731560943617-9CfR",
-    "https://mx.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
-    "https://ph.linkedin.com/in/jdlalunio",
-    "https://pe.linkedin.com/posts/office-for-statistics-regulation_a-reason-to-be-optimistic-sharing-and-linking-activity-7293585931113041921-kNKG",
-    "https://pk.linkedin.com/in/saadiakhan0901"
+    "https://fr.linkedin.com/in/david-gauthier-36911415a",
+    "https://fr.linkedin.com/in/jonathan-garson-93b718191",
+    "https://en.m.wikipedia.org/wiki/Structural_break",
+    "https://www.researchgate.net/publication/325075681_Structural_Breaks_in_Time_Series",
+    "https://fastercapital.com/content/Structural-Breaks--Breaking-Points-in-Data--Structural-Breaks-and-Their-Connection-to-Unit-Roots.html",
+    "https://grokipedia.com/page/Structural_break",
+    "https://www.geeksforgeeks.org/machine-learning/time-series-analysis-and-forecasting/",
+    "https://www.researchgate.net/publication/313893287_Structural_Change_in_Economic_Time_Series",
+    "https://www.geeksforgeeks.org/data-analysis/monitoring-and-assessing-the-significance-of-changes-in-time-series-data/",
+    "https://onlinelibrary.wiley.com/doi/10.1111/jtsa.70055"
    ]
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-05T08:37:48.099258+00:00"
 }

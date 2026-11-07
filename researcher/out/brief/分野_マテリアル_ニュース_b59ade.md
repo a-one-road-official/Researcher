@@ -270,56 +270,57 @@
 - SNS・note（X・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... X https://x.com > @digitalpr_jp」https://x.com/digitalpr_jp/status/2109860265751687557
 ### 業界ニュース（毎日）｜レアメタルリサイクル（e-waste precious metal recovery）
-- 取得：2026-11-06T03:57・調査3回目・読んだ頁42
-- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（71件）：
-  - ［一次］2026-11-06「報提供するほか、資源循環実証事業の中に参加メーカーとリサイクル事業者と」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「するため、自動車メーカーと解体業者との間でレアメタル含有情報の共有を」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「効率的なリサイクルを行うため、駆動用電池メーカーと 製錬業者との間で、」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-05「（製品と一体となった排出の場合）ＰＣ ：３Ｒ法に基づくメーカー回収」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
-  - ［一次］2026-11-05「○各スキームにおける回収量：ＪＢＲＣ（１５１トン）、ＰＣメーカー（５３６トン）、ＭＲＮ（１９８トン）」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
-- 顧客の顧客（発注元が求めること）（16件）：
+- 取得：2026-11-07T04:23・調査4回目・読んだ頁42
+- 痛み・損（深さの印）（1件）：
+  - ［SNS］2026-11-07「プライシングは「規制1回あたりの想定損失額」を基準にした価値ベースが妥当」https://note.com/izuku_idea/n/nfd1693d962ff
+- 顧客（金を払う側）（99件）：
+  - ［一次］2026-11-07「※3 総合環境企業ミヤマ株式会社. "再資源化（リサイクル）".」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「また、一般社団法人JBRC（Japan Portable Rechargeable Battery Recycling Center）は、小型充電式電池のメーカーとそれを利用する企業などが共同で設立した団体で、使用済みとなったニカド電池、ニッケル水素電池、リチウムイオン電池などの回収を行っています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「この使用済みターゲット材は、ターゲット材メーカーやリサイクルメーカーへ戻され、酸溶解→中和→置換析出→溶解・鋳造→電解精製という順で処理されて、インジウムの二次地金が生産されます」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「産総研 - ニュース イベント：2026年度産総研エネルギー・環境シンポジウムシリーズ 戦略的都市鉱山の未来展開ーリサイクル工場の無人化と高度選別技術の普及ー」https://www.aist.go.jp/aist_j/news/event/ev20261130.html
+  - ［一次］2026-11-07「2026年度産総研エネルギー・環境シンポジウムシリーズ 戦略的都市鉱山の未来展開ーリサイクル工場の無人化と高度選別技術の普及ー」https://www.aist.go.jp/aist_j/news/event/ev20261130.html
+- 顧客の顧客（発注元が求めること）（22件）：
   - ［一次］2026-11-04「１９年度 ２０年度 ２１年度 ２２年度 ２３年度 ２４年度（予算要求中）」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
-  - ［記事］2026-11-06「本記事では、製造業におけるレアメタルリサイクルの最新動向や効率化手法、導入事例を紹介し、環境課題や脱炭素社会の実現にどのように貢献できるかを解説します」https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10
-  - ［記事］2026-11-06「実際、グリーンサプライチェーンのリスク評価手法としてファジー総合評価（FCE）モデルがY社で適用され、サプライヤー選定などで定量的な判断材料を得る取り組みが報告されています（参照*6）」https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10
-  - ［記事］2026-11-06「特に製造業では、生産工程との親和性が高く、廃棄物を薬品抽出や自動選別技術で再活用することで、脱炭素社会への貢献と収益性の両立が可能です」https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10
-  - ［記事］2026-11-05「脱炭素 (100)」https://seminar.atengineer.com/chemical/stb261150/
-- 顧客の競合（奪いに来る側）（64件）：
+  - ［記事］2026-11-07「特にハイテク産業に不可欠なレアメタルは、現状、輸入に頼らざるを得ず、ひとたび供給不足が起これば、世界の脱炭素社会の推進に甚大な影響を及ぼします」https://startupclass.co.jp/article/2025/04/21/emulsion-flow-technologies/
+  - ［記事］2026-11-07「情報は「委託先」から漏れる サプライチェーン時代の情報漏洩と製造業の守り〜【第６話】制度は「質問票」でやってくる 取引先の要求に備える」https://www.dctainc.com/blog/
+  - ［記事］2026-11-07「はじめに 第8話を振り返って第8話では、「RE100・SBT・CBAM、サプライチェーン全体の脱炭素」というテーマで、自社の壁を越えた外部圧力に向き合う3つの視点を掘り下げました」https://www.dctainc.com/blog/
+  - ［記事］2026-11-07「はじめに 第6話を振り返って第6話では、水素・アンモニア・合成燃料という「脱炭素第二の波」を3つの視点で掘り下げました」https://www.dctainc.com/blog/
+- 顧客の競合（奪いに来る側）（98件）：
+  - ［一次］2026-11-07「近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「こうした経済要因に加え、中国の輸出枠削減（2010年から）や、インドネシアによる鉱石輸出禁止措置（2014年）といった政治要因も懸念材料です」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「高品位なインドネシア産ニッケル鉱石の代替は容易ではなく、需給逼迫と価格上昇が懸念されており、リサイクルの重要性が高まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-05「○さらに、本年５月、商務部及び中国税関が、レアアース鉄合金をレアアースの輸出管理対象にす」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
-  - ［一次］2026-11-05「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「4月2日、米国相互関税の発表と米中貿易の対立激化を受けて銅価格は急落し、一時8,500US$/t台まで戻した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「8月以降は、チリEl Teniente鉱山の坑内崩落事故やインドネシアGrasberg鉱山での土砂流入事故などが続き、供給懸念から銅価上昇基調を示し、12月には12,500US$/tを越えて過去最高値を更新した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-- 自社の競合（商社・代理店・仲介）（10件）：
+- 自社の競合（商社・代理店・仲介）（14件）：
+  - ［記事］2026-11-07「〜0.1%ルール・50%ルールなど、商社経由や第三国経由でも逃れられない仕組み」https://www.dctainc.com/blog/
   - ［記事］2026-11-04「This is a paid press release. Contact the press release distributor directly with any inquiries.」https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html
   - ［記事］2026-11-04「Decommissioning, on-site data destruction, maximum resale value」https://eridirect.com/blog/2026/03/the-rise-of-formal-e-waste-ecosystems-in-2026/
   - ［記事］2026-11-04「European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
   - ［記事］2026-11-04「Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
-  - ［SNS］2026-11-06「プレイヤー構成：自治体×リサイクル企業×商社」https://note.com/iceman_23/n/nfea3a09d5355
-- 政治（法・予算・規制）（58件）：
+- 政治（法・予算・規制）（94件）：
+  - ［一次］2026-11-07「また、2011年4月からは「小型家電リサイクル法」という法律が施行されました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「家電の回収活動で先行している自治体等と連携して検討を進めるほか、レアメタルの回収技術やそれに伴う重金属等有害物質対策、残渣処理技術等の研究開発について、「レアメタル回収技術特別枠」（循環型社会形成推進科学研究費補助金に、2009年度から新設）などの枠組みを使って積極的な支援を行っています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-06「の多くは、法律に基づく回収スキーム（自動車、家電４品目、パソコン、小」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
   - ［一次］2026-11-06「本年２月に、使用済自動車の再資源化等に関する法律施行規則（平成十四」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
   - ［一次］2026-11-05「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「今後も経済安全保障のテーマはより頻繁に取り上げられることになると考えられることから、その経緯を整理する上での参考として活用いただければ幸いである」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-- 経済（規模・価格・為替）（104件）：
+- 経済（規模・価格・為替）（128件）：
+  - ［一次］2026-11-07「近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-05「＜22年度補正、420億円の内数＞」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
   - ［一次］2026-11-05「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
   - ［一次］2026-11-05「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「4月2日、米国相互関税の発表と米中貿易の対立激化を受けて銅価格は急落し、一時8,500US$/t台まで戻した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-  - ［一次］2026-11-05「6月は銅輸入関税導入への懸念とドル安で価格は上昇し10,000US$/tを越えたものの、7月には銅鉱石・地金が米追加関税対象外となったことを受けて下落」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
-- 社会（人・担い手）（5件）：
-  - ［記事］2026-11-06「さらに、リサイクルの取り組みは新たな産業や雇用の創出、地域経済の活性化にも繋がるとされ、多角的な視点からの取り組みが求められています」https://sanwamekki.com/info/column/column_peeling/raremetal-recycling/
-  - ［記事］2026-11-06「経費削減、業務改善、人材育成に取り組み1年でV字回復させる」https://sanwamekki.com/info/column/column_peeling/raremetal-recycling/
-  - ［SNS］2026-11-06「・雇用創出（250名）」https://note.com/iceman_23/n/nfea3a09d5355
-  - ［SNS］2026-11-06「を生み出し、雇用250名を創出し、廃棄物処理コストを削減できます」https://note.com/iceman_23/n/nfea3a09d5355
-  - ［SNS］2026-11-04「金融機関に勤めながら副業として、FP(CFP・FP技能士1級）をしています」https://note.com/tasty_godwit501/n/na76bda3fa27a
-- 技術（新しい技術・実証）（64件）：
-  - ［一次］2026-11-06「異なりリサイクル技術は開発途上であること、レアメタルを多く含む使用済製品」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「は、リサイクルの技術開発の推進のほか、どの部品にどの資源が使用されてい」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「技術開発については、鉱種・製品・リサイクル工程毎に進捗状況は異なる」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「にレアメタルリサイクルに係る技術 開発 ロードマップを作成した ところであ」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
-  - ［一次］2026-11-06「（３）レアメタルの回収が進むまでの準備（資源循環実証事業）」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf
+- 社会（人・担い手）（17件）：
+  - ［記事］2026-11-07「そう考えた私は、ビジネスの視点を学ぶべく、2018年に思い切ってNEDO SSA（研究開発型ベンチャーの成長を支援する人材育成プログラム）を受講することにしました」https://startupclass.co.jp/article/2025/04/21/emulsion-flow-technologies/
+  - ［記事］2026-11-07「組織も30人規模にまで成長し、より専門性の高い人材が関わり始めるようになったことで、自分がこなすべきタスクの内容にも大きな変化が生じていました」https://startupclass.co.jp/article/2025/04/21/emulsion-flow-technologies/
+  - ［記事］2026-11-07「ワットが決めるAIの勝敗 電力制約時代の製造業とデータセンター 【第５話】 データセンター誘致と地域 雇用・税収・電力・水の交渉」https://www.dctainc.com/blog/
+  - ［記事］2026-11-07「◆前回のおさらいと、今回お話ししたいこと前回の第8話では、人とロボットの役割分担と、技能継承について、現場の本音から、たっぷりとお話ししました」https://www.dctainc.com/blog/
+  - ［記事］2026-11-07「フィジカルAIが塗り替える製造業の勢力図 日本はどこで勝てるか 【第８話】人とロボットの役割分担 現場の本音と技能継承」https://www.dctainc.com/blog/
+- 技術（新しい技術・実証）（102件）：
+  - ［一次］2026-11-07「4. レアメタルリサイクル技術の開発」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「http://www.meti.go.jp/policy/recycle/main/admin_info/committee/o/26/hairi26_04.pdf」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「「3.代替材料開発」に関しては、「既存の延長線上にない物質・材料の革新的機能の創出」を目指す元素戦略プロジェクトの取り組みが、文部科学省により2007年度から始まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「また、経済産業省も非鉄金属資源の代替材料及び使用量低減技術の確立を目的として、「希少金属代替材料開発プロジェクト」に取り組むなど、この分野には多くの注目が集まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「個々のレアメタルの物性の違いや、製品中の含有率、利用方法、廃棄・回収事情の違いなどを反映し、さまざまな側面でリサイクル技術の開発が進んでいます」https://tenbou.nies.go.jp/science/description/detail.php?id=62
 - SNS・note（note・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「ゴミの山は宝の山！「都市鉱山」が注目される理由 - note ゴミの山は宝の山！「都市鉱山」が注目される理由 - note note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/tasty_godwit501/n/na76bda3fa27a
 - SNS・note（note・本文）（8件）：
@@ -328,10 +329,14 @@
   - ［SNS］2026-11-04「スマートフォン、パソコン、電気自動車、太陽光パネル——私たちの暮らしに欠かせないハイテク製品には、「レアメタル（希少金属）」や「レアアース（希土類）」と呼ばれる貴重な金属が使われています。」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「しかし今、中国による輸出規制の強化、中東情勢の不安定化、そして世界的な脱炭素化の加速によって、これらの資源を巡る争奪戦が激化しています。」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「そんな中、改めて熱視線を集めているのが「都市鉱山（Urban Mining）」という概念です。捨てられた電子機器の中に眠る金属を「都市に埋まる鉱山」と捉え直すこの考え方は、資源のない日本にとって大きな希望になりえます。」https://note.com/tasty_godwit501/n/na76bda3fa27a
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... 橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1998664755880599803
-- 検索結果の抜粋（1件）：
+- 検索結果の抜粋（4件）：
+  - ［一次］2026-11-07「レアメタルリサイクル技術 - 環境技術解説｜環境展望台：国立環境研究... — その課題解決の一翼を担うと期待されるレアメタルリサイクル技術について、事例を交えながら、最近の動向と課題を紹介します。 1. レアメタルとは 2. レアメタル確保の取り組み 3. レアメタルリサイクルを事業化するには」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「レアメタルリサイクル／産業環境管理協会／資源・リサイクル促進セン... — Jan 31, 2025 · 2019.12.11 〔ネオジム〕東京エコリサイクル株式会社、日和サービス株式会社、NEOMAXエンジニアリング株式会社による先進事業「レアアース磁石におけるサーキュラーエコノミーの推進」を掲載しました。」https://www.cjc.or.jp/raremetal/
+  - ［記事］2026-11-07「銅や レアメタル など製造する炉新設へ JX金属製錬佐賀関製錬 ... — 銅や レアメタル など製造する炉新設へ JX金属製錬佐賀関製錬 ... tosonline.jp https://tosonline.jp > news > 20260119」https://tosonline.jp/news/20260119/00000005.html
   - ［SNS］2026-11-04「レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... — レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > レアメタルリサイクル市場...」https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe
+- SNS・note（X・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-07「テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... テレ東BIZ on X: " レアメタル を“都市鉱山”から自動発掘 ... X https://x.com > @txbiz_ondemand」https://x.com/txbiz_ondemand/status/2012736707972718723
+  - ［SNS］2026-11-04「橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... 橘 龍馬 on X: " ”都市鉱山”関連銘柄 貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1998664755880599803
 ### 業界ニュース（毎日）｜マテリアルズインフォマティクス（materials informatics）
 - 取得：2026-11-07T04:00・調査4回目・読んだ頁46
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）

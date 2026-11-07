@@ -80,54 +80,59 @@
   - ［SNS］2026-11-06「軽量で曲げられる特性を持つペロブスカイト太陽電池は、設置場所を広げる次世代技術として期待されています。」https://note.com/tag/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0
   - ［SNS］2026-11-06「企業の量産計画や政府の支援策、技術的な課題や環境リスクに関する記事が集まっています。」https://note.com/tag/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0
 ### 業界ニュース（毎日）｜水電解装置（water electrolyzer）
-- 取得：2026-11-06T03:55・調査3回目・読んだ頁43
+- 取得：2026-11-07T04:27・調査4回目・読んだ頁42
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（69件）：
-  - ［一次］2026-11-06「国内にはMW規模の水電解装置を導入した再エネ水素事業が2件ある*1」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-06「水電解装置容量（MW） メーカー 進捗状況 実施場所」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-05「➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-05「Microsoft：データセンターへグリーン水素供給実証を実施 Meta:データセンター向け電源に水素混焼→将来専焼を採用」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-05「• FCVの累計導入台数は4万5千台で世界トップ」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-- 顧客の顧客（発注元が求めること）（58件）：
-  - ［一次］2026-11-05「脱炭素電源オークション」）を、2023年度から開始」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-05「〔3〕熱需要や産業プロセス等の脱炭素化実証」https://www.nedo.go.jp/koubo/SE3_100001_00119.html
-  - ［一次］2026-11-05「今後、再エネの更なる活用や導入拡大に向けては、余剰となる再エネの有効活用や再エネの変動を調整する脱炭素化された調整力の確保が喫緊の課題となる」https://sii.or.jp/chikudenchi07r/
-  - ［一次］2026-11-05「Status represents current manufacturing volumes. 2026 and ultimate targets assume economies of scale have been achieved with high-volume manufacturing. Installation costs, such as engineering, procurement, construction, 」https://www.energy.gov/cmei/fuels/technical-targets-proton-exchange-membrane-electrolysis
-  - ［一次］2026-11-04「燃料（RFNBO）」認証証書を取得※2」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-- 顧客の競合（奪いに来る側）（79件）：
-  - ［一次］2026-11-04「➢ 欧州水素銀行による第１回入札を実施」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-04「➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［記事］2026-11-06「海外では石油精製用途が40％以上を占め、特に北米や中国、中東地域で需要が大きい」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04582/?ST=msb
-  - ［記事］2026-11-06「特に、中国は数十MWから数百MWのプロジェクトが多数進行しており、欧州は高い技術力を持つメーカーが多くMW級の導入が増えている」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04582/?ST=msb
-  - ［記事］2026-11-06「YHResearch調査チームの最新レポート「グローバル水素製造用 AEM 水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、2026年の263百万米ドルから2032年には5400百万米ドルに成長し、2026年から2032年の間にCAGRは65.5%になると予測されています」https://newscast.jp/news/4799318
+- 顧客（金を払う側）（82件）：
+  - ［一次］2026-11-07「いて、2030年までに日本関連企業の水電解装置（部素材を含む）」https://www.nedo.go.jp/content/100980790.pdf
+  - ［一次］2026-11-07「の国内外導入目標を15GW程度とする新たな目標が設定された」https://www.nedo.go.jp/content/100980790.pdf
+  - ［一次］2026-11-07「まとめ、水電解装置の円滑な導入に係るガイドラインの骨子を策」https://www.nedo.go.jp/content/100980790.pdf
+  - ［一次］2026-11-07「水素や燃料電池に関連する産業の集積地を目指す山梨県企業局を幹事企業に、プロジェクトに参画した10団体によって、国内最大規模となる水素製造拠点「グリーン水素パーク -白州-」（以下、グリーン水素パーク）が山梨県北杜市に建設されました」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「大口需要家となる隣接のサントリー天然水 南アルプス白州工場に対して、2025年10月から化石燃料の代替としてグリーン水素の供給が始まっています（」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+- 顧客の顧客（発注元が求めること）（64件）：
+  - ［一次］2026-11-07「このテーマでは具体的な研究開発内容として、(1)水電解装置の大型化・モジュール化技術開発、(2)優れた新部材の装置への実装技術開発、(3)熱需要や産業プロセス等の脱炭素実証、の3つに取り組んでいます」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「大規模PEM型水電解装置の開発、熱需要の脱炭素化実証」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「• 電化・脱炭素化により年間80万トンのCO2発生を抑制」https://journal.jogmec.go.jp/content/300515399.pdf
+  - ［一次］2026-11-07「• HAR1による収益支援の財源は英国ネット・ゼロ戦略における産業用脱炭素・水素収入支援」https://journal.jogmec.go.jp/content/300515399.pdf
+  - ［一次］2026-11-07「•検証・認証されたRFNBO水素製造単位当たり4.5ユーロ/kgを上」https://journal.jogmec.go.jp/content/300515399.pdf
+- 顧客の競合（奪いに来る側）（88件）：
+  - ［一次］2026-11-07「• 欧州プロジェクトGrInHy2.0において、720kWのSOECをSalzgitter Flachstahl GmbH（ドイ」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「• 2023年4月、欧州プロジェクトMultiPLHYにおいて、グリーン水素供給のため、 2.6MWの」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「 具体的には、海外機関等とも必要に応じ連携して欧州の運転環境の再現も可能としつつ、①大型水電解スタック（500kW」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「• 14~15隻のアンモニア専用船団、米国メキシコ湾岸、南米、北西」https://journal.jogmec.go.jp/content/300515399.pdf
+  - ［一次］2026-11-07「35MW PEM電解槽（ナイアガラ、米国）」https://journal.jogmec.go.jp/content/300515399.pdf
 - 自社の競合（商社・代理店・仲介）（3件）：
   - ［記事］2026-11-04「当出版物によって、出版者はそれが明示されているか示唆されているかにかかわらず、有価証券あるいは商品取引の注文を発注、手配、助言、仲介、奨励する意図はない」https://media.rakuten-sec.net/articles/-/51220
   - ［記事］2026-11-04「半導体商社の日本株5選：事業構造に強み、今期増益予想」https://media.rakuten-sec.net/articles/-/51220
   - ［記事］2026-11-04「The electrolyzer commissioning was first suspended in the fourth quarter of 2024. Following a comprehensive review of the incremental investment and ongoing operating costs required to complete and operate the facility, 」https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy
-- 政治（法・予算・規制）（60件）：
-  - ［一次］2026-11-05「「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」プロジェクトの実施体制の決定について | 公募 | NEDO」https://www.nedo.go.jp/koubo/SE3_100001_00119.html
-  - ［一次］2026-11-05「「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」プロジェクトの実施体制の決定について」https://www.nedo.go.jp/koubo/SE3_100001_00119.html
-  - ［一次］2026-11-05「）は、「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」に係る公募を実施し、ご提案いただいた1件の提案について審査を行い、別紙1のとおり実施予定先を決定いたしました」https://www.nedo.go.jp/koubo/SE3_100001_00119.html
-  - ［一次］2026-11-05「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」https://www.nedo.go.jp/koubo/SE3_100001_00119.html
-  - ［一次］2026-11-05「令和7年度補正予算 省エネ・非化石転換補助金（工場・事業場型）」https://sii.or.jp/chikudenchi07r/
-- 経済（規模・価格・為替）（93件）：
-  - ［一次］2026-11-05「最大3.97億ユーロ(約730億円)の支援で2027年からの」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-04「➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-04「(約4,450億円)を見込む」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-04「10年間で総額7.2億ユーロ(約1,320億円)の支援を見込む」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-  - ［一次］2026-11-04「15件(総額9.92億ユーロ(約1,820億円))の落札を発表」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
-- 社会（人・担い手）（6件）：
+- 政治（法・予算・規制）（80件）：
+  - ［一次］2026-11-07「本調査では、水電解装置に関する法規制等の現状を調査し、そ」https://www.nedo.go.jp/content/100980790.pdf
+  - ［一次］2026-11-07「水電解装置に関連する法規制等の課題整理に係る調査」https://www.nedo.go.jp/content/100980790.pdf
+  - ［一次］2026-11-07「国内最大規模の水電解による水素製造拠点が稼働 | NEDO グリーンイノベーション基金」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「再生可能エネルギーで発電した電力を使って水素を大量かつ低コストで製造し供給する技術を確立するために、NEDOは「グリーンイノベーション（GI）基金事業／再エネ等由来の電力を活用した水電解による水素製造」プロジェクトを推進しています」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「今回のGI基金事業の成果を将来の大型化に展開していくには、基本となるモジュールを開発し、そのモジュールを必要な容量に応じて複数並べる構成が望ましいと考えました」と、NEDO 水素・アンモニア部 大規模水素利用ユニット GI水素チーム チーム長の釘宮貴徳プロジェクトマネージャーは語ります」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+- 経済（規模・価格・為替）（116件）：
+  - ［一次］2026-11-07「/h（6.5万円/kW）を見通しながら、2026年12月時点で1,050千円/」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「/h（25万円/kW）の達成を目指しています」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「⚫ 「2032年までにSOECの設備コストを6.8万円/kWより下げることを見通せる技術の実現」を目標として、以下」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「費目 金額（億円）補助率2/3 金額（億円）補助率1/2 合計」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+  - ［一次］2026-11-07「（国費負担額：上限721.5億円→上限1070.5億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
+- 社会（人・担い手）（9件）：
+  - ［記事］2026-11-07「2020年2月の所信では、「やまなし水素・燃料電池バレー」の実現に向け、産学官金の連携による人材育成と企業間のマッチングを進める方針を示した」https://www.pref.yamanashi.jp/koucho/kadai/hydrogenenergy.html
+  - ［記事］2026-11-07「その知見と県内の実装現場を結び付け、国内外の人材が学ぶ拠点を形成する方針であり、LIGHTによる知見の集積と人材育成も、この取り組みに位置付けられる」https://www.pref.yamanashi.jp/koucho/kadai/hydrogenenergy.html
+  - ［記事］2026-11-07「併せて、県内企業の水素産業参入につながる低圧水素配管の標準化に向けた実証試験と、LIGHTによる人材育成を進めるため、2026年９月補正予算に2,800万円余が計上された」https://www.pref.yamanashi.jp/koucho/kadai/hydrogenenergy.html
   - ［記事］2026-11-05「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk
   - ［記事］2026-11-05「C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk
-  - ［記事］2026-11-04「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD
-  - ［記事］2026-11-04「C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD
-  - ［記事］2026-11-04「2040年までに電解装置の生産規模を拡大し、100万人の雇用を創出し、最大2,000億ユーロ（2,160億ドル）の輸出額を生み出すというビジョンを掲げる」https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/
-- 技術（新しい技術・実証）（74件）：
-  - ［一次］2026-11-06「ITM Power 2021年～実証･2023年～商用 英国（グラスゴー）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-06「Cummins/Hydrogenics 2019年～実証・2021年～商用 カナダ（ベカンクール）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-06「Nel 2022年～実証 スペイン（プエルトリャノ）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-06「Nel 2021年～実証・2022～商用 デンマーク（フレゼレシア）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
-  - ［一次］2026-11-06「Thyssenkrupp 2022年～実証・2024年～商用 オランダ（ロッテルダム）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+- 技術（新しい技術・実証）（87件）：
+  - ［一次］2026-11-07「水素は、カナデビアが開発した6MWの水電解装置と、シーメンス・エナジーが開発した10MWの水電解装置の2系統によって製造されます」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「両社の水電解装置はいずれも、東レが開発した炭化水素系電解質膜を用いて純水から電気分解によって水素をつくる仕組みです」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「100MW級の大規模化を見据えた技術開発と実証を推進」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「本プロジェクトはこの3つを実現する開発を進めており、グリーン水素パークでの取り組みはその考えに基づいています」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+  - ［一次］2026-11-07「具体的には、本プロジェクトで掲げる研究開発項目「水電解装置の大型化技術等の開発、Power-to-X 大規模実証」におけるテーマの1つ、「カーボンニュートラル実現へ向けた大規模P2Gシステムによるエネルギー需要転換・利用技術開発」での活動です」https://green-innovation.nedo.go.jp/article/greenhydrogen/
+- SNS・note（note・検索結果の抜粋）（1件）：
+  - ［SNS］2026-11-04「AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/qy_research/n/n8c5c67273525
+- SNS・note（X・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-05「フジアルテ株式会社 on X: "～カナデビア 水電解装置 量産工場 ... フジアルテ株式会社 on X: "～カナデビア 水電解装置 量産工場 ... X https://x.com > @corporateWeb_fa」https://x.com/corporateWeb_fa/status/1859899624498069697
+  - ［SNS］2026-11-04「dragonbird on X: " 水電解装置 とは？目的・研究・製造の動向 dragonbird on X: " 水電解装置 とは？目的・研究・製造の動向 X https://x.com > @dragonb63254274」https://x.com/dragonb63254274/status/2115273313970950545
 - SNS・note（note・本文）（7件）：
   - ［SNS］2026-11-04「AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032｜QYResearch」https://note.com/qy_research/n/n8c5c67273525
   - ［SNS］2026-11-04「AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032」https://note.com/qy_research/n/n8c5c67273525
@@ -140,11 +145,6 @@
   - ［記事］2026-11-06「水電解装置 の世界市場、前年3倍超の9497 億円 、2040年には ... — 水電解装置 の世界市場、前年3倍超の9497 億円 、2040年には ... 日経BP https://project.nikkeibp.co.jp > atcl > news」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04582/?ST=msb
   - ［記事］2026-11-06「水素経済の主役： 電解 槽市場が40.3%CAGRで急拡大 — 水素経済の主役： 電解 槽市場が40.3%CAGRで急拡大 Newscast.jp https://newscast.jp > news > 2171110」https://newscast.jp/news/2171110
   - ［記事］2026-11-06「大規模PEM 電解 水素製造 装置 の世界市場（ 2026年 ～2032年） — 大規模PEM 電解 水素製造 装置 の世界市場（ 2026年 ～2032年） アットプレス https://www.atpress.ne.jp > news」https://www.atpress.ne.jp/news/9072204
-- SNS・note（X・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-05「フジアルテ株式会社 on X: "～カナデビア 水電解装置 量産工場 ... フジアルテ株式会社 on X: "～カナデビア 水電解装置 量産工場 ... X https://x.com > @corporateWeb_fa」https://x.com/corporateWeb_fa/status/1859899624498069697
-  - ［SNS］2026-11-04「dragonbird on X: " 水電解装置 とは？目的・研究・製造の動向 dragonbird on X: " 水電解装置 とは？目的・研究・製造の動向 X https://x.com > @dragonb63254274」https://x.com/dragonb63254274/status/2115273313970950545
-- SNS・note（note・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/qy_research/n/n8c5c67273525
 ### 業界ニュース（毎日）｜グリーンアンモニア（green ammonia）
 - 取得：2026-11-07T03:54・調査4回目・読んだ頁48
 - 痛み・損（深さの印）（1件）：
@@ -302,21 +302,21 @@
   - ［SNS］2026-11-07「電気自動車の普及スピードに目を奪われがちですが、トラック、建設機械、農業機械、船舶、そして航空機。この「電化が一気には進まない領域」をカーボンニュートラルに近づけるためには、燃料そのものを変えるしかありません。今回の小委員会は、バイオディーゼル、SAF（持続可能な航空燃料）、バイオエタノール、次世代液体燃料、クリーン燃料証書、水素社会推進法という」https://note.com/scivanai/n/n197ffa7731d7
   - ［SNS］2026-11-07「脱炭素燃料政策小委員会は、化石燃料から脱炭素燃料への転換を、原料調達・製造・規格・税制・需要創出まで一気通貫で議論する場です。今回はとくに、」https://note.com/scivanai/n/n197ffa7731d7
 ### 業界ニュース（毎日）｜地熱発電（geothermal power）
-- 取得：2026-11-06T04:02・調査3回目・読んだ頁46
+- 取得：2026-11-07T04:23・調査4回目・読んだ頁46
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（74件）：
-  - ［一次］2026-11-06「また、経済対策で決定した「AI・半導体産業基盤強化フレーム」に基づき、次世代半導体の量産化に向けた金融支援や、先端半導体設計拠点等の整備等に必要な予算を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「東日本大震災復興特別会計においては、復興の進展も踏まえ、避難指示解除区域等への企業立地の促進や、福島国際研究教育機構におけるロボット分野の研究開発の実施等に必要な予算を計上し、引き続き復興支援を推進することとしている」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「具体的には、ビルの壁面などに設置可能な軽量で柔軟なペロブスカイト太陽電池等の製造設備等への投資支援や従来の太陽電池では設置が難しい場所へのモデル導入に対し660億円〔＋112億円〕、次期航空機の機体の軽量化やエンジンの高効率化に向けた技術実証等に対し81億円〔新規〕、CO2の発生を抑える製鉄手法の導入に必要な設備投資に対し256億円〔▲71億円〕等を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「経済対策で決定した「AI・半導体産業基盤強化フレーム」に基づき、次世代半導体の量産化に向けた金融支援や、先端半導体設計拠点等の整備等、計3,328億円の支援を実施」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「具体的には、次世代半導体の量産設備の整備等に係る資金需要の対応や財務基盤の強化等のために、次世代半導体事業者に対して出資支援※を講じるべく、（独）情報処理推進機構（IPA）への出資に1,000億円〔新規〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-- 顧客の顧客（発注元が求めること）（45件）：
+- 顧客（金を払う側）（81件）：
+  - ［一次］2026-11-07「(1) 再生可能エネルギーの導入拡大・・・・・・・・・・・・・・・・・８」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「１ 再生可能エネルギーの安定供給、導入拡大・・・・・・・・・・・・・11」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「電気事業では、10年後の目指す姿 「再生可能エネルギーの安定供給と導入拡大により、」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「平成21 年以降は、再生可能エネルギーの導入を促進するため、」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「来のCO2 フリー電力を県内企業に供給する「とやま水の郷でんき」を提供していま」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+- 顧客の顧客（発注元が求めること）（46件）：
+  - ［一次］2026-11-07「〇 脱炭素社会の実現に向け、国においても、令和２(2020)年 10 月に「2050 年カー」https://www.pref.toyama.jp/documents/50822/denki4.pdf
   - ［一次］2026-11-06「2050年カーボンニュートラル及び2030年度削減目標の実現に向けて、エネルギー対策特別会計において、令和4年度に創設された地域脱炭素移行・再エネ推進交付金について、達成目標の明確化等の制度見直しや中間評価を踏まえた事業のブラッシュアップ等を行った上で、自営線を用いたマイクログリッド構築等を支援する交付金（特定地域脱炭素移行加速化交付金）とあわせて385億円〔▲40億円〕を計上しているほか、我が国のエネルギー消費の約15％を占める家庭部」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「そのほか、COP29（国連気候変動枠組条約第29回締約国会議）における議論等を踏まえ、我が国のCO2排出量削減にも資する脱炭素インフラ等の輸出を推進するため、日本企業による優れた脱炭素技術のパートナー国への導入支援に143億円〔▲0.2億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「令和8年度「産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）」及び「資源国脱炭素化・エネルギー転換技術等支援事業費補助金」の公募結果について」https://www.enecho.meti.go.jp/appli/public_offer_result/
   - ［一次］2026-11-06「令和7年度「産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）」及び「資源国脱炭素化・エネルギー転換技術等支援事業費補助金」の公募結果について」https://www.enecho.meti.go.jp/appli/public_offer_result/
-  - ［一次］2026-11-04「太陽光発電や風力発電といった変動性再エネ導入が拡大した場合の系統安定化コストの大きさが明らかになるに伴い、水力発電と並んで安定的な自給エネルギーであり、脱炭素電源である地熱発電の導入拡大を期待する声は高い」https://ieei.or.jp/2026/01/takeuchi_260115/
-- 顧客の競合（奪いに来る側）（78件）：
+- 顧客の競合（奪いに来る側）（99件）：
   - ［一次］2026-11-05「インドネシア陸上油田におけるCO2圧入」https://www.jogmec.go.jp/news/release/release_01326.html
   - ［一次］2026-11-05「to help identify hidden geothermal systems by using geophysical data to identify faults and structures that indicate geothermal resources. The competition comprises two rounds, with prizes ranging from $15,000 to $100,00」https://www.energy.gov/hgeo/geothermal/drill-down
   - ［一次］2026-11-04「「フラッキング（水圧破砕）」技術（米国で、シェールガスを採掘する際に使われた技術）を使って地下の岩盤を割り、人工的に水路を設置」https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html
@@ -328,134 +328,136 @@
   - ［記事］2026-11-04「は、2016年5月にイタリアのバイナリー専業メーカーのTurboden（ターボデン）と代理店契約を締結した後、グループ会社とした」https://www.decarbonation-tech.com/renewable_5000/
   - ［記事］2026-11-04「また、世界的にはAI・データセンター事業者向けのクリーン電力需要の高まりを要因として、次世代型地熱発電向けの投資額が急拡大しており、日本の商社やエネルギー関連企業からの出資や提携も相次ぐなど、グローバルなエネルギー戦略の視点から注目が高まっています」https://www.fkg-report.jp/market-trends/2026/3429.html
   - ［SNS］2026-11-04「https://ec.europa.eu/commission/presscorner/api/files/document/print/de/ip_24_2424/IP_24_2424_DE.pdf」https://note.com/hirokimiyano/n/n8ff46dc5bd5b
-- 政治（法・予算・規制）（59件）：
+- 政治（法・予算・規制）（71件）：
   - ［一次］2026-11-06「特集 令和7年度 経済産業省、環境省、裁判所、警察庁、法務省予算について : 財務省」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「文中、〔 〕書きの金額は、令和6年度当初予算比の増減を表す」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「経済産業省の令和7年度一般会計予算は、エネルギー対策特別会計への繰入の削減等により、対前年度当初予算で▲189億円の8,506億円となっている」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「主な項目で見ると、エネルギー対策特別会計において、カーボンプライシングで得られる将来の財源を裏付けとした「GX経済移行債」を発行し、官民のGX投資を促進することとしており、次世代太陽電池等のサプライチェーン構築等に必要な予算を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「また、経済対策で決定した「AI・半導体産業基盤強化フレーム」に基づき、次世代半導体の量産化に向けた金融支援や、先端半導体設計拠点等の整備等に必要な予算を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-- 経済（規模・価格・為替）（108件）：
-  - ［一次］2026-11-06「経済産業省の令和7年度一般会計予算は、エネルギー対策特別会計への繰入の削減等により、対前年度当初予算で▲189億円の8,506億円となっている」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「カーボンプライシングで得られる将来の財源を裏付けとした「GX経済移行債」の発行により、官民のGX投資を促進することとし、計7,258億円の支援を実施」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「具体的には、ビルの壁面などに設置可能な軽量で柔軟なペロブスカイト太陽電池等の製造設備等への投資支援や従来の太陽電池では設置が難しい場所へのモデル導入に対し660億円〔＋112億円〕、次期航空機の機体の軽量化やエンジンの高効率化に向けた技術実証等に対し81億円〔新規〕、CO2の発生を抑える製鉄手法の導入に必要な設備投資に対し256億円〔▲71億円〕等を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「経済対策で決定した「AI・半導体産業基盤強化フレーム」に基づき、次世代半導体の量産化に向けた金融支援や、先端半導体設計拠点等の整備等、計3,328億円の支援を実施」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「具体的には、次世代半導体の量産設備の整備等に係る資金需要の対応や財務基盤の強化等のために、次世代半導体事業者に対して出資支援※を講じるべく、（独）情報処理推進機構（IPA）への出資に1,000億円〔新規〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-- 社会（人・担い手）（18件）：
+- 経済（規模・価格・為替）（136件）：
+  - ［一次］2026-11-07「令和５年度に売電単価が大きく上昇したことにより、料金収入の減少幅を抑える」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「○ 地域の温泉事業者と協力して地熱井（約1,500m）を掘削し、固定価格買取制度を」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「※１ 再エネ電気を国の定める価格で一定期間買い取る制度」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「収益的収入の総額は平均 74.4 億円、収益的支出の総額は平均 59.1 億円を見込んでい」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「また、計画期間中の経常利益の平均は 16.2 億円、当年度純利益の平均は 15.3 億」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+- 社会（人・担い手）（20件）：
+  - ［一次］2026-11-07「(7) 組織変革と人材の確保・育成・・・・・・・・・・・・・・・・・・９」https://www.pref.toyama.jp/documents/50822/denki4.pdf
+  - ［一次］2026-11-07「(7) 組織変革と人材の確保・育成」https://www.pref.toyama.jp/documents/50822/denki4.pdf
   - ［一次］2026-11-06「具体的には、東日本大震災及び原子力災害によって産業が失われた避難指示解除区域等において、雇用の創出及び産業集積を図り、被災者の自立・帰還を加速するため、工場等の新増設の支援を実施するため110億円〔▲12億円〕、災害現場等の過酷環境下や人手不足の産業現場等でも対応可能となるようなロボットの研究開発を実施するとともに、再生可能エネルギーを動力源として利用する水素エネルギーネットワークの構築等の技術開発等を実施するため63億円〔＋2億円〕等」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「原子力規制に必要な知見を有する人材を育成し、審査・検査体制等の充実・強化につなげるため、国内の大学等における原子力規制に係る教育研究プログラム確立に5億円〔＋0.3億円〕を計上しているほか、令和6年能登半島地震において地盤の隆起や変位・変形が生じたことを踏まえ、断層の活動性の評価手法等について新たな知見を取得し、審査ガイドラインの見直し等を実施するために5億円〔＋2億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
   - ［一次］2026-11-06「また、育成就労制度の創設を始めとする出入国管理及び難民認定法等の改正への対応を含め、円滑かつ厳格な出入国管理体制や外国人材の受入れ体制の整備及び共生社会の実現に向けた取組の強化として253億円〔＋10億円〕を計上している」https://www.mof.go.jp/public_relations/finance/202503/202503d.html
-  - ［一次］2026-11-06「令和8年度「原子力産業基盤強化事業（安全性向上を担う人材の育成事業）」に係る企画競争による委託先の採択結果について」https://www.enecho.meti.go.jp/appli/public_offer_result/
-  - ［一次］2026-11-04「for the Partnerships for Academic-Industry Career Training Initiative. The opportunity will enhance the nation’s capacity for a highly skilled energy workforce. Two projects will focus on geothermal.」https://www.energy.gov/hgeo/geothermal/drill-down
-- 技術（新しい技術・実証）（75件）：
+- 技術（新しい技術・実証）（79件）：
   - ［一次］2026-11-06「地熱発電が普及しない要因には、地熱資源が北海道や東北、九州など火山地帯にかたより存在しており、適した地域が限られているといった自然的な要因に加え、日本の地熱資源の8割が国立・国定公園内にあり、これまでは各公園での地熱開発が認められて来なかったことが挙げられます」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
   - ［一次］2026-11-06「たとえば、熱水や水蒸気の有無、地層の状態などの地下構造を探査する技術の向上や、発電所の運転開始後に十分な蒸気量を維持するため人工的に水を注入する技術（人工かん養）の開発などがあります」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
   - ［一次］2026-11-06「また、革新的な「超臨界地熱発電技術」の開発も試みており、この技術は、従来の掘削よりもさらに地下深く、マグマに近い部分にある超臨界状態の熱水資源（「超臨界状態」とは、液体と気体の区別がつかなくなっている水）を活用することで、これまでよりも大規模な発電が可能になります」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
   - ［一次］2026-11-06「さらに、この超臨界地熱資源の特徴は、超高温・超高圧であり、酸性濃度が高いことから、井戸やタービンなど設備の腐食対策や、大深度の掘削技術を確立するため、開発もおこなわれています」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
   - ［一次］2026-11-06「日本温泉協会からは、「温泉事業者の多くは地熱反対派ではなく、地熱心配派であり、無秩序な開発がおこなわれることを懸念している」との声もあがっており、事業の成功にはこうした不安を解消するため、地元との意見交換や、温泉への影響にかかわるモニタリング調査、勉強会などを開催し理解の促進を図ることが重要となります」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
+- SNS・note（note・本文）（29件）：
+  - ［SNS］2026-11-07「地熱発電でアイスランドほどの大成功、とは日本ではいかない理由｜shinshinohara」https://note.com/shinshinohara/n/ne6eb2cdaa7f0
+  - ［SNS］2026-11-07「地熱発電でアイスランドほどの大成功、とは日本ではいかない理由」https://note.com/shinshinohara/n/ne6eb2cdaa7f0
+  - ［SNS］2026-11-07「地熱発電、アイスランドでは盛んにおこなわれているのに日本ではさほど進まないのはなぜだろう？という記事を書いたら、地熱発電に詳しい方々がたくさん情報を寄せて下さった。」https://note.com/shinshinohara/n/ne6eb2cdaa7f0
+  - ［SNS］2026-11-07「アイスランドと日本で共通したお困りごと（配管が目詰まりする、ヒ素を含んだお湯が出たりするなど）を別として、「アイスランドと比べるとなぜ日本では地熱発電が進みにくいのか」に絞って考えると、大きな理由はどうやら４つ挙げられそう。」https://note.com/shinshinohara/n/ne6eb2cdaa7f0
+  - ［SNS］2026-11-06「日本の地熱資源量は約2,300万キロワット（23ギガワット級）と推計され、米国、インドネシアに次ぐ世界第3位の規模とよく紹介されます。火山が多く、地下の浅いところまで高温の岩盤やマグマだまりが来ている地質のためです。」https://note.com/hirokimiyano/n/n8ff46dc5bd5b
+- SNS・note（X・検索結果の抜粋）（1件）：
+  - ［SNS］2026-11-04「橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... 橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1982288576948613486
 - SNS・note（LinkedIn・検索結果の抜粋）（2件）：
   - ［SNS］2026-11-04「My visit to Utah to see the future of geothermal power - LinkedIn My visit to Utah to see the future of geothermal power - LinkedIn LinkedIn https://www.linkedin.com > pulse > m...」https://www.linkedin.com/pulse/my-visit-utah-see-future-geothermal-power-bill-gates-59j5c
   - ［SNS］2026-11-04「Britain opens its first geothermal power plant - LinkedIn Britain opens its first geothermal power plant - LinkedIn LinkedIn https://www.linkedin.com > pulse > b...」https://www.linkedin.com/pulse/britain-opens-its-first-geothermal-power-plant-adam-vaughan-v3o9e
-- SNS・note（note・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「1102億円が直撃する次世代 地熱発電 「厳選20銘柄」完全 ... 1102億円が直撃する次世代 地熱発電 「厳選20銘柄」完全 ... note https://note.com > 投資・マネー > 日本株」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
-  - ［SNS］2026-11-04「地熱 資源大国の日本はなぜ次世代 地熱 で出遅れたのか 中部 ... 地熱 資源大国の日本はなぜ次世代 地熱 で出遅れたのか 中部 ... note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/hirokimiyano/n/n8ff46dc5bd5b
-  - ［SNS］2026-11-04「2026 年版：次世代 地熱発電 （AGS/EGS）市場レポート ~なぜ今 2026 年版：次世代 地熱発電 （AGS/EGS）市場レポート ~なぜ今 note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/saidatomoya/n/n6b7040ea3efb
-  - ［SNS］2026-11-04「次世代 地熱 の掘削速度を143％向上 米国で500MW開発 ... - note 次世代 地熱 の掘削速度を143％向上 米国で500MW開発 ... - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/yukunews/n/n9a310beea054
-- SNS・note（note・本文）（25件）：
-  - ［SNS］2026-11-06「日本の地熱資源量は約2,300万キロワット（23ギガワット級）と推計され、米国、インドネシアに次ぐ世界第3位の規模とよく紹介されます。火山が多く、地下の浅いところまで高温の岩盤やマグマだまりが来ている地質のためです。」https://note.com/hirokimiyano/n/n8ff46dc5bd5b
-  - ［SNS］2026-11-05「1102億円が直撃する次世代地熱発電「厳選20銘柄」完全マップ タービン・掘削・素材まで網羅｜日本個別株デューデリジェンスセンター」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
-  - ［SNS］2026-11-05「1102億円が直撃する次世代地熱発電「厳選20銘柄」完全マップ タービン・掘削・素材まで網羅」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
-  - ［SNS］2026-11-05「しかし2026年4月、流れが一変します。経済産業省は温泉地以外でも発電できる次世代型地熱発電に対して、2026〜30年度に1102億円を支援することを決定。マグマ上部の高温高圧の流体から蒸気を生産して発電する「超臨界地熱」、高温の岩盤にパイプで水を通して熱を集める「クローズドループ」、地下で人工的につくった亀裂に水を注入して地熱をためる「EGS」の3方式に対し、調査・試験掘削費用の3分の2を国が出すという、過去にない規模の本格支援です。」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
-  - ［SNS］2026-11-05「なぜ今、地熱なのか。日本は米国、インドネシアに次ぐ世界第3位の地熱資源を保有しながら、現状の設備容量は約52万kWと全電力のわずか0.3%程度。一方、生成AIの普及によるデータセンターの電力爆食、化石燃料依存からの脱却、エネルギー安全保障――あらゆるベクトルが「安定電源としての地熱」を指しています。経済産業省は2025年10月に次世代型地熱発電の導入に向けたロードマップを策定し、2040年には1.4GW、2050年には7.7GWにする計」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... 橘 龍馬 on X: " 地熱発電 【関連株・銘柄まとめ 】 自民×維新 ... X https://x.com > @t_ryoma1985」https://x.com/t_ryoma1985/status/1982288576948613486
-- 検索結果の抜粋（20件）：
+- 検索結果の抜粋（22件）：
   - ［一次］2026-11-06「【第11回】 地熱発電 が普及しない要因と施策について ... - 八雲町 — 【第11回】 地熱発電 が普及しない要因と施策について ... - 八雲町 八雲町 https://www.town.yakumo.lg.jp > soshiki > syoukou > zer...」https://www.town.yakumo.lg.jp/soshiki/syoukou/zerocarbon-city-yakumo-11.html
   - ［一次］2026-11-06「地熱発電 開発促進のための政策要望 (令和6・7 年度合同版) — 地熱発電 開発促進のための政策要望 (令和6・7 年度合同版) 日本地熱協会 PDF https://www.chinetsukyokai.com > news」https://www.chinetsukyokai.com/news/76/%E6%94%BF%E7%AD%96%E8%A6%81%E6%9C%9B%20(%E4%BB%A4%E5%92%8C6%E3%83%BB7%E5%B9%B4%E5%BA%A6%E5%90%88%E5%90%8C%E7%89%88).pdf
   - ［一次］2026-11-05「次世代 地熱発電 技術への取り組み - 国際環境経済研究所 — 次世代 地熱発電 技術への取り組み - 国際環境経済研究所 NPO法人 国際環境経済研究所 https://ieei.or.jp > 2026/01 > takeuchi_260115」https://ieei.or.jp/2026/01/takeuchi_260115/
   - ［一次］2026-11-05「令和8年度第1回 地熱発電 理解促進事業費 補助金 の公募結果 ... — 令和8年度第1回 地熱発電 理解促進事業費 補助金 の公募結果 ... 九州経済産業局 https://www.kyushu.meti.go.jp > support2」https://www.kyushu.meti.go.jp/support2/2605/260511_1.html
   - ［一次］2026-11-04「地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... — 地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > geothermal_power2026」https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html
+- SNS・note（note・検索結果の抜粋）（5件）：
+  - ［SNS］2026-11-07「地熱発電 でアイスランドほどの大成功、とは日本ではいかない ... 地熱発電 でアイスランドほどの大成功、とは日本ではいかない ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/shinshinohara/n/ne6eb2cdaa7f0
+  - ［SNS］2026-11-05「1102億円が直撃する次世代 地熱発電 「厳選20銘柄」完全 ... 1102億円が直撃する次世代 地熱発電 「厳選20銘柄」完全 ... note https://note.com > 投資・マネー > 日本株」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
+  - ［SNS］2026-11-04「地熱 資源大国の日本はなぜ次世代 地熱 で出遅れたのか 中部 ... 地熱 資源大国の日本はなぜ次世代 地熱 で出遅れたのか 中部 ... note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/hirokimiyano/n/n8ff46dc5bd5b
+  - ［SNS］2026-11-04「2026 年版：次世代 地熱発電 （AGS/EGS）市場レポート ~なぜ今 2026 年版：次世代 地熱発電 （AGS/EGS）市場レポート ~なぜ今 note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/saidatomoya/n/n6b7040ea3efb
+  - ［SNS］2026-11-04「次世代 地熱 の掘削速度を143％向上 米国で500MW開発 ... - note 次世代 地熱 の掘削速度を143％向上 米国で500MW開発 ... - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/yukunews/n/n9a310beea054
 ### 業界ニュース（毎日）｜洋上風力（offshore wind）
-- 取得：2026-11-06T03:43・調査3回目・読んだ頁49
-- 痛み・損（深さの印）（6件）：
+- 取得：2026-11-07T04:23・調査4回目・読んだ頁49
+- 痛み・損（深さの印）（9件）：
   - ［一次］2026-11-06「コスト約40％上昇（約760億円の損失を」https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf
   - ［一次］2026-11-06「コスト上昇(約6100億円の損失を計上)」https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf
-  - ［記事］2026-11-06「定期点検にトラブル対応の人員を加えると計約4500人の作業員が必要になり、高齢化や転職による離職を考慮すると30年までに4500～6750人、現在の約10倍に上る人材育成が必要になると推計している」https://blogs.ricoh.co.jp/RISB/environment/post_886.html
-  - ［記事］2026-11-06「は6日、2024年4～12月期の連結決算（国際会計基準）を発表し、国内3海域のプロジェクトで522億円の損失を計上した」https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/
-  - ［記事］2026-11-06「この事業撤退により、企業連合（三菱商事、中部電力グループなど）からは約200億円の保証金没収の他、三菱商事が2024年度連結決算で525億円の損失計上をするなど、事業各社が損失計上を進めています」https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=5654
-- 顧客（金を払う側）（110件）：
-  - ［一次］2026-11-06「洋上風力発電の導入をいち早く取り入れた欧州・米国」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「2024年現在、900名の海洋エネルギー開発にかかわる企業の社会人が受講し、主に技術者育成の拠点として活用されています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「導入量の予測、各国・地域の目標、日本の動向、そして洋上風力に関連する各論について詳述しています」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「1-1 世界：洋上風力発電の導入実績」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「1-2 世界：2024年導入設備容量と地域割合」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-- 顧客の顧客（発注元が求めること）（56件）：
-  - ［一次］2026-11-06「高さが最大190m以上（50階建てビルに相当）にのぼり、波による揺れも発生する洋上風力発電においては、メンテナンスの実施に高度な技術が要求されます」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「洋上風力発電の国際的機関であるGWO（国際風力機関）の認証を受けた訓練を提供する拠点です」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「年間に最大1,000人の訓練能力を有し、高所作業や海上サバイバル訓練などのGWO認証訓練に加えて世界初の実海域での洋上風車への移乗訓練など、洋上風力発電の実践的なメンテナンス作業を見据えた訓練プログラムを準備しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「• [資料集]洋上風力の調査研究、欧州委員会レポートより 浮体式洋上風力発電の技術基準と適合性評価・認証制度、および海洋空間計画（2025年2月）」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-- 顧客の競合（奪いに来る側）（101件）：
+  - ［記事］2026-11-07「三菱商事が巨額損失を発表する2日前、洋上風力発電事業のパートナーである中部電力も2024年4～12月期に同事業で179億円の損失を計上すると発表していた」https://diamond.jp/articles/-/358920
+  - ［記事］2026-11-07「【化学15社】倒産危険度ランキング2027最新版！13位DIC、前回5位のUBEは何位に？」https://diamond.jp/articles/-/358920
+  - ［記事］2026-11-07「中部電力も170億円の損失を計上した」https://climatetech-japan.com/offshore-wind-recompetition-2026/
+- 顧客（金を払う側）（126件）：
+  - ［一次］2026-11-07「３．導入が進みつつある我が国の洋上風力発電の状況」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「（１）導入状況及び導入計画」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「規導入量は5,132万kWとなっている」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「そのうち洋上風力の新規導入量は450万kWであり、」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「新規導入量の 8.8％に上っている2」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+- 顧客の顧客（発注元が求めること）（67件）：
+  - ［一次］2026-11-07「ーニング組織でトレーニングを受講することでＧＷＯ認証を取得することができる 21」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「かし、2019 年９月時点で、我が国の認証施設は、青森県上北郡六ケ所村にあるイオスエン」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「脱炭素化技術の海外展開の一環として洋上風力発電を新規に重点分野とすることが示され」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「めていく（R6年度概算要求額8.5億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+  - ［一次］2026-11-07「コネティカット 洋上風力エネルギーの調達に関する法律 (Act Concerning the Procurement of Energy Derived from Offshore Wind) 2030年までに 2GW 2019」https://www.renewable-ei.org/pdfdownload/activities/202310_Offshorewindinfo.pdf
+- 顧客の競合（奪いに来る側）（111件）：
+  - ［一次］2026-11-07「欧州における 2018 年 12 月時点の設備容量は 1,828 万 kW に達しており、今」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「後も 2020 年に 2,500 万 kW、2030 年までに 6,650 万 kW の洋上風力を開発し、欧州全体に」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
   - ［一次］2026-11-06「洋上風力発電の導入をいち早く取り入れた欧州・米国」https://www.nippon-foundation.or.jp/what/projects/offshorewind
   - ［一次］2026-11-06「2-2 欧州：洋上風力発電の導入目標比較」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
   - ［一次］2026-11-06「2-3 欧州：洋上風力発電の導入目標に関する政策比較」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「3-2 欧州：洋上風力発電の新規導入量の見通し」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「3-3 中国：洋上風力発電の新規導入量の見通し」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-- 自社の競合（商社・代理店・仲介）（13件）：
+- 自社の競合（商社・代理店・仲介）（19件）：
+  - ［一次］2026-11-07「EU： EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THECOMMITTEE OF THE」https://www.renewable-ei.org/pdfdownload/activities/202310_Offshorewindinfo.pdf
+  - ［一次］2026-11-07「カリフォルニア州 : California Energy Commission, “Offshore Wind Energy Development off the California Coast: Maximum Feasible Capacity and Megawatt Planning Goals for 2030 and 2045” （2022年8月）」https://www.renewable-ei.org/pdfdownload/activities/202310_Offshorewindinfo.pdf
   - ［一次］2026-11-06「• EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
   - ［一次］2026-11-06「• EU Commission” COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
   - ［一次］2026-11-05「EU： EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THECOMMITTEE OF THE」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
-  - ［一次］2026-11-05「カリフォルニア州 : California Energy Commission, “Offshore Wind Energy Strategic Plan” （2024年6月）」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
-  - ［一次］2026-11-05「今冬の燃料（LNG）の安定供給確保に向けて、電力・ガス事業者、資源開発事業者・商社との官民連絡会議（第5回作業部会）を開催しました」https://www.enecho.meti.go.jp/notice/news_release/2026/
-- 政治（法・予算・規制）（85件）：
-  - ［一次］2026-11-06「政府も2020年に2050年カーボンニュートラル宣言を行い、2030年までに10GW（10MWの風車1,000基相当）、2040年までに30～45GWの洋上風力発電の稼働を目標に定め、普及に向けて動きが加速しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「案件は価格決定が競争入札制に移行するため、その影響が懸念されているが、過去に固定価格買取制度が終了した後も、政府の財政支援なしに産業が成」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「5.6GWを導入するという政府目標の達成は難しそうである」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「2022年に洋上風力ロードマップを発表し、再生可能エネルギーへの外資規制を」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「政府は2028」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-- 経済（規模・価格・為替）（107件）：
-  - ［一次］2026-11-06「and areas of industrial growth」 （2025年6月）」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「出典） RenewableUK「Map of the UK’s wind energy supply chain and areas of industrial growth」（2025年6月）」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「三菱商事は落札した秋田沖など3海域洋上風力事業で522億円の減損損失を計上し、他の風力事業を含めて事業性の再評価を検討中である」https://ieei.or.jp/2025/04/aesj-engy_20250421/
-  - ［一次］2026-11-06「しかし、海洋利用に関する統一的なルールがない事、海運や漁業等の地域先行利用者との調整に係る枠組みがない状況にあった事、価格の目安として36円/kWhというFIT価格はあまりにも高額である等の課題があった」https://ieei.or.jp/2025/04/aesj-engy_20250421/
-  - ［一次］2026-11-06「140万kWのノーフォーク・ボレアス洋上風力の取引を22年に英国政府と締結したが当初予定していた投資額が40％上昇したとして23年7月に事業撤退を発表」https://ieei.or.jp/2025/04/aesj-engy_20250421/
-- 社会（人・担い手）（60件）：
-  - ［一次］2026-11-06「洋上風力人材育成プロジェクト | 日本財団」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「洋上風力人材育成プロジェクトとは、日本国内で普及が進む洋上風力発電において、不足が懸念される洋上風力人材」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「洋上風力人材とは、プロジェクトを企画・風車設計などを担う「技術者」、風車の建設や設置後のメンテナンスを担う「技能者」のことをいいます」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「しかし、海洋開発の現場に乏しい日本では、洋上風力発電を設置する人材が慢性的に不足しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-- 技術（新しい技術・実証）（89件）：
-  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「しかし、海洋開発の現場に乏しい日本では、洋上風力発電を設置する人材が慢性的に不足しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「2024年現在、900名の海洋エネルギー開発にかかわる企業の社会人が受講し、主に技術者育成の拠点として活用されています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「日本財団洋上風力人材育成センター（愛称：NOA TRAINING）」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-  - ［一次］2026-11-06「洋上風力発電に携わる技術者を対象にした教育プログラム（洋上風力発電におけるHSEや送電システム）の開発を担っています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「#2 Offshore and Nearshore Wind Power: Meeting the Energy ... #2 Offshore and Nearshore Wind Power: Meeting the Energy ... LinkedIn https://www.linkedin.com > pulse > 2...」https://www.linkedin.com/pulse/2-offshore-nearshore-wind-power-meeting-energy-needs-zaeuf
-  - ［SNS］2026-11-04「The truth about offshore wind | Ørsted - LinkedIn The truth about offshore wind | Ørsted - LinkedIn LinkedIn https://www.linkedin.com > posts > or...」https://www.linkedin.com/posts/orsted_the-truth-about-offshore-wind-activity-7498713299560128514-87Wy
-  - ［SNS］2026-11-04「The development of offshore wind energy market - LinkedIn The development of offshore wind energy market - LinkedIn LinkedIn https://www.linkedin.com > pulse > d...」https://www.linkedin.com/pulse/development-offshore-wind-energy-market-peter-robert-gq00e
-  - ［SNS］2026-11-04「Offshore Wind Development Progress in the U.S. - LinkedIn Offshore Wind Development Progress in the U.S. - LinkedIn LinkedIn https://www.linkedin.com > innovation」https://www.linkedin.com/top-content/innovation/renewable-energy-growth/offshore-wind-development-progress-in-the-u-s/
+- 政治（法・予算・規制）（100件）：
+  - ［一次］2026-11-07「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「上風力 161 億 kWh、洋上風力 22 億 kWh）とされており6、現状の認定量は既にエネルギーミ」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「2018 年７月に閣議決定された第５次エネルギー基本計画において、「洋上風力について」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「15 デロイトトーマツコンサルティング合同会社「平成29年度電気施設等の保安規制の合理化検討に係る調査」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「を学ぶ Sea Survival（海上サバイバル）の５つのコースから成り、ＧＷＯが認定したトレ」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+- 経済（規模・価格・為替）（133件）：
+  - ［一次］2026-11-07「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「●現在、再エネ海域利用法に基づき、沿岸海域における着床式を中心に、年平均で1GWのペースで10箇所の」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+  - ［一次］2026-11-07「・ 投資額：約400億円」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+  - ［一次］2026-11-07「設整備に係る支援を2022年度から実施（R4年度6.5億円、R5年度6.5億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+  - ［一次］2026-11-07「めていく（R6年度概算要求額8.5億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+- 社会（人・担い手）（65件）：
+  - ［一次］2026-11-07「４．風力発電業界における人材不足」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「５．担い手確保に向けた現状と課題」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「（１）人材育成のための教育プログラムの策定」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「り1、特に保守・運用等を行うメンテナンス分野の人材確保が喫緊の課題となっている」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「⚫ 洋上風力の事業開発を担う人材、エンジニア、専門作業員の育成に向け、カリキュラム作成やトレーニング施」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/008_04_00.pdf
+- 技術（新しい技術・実証）（102件）：
+  - ［一次］2026-11-07「６．ＡＩを活用したメンテナンス技術の開発」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「（１）スマートメンテナンスを支える通信技術の開発」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「（２）Condition Monitoring System（ＣＭＳ）高度化技術開発」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「（３）スマートメンテナンス点検プラットフォームの開発」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+  - ［一次］2026-11-07「後も 2020 年に 2,500 万 kW、2030 年までに 6,650 万 kW の洋上風力を開発し、欧州全体に」https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf
+- SNS・note（note・検索結果の抜粋）（3件）：
+  - ［SNS］2026-11-04「日本の 洋上風力 発電 2026 着床式から浮体式への転換 - note 日本の 洋上風力 発電 2026 着床式から浮体式への転換 - note note https://note.com > ビジネス > ビジネス全般」https://note.com/saidatomoya/n/n3b235c58066e
+  - ［SNS］2026-11-04「【 2026 年最新】 洋上風力 関連銘柄15選｜三菱商事撤退で総 ... 【 2026 年最新】 洋上風力 関連銘柄15選｜三菱商事撤退で総 ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/umaki11/n/n677a371812c7
+  - ［SNS］2026-11-04「洋上風力 発電ジャケットの世界市場規模： 2026 年は2421百万 ... 洋上風力 発電ジャケットの世界市場規模： 2026 年は2421百万 ... note https://note.com > ビジネス > ビジネス全般」https://note.com/qy_research/n/n9a44f91f17df
 - SNS・note（X・検索結果の抜粋）（4件）：
   - ［SNS］2026-11-06「東京電力ホールディングス 株式会社 on X: "【浮体式 洋上風力 ... 東京電力ホールディングス 株式会社 on X: "【浮体式 洋上風力 ... X https://x.com > @OfficialTEPCO」https://x.com/OfficialTEPCO/status/2074772978911305796
   - ［SNS］2026-11-04「# 洋上風力 - Search / X # 洋上風力 - Search / X X https://x.com > Search」https://x.com/hashtag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B
   - ［SNS］2026-11-04「岸田文雄 on X: "国内では初となる浮揚式の 洋上風力 発電所 ... 岸田文雄 on X: "国内では初となる浮揚式の 洋上風力 発電所 ... X https://x.com > @kishida230」https://x.com/kishida230/status/2025136964421517703
   - ［SNS］2026-11-04「東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... 東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... X https://x.com > @toyosea1040」https://x.com/toyosea1040/status/2085281194586087727
-- SNS・note（note・検索結果の抜粋）（3件）：
-  - ［SNS］2026-11-04「日本の 洋上風力 発電 2026 着床式から浮体式への転換 - note 日本の 洋上風力 発電 2026 着床式から浮体式への転換 - note note https://note.com > ビジネス > ビジネス全般」https://note.com/saidatomoya/n/n3b235c58066e
-  - ［SNS］2026-11-04「【 2026 年最新】 洋上風力 関連銘柄15選｜三菱商事撤退で総 ... 【 2026 年最新】 洋上風力 関連銘柄15選｜三菱商事撤退で総 ... note https://note.com > 政治・経済 > ビジネス・経済」https://note.com/umaki11/n/n677a371812c7
-  - ［SNS］2026-11-04「洋上風力 発電ジャケットの世界市場規模： 2026 年は2421百万 ... 洋上風力 発電ジャケットの世界市場規模： 2026 年は2421百万 ... note https://note.com > ビジネス > ビジネス全般」https://note.com/qy_research/n/n9a44f91f17df
-- 検索結果の抜粋（35件）：
-  - ［一次］2026-11-06「洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-  - ［一次］2026-11-06「受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ — 受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ INFRONEER Holdings Inc. PDF https://www.infroneer.com > topblog > kibelog_vol18」https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf
-  - ［一次］2026-11-06「【提言】 洋上風力 発電導入計画の実態を明らかにし — 【提言】 洋上風力 発電導入計画の実態を明らかにし NPO法人 国際環境経済研究所 https://ieei.or.jp > 2025/04 > aesj-engy_20250421」https://ieei.or.jp/2025/04/aesj-engy_20250421/
-  - ［一次］2026-11-06「洋上風力 発電の動向 - 自然エネルギー財団 — 洋上風力 発電の動向 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > 202407_...」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
-  - ［一次］2026-11-06「世界で急拡大する浮体式 洋上風力 発電と我が国の課題 — 世界で急拡大する浮体式 洋上風力 発電と我が国の課題 東京大学 PDF https://lemons.k.u-tokyo.ac.jp > symposium > 1-2_...」https://lemons.k.u-tokyo.ac.jp/symposium/4/1-2_%E4%B8%96%E7%95%8C%E3%81%A7%E6%80%A5%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E6%B5%AE%E4%BD%93%E5%BC%8F%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AE%E8%AA%B2%E9%A1%8C.pdf
 - SNS・note（note・本文）（21件）：
   - ［SNS］2026-11-04「日本の洋上風力発電 2026 着床式から浮体式への転換、およびエネルギーミックスにおける戦略的価値｜齊田興哉」https://note.com/saidatomoya/n/n3b235c58066e
   - ［SNS］2026-11-04「日本の洋上風力発電 2026 着床式から浮体式への転換、およびエネルギーミックスにおける戦略的価値」https://note.com/saidatomoya/n/n3b235c58066e
   - ［SNS］2026-11-04「・遠浅の海が少ない日本周辺海域における「着床式」の適地限界と、排他的経済水域（EEZ）展開を見据えた「浮体式洋上風力」への技術的転換」https://note.com/saidatomoya/n/n3b235c58066e
   - ［SNS］2026-11-04「・セミサブ型、スパー型、TLP（緊張係留型）等主要浮体基礎の流体力学的特性、動的アンビリカル・高圧海底送電ケーブル、SEP船・係留施工の工学的ボトルネック」https://note.com/saidatomoya/n/n3b235c58066e
   - ［SNS］2026-11-04「・再エネ海域利用法や2030/2040年エネルギー基本計画を踏まえた、2026年〜2040年の導入容量・均等化発電原価（LCOE）予測」https://note.com/saidatomoya/n/n3b235c58066e
+- 検索結果の抜粋（40件）：
+  - ［一次］2026-11-07「洋上風力 発電の動向 - 自然エネルギー財団 — 洋上風力 発電の動向 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > 202310_...」https://www.renewable-ei.org/pdfdownload/activities/202310_Offshorewindinfo.pdf
+  - ［一次］2026-11-06「洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ — 受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ INFRONEER Holdings Inc. PDF https://www.infroneer.com > topblog > kibelog_vol18」https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf
+  - ［一次］2026-11-06「【提言】 洋上風力 発電導入計画の実態を明らかにし — 【提言】 洋上風力 発電導入計画の実態を明らかにし NPO法人 国際環境経済研究所 https://ieei.or.jp > 2025/04 > aesj-engy_20250421」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+  - ［一次］2026-11-06「洋上風力 発電の動向 - 自然エネルギー財団 — 洋上風力 発電の動向 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > 202407_...」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
+- SNS・note（LinkedIn・検索結果の抜粋）（5件）：
+  - ［SNS］2026-11-07「The science behind the tech - part 2: Offshore Wind - LinkedIn The science behind the tech - part 2: Offshore Wind - LinkedIn LinkedIn https://www.linkedin.com > pulse > sc...」https://www.linkedin.com/pulse/science-behind-tech-part-2-offshore-wind-bluebell-drummond-r2z0e
+  - ［SNS］2026-11-05「#2 Offshore and Nearshore Wind Power: Meeting the Energy ... #2 Offshore and Nearshore Wind Power: Meeting the Energy ... LinkedIn https://www.linkedin.com > pulse > 2...」https://www.linkedin.com/pulse/2-offshore-nearshore-wind-power-meeting-energy-needs-zaeuf
+  - ［SNS］2026-11-04「The truth about offshore wind | Ørsted - LinkedIn The truth about offshore wind | Ørsted - LinkedIn LinkedIn https://www.linkedin.com > posts > or...」https://www.linkedin.com/posts/orsted_the-truth-about-offshore-wind-activity-7498713299560128514-87Wy
+  - ［SNS］2026-11-04「The development of offshore wind energy market - LinkedIn The development of offshore wind energy market - LinkedIn LinkedIn https://www.linkedin.com > pulse > d...」https://www.linkedin.com/pulse/development-offshore-wind-energy-market-peter-robert-gq00e
+  - ［SNS］2026-11-04「Offshore Wind Development Progress in the U.S. - LinkedIn Offshore Wind Development Progress in the U.S. - LinkedIn LinkedIn https://www.linkedin.com > innovation」https://www.linkedin.com/top-content/innovation/renewable-energy-growth/offshore-wind-development-progress-in-the-u-s/
 ### 業界ニュース（毎日）｜小型モジュール炉（small modular reactor）
 - 取得：2026-11-07T03:56・調査4回目・読んだ頁49
 - 痛み・損（深さの印）（1件）：

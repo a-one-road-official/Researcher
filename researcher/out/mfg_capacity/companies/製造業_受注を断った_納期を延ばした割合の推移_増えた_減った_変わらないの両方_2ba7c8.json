@@ -1,0 +1,871 @@
+{
+ "name": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+ "en": "share of manufacturers declining orders or extending lead times Japan trend by firm size survey",
+ "aliases": [
+  "受注 辞退 割合 製造業 調査 推移",
+  "納期 延長 割合 中小製造業 調査",
+  "受注 機会損失 なし 影響なし 割合 製造業"
+ ],
+ "context": "損の額・一次",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:27:11.194862+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "これを見ると、「売上・利益の拡大」と回答した事業者と比較して、「現状維持・縮小しつつも存続」又は「円滑な廃業・譲渡」と回答した事業者の方が、売上高、営業利益共に「減少」と回答した割合が高くなっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「利益拡大」、「売上拡大」を目指す事業者と比較して、「現状維持」、「縮小しつつも存続」、「円滑な廃業・譲渡」を方針とする事業者では、「事業承継（後継者不在を含む）」、「特にない」と回答した割合が高い",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2016年には売上げの8割を占めた取引先が倒産し、同社は存続の危機に追い込まれた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一時は廃業も考えたが、地元の先輩経営者から物心両面の支援と後押しを受け、江本昌弘社長は事業の存続を決意",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社が店舗を構える鳴子温泉は、江戸時代から湯治場として栄えてきたが、2000年頃から過疎化が進み、旅館や店舗が相次いで廃業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要な技術を持った工場探しとワンストップで完成までを求めているメーカーに対し、同社が営業窓口となり受注し、つながりのある中小企業が連携して対応することで失注を防ぎ、開発段階から完成品の製造までを手掛ける付加価値の高い仕事の獲得を目指した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "▶グループ化により事業を集約することで機会損失を低減",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "機会損失を防ぐべく、同社は2012年に同業の株式会社熊本キャブをM&Aで譲り受けたのを皮切りに、2018年に株式会社植木キャブ、2022年に株式会社大衆タクシーをグループ化",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全社で配車システムを統合してタクシーの運行状況を一元管理することで、利用者からの配車依頼への対応力が劇的に向上し、機会損失の減少を実現した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、経営方針について、「現状維持」、「縮小しつつも存続」、「円滑な廃業・譲渡」と回答した事業者と比較して、「利益拡大」、「売上拡大」と回答した事業者は、経営計画を「策定している」割合が高い",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「感染症拡大時、飲食店のみの営業を続けていたら、おそらく倒産していた",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "は、我が国の年齢階級別人口及び高齢化率（65歳以上人口割合）の推移を確認したものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、我が国の総人口は2010年をピークに、その後減少傾向にあり、2070年までに約8,700万人にまで減少すると推計されている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、高齢化率は上昇傾向にあり、2070年までに総人口の約4割に達すると推計されている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、人口が増加している又は減少が最も少ない「区分4」の地域は、三大都市圏",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "をはじめとした各都道府県の県庁所在地付近に多く、最も人口減少が進んでいる「区分1」の地域は、地方圏",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「国勢調査」に基づき、各市区町村の2015年（平成27年）から2020年（令和2年）における人口増減率を四分位で四つの区分に分けたもの",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2015年の人口が欠損している福島県4町（富岡町、大熊町、双葉町、浪江町）並びに国勢調査施行規則第1条に規定される歯舞群島、色丹島、国後島、択捉島及び島根県隠岐郡隠岐の島町にある竹島は、除外した上で四分位を設定している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、人口が増加している又は減少が最も少ない「区分4」の地域においても、過半数を「小規模事業者」が占めているが、最も人口減少が進んでいる「区分1」の地域になるにつれ、「小規模事業者」が全体に占める割合が高くなっていることが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "これを見ると、「中規模企業」のうち約9割が「利益拡大」又は「売上拡大」と回答している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「小規模事業者」においても約7割が「利益拡大」又は「売上拡大」と回答している一方、約3割が「現状維持」又は「縮小しつつも存続」と回答しており、「中規模企業」と比較して、現状を維持又は縮小しながら事業を継続させていく意向を持つ事業者の割合が高いことが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、損益分岐点比率を見ると、「大企業」、「中規模企業」と比較して、「小規模企業」は、損益分岐点比率が高く、95.8％となっており、売上高の減少に対する耐性が低いことが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、足下で約3割の小規模事業者が現状を維持又は縮小しつつ事業を継続していく意向を持っているが、外部環境が変化する中で、これらの事業者が、売上高や営業利益をこれまでどおり維持していくことが難しい状況に陥っている可能性が示唆された",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "資本金 300万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "アミコートによる1回塗りは、通常の塗装では塗り重ねの乾燥時間も含め2～3日掛かっていた作業を3時間程度で済ませることができ、施工のスピードアップはもちろんのこと、働き方改革が求められている建設・建築業における省力化や労働生産性の向上にも大きく貢献している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 200万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,400万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 40万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 500万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "フライパンの本体のみのような厨房用品の中間品を製造しており、売上高約3,000万円の100％が受託加工だった",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、感染症の拡大下で低迷していた同社の売上高は、2024年11月期で約4,400万円と拡大基調",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、売上高「1千万円以下」の事業者では、約9割が経理事務の従事人数が「1人」と回答しているほか、約8割が「経理専任の従業員はいない」と回答している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、売上高規模が小さくなるほど、帳簿の作成頻度が「四半期ごと」、「半年ごと」又は「1年ごと」と回答した割合が高く、特に売上高「1千万円以下」の事業者における約3割が、毎月帳簿を作成していない様子がうかがえる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1,000万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 600万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025年版 小規模企業白書（HTML版） 第1節 小規模事業者の経営力の向上 | 中小企業庁",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する人材不足、「金利のある世界」の到来、円安・物価高等を背景とした生産・投資コストの増加など、中小企業・小規模事業者の経営環境は、厳しい状況にあることが確認された",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）帝国データバンク「令和6年度中小企業の経営課題と事業活動に関する調査」：（株）帝国データバンクが2024年11月から12月にかけて、以下の事業者を対象に実施したWebアンケート調査",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）帝国データバンク「令和6年度中小企業支援機関の取組と課題に関する調査」：（株）帝国データバンクが2024年11月から12月にかけて、商工会、商工会議所、よろず支援拠点、認定経営革新等支援機関、地方公共団体を対象に実施したWebアンケート調査",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "始めに、我が国の人口の推移を確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、我が国の年齢階級別人口及び高齢化率（65歳以上人口割合）の推移を確認したものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、我が国の総人口は2010年をピークに、その後減少傾向にあり、2070年までに約8,700万人にまで減少すると推計されている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、人口が増加している又は減少が最も少ない「区分4」の地域は、三大都市圏",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "をはじめとした各都道府県の県庁所在地付近に多く、最も人口減少が進んでいる「区分1」の地域は、地方圏",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「国勢調査」に基づき、各市区町村の2015年（平成27年）から2020年（令和2年）における人口増減率を四分位で四つの区分に分けたもの",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2015年の人口が欠損している福島県4町（富岡町、大熊町、双葉町、浪江町）並びに国勢調査施行規則第1条に規定される歯舞群島、色丹島、国後島、択捉島及び島根県隠岐郡隠岐の島町にある竹島は、除外した上で四分位を設定している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、人口が増加している又は減少が最も少ない「区分4」の地域においても、過半数を「小規模事業者」が占めているが、最も人口減少が進んでいる「区分1」の地域になるにつれ、「小規模事業者」が全体に占める割合が高くなっていることが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、商圏範囲が狭くなるにつれて、顧客数の見通しが「減少」と回答した割合が高くなっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、「売上・利益の拡大」と回答した事業者と比較して、「現状維持・縮小しつつも存続」又は「円滑な廃業・譲渡」と回答した事業者の方が、売上高、営業利益共に「減少」と回答した割合が高くなっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、「現状維持・縮小しつつも存続」と回答した事業者について営業利益の見通しを見ると、「減少」と回答した割合が最も高くなっている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、売上高が現在の何％未満の水準になると赤字になるかを表しており、売上高の減少に対する耐性を示しているといえる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、損益分岐点比率を見ると、「大企業」、「中規模企業」と比較して、「小規模企業」は、損益分岐点比率が高く、95.8％となっており、売上高の減少に対する耐性が低いことが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者は、特に人口減少が進む地方圏で地域に根ざした事業を実施しており、大企業、中規模企業と比較して損益分岐点売上高が低いことから、人口が少なく比較的市場規模が小さい地方圏にも立地し、地域の商圏を持続的に支えることができる可能性を示した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "これについて委員からは、「小規模事業者は地域における経済、雇用、コミュニティの維持に必要な役割を果たしており、デジタル化の急速な進展、物価高騰や人手不足など、小規模事業者を取り巻く経済環境が激変する中にあって商工指導団体による事業者への伴走支援が更に重要度を増している」、「経済、社会、金融などに大きなショックがあると、真っ先にダメージを被るのが中小・小規模事業者」、「小規模事業者は規模が大きい企業では対応しきれない製品・サービスを提供したり、地域コミュニティを支えたりするなど、国民生活の向上に大きく貢献している」といった発言があった",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、「地方圏」の事業者と比較して、「三大都市圏」の事業者は「柔軟な納期対応」、「希少価値・プレミアム感」、「小ロット・小案件への対応」、「安価であること」などと回答した割合が高い",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年版中小企業白書第1部第1章第3節では、兼業者・副業者を受け入れるメリットについて確認したところ、「多様な人材を確保できる」と回答した企業の割合が最も高く、次いで「自社では培えない経験・知識が得られる」、「すばやく人手不足が解消できる」と回答した割合が高いことを指摘している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "▶グループ化により事業を集約することで機会損失を低減",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "機会損失を防ぐべく、同社は2012年に同業の株式会社熊本キャブをM&Aで譲り受けたのを皮切りに、2018年に株式会社植木キャブ、2022年に株式会社大衆タクシーをグループ化",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全社で配車システムを統合してタクシーの運行状況を一元管理することで、利用者からの配車依頼への対応力が劇的に向上し、機会損失の減少を実現した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、POSレジの導入により売上管理の作業負担が減ったことから余力が生じ、新事業の検討にも取り組めるようになった",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daydo.jp/2025/12/labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alphast.com/article/blog/nokikanri",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/index.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1922/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitworks.jp/technical-terms/latedelivery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/ronbun2308_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://skylaa.geekplus.jp/blog/inventory-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://products.sint.co.jp/blog/delivery-date",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-delivery-delay-pattern",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proaxis.jp/delivery-date-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opthub.ai/column/delivery-delay-prevention-planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000063503.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.biznet.co.jp/column/1504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iis-net.or.jp/files/kousya/page/tokei/R6_juchuukigyo_jittai_chousa_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=datalist&toukei=00100401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/resource/pdf/26fy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/documents/17663/355525.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jfca-net.or.jp/data_files/view/4609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2020/05/a8e0ed106feeb0582d4c9c2b8da700b0.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/file/houdou/pressrelease/2025/dec/251224_eigaanime3.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/chugoku/content/000337333.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93685/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieb.kobe-u.ac.jp/research/publication/newsletter/mba_back-issues/file/mba09-attached.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aisin.com/jp/group/aisin-ak/common-ver2/pdf/library/history-50years.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/294",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gemba-innovation.com/toc/s-dbr_case_studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/legislation/unyou.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokusan.or.jp/wp-content/uploads/2025/07/8709.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10438599.2026.2716323",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 人手不足 受注 断る",
+   "results": [
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.alphast.com/article/blog/nokikanri",
+    "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/",
+    "https://diamond.jp/articles/-/388959",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "https://www.cloud-for-all.com/blog/labor-shortage-in-manufacturing-industry"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 受注残 人手不足",
+   "results": [
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "https://factoryadvance.jp/blog/1922/",
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://digitworks.jp/technical-terms/latedelivery/",
+    "https://www.alphast.com/article/blog/nokikanri",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 人手不足 損失 億円",
+   "results": [
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2308_02.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://skylaa.geekplus.jp/blog/inventory-optimization/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2022/may/kitori/220531_gyousyubunseki_3_1.pdf",
+    "https://www.nnlife.co.jp/library/pdf/pedia/research/20180510/study_on_business_succession_interviewed_with_727_presidents_of_small_and_medium_enterprises.pdf"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+   "results": [
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "https://factoryadvance.jp/blog/1922/",
+    "https://products.sint.co.jp/blog/delivery-date",
+    "https://www.salesdock.jp/blog/manufacturing-delivery-delay-pattern",
+    "https://digitworks.jp/technical-terms/latedelivery/",
+    "https://proaxis.jp/delivery-date-management/",
+    "https://opthub.ai/column/delivery-delay-prevention-planning",
+    "https://www.techs-s.com/media/show/152",
+    "https://www.alphast.com/article/blog/nokikanri",
+    "https://prtimes.jp/main/html/rd/p/000000191.000063503.html"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 推移",
+   "results": [
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "https://factoryadvance.jp/blog/1922/",
+    "https://products.sint.co.jp/blog/delivery-date",
+    "https://www.salesdock.jp/blog/manufacturing-delivery-delay-pattern",
+    "https://proaxis.jp/delivery-date-management/",
+    "https://digitworks.jp/technical-terms/latedelivery/",
+    "https://opthub.ai/column/delivery-delay-prevention-planning",
+    "https://www.techs-s.com/media/show/152",
+    "https://www2.biznet.co.jp/column/1504/",
+    "https://prtimes.jp/main/html/rd/p/000000191.000063503.html"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 統計 PDF",
+   "results": [
+    "https://mirasapo-plus.go.jp/resource/pdf/26fy.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.pref.saitama.lg.jp/documents/17663/355525.pdf",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/160940/1/500103.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://kantoko.com/blog/2025/09/90946/"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 従業者規模別",
+   "results": [
+    "https://www.kicnet.co.jp/solutions/business/column/labor-shotage/",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://mirasapo-plus.go.jp/resource/pdf/26fy.pdf",
+    "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2020/05/a8e0ed106feeb0582d4c9c2b8da700b0.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/gaiyou.pdf"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 1人当たり 万円",
+   "results": [
+    "https://mirasapo-plus.go.jp/resource/pdf/26fy.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2308_02.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://www.jftc.go.jp/file/houdou/pressrelease/2025/dec/251224_eigaanime3.pdf",
+    "https://wwwtb.mlit.go.jp/chugoku/content/000337333.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93685",
+    "https://www.rieb.kobe-u.ac.jp/research/publication/newsletter/mba_back-issues/file/mba09-attached.pdf",
+    "https://www.aisin.com/jp/group/aisin-ak/common-ver2/pdf/library/history-50years.pdf"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） 2015 2025",
+   "results": [
+    "https://factoryadvance.jp/blog/1922/",
+    "https://www.techs-s.com/media/show/294",
+    "https://gemba-innovation.com/toc/s-dbr_case_studies/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_1_1.html",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.jftc.go.jp/toriteki/legislation/unyou.html",
+    "https://www.shokusan.or.jp/wp-content/uploads/2025/07/8709.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf"
+   ]
+  },
+  {
+   "query": "share of manufacturers declining orders or extending lead times Japan trend by firm size survey Japan statistics",
+   "results": [
+    "https://www.tandfonline.com/doi/full/10.1080/10438599.2026.2716323",
+    "https://www.facebook.com/startelegram/posts/tokyo-oct-23-reuters-japans-manufacturing-sector-expanded-at-its-slowest-pace-in/1567257008771903/",
+    "https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.jetro.go.jp/ext_images/en/reports/survey/pdf/jafirms2022.pdf",
+    "https://www.reuters.com/world/asia-pacific/japans-manufacturing-sector-contracts-slower-pace-december-pmi-shows-2025-12-16/",
+    "https://www.rieti.go.jp/jp/publications/dp/05e004.pdf",
+    "https://tradingeconomics.com/japan/business-survey-index-large-manufacturing-firms",
+    "https://www.japantimes.co.jp/business/2026/09/11/economy/japan-big-firms-sentiment/",
+    "https://www.pmi.spglobal.com/Public/Home/PressRelease/9b2cb53ee47d4014a447e4774f5e7952"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+   "results": [
+    "https://note.com/korg_check/n/n4a328470a0f2",
+    "https://note.com/onomatsu_kenta/n/ne57d2e175e3f",
+    "https://note.com/jobhuntkeyence/n/n63043fda006c",
+    "https://note.com/dakudhigura/n/n219470ba15f7",
+    "https://note.com/reika1021/n/na6949a8218ec",
+    "https://note.com/le_lien_kuraoka/n/n420cc0f0f973",
+    "https://note.com/minamisouken01/n/n72c295c2d074",
+    "https://note.com/kessankokokku/n/n369f8fd95a37",
+    "https://note.com/sankituushin/n/nf6b5431e979c",
+    "https://note.com/thomasfa/n/n8a7ae4766b08"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+   "results": [
+    "https://x.com/faconnectn/status/2091864625885454358",
+    "https://x.com/scminnolab/status/2040614649293681128",
+    "https://x.com/picapicapero/status/2107444954733936830",
+    "https://x.com/izukan01/status/2104128918189904144",
+    "https://x.com/akionionio/status/2055615105375633498",
+    "https://x.com/ray_load50/status/2116647944082587994",
+    "https://x.com/kanten_se/status/2064329832796955121"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+   "results": [
+    "https://jp.linkedin.com/pulse/hidden-costs-downtime-manufacturing-how-crises-control-c3tfe?tl=ja",
+    "https://uk.linkedin.com/in/dwi-sasetyaningtyas-a7086276",
+    "https://cn.linkedin.com/posts/taisahsu_aiエージェント製造業agentforceが切り開く製造業の5つの変革ストーリー-activity-7447644334084063232-14x3",
+    "https://jp.linkedin.com/pulse/how-track-on-time-delivery-otd-kpi-23y6e?tl=ja",
+    "https://www.linkedin.com/posts/kenji-aoki-7414b914_大阪万博高圧低圧ケーブルの品切れ受注停止納期未定の元凶にされてしまう-activity-7143604902781460480-nhNf",
+    "https://www.linkedin.com/feed/update/urn:li:share:7406358506855067648/",
+    "https://jp.linkedin.com/posts/tatsukawa-y-20b0201a2_お客様各位-高圧ケーブル製品の供給体制および納期に関するご案内-拝啓貴社ますますご-activity-7453077849890263040-xSfG"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）",
+   "results": [
+    "https://www.facebook.com/groups/885377883133423/posts/1085506306453912/",
+    "https://www.facebook.com/growthintelligence2026/videos/工場の機械を新しくすれば納期は縮むと思っていませんか注文の3割が店に届いていなかったと知った創業者と補充を取引先に任せた創業者が語ったら加工機を最新型に替え設備/1434331595533547/",
+    "https://www.facebook.com/mitsubishidenki/videos/失敗から学ぶ納期トラブルをどう乗り越えた/862190769501755/",
+    "https://www.facebook.com/nikkei/posts/totoユニットバスの受注停止へ-中東情勢で材料ナフサが不足/1486818042789593/",
+    "https://www.facebook.com/zpiglobal/videos/加工機械の破損-からの大ピンチ-救いの手を延ばしてくれたのはかつてのライバル40年も前にレースで戦った同志納期は最短の遅延で生産の再開に目処が経ちました皆さんの/1705528390485823/",
+    "https://www.facebook.com/japaaan.page/posts/仕事の納期とクオリティの折り合いについては皆さん悩むところで自分ひとりであればともかく仲間との共同作業では互いに譲れず喧嘩別れしてしまうこともそんなトラブルは今/3844021849017171/",
+    "https://www.facebook.com/mishimakenzai.co.jp/posts/lixil-洗面化粧台-一部納期遅延と新規受注再開のお知らせ生産設備トラブルの影響によりlixilの一部洗面化粧台について納期遅延が発生しております対象シリーズ/740452285594249/"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） note 社長",
+   "results": [
+    "https://note.com/simplearchitect/n/nda228e2be785",
+    "https://note.com/seisankanripro/n/n5287d3c354dd",
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "https://factoryadvance.jp/blog/1922/",
+    "https://note.com/optup/n/nb6e4866c610e",
+    "https://digitworks.jp/technical-terms/latedelivery/",
+    "https://www.salesdock.jp/blog/manufacturing-delivery-delay-pattern",
+    "https://note.com/le_lien_kuraoka/n/n849d20a3e203",
+    "https://www.techs-s.com/media/show/294",
+    "https://prtimes.jp/main/html/rd/p/000000191.000063503.html"
+   ]
+  },
+  {
+   "query": "製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63） X 投稿",
+   "results": [
+    "https://www.systems.nakashima.co.jp/seizou/simpflex/column/9/",
+    "https://factoryadvance.jp/blog/1922/",
+    "https://www.salesdock.jp/blog/manufacturing-delivery-delay-pattern",
+    "https://digitworks.jp/technical-terms/latedelivery/",
+    "https://gemba-innovation.com/toc/s-dbr_case_studies/",
+    "https://www.techs-s.com/media/show/294",
+    "https://prtimes.jp/main/html/rd/p/000000191.000063503.html",
+    "https://www.alphast.com/article/blog/nokikanri",
+    "https://smartf-nexta.com/archives/10795",
+    "https://x-work.jp/journal/iran-manufacturing"
+   ]
+  },
+  {
+   "query": "share of manufacturers declining orders or extending lead times Japan trend by firm size survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/doordash",
+    "https://www.linkedin.com/posts/jason-miller-32110325_given-discussions-that-goods-such-as-toys-activity-7509967202377269248-Gsnz",
+    "https://www.linkedin.com/company/centric-software",
+    "https://www.linkedin.com/company/emerson",
+    "https://www.linkedin.com/in/kivaallgood",
+    "https://www.linkedin.com/in/jeffreyrwinter",
+    "https://www.linkedin.com/in/shahrukh-irani-8b25a55",
+    "https://in.linkedin.com/company/zetwerk-in",
+    "https://uk.linkedin.com/company/financial-times",
+    "https://www.linkedin.com/company/daiichi-sankyo"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）"
+ }
+}

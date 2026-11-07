@@ -8,9 +8,547 @@
  ],
  "context": "凄腕・推定",
  "kind": "market",
- "researched_at": "2026-11-06T23:23:17.170640+00:00",
+ "researched_at": "2026-11-07T04:27:39.826103+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません",
+    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "30%以上なら比較的安定、10%未満は要注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
+    "url": "https://raincatcher.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、以下の点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes to Avoid",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意点として、電子官報は無料ですが、2004年7月1日より前に掲載されたものは閲覧できません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば回収サイクルが30日なら、PLで推定した「日商 × 30日分」が売掛金となります",
+    "url": "https://note.com/pythonddd/n/nd056ead22003",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を、次の事業判断に使える形へ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業種別・企業事例（6）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "空欄でよいケース、社外からの調べ方、そして売上高の代わりに実績を示す方法まで、そのまま使える例文つきで解説します",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用担当者は、非上場企業や社外秘のケースで売上高が出てこないことを理解しています",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本の全企業の約99%は非上場の中小企業であり、売上高を社外公開していないケースが標準的だからです",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "、というケースにはよく出くわします",
+    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Real-world deal examples",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a company’s website or press releases might highlight statistics such as:",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法440条の特例：決算公告が不要になる3つのケース",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過料が実際に適用されるケースが極めて少ない",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に中小企業の経営者は決算公告の義務を認識していないケースが多い",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引先や金融機関からの信用調査で決算公告の有無が確認されるケースも増えており、決算公告を実施していないことがマイナス評価につながる場面もあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "では、具体的な事例をもとに詳しく解説しています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現実には、決算公告を怠ったことだけを理由に過料が科されるケースは極めてまれです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、M&Aや融資審査の場面では過去の公告実績を問われることがあるため、可能であれば過去数年分を遡って公告することが望ましいケースもあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Practical Example: Putting It All Together",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public companies are the easy case. They are legally required to report revenue, and the reports are free.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is the strongest case. Companies file accounts with the commercial court registry (the greffe), and the SIRENE database maintained by INSEE ties every establishment to its SIREN identifier. Filed accounts (comptes deposes) can carry turnover, unless the company opted for confidentiality, which small firms are allowed to do.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Various commercial databases aggregate company profiles and attach revenue estimates or ranges (for example a band such as 1 to 10 million). They are convenient for a one-off lookup, with two caveats worth stating plainly.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Enrich headcount and industry for every row (for example with Derrick's Enrich Companies in the web app or in Google Sheets), flag rows that have filed accounts, then apply a revenue-per-employee formula to estimate the rest. This applies the right method per row instead of one lookup at a time.",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Company Description: How to Write Yours, 12 Examples, Free Generator",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Worked example: a commercial HVAC company",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、多くの非上場会社が官報（国が発行する公文書）に貸借対照表またはその要旨を掲載しています",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設立時に定款をひな形通り作った中小企業の多くは公告方法を「官報」と定めているか、もしくは定めていない状態で放置していることが多く、その結果、決算公告は官報に掲載することになります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. 検索結果から対象の掲載号を選択し、PDF形式で本文を確認",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため「いくら売り上げているのか」「利益が出ているのか」という最も知りたい情報が官報からは得られないケースが多い点は理解しておく必要があります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "違反に対する過料は法務局が職権で科すものですが、実態として積極的に摘発されているケースは少なく、義務を知らないまま未公告の状態が続いているケースがあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大会社以外の中小企業では、貸借対照表の要旨を2枠で掲載するケースが最も多く、税込で75,000〜85,000円程度が一般的な費用感です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、債務超過=即倒産ではなく、メインバンクの支援がある場合や事業再生中の場合などは継続しているケースもあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
@@ -1780,538 +2318,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
-   {
-    "quote": "決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば回収サイクルが30日なら、PLで推定した「日商 × 30日分」が売掛金となります",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を、次の事業判断に使える形へ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業種別・企業事例（6）",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "空欄でよいケース、社外からの調べ方、そして売上高の代わりに実績を示す方法まで、そのまま使える例文つきで解説します",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用担当者は、非上場企業や社外秘のケースで売上高が出てこないことを理解しています",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本の全企業の約99%は非上場の中小企業であり、売上高を社外公開していないケースが標準的だからです",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
-    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "、というケースにはよく出くわします",
-    "url": "https://shokubalog.com/articles/kaisha-uriagedaka-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Real-world deal examples",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a company’s website or press releases might highlight statistics such as:",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法440条の特例：決算公告が不要になる3つのケース",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過料が実際に適用されるケースが極めて少ない",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に中小企業の経営者は決算公告の義務を認識していないケースが多い",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引先や金融機関からの信用調査で決算公告の有無が確認されるケースも増えており、決算公告を実施していないことがマイナス評価につながる場面もあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "では、具体的な事例をもとに詳しく解説しています",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現実には、決算公告を怠ったことだけを理由に過料が科されるケースは極めてまれです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、M&Aや融資審査の場面では過去の公告実績を問われることがあるため、可能であれば過去数年分を遡って公告することが望ましいケースもあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Practical Example: Putting It All Together",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Public companies are the easy case. They are legally required to report revenue, and the reports are free.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is the strongest case. Companies file accounts with the commercial court registry (the greffe), and the SIRENE database maintained by INSEE ties every establishment to its SIREN identifier. Filed accounts (comptes deposes) can carry turnover, unless the company opted for confidentiality, which small firms are allowed to do.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Various commercial databases aggregate company profiles and attach revenue estimates or ranges (for example a band such as 1 to 10 million). They are convenient for a one-off lookup, with two caveats worth stating plainly.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Enrich headcount and industry for every row (for example with Derrick's Enrich Companies in the web app or in Google Sheets), flag rows that have filed accounts, then apply a revenue-per-employee formula to estimate the rest. This applies the right method per row instead of one lookup at a time.",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Company Description: How to Write Yours, 12 Examples, Free Generator",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Worked example: a commercial HVAC company",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.",
-    "url": "https://nodior.com/private-company-revenue-estimation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果、多くの非上場会社が官報（国が発行する公文書）に貸借対照表またはその要旨を掲載しています",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "設立時に定款をひな形通り作った中小企業の多くは公告方法を「官報」と定めているか、もしくは定めていない状態で放置していることが多く、その結果、決算公告は官報に掲載することになります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. 検索結果から対象の掲載号を選択し、PDF形式で本文を確認",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため「いくら売り上げているのか」「利益が出ているのか」という最も知りたい情報が官報からは得られないケースが多い点は理解しておく必要があります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "違反に対する過料は法務局が職権で科すものですが、実態として積極的に摘発されているケースは少なく、義務を知らないまま未公告の状態が続いているケースがあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大会社以外の中小企業では、貸借対照表の要旨を2枠で掲載するケースが最も多く、税込で75,000〜85,000円程度が一般的な費用感です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、債務超過=即倒産ではなく、メインバンクの支援がある場合や事業再生中の場合などは継続しているケースもあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません",
-    "url": "https://shokubalog.com/articles/kaisha-kibo-shirabe-kata",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
-    "url": "https://note.com/pythonddd/n/nd056ead22003",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "30%以上なら比較的安定、10%未満は要注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の失敗・撤退（4）",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の失敗要因を6つの軸で診断",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます",
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.",
-    "url": "https://raincatcher.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、以下の点に注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意点として、電子官報は無料ですが、2004年7月1日より前に掲載されたものは閲覧できません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説",
@@ -3030,12 +3036,12 @@
     "method": "http"
    },
    {
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "url": "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
+    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
     "status": "ok",
     "method": "http"
    },
@@ -3050,14 +3056,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.kanpo.go.jp/pdf/s_guide.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://kanpo-ad.com/kaisya-kamoku1.html",
@@ -3065,17 +3071,22 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://shiodome.co.jp/js/blog/13507",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "status": "ok",
     "method": "http"
    },
@@ -3085,22 +3096,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.career-adv.jp/recruit_info/career/443/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://catr.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
+    "url": "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "url": "https://service.g-search.jp/2024/12/20/01062.html",
     "status": "ok",
     "method": "http"
    },
@@ -3120,6 +3126,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.reddit.com/r/gtmengineering/comments/1qdi6h6/find_company_revenue_estimates/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
     "status": "http_403",
     "method": "http"
@@ -3128,11 +3139,6 @@
     "url": "https://raincatcher.com/private-company-valuation/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/xp517l/how_do_you_find_a_private_companys_revenue/",
-    "status": "robots_disallowed",
-    "method": ""
    }
   ]
  },
@@ -3148,8 +3154,7 @@
     "https://note.com/irshukatsu/n/n9fd752118742",
     "https://note.com/zaimani_com/n/n55c23417fd36",
     "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/nnoo12/n/nc6e185955a93",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54"
+    "https://note.com/oboreru_tanuki/n/n642c3a338568"
    ]
   },
   {
@@ -3159,25 +3164,26 @@
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "https://note.com/zaimani_com/n/n55c23417fd36",
     "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
+    "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
     "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
-    "https://atsoho.com/blog/unlisted-results-notice"
+    "https://atsoho.com/blog/unlisted-results-notice",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/"
    ]
   },
   {
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） やり方",
    "results": [
     "https://www.lib.pref.saitama.jp/guide/docs/d24fe439f654d0608847f3cb7bc5a749.pdf",
-    "https://www.kigyou-houmu.com/secret-4/",
     "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://www.kigyou-houmu.com/secret-4/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://kanpo-ad.com/kaisya-kamoku1.html",
-    "https://biz.moneyforward.com/erp/basic/2193/",
     "https://shiodome.co.jp/js/blog/13507",
+    "https://biz.moneyforward.com/erp/basic/2193/",
     "https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf",
-    "https://www.career-adv.jp/recruit_info/career/443/",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+    "https://www.foresight-law.gr.jp/column/qa/111101.html"
    ]
   },
   {
@@ -3190,8 +3196,8 @@
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
     "https://shiodome.co.jp/js/blog/13590",
-    "https://www.career-adv.jp/recruit_info/career/443/",
     "https://catr.jp/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
     "https://service.g-search.jp/2024/12/20/01062.html"
    ]
   },
@@ -3201,12 +3207,12 @@
     "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
     "https://databar.ai/blog/article/how-to-find-company-revenue",
     "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
+    "https://www.reddit.com/r/gtmengineering/comments/1qdi6h6/find_company_revenue_estimates/",
     "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
     "https://raincatcher.com/private-company-valuation/",
-    "https://www.reddit.com/r/Entrepreneur/comments/xp517l/how_do_you_find_a_private_companys_revenue/",
     "https://nodior.com/private-company-revenue-estimation",
-    "https://online.hbs.edu/blog/post/how-to-value-a-company",
     "https://www.linkedin.com/posts/cpastrategicsolutions_knowing-the-formula-is-easy-knowing-how-activity-7511466677562257408-zNCM",
+    "https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue",
     "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/"
    ]
   },
@@ -3214,8 +3220,8 @@
    "query": "site:note.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
    "results": [
     "https://note.com/kagawatomo/n/nd51f0232fb3e",
-    "https://note.com/ib_pe_hf/n/nb25b94945c37",
     "https://note.com/riverv4180/n/n74ad4b78789d",
+    "https://note.com/ib_pe_hf/n/nb25b94945c37",
     "https://note.com/funteractive_inc/n/nd5c6502fc018",
     "https://note.com/t_kawa_awak/n/nd1d364e2ca79",
     "https://note.com/ezuremanagement/n/n62ac85c83529",
@@ -3231,41 +3237,33 @@
     "https://x.com/F_kokutiyou/status/1261129182949462017",
     "https://x.com/compalyze",
     "https://x.com/kessan_db",
-    "https://x.com/nagi_cpa_tax/status/2080582907920593277",
     "https://x.com/masayuki_josisu/status/2038111375403393339",
     "https://x.com/skypce__sky/status/2069330783245103127",
+    "https://x.com/nagi_cpa_tax/status/2080582907920593277",
     "https://x.com/biz_arts1/status/2066007720831156440"
    ]
   },
   {
    "query": "site:linkedin.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
    "results": [
+    "https://www.linkedin.com/in/drmahulamin",
     "https://www.linkedin.com/feed/update/urn:li:activity:7196789445893771265/",
-    "https://jp.linkedin.com/posts/航-中山-660b26304_従業員数の開示についてご相談を受けることがあります-開示済みの有価証券報告書-activity-7488367763875602435-vwYc",
     "https://jp.linkedin.com/in/朋彦-土屋-b54152406",
-    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct",
     "https://jp.linkedin.com/posts/株式会社hrマネジメント_36協定-労務管理-従業員数数え方-activity-7396093957618769920--HkI",
     "https://jp.linkedin.com/posts/sakuraitakuya_従業員90名以下で売上2倍超株式会社ワットマン-渡邉-匡cfoが担った財務統制-activity-7480452317419360256-O854",
-    "https://jp.linkedin.com/in/雅史-岸本-481324178"
+    "https://jp.linkedin.com/posts/yukioshima11_非上場企業の意思決定迅速に株主総会9割賛成なら書面で決議-日本経済新聞-activity-7414241387258490880-o0Ct",
+    "https://jp.linkedin.com/posts/smacie_設立2年半で従業員数200名を突破-前年比売上570成長202223年度-activity-7268328357841313792-iXXi"
    ]
   },
   {
    "query": "site:facebook.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
-   "results": [
-    "https://www.facebook.com/people/官報ブログ/100050929632349/",
-    "https://www.facebook.com/kigyoujitsumu/",
-    "https://www.facebook.com/kigyoujitsumu.sc/",
-    "https://www.facebook.com/100050929632349/posts/クラウド型人事労務システムジンジャーの企画開発運営jinjer決算公告第1期-httpskanpo-kanpoblogjparchives45281173htm/1419302039777437/",
-    "https://www.facebook.com/boehringerJP/posts/-入山章栄-氏が迫る-非上場企業の強み世界の経営理論に精通する入山章栄氏早稲田大学ビジネススクール教授と荻村正孝-日本ベーリンガーインゲルハイム-株式会社-代表/1080703100734951/",
-    "https://www.facebook.com/100057115913567/videos/1802871304273704/",
-    "https://www.facebook.com/100057115913567/videos/1403952390685674/"
-   ]
+   "results": []
   },
   {
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） note 社長",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "https://note.com/cyber_forest/n/n24410a3e7804",
     "https://note.com/zaimani_com/n/n55c23417fd36",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
@@ -3283,8 +3281,8 @@
     "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://shiodome.co.jp/js/blog/13507",
-    "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://www.sankei.com/article/20180511-BSOB7WDE2JI2ZK4DIHUCUXPWYU/",
     "https://www.tokyo-kansho.co.jp/koukoku/article/1",
     "https://x.com/kessan_db",
@@ -3297,13 +3295,13 @@
     "https://www.linkedin.com/pulse/4-ways-calculate-value-your-company-todd-sullivan",
     "https://www.linkedin.com/posts/davidsymsmith_business-valuation-methods-whats-your-companys-activity-7415041023837646848-npHK",
     "https://www.linkedin.com/posts/acremades_valuing-pre-revenue-companies-activity-7337448332505604096-rECn",
-    "https://www.linkedin.com/top-content/business-strategy/systematic-investment-planning/valuation-techniques-for-startups/",
     "https://www.linkedin.com/pulse/5-main-methods-value-business-daniel-faloppa",
     "https://www.linkedin.com/pulse/understanding-409a-valuation-nehil-jain-tym2c",
     "https://www.linkedin.com/pulse/valuation-private-limited-companies-purpose-methods-aditya-chokhra",
     "https://www.linkedin.com/posts/vikashgoel1_businessvaluation-valuation-dcf-activity-7511496126278197249-LczH",
+    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/",
     "https://www.linkedin.com/posts/andrewmorrisbusinesssalesbrisbane_9-business-valuation-methods-explained-dcf-activity-7511220847244800001-VdHi",
-    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/"
+    "https://www.linkedin.com/pulse/business-valuation-whats-my-manufacturing-company-worth-brunelle"
    ]
   }
  ],
@@ -3311,31 +3309,13 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "決算公告はどこで見れる？無料・有料の閲覧方法6選を徹底解説【2026年版】",
+    "quote": "対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告はどこで見れる？官報・EDINET・企業HPなど無料で閲覧できる方法から有料データベースまで6つの手段を比較表付きで解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報に掲載された非上場会社の決算公告を調べる方法を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T00:45:10.289248+00:00"
 }

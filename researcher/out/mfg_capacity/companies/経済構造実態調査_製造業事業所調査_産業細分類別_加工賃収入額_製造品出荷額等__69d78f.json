@@ -1,0 +1,769 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+ "en": "Economic Census for Business Activity manufacturing establishments detailed industry receipts for processing 2020 2023 Japan",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業細分類 加工賃収入額",
+  "経済構造実態調査 製造業 統計表 xlsx 産業別",
+  "site:meti.go.jp 製造業事業所調査 加工賃収入額"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:23:46.779551+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "品目別の在庫及び産出事業所数（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "1．事業所数（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）九州・沖縄各県の事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市町別従業者規模別統計表（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "品目別の在庫及び産出事業所数（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "2．従業者数（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "4．付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "5．製造品年末在庫額（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "6．有形固定資産投資総額（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "7．事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "9．工業用地（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "10．工業用水（淡水）（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業別1事業所当たり・従業者1人当たり統計指標（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）九州・沖縄各県の事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 産業中分類別従業者30人以上の事業所に関する統計表",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "6. 市町別有形固定資産統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "9. 産業中分類別工業用地統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "10. 市町別工業用地統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "11. 産業中分類別工業用水統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "12. 市町別工業用水統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者30人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4～29人の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者30人以上の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者4～29人の事業所）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "3．製造品出荷額等（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）九州・沖縄各県の事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "4．付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業別1事業所当たり・従業者1人当たり統計指標（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）九州・沖縄各県の事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "6．有形固定資産投資総額（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "6. 市町別有形固定資産統計表（従業者30人以上の事業所）",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済構造実態調査 2024年経済構造実態調査（製造業事業所調査） 二次集計 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "2024年経済構造実態調査（製造業事業所調査）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "2025-08-29",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12-25",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年（2024年）経済構造実態調査 / さが統計情報館TOP / 佐賀県",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年（2024年）経済構造実態調査",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月23日",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐賀県の2024年経済構造実態調査の結果",
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "更新日：2025年1月14日",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査（製造業事業所調査）に関する統計表は、従来の「工業統計調査」と時系列比較を行うため、兵庫県独自で集計し取りまとめたものです",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "更新日：2024年1月16日",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査（製造業事業所調査）に関する統計表は、従来の「工業統計調査」と時系列比較を行うため、兵庫県独自で集計し取りまとめたものです",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（速報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果（確報）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1970586434906268199",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=%E8%A3%BD%E9%80%A0%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%89%80%E8%AA%BF%E6%9F%BB%E3%80%80%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/form/2023/pdf/23seizo_q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/economic-census.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/info/news/20220630.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.stat.go.jp/data/kkj/form/2023/pdf/23seizo_q.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing establishments detailed industry receipts for processing 2020 2023 Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://www.census.gov/programs-surveys/economic-census.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?cycle=0&layout=datalist&page=1&statdisp_id=0004005688&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&toukei=00200553&tstat=000001145590",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.stat.go.jp/english/info/news/20220630.html",
+    "https://www-pref-osaka-lg-jp-e.athp.transer.com/o040090/toukei/chousa/keizai-katsudou.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.census.gov/topics/business-economy.html",
+    "https://www.stat.go.jp/english/data/e-census.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+   "results": [
+    "https://note.com/gentle_serval947/n/nc9c0d339a9c9",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/toshiyamiyazaki/n/ncdf651dea52d?hl=en",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660?hl=en",
+    "https://note.com/yukio_tada/n/n1ce1b4ad35c1",
+    "https://note.com/semicontimes/n/n0ec8962447d2",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/__name___/n/n2bfcb50896f8"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107040014349881640",
+    "https://jf.x.com/images/media-preview/2105210905126649904",
+    "https://jf.x.com/images/media-preview/2113530502481379668",
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://x.com/RiceFieldEX/status/2115783206557335666",
+    "https://help.x.com/en/using-x",
+    "https://x.com/miyashin_prg/status/2033507175688290491"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+   "results": [
+    "https://www.linkedin.com/in/dungara",
+    "https://www.linkedin.com/company/indeed-com",
+    "https://in.linkedin.com/company/straive_",
+    "https://uk.linkedin.com/company/woodgroup-ltd",
+    "https://ca.linkedin.com/in/asaadelmoudi",
+    "https://in.linkedin.com/in/karthickrajas20",
+    "https://br.linkedin.com/in/liliana-shayer-abt"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）",
+   "results": []
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/294548.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/26048.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2023.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2429/resource/15406/content.html",
+    "https://www.stat.go.jp/data/kkj/form/2023/pdf/23seizo_q.pdf"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Activity manufacturing establishments detailed industry receipts for processing 2020 2023 Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/24-big-ideas-change-our-world-2021-scott-olster",
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/in/jessicajackson4",
+    "https://www.linkedin.com/posts/stefanboehmer_fortune500-global500-useconomy-activity-7509956082111250432-MVl9",
+    "https://www.linkedin.com/in/mary-potter",
+    "https://www.linkedin.com/in/betoyarce",
+    "https://www.linkedin.com/in/conoreckert",
+    "https://www.linkedin.com/in/nateclayberg",
+    "https://www.linkedin.com/in/davekay",
+    "https://www.linkedin.com/in/jason-miller-32110325"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ26頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ26頁・検索18回）"
+ }
+}
