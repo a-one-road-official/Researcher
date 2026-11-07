@@ -1268,6 +1268,51 @@ def scan(topic):
     _FUND = re.compile(r"(資金調達|調達額|評価額|バリュエーション|時価総額|シリーズ[A-EＡ-Ｅ]|第三者割当)")
     nfund = [r for r in rows if _FUND.search(r["引用"]) and _URI.search(r["引用"])]
     if nfund: md.append(f"  - ⚠ 資金調達・評価額と売上が同じ引用 {len(nfund)}件（例：{nfund[0]['品目']}）：評価額からの売上の逆算は直近に調達した若い会社だけ。設立の古い中小の受託加工には当てない（4-84）")
+    # 2026-11-08 4-85（開示ワイヤー「決算公告の読み方」：貸借対照表は内訳の合計が資産合計と一致した行だけを載せる。株式会社以外の法人は
+    # 科目が違い資本金が無い（出資金・基金）。プロ向け市場の上場会社は有報を出さず公告の義務が残る）。
+    # ①同じ引用に資産合計・負債合計・純資産合計の3つがあれば、資産合計＝負債合計＋純資産合計かを機械で確かめ、合わない行を出す
+    def _bsnum(s):
+        s = s.replace(",", "").replace("，", "")
+        neg = s.startswith(("△", "▲", "-", "－"))
+        try: v = float(re.sub(r"^[△▲\-－]", "", s))
+        except ValueError: return None
+        return -v if neg else v
+    _BSA = re.compile(r"資産(?:の部)?合計[^\d△▲\-－]{0,6}([△▲\-－]?[\d,，]+(?:\.\d+)?)")
+    _BSL = re.compile(r"負債(?:の部)?合計[^\d△▲\-－]{0,6}([△▲\-－]?[\d,，]+(?:\.\d+)?)")
+    _BSN = re.compile(r"純資産(?:の部)?合計[^\d△▲\-－]{0,6}([△▲\-－]?[\d,，]+(?:\.\d+)?)")
+    bs_ok, bs_ng = 0, []
+    for r in rows:
+        q = r["引用"]
+        a = [m for m in _BSA.finditer(q) if not q[max(0, m.start() - 1):m.start()].endswith("純")]
+        l, n = _BSL.search(q), _BSN.search(q)
+        if not (a and l and n): continue
+        va, vl, vn = _bsnum(a[0].group(1)), _bsnum(l.group(1)), _bsnum(n.group(1))
+        if None in (va, vl, vn) or va == 0: continue
+        if abs(va - (vl + vn)) / abs(va) <= 0.01: bs_ok += 1
+        else: bs_ng.append(r)
+    if bs_ok or bs_ng:
+        md.append(f"  - 貸借対照表の整合（資産合計＝負債合計＋純資産合計、1%以内）：合う {bs_ok}件／合わない {len(bs_ng)}件" + (f"（例：{bs_ng[0]['品目']}）：合わない行は単位・符号（△）・行の取り違えを原本で確かめるまで採らない（4-85）" if bs_ng else "（4-85）"))
+    # ②株式会社以外の法人の決算（科目が違い資本金が無い）・プロ向け市場の上場会社（有報が無く公告の義務が残る）の引用を数える
+    _NONKK = re.compile(r"(医療法人|社会福祉法人|学校法人|一般社団法人|一般財団法人|公益社団法人|公益財団法人|協同組合|特定非営利活動法人|NPO法人)")
+    nnk = [r for r in rows if _NONKK.search(r["引用"]) and re.search(r"(決算|貸借対照表|資本金|出資金|基金|純資産)", r["引用"])]
+    if nnk: md.append(f"  - ⚠ 株式会社以外の法人の決算の引用 {len(nnk)}件（例：{nnk[0]['品目']}）：科目の名と様式が会社法の計算書類と違い、資本金の欄が無い（出資金・基金）。株式会社の欄に当てはめて比べない（4-85）")
+    _TPM = re.compile(r"(TOKYO\s*PRO\s*Market|プロ向け市場|TPM上場)", re.I)
+    ntpm = [r for r in rows if _TPM.search(r["引用"])]
+    if ntpm: md.append(f"  - TOKYO PRO Market など、プロ向け市場の引用 {len(ntpm)}件（例：{ntpm[0]['品目']}）：有報が無いので EDINET で0件でも「無い」とせず、決算公告を探す（4-85）")
+    # ③日本年金機構の適用事業所検索・厚生年金の被保険者数の引用（人数の一次に近い出どころ。パート・短時間の一部は入らない）を数える
+    _NENKIN = re.compile(r"(適用事業所|厚生年金(保険)?(の)?被保険者数|被保険者数|日本年金機構)")
+    nnen = [r for r in rows if _NENKIN.search(r["引用"])]
+    if nnen: md.append(f"  - 日本年金機構の適用事業所・被保険者数の引用 {len(nnen)}件（例：{nnen[0]['品目']}）：社会保険に入る人の数で、求人・SNSの人数より一次に近い。加入の要件に届かない短時間の人は入らないので、常用の人数と同じ欄にしない（4-85）")
+    # 2026-11-08 4-85（stats47「公務員のための Claude Code × データ前処理入門」：統計表は4行目に単位、千人を人と取り違える・億と万の取り違えが典型。
+    # シート名・年の表記が「2025_04」「H25.4」と揺れる）。④引用に「単位：千人／千円／百万円」の宣言があるのに、行の単位が宣言と違うものを数える
+    _UDECL = re.compile(r"単位\s*[:：]?\s*(千人|千円|百万円|億円|万円|千事業所|人|円)")
+    _UMAP = {"千人": ("千人",), "千円": ("千円",), "百万円": ("百万円",), "億円": ("億円",), "万円": ("万円",), "千事業所": ("千事業所",), "人": ("人",), "円": ("円",)}
+    nud = [r for r in rows if (m := _UDECL.search(r["引用"])) and r["単位"] and r["単位"] not in _UMAP[m.group(1)]]
+    if nud: md.append(f"  - ⚠ 引用の単位の宣言と行の単位が違う {len(nud)}件（例：{nud[0]['品目']}・宣言「{_UDECL.search(nud[0]['引用']).group(1)}」・行「{nud[0]['単位']}」）：千人を人、億を万と読み違えた疑い。原表の単位の行で確かめるまで採らない（4-85）")
+    # ⑤和暦（平成・令和・H25 など）の年がある引用で、行の年が空のものを数える（年の換算が抜けて系列に並ばない）
+    _WAREKI = re.compile(r"(昭和|平成|令和)\s*(\d{1,2}|元)\s*年|(?<![A-Za-z])[HR]\s?\d{1,2}[\.．年]")
+    nwk = [r for r in rows if _WAREKI.search(r["引用"]) and not str(r.get("年") or "").strip()]
+    if nwk: md.append(f"  - ⚠ 和暦の年が書かれているのに行の年が空 {len(nwk)}件（例：{nwk[0]['品目']}）：西暦への換算が抜けて系列に入っていない。換算してから年ごとに並べる（4-85）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl

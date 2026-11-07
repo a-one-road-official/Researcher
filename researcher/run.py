@@ -72,7 +72,7 @@ def social_pass(rec: dict, c: dict, names: list[str], topic: dict, own_host: str
             continue
         q = qfmt(tmpl, name=nm, en=c.get("en", ""))
         results = search.search(q)
-        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]]})
+        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]], "engines": sorted({r.get("engine", "") for r in results}), "n_hits": len(results)})
         for r in results[: lim.get("social_per_query", 4)]:
             host = urlparse(r["url"]).netloc.lower()
             src = next((k for k, d in SOCIAL.items() if host == d or host.endswith("." + d) or (d == "x.com" and "twitter.com" in host)), "")
@@ -103,7 +103,7 @@ def identify(c: dict, log: list) -> tuple[str, str]:
         return c["url"], "given"
     for q in variants.search_variants(c["name"], c["aliases"]):
         results = search.search(q)
-        log.append({"query": q, "results": [r["url"] for r in results[:10]]})
+        log.append({"query": q, "results": [r["url"] for r in results[:10]], "engines": sorted({r.get("engine", "") for r in results}), "n_hits": len(results)})
         for r in results:
             if is_aggregator(r["url"]):
                 continue
@@ -226,7 +226,7 @@ def research(c: dict, topic: dict) -> dict:
     for tmpl in topic["external_queries"]:
         q = qfmt(tmpl, name=names[0] if names else c["name"], en=c.get("en", ""))
         results = search.search(q)
-        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]]})
+        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]], "engines": sorted({r.get("engine", "") for r in results}), "n_hits": len(results)})
         for r in results[: lim.get("external_per_query", 3)]:
             if url and urlparse(r["url"]).netloc == urlparse(url).netloc:
                 continue
@@ -310,7 +310,7 @@ def research_market(c: dict, topic: dict) -> dict:
             continue
         q = qfmt(tmpl, name=c["name"], en=c.get("en", ""))
         results = search.search(q)
-        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]]})
+        rec["search_log"].append({"query": q, "results": [r["url"] for r in results[:10]], "engines": sorted({r.get("engine", "") for r in results}), "n_hits": len(results)})
         taken = 0
         for r in results:
             if taken >= lim.get("external_per_query", 4):
