@@ -1,0 +1,575 @@
+{
+ "name": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+ "en": "SME White Paper appendix labor productivity distribution manufacturing xlsx chusho meti",
+ "aliases": [
+  "中小企業白書 付属統計資料 xlsx 労働生産性 site:chusho.meti.go.jp -newspicks",
+  "中小企業白書 労働生産性 上位10% 下位10% 付属統計 site:chusho.meti.go.jp filetype:xlsx",
+  "中小企業 労働生産性 分布 製造業 規模別 付属統計資料"
+ ],
+ "context": "統計・ばらつき",
+ "kind": "market",
+ "researched_at": "2026-11-07T22:59:25.723378+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seizo-bu.com/ie-pro/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%99%82%E4%BB%A3%E3%81%AB%E5%8B%9D%E3%81%A4%EF%BD%9C%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E6%88%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/14634",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraiku-office.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/18/backdata/2-1-05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ytoc.jp/%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%E3%81%AF%EF%BC%9F%EF%BD%9C2026%E5%B9%B4%E7%89%88%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%99%BD/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000301054&page=ref_view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/files/900018884.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pppt.jp/charts/%E7%AC%AC1-1-31%E5%9B%B3-%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E6%8E%A8%E7%A7%BB-%E4%BC%81%E6%A5%AD%E8%A6%8F%E6%A8%A1%E5%88%A5-9d892977-4ab0-4402-b173-c1a427c45df6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2026/04/20260424005/20260424005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakusyoportal.com/hakusho/60/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/ndc2894e53904",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/column/market-research/what-earningpower-means.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hakusyoportal.com/hakusho/series/chusho-kigyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shokosoken.or.jp/shokokinyuu/2021/01/2021_01_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiwahouse.co.jp/tochikatsu/souken/business/column/clm31.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n79684d75a109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kens_reading1/n/n50c3f4f71134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://furukawa-consulting.com/2026/06/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%99%82%E9%96%93%E5%BD%93%E3%81%9F%E3%82%8A%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%80%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%82%88%E3%82%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2025/0425_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2026/0529_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamago-db.com/japan-labor-shortage-sme-transformation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://seizo-bu.com/ie-pro/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%99%82%E4%BB%A3%E3%81%AB%E5%8B%9D%E3%81%A4%EF%BD%9C%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E6%88%A6/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://seizo-bu.com/ie-pro/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%99%82%E4%BB%A3%E3%81%AB%E5%8B%9D%E3%81%A4%EF%BD%9C%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E6%88%A6/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://smartf-nexta.com/archives/14634",
+    "https://www.miraiku-office.com/blog_93756.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://seizo-bu.com/ie-pro/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%99%82%E4%BB%A3%E3%81%AB%E5%8B%9D%E3%81%A4%EF%BD%9C%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E6%88%A6/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/18/backdata/2-1-05.html",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.ytoc.jp/%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%E3%81%AF%EF%BC%9F%EF%BD%9C2026%E5%B9%B4%E7%89%88%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%99%BD/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000301054&page=ref_view",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://pppt.jp/charts/%E7%AC%AC1-1-31%E5%9B%B3-%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E6%8E%A8%E7%A7%BB-%E4%BC%81%E6%A5%AD%E8%A6%8F%E6%A8%A1%E5%88%A5-9d892977-4ab0-4402-b173-c1a427c45df6",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/index.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000301054&page=ref_view",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2021/01/2021_01_1.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.daiwahouse.co.jp/tochikatsu/souken/business/column/clm31.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://pppt.jp/charts/%E7%AC%AC1-1-31%E5%9B%B3-%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E6%8E%A8%E7%A7%BB-%E4%BC%81%E6%A5%AD%E8%A6%8F%E6%A8%A1%E5%88%A5-9d892977-4ab0-4402-b173-c1a427c45df6",
+    "https://note.com/kens_reading1/n/n50c3f4f71134",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SME White Paper appendix labor productivity distribution manufacturing xlsx chusho meti Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2025/0425_001.html",
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "https://www.meti.go.jp/english/press/2026/0529_003.html",
+    "https://www.tamago-db.com/japan-labor-shortage-sme-transformation/",
+    "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.jef.or.jp/journal/pdf/257th_Cover_Story_01.pdf",
+    "https://www.meti.go.jp/english/",
+    "https://www.brookings.edu/wp-content/uploads/2020/01/es-1.30.20-bailybosworthdoshi.pdf",
+    "https://www.chusho.meti.go.jp/sme_english/whitepaper/whitepaper.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/2_validate_ai/n/n63b49320e166",
+    "https://note.com/lagless/n/n4630b937afc4",
+    "https://note.com/loyal_ivy9071/n/n4adec46f77ec",
+    "https://note.com/platypus2000jp/n/nba85794a9039",
+    "https://note.com/ezuremanagement/n/nc2b66b4c9074",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://note.com/kandoinspirefact/n/n03b2d653a790",
+    "https://note.com/sion_remake0415/n/nadaeb1f165f4",
+    "https://note.com/kens_reading1/n/n502ebeaf1635"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+   "results": [
+    "https://x.com/meti_NIPPON/status/2047632692297253059",
+    "https://x.com/horihukashacho/status/2061286113499595002",
+    "https://x.com/TechnoaPr/status/2064887770607431748",
+    "https://x.com/yuki_ktym/status/2059935209399713805",
+    "https://x.com/m_sato_eigyo/article/2097524656077168746",
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/meti_NIPPON/status/2060343142466076910"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+   "results": [
+    "https://jp.linkedin.com/posts/nakamura-tomohiko-22209864_2023年版ものづくり白書徹底解剖製造業の現状と課題-activity-7098001490035802113-PPBh",
+    "https://www.linkedin.com/posts/koikehidetomo_2023年版中小企業白書の要点まとめ製造業は増加傾向も残念すぎるit投資-activity-7067501648742420480-lYZk",
+    "https://www.linkedin.com/posts/stockmark-inc_2024年版-ものづくり白書要点まとめ製造業の稼ぐ力の向上に必要なこと-activity-7206099397196013570-OH2t",
+    "https://pe.linkedin.com/posts/minoruoka_製造業-ものづくり-ものづくり白書-activity-7202872080525139969-lo3N",
+    "https://in.linkedin.com/posts/softbank-mobile_製造業が直面している危機と立ち向かうために-activity-6772373017637994496-upCp",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://jp.linkedin.com/posts/isao-fukumoto-960482140_2026年版ものづくり白書まとめ投資不足が招いたヤバすぎる製造業の現実-activity-7472044391726088192-vjV3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90）",
+   "results": [
+    "https://www.facebook.com/hamanoproducts/posts/2025年版中小企業白書に弊社の取組後ご紹介いただきましたすでにご覧頂いた方もいらっしゃるかと思いますが2025年4月25日に弊社の取り組みをご紹介いただきまし/1198968265355472/",
+    "https://www.facebook.com/OyanagiConstruction/posts/弊社取り組み事例が経済産業省中小企業白書に掲載事業承継を契機として組織改革とともに社内のデジタル化や新技術を活用した事業を推進し挑戦を許容する組織風土が新たに根/690180486441675/",
+    "https://www.facebook.com/kanpo.kagoshima/posts/新刊のご案内です中小企業白書-小規模企業白書が今年も入荷しております上巻のサブタイトルは強い中小企業に向けた稼ぐ力の強化下巻のサブタイトルは小規模事業者の経営リ/1708534900719673/",
+    "https://www.facebook.com/smrjpr/posts/2021年版中小企業白書小規模企業白書について中小企業庁より2021年版の中小企業白書小規模企業白書が公表されました-httpswwwchushometigoj/4273064469410203/",
+    "https://www.facebook.com/Japan.RIETI/posts/bblセミナー動画2025年版中小企業白書小規模企業白書についてスピーカー岡田-陽rietiコンサルティングフェロー-経済産業省中小企業庁事業環境部-調査室長コ/1089087416583834/",
+    "https://www.facebook.com/kazuchika.iwata/posts/中小企業小規模事業者政策調査会では2026年版の中小企業白書小規模企業白書の編集状況について議論しました人手不足と賃上げ継続インフレ金利のある時代へ移行する時代/26173354062313841/",
+    "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://note.com/ai_funtouki/n/n5fe9657894d3",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://newspicks.com/news/10647184/body/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業白書 付属統計資料 労働生産性の分布 製造業（newspicks など集約・SNSを除き所管の xlsx から・-newspicks -note・4-90） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.profect.jp/article-all-category/productionmanagement/2026/05/01/2026-sme-white-paper-production-management/",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.ytoc.jp/%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%E3%81%AF%EF%BC%9F%EF%BD%9C2026%E5%B9%B4%E7%89%88%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%99%BD/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000301054&page=ref_view",
+    "https://x.com/OgawaSeisakusho/status/2028996596885520632",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SME White Paper appendix labor productivity distribution manufacturing xlsx chusho meti site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/meti-white-paper-manufacturing-2026-sets-new-course-japan-kkoyf",
+    "https://www.linkedin.com/posts/itbusinesstoday_the-meti-white-paper-on-manufacturing-2026-activity-7516505807992020992-g_lX",
+    "https://in.linkedin.com/posts/japanindustrynews_meti-launches-study-group-and-contest-to-activity-7051823813012967424-3eAB",
+    "https://www.linkedin.com/posts/tamago-db-k-k-_2026-meti-white-papers-activity-7468123589100261376-QjeK",
+    "https://www.linkedin.com/posts/ryo1989_the-shift-in-sme-productivity-from-back-office-activity-7442573780780216320-l-wg",
+    "https://pe.linkedin.com/posts/hirotaka-mizutani-60a8b324_for-many-international-businesses-japan-activity-7278545187469963264-vWcW",
+    "https://pe.linkedin.com/posts/allthingsjapan_meti-white-paper-on-international-economy-activity-7344918422868107264-80A1"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "10年推移": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}

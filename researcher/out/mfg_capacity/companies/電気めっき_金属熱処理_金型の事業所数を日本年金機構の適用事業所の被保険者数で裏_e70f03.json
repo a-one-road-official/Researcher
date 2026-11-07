@@ -1,0 +1,608 @@
+{
+ "name": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+ "en": "plating heat treatment die makers association member list employee count pension insured persons",
+ "aliases": [
+  "全国鍍金工業組合連合会 組合員 名簿 site:zenmekki.or.jp",
+  "日本熱処理工業会 会員 一覧 site:jsht.or.jp",
+  "日本金型工業会 会員 名簿 site:jdmia.or.jp"
+ ],
+ "context": "会員・人数",
+ "kind": "market",
+ "researched_at": "2026-11-07T22:59:24.603314+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hpmgsr.jp/news_contents_8952.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nanonet.go.jp/seti/news.php?mode=detail&code=180",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100OEIA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.muro.co.jp/ir/file/1963",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.topics.or.jp/ud/pressrelease/6aed1fbc126217a4a8000001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://furukawa-cci.or.jp/latest_information/2025120111938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ja-hiroshimashi.or.jp/wp/wp-content/uploads/2026/07/4d2c2ab71313bcb35efda165a1a79518.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ja-kitatsukuba.or.jp/wp-content/uploads/2026/05/9854b07e214bbfcff8a2ab51e68dc6f5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/191017-39400",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/do/search_section/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nenkin-kikin.jp/g_and_e/membership/files/013.pdf",
+    "status": "http_401",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904067.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002745553.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://suikokai.or.jp/annualreport/img/2019_nenpo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/260220-87601",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/190_r7_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.topics.or.jp/ud/pressrelease/6adc4d0d1262178c14000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.ide.go.jp/records/27005/file_details/ASE004200_004.pdf?filename=ASE004200_004.pdf&file_order=0",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kochi-cgc.or.jp/wp-content/uploads/2026/08/20-2_jigyousaiseikeikaku_ken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meij.or.jp/kawara/members/kawaraban/20101025122724000000.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nishi.or.jp/jigyoshajoho/kaihatsujigyo/kaihatsujigyo/gaiyo_uketsuke/20250403.files/K2025-017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yakinkenpo.or.jp/UploadedFiles/20160824%20koukoku-dai28-14gou(kumiaiyakuinsenkiyokai).pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/kyouikuhi_chousa_k_r03.pdfhttps://www.jfc.go.jp/n/finance/search/ippan.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl4904007.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20190117000000/www.meti.go.jp/committee/sankoushin/sangyougijutsu/chikyu_kankyo/yakusoku_souan_wg/pdf/005_07_00.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://www.nta.co.jp/aft/70090244.asp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/service/kounen/tekiyo/jigyosho/20150518.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocpa.jp/news_contents_9110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/service/kounen/jigyosho/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_youyaku2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/kousei_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/gyoutaibetu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cri.georgetown.edu/countries/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pensionresearchcouncil.wharton.upenn.edu/wp-content/uploads/2015/09/0-256-09141-2-5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://actuaries.org/app/uploads/2025/07/IPM5_Oyama_Papers_Boston2008.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiho.or.jp/english/statistics/trend/pdf/2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 人手不足 受注 断る",
+   "results": [
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://nanonet.go.jp/seti/news.php?mode=detail&code=180",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100OEIA.pdf",
+    "https://www.muro.co.jp/ir/file/1963",
+    "https://www.topics.or.jp/ud/pressrelease/6aed1fbc126217a4a8000001",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.jacom.or.jp/column/2025/11/251129-85993.php",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 受注残 人手不足",
+   "results": [
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://furukawa-cci.or.jp/latest_information/2025120111938/",
+    "https://www.ja-hiroshimashi.or.jp/wp/wp-content/uploads/2026/07/4d2c2ab71313bcb35efda165a1a79518.pdf",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://www.ja-kitatsukuba.or.jp/archives/19350",
+    "https://www.jacom.or.jp/shizai/news/2026/02/260220-87601.php"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 人手不足 損失 億円",
+   "results": [
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://nanonet.go.jp/seti/news.php?mode=detail&code=180",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100OEIA.pdf",
+    "https://www.muro.co.jp/ir/file/1963",
+    "https://www.topics.or.jp/ud/pressrelease/6aed1fbc126217a4a8000001",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.jacom.or.jp/articles/191017-39400",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.nenkin.go.jp/do/search_section/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.nenkin-kikin.jp/g_and_e/membership/files/013.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904067.html",
+    "https://cp.pfa.or.jp/nippon-chem/membership/index2.html",
+    "https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/kousei_2025.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 推移",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002745553.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://suikokai.or.jp/annualreport/img/2019_nenpo.pdf",
+    "https://www.jacom.or.jp/shizai/news/2026/02/260220-87601.php",
+    "https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/190_r7_04.pdf",
+    "https://www.topics.or.jp/ud/pressrelease/6adc4d0d1262178c14000000",
+    "https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/kousei_2025.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://ir.ide.go.jp/records/27005/file_details/ASE004200_004.pdf?filename=ASE004200_004.pdf&file_order=0",
+    "https://www.kochi-cgc.or.jp/wp-content/uploads/2026/08/20-2_jigyousaiseikeikaku_ken.pdf",
+    "https://www.meij.or.jp/kawara/members/kawaraban/20101025122724000000.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.nishi.or.jp/jigyoshajoho/kaihatsujigyo/kaihatsujigyo/gaiyo_uketsuke/20250403.files/K2025-017.pdf",
+    "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "https://www.ja-hiroshimashi.or.jp/wp/wp-content/uploads/2026/07/4d2c2ab71313bcb35efda165a1a79518.pdf",
+    "https://www.yakinkenpo.or.jp/UploadedFiles/20160824%20koukoku-dai28-14gou(kumiaiyakuinsenkiyokai).pdf",
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/kyouikuhi_chousa_k_r03.pdfhttps://www.jfc.go.jp/n/finance/search/ippan.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4904007.html",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000000oodc-att/03JXAdvancedMetals-1s.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://warp.ndl.go.jp/web/20190117000000/www.meti.go.jp/committee/sankoushin/sangyougijutsu/chikyu_kankyo/yakusoku_souan_wg/pdf/005_07_00.pdf",
+    "http://www.nta.co.jp/aft/70090244.asp",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 従業者規模別",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/tekiyo/jigyosho/20150518.html",
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.nenkin-kikin.jp/g_and_e/membership/files/013.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4904007.html",
+    "https://nanonet.go.jp/seti/news.php?mode=detail&code=180"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 1人当たり 万円",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4904007.html",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "http://www.nta.co.jp/aft/70090244.asp",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://nanonet.go.jp/seti/news.php?mode=detail&code=180",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://www.ocpa.jp/news_contents_9110.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） 2015 2025",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.nenkin.go.jp/do/search_section/",
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/index.html",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904067.html",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.nishi.or.jp/jigyoshajoho/kaihatsujigyo/kaihatsujigyo/gaiyo_uketsuke/20250403.files/K2025-017.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.ja-hiroshimashi.or.jp/wp/wp-content/uploads/2026/07/4d2c2ab71313bcb35efda165a1a79518.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_youyaku2025.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "plating heat treatment die makers association member list employee count pension insured persons Japan statistics",
+   "results": [
+    "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "https://cri.georgetown.edu/countries/japan/",
+    "https://pensionresearchcouncil.wharton.upenn.edu/wp-content/uploads/2015/09/0-256-09141-2-5.pdf",
+    "https://actuaries.org/app/uploads/2025/07/IPM5_Oyama_Papers_Boston2008.pdf",
+    "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
+    "https://www.seiho.or.jp/english/statistics/trend/pdf/2025.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.nippon.com/en/articles/-/12260",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+   "results": [
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/tasty_sedum956/n/na0691236c058",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70",
+    "https://note.com/sr_kuzuu/n/n741b7fdf26c4",
+    "https://note.com/sin331686/n/n192430c940cc",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/kumafujidream/n/nf9a0dd3177c7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+   "results": [
+    "https://x.com/azu_re/status/2031367212200767897",
+    "https://x.com/grok/status/2077757059118809583",
+    "https://x.com/Nenkin_Kikou",
+    "https://x.com/kotaro_ai_lab/status/2077744829048783265",
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/goho___/status/2077701608557924686",
+    "https://x.com/jirohachi0501/status/2056218373839859900"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/in/kohjikaneko",
+    "https://www.linkedin.com/feed/update/urn:li:share:7507901513990561793",
+    "https://ae.linkedin.com/jobs/jobs-in-مدينة-دبي-للغولف"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:facebook.com 電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90）",
+   "results": [
+    "https://www.facebook.com/nipponnenkinkikou/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1541721361290015/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-2月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1265021068960047/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-5月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1678169717645178/",
+    "https://www.facebook.com/kanpo.kagoshima/photos/新刊のご案内です日本の金型産業の規模事業所数生産額などの基礎データはもちろん金型の材料工作機械熱処理加工等の生産統計まで幅広く金型の統計データをまとめた金型統計/1089609011189282/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1866351016858081/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） note 社長",
+   "results": [
+    "https://www.zero-kenpo.or.jp/officer/news/v4BWKl2xt1Lv6epOe4hZ",
+    "https://www.engineer.or.jp/members/c_dpt/metal/topics/012/012067.html",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://www.jacom.or.jp/shizai/news/2026/02/260220-87601.php",
+    "https://kageki.hankyu.co.jp/revue/2016/nobunaga/poster.html",
+    "https://www.sysaudit.gr.jp/members/News/NO231.pdf",
+    "https://www.topics.or.jp/ud/pressrelease/6aebf97f1262175ef7000000",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/230_r7_10.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "電気めっき・金属熱処理・金型の事業所数を日本年金機構の適用事業所の被保険者数で裏付ける業種団体の会員名簿（会員数・人数の基準の出どころ・4-85・4-90） X 投稿",
+   "results": [
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.nenkin.go.jp/do/search_section/",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "http://www.nta.co.jp/aft/70090244.asp",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://www.pmnet.co.jp/home/info/2026/hamasho_info_1104.html",
+    "https://www.topics.or.jp/ud/pressrelease/6aed35e4126217e88a000000",
+    "https://jpsearch.go.jp/data/arc_ban-MFA_11_27821",
+    "https://www.jacom.or.jp/nousei/news/2026/02/260216-87497.php",
+    "https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/kousei_2025.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "plating heat treatment die makers association member list employee count pension insured persons site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/julieamonsclark",
+    "https://www.linkedin.com/in/johnbhadley",
+    "https://www.linkedin.com/in/ninaeisenman",
+    "https://www.linkedin.com/in/stephen-azaloff",
+    "https://www.linkedin.com/in/jimmoran13",
+    "https://www.linkedin.com/in/artikarkar",
+    "https://www.linkedin.com/in/tamara-jansen-69815269",
+    "https://www.linkedin.com/in/mpgpe",
+    "https://ca.linkedin.com/in/alyssa-haas",
+    "https://www.linkedin.com/in/cathy-powell-voigt-02b8454"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ50頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ50頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ50頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ50頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ50頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ50頁・検索18回）",
+  "10年推移": "記載なし（読んだ50頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ50頁・検索18回）"
+ }
+}

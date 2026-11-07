@@ -8,11 +8,23 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-07T17:31:03.331498+00:00",
+ "researched_at": "2026-11-07T23:01:29.838886+00:00",
  "evidence": {
   "実例": [
    {
     "quote": "ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -866,6 +878,18 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
@@ -1022,6 +1046,632 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "StatistaのStatisticsとMarket Insightsを見分け、国内B2B市場への参入仮説を支持・反証する証拠に整理します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
+    "url": "https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません",
+    "url": "https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に、検証を通過した確かな事実だけを、",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIヒアリングを経営企画に使うには？現場の回答を事業仮説の検証につなぐ",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000145960.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
+    "url": "https://www.nabis-g.com/20771/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimate revenue from headcount",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How accurate are these estimates, really?",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "That month taught me how to find annual revenue of a private company the real way. Not by guessing. By stacking signals until the estimate actually holds up.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A defensible estimate",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A researched estimate",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "So there’s no 10-K, no earnings call, no tidy press release with the exact figure. The revenue is real, but it lives inside the company. Your job is to estimate it from the outside, using the clues the business leaks into the world. One more wrinkle: if your target is one of the",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", and almost none of them publish financials. So the company you're researching is far more likely to be a private estimate problem than a public lookup.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ Employees × revenue per employee = estimated annual revenue",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→ 60 × $180K = about $10.8M estimated revenue",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Pull the headcount from two places, not one. LinkedIn's employee count and the company's own careers page often disagree. Average them, and lean to the lower side for a conservative estimate. A revenue number that runs too high just burns your sales team's time on the wrong tier.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For a researched estimate without the manual labor, go straight to a financial data provider. Several specialize in private-company financials, and each uses a different method and price point. The two names that come up most often are weighed against each other in this",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Let me be straight with you. Every private-company revenue number you find is an estimate, including the ones from big-name databases. Nobody outside the company sees the audited books. So the real question isn’t “is this exact?” It’s “is this close enough for my decision?”",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", routing leads, or sizing a market, a good estimate inside a sensible band is plenty. For an acquisition or an investment, you need the company to actually open its books. Know which call you’re making before you trust a number.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "So how do you trust an estimate at all? You cross-check it. When headcount math, a funding signal, and a database all point to the same range, you can act. When they wildly disagree, dig deeper or flag the account as low confidence.",
+    "url": "https://cufinder.io/blog/find-private-company-revenue/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Why Private Company Revenue Estimates Matter",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Private company revenue estimates play a crucial role in several key areas of business, including market research, competitor analysis and financial decisions.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Revenue estimates are essential for analyzing how different sectors are performing. This information is critical for companies’ forecasts, understanding the market landscape or planning market moves.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Accurate revenue estimates help investors assess a company's revenue potential. They enable investors to identify opportunities and make decisions on where to allocate capital.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Companies use revenue estimates to benchmark their performance against competitors. By comparing revenue estimates, companies can identify their own strengths and weaknesses, and develop strategies to gain a competitive edge.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Overall, private company revenue estimates are a vital tool for investors, analysts, and businesses, planning informed decision-making.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Reports may provide broad estimates that need to be tailored to specific companies.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Published data might not be the most current, potentially leading to outdated estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find Private Company Revenue Data & Estimates",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Accurately Estimate Private Company Revenue",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Below, we dig into the various methods for calculating revenue estimates for private companies and the tools that can simplify the process.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The most common method that investors use to calculate a revenue estimate is the",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Can a revenue estimate equation be that simple?",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 1) a range (e.g. 15-30 employees) and 2) the number of employees on LinkedIn. There is also no guarantee that the number of employees displayed on LinkedIn is in between the range they provide. Frequently, it is not. Choosing between those 2 dramatically affects your revenue estimate.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‍There’s a wide array of employees at a given company. Does it make sense to calculate them all into your revenue estimates? They can be accurate and a good sense check, but hard to do at scale.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‍More complex revenue estimates consider revenue generating employees differently. Revenue generating employees will look different across sectors, they could be quota carrying sales reps for a technology company, doctors for an outpatient clinic, or lawyers for a law firm.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Do Salary Estimates Belong in the Equation?",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For some revenue by employee models, the equation includes estimated employee salaries. The",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(BLS) publishes wage data by industry. Applying salary data to your models can help you sanity check your answer and set the lower bound for your revenue estimates, since any profitable business has to generate revenue greater than or equal to salaries.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・採用条件：AI回答の正確性や、引用根拠の妥当性を評価する指標を提案・検証しているもの ・除外条件：単なるAI利用の感想や、評価指標の具体的な提案がないもの 出力には、各候補のタイトルと、採用条件に合致すると判断した理由を簡潔に添えてください",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIを使った調査では、利用したプラットフォームやAIモデルの版、実施日時、目的、結果を記録し、各主張を原典で検証することが求められます",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "撮影した両画面と原文照合を基に、PC環境と予定仕事の違いを比較します",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ソフトウェアファクトリーとは、AIと自動化をつないで要望からソフトウェアの変更・検証までを進める仕組みです",
+    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ものの、調査の過程を検証可能な状態にするための基準として参考になります",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、survey-spec.yamlの対象期間とrun-log.jsonの検索実行日時を照合し、研究者が確認してから調査方法の節へ転記します",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数経路を使っても網羅性は保証されないため、研究者は公式目次との照合を続けます",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "へ残し、保存時と検証時のSHAが一致することを確認します",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ため、まずは正確な識別子であるDOIの照合を優先させます",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "RobotReviewerは人が提案を検証する半自動化として評価された",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究者は必ず元のPDFファイルを開き、AIの提案箇所と実際の記述を照らし合わせて検証しなければなりません",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究者は完成した比較表を俯瞰し、既存研究の間で一致している見解、結果が対立している箇所、そしてどの研究でも未検証のまま残されている領域を抽出します",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "で定義した自分の研究の問いから始まり、未検証の領域をどのように解決したかという含意へとつながる論理展開を作ることができます",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1枚目に複数研究が一致した評価項目、2枚目に結果が対立した条件、3枚目に比較表の「未検証」列へ残った研究課題を置きます",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Alternative Data Used to Estimate a Company’s Revenue",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maybe they hit a milestone they’re celebrating. Not only is this a good way to estimate a company’s revenue, but it also gives you a reason to reach out and start a conversation if you’re interested in investing.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investors can also use proxies of scale to estimate a company’s revenue.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When you find a metric of scale, multiply it by the company’s pricing to estimate revenue.",
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 調査データをもとにフェルミ推定などの考察を提供",
+    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を裏付ける根拠や、新しい仮説の発見のためのデータを瞬時に取得",
+    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説検証や施策の効果測定を行い、",
+    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私自身の経験だと、「まずデスクで仮説を作って、フィールドで検証する」という順番で組むのが実務では圧倒的に多いです",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もちろん仮説の種としては拾えるので、フィールドリサーチの入り口として使うのは全然ありです",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合を見比べるための調査なのか、投資判断のための調査なのか、新規事業の仮説を作るための調査なのかで、集めるべき素材はまるで違います",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の仮説なら、まだ言語化されていない顧客インサイトを掘るための一次資料が中心になってくる、といった具合です",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実務では「デスクで仮説を立てて、フィールドで検証する」順序で組むのが定番で、この順番はAI時代の今も変わっていません",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します",
+    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
+    "url": "https://ai-media-bsg.com/deskrex-app/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "撮影した両画面と原文照合を基に、PC環境と予定仕事の違いを比較します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の市場参入など、重要な経営仮説を検証する場面において、経営企画の調査は公開されたWeb情報の検索だけでは完結しません",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模の予測や政策の動向、競合の決算発表といった「外部情報」に加えて、自社の事業計画の前提や過去の経営会議資料といった「社内資料」を照合し、意思決定の根拠を揃える必要があり",
+    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "海外スタートアップの候補発見から、企業登記、提出書類、資金調達、導入実績の照合までを解説",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deskrex Appは、段階的な検索、推定、対話の自律的なデスクリサーチや、世界中100以上の最新出典のレポートがボタン一つで作れる市場調査の生成AIエージェントです",
+    "url": "https://note.com/deskrex/n/na9bc48b863d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中でも「作業」「調べる」業務においてAIが貢献してくれるのではという仮説を立て、ツールの導入を検討していきました",
+    "url": "https://note.com/deskrex/n/na9bc48b863d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、自分が立てた仮説をAIで検証したり、思いもよらなかった視点をAIから得たりする",
+    "url": "https://note.com/deskrex/n/na9bc48b863d1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法",
@@ -1079,6 +1729,18 @@
    },
    {
     "quote": "ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hermes Agentの使い方とユースケース6選を実機で解説",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -2210,12 +2872,6 @@
     "url": "https://cufinder.io/blog/find-private-company-revenue/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Someone’s Email on LinkedIn",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    }
   ],
   "一次情報の探し方": [
@@ -2729,632 +3385,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "StatistaのStatisticsとMarket Insightsを見分け、国内B2B市場への参入仮説を支持・反証する証拠に整理します",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
-    "url": "https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません",
-    "url": "https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に、検証を通過した確かな事実だけを、",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIヒアリングを経営企画に使うには？現場の回答を事業仮説の検証につなぐ",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
-    "url": "https://prtimes.jp/main/html/rd/p/000000007.000145960.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
-    "url": "https://www.nabis-g.com/20771/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimate revenue from headcount",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How accurate are these estimates, really?",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "That month taught me how to find annual revenue of a private company the real way. Not by guessing. By stacking signals until the estimate actually holds up.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A defensible estimate",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A researched estimate",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "So there’s no 10-K, no earnings call, no tidy press release with the exact figure. The revenue is real, but it lives inside the company. Your job is to estimate it from the outside, using the clues the business leaks into the world. One more wrinkle: if your target is one of the",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", and almost none of them publish financials. So the company you're researching is far more likely to be a private estimate problem than a public lookup.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ Employees × revenue per employee = estimated annual revenue",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→ 60 × $180K = about $10.8M estimated revenue",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Pull the headcount from two places, not one. LinkedIn's employee count and the company's own careers page often disagree. Average them, and lean to the lower side for a conservative estimate. A revenue number that runs too high just burns your sales team's time on the wrong tier.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For a researched estimate without the manual labor, go straight to a financial data provider. Several specialize in private-company financials, and each uses a different method and price point. The two names that come up most often are weighed against each other in this",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Let me be straight with you. Every private-company revenue number you find is an estimate, including the ones from big-name databases. Nobody outside the company sees the audited books. So the real question isn’t “is this exact?” It’s “is this close enough for my decision?”",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", routing leads, or sizing a market, a good estimate inside a sensible band is plenty. For an acquisition or an investment, you need the company to actually open its books. Know which call you’re making before you trust a number.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "So how do you trust an estimate at all? You cross-check it. When headcount math, a funding signal, and a database all point to the same range, you can act. When they wildly disagree, dig deeper or flag the account as low confidence.",
-    "url": "https://cufinder.io/blog/find-private-company-revenue/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Revenue Estimates for Private Companies",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Why Private Company Revenue Estimates Matter",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Private company revenue estimates play a crucial role in several key areas of business, including market research, competitor analysis and financial decisions.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Revenue estimates are essential for analyzing how different sectors are performing. This information is critical for companies’ forecasts, understanding the market landscape or planning market moves.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Accurate revenue estimates help investors assess a company's revenue potential. They enable investors to identify opportunities and make decisions on where to allocate capital.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Companies use revenue estimates to benchmark their performance against competitors. By comparing revenue estimates, companies can identify their own strengths and weaknesses, and develop strategies to gain a competitive edge.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Overall, private company revenue estimates are a vital tool for investors, analysts, and businesses, planning informed decision-making.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Reports may provide broad estimates that need to be tailored to specific companies.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Published data might not be the most current, potentially leading to outdated estimates.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Private Company Revenue Data & Estimates",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Accurately Estimate Private Company Revenue",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Below, we dig into the various methods for calculating revenue estimates for private companies and the tools that can simplify the process.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The most common method that investors use to calculate a revenue estimate is the",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Can a revenue estimate equation be that simple?",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 1) a range (e.g. 15-30 employees) and 2) the number of employees on LinkedIn. There is also no guarantee that the number of employees displayed on LinkedIn is in between the range they provide. Frequently, it is not. Choosing between those 2 dramatically affects your revenue estimate.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‍There’s a wide array of employees at a given company. Does it make sense to calculate them all into your revenue estimates? They can be accurate and a good sense check, but hard to do at scale.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‍More complex revenue estimates consider revenue generating employees differently. Revenue generating employees will look different across sectors, they could be quota carrying sales reps for a technology company, doctors for an outpatient clinic, or lawyers for a law firm.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Do Salary Estimates Belong in the Equation?",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For some revenue by employee models, the equation includes estimated employee salaries. The",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(BLS) publishes wage data by industry. Applying salary data to your models can help you sanity check your answer and set the lower bound for your revenue estimates, since any profitable business has to generate revenue greater than or equal to salaries.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・採用条件：AI回答の正確性や、引用根拠の妥当性を評価する指標を提案・検証しているもの ・除外条件：単なるAI利用の感想や、評価指標の具体的な提案がないもの 出力には、各候補のタイトルと、採用条件に合致すると判断した理由を簡潔に添えてください",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIを使った調査では、利用したプラットフォームやAIモデルの版、実施日時、目的、結果を記録し、各主張を原典で検証することが求められます",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "撮影した両画面と原文照合を基に、PC環境と予定仕事の違いを比較します",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ソフトウェアファクトリーとは、AIと自動化をつないで要望からソフトウェアの変更・検証までを進める仕組みです",
-    "url": "https://media.deskrex.ai/ai-search-compare-own-research-library-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ものの、調査の過程を検証可能な状態にするための基準として参考になります",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、survey-spec.yamlの対象期間とrun-log.jsonの検索実行日時を照合し、研究者が確認してから調査方法の節へ転記します",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数経路を使っても網羅性は保証されないため、研究者は公式目次との照合を続けます",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "へ残し、保存時と検証時のSHAが一致することを確認します",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ため、まずは正確な識別子であるDOIの照合を優先させます",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "RobotReviewerは人が提案を検証する半自動化として評価された",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究者は必ず元のPDFファイルを開き、AIの提案箇所と実際の記述を照らし合わせて検証しなければなりません",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究者は完成した比較表を俯瞰し、既存研究の間で一致している見解、結果が対立している箇所、そしてどの研究でも未検証のまま残されている領域を抽出します",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で定義した自分の研究の問いから始まり、未検証の領域をどのように解決したかという含意へとつながる論理展開を作ることができます",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1枚目に複数研究が一致した評価項目、2枚目に結果が対立した条件、3枚目に比較表の「未検証」列へ残った研究課題を置きます",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Alternative Data Used to Estimate a Company’s Revenue",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Maybe they hit a milestone they’re celebrating. Not only is this a good way to estimate a company’s revenue, but it also gives you a reason to reach out and start a conversation if you’re interested in investing.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Investors can also use proxies of scale to estimate a company’s revenue.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When you find a metric of scale, multiply it by the company’s pricing to estimate revenue.",
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 調査データをもとにフェルミ推定などの考察を提供",
-    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を裏付ける根拠や、新しい仮説の発見のためのデータを瞬時に取得",
-    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説検証や施策の効果測定を行い、",
-    "url": "https://note.com/deskrex/n/nb8db55cfdf8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私自身の経験だと、「まずデスクで仮説を作って、フィールドで検証する」という順番で組むのが実務では圧倒的に多いです",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もちろん仮説の種としては拾えるので、フィールドリサーチの入り口として使うのは全然ありです",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合を見比べるための調査なのか、投資判断のための調査なのか、新規事業の仮説を作るための調査なのかで、集めるべき素材はまるで違います",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の仮説なら、まだ言語化されていない顧客インサイトを掘るための一次資料が中心になってくる、といった具合です",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実務では「デスクで仮説を立てて、フィールドで検証する」順序で組むのが定番で、この順番はAI時代の今も変わっていません",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します",
-    "url": "https://media.deskrex.ai/glossary-desk-research-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、生成したアイデアの市場での実現可能性を検証する機能も備えており、アイデアの質を担保します",
-    "url": "https://ai-media-bsg.com/deskrex-app/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "撮影した両画面と原文照合を基に、PC環境と予定仕事の違いを比較します",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の市場参入など、重要な経営仮説を検証する場面において、経営企画の調査は公開されたWeb情報の検索だけでは完結しません",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模の予測や政策の動向、競合の決算発表といった「外部情報」に加えて、自社の事業計画の前提や過去の経営会議資料といった「社内資料」を照合し、意思決定の根拠を揃える必要があり",
-    "url": "https://media.deskrex.ai/how-to-conference-survey-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海外スタートアップの候補発見から、企業登記、提出書類、資金調達、導入実績の照合までを解説",
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deskrex Appは、段階的な検索、推定、対話の自律的なデスクリサーチや、世界中100以上の最新出典のレポートがボタン一つで作れる市場調査の生成AIエージェントです",
-    "url": "https://note.com/deskrex/n/na9bc48b863d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中でも「作業」「調べる」業務においてAIが貢献してくれるのではという仮説を立て、ツールの導入を検討していきました",
-    "url": "https://note.com/deskrex/n/na9bc48b863d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、自分が立てた仮説をAIで検証したり、思いもよらなかった視点をAIから得たりする",
-    "url": "https://note.com/deskrex/n/na9bc48b863d1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -3376,22 +3406,27 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/deskrex/n/n477f77a67b48",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/deskrex/n/n58b5dc16c19a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/quick_yeti6273/n/n0baddb2f5d9d",
+    "url": "https://note.com/kakehi_masahide/n/ne6c2af33dffa",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=22925babcb494ee9e2af7cad830e80a9",
+    "url": "https://note.com/ai_scout_jp/n/n41718121f4ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b6b5ee54e76d3431a4c013a3578d72f6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deskrex/n/n477f77a67b48",
     "status": "ok",
     "method": "http"
    },
@@ -3416,7 +3451,12 @@
     "method": "http"
    },
    {
-    "url": "https://media.deskrex.ai/tag/%E8%AB%96%E6%96%87%E8%AA%BF%E6%9F%BB/",
+    "url": "https://www.deskrex.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.provej.jp/column/na/desk-research/",
     "status": "ok",
     "method": "http"
    },
@@ -3426,7 +3466,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.provej.jp/column/na/desk-research/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000145960.html",
     "status": "ok",
     "method": "http"
    },
@@ -3441,22 +3481,12 @@
     "method": "http"
    },
    {
-    "url": "https://manamina.valuesccg.com/articles/5140",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.deskrex.ai/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.dm-insight.jp/research-method/deskresearch/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://prtimes.jp/main/html/rd/p/000000005.000145960.html",
+    "url": "https://gmo-research.ai/research-column/about-marketing-research",
     "status": "ok",
     "method": "http"
    },
@@ -3519,10 +3549,10 @@
     "https://note.com/deskrex",
     "https://note.com/deskrex/n/n921459de2488",
     "https://note.com/aimakoto/n/n471e23d1468e",
-    "https://note.com/deskrex/n/n477f77a67b48",
     "https://note.com/deskrex/n/n58b5dc16c19a",
-    "https://note.com/quick_yeti6273/n/n0baddb2f5d9d",
-    "https://note.com/deskrex/n/na9bc48b863d1"
+    "https://note.com/kakehi_masahide/n/ne6c2af33dffa",
+    "https://note.com/ai_scout_jp/n/n41718121f4ec",
+    "https://note.com/quick_yeti6273/n/n0baddb2f5d9d"
    ],
    "engines": [
     "ddgs:google"
@@ -3547,28 +3577,27 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "デスクリサーチの自動化と引用の検証（DeskrexAI・Grata） やり方",
    "results": [
-    "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://x.com/deskrex",
-    "https://sevendex.com/post/16304/",
+    "https://www.deskrex.ai/",
+    "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://www.provej.jp/column/na/desk-research/",
+    "https://note.com/deskrex/n/n477f77a67b48",
+    "https://sevendex.com/post/16304/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000145960.html",
     "https://www.finchjapan.co.jp/consumer/109/",
     "https://www.sprocket.bz/blog/20221031-desk_research.html",
-    "https://manamina.valuesccg.com/articles/5140",
-    "https://www.deskrex.ai/",
-    "https://www.issoh.co.jp/column/details/10570/",
     "https://consul-data-bank.com/insight/5868/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "デスクリサーチの自動化と引用の検証（DeskrexAI・Grata） 事例",
@@ -3577,11 +3606,11 @@
     "https://www.dm-insight.jp/research-method/deskresearch/",
     "https://x.com/deskrex",
     "https://prtimes.jp/main/html/rd/p/000000005.000145960.html",
-    "https://sevendex.com/post/16304/",
-    "https://www.provej.jp/column/na/desk-research/",
-    "https://www.finchjapan.co.jp/consumer/109/",
     "https://www.deskrex.ai/",
-    "https://manamina.valuesccg.com/articles/5140",
+    "https://www.provej.jp/column/na/desk-research/",
+    "https://note.com/deskrex/n/n477f77a67b48",
+    "https://sevendex.com/post/16304/",
+    "https://gmo-research.ai/research-column/about-marketing-research",
     "https://media.deskrex.ai/tag/調査自動化/"
    ],
    "engines": [
@@ -3602,27 +3631,27 @@
     "https://pipeline.zoominfo.com/sales/company-research-tools",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11219169/",
     "https://www.nature.com/articles/s41467-024-49141-z",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/"
+    "https://companydata.com/company-revenue-lookup/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）",
    "results": [
     "https://note.com/deskrex",
     "https://note.com/deskrex/n/n921459de2488",
-    "https://note.com/deskrex/n/n58b5dc16c19a",
     "https://note.com/aimakoto/n/n471e23d1468e",
+    "https://note.com/deskrex/n/n58b5dc16c19a",
     "https://note.com/deskrex/n/na9bc48b863d1",
     "https://note.com/deskrex/n/n477f77a67b48",
-    "https://note.com/quick_yeti6273/n/n0baddb2f5d9d"
+    "https://note.com/kakehi_masahide/n/ne6c2af33dffa"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -3633,12 +3662,12 @@
     "https://x.com/deskrex/status/2103967852210405522",
     "https://x.com/deskrex/status/2057068881697558643",
     "https://x.com/deskrex/status/2102231421331079484",
-    "https://x.com/deskrex/status/2108195715545727080",
     "https://x.com/itarutomy/status/2055918967336620284",
+    "https://x.com/deskrex/status/2108195715545727080",
     "https://x.com/deskrex/status/1835265649716740489"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -3647,14 +3676,14 @@
    "results": [
     "https://jp.linkedin.com/pulse/ai-research-tools-complete-list-all-used-dr-nithya-mayilsamy-ffqic?tl=ja",
     "https://jp.linkedin.com/in/太智-渡邊-591a4a428",
-    "https://jp.linkedin.com/pulse/content-citation-ai-best-practices-citing-validating-sachin-aggarwal-hdtnc?tl=ja",
-    "https://www.linkedin.com/pulse/無料ウェビナー-デスクリサーチ業務をaiの力で大幅に効率化市場情報プラットフォームreportlinkerを活用する628に開催-yfxic",
     "https://jp.linkedin.com/pulse/smarter-faster-sharper-ai-driven-future-desk-research-daniel-mutuku-9abgf?tl=ja",
+    "https://www.linkedin.com/pulse/無料ウェビナー-デスクリサーチ業務をaiの力で大幅に効率化市場情報プラットフォームreportlinkerを活用する628に開催-yfxic",
+    "https://jp.linkedin.com/pulse/content-citation-ai-best-practices-citing-validating-sachin-aggarwal-hdtnc?tl=ja",
     "https://jp.linkedin.com/posts/junya627_設備を止めない保全をaiに引用させる日鉄エンジニアリングが挑む生成ai検索最適化-activity-7471046756856770560-E7oI",
     "https://jp.linkedin.com/pulse/investment-decisions-demand-investment-grade-data-grata-data-mbmcc?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -3662,12 +3691,12 @@
    "query": "site:facebook.com デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）",
    "results": [
     "https://www.facebook.com/twdesk/",
-    "https://www.facebook.com/vinculum89/videos/hiro_sns888-最新aiノウハウはプロフリンクからnoteの記事作成全部aiに任せられる時代になりました最近登場したcometコメットというaiがエグい/964159015970847/",
     "https://www.facebook.com/reel/1694335381386348/",
     "https://www.facebook.com/nikkeib2b/videos/財務競合環境分析の効率化脱属人化を無料トライアルで体感/1341003764229601/",
-    "https://www.facebook.com/ds.yahoojp/posts/日本の本音がわかるヤフーの行動ビッグデータを分析できるデスクリサーチツールdsinsightみんなでつかうどんどんはかどるをキーワードに全員dxキャンペーンを始/417926349610216/",
+    "https://www.facebook.com/vinculum89/videos/hiro_sns888-最新aiノウハウはプロフリンクからnoteの記事作成全部aiに任せられる時代になりました最近登場したcometコメットというaiがエグい/964159015970847/",
     "https://www.facebook.com/100063771074669/videos/2075270773254379/",
-    "https://www.facebook.com/yohta4/posts/過去10年間の会計5大誌に掲載された論文が引用した論文を使ってサイテーションリサーチ商業誌に投稿するには参考文献が多すぎて字数オーバーだし日本語の主要会計学術誌/36195753030070532/"
+    "https://www.facebook.com/ds.yahoojp/posts/日本の本音がわかるヤフーの行動ビッグデータを分析できるデスクリサーチツールdsinsightみんなでつかうどんどんはかどるをキーワードに全員dxキャンペーンを始/417926349610216/",
+    "https://www.facebook.com/twdesk/posts/導入事例自社アカウントで得られた知見を活かしリサーチ運用代行をサービス化角川アスキー総合研究所様にtwitterアカウントの運用方法や方針などをインタビューして/3645768165488695/"
    ],
    "engines": [
     "ddgs:bing"
@@ -3681,15 +3710,15 @@
     "https://note.com/deskrex/n/n477f77a67b48",
     "https://x.com/deskrex",
     "https://note.com/diisuket/n/n3015401e4406",
-    "https://www.deskrex.ai/",
     "https://www.issoh.co.jp/column/details/10570/",
     "https://manamina.valuesccg.com/articles/5140",
-    "https://note.com/ai_labo26/n/n817743b4d93f",
     "https://sevendex.com/post/16304/",
+    "https://www.deskrex.ai/",
+    "https://note.com/ryoa2022/n/n9967e828841a",
     "https://note.com/deskrex"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -3698,18 +3727,18 @@
    "query": "デスクリサーチの自動化と引用の検証（DeskrexAI・Grata） X 投稿",
    "results": [
     "https://x.com/deskrex",
-    "https://www.deskrex.ai/",
     "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://prtimes.jp/main/html/rd/p/000000005.000145960.html",
-    "https://note.com/deskrex/n/n477f77a67b48",
+    "https://www.deskrex.ai/",
     "https://manamina.valuesccg.com/articles/5268",
+    "https://note.com/deskrex/n/n477f77a67b48",
     "https://www.youtube.com/watch?v=GqItwauy7j8",
     "https://www.issoh.co.jp/column/details/10570/",
     "https://www.provej.jp/column/na/desk-research/",
     "https://media.deskrex.ai/tag/調査自動化/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -3717,19 +3746,19 @@
   {
    "query": "desk research automation citation verification private company revenue estimation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/orengreenberg_gaaaah-if-i-see-one-more-perfect-prompt-activity-7520546438141976576-i_V1",
-    "https://my.linkedin.com/in/michael-q-tran",
-    "https://www.linkedin.com/top-content/finance/market-research-in-finance/real-time-research-tools-for-financial-analysts/",
     "https://www.linkedin.com/in/hschuck",
+    "https://www.linkedin.com/top-content/finance/market-research-in-finance/real-time-research-tools-for-financial-analysts/",
+    "https://my.linkedin.com/in/michael-q-tran",
     "https://ca.linkedin.com/in/rafaelgbo",
-    "https://www.linkedin.com/in/johngherndon",
     "https://www.linkedin.com/posts/jstaats_9-ai-tax-tools-accounting-firms-wont-shut-activity-7376624025323843584-5Nyd",
-    "https://www.linkedin.com/pulse/ai-divide-why-celonis-could-define-enterprise-2026-daniel-kapusy-ofa0c",
-    "https://www.linkedin.com/posts/bojan-radojicic-a132a526_claude-cloudflare-and-gitgithub-with-these-activity-7511396734305099776-ibUY",
-    "https://cy.linkedin.com/in/oli-nold"
+    "https://www.linkedin.com/in/johngherndon",
+    "https://www.linkedin.com/posts/alexcinovoj_one-ai-agent-took-the-trade-seven-others-activity-7502720764710793216-OV3c",
+    "https://cy.linkedin.com/in/oli-nold",
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-in-financial-services/automating-financial-audits-with-ai/",
+    "https://www.linkedin.com/posts/bojan-radojicic-a132a526_claude-cloudflare-and-gitgithub-with-these-activity-7511396734305099776-ibUY"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -3737,29 +3766,49 @@
  ],
  "missing": {},
  "new_this_run": {
-  "手順・やり方": [
+  "実例": [
    {
-    "quote": "Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順",
+    "quote": "AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します",
+    "quote": "AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "論文サーベイAIとZotero、EndNote、Mendeleyの違いを、探索、要約、引用管理、PDF整理など9つの役割で比較します",
+    "quote": "2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します",
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hermes Agentの使い方とユースケース6選を実機で解説",
     "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 19,
+ "runs": 20,
  "first_researched_at": "2026-11-05T03:01:54.795423+00:00"
 }

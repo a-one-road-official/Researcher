@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・205品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・208品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2547,11 +2547,11 @@
   - 「AI Skillが具体的すぎると使えない｜個別例を判断基準へ抽象化する方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ClaudeとSnorbeを調査目的、情報源、根拠、履歴、定期実行、成果物、権限の7軸で比較し、30日競合調査のPoC手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Hermes Agentの使い方とユースケース6選を実機で解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「How to Find Decision Makers in Your Customer List (2026 Sales Guide)」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2585,6 +2585,8 @@
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
+  - 「2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「動画は、読者の注意を引き付け、情報を効果的に伝えるのに優れたメディアです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2598,10 +2600,10 @@
   - 「そのため、大量の論文を分けて保存した場合、一つのノートで得られた回答を「手持ちの全資料に対する調査結果」として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「AIが生成した候補のリストや比較メモをそのまま調査の実績として鵜呑みにせず、AIの出力はあくまで探索の補助として、人が監督することが求められます」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「※なお、全文をAIツールに読み込ませる際、オークランド大学図書館は、同大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
   - 「ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIエージェントの強化学習とは？注目の手法、事例、論文から学ぶ自律的最適化の最新トレンド」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIエージェントと強化学習の現状とは？注目の手法から、ノーコード開発、実用の事例、注目の論文や研究開発のトレンドから強化学習とAIエージェントのトレンドを学びましょう」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2614,8 +2616,6 @@
   - 「2024年の中国生成AIの事例・規制・スタートアップの覇権競争とは？2025年予測も解説！」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「5Forces分析とは？AI自動化の事例と月曜から使う手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「40時間→2時間の事例、ChatGPTプロンプト2種、業界別事例、反復ループ型ワークフローまで具体的に紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -5470,37 +5470,37 @@
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「How to Verify Claims Through Independent Sources」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 1:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 2:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 3:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 4:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 5:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Step 6:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Ethnography & Qualitative Research Methods」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「method_transparency_note」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「Country Policy and Information Notes: Purpose, Methodology and Use」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「Ethnography & Qualitative Research Methods」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
-  - 「methodological triangulation」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
-  - 「It is the backbone of incident postmortems, mixed-method research, and outbreak reconstruction.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
-  - 「A claims-by-sources matrix operationalizes methodological triangulation: each conclusion is checked against evidence produced through more than one source or method. CDC explicitly defines triangulation as cross-verification using multiple sources and methods; statistics supplies formal comparison.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「Research triangulation is the deliberate comparison of multiple methods, data sources, or perspectives around the same underlying Product question.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Triangulation does not mean “use three methods”」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Two genuinely complementary methods may be enough for a decision. A complex question may require several datasets, participant contexts, analysts, or competing explanations.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Triangulation and mixed methods overlap, but they are not synonyms」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「usually describes a research design that deliberately combines qualitative and quantitative methods.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「A team can run interviews, a survey, and analytics and still fail to triangulate if the three reports are presented separately and never integrated. Conversely, triangulation does not require one qualitative and one quantitative method.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Research-method literature commonly distinguishes four forms:」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Method triangulation:」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「examine the same phenomenon with different methods.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「method and data-source triangulation」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「redesign a setup step;」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Methods contribute different kinds of evidence. Do not treat one method as the universal validator of another.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Convergence is not truth, and methods are not equal votes」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Evidence does not become strong because more method names appear in a column.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「every method is insensitive to the same missing context.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
 - 突き合わせ・推定：
-  - 「superbasic-research/standards/triangulation-mapping-guide.md at main · iamstefanp/superbasic-research · GitHub」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「triangulation-mapping-guide.md」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Triangulation Mapping: Claim Validation Visual Logic」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「What Is Triangulation Mapping?」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Triangulation mapping shows」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「✓ Strong triangulation (multiple independent sources, different」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「⚠ Weak triangulation (multiple sources, same persona/bias)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「❌ No triangulation (single-sourced claims)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Text-Based Triangulation Map (For Reports)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Triangulation Quality:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Visual Triangulation Diagram (For Training/Analysis)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Compare to FALSE triangulation:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Triangulation Matrix (For Full Report)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Claims 1 & 4: strong triangulation (3–4 sources, multiple personas)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Claims 2 & 5: weak triangulation (2 sources, limited persona」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Research Triangulation: Combine Product Evidence | CraftUp」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Research triangulation is the deliberate comparison of multiple methods, data sources, or perspectives around the same underlying Product question.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Disagreement is not failed triangulation.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「What triangulation is, and what it is not」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Triangulation is useful because different evidence sources expose different dimensions and failure modes of the same Product question.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「. A survey can estimate the distribution of a well-defined attitude in a sampled population. An experiment can address a causal question when its design supports that inference.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Triangulation does not mean “use three methods”」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「The geometry metaphor is easy to over-literalize. Research triangulation does not require exactly three sources.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Triangulation and mixed methods overlap, but they are not synonyms」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「A team can run interviews, a survey, and analytics and still fail to triangulate if the three reports are presented separately and never integrated. Conversely, triangulation does not require one qualitative and one quantitative method.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Four classic triangulation types」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Method triangulation:」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Investigator triangulation:」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Theory triangulation:」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「method and data-source triangulation」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
 - 一次情報の探し方：
   - 「. GOV.UK (2026). Warns that multiple sources may create false corroboration when they repeat the same primary source.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
   - 「The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
@@ -5523,16 +5523,16 @@
   - 「survey alongside qualitative interviews. Because the methods do not share the same biases, between-method triangulation is the more powerful and is the engine of most」（https://www.researchprospect.com/triangulation/）
   - 「Common mistakes to avoid」（https://www.researchprospect.com/triangulation/）
   - 「If your methods share the same bias, agreement between them proves nothing.」（https://www.researchprospect.com/triangulation/）
+  - 「Agreement is only informative when the sources are fit for the claim and are not simply repeating the same upstream data, participants, instrumentation, wording, or organizational bias.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「An interview guide and a survey can embed the same assumption and reproduce the same framing bias.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「the same sampling bias affects every source;」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Does survivor or response bias matter?」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Survey Design and Bias guide」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
   - 「⚠ Weak triangulation (multiple sources, same persona/bias)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「Do sources have different potential biases?」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「Common Triangulation Mistakes」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「もし経営者（第二機能）が「株主（第一機能）」を兼ねて絶対的権力を握る場合（創業者ワンマン企業など）、事業上の失敗や不祥事はそのまま「会社の存在正統性の全否定（破滅）」に直結します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「第一機能（株主総会）と第二機能（経営陣）を分化させておくことで、「経営陣（第二機能）が失敗した場合は、正統性の所有者（第一機能）が経営陣を差し替える（解任する）」という自己修復・自浄作用が機能します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「② 「けがれ（現場の泥臭さ・失敗）」からの隔離」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「皇帝が教皇を無視して自前で聖職者を任命しようとしたり、CEOが取締役会や株主を形骸化させたりすると、短期的には効率的であっても、一度失敗（不祥事や業績悪化）した際に修正・チェックが効かず、システム全体が易姓革命的破滅（会社更生・解体）へ直行します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「持続不能となり、第3機能への解放（市場化・不満肥大）か、第1機能（宗教的・思想的ファンダメンタリズム）への逃避・爆発を起こす」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「宗教的ファンダメンタリズム（第1機能）による社会の強制再構築」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 実例：
   - 「Triangulation in Research: Types & Examples - ResearchProspect」（https://www.researchprospect.com/triangulation/）
   - 「Triangulation in Research: Types & Examples」（https://www.researchprospect.com/triangulation/）
@@ -5543,12 +5543,12 @@
   - 「The clearest way to see triangulation is to walk through a realistic study end to end. The example below shows methodological and data triangulation working together in a business and organisational-psychology project, and — crucially — how the three strands were actually integrated rather than just reported side by side.」（https://www.researchprospect.com/triangulation/）
   - 「Triangulation is especially valuable in case-study research, where Robert Yin treats the use of multiple sources of evidence as a defining feature of a rigorous case design and a key way of establishing construct validity.」（https://www.researchprospect.com/triangulation/）
   - 「SWOT Analysis: Definition, Examples & Template」（https://www.researchprospect.com/triangulation/）
-  - 「Example of FALSE independence:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「Example: Full Triangulation Map」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
-  - 「: do the supporting sources share an origin, a coordinator, or a common failure mode — in which case their agreement is one voice, not many?」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「Arraying claims against independent source types to detect echoed rather than genuine corroboration is qualitative triangulation. GAO case-study guidance explicitly uses evidence matrices and multiple sources to corroborate findings and expose limitations.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「GAO, Case Study Evaluations: Triangulation and Evidence Matrices」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
-  - 「," "supplier S is common to all cases" — becomes a row; each source stream a column.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「Worked case A: complementary evidence in B2B onboarding」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「The following example is hypothetical.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Worked case B: dissonance caused by non-comparable populations」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「This example is hypothetical.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「Worked case C: false convergence from one account signal」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
+  - 「, applied UX examples of complementary methods and when additional evidence is worth the cost.」（https://craftuplearn.com/blog/triangulation-research-combine-data-sources-pro-pm）
 - 検索結果の抜粋：
   - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
   - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once. A list of sources tells you how many you have; it does not tell you which claims they actually cover, or whether the ones that agree are truly independent.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
@@ -12203,3 +12203,93 @@
   - 「IV. An Example: Forecasting Current-Quarter GDP Growth」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「sample-vintage, real-time-vintage, and (as a special case of real-time-vintage) first-release data sets.」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+
+## 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）（language bias search limits grey literature government websites search reporting PRISMA-S）
+- 文脈：失敗・落とし穴
+- 手順・やり方：
+  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「るためにさまざまな方法を用いてきた 11, 17, 19, 20）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「難である可能性が高いことが，検索方法の出版後査」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源や方法を使用した検索を報告方法に関する指」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献検索方法の報告が不完全であると疑念が生」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+- 突き合わせ・推定：
+  - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「テストされ，検証されているが， SR またはその他」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of grey literature influence estimates of intervention」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「]. For reviews of intervention studies, failure to include grey literature may artificially amplify estimates of treatment effects, given the effects of publication bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
+- 一次情報の探し方：
+  - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Cochrane Reviews 119, 120）で採用された介入（実施戦」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「PDF (2.3 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
+- 失敗・落とし穴：
+  - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「SR 検索に学会抄録を含めると，バイアスを最小限に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な限り多くのバイアスを取り除くために開発された」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「]. For reviews of intervention studies, failure to include grey literature may artificially amplify estimates of treatment effects, given the effects of publication bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
+  - 「]. Applying systematic methods to grey literature searches should improve the quality of review syntheses that include grey literature by providing a more comprehensive and less biassed set of reports to examine.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/）
+- 実例：
+  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献 DB には肯定的な結果を報告した英語の出版物」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+
+## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
+- 文脈：失敗・落とし穴
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
+- 文脈：手順・やり方
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
