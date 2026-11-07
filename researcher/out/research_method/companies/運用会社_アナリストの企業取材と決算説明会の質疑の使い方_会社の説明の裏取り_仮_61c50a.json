@@ -1,0 +1,367 @@
+{
+ "name": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+ "en": "fund manager company interview earnings call verification analyst note",
+ "aliases": [
+  "ファンドマネージャー 企業取材 仮説 note",
+  "決算説明会 質疑 アナリスト 聞き方 裏取り",
+  "アクティブ運用 企業調査 一次情報 取材"
+ ],
+ "context": "会社・一次",
+ "kind": "market",
+ "researched_at": "2026-11-07T20:45:03.470186+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.nikkei.com/column/002004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nab4489b3f022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yappyy/n/n6291713bbdfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irprimelive.fieldcaster.net/blog/kessan-setsumeikai-qa-junbi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubloom.jp/blog/2026/09/22/financial-analyst-kw-46/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/glossary/earnings-call/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japaneseinvestor.jp/jilist/column/488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/glossary/earnings-call-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthequityinterviewguide.com/investor-relations/investor-relations-careers/investor-relations-interview-questions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daloopa.com/blog/analyst-best-practices/questions-to-ask-hedge-fund-managers-during-your-analyst-interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.streetofwalls.com/finance-training-courses/hedge-fund-training/hedge-fund-interview-questions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://economics.virginia.edu/12-questions-you-should-be-ready-answer-financial-analyst-interview-plus-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mergersandinquisitions.com/asset-management-interview-questions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/FPandA/comments/z069f2/as_a_hiring_manager_what_are_your_best_interview/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） site:note.com",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://note.com/aun_ir/n/naa2e857087ca"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） note",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） やり方",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） 事例",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "fund manager company interview earnings call verification analyst note",
+   "results": [
+    "https://growthequityinterviewguide.com/investor-relations/investor-relations-careers/investor-relations-interview-questions",
+    "https://daloopa.com/blog/analyst-best-practices/questions-to-ask-hedge-fund-managers-during-your-analyst-interview",
+    "https://www.streetofwalls.com/finance-training-courses/hedge-fund-training/hedge-fund-interview-questions/",
+    "https://economics.virginia.edu/12-questions-you-should-be-ready-answer-financial-analyst-interview-plus-examples",
+    "https://www.youtube.com/watch?v=41CULJ0cyCk&vl=ja",
+    "https://mergersandinquisitions.com/asset-management-interview-questions/",
+    "https://www.reddit.com/r/FPandA/comments/z069f2/as_a_hiring_manager_what_are_your_best_interview/",
+    "https://www.glassdoor.com/Interview/investor-relations-analyst-interview-questions-SRCH_KO0,26.htm",
+    "https://www.bucko.ai/learn/earnings-call-transcript-checklist",
+    "https://www.boardinfinity.com/blog/reading-earnings-calls-guidance-management-commentary/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+   "results": [
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/masatana/n/n4e0515cd58d9",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022",
+    "https://note.com/yappyy/n/n6291713bbdfd",
+    "https://note.com/loots/n/nfc33babc30c0",
+    "https://note.com/muybonito84/n/n23846ce99b86",
+    "https://note.com/masatana/n/n42095b322750",
+    "https://note.com/kaburobo/n/nd4b60b35c5a9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+   "results": [
+    "https://x.com/healiospr/status/2090015662639141179",
+    "https://x.com/REL_retired/status/2115798219645202716",
+    "https://x.com/nrnkyk/status/2090018744538104147",
+    "https://x.com/spiderplusir/status/2037386816018592017",
+    "https://x.com/NxeraPharma/status/2036003388538941674",
+    "https://x.com/IGoldeneggs/status/2058793946906788063",
+    "https://x.com/2okutameo/status/2051852980727828951"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+   "results": [
+    "https://jp.linkedin.com/learning/creating-and-giving-business-presentations-3/2876211",
+    "https://jp.linkedin.com/pulse/企業のlinkedin運用のやり方と事例解説採用営業ブランディングに活かす方法-嘉一-中島-618uc",
+    "https://www.linkedin.com/company/日本証券アナリスト協会",
+    "https://jp.linkedin.com/in/sarah-usami",
+    "https://jp.linkedin.com/posts/auncon_ir2026年5月期の決算発表決算説明会に関するお知らせ-決算発表-2026-activity-7475083683356401664-A43a",
+    "https://www.linkedin.com/posts/morimitsu-miyazaki-23129119_メディアでの対談記事の取材のため顧客であるnxhdの大槻cfoを訪問いたしました-activity-7335847278965944320-h2KI",
+    "https://jp.linkedin.com/pulse/top-10-analyst-briefing-mistakes-avoid-david-lavenda-6s14f?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+   "results": [
+    "https://www.facebook.com/minsetsu/posts/みんせつでアナリストレポートが読めるようになりました先ずは独立系リサーチ会社シェアードリサーチカバレッジ130社以上による決算速報や訪問取材レポートを配信します/913462682121153/",
+    "https://www.facebook.com/creekandriver/posts/2027年2月期第1四半期-決算説明会の動画を公開しました2027年2月期第37期第1四半期-決算報告成長戦略-連峰経営による持続可能な成長モデルについて質疑応/1666867962105690/",
+    "https://www.facebook.com/minsetsu/",
+    "https://www.facebook.com/SoftBank/videos/ソフトバンク株式会社の2026年3月期-決算説明会では新たな中期計画に関する質問が多く寄せられました質疑応答の一部を抜粋してご紹介しますhttpsstnmbso/2457853631294805/",
+    "https://www.facebook.com/dnpjp.official/posts/2026年3月期-第2四半期-決算説明会を開催しましたdnpは1114に2026年3月期-第2四半期-決算説明会を実施しました本説明会では機関投資家アナリスト向/1248589290622086/",
+    "https://www.facebook.com/sannohe.aya/photos/本日の決算審査を見届けてくださった皆さま有難うございましたスタートアップ戦略推進本部長は開き直り質問に答えず聞いてもいないことを延々と述べられていましたテレビ局/1237761111701536/",
+    "https://www.facebook.com/syuzainogakkou/posts/編集後記掲載情報取材の学校10期の勝田慶ですこのたび中小企業診断協会の会報誌企業診断ニュース2026年7月号にて特集推し活と中小企業熱狂を味方につける経営戦略の/1502600128333061/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=rYJMNG-VLkQ",
+    "https://www.meti.go.jp/policy/intellectual_assets/pdf/shitenn/ch3.pdf",
+    "https://www.am-one.co.jp/warashibe/article/chiehako-20190621-1.html",
+    "https://www.nomura.co.jp/wealthstyle/article/0150/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://marketing.nikkei.com/column/002004.html",
+    "https://www.saa.or.jp/learning/ir/meeting/index.html",
+    "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://note.com/tatsuya_sabato/n/nab4489b3f022"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "fund manager company interview earnings call verification analyst note site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/yash-chandorkar-8ba7461b6_20-must-prepare-buy-side-equity-research-activity-7480127918036348928-7qWP",
+    "https://www.linkedin.com/posts/yash-chandorkar-8ba7461b6_you-have-an-equity-research-analyst-interview-activity-7489508248740573184-qa6A",
+    "https://www.linkedin.com/posts/motwaniricha_credit-analyst-interviews-if-you-are-preparing-activity-7434802303389315072-5rWx",
+    "https://www.linkedin.com/posts/asgar-ali_kycanalyst-kycinterview-aml-activity-7350067715732107265-dUpI",
+    "https://www.linkedin.com/company/capital-group",
+    "https://www.linkedin.com/posts/peddapally-deepak-43ba71307_here-are-the-most-repeated-interview-questions-activity-7432626026226130944-dLTA",
+    "https://www.linkedin.com/posts/atultiwari1_seniorr2r-recordtoreport-financeleadership-activity-7428434445604651017-npY-",
+    "https://www.linkedin.com/in/khai-leif-nguyen-hille-06a951139",
+    "https://www.linkedin.com/posts/anita-sethia-666b362b5_if-you-are-preparing-for-interview-for-role-activity-7440364347966590976-2DUR",
+    "https://www.linkedin.com/in/dylanduval"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ22頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ22頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）",
+  "実例": "記載なし（読んだ22頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T20:45:03.470186+00:00"
+}

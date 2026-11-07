@@ -654,11 +654,11 @@
   - 出光興産
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：3件／数字のある品目 3件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - note.com と the-shashi.com：品目の重なり 3/3（100%）
-  - hibiki-investment-news.com と www.fujikuracomposites.jp：品目の重なり 1/1（100%）
+  - www.r-agent.com と newswitch.jp：品目の重なり 1/1（100%）
+  - the-shashi.com と note.com：品目の重なり 3/3（100%）
   - the-shashi.com と unistyleinc.com：品目の重なり 2/3（67%）
   - note.com と unistyleinc.com：品目の重なり 2/3（67%）
-  - the-shashi.com と www.fujikuracomposites.jp：品目の重なり 1/3（33%）
+  - the-shashi.com と www.r-agent.com：品目の重なり 1/3（33%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - 京セラ｜経済（売上・利益・投資額）［売上・決算］

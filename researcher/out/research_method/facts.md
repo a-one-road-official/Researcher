@@ -258,6 +258,7 @@
   - 「有報の読み方 有報ガイド 有報が使えない非上場人気企業の調べ方を体系化し、サイトの構造的弱点を解消する 親子上場の有報活用テクニックなど、他の就活メディアにはない実践的な調査手法を提供 就活人気企業の中には非上場企業が多数あり、有報が使えないケースが実際に存在する 非上場でも決算公告・信用調査・上場子会社の有報など代替情報源は複数ある サントリーHDのように非上場でも上場子会社の有報から事業内容を読み取れるケースがある 情報源ごとに信頼性と入手しやすさが異なるため、複数を組み合わせるのが基本」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「従業員の多様性データや環境関連の投資額など、面接での差別化に使える情報が見つかるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
+  - 「大学によってはオンラインで企業情報データベースにアクセスできるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「「インターンシップで学びたいこと」の答え方例文｜選考突破者の実例」（https://careerpark-agent.jp/column/67587）
   - 「事業内容とは｜企業研究や選考対策への活用方法を事例付きで解説」（https://careerpark-agent.jp/column/67587）
   - 「例えば、お金の資金繰りがうまくいっていない企業の場合、損益計算書上では利益が出ているように見えても、回収や支払のタイミングによっては営業のキャッシュフローが赤字になっているケースもあります」（https://note.com/billye/n/n1b91b3c986af）
@@ -269,7 +270,6 @@
   - 「近年では、履歴書をスマホやパソコンで作成するケースも増えています」（https://careerticket.jp/media/article/320/）
   - 「具体的な数字や事業事例を引用することで、ほかの学生と差別化された、中身の濃い志望動機になるでしょう」（https://careerticket.jp/media/article/320/）
   - 「就活中は企業研究だけでなく、スケジュールや自己分析の結果など、あらゆる情報を整理しなければなりません」（https://careerticket.jp/media/article/320/）
-  - 「準備不足からくる不安は表情や声に現れやすく、面接官に「自社への関心が薄い」という印象を与えてしまい、結果として合格率を下げてしまう可能性があります」（https://careerticket.jp/media/article/320/）
 - 検索結果の抜粋：
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
@@ -1545,12 +1545,12 @@
   - 「その際、根拠 （公的機関」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「に応じた柔軟な報酬設計を採用することも否定され」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「＊27：原文については、日弁連の会員専用サイ ト （https://member.nichibenren.or.jp/gyoumu/other/documentFile/AI_2025.pdf） を ご参照のこ と」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
+  - 「カタログ・特許・保守ログの実装レシピと2026年の最新事例を整理しました」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「製薬R&Dの文献、臨床試験、特許・化学、企業・市場調査に使うAI6製品を、情報源、入力、出力、人が確認する原典で比較します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「引用先が一次情報か、別資料の要約か」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「しかし、実際にFACTとして採用するには、」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「「一次情報を使えばよい」と言われることがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
 - 失敗・落とし穴：
   - 「4 弁護士業務における生成A I 活用上の主な注意点 14頁」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「注意喚起することで、利活用とのバランスを図るもの」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
@@ -1841,6 +1841,8 @@
 - 文脈：探し方
 - 手順・やり方：
   - 「You can also download full datasets based on your selected processing level, format, and delivery method, with prices starting from $1,000.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「使い方として覚えておきたいのが、変更履歴です」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/nf7b375482338）
   - 「方法 1:国税庁 法人番号公表サイトから調べる(おすすめ)」（https://www.ssl-store.jp/houjin-bangou/）
   - 「最も簡単な方法は、国税庁が運営する法人番号公表サイトで法人番号(13 桁)を検索し、先頭 1 桁を除く方法です」（https://www.ssl-store.jp/houjin-bangou/）
   - 「方法 2:登記簿謄本から確認」（https://www.ssl-store.jp/houjin-bangou/）
@@ -1853,27 +1855,28 @@
   - 「直接法務局（登記所）の窓口に行くという方法もあります」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「操作方法がわからない場合でも、職員に質問できるため、初めての方でも安心して利用できるでしょう」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「は、もうすでに無料ダウンロード済みでしょうか？会社設立による節税の仕組みや節税項目、マイクロ法人の設立方法などがまとまった、充実のガイドです」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「はじめてでも安心！簡単3ステップで会社設立」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「農業の法人化とは？個人農家との違いや年収の目安、法人設立の手順」（https://biz.moneyforward.com/establish/basic/88844/）
 - 突き合わせ・推定：
+  - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/nf7b375482338）
   - 「このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
 - 一次情報の探し方：
   - 「OpenCorporates provides information like incorporation dates, registered addresses, directors and officers, ultimate beneficial owners, latest company events and filings, and unique identifiers like LEI and UK VAT numbers.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You can also view original source documents, like PDFs, or get redirected to the exact government website or publication the data came from.」（https://veridion.com/insights/articles/opencorporates-alternatives）
-  - 「は、日本の登記所が商業登記・法人登記の記録 1 件ごとに付与している、」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「会社法人等番号は、日本の登記所が商業登記・法人登記の記録に対して 1 件ずつ付与している識別番号です」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「の形式で表記され、登記所での手続きや、各種公的書類で使用されます」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「方法 2:登記簿謄本から確認」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「法人の登記簿謄本(履歴事項全部証明書)を法務局で取得すると、会社法人等番号が直接記載されています」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「EV(Extended Validation)証明書は、企業の実在性を厳格に審査するため、会社法人等番号などの公的データベース上の情報が活用されます」（https://www.ssl-store.jp/houjin-bangou/）
-  - 「会社の登記情報を検索するには？オンラインや無料・有料の違いを解説 | マネーフォワード クラウド会社設立」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「会社の登記情報を検索するには？オンラインや無料・有料の違いを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「会社の登記情報は、オンラインで誰でも検索・取得が可能です」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「登記情報の詳細なら有料の登記情報提供サービス」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「会社の登記情報を検索する方法は、法務局の窓口へ行く以外に、オンラインでも行うことができます」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「【有料】登記情報提供サービスで詳細情報を確認する」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「登記ねっと（登記・供託オンライン申請システム）を利用する」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「今日から4回にわたって、誰でも無料で使える公的な調べものツールを、1回に1つずつ取り上げます」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「番号を指定するのは国税庁長官で、対象は国の機関、地方公共団体、設立登記をした法人のほか、税法上の届出を行う法人や人格のない社団等です」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「設立登記をした法人は、法律で基本3情報をすべて公表することになっており、公表しないことはできません」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「会社として登記されていれば、原則としてここで名称と所在地を確かめられる、ということです」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「検索するときは「登記記録の閉鎖等が生じた法人を検索対象に含める」を選ぶと、こうした法人も表示されます」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「役員や目的など、もう一歩踏み込んだ情報は登記事項証明書で、決算公告や合併などの動きは官報で確かめる、というように、ほかの公的記録と組み合わせて使うのが基本になります」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「設立登記をした法人の所在地は、法務局の登記情報にもとづいています」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「表示されるのは登記上の本店で、実際の営業拠点や店舗とは一致しないことがあります」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「なお、登記上の本店の住所が住居表示の実施などで廃止され、今は存在しない表記になっている法人は「検索対象除外法人」として、通常の検索結果から外れています」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「法人番号公表サイトは、会社を調べるときの入口として、とても使いやすい公的ツールです」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「同名の法人、登記上の本店、法人でない事業者の扱いに注意する」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「「存在しているか」をここで確かめ、そのうえで中身を別の公的記録で確かめる、という順番で使うと、調べものの精度が上がります」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「官報の公告欄から、会社のどんな動きが見えるのかを整理します」（https://note.com/joshima_s/n/nf7b375482338）
 - 失敗・落とし穴：
+  - 「確認するときの3つの注意点」（https://note.com/joshima_s/n/nf7b375482338）
+  - 「同名の法人、登記上の本店、法人でない事業者の扱いに注意する」（https://note.com/joshima_s/n/nf7b375482338）
   - 「法人成りとの違い、向いている事業者のチェックリスト、会社設立時の注意点を公認会計士が解説しています」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「著者・監修書に『一日も早く起業したい人が「やっておくべきこと・知っておくべきこと」』（明日香出版社）、『オールカラー 個人事業の始め方』『オールカラー 一番わかる会社設立と運営のしかた』（ともに西東社）、『相談件数No.1のプロが教える 失敗しない起業 55の法則』（日本能率協会マネジメントセンター）などがある」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「株式会社などの一般的な会社設立とは、社員の資格や手続きの順序が異なるため注意が…」（https://biz.moneyforward.com/establish/basic/88844/）
@@ -1887,14 +1890,13 @@
   - 「山椒栽培は儲かる？農家の年収や副業での始め方・失敗例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「入札ビジネスは儲からない？失敗理由や個人でも利益を出すコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「自動車整備士の独立で失敗する原因とは？開業準備と成功のコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「Webマーケティング独立で失敗する原因と回避策とは？AI時代に選ばれるために」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「バーチャルオフィスで東京に法人登記するには？費用や注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 実例：
   - 「Here is an example of a company profile:」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You do pay for Veridion, but what you get in return is a far more capable, flexible dataset built for commercial use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「This includes company registration information, trademark data, trade records, and in some cases, sanctions lists.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「Still, monthly updates keep the data quite fresh for most business use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「Overall, Success.ai’s data is collected for various use cases, from sales prospecting, lead generation, and account-based marketing to investment research and even supplier vetting.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「なお、登記上の本店の住所が住居表示の実施などで廃止され、今は存在しない表記になっている法人は「検索対象除外法人」として、通常の検索結果から外れています」（https://note.com/joshima_s/n/nf7b375482338）
   - 「検索結果に表示される 13 桁の番号が法人番号です」（https://www.ssl-store.jp/houjin-bangou/）
   - 「法人登記の検索が必要になる具体的なケースは？」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「補助金の概要や各制度の内容に加え、会社設立直後の企業でも使いやすい補助金や実際の活用事例などについてまとめました」（https://biz.moneyforward.com/establish/basic/88844/）
@@ -1904,7 +1906,6 @@
   - 「創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「ビジネスモデルとは？作り方や構成要素、フレームワーク、面白い企業事例まで解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 検索結果の抜粋：
   - 「OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p」（https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/）
 
@@ -8118,20 +8119,20 @@
   - 「これらは証券会社の推計であり、会社の計画値ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 一次情報の探し方：
   - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「一方で、TSMCとNVIDIAは過去最高の決算を出し、メモリ大手は2027年分の生産枠をほぼ売り切ったと伝えられている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「2026年10月時点の状況を各制約に当てはめると、④GPUと⑤メモリは「供給者の決算が過去最高で、受注は先まで埋まっている」段階、②データセンターと③電力は「計画は多いが着工・接続が遅れている」段階、⑥資金は「借り手の選別が始まった」段階にある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「供給制約下の過去最高決算と、利益率の緩やかな低下が同時に起きている点は押さえておきたい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「10月15日発表の2026年7〜9月期決算は、売上1兆4,942億台湾ドル（約467億米ドル）、純利益7,631億台湾ドルで、純利益は前年同期比68.7％増と過去最高を更新した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「同じ決算の中で、スマートフォンなど完成品部門は2四半期連続の営業赤字になる見通しと伝えられた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「AI向けのメモリ高騰が、消費者向け機器の需要を押しのけている構図が一社の決算の中に表れている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「確定決算は10月29日に発表される予定である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「ハイパースケーラーの決算にもメモリ高騰は表れた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「決算が過去最高でも、市場はすでに「メモリの山の後」を織り込み始めている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「今後のデータセンター供給統計では、IT負荷のMW、契約済みMW、送電接続済みMW、GPU搭載ラック数、商用利用可能MWを分ける必要がある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「次の確認点は11月の7〜9月期決算と、年内に期限を迎える債務の借り換え条件である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「4大ハイパースケーラーの2026年の設備投資見通しは、7月末の決算で軒並み上方修正された」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「10月下旬から始まる7〜9月期決算で、2027年の見通しがどう語られるかが最大の焦点となる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「管理会計から考えるグループ会社の決算期設計｜高橋 本塁打（たかはし ほんるいだ）」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「管理会計から考えるグループ会社の決算期設計」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「グループ会社の決算月を、見直したいと思っています」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「現在、当社のグループ会社は決算月が統一されていません」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「最初は、事業会社の決算月をすべてそろえるのがよいと考えていました」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「決算月をそろえることで得られるメリットと、あえて分散させることで得られるメリット」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「そして、親会社の決算月をどこに置くか」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「① 理想は、事業会社の決算月を統一すること」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「まず、事業会社同士の決算月は、できればそろえたい」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「共通の期間にそろえて集計し直せば、今度は各社の決算書と集計対象期間がずれてしまう」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「月次で追ってきた数字が、そのまま年間決算につながる」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「そのためには、事業会社の決算月を統一するのが、最もわかりやすい方法です」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「複数の法人が同時に決算を迎えれば、決算整理、勘定科目の残高確認、税務申告の準備などが一斉に発生します」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「もちろん、日頃から月次決算の精度を高め、締め作業を早く、正確に進められる体制を整えておけば、負荷は軽減できます」（https://note.com/gentle_whale205/n/nacbbb94f6294）
 - 失敗・落とし穴：
   - 「Technical Considerations and Common Pitfalls」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because "forward" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because "forward" is mostly estimated and includes more uncertainty).」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
@@ -8153,17 +8154,17 @@
   - 「Professional valuation practitioners employ three primary approaches, each with specific use cases:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「For example, to calculate TTM revenue as of March 31, 2025 for a June fiscal year-end company:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「For example, for a June FYE company valued on May 15, 2025:」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
+  - 「例えば、一方の会社は4月からの累計、もう一方は9月からの累計だったとします」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「例えば、グループ会社を2つの企業群に分け、一方を8月決算、もう一方を2月決算とする」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「例えば、決算月に関係なく、すべての事業会社について3月から翌年2月までの月次損益を積み上げる」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「例えば、親会社が事業会社から受け取る経営指導料や不動産賃料」（https://note.com/gentle_whale205/n/nacbbb94f6294）
+  - 「事業会社の成果を確かめ、その結果を踏まえて、親会社の翌期を決める」（https://note.com/gentle_whale205/n/nacbbb94f6294）
   - 「象徴的な事例が、OpenAI向け「Stargate」計画の旗艦拠点の一つであるニューメキシコ州のProject Jupiterである」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「原油高によるインフレ、財政赤字に伴う国債増発、実質金利の上昇が重なった結果である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「その結果、2030年末までに3.5兆ドル超のAIインフラ投資が減損リスクにさらされ、現在の投資ペースが続けば2032年までに4兆ドル超の資産価値が評価減の対象になり得るとした」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
   - 「競争の結果として、単純なAPIトークン販売の利益率には圧力がかかる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「例えば各工程の成功率を99％と仮定し、100工程が独立して全て成功しなければならない場合、単純な連続成功確率は0.99の100乗で約36.6％となる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「第14章で見た社債発行の急増はその結果である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「例えば一年に十分な発電量があっても、変圧器の交換待ちや送電線増強の遅れで特定サイトの接続が不能なら、発表したGPU容量を商用運転できない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「この状況を定量的に考えるため、企業は少なくとも以下の3つのケースを置くとよい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「基本ケースはAI処理件数が拡大し、価格下落が緩やかで、新設備の稼働率が高い状態」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 
 ## 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型（boilerplate removal main content extraction heuristics link density evaluation trafilatura readability）
 - 文脈：失敗
@@ -11872,11 +11873,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証

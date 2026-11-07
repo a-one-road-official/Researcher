@@ -1,0 +1,475 @@
+{
+ "name": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+ "en": "kanpo balance sheet summary plating heat treatment press die company net income net assets",
+ "aliases": [
+  "官報 貸借対照表の要旨 めっき工業 株式会社 当期純利益",
+  "決算公告 金属熱処理 株式会社 純資産の部合計",
+  "決算公告 金型 株式会社 第 期 当期純利益 千円"
+ ],
+ "context": "会社・決算",
+ "kind": "market",
+ "researched_at": "2026-11-07T20:45:01.561004+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_lynx5833/n/n482cae6fecf7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://college.coeteco.jp/itpassport/kakomon/list/%E5%BD%93%E6%9C%9F%E7%B4%94%E5%88%A9%E7%9B%8A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiei-koumuin.com/sokuho/?t=zeirishi_170808010",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanpou.ai/kessan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanpou.ai/company-notices",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kaijiwire.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://catr.jp/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.npb.go.jp/kanpou/auth/login/LoginStartUp.form",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/english/ir/financial/consolidated_financial_statements/balance_sheet.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1109604/000119312508202577/dex994.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://asset.kansai.com/uploads/2024/08/2024_fn_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sompo-hd.com/-/media/hd/en/files/doc/pdf/e_news2025/e_20250520_1.pdf?la=en",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stlouisfed.org/on-the-economy/2024/oct/japans-consolidated-balance-sheet-challenges-monetary-policy",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 人手不足 受注 断る",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7",
+    "https://www.kanpo.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 受注残 人手不足",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 人手不足 損失 億円",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E5%BD%93%E6%9C%9F%E7%B4%94%E5%88%A9%E7%9B%8A",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.daiei-koumuin.com/sokuho/?t=zeirishi_170808010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E5%BD%93%E6%9C%9F%E7%B4%94%E5%88%A9%E7%9B%8A",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.daiei-koumuin.com/sokuho/?t=zeirishi_170808010",
+    "https://kanpou.ai/kessan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 推移",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7",
+    "https://kanpou.ai/kessan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 統計 PDF",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 従業者規模別",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 1人当たり 万円",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7",
+    "https://www.kanpo.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） 2015 2025",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://note.com/bright_lynx5833/n/n482cae6fecf7",
+    "https://www.kanpo.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "kanpo balance sheet summary plating heat treatment press die company net income net assets Japan statistics",
+   "results": [
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.nippon-shinyaku.co.jp/english/ir/financial/consolidated_financial_statements/balance_sheet.php",
+    "https://www.sec.gov/Archives/edgar/data/1109604/000119312508202577/dex994.htm",
+    "https://asset.kansai.com/uploads/2024/08/2024_fn_en.pdf",
+    "https://www.sompo-hd.com/-/media/hd/en/files/doc/pdf/e_news2025/e_20250520_1.pdf?la=en",
+    "https://www.stlouisfed.org/on-the-economy/2024/oct/japans-consolidated-balance-sheet-challenges-monetary-policy",
+    "https://www.komatsu.jp/en/-/media/home/ir/library/financial/en/2603q3_e.pdf?rev=8993fd8124454028bc149eeb7b0cca1a&hash=AE5AC6A58AEF1355B2E27985418F3AFF",
+    "https://www.sun-denshi.co.jp/eng/ir_info/factsheet/",
+    "https://www.pasonagroup.co.jp/LinkClick.aspx?fileticket=VrUKTiWUM64%3D&tabid=772&mid=1334",
+    "https://hachiquant.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+   "results": [
+    "https://note.com/kanpo_blog",
+    "https://note.com/kanpo_blog/archives",
+    "https://note.com/kanpo_digest",
+    "https://note.com/kanpo_blog/n/nd768ff649ee0",
+    "https://note.com/kanpo_digest/n/nbd5f5247443f",
+    "https://note.com/kanpo_digest/n/n2f57329c2da1",
+    "https://note.com/kanpo_digest/n/n2db40fa4e435",
+    "https://note.com/reading_gazette/n/n31a0f09506e8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+   "results": [
+    "https://x.com/kessan_db/status/2075354706868928909",
+    "https://x.com/kessan_db/status/2110953156008137175",
+    "https://x.com/kessan_db",
+    "https://x.com/kanpo_blog",
+    "https://x.com/kessan_db/status/2072282706751430788",
+    "https://x.com/kessan_db/status/2070865792808398894",
+    "https://x.com/kessan_db/status/2073252309006799139",
+    "https://x.com/kessan_db/status/2086666158099587463"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+   "results": [
+    "https://jp.linkedin.com/company/（株）センショー",
+    "https://jp.linkedin.com/pub/dir/大雅/石井/jp-0-日本",
+    "https://jp.linkedin.com/jobs/legal-jobs",
+    "https://jp.linkedin.com/posts/kawaguchi-まあさん-860809275_特別加入者の範囲の拡大フリーランス全般に改正省令を官報に公布-令和6年1月-activity-7158596074968915968-q3Gs",
+    "https://jp.linkedin.com/posts/kohjiootsu_kyndryl-earningsreport-fy2025-activity-7326268179972870145-7Qkd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:facebook.com 官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88）",
+   "results": [
+    "https://www.facebook.com/people/官報ブログ/100050929632349/",
+    "https://www.facebook.com/100050929632349/posts/まいばすけっと-決算公告第14期httpskanpo-kanpoblogjparchives44615315html第14期-決算公告売上高2903億6000万/1297160398658269/",
+    "https://www.facebook.com/100050929632349/posts/日本トイザらス-決算公告第37期-第37期-決算公告売上高809億300万円売上総利益279億2100万円営業利益17億9300万円経常利益16億4500万円当/1275385974169045/",
+    "https://www.facebook.com/100050929632349/posts/マーケティングノウハウのライセンシングカンパニー株式会社刀決算公告第9期-第9期-決算公告2025年6月期当期純利益13億700万円利益剰余金62億3700万円/1478374410536866/",
+    "https://www.facebook.com/100050929632349/posts/日刊スポーツ新聞東京本社決算公告第95期-第95期-決算公告当期純利益2億6317万円利益剰余金64億5638万円/1324748055899503/",
+    "https://www.facebook.com/100050929632349/posts/三井不動産レジデンシャルサービス-決算公告第52期-第52期-決算公告当期純利益12億7328万円利益剰余金124億2461万円/1321584216215887/",
+    "https://www.facebook.com/100050929632349/posts/ヘルシー糖質に配慮した冷凍宅配弁当ナッシュ決算公告第9期-httpskanpo-kanpoblogjparchives45178220html第9期-決算公告当/1397408378633470/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） note 社長",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E5%BD%93%E6%9C%9F%E7%B4%94%E5%88%A9%E7%9B%8A",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.daiei-koumuin.com/sokuho/?t=zeirishi_170808010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "官報の決算公告の本文で、受託4業種（めっき・熱処理・金属プレス・金型）の会社名・決算期・科目名が同じ行にある当期純利益と純資産（掲載料の記事・科目の無い数字だけの切れ端を除く・4-88） X 投稿",
+   "results": [
+    "https://college.coeteco.jp/itpassport/kakomon/list/%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%9B%B8",
+    "https://www.o-harabook.jp/26boki-kaito-1kako.pdf",
+    "https://catr.jp/",
+    "https://www.youtube.com/shorts/vfWdP3n-0N0",
+    "https://www.itpassportsiken.com/kakomon/06_haru/q8.html",
+    "https://michitomo2019.com/it-passport-computational-problem-income-statement/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
+    "https://zensho.or.jp/puf/download/exam/pastexam/2024/info_72_2_bus.pdf",
+    "https://www.daiei-koumuin.com/sokuho/?t=zeirishi_170808010",
+    "https://www.kanpo.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "kanpo balance sheet summary plating heat treatment press die company net income net assets site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/finance/balance-sheet-components/financial-position-summary/",
+    "https://th.linkedin.com/in/eagkarat-kanpo-797032157",
+    "https://pe.linkedin.com/pulse/stamping-die-design-layout-operation-sheet-mahmüd-hosseinjani/",
+    "https://in.linkedin.com/company/zumtara-press-and-plating",
+    "https://de.linkedin.com/company/heat-gmbh",
+    "https://www.linkedin.com/company/rhythmvietnamsaigon",
+    "https://in.linkedin.com/in/rajesh-shingole-6b037a1ba"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ23頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ23頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ23頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ23頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索18回）",
+  "10年推移": "記載なし（読んだ23頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索18回）"
+ }
+}
