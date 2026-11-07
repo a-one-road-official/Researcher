@@ -3225,7 +3225,7 @@
   - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -4296,11 +4296,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -6243,11 +6243,18 @@
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「Explore a modern research process built around primary sources and transparent methods.」（https://equityresearchbase.com/）
+- 一次情報の探し方：
+  - 「Explore a modern research process built around primary sources and transparent methods.」（https://equityresearchbase.com/）
+  - 「Read primary filings and make valuation assumptions explicit.」（https://equityresearchbase.com/）
+  - 「Read a filing. Check a definition. Write down what would change your view. Good research makes its limits visible.」（https://equityresearchbase.com/）
+- 失敗・落とし穴：
+  - 「If every positive item strengthens your thesis but every negative item is dismissed as temporary, the process is probably biased. My recommendation is to…」（https://equityresearchbase.com/）
+- 実例：
+  - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
+  - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6361,6 +6368,7 @@
   - 「決算公告を官報で閲覧する方法は、無料のサービスから有料のデータベースまで複数存在します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「それぞれの特徴を理解して、目的に合った方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 突き合わせ・推定：
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
   - 「大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です」（https://blog.roborobo.co.jp/compliance/kanpo-where）
@@ -6368,24 +6376,27 @@
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 一次情報の探し方：
-  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「しかし、いざ官報で特定企業の決算公告を探そうとすると、「検索機能がない」「掲載日がわからない」といった壁にぶつかりがちです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「この記事では、官報に掲載された決算公告を閲覧するための5つの方法を、無料・有料それぞれ比較表付きで徹底解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「2025年に施行された官報電子化法の影響にも触れながら、まずは官報閲覧の基本を押さえ、次に具体的な5つの閲覧手段、さらに目的別の最適な選び方をお伝えします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報に掲載された決算公告を閲覧する5つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法1：インターネット版官報（kanpo.go.jp）で直接閲覧する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法2：官報検索サービス（kanpoo.jp）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法3：官報決算データベース（catr.jp）を活用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法4：官報索引を利用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「2025年の官報電子化で決算公告の閲覧はどう変わった？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報の閲覧だけでは十分な信用調査にならない場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「Q1: インターネット版官報で特定企業の決算公告を検索できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「142年目の大転換、官報電子化で破産公告が検索不可に ～ プライバシー保護強化、与信業界は影響懸念 ～ | TSRデータインサイト | 東京商工リサーチ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「142年目の大転換、官報電子化で破産公告が検索不可に ～ プライバシー保護強化、与信業界は影響懸念 ～」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「政府が1883（明治16）年7月、「官報」を創刊した」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「4月1日、官報の「正本」が紙から電子版へ移行する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「官報は、法律や国の人事、叙位叙勲のほか、法令に基づく決算公告、破産手続開始の公告などを公的な伝達手段とする国の公報だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「紙の官報は毎朝、購読者の手元に届く」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「また、国立印刷局が提供する「官報情報検索サービス」（有料）は、ウェブサイトで日付検索やキーワード検索が可能で、金融機関や与信業界でも利用されている」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「官報の電子化に伴う情報検索サービスの変更について取材した」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「2023年の臨時国会で官報の電子化に関する法律が成立し、内閣府は4月1日に電子官報を配信する官報発行サイトを開設する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「4月1日以降も官報掲載事項記載書面として紙の交付を継続する」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「官報発行サイトでは、官報に掲載される記事のうち、「プライバシー配慮が必要な記事」については公開期間を90日に限定した上で、画像化処理されたPDFデータを提供することとなっている」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「これまで、国立印刷局が提供する官報情報検索サービスは1947年5月3日～発行当日まで、キーワードなどの記事検索が可能な有料コースがあり、サービスとして金融機関や事業会社の与信担当は、代表者や法人の破産歴など種々の掲載内容が検索可能だった」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「だが、新しい官報情報検索サービスでは、内閣府の対応を受けて「プライバシー配慮が必要な記事」は、1947年以降の過去分を含め、キーワード検索ができなくなる」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「一方、プライバシー配慮記事以外の組織変更や合併、解散、決算公告、会社更生などは検索可能で、1947年以降の過去分含めて検索ができる」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
 - 失敗・落とし穴：
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「官報で破産などの与信情報を自社で得るには、紙面や電子版を目視する必要があり、過去の破産などは官報情報検索サービスでは検索できなくなる点は注意が必要だ」（https://www.tsr-net.co.jp/data/detail/1201168_1527.html）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6396,10 +6407,8 @@
   - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
   - 「ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「このうち電子公告には見落としやすい落とし穴があります」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「API連携が優秀な反社チェックツール5選！サービスの選び方や運用の注意点も解説」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「決算公告を閲覧する際の3つの注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
-  - 「注意点1: 掲載されている数値は「要旨」の場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
 - 実例：
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6414,7 +6423,6 @@
   - 「さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「しかし実際には、掲載期間が終了した後にページが削除されるケースもあるため、過去の決算公告を遡って確認できない場合があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
 - 検索結果の抜粋：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -8209,65 +8217,76 @@
 ## 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）（Berkeley Protocol digital open source investigations search bias verification steps）
 - 文脈：検証
 - 手順・やり方：
-  - 「B. Methodological principles ....................13」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「III. LEGAL FRAMEWORK ................... 17」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methods of fact-finding and analysis. One of the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「prosecutors and counsel. If, however, unsound methods」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「or crime-based evidence. Common methodological」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methodological principles and approaches to support」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「digital technologies and methodologies to expose」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「range of technical, legal and methodological experts,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「and methods for uncovering, assessing, verifying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Methodology, Education and Training Section of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methodology, OHCHR and the Human Rights」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「also provides guidance on methodologies and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「The Berkeley Protocol follows in the footsteps of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「lawyers on how to recognize and document the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「consistent methods, which both strengthen the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「このドキュメントの他の部分では、ガイドラインの背景とガイドラインの作成方法について説明します」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「Information about the current status of this document, any errata, and how to provide feedback on it may be obtained at https://www.rfc-editor.org/info/rfc8280.」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「このドキュメントの現在のステータス、正誤表、およびフィードバックの提供方法に関する情報は、https://www.rfc-editor.org/info/rfc8280で入手できます」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「5. Methodology ....................................................15」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「5. 方法論 .........................................................15」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「このドキュメントは、（1）プロトコルと人権の関係を明らかにすること、（2）プライバシーを考慮して行われた作業と同様の方法で、将来のプロトコル開発における人権を可能にする環境としてインターネットを保護するための可能なガイドラインを提案することを目的としています[ RFC6973]、および（3）人権コミュニティと技術コミュニティの両方で、インターネットの技術的な仕組みの重要性とその人権への影響についての認識を高めます」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「したがって、インターネットの中核、つまりそのアーキテクチャ設計は、人権のフレームワーク[CathFloridi]と密接に絡み合っています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「インターネットのインフラストラクチャと人権の間の典型的なリンクは、多くの人によって議論されてきました」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「IETFは、プロトコル開発における個人のプライバシーとネットワークのセキュリティを確保および活性化するためのガイドラインと手順を作成しました」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「この文書は、IETFで開発されたプロトコルがインターネットでの人権の実現に悪影響を及ぼさないことを保証するために、人権に関するガイドラインの同様の手順を開発する可能性を探ることを目的としています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「This document was developed within the framework of the Human Rights Protocol Considerations (HRPC) Research Group, based on discussions on the HRPC mailing list (Section 9); this document was also extensively discussed during HRPC sessions. This document has received eleven in-depth reviews on the mailing list, and it received many comments from inside and outside the IRTF and IETF communities.」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「Censorship resistance: Methods and measures to mitigate Internet censorship.」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「検閲抵抗：インターネット検閲を緩和する方法と対策」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「分散型：単一の制御点を持たない標準、プロトコル、またはシステムの実装または展開」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「整合性：データが無許可または偶発的な方法で変更、破壊、または失われていないという特性」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+- 突き合わせ・推定：
+  - 「真正性：本物であり、検証および信頼できる特性」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「DNSSECによる認証では、レコードの検証パスが作成されます」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「これらの文書によると、ICTシステムに関連する人権のいくつかの例は、人間の尊厳（第1条UDHR）、非差別（第2条）、生命、自由および安全に対する権利（第3条）、意見の自由および表現（第19条）、集会および結社の自由（第20条）、平等保護の権利、法的救済、公正な裁判、デュープロセス、無罪と推定（第7-11条）、適切な社会的および国際的秩序（第19条） 28）、広報への参加（第21条）、文化生活への参加、知的財産の保護（第27条）、およびプライバシー（第12条）」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「あなたのプロトコルはペイロードデータの正確性を維持、保証、検証しますか？」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「例：データの整合性検証は、脆弱性や中間者攻撃などの攻撃を防ぐために重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
 - 一次情報の探し方：
-  - 「PDF Portable Document Format」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「pdf?x32994.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「インターネット標準は、高い技術的品質、コミュニティのコンセンサスによるサポート、インターネットに対する全体的なメリットなど、一連の基準に基づいて採用されています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「この変換プロセスは、基礎となるプロトコルの述べられたエンドツーエンドプロセス[NATusage]に反するプロセスを促進しているにもかかわらず、広く採用されています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「の定義も1990年代に発生しましたが、HTTPが開発者によるそのような暗号化層の使用を義務付けていないという事実そして、暗号化の採用が非常に遅れた理由の1つはサービスプロバイダーでした」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ここ数年で、SSL/TLSをHTTPベースのアプリケーションの安全なトラフィックレイヤーとして採用する傾向が高まっていますが、World Wide Webでのユビキタスな暗号化の使用はまだ見られていません」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「SSL/TLSの採用も比較的最近の現象であることを考慮することが重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ただし、暗号化されていないHTTP通信の同様の大量傍受は、国有のISPを制御し、市販の監視、収集、検閲装置を使用することによって、一部の民主主義国でも国レベルでよく採用されています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「彼らの一部がHTTP通信に対してネットワークトラフィック操作攻撃を実行するために考案および作成した技術は、米国での特許出願の対象でさえある[Googlepatent]」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「広く採用されている場合、適切に設計された耐性のあるP2Pネットワークは、将来の安全で分散されたインターネットの重要なコンポーネントとなり、言論の自由と情報の自由を大規模に実現する可能性があります」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「標準が完全に実装されるのを妨げる特許を知っていますか」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「規範的に実装する必要のあるすべての標準は自由に利用でき、特許侵害の申し立てに対して合理的な保護を提供する必要があります」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「特許は、特に暗号化[Newegg]の分野で、オープンな標準化を阻んだり、オープンな標準を展開しているものに対して使用されてきました」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「オープンスタンダードまたは他のスタンダードへの規範的な参照の特許には、特許の開示[notewell]、ロイヤルティフリーライセンス[特許ポリシー]、または他の何らかの形の合理的な保護が必要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「合理的な特許保護には、暗号プリミティブが含まれますが、これに限定されません」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman, "Internet Censorship in Iran: A First Look", 2013, <https://jhalderm.com/pub/papers/iran-foci13.pdf>.」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman、「イランのインターネット検閲：初見」、2013、<https://jhalderm.com/pub/papers/iran-foci13.pdf>」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
 - 失敗・落とし穴：
+  - 「これらのドキュメントは、このドキュメントに関するあなたの権利と制限について説明しているため、注意深く確認してください」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「彼らは、明確な主張をするのは時期尚早であるが、プロトコル設計の選択が人権に与える影響をより注意深く分析する必要があると主張しています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「さらに、（1）特定のプロトコルが人権に与える影響の注意深い検討、および（2）人権に関連するプロトコル設計の決定を文書化する慣行の普及に貢献します」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ここでの評価は、これらのプロトコルに関する一般的な判断ではなく、これらのプロトコルが持つ可能性のある人権に対するすべての潜在的なマイナスまたはプラスの影響の完全なリストではないことに注意することが重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ただし、DNSSECは現在ドメイン名レジストラで広くサポートまたは展開されていないため、認証して正しく使用することが難しいことに注意することが重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「攻撃者は、Sybil攻撃を使用して、P2Pネットワークが攻撃者の利点に集合的に行う選択にバイアスをかけることができます」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「このコンテキストでのSybil攻撃（たとえば、宇宙飛行）は、P2Pプロトコル以外にも関連があることに注意することが重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「「すべてのインターネットユーザーは、特定のWebサイトにアクセスしようとして失敗したときに、「404 Not Found」ハイパーテキスト転送プロトコル（HTTP）ステータスコードに遭遇しました」[Cath]」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「それにもかかわらず、HTTPステータスコード451は検閲のすべての状況を検出するソリューションではないことに注意することが重要です」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「このセクションで提供されるガイダンスは、特定のプラクティスを推奨するものではないことに注意してください」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「（識別子など、一部の文字列はコンテンツ要素とプロトコル要素の両方であることに注意してください」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「信頼性のために、パケット配信が失敗した場合、サービスがユーザーに通知する必要があります」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「インターネットの根本的にオープンな性質を維持し、インターネットの開発を継続できるようにするには、無許可のイノベーションの維持または削減に対するプロトコルの影響に注意する必要があります」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
   - 「and structural biases to affect their work and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Inherent biases in the Internet’s architecture」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「counterbalance such biases by applying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「correct for their own biases, which may be」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「chances of biased selection, interpretation and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「biases in the data available online. All of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
 - 実例：
-  - 「establishing facts in a case. Courts and investigative」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「manner, which is often the case in international」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Stuart Casey-Maslen, Honorary Professor, Faculty」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Stuart Casey-Maslen, University of Pretoria」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「may include, for example: content posted on」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「investigation took place, for example, due to」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「in cases in which there is State cooperation,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「example is information that can only be acquired」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「be accessed, for example, on public websites,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「source, examples include privileged, classified」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+  - 「IRTFは、インターネット関連の研究開発活動の結果を公開しています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「これらの結果は、展開に適さない可能性があります」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「5.2.3. Mapping Cases of Protocols, Implementations, and」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「5.2.3. 人権に悪影響を与える、または人の権利を可能にするプロトコル、実装、およびネットワークパラダイムの事例のマッピング ..21」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「6.2.19. 結果の透明性 ......................................61」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「. Both blocking and filtering can be implemented at the level of "services" (web hosting or video streaming, for example) or at the level of particular "content"」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「End-to-end principle: The principle that application-specific functions should not be embedded into the network and thus stay at the endpoints. In many cases, especially when dealing with failures, the right decisions can only be made with the corresponding application-specific knowledge, which is available at endpoints not in the network.」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「結果として、[FIArch]によれば、」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「信頼性：プロトコルがその機能を一貫して実行し、予期しない結果なしに機能することを保証します」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「透明性：このコンテキストでは、ユーザー、プロトコル開発者、および実装者が行う選択、およびその結果に関するプロトコルの包括性に関連しています」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「結果の透明性は、ユーザー、プロトコル開発者、および実装者がプロトコルの選択によって発生する可能性のある意図しない結果の理解可能性など、プロトコルの影響の理解可能性に関連しています（たとえば、信頼性の欠如は、誠実さと負の外部性）」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「[Clark-etal]は、「結果のバリエーションについて設計する必要があると主張します」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「その結果、結果は場所によって異なる可能性があり、乱闘は設計内で発生します（...）」[as]「剛体設計は破壊され、変動を許容する設計は圧力下で屈曲し、存続します」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「質的インタビューの結果は、新しい概念を定量的談話分析にフィードバックするために再び使用されました」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
+  - 「データの収集と処理の民族誌的手法により、研究グループは、進行中の問題とプロトコルが人権に影響を与える事例研究を強調した「研究参加者の見解と行動の全体的な理解を提供する」ために必要なデータを取得することができました[Denzin]」（https://tex2e.github.io/rfc-translater/html/rfc8280.html）
 
 ## リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）（real-time data vintage analysis first release versus latest vintage practice）
 - 文脈：改訂
