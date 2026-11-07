@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・180品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・183品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4915,14 +4915,14 @@
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
   - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
   - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
   - 「Sanity-check with a second method」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Run headcount times revenue per employee for the same company. If the two methods disagree by more than roughly a factor of two, one of your assumptions is wrong and it is usually the customer count.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
-  - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「How to verify a competitor revenue figure」（https://www.flares.tech/sources/competitor-revenue）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -9849,6 +9849,8 @@
 - 検索結果の抜粋：
   - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who also found it helpful, so we’re republishing it here for the benefit of all Quartz readers. The most up-to-date version of this guide can always be found on Gi」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
   - 「The Quartz guide to bad data — Jul 21, 2022 · As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will ...」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「The Quartz guide to bad dataThe Quartz Guide to Bad Data – Global Investigative ...4 Tips for Avoiding Math Errors - EWA4 Tips for Avoiding Math Errors When Reporting – Global ...Percent change versus percentage-point change: What’s the ... — Beware blank or “null” values in any dataset unless you are certain you know what they mean. If the data are annual, was the value for that year never collec」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
 
 ## AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）（verifying cited sources claim support partial support unverified contradicted）
 - 文脈：検証
@@ -10914,8 +10916,203 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
+
+## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
+- 文脈：手法
+- 手順・やり方：
+  - 「品質が安定したら、定型の比較やファイル生成まで範囲を広げます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「実行方法：python codes/code01_workspace.py」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「放置」は管理を捨てる意味ではなく、事前に管理方法を組み込むことです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「実行方法：python codes/code02_acceptance_check.py --create-demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「反対に、毎回例外だらけで検査方法もない仕事は、無理に自動化せず、資料整理や論点抽出だけを任せます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「反対に、初回は時間が増えても、テンプレートと検査方法が残り、二回目から大幅に短くなる業務には継続価値があります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「個人共通の設定には、役職、重視する指標、文章の好み、判断の型を置きます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「複雑な仕事は、最初に計画を出して対象、手順、成果物を確認してから実行します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「実行方法：python codes/code03_inventory.py --demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「実行方法：python codes/code04_competitor_compare.py --demo」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+- 突き合わせ・推定：
+  - 「商談準備なら、相手企業の公開情報、過去の接点、今回の目的を読み、仮説、質問、提案骨子、避けるべき表現まで一枚にまとめます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「第2章 数時間の仕事を渡す技術――完了条件から逆算する」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「調査」ではなく「競合比較レポート」、「会議準備」ではなく「会議ごとの一枚メモ」、「分析」ではなく「異常値一覧と要因仮説」です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「長い依頼では、途中経過より検証工程が大切です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「DEFAULTS = ["proposal.md", "estimate.csv", "evidence.txt"]」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「完了条件、既定方針、自己検証、人の確認という四つを、毎回同じ型で渡せることです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「また、長い仕事を一つの巨大な指示に詰め込むより、調査、構造化、執筆、検証の区切りごとにファイルを残すと、途中から再開しやすくなります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「実務で使いやすい依頼票は、目的、背景、入力場所、対象外、成果物、完了条件、既定方針、停止条件、検証、人の承認という十欄です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「顧客が払わない理由、既存事業を傷つける可能性、営業難度、運用負荷、撤退費用を挙げ、各反論に「検証方法」を付けると、単なる否定で終わりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「経営数値は「前年比・前月比・要因仮説」の順で読みます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「仮説には裏づけに必要な追加データを添えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「良い調査は知識を増やすだけでなく、次に変える商品、営業資料、検証指標までつながります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「高」は一次資料で複数確認、「中」は一次資料一件または信頼できる二次資料、「低」は状況証拠からの仮説、といった基準です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+- 一次情報の探し方：
+  - 「この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「逆に、相手との信頼関係そのものを扱う交渉、解雇や採用の最終判断、法務・税務・労務の専門判断、資金移動、対外送信などは、人が責任を持つ工程を残します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「この顧客は売上が大きくても無理な値引きをしない」「採用は経験年数より、学習速度と顧客への姿勢を見る」「投資は一年以内の回収だけでなく、三年後の選択肢が増えるかを見る」といった基準です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「次のコードは、経営、営業、経理、採用を混ぜず、入力と成果物の置き場所をそろえるための作業フォルダを作ります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「作業フォルダは「経営」「営業」「経理」「採用」のように責任と資料の境界で分けます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「決算短信やIR資料は、売上や利益の増減だけでなく、事業別構成、投資、人員、解約や受注の先行指標を複数年で見ます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「PDFの表やグラフから数値を抽出した場合は、ページ番号と単位を残し、転記後の合計を検算します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「第5章 文書・PDF・議事録――下書きを資産へ変える」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「商談前には、企業Web、ニュース、採用情報、過去接点から一枚の準備メモを作ります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「請求書PDFの支払予定一覧は、取引先、請求日、支払期限、金額、税区分、振込先、承認状況を抽出し、重複請求と読み取り不明を検出します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「社長は、単価改定、外注先の再編、採用のどれに投資するかを決める」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「第9章 人事・採用・組織づくり──「人を見る仕事」を雑にしないために使う」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「人事では、採用の合否、評価、配置、処遇をAIに決めさせません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「社長や部門長が採用責任者を兼ねる中小企業で右腕を置く意味は、自動選考ではなく、人が人を見る時間を取り戻すことです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「61．求人票を「応募を集める文章」から「入社後の約束」に変える」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+- 失敗・落とし穴：
+  - 「最初に試す仕事は、売上への影響が大きい一方で、誤りを発見しやすいものが適しています」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「この順序なら、失敗したときに原因を、入力不足、指示の曖昧さ、資料の古さ、処理の誤り、確認漏れに分解できます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「任せる範囲を広げる判断基準は、三回続けて同じ品質が出たか、修正箇所が予測できるか、誤りを検出する方法があるかです」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「夜間処理も、翌朝までPCが利用可能であること、認証が切れないこと、想定外の外部操作を許可しないこと、失敗時に再開できるログを残すことが前提です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「定型業務ではテンプレートを複製し、日付、対象、今回だけの注意点を変えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「機密に注意」より「顧客名、個人名、未公開価格を外部サービスへアップロードしない」のほうが判定できます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「ただし失敗を見つけるたびに規則を増やすと、矛盾して読みにくくなります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「提案の想定Q&Aは、好意的な質問だけでなく、費用、導入負担、失敗時、他社との差、契約期間、社内説明を含む20問を用意します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「発信では、生成量が成果に見えやすいため注意が必要です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「LPはAIDA型などの構成を使い、注意、関心、欲求、行動がつながっているかを見ます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「経理領域は効率化余地が大きい一方、誤りがそのまま支払いや申告へつながります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「取引先ごとの与信情報は、支払遅延、取引額、公開財務、信用情報、担当者の事実メモを整理し、注意先をフラグ付けします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「たとえば「プロジェクトを主導」と書かれていても、予算、人数、本人の裁量、失敗時の対応は分かりません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「各課題には「誰に聞くか」「何を提出すれば完了か」「失敗してもよい範囲」を添えます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「承認者が判断に必要な情報を起点に、必須項目、条件分岐、入力例、個人情報の注意を設計させます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+- 実例：
+  - 「材料がファイルやWebに存在する、完成形を言葉で定義できる、途中の判断に標準的な基準を置ける、結果を人が検査できる、という四点です」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「「競合五社について、料金、対象顧客、主な機能、導入支援、導入事例を公式サイトから調査し、出典URL付きの比較表と、当社が取るべき施策三案をA4三枚相当でまとめる」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「使った資料、実施した処理、除外した情報、未確認事項、生成したファイル、検証結果があれば、翌週の再利用や担当者への引き継ぎが容易になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「評価結果を数回分残すと、どの業務をスキル化すべきかも見えてきます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「これを「権限テスト」「品質テスト」「保存テスト」に分け、結果を残せば、幹部へ展開するときの標準手順になります」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「架空例として、法人向け清掃会社が50件の休眠顧客を整理した結果、価格より「担当変更後に連絡が途切れた」案件が多かったとします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「顧客インタビューから事例記事を作るときは、導入前の状況、選定理由、実施内容、変化、今後を本人の発言に沿って構成します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「PLAN = [(0, "X", "問い"), (2, "note", "解説"), (4, "LinkedIn", "事例"), (7, "メルマガ", "要約")]」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「判定結果には該当規則を示し、曖昧なケースを担当者へ回します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「候補者の経歴と採用要件から、事実確認、行動事例、判断基準、再現性の四段階で質問案を作らせます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「原文を広く共有せず、集約結果の閲覧範囲を限定します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「現場の対話を始めるたたき台にし、実際の判断事例を追加して育てます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「営業提案なら、顧客情報の確認、課題仮説、社内事例の選定、価格表との照合、責任者レビューまでを一連にします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「親役は結果の矛盾、根拠、抜けを統合し、最終責任を持ちます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+  - 「再開時の二重処理を防ぎ、途中結果を人が読める単位で残すことを品質基準にします」（https://note.com/comix_ceo162230/n/nefa267965ecf）
+
+## 2つのファクトチェック団体の突き合わせ（同じ主張を選んだ割合と判定の一致・選択の偏り）（cross-checking fact-checkers selection agreement rating agreement study）
+- 文脈：手法
+- 手順・やり方：
+  - 「Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+- 突き合わせ・推定：
+  - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「checked PolitiFact fact-checks 77.4% of the time (22.6% selection disagreement). Moderate agreement was observed for deceptiveness scaling. Nearly complete agreement was observed for bottom-line attributed veracity. Additional cross-checking with other sources (Snopes,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「) compared in their assessment of statements fact-checked. We therefore evaluated the extent to which fact-checkers are checking the same statements and if cross-validation is possible. The ability to cross-check and, by implication, the ability of fact-check readers to trust results across multiple fact-checking organizations leads to our second research question:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「We took a layered approach to evaluate how often statements fact-checked by other popular sources were cross-checked with PolitiFact. First, we evaluated only statements from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「= 513 statements during Trump’s presidency). We could not cross-check」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking PolitiFact and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for more details). Coders resolved cross-checking discrepancies after discussion and re-performing the fact-checks together to ensure the right cross-check occurred. Please see the」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「and PolitiFact. Note, since this coding procedure was a simple cross-checking task and did not involve thematic interpretation akin to qualitative coding, special coding software was not required. Please see the」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking PolitiFact with Snopes and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-checking selection agreement」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Our cross-checking revealed 22.6% of statements fact-checked by PolitiFact did not appear in」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Table 1. Summary of cross-checking results across analyses for President Trump data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Cross-check selection agreement (%)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+- 一次情報の探し方：
+  - 「http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「PDF (816.3 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+- 失敗・落とし穴：
+  - 「]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「) was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「. This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+- 実例：
+  - 「Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「. The denominator in each cross-check agreement calculation is the PolitiFact value. For example, 64.7% of PolitiFact」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「considered egregious and PolitiFact believed they had some validity. For example, three examples in the top left corner of」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「’s Fact Checker casts a wider net on the statements to fact-check. This was especially the case for President Trump as they set out to do a comprehensive review of his statements over time. These differences are noticeable and appear to affect the data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「]). For example, during his final year as president and as the 2020 U.S. presidential election approached, President Trump’s lying rate increased dramatically compared to other years [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「We learned that political fact-checking is difficult, and fact-checkers face nontrivial challenges as they try to evaluate the truth. In some cases, as our analysis involving Snopes and」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「Rahmawan D, Hartanto R, Garnesia I. Multi case analysis on the development of fact-checking organizations in Indonesia. Jurnal Kajian Komunikasi. 2022;10: 14–28. doi: 10.24198/jkk.v10i1.38752」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+
+## 公的統計の質の低下の見分け方（回答率の低下・予算と人員の削減・公表の遅れや中止）（official statistics quality decline response rates budget cuts how to judge reliability）
+- 文脈：手法
+- 手順・やり方：
+  - 「また近年は、プライバシー意識の高まりや生活スタイルの多様化などを背景に、従来の方法だけでは回収率を維持しにくくなっているという実情もあります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「社会調査のアプローチは、大きく次の2つの調査方法に分けられます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「アンケート（質問紙調査）などで得られた情報を数値化し、統計学に基づいて分析する調査方法」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「インタビューやフィールドワークを通じて、個別の事象を深く掘り下げ、当事者の意図や背景を読み解く調査方法」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜関連コラム＞ 社会調査とは？定義や種類、方法、事例について紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「この記事では、社会調査の基本的な定義から、具体的な調査方法や実際の事例について、分かりやすく解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜無料ダウンロード＞ 学術調査におけるセルフ型／非セルフ型調査の違いと選び方」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「本資料では、学術調査におけるセルフ型と非セルフ型の違いを「質問紙設計支援の有無」や「倫理的配慮対応」などの観点から比較し、『非セルフ型調査のメリット』を見直し、【適切な調査実施方法の選び方】をわかりやすく整理しています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜関連コラム＞ アンケートの回収率とは？計算方法や高めるポイントなどを紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「今回は、アンケートの「回収率」に焦点を当て、その意味や正しい計算方法について解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜関連コラム＞ サンプルサイズとは？計算方法やサイズの決め方など基本から解説」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「住民基本台帳などから無作為に抽出した対象者の自宅へ調査票を郵送し、返送を依頼する方法です」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「短期間で必要なサンプルサイズを確保したい場合には、非常に効率の良い方法と言えます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜無料視聴＞ 学術調査の成果を左右する、“調査実施方法の選択”とは？セルフ型と非セルフ型の違いを徹底解説 お問い合わせ」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「本セミナーでは、セルフ型・非セルフ型調査の特性やメリット・デメリットを比較整理します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+- 突き合わせ・推定：
+  - 「学術調査（アカデミックリサーチ）は、理論の検証、新しい知見の発見、既存の知識の体系化などを目的とした、特定の学問分野における研究や調査活動のことを指します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「客観的なデータに基づいて社会の「現在」を検証すること」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「本調査の前に、簡単なスクリーニング調査を実施し、調査対象となる条件を満たす人が母集団全体の中でどれくらいの割合で存在するのかを推定するプロセス」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「ChatGPTを調査設計・レポートに活用する検証セミナー」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「確かに、代表性の確保は調査の基本であり、市場規模の推計などを行う際には不可欠です」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「近年、手軽なセルフ型調査ツールが普及しており、仮説生成など多くの場面で活用されているケースも多いのではないでしょうか」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+- 一次情報の探し方：
+  - 「どれほど精密に調査設計を組み立てても、回答が十分に集まらなければ、統計的な信頼性を確保したり、社会の実態を的確にとらえたりすることは難しくなります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「「①品質（国際規格を保有）、②調査体制、③統計界で最高の栄誉とされる“大内賞”を受賞した公的統計基盤整備委員会所属」という特徴的なサービスです」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「アンケート（質問紙調査）などで得られた情報を数値化し、統計学に基づいて分析する調査方法」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「この時、配布数にあたるサンプルサイズが10件しかなければ、統計的な誤差が大きくなる確率が高く、信頼に足るデータとは言えません」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「一般的には「サンプル数」と混同されがちですが、統計学的には次のように明確に使い分けられます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「かつては調査員が対象者の自宅を直接訪ねる「訪問調査」が主流であり、公的調査などでは高い回収率を維持できていました」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「回収率の参考値として、政府が公表している統計データを見ると、実際の調査でどの程度の回答が得られているかが分かります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「一般的な社会意識を問う調査において、公的機関が依頼しても「約半数の協力獲得が標準的」であることを示しています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「外交という比較的関心が分かれるテーマでこの回収率を実現しているのは、国の公的な依頼という信頼性が大きく寄与していると考えています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「日本国内に住むすべての人と世帯を対象とする「国勢調査」は、国の統計調査の中でも最大規模のものです」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「法律に基づく回答義務が課せられている公的調査で、郵送回答とインターネット回答の併用を実施しても、回収率は80％程度となっています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「「はい／いいえ」や5段階評価など、一般的で分かりやすい形式を採用し、迷わず答えられる設計を心がけることが大切です」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「自分の意見が社会や組織の役に立つという貢献感は、特に公的調査や社会性の高いテーマにおいて、強い協力意欲を引き出します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「特に公的機関や大学との共同調査である場合は、その事実を前面に出すことで、回答者の安心感は格段に高まります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「「回答内容はすべて統計的に処理され、個人が特定されることはない」といった点をはっきりと言葉にしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+- 失敗・落とし穴：
+  - 「「回答した人」と「回答しなかった人」のあいだに、属性や意識の違いが存在するという非回答バイアスが生じるリスクが高まります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+- 実例：
+  - 「社会調査とは、社会における様々な現象や問題について、客観的なデータを集め、その分析結果から社会実態への理解を深める活動です」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「こうして得られた客観的な分析結果は、より適切な意思決定を行う「地図」のような役割を果たします」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「＜関連コラム＞ 社会調査とは？定義や種類、方法、事例について紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「この記事では、社会調査の基本的な定義から、具体的な調査方法や実際の事例について、分かりやすく解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「社会調査やアンケート調査においては、調査結果の信頼性や分析の精度を左右する重要な基準として扱われます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「例えば、1,000人にアンケートを配布し、500件の有効回答が得られた場合、回収率は50％となります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「例えば、「社会問題への関心」をテーマに調査を行った際、関心の高い人ほど積極的に回答し、関心の低い人ほど調査に回答しない傾向があれば、結果は実態よりも「社会への関心が高い」方向に大きく偏ってしまいます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「このような偏りが生じると、調査結果を」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「社会全体の傾向として一般化することが難しくなり、分析結果としての価値も大きく損なわれます」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「例えば、対象となる母集団が数万人規模の調査で、回収率が90％と非常に高かったとします」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「が高まり、やはり結果の妥当性には疑問が残ります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「「数（サンプルサイズ）」と「質（回収率）」の両輪がそろってこそ、調査結果は社会の実態を的確にとらえた、価値ある分析資料となるのです」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「例えば、100人を対象にアンケート調査を1回実施した場合、サンプルサイズは「100」、サンプル数は「1」となります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「調査結果などでよく見かける「n＝100」という表記の「n」は、このサンプルサイズを意味しています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「例えば、内閣府が実施している「国民生活に関する世論調査」の回収率」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）

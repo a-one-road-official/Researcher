@@ -1,0 +1,2231 @@
+{
+ "name": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+ "en": "census of manufacture shipment value consumption tax inclusion definition Japan METI",
+ "aliases": [
+  "工業統計 用語の解説 製造品出荷額等 消費税 site:meti.go.jp",
+  "工業統計調査 消費税を含む 製造品出荷額等 定義 site:e-stat.go.jp",
+  "工業統計 税込み 税抜き 変更 年"
+ ],
+ "context": "統計の定義",
+ "kind": "market",
+ "researched_at": "2026-11-07T13:58:11.277850+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "(1) 産業中分類別事業所数･････････････････････････････････････････････････1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数･････････････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（2 万9549 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 表 産業中分類別事業所数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数の調査時点については、6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）事業所数 － 事業所数が最も多いのは大阪府 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：事業所数及び従業者数の調査時点については、2025年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び出荷金額」の産出率及び「品目別 第6表 産業別出荷における品目別の産出事業",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 「品目別 第5表 品目別出荷における産業細分類別の産出事業所数及び出荷金額」は、生",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 「品目別 第6表 産業別出荷における品目別の産出事業所数及び出荷金額」は、それぞれ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、 「品目別 第6表 産業別出荷における品目別の産出事業所数及び出荷金額」の産業の事",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 品目別、都道府県別の出荷及び産出事業所数（全事業 所） ················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 品目別、従業者規模別の産出事業所数及 び出荷金額（全事業所） ··········",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 品目別出荷における産業細分類別の産出事業所数及び出荷金額（全事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業別出荷における品目別の産出事業所数及び出荷金額（全事業所） ······",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１０表 その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１１表 その他収入の種類別の都道府県別産出事業所数及び収入額（全事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 業種別事業所数 ビートトトゥーーー",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2 経営組織別事業所数 ee ee ee ee",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表3 従業者規模別事業所数=",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表12 従業者規模別現金給与総額 (従業者 4 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表13 従業者規模別従業者 1 人当たり現金給与額 ・・・・・・・",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 8 県・市の比較 (従業者規模別事業所数) (平成2 9年)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 9 県・市の比較 (事業所数、従業者数、製造品出荷額等、付加価値観",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数については平成 30 年 6 月 1 日現在、「現金給与総額」、「原材料使用額等」な",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 44",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数の全国シェアは1.0%、全国順位は32位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年の従業者4人以上の事業所数は1,923事業所です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数の構成比をみると、4～9人規模39.7％(764事業所)が最も多く約4割を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "占め、次いで10～19人規模25.5％(491事業所)、30～99人規模15.9％(306事業所)の順 となって",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,923事業所で、前回と比べて 154事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者 4～9人規模の事業所が約 4割を占める",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5図 従業者規模別事業所数の構成比（％） （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４-１,４-２表 従業者規模別・産業別統計表",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業別（従業者規模別）統計表",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別統計表",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 従業者規模別・産業別統計表（１事業所当たり、従業者１人当たり）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（大阪府、産業別、従業者３規模層別、従業者規模別、地域別、堺・泉北臨海工業地帯） 306",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別統計表 288",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業別（従業者規模別）統計表 288",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "(2) 産業中分類別従業者数･････････････････････････････････････････････････3",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数･････････････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計につ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集計",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 従業者数を産業中分類別構成比でみると、 「食料品製造業」 （111万7773 人、 構成比14.7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％）が最も高く、次いで「輸送用機械器具製造業」（105万 5683 人、同13.9％）、「生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用機械器具製造業」（63 万 9002 人、同 8.4％）、「金属製品製造業」（59 万 2653 人、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 7.8％）、「電気機械器具製造業」（49万5568 人、同6.5％）の順となっている（第2",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別従業者数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：従業者数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：従業者数の調査時点については、6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 図 産業中分類別従業者数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についてのみ報告を求めることとする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の事業所であること（累年統計表は従業者３人以下も集計）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者数",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計に",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会 TEL 03-3561-2974",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4 業種別従業者数 ・・・・・・・・・・・トトトーーーーーー",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表5 男女別従業者数=",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表9 原材料使用額等 (従業者4 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表10 在庫額 (従業者 3 0 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 1 業種別現金給与総額、従業者 1人当たり現金給与総額",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(従業者 4 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表12 従業者規模別現金給与総額 (従業者 4 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表13 従業者規模別従業者 1 人当たり現金給与額 ・・・・・・・",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表15 水源別1日当たり用水量 (従業者 3 0人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表16 用途別1日当たり用水量 (従業者3 0人以上の事業所) ・",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 7 工業用地 (従業者3 0 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 9 県・市の比較 (事業所数、従業者数、製造品出荷額等、付加価値観",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表21 産業中分類別統計表 (従業者4人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表23 地域・市町村別統計表 (従業者4 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数については平成 30 年 6 月 1 日現在、「現金給与総額」、「原材料使用額等」な",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ")のうち、「従業者 4 人以上の事業所」を対象とする",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 「平成 28 年経済センサス - 活動調査」においては、調査事項を簡素化した個人経営調査票を",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 34",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 105",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 常用労働者毎月末現在数の合計（工業調査票甲）…………………… 廃止",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者数 ……………………………「統計調査における労働者の区分等に関するガイドライン",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市町村別統計表［産業中分類別（全事業所、従業者30人以上の事業所）］",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 表（従業者４人以上の事業所）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "(3) 産業中分類別製造品出荷額等･･･････････････････････････････････････････5",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 製造品出荷額等･･･････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3） 産業中分類別製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（82 兆 1536",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、構成比21.5％）が最も高く、次いで「食料品製造業」（35兆 107 億円、同9.2％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「化学工業」（34 兆3856億円、同9.0％）、「生産用機械器具製造業」（25 兆2999 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 6.6％）、「鉄鋼業」（22 兆8285 億円、同6.0％）の順となっている（第3表、第3 図）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 表 産業中分類別製造品出荷額等（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：製造品出荷額等については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象とし、",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造品出荷額等",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．賃加工品に関する統計表",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高（製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表6 業種別製造品出荷額等 ト・・・・・・・トトトーーーーー",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表7 製造品出荷額等 ・・・・・バトトトトトートーー",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 9 県・市の比較 (事業所数、従業者数、製造品出荷額等、付加価値観",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 他企業が所有する原材料又は製品に加工処理を行い、 加工賃を受け取る賃加工業は、 製造業と",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果のうち、「製造品出荷額等」や「原材料使用額等」などの経理項目は、表示年次の 1",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 「製造品出荷額等」とは、「製造品出荷額」、「加工賃収入額」、「製造工程からでた くず・廃物",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0 「生産額」は次の算式により人算出している",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 出荷額等に係る消費税の取扱い… 従前の「税込に統一した記入」による報告を「原則税込み",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目の製造品出荷額等を そ れ ぞ れ合計し、 そ の額の 最 も 大 きいもので2桁番号を決定します",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、平成28年1年間における製造品出荷額、加工 賃収 入額及び そ の 他収 入額の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 平成19年調査から、製造以 外 の 活動 を 把握 する目的で、製造品出荷額等に「 そ の 他収 入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．製造品出荷額等",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．生産額及び在庫額（従業者30人以上の事業所）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額などの経理項目 については、表示年次における1年間の数値で",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(9) 製造品出荷額等の経理項目は、原則消費税込みで把握していますが、一部の消費税抜きの回",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 平成19年から製造品出荷額等に「その他収入額」を、原材料使用額等に「製造等に",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、同年以降の「製造品出荷額等」 、 「付加価値額」 、 「原材料使用額等」の数値は平成18年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同年6 月1 日現在の数値、経理事項(現金給与総額、製造品出荷額等、付加価値額)はその前",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品が単一の事業所については、品目6桁番号(製造品、賃加工品番号)の上4桁で産業細分",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品が複数の事業所については、上 2桁の番号(中分類)を同じくする品目の製造品出荷額",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．製造品出荷額等",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 「製造品出荷額」とは、事業所が所有する原材料によって製造されたもの (原材料を他企",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（4） 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（22 兆 4152 億",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 4 表 産業中分類別付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：付加価値額の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 4 図 産業中分類別付加価値額の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者 29 人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（4）付加価値額（従業者29 人以下は粗付加価値額） － 付加価値額が最も多いのは愛知県 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4：製造品出荷額等及び付加価値額の調査期間については、2024年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９．付加価値額（粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 付加価値額",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1 1 業種別現金給与総額、従業者 1人当たり現金給与総額",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 4 業種別付加価値額 Pr",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 「付加価値額 (粗付加価値額)」は次の算式により算出している",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 付加価値額 (従業者 30 人以上の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 粗付加価値額 (従業者 29 人以下の事業所)",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製 造 品 出 荷 額 等 181,932,379 万 円 189,688,132 万円 △ 7 , 7 5 5 , 7 5 3 万 円 △ 4 . 1 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 65,259,765 万 円 64,292,589 万円 9 6 7 , 1 7 6 万 円 1 . 5 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額の全国シェアは0.7%、全国順位は39位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 1事業所当たり従業者数は 32人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり現金給与総額は全産業平均で402万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品・デバイス・電子回路製造業(617万円)が最も多く、次いで業務用機械器具製造業(572万",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円)、輸送用機械器具製造業(544万円)の順となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は 402万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "回路製造業 (617万円 )、業務用機械器具製造業 (572万円 )、輸送用機械器具製造業",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(544万円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第12図 産業中分類別の従業者 1人当たり現金給与総額 （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額などの経理項目 については、表示年次における1年間の数値で",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 「従業者数」及び「付加価値額 」は、工業統計の集計における定義に合わせた形で再集計",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、同年以降の「製造品出荷額等」 、 「付加価値額」 、 「原材料使用額等」の数値は平成18年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同年6 月1 日現在の数値、経理事項(現金給与総額、製造品出荷額等、付加価値額)はその前",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・船舶、車両、運搬具、耐用年数 1年以上で特例を除き 1件10万円以上の工具、器具及び",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 生産額、付加価値額等",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり製造品出荷額等",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり製造品出荷額等",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用雇用者 1人当たり現金給与額",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たりは29.0人で、前回に比べ5.5人増加(＋23.3%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【1事業所当たり】",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第9図 産業別1事業所当たり従業者数(従業者4人以上)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たりは 11億7,789万円で、前回に比べ 1億4,356万円増加(＋13.9%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "５．有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年の従業者30人以上の事業所についての有形固定資産投資総額は476億円で、前回と比",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 476億円で、前 回と比べて 7.9％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、化学工業 (89億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年間投資総額［有形固定資産］（従業者30人以上の事業所）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．有形固定資産額",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 「除却額」とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所へ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 「減価償却額」とは、減価償却費として有形固定資産勘定から控除した額及び減価償却",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年間投資総額［有形固定資産］(従業者30人以上)(第1表、第26,27図)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の年間投資総額は5,199億円で、前回に比べ1,512億円増加(＋41.0%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025 年経済構造実態調査二次集計結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「2025年経済構造実態調査製造業事業所調査」（以下「製造業事業所調査」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10．2025年経済構造実態調査 製造業事業所調査（2024年実績）については令和6年経済セン",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、本資料の過去時系列のうち 2024年経済構造実態調査 製造業事業所調査（以下",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2023年実績」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）については、2025年8月に公表した数値であり2023年実績にお",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考値】2024年経済構造実態調査 製造業事業所調査として今回、同時に公表した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている非調査対象の事業所について、2025 年8 月に公表した数値で記載している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 2025年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推計値となっている非調査対象の事業所について、2025年8月に公表した数値で記載している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2023年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 2024年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2023年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年（2022年）６月１日現在とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年（2021年）１月から12月までの１年間を対象とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、「〇」は令和３年（2021年）の年初（１月１日現在）、「◎」は年末（12月31日現",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と時系列比較を行うために、「令和４年（2022年）経済構造実態調査（製造業事業所調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、令和３年（2021年）１年間の数値である",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本書は、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数は62,251人で、前回と比べて1.1％増加(696人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、平成20年から減少傾向が続いていましたが、平成29年では過去10年で初めて増加し",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少傾向にありましたが、平成28年では増加しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数、付加価値額は増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、製造品出荷額等は減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1図 主要 4指標の過去 10年の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で7.4％減少(△154事業所)となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少率については、家具・装備品製造業(△18.2％、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,923事業所で、前回と比べて 154事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で1.1％増加(696人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別の増加率については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 従業者数は 62,251人で、前回と比べて 1.1％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で0.8％増加(19億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成22年(2010年)工業統計 平成22年12月31日現在 平成22年 平成22年1月～12月 平成22年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年(2016年)活動調査 平成28年6月1日現在 平成28年 平成27年1月～12月 平成27年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年(2017年)工業統計 平成29年6月1日現在 平成29年 平成28年1月～12月 平成28年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年(2018年)工業統計 平成30年6月1日現在 平成30年 平成29年1月～12月 平成29年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年(2019年)工業統計 令和元年6月1日現在 令和元年 平成30年1月～12月 平成30年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年(2020年)工業統計 令和2年6月1日現在 令和2年 平成31年1月～令和元年12月 令和元年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年(2021年)活動調査 令和3年6月1日現在 令和3年 令和2年1月～12月 令和2年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の調査結果はその当時の消費税率によるものであり、時系列比較を行う際は十分",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、時系列比較を行うことはできません",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 建設仮勘定の「増加額」とは同勘定の借方に仕分けられた額を、 「減少額」とは同勘定か",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＋ 建設仮勘定の年間増減額（増加額 － 減少額）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事 業 所 数 1万4,412事業所 前回に比べ1,720事業所減少 (▲10.7%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従 業 者 数 41万7,816人 前回に比べ7,692人減少(▲1.8%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 16兆9,758億円 前回に比べ2,899億円増加(＋1.7%)",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数は、 24産業のうち 1産業で増加、 23産業で減少し、全 産業では前回 に比べ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10.7%減少しています",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造等に関連する外注費」及び「転売した商品の仕入額」の合計である",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造等に関連する外注費」、「転売した商品の仕入額」を調査項目として追加したため、平成 18 年",
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費、製造等に関 連 する 外注 費及び 転売 した商品の 仕 入額の合計で、消費税額を 含んだ 額です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関 連 する 外注 費とは、 生 産設 備 の保 守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関連する外注費」を、調査項目に「転売した商品の仕入額」を、それぞれ追加したことによ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＝原材料使用額＋燃料使用額＋電力使用額＋委託生産費＋製造等に関連する外注費",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 「製造等に関連する外注費」とは、生産設備の保守・点検・修理、機械・装置の操作、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」 、 「加工賃収入額」及び「その他収入額」)に直接関連する外注費をいい、委託生産費 、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/qa1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.minamiboso.chiba.jp/faq/faq_detail.php?frmId=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/notes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep16/tyuui.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/160911.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h13/shikumi.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-020/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/page/10612.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagasaki.jp/doc/page-522342.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901454/file_contents/2020houkokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/downloadfiles/m41104-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tyuui2-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/soshiki/toukei/21ktoukeiindex.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11041/35669.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&stat_infid=000032236215&statdisp_id=0004003972",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/28result/pdf/h28r_sangyo.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/200999.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "https://www.stat.go.jp/data/e-census/2026/qa1.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.city.minamiboso.chiba.jp/faq/faq_detail.php?frmId=6",
+    "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g839/all_839.pdf",
+    "https://www.asagi-tax.com/setsuzeinoki/economiccensus-2661",
+    "https://www5.cao.go.jp/keizai3/2019/0308watcher/watcher2.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/kogyotoukeityosa.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.jdmia.or.jp/toukei/"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/notes.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep16/tyuui.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/160911.pdf",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h13/shikumi.htm",
+    "https://www.city.sakata.lg.jp/mobile/shisei/toukei/toukeioshirase/kougyou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-020/index.html",
+    "https://www.pref.gifu.lg.jp/page/10612.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "https://www.pref.nagasaki.jp/doc/page-522342.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/notes.html",
+    "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901454/file_contents/2020houkokusho.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.rieti.go.jp/jp/publications/dp/downloadfiles/m41104-1.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 従業者規模別",
+   "results": [
+    "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901454/file_contents/2020houkokusho.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/tyuui2-02.html",
+    "https://www.pref.miyagi.jp/soshiki/toukei/21ktoukeiindex.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 1人当たり 万円",
+   "results": [
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.shiga.lg.jp/documents/11041/35669.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12292/r3houkokusho.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/200999.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland/estat20/estat22/",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search?page=1&query=経済センサス+製造品出荷額+市町村&layout=dataset"
+   ]
+  },
+  {
+   "query": "census of manufacture shipment value consumption tax inclusion definition Japan METI Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.census.gov/foreign-trade/reference/definitions/",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index302.html",
+    "https://www.meti.go.jp/english/press/category_03.html",
+    "https://www.eu-japan.eu/taxes-accounting/consumption-taxes",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+   "results": [
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/yuki0117jp/n/n46cbcf8c9bb0",
+    "https://note.com/2gnote/n/n408194560ab9",
+    "https://note.com/good_elk973/n/nc2430e8bdc2c",
+    "https://note.com/kagawatomo/n/nd985c3959405",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/stopinvoice/n/nce396d98998d",
+    "https://note.com/kagawatomo/n/nfe51c4f0f92a",
+    "https://note.com/pure_shrew4975/n/n24a37899127b",
+    "https://note.com/good_elk973/n/n5a804062c475?magazine_key=mf1438619774d"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2069926560556270060",
+    "https://x.com/luigi_jpn/status/2068838341773332641",
+    "https://x.com/i/article/2085669641893085304",
+    "https://x.com/kabu_shukatsu",
+    "https://x.com/nisyki",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/takano_mario/status/2093143372257251825",
+    "https://x.com/ohmura_hideaki/status/1961396458814345526"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+   "results": [
+    "https://www.linkedin.com/in/timbakke",
+    "https://www.linkedin.com/in/danielmatthews1992",
+    "https://members.linkedin.com/create",
+    "https://www.linkedin.com/in/deidra-cheeks-merriwether-99a8712",
+    "https://jp.linkedin.com/posts/由哲-政岡-550780209_農家の特報班インボイス悩む直売所どの対応でも負担増の懸念-日本農業新聞より-activity-7110051942600503296-jkfg",
+    "https://jp.linkedin.com/pulse/fmcg-food-manufacturing-2025-review-growth-innovation-5kowe?tl=ja",
+    "https://www.linkedin.com/posts/antjemills_fakejobs-fakelistings-careerscams-activity-7428575838985629696-hmIm"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない）",
+   "results": [
+    "https://www.facebook.com/JapanProximo/",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/jota.shimazaki/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/ibaraki.tokei/photos/茨城県統計課ホームページの市町村のデータを更新しました茨城県内の市町村のデータを更新しましたぜひご活用ください令和8年5月1日までに公表されているデータに更新茨/1416263453879676/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/life21.style/posts/先ずは5そして消費税を廃止し工場出荷をベースにした物品税輸入品には関税をかけそれ以降は複雑な税金を取るのをやめれば良い消費税以前に戻そう/628611201858196/",
+    "https://www.facebook.com/reel/1468659351353770/",
+    "https://www.facebook.com/keizaikaiseki/photos/出荷に対する比率である在庫率を指数化している在庫率指数の月次推移を折線グラフ化３月の在庫率指数は消費税率引き上げ後の最も高いレベルに匹敵する高さつまり出荷の割に/2040111022910649/"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/keizaicensus2021yougonokaisetu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_gaiyo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E5%93%81%E5%87%BA%E8%8D%B7%E9%A1%8D",
+    "https://note.com/ulcons/n/n9705d97132fc",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ]
+  },
+  {
+   "query": "工業統計表 製造品出荷額等の消費税の扱い（税込み補正の年・用語の解説・全国・県や市の表を使わない） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/kogyotoukeityosa.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389975",
+    "https://data.e-gov.go.jp/data/en/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d?inner_span=True",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kaseikyo.jp/wp/wp-content/uploads/20200325_Public_relations_request.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "census of manufacture shipment value consumption tax inclusion definition Japan METI site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/satoru-matsuhashi-08a6ba102",
+    "https://in.linkedin.com/in/jasmeet-singh-minocha-912627140",
+    "https://www.linkedin.com/in/j3berry",
+    "https://www.linkedin.com/pulse/selling-japan-2026-consumption-tax-guide-every-foreign-tmgxf",
+    "https://www.linkedin.com/pulse/japan-mandate-10-consumption-tax-withholding-e-commerce-dhihc",
+    "https://www.linkedin.com/pulse/new-scheme-consumption-tax-coming-japan-16-months-atsuoki-hoshiyama",
+    "https://www.linkedin.com/pulse/japan-jct-guide-cross-border-amazon-fba-sellers-safaristar-global-oftcc",
+    "https://www.linkedin.com/pulse/japans-approach-vat-cross-border-electronic-services-sara-abdelfattah-32ndf/",
+    "https://www.linkedin.com/pulse/optimized-linkedin-article-ministry-economy-trade-industry-bf5sc/",
+    "https://www.linkedin.com/pulse/meti-white-paper-manufacturing-2026-sets-new-course-japan-kkoyf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）"
+ }
+}

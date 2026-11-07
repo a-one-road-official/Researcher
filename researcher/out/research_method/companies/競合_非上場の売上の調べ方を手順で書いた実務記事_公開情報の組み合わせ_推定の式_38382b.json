@@ -8,94 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T09:02:01.402637+00:00",
+ "researched_at": "2026-11-07T14:00:31.374681+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "30%以上なら比較的安定、10%未満は要注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意したいのは、書かれている数字がいつ時点のものかです",
-    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
-    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What common mistakes make competitive intelligence sources useless?",
-    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Personal bias and scattered records",
-    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.",
-    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most failures come from process, not from missing information. These mistakes show up most often:",
-    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "A defensible estimate whose assumptions you can show and defend",
@@ -537,6 +451,200 @@
    },
    {
     "quote": "Cross-check important claims with a second, independent source.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A commonly used shortcut is to estimate revenue based on the number of employees and average industry revenue-per-employee ratios. For example, if a software company has 100 employees and the industry average revenue per employee is $200,000, a rough estimate would put annual revenue around $20 million.",
+    "url": "https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Learn the PESTLE analysis framework with real industry examples. Evaluate Political, Economic, Social, Technological, Legal & Environmental factors.",
+    "url": "https://vantainsights.com/insights/competitive-analysis-framework",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実在企業の調査結果やDSSの実績ではありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を、次の事業判断に使える形へ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に決めるのは、その調査結果を何の判断に使うのかという一文です",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Googleの広告の透明性については、広告主またはウェブサイトの名前で検索でき、日付や対象地域などで結果を絞り込めます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example: “We will buy this equipment if we can sell 10,000 more units.” That number tells you what evidence counts.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Good examples include “What are you hearing about lead times this quarter?” and “Are buyers asking more about a particular feature?” Skip anything that asks for a rival’s pricing or volumes. If a supplier hesitates, drop the topic and move on. That respect protects the relationship and keeps you on the right side of the line.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Studies (27)",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Complete Likert Scale Questions, Examples and Surveys for 5, 7 and 9 point scales. Learn everything about Likert Scale with corresponding example for each question and survey demonstrations.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1156,195 +1264,87 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "失敗・落とし穴": [
    {
-    "quote": "決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
-    "url": "https://www.flares.tech/sources/competitor-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
-    "url": "https://www.flares.tech/sources/competitor-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
-    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A commonly used shortcut is to estimate revenue based on the number of employees and average industry revenue-per-employee ratios. For example, if a software company has 100 employees and the industry average revenue per employee is $200,000, a rough estimate would put annual revenue around $20 million.",
+    "quote": "Common Mistakes to Avoid",
     "url": "https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Learn the PESTLE analysis framework with real industry examples. Evaluate Political, Economic, Social, Technological, Legal & Environmental factors.",
-    "url": "https://vantainsights.com/insights/competitive-analysis-framework",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します",
+    "quote": "30%以上なら比較的安定、10%未満は要注意",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます",
+    "quote": "会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした",
+    "quote": "有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です",
+    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実在企業の調査結果やDSSの実績ではありません",
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
     "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を、次の事業判断に使える形へ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最初に決めるのは、その調査結果を何の判断に使うのかという一文です",
+    "quote": "注意したいのは、書かれている数字がいつ時点のものかです",
     "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Googleの広告の透明性については、広告主またはウェブサイトの名前で検索でき、日付や対象地域などで結果を絞り込めます",
-    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example: “We will buy this equipment if we can sell 10,000 more units.” That number tells you what evidence counts.",
+    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Good examples include “What are you hearing about lead times this quarter?” and “Are buyers asking more about a particular feature?” Skip anything that asks for a rival’s pricing or volumes. If a supplier hesitates, drop the topic and move on. That respect protects the relationship and keeps you on the right side of the line.",
+    "quote": "What common mistakes make competitive intelligence sources useless?",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Case Studies (27)",
+    "quote": "Personal bias and scattered records",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Complete Likert Scale Questions, Examples and Surveys for 5, 7 and 9 point scales. Learn everything about Likert Scale with corresponding example for each question and survey demonstrations.",
+    "quote": "Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
+    "quote": "Most failures come from process, not from missing information. These mistakes show up most often:",
     "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1389,6 +1389,30 @@
    },
    {
     "quote": "一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告の記載事項とは？必須項目と公告方法別の違いを解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1986,12 +2010,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
+    "url": "https://note.com/tsunobuchi/n/nfb921e361805",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nfb921e361805",
+    "url": "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
     "status": "ok",
     "method": "http"
    },
@@ -2021,17 +2045,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/promptdesign/n/nb6640107f8e2",
     "status": "ok",
     "method": "http"
    },
@@ -2039,6 +2053,16 @@
     "url": "https://www.help-note.com/hc/ja/articles/42691602684057-%E5%85%B1%E5%90%8C%E9%81%8B%E5%96%B6%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%9F%E6%9C%89%E6%96%99%E8%A8%98%E4%BA%8B%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/promptdesign/n/nb6640107f8e2",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
@@ -2076,17 +2100,12 @@
     "method": "http"
    },
    {
+    "url": "https://www.jpo.go.jp/resources/report/sonota/document/zaisanken-seidomondai/2023_06_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://nvs.nikkei.co.jp/solutions/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://genaibiz.jp/market-competitor-research-seisei-ai-sme-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://asana.com/ja/resources/competitive-analysis-example",
     "status": "ok",
     "method": "http"
    },
@@ -2101,6 +2120,11 @@
     "method": "http"
    },
    {
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.coursera.org/articles/competitor-analysis",
     "status": "ok",
     "method": "http"
@@ -2111,22 +2135,22 @@
     "method": "http"
    },
    {
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1fjslkm/how_do_you_guys_do_competitor_analysis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://www.antler.co/blog/startup-competitor-analysis",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/marketing/comments/y6hrqm/my_stepbystep_guide_for_a_competitor_analysis/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://guides.lib.unc.edu/market-research-tutorial/competitors",
+    "url": "https://www.salesforce.com/blog/small-business/what-is-competitor-anaylsis/?bc=OTH",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.salesforce.com/blog/small-business/what-is-competitor-anaylsis/?bc=OTH",
+    "url": "https://guides.lib.unc.edu/market-research-tutorial/competitors",
     "status": "ok",
     "method": "http"
    }
@@ -2137,8 +2161,8 @@
    "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） site:note.com",
    "results": [
     "https://note.com/144292/n/n5a70d02eb458",
-    "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
     "https://note.com/tsunobuchi/n/nfb921e361805",
+    "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
     "https://note.com/kagawatomo/n/n41abb6bcd142",
     "https://note.com/kagawatomo/n/n535b7dc1a668",
     "https://note.com/comix_ceo162230/n/n7c57a7770dfe",
@@ -2151,15 +2175,15 @@
   {
    "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） note",
    "results": [
+    "https://note.com/144292/n/n5a70d02eb458",
     "https://note.com/key_maneylab/n/n4b8926568aa8",
     "https://note.com/stock_up/n/n2811e4e7d648",
-    "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://note.com/promptdesign/n/nb6640107f8e2",
     "https://www.help-note.com/hc/ja/articles/42691602684057-%E5%85%B1%E5%90%8C%E9%81%8B%E5%96%B6%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%9F%E6%9C%89%E6%96%99%E8%A8%98%E4%BA%8B%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
-    "https://note.com/kagawatomo/n/n41abb6bcd142",
+    "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
+    "https://note.com/promptdesign/n/nb6640107f8e2",
     "https://espers.co.jp/column/17811/",
-    "https://note.com/kabuberry_/n/nce46f6d65d6f",
+    "https://note.com/kagawatomo/n/n41abb6bcd142",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
    ]
   },
@@ -2173,8 +2197,9 @@
     "https://kuroco.team/blog-data-kokaidata/",
     "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
     "https://espers.co.jp/column/17811/",
-    "https://hamakikaku.co.jp/archives/27494",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/"
+    "https://note.com/144292/n/n5a70d02eb458",
+    "https://nvs.nikkei.co.jp/solutions/",
+    "https://isshi-inc.jp/chisoku/how-to-do-competitive-research/"
    ]
   },
   {
@@ -2182,13 +2207,13 @@
    "results": [
     "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
-    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
     "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
     "https://kuroco.team/blog-data-kokaidata/",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.jpo.go.jp/resources/report/sonota/document/zaisanken-seidomondai/2023_06_zentai.pdf",
     "https://espers.co.jp/column/17811/",
+    "https://note.com/144292/n/n5a70d02eb458",
     "https://nvs.nikkei.co.jp/solutions/",
-    "https://genaibiz.jp/market-competitor-research-seisei-ai-sme-2026/",
-    "https://asana.com/ja/resources/competitive-analysis-example",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
    ]
   },
@@ -2197,13 +2222,13 @@
    "results": [
     "https://www.coursera.org/articles/competitor-analysis",
     "https://www.uschamber.com/co/start/strategy/how-to-conduct-competitive-research",
+    "https://www.reddit.com/r/ProductManagement/comments/1fjslkm/how_do_you_guys_do_competitor_analysis/",
     "https://www.antler.co/blog/startup-competitor-analysis",
-    "https://www.reddit.com/r/marketing/comments/y6hrqm/my_stepbystep_guide_for_a_competitor_analysis/",
-    "https://www.youtube.com/watch?v=wBxS2EqoanM",
-    "https://guides.lib.unc.edu/market-research-tutorial/competitors",
     "https://www.salesforce.com/blog/small-business/what-is-competitor-anaylsis/",
+    "https://guides.lib.unc.edu/market-research-tutorial/competitors",
     "https://www.squarespace.com/blog/competitive-analysis-research",
     "https://www.xero.com/us/guides/how-to-do-competitor-analysis/",
+    "https://www.questionpro.com/blog/10-competitive-information-sources-that-are-right-in-front-of-you/",
     "https://www.flares.tech/sources/competitor-revenue"
    ]
   },
@@ -2215,11 +2240,11 @@
     "https://note.com/kagawatomo/n/n455c241c3a9f",
     "https://note.com/kagawatomo/n/n5c2a409db4db",
     "https://note.com/kagawatomo/n/n283e60c221b4",
-    "https://note.com/shintakai/n/n1bab29aa1ae6",
+    "https://note.com/kagawatomo/n/n25d015846a4d",
     "https://note.com/kagawatomo/n/nefcfe2cd0c1f",
-    "https://note.com/omanyuk/n/n6c9b8885a7b9",
-    "https://note.com/m_taguchi/n/ne49687df4e57",
-    "https://note.com/ingktks7/n/nfefe95572a1c"
+    "https://note.com/shintakai/n/n1bab29aa1ae6",
+    "https://note.com/kagawatomo/n/n235c187d6f80",
+    "https://note.com/ai_insight_lab/n/n988e49ab71b0"
    ]
   },
   {
@@ -2229,10 +2254,10 @@
     "https://x.com/KagawaTomo/article/2064280932966908257",
     "https://x.com/masahirochaen/status/2051281504781934905",
     "https://x.com/zakiryo1533/article/2065096178136682867",
-    "https://x.com/miyabi_foxx/article/2079083859162128661",
-    "https://x.com/masahirochaen/status/2027012182492553348",
     "https://x.com/kawai_design/article/2087320120272236676",
+    "https://x.com/miyabi_foxx/article/2079083859162128661",
     "https://x.com/ai_ai_ailover/article/2110649437567737941",
+    "https://x.com/masahirochaen/status/2027012182492553348",
     "https://x.com/masahirochaen/status/2048684589997330770",
     "https://x.com/shota7180/article/2081937702703038658"
    ]
@@ -2246,10 +2271,10 @@
     "https://www.linkedin.com/in/katsu-kitamura-a2097817",
     "https://jp.linkedin.com/in/takeshi-kikui",
     "https://jp.linkedin.com/company/tempura-technologies-inc",
-    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1551%EF%BC%9E%E3%80%90%EF%BD%9E1380%E4%B8%87%E5%86%86%E3%80%91%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%EF%BC%88%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%EF%BC%89%EF%BD%9C%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%AC%A1%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9F%B1%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E6%89%8B%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%EF%BD%9C%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A7%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E6%8B%85%E3%81%86-at-linkard-inc-4485697939",
     "https://jp.linkedin.com/pulse/berlin-sealing-leaks-games-industry-law-summit-t003e?tl=ja",
     "https://www.linkedin.com/in/rikutakahashi",
-    "https://jp.linkedin.com/company/prapnode"
+    "https://jp.linkedin.com/company/prapnode",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1551%EF%BC%9E%E3%80%90%EF%BD%9E1380%E4%B8%87%E5%86%86%E3%80%91%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%EF%BC%88%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%EF%BC%89%EF%BD%9C%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%AC%A1%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9F%B1%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E6%89%8B%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%EF%BD%9C%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A7%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E6%8B%85%E3%81%86-at-linkard-inc-4485697939"
    ]
   },
   {
@@ -2260,11 +2285,11 @@
     "https://www.facebook.com/logly.co.jp/",
     "https://www.facebook.com/shosan.mk/",
     "https://www.facebook.com/hisayoshi.kirimoto/posts/%E5%90%8C%E6%97%8F%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%82%E7%B7%8F%E4%BC%9A%E3%81%AA%E3%81%97%E3%81%AF%E9%80%9A%E7%94%A8%E3%81%97%E3%81%AA%E3%81%84%E5%BD%B9%E5%93%A1%E8%A7%A3%E4%BB%BB%E3%82%92%E5%B7%A1%E3%82%8B%E6%B3%95%E7%9A%84%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E7%B5%8C%E5%96%B6%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E8%87%AA%E5%88%86%E3%81%8C%E6%B1%BA%E3%82%81%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%9D%E3%82%93%E3%81%AA%E5%90%8C%E6%97%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%8B%AC%E6%96%AD%E5%B0%82%E8%A1%8C%E3%81%AB%E5%8F%B8%E6%B3%95%E3%81%8C%E5%BE%85%E3%81%A3%E3%81%9F%E3%82%92%E3%81%8B%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F2026%E5%B9%B410%E6%9C%8814%E6%97%A5%E3%81%AE/28895175773467425/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/978209545372692/",
     "https://www.facebook.com/kotatsuneko/",
     "https://www.facebook.com/shosan.mk/posts/%E5%BE%A1%E7%A4%BCyoutube%E4%BD%8F%E5%AE%85%E4%BC%9A%E7%A4%BE%E3%81%AEai%E3%82%BC%E3%83%9F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E7%99%BB%E9%8C%B2%E8%80%851%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F5%E6%9C%88%E3%81%AB1%E6%9C%AC%E7%9B%AE%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fai%E3%81%AE%E6%83%85%E5%A0%B1%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%A7%E3%82%82%E3%81%82%E3%82%8B%E3%81%AE%E3%81%AB%E3%81%86%E3%81%A1%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%81%93%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%A9%E3%81%86%E4%BD%BF%E3%81%86%E3%81%AE/1620539849857320/",
-    "https://www.facebook.com/100083033777264?locale=gl_ES",
-    "https://www.facebook.com/hisho1214/?locale=ja_JP",
-    "https://www.facebook.com/groups/1283613525152735/"
+    "https://www.facebook.com/100083033777264?locale=gl_ES"
    ]
   },
   {
@@ -2276,9 +2301,9 @@
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://www.help-note.com/hc/ja/articles/42691602684057-%E5%85%B1%E5%90%8C%E9%81%8B%E5%96%B6%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%9F%E6%9C%89%E6%96%99%E8%A8%98%E4%BA%8B%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
     "https://note.com/kagawatomo/n/n41abb6bcd142",
-    "https://www.nikkei.com/article/DGXZQOUD1067V0Q6A810C2000000/",
     "https://www.youtube.com/watch?v=AglLATs_6fg",
-    "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://note.com/kazuyuki_ai_lab/n/na128a474f98e",
+    "https://kuroco.team/blog-data-kokaidata/",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
    ]
   },
@@ -2287,8 +2312,8 @@
    "results": [
     "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
     "https://xn--q6vw15bczbg0p.com/knowhow/u4_x/",
-    "https://www.delight-solutions.co.jp/column/sns%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/x-competitor-analysis/",
     "https://x.com/miyabi_foxx/article/2079083859162128661",
+    "https://www.delight-solutions.co.jp/column/sns%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/x-competitor-analysis/",
     "https://www.axc.ne.jp/insights/article/skills/5037/",
     "https://www.jpo.go.jp/support/example/ip-landscape-guide/document/index/all_guidebook.pdf",
     "https://biz.moneyforward.com/ipo/basic/320/",
@@ -2308,42 +2333,40 @@
     "https://business.linkedin.com/sell/resources/sales-terms/battle-card",
     "https://uk.linkedin.com/company/thebusinessresearchcompany",
     "https://www.linkedin.com/in/jeffreyphawkins",
-    "https://www.linkedin.com/company/fuld-&-company",
-    "https://www.linkedin.com/help/linkedin/answer/a553615"
+    "https://www.linkedin.com/help/linkedin/answer/a553615",
+    "https://in.linkedin.com/company/marketsandmarkets"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
-  "実例": [
-   {
-    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説",
+    "quote": "決算公告の記載事項とは？必須項目と公告方法別の違いを解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "一般社団法人の決算公告を電子公告で行う方法を解説",
+    "quote": "決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します",
+    "quote": "官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T19:12:25.377131+00:00"
 }

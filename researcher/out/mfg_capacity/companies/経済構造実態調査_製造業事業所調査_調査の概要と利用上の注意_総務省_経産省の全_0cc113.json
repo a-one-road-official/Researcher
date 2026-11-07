@@ -1,0 +1,1465 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+ "en": "Economic Structure Survey manufacturing establishments survey outline notes for users METI Japan",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 利用上の注意 site:meti.go.jp",
+  "経済構造実態調査 調査の概要 推計方法 site:stat.go.jp",
+  "製造業事業所調査 上位 9割 推計 方法"
+ ],
+ "context": "統計の定義",
+ "kind": "market",
+ "researched_at": "2026-11-07T13:58:03.450308+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "(1) 産業中分類別事業所数･････････････････････････････････････････････････1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数･････････････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（2 万9549 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 表 産業中分類別事業所数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数の調査時点については、6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）事業所数 － 事業所数が最も多いのは大阪府 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：事業所数及び従業者数の調査時点については、2025年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び出荷金額」の産出率及び「品目別 第6表 産業別出荷における品目別の産出事業",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 「品目別 第5表 品目別出荷における産業細分類別の産出事業所数及び出荷金額」は、生",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 「品目別 第6表 産業別出荷における品目別の産出事業所数及び出荷金額」は、それぞれ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、 「品目別 第6表 産業別出荷における品目別の産出事業所数及び出荷金額」の産業の事",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和５年（2023",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "(2) 産業中分類別従業者数･････････････････････････････････････････････････3",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数･････････････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計につ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集計",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 従業者数を産業中分類別構成比でみると、 「食料品製造業」 （111万7773 人、 構成比14.7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％）が最も高く、次いで「輸送用機械器具製造業」（105万 5683 人、同13.9％）、「生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用機械器具製造業」（63 万 9002 人、同 8.4％）、「金属製品製造業」（59 万 2653 人、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 7.8％）、「電気機械器具製造業」（49万5568 人、同6.5％）の順となっている（第2",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別従業者数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：従業者数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：従業者数の調査時点については、6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 図 産業中分類別従業者数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についてのみ報告を求めることとする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の事業所であること（累年統計表は従業者３人以下も集計）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者数",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計に",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年調査より、全ての産業に属する一定規模以上の法人企業の皆様が対象になるとともに、これまで実施してきた",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、個人経営の企業を除き、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類に係る売上高総額の８割を達成する範囲に含まれる企業を調査対象としています",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についてのみ報告を求めることとする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の事業所であること（累年統計表は従業者３人以下も集計）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和５年（2023",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者数",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計に",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては、 国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）報告を求める個人又は法人その他の団体",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表３ 報告を求める個人又は法人その他の団体の変更",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査とし、甲調査は従業者３０人以上",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４人以上２９人以下の事業所（製造、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して従業者30人以上の事業所約６万事業所、乙調査として従業者４人以上29人以下",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数（従業者４人以上）は約20万３千事業所となっている",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）報告を求める個人又は法人その他の団体",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表７ 報告を求める個人又は法人その他の団体の変更（製造業事業所調査）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "(3) 産業中分類別製造品出荷額等･･･････････････････････････････････････････5",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 製造品出荷額等･･･････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3） 産業中分類別製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（82 兆 1536",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円、構成比21.5％）が最も高く、次いで「食料品製造業」（35兆 107 億円、同9.2％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「化学工業」（34 兆3856億円、同9.0％）、「生産用機械器具製造業」（25 兆2999 億円、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 6.6％）、「鉄鋼業」（22 兆8285 億円、同6.0％）の順となっている（第3表、第3 図）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 表 産業中分類別製造品出荷額等（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：製造品出荷額等については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象とし、",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造品出荷額等",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、個人経営の企業を除き、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類に係る売上高総額の８割を達成する範囲に含まれる企業を調査対象としています",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、日本標準産業分類における大分類、中分類、小分類又は細分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象としています",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 （製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、 「平成23年」 、 「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年） 」及び「令和３年（製造品出荷額等、付加価値額は令和２年） 」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次のうち、令和２年以前（製造品出荷額等、付加価値額は令和元年以",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前）の数値は工業統計、令和４年以降（製造品出荷額等、付加価値額は令和３年以",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造品出荷額等",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "から累積し、各分類に係る売上高総額の８割を達成する範囲に含まれる企業を対象",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "係る売上高総額の８割を達成する範",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象の産業と同様に売上高総額の８割を達成する範囲に含まれる企業とすること",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高1000億円以上（かつ会社企",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業に限っては資本金２億円以上）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている企業、売上高1000億円以上",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円以上（かつ会社企業に限っては資本金２億円以上）の企業及び相互会社のみから、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（4） 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（22 兆 4152 億",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 4 表 産業中分類別付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：付加価値額の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 4 図 産業中分類別付加価値額の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：付加価値額について、従業者 29 人以下の事業所は、粗付加価値額である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（4）付加価値額（従業者29 人以下は粗付加価値額） － 付加価値額が最も多いのは愛知県 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4：製造品出荷額等及び付加価値額の調査期間については、2024年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９．付加価値額（粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 付加価値額",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．本集計において、 「平成23年」 、 「平成28年（製造品出荷額等、付加価値額は平成27",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年） 」及び「令和３年（製造品出荷額等、付加価値額は令和２年） 」の数値は活動調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査、その他の年次のうち、令和２年以前（製造品出荷額等、付加価値額は令和元年以",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前）の数値は工業統計、令和４年以降（製造品出荷額等、付加価値額は令和３年以",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 付加価値額",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４～29人 ＝ 粗付加価値額※３",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "５．有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 有形固定資産額の算式は以下のとおり",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025 年経済構造実態調査二次集計結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「2025年経済構造実態調査製造業事業所調査」（以下「製造業事業所調査」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10．2025年経済構造実態調査 製造業事業所調査（2024年実績）については令和6年経済セン",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、本資料の過去時系列のうち 2024年経済構造実態調査 製造業事業所調査（以下",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2023年実績」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）については、2025年8月に公表した数値であり2023年実績にお",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考値】2024年経済構造実態調査 製造業事業所調査として今回、同時に公表した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている非調査対象の事業所について、2025 年8 月に公表した数値で記載している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 2025年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推計値となっている非調査対象の事業所について、2025年8月に公表した数値で記載している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2023年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 2024年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：2023年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年（2022年）６月１日現在とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年（2021年）１月から12月までの１年間を対象とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、「〇」は令和３年（2021年）の年初（１月１日現在）、「◎」は年末（12月31日現",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と時系列比較を行うために、「令和４年（2022年）経済構造実態調査（製造業事業所調",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、令和３年（2021年）１年間の数値である",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（経済産業省）の3調査を統合・再編し、2019年から実施しています",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年調査より、全ての産業に属する一定規模以上の法人企業の皆様が対象になるとともに、これまで実施してきた",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、2019年以降は、経済構造実態調査の創設により、経済センサス-活動調査の中間年における経済構造を把握できるようになりました",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2022年の経済構造実態調査から全産業化などを行い、中間年においても産業横断的に経済構造を把握することができるようになり、経済構造統計の体系が構築されました",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "No.196 2022年経済構造実態調査二次集計結果を公表 〜 経済構造実態調査を通してみたコロナ禍における日本経済の状況の変化 〜（PDF：503KB）",
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年（2023年）６月１日現在とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年（2022年）１月から12月までの１年間を対象とする",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 「〇」は令和４年（2022年）の年初（１月１日現在） 、 「◎」は年末（12月31日現",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と時系列比較を行うために、2023年「経済構造実態調査（製造業事業所調査） 」 （以下",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和５年（2023",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、令和４年（2022年）１年間の数値である",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業調査を用いて時系列比較がなされているが、両者の間には少なからず断層が生じてお",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "団名簿の変更に伴い、調査対象数の増加が見込まれる",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ これらの変更により結果の時系列、地域別表章への影響はないか",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査事項の細かさから記入者負担が大きく、未回答、修正の増加による精度確保の問",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年度(2019",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2022年)調査の企",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年度(2020",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 令和３年（2021年）経済センサス‐活動",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年(2022年)",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年度(2022",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 平成33年 （2021年）経済センサス－活動調査における「電子商取引の有無及び割合」",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "留意した適切な調査事項の設定について、平成34年度（2022年度）調査の計画の策定",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② ＳＵＴ体系への移行に係る検討状況を踏まえつつ、平成 34年（2022年）以降にお",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2019年度)か",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2022年)調査",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 平成 32年（2020 年）における工業調査と国勢調査との業務輻輳の発生を踏まえ、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調整しつつ、平成 32 年（2020 年）の工業調査の企画時期までに結論を得ること",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 製造業については、現在、基準年は活動調査、中間年は工業調査を用いて時系列",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、 燃料、 電力の使用額、 委託生産費、 製造等に関連する外注費及び転売した",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "託生産費、製造等に関連する外注",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "託生産費、製造等に関連する外注費",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000348.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jemca.or.jp/2025/04/34482/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/press/2026/01/20251117104840.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000612.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/documents/r5gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000551994.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000348.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.jemca.or.jp/2025/04/34482/",
+    "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001231885"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/press/2026/01/20251117104840.html",
+    "http://www.etisa.or.jp/kkj-1.htm"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000348.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.soumu.go.jp/main_content/000551994.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.soumu.go.jp/main_content/000744047.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments survey outline notes for users METI Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.stat.go.jp/english/data/kkj/gaiyou.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+   "results": [
+    "https://note.com/intimatemerger/n/n9012095e7eac",
+    "https://note.com/yomusanchi/n/nd4f87da689ab",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/hirokimiyano/n/n53a5ad33437a",
+    "https://note.com/one_seed_office/n/n72cc9a8e2623",
+    "https://note.com/tatsuya_sabato/n/n7fa9788092e7",
+    "https://note.com/zouplans/n/n8d3ef7e2d9fa",
+    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
+    "https://note.com/deep_think_ai/n/n1f3184e4e7dc",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+   "results": [
+    "https://x.com/i/article/2113066175089508431"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+   "results": [
+    "https://jp.linkedin.com/company/bearlab",
+    "https://jp.linkedin.com/pulse/40%E4%BB%A3%E3%81%AE%E9%81%B8%E6%8A%9E%E5%87%BA%E4%B8%96%E3%83%AC%E3%83%BC%E3%82%B9%E3%81%AE%E7%B5%82%E7%9D%80%E7%82%B9%E3%81%A7%E8%A6%8B%E3%81%88%E3%81%9F%E6%9C%AC%E5%BD%93%E3%81%AB%E5%A4%A7%E5%88%87%E3%81%AA%E3%82%82%E3%81%AE-tomohiro-sogawa-jmm4c",
+    "https://jp.linkedin.com/in/創一-犛山-a744b220a",
+    "https://jp.linkedin.com/in/tomotaka-kuwahara-410a61332",
+    "https://www.linkedin.com/company/john-crane",
+    "https://careers.linkedin.com/Locations",
+    "https://www.linkedin.com/posts/aspirewealthpartners_it-is-with-profound-sadness-that-we-share-activity-7473777489576665088-ti4Q",
+    "https://jp.linkedin.com/in/満-古海-047963246",
+    "https://jp.linkedin.com/in/陽来-山本-542817222"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ）",
+   "results": [
+    "https://www.facebook.com/groups/1272297446949368/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/itc.uec/posts/202684-1540総務省を騙る詐欺メールに関する注意喚起-2026年-8月-3日に総務省を騙る詐欺メールが学内のメールアドレスに複数送信されてきていることを/1722331776564471/",
+    "https://www.facebook.com/meti4students/",
+    "https://www.facebook.com/ginowancity.official/posts/令和8年経済センサス活動調査にご協力をお願いします令和8年6月1日を調査期日として令和8年経済センサス活動調査が実施されます総務省経済産業省により5年ごとに全国/1373299974844382/",
+    "https://www.facebook.com/mototani.miho/posts/素朴な疑問行政が実施される調査についてこれほんまに要る要らんじゃろと感じることはありませんか一例をあげると経済センサス企業概要法務局の登記情報見ろ従業員状況年金/26500812632899232/",
+    "https://www.facebook.com/miyota1956/posts/経済センサス-活動調査をよそおった詐欺や不審な調査にご注意ください-令和８年６月１日を調査期日として５年に一度の経済センサス-活動調査が実施されます-調査員が５/1384449313728746/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/press/2026/01/20251117104840.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 調査の概要と利用上の注意（総務省・経産省の全国のページ） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments survey outline notes for users METI Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/why-japanese-smes-critical-indias-growth-story-fspif",
+    "https://www.linkedin.com/pulse/what-japanese-meti-registration-ai-dash-cam-yt3cc",
+    "https://www.linkedin.com/posts/teruko-wada-5528405a_out-of-86-million-american-jobs-over-1-activity-7496580566319005697-3oC8",
+    "https://www.linkedin.com/posts/akifumi-chris-takigawa-4603a012b_its-already-been-nearly-a-month-since-i-activity-7518109041752059904-9Zz1",
+    "https://www.linkedin.com/posts/marc-bovenschulte-1595a945_shaping-resilience-japan-germany-industrial-activity-7519086826746376192-lHnH",
+    "https://www.linkedin.com/in/keisuke-tsujimoto-71896735",
+    "https://uk.linkedin.com/in/sayaka-tomihara-7b4b5142",
+    "https://www.linkedin.com/posts/kprimrose_release-of-the-white-paper-on-international-activity-7482518517372731393-ib2r",
+    "https://www.linkedin.com/posts/joakim-sorelius_ericsson-japan-innovation-activity-7511612805209468928-p6t3",
+    "https://www.linkedin.com/in/yoshiko-nakanishi-02144035"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ37頁・検索18回）"
+ }
+}

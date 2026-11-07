@@ -1,0 +1,1087 @@
+{
+ "name": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+ "en": "White Paper on SMEs 2020 labor productivity distribution by firm size manufacturing percentile",
+ "aliases": [
+  "中小企業白書 2020 付属統計資料 xlsx 労働生産性 分布 規模別 site:chusho.meti.go.jp",
+  "労働生産性 分布 小規模企業 中規模企業 大企業 製造業 白書"
+ ],
+ "context": "1人あたり生産能力",
+ "kind": "market",
+ "researched_at": "2026-11-07T13:57:55.174450+00:00",
+ "evidence": {
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 中小企業・小規模事業者の労働生産性",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2節 規模別・業種別での労働生産性の比較",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図において、我が国の労働力のうち約7割を占める中小企業の労働生産性の平均値は、大企業における労働生産性の平均値をおおむね下回っている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の分子となる付加価値額について、平成28年経済センサス‐活動調査では平成27年1年間の値を把握している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "に上位10％、中央値、下位10％の労働生産性の水準を示している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、小規模企業の上位10％の水準は大企業の中央値を上回っており、企業規模が小さくても高い労働生産性の企業が一定程度存在することが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、大企業の下位10％の水準は小規模企業の中央値を下回っており、企業規模は大きいが労働生産性の低い企業も存在している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：第1-2-4図 労働生産性と労働構成比",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：労働生産性（万円） 従業者割合",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：小売業：労働生産性（万円） 252.5万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：医療，福祉：労働生産性（万円） 307.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：その他サービス業：労働生産性（万円） 361.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：製造業：労働生産性（万円） 374.8万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：建設業：労働生産性（万円） 399.1万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：不動産, 物品賃貸業：労働生産性（万円） 430.8万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：運輸業，郵便業：労働生産性（万円） 456.7万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：学術研究，専門・技術サービス業：労働生産性（万円） 486.1万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：情報通信業：労働生産性（万円） 522.5万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：卸売業：労働生産性（万円） 545.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：医療，福祉：労働生産性（万円） 316.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 333.2万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：小売業：労働生産性（万円） 545.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 568.4万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：第1-2-5図 企業規模別の労働生産性の比較（パーセンタイル）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：（万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：第1-2-6図 企業規模別の労働生産性の分布",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_06.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：(万円)",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_06.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：第1-2-7図 企業規模別・業種別の労働生産性",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_07.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：(万円)",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_07.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 中小企業・小規模事業者の労働生産性",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "99.7％を占める中小企業が労働生産性を高める",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3図 企業規模別従業員一人当たり付加価値額（労働生産性）の推移（中白小白第1-2-1図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2． 平成18年度調査以前は付加価値額＝営業純益（営業利益－支払利息等）＋役員給与＋従業員給与＋福利厚生費＋支払利息等＋動産・不",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4図 企業規模別の労働生産性の比較（パーセンタイル） （中白小白第1-2-5図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5図 存続企業、開業企業、廃業企業の労働生産性（パーセンタイル） （中白小白第1-3-12図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1． 付加価値額＝営業純益（営業利益－支払利息等）＋人件費（役員給与＋役員賞与＋従業員給与＋従業員賞与＋福利厚生費）＋支払利息等",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2． 労働分配率＝人件費÷付加価値額",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "中小企業庁：2020年版「中小企業白書」 第1部第2章第2節 規模別・業種別での労働生産性の比較",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年版 中小企業白書（HTML版）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部 令和元年度（2019年度）の中小企業の動向",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部 令和元年度(2019年度)の中小企業の動向",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020.8",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜2020年版中小企業白書・小規模企業白書の主なポイント＞",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2020年版中小企業白書・小規模企業白書では今回新たな試みとして、中小企業庁HP",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年版中小企業白書 ・ 小規模企業白書の概要",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年版中小企業白書 2020年版小規模企業白書",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2020年版中小企業白書・小規模企業白書」",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年版中小企業白書の構成",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1部 令和元年度（2019年度）の中小企業の動向",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年版小規模企業白書の構成",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1部 令和元年度（2019年度）の小規模事業者の動向",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年度（2019年度）の中小企業・",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "落ち込みや、2019年10月の消費税率引上げに",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年を通じた動きを見",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ると、大企業の経常利益が2019年度第2四半",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期に減少に転じた中、中小企業の経常利益は",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "感が徐々に解消され、製造業では2017年前半、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続いている一方、製造業では2018年後半から",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1図 企業規模別業況判断DIの推移（中白小白第1-1-4図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "© 2022 International Bank for Reconstruction and Development / The World Bank",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "World Bank Group, 2021.",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.4 Mexico Has Lower Productivity Growth Than Its Peers, 1990–2017 13",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.5 Low Labor Force Participation Is Mainly Explained by Low Female Labor Force Participation, 2019 14",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.13 Factor Accumulation Has Not Sufficed to Close the Income Gap, 2017 18",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.15 Labor Productivity Presents Substantial Dispersion across Regions, 2018 20",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.18 Differences in Productivity across Sectors, 1991–2018 21",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1.21 Labor Shifts from Manufacturing to Services Contributed to Limited Productivity Gains, 1991–2018 24",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Map 2.1 TFPR across States, 1993 and 2018 31",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1993–2018 33",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 6.2 Global Innovation Index 2019: Mexico versus Comparison Countries 110",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2.1 TFPR Growth Rates across Municipalities, 1993–2018 32",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Map 6.1 Regional Distribution of Management Practices in Mexico, 2015–17 116",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "slow motion. Despite reforms, between 1990 and 2019,",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1991 and 2020. This is well below the growth seen in",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022 budget aims to reinvigorate public investment",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and 2019 and surveyed more than 20 million busi-",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ico in 2020, versus 70 percent in Brazil, 124 percent in",
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "中小企業は、深刻化する人手不足等の構造変化に加え、働き方改革や被用者保険の適用拡大、賃上げ、インボイス導入など、今後複数年にわたり相次ぐ制度変更に直面する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "して人手不足感が強いことが分かる（第2図 ）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職場づくりなどを通じて、人手不足解消に取り",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スの開発以外にも、短納期といった強みを際立",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "Sheet1：労働生産性（万円） 従業者割合",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 149.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 163.4万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：小売業：労働生産性（万円） 252.5万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：医療，福祉：労働生産性（万円） 307.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：その他サービス業：労働生産性（万円） 361.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：製造業：労働生産性（万円） 374.8万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：建設業：労働生産性（万円） 399.1万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：不動産, 物品賃貸業：労働生産性（万円） 430.8万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：運輸業，郵便業：労働生産性（万円） 456.7万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：学術研究，専門・技術サービス業：労働生産性（万円） 486.1万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：情報通信業：労働生産性（万円） 522.5万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：卸売業：労働生産性（万円） 545.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：医療，福祉：労働生産性（万円） 316.9万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：宿泊業, 飲食サービス業：労働生産性（万円） 333.2万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：小売業：労働生産性（万円） 545.6万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：生活関連サービス業，娯楽業：労働生産性（万円） 568.4万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：その他サービス業：労働生産性（万円） 577.5万円",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：（万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：(万円)",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_06.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet1：(万円)",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_07.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1． こ こでい う 大企業と は資本金10億円以上、中小企業と は資本金1億円未満の企業と する",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "その中で、廃業した企業の労働生産性は相対的に低いが、一部で生産性の高い企業の廃",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、廃業率は",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、我が国の開廃業率は、欧米諸",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、開業企業や廃業企業の労働生産性は",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の間に開業） 、廃業企業（2012年から2016年の",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間に廃業）の労働生産性の各パーセンタイルの",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、廃業企業の労働生",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "くなっているが、廃業企業の上位25％の値は、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5図 存続企業、開業企業、廃業企業の労働生産性（パーセンタイル） （中白小白第1-3-12図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の高い企業の廃業の背景には、上で述",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "業も生じていることや我が国の企業数の99.7％が「中小企業」であることからも分かるとおり、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る求人倍率を確認すると、従業員数300人以上",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "して人手不足感が強いことが分かる（第2図 ）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る求人倍率を確認すると、従業員数300人以上",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の企業の求人倍率が1倍を下回っている一方",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、従業員数299人以下の企業の求人倍率は",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3図 企業規模別従業員一人当たり付加価値額（労働生産性）の推移（中白小白第1-2-1図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1． 付加価値額＝営業純益（営業利益－支払利息等）＋人件費（役員給与＋役員賞与＋従業員給与＋従業員賞与＋福利厚生費）＋支払利息等",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2． 労働分配率＝人件費÷付加価値額",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_04.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_05.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_06.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_07.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_08.xlsx",
+    "status": "http_202",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_09.xlsx",
+    "status": "http_202",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_10.xlsx",
+    "status": "http_202",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/excel/b1_2_11.xlsx",
+    "status": "http_202",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/index.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/index.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.miraiku-office.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newspicks.com/news/10647184/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web-archive.oecd.org/pdfViewer?path=%2F2018-11-22%2F500211-CN_JPN_J.pdf",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj_2020/kekka/report/2020/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2026_734a5e68-en/full-report/labour-productivity-patterns-across-firm-sizes_7edc4fb8.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://www.jpc-net.jp/research/detail/007846.html",
+    "https://newspicks.com/news/10647184/body/",
+    "https://monoist.itmedia.co.jp/mn/articles/2011/24/news003.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://newspicks.com/news/10647184/body/"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://web-archive.oecd.org/pdfViewer?path=%2F2018-11-22%2F500211-CN_JPN_J.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://newspicks.com/news/10647184/body/",
+    "https://www.stat.go.jp/data/kkj_2020/kekka/report/2020/index.html"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://newspicks.com/news/10647184/body/"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_1.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://megdai.jp/markebatake/saiyou/6359/"
+   ]
+  },
+  {
+   "query": "White Paper on SMEs 2020 labor productivity distribution by firm size manufacturing percentile Japan statistics",
+   "results": [
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2026_734a5e68-en/full-report/labour-productivity-patterns-across-firm-sizes_7edc4fb8.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "https://documents1.worldbank.org/curated/en/099100103252224294/pdf/P17082908942250380867901fba9060dcbc.pdf",
+    "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
+    "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "https://www.tamago-db.com/japan-labor-shortage-sme-transformation/",
+    "https://www.arjhss.com/wp-content/uploads/2023/07/C671624.pdf",
+    "https://www.rieti.go.jp/en/events/bbl/20060501.html"
+   ]
+  },
+  {
+   "query": "site:note.com 中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/dakudhigura/n/n015677b91218",
+    "https://note.com/chushohakusho/n/n494256bdf834",
+    "https://note.com/nbc_consul/n/n6b5bf9a2c63d",
+    "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "https://note.com/yamanaka_kan/n/n9a1220eccf9b",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://note.com/kens_reading1/n/n213b18c76ea1?hl=en",
+    "https://note.com/chushohakusho/n/n96a1f6a8abd2"
+   ]
+  },
+  {
+   "query": "site:x.com 中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107040014349881640",
+    "https://jf.x.com/images/media-preview/2110491878940610654",
+    "https://x.com/shindanshi_dojo/status/2102504458899083721",
+    "https://x.com/stock_unknown/status/2114866728249503918",
+    "https://x.com/dokuneee/status/2110875871095435750",
+    "https://x.com/oogirijigokuhen/status/2117044324017873002",
+    "https://x.com/12starfortune/status/2114099611727978861"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/solve",
+    "https://in.linkedin.com/in/manashuman",
+    "https://in.linkedin.com/company/draipl",
+    "https://uk.linkedin.com/company/woodgroup-ltd",
+    "https://et.linkedin.com/company/idethiopia",
+    "https://de.linkedin.com/posts/nobuo-date-693a7828_時間当たりの労働生産性の国際比較2020年では米国805ドルドイツ760-activity-6969383264394321920-eI3_",
+    "https://www.linkedin.com/jobs/dad-let-teen-son-and-boys-cum-over-to-learn-about-puberty-demonstrates-to-boys-how-to-try-gay-sex-with-cum-in-mouths-and-asses-porn-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表",
+   "results": [
+    "https://www.facebook.com/Acsnjb/",
+    "https://www.facebook.com/TLC/",
+    "https://www.facebook.com/mikemaurus/",
+    "https://www.facebook.com/groups/229876193841000/",
+    "https://www.facebook.com/marketplace/item/28671243149136866/",
+    "https://www.facebook.com/marketplace/item/27439293182408125/",
+    "https://www.facebook.com/marketplace/item/28869183366084210/"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://note.com/kens_reading1/n/nd5a0051509f4",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf"
+   ]
+  },
+  {
+   "query": "中小企業白書2020 付属統計資料 規模別 労働生産性 上位10%・中央値・下位10% 製造業の表 X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
+    "https://shokosoken.or.jp/shokokinyuu/2020/08/202008_4.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2021/chusho/b1_2_2.html",
+    "https://www.miraiku-office.com/blog_93756.html",
+    "https://www.rieti.go.jp/jp/events/bbl/26061101_okada.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://kyodonewsprwire.jp/prwfile/release/M106914/202112144977/_prw_PA1fl_0J6oG70z.pdf"
+   ]
+  },
+  {
+   "query": "White Paper on SMEs 2020 labor productivity distribution by firm size manufacturing percentile site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/artificial-intelligence-adoption-business-drivers-challenges-vicci-snrde",
+    "https://www.linkedin.com/pulse/paradox-progress-understanding-ai-through-lens-amaras-andre-fp0se",
+    "https://in.linkedin.com/in/nirvana-mitra",
+    "https://in.linkedin.com/in/chiragsubramanian",
+    "https://www.linkedin.com/in/kcolasmoerman",
+    "https://www.linkedin.com/in/sebastianpmolina",
+    "https://ca.linkedin.com/in/harrison-waddell",
+    "https://uk.linkedin.com/in/imaniana",
+    "https://www.linkedin.com/in/karthik-sundaram-s",
+    "https://uk.linkedin.com/in/callumlgrady"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ35頁・検索18回）"
+ }
+}
