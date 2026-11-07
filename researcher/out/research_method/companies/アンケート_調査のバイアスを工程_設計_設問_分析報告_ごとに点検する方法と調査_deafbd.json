@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T16:58:58.292734+00:00",
+ "researched_at": "2026-11-07T22:23:08.662414+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -434,164 +434,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推定量の系統誤差、設計・計測上の偏り",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "選択肢は仮説の列挙で終わらせず、",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3) 想起・推定の過大要求",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yes. Survey administration mode can affect who is reached, who agrees to participate, and how respondents interpret and answer questions. These influences are commonly distinguished as mode-related selection effects and mode-related measurement effects, both of which can affect survey estimates and comparisons.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The resulting estimates could understate the barriers the study intends to investigate.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Report mode-related limitations and their implications for estimates, subgroup comparisons, and trends.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yes, provided the design and analysis account appropriately for sampling, administration, and potential measurement differences. Pooling responses without evaluating comparability may produce misleading estimates, particularly for mode-sensitive questions.",
-    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "], after analyzing a series of mode experiments conducted under the auspices of the ESS, concluded that “mixed-mode data collection designs are unlikely to increase RR or reduce nonresponse bias in survey estimates compared to data collected face to face. In fact, overall, they suggest that RR would decrease and nonresponse bias would probably increase.” Cornesse and Bosnjak [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is based is only an estimate and the true proportion of females in the defined subpopulation is already known to equal 0.5, the within-study variance may be calculated as:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To answer the research questions, I created random-effects meta-regression (alternatively called mixed-effects) models using the restricted maximum likelihood method to estimate τ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau^2 (estimated amount of residual heterogeneity): 0.0002 (SE = 0.0001)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0126",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## estimate se tval df pval ci.lb ci.ub",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "## tau (square root of estimated tau^2 value): 0.0131",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "How to Avoid Survey Bias: 10 Practical Strategies - Enghouse Insights",
@@ -901,92 +743,6 @@
    },
    {
     "quote": "p102–113] and thus at least the upper boundary of possible nonresponse bias. I chose to include a moderator that for each observation simply counts how many surveys were done previously in this country and program. This study, as stated previously, is based on observational data—like many meta-analyses in survey methodology [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6) 統計学・実験計画",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る",
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Plos1_review.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(98.6KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "survey review PLOS.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(102.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. Table 2 appears in such way, because the manuscript is converted to a PDF format. I think I sticks to the formatting guidelines; if not, I will discuss this topic with the editor. For the reviewers, I previously attached table 2 as a separate file and it is still available as an attachment.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (1.1 MB)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1311,6 +1067,250 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定量の系統誤差、設計・計測上の偏り",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "選択肢は仮説の列挙で終わらせず、",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3) 想起・推定の過大要求",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yes. Survey administration mode can affect who is reached, who agrees to participate, and how respondents interpret and answer questions. These influences are commonly distinguished as mode-related selection effects and mode-related measurement effects, both of which can affect survey estimates and comparisons.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The resulting estimates could understate the barriers the study intends to investigate.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Report mode-related limitations and their implications for estimates, subgroup comparisons, and trends.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yes, provided the design and analysis account appropriately for sampling, administration, and potential measurement differences. Pooling responses without evaluating comparability may produce misleading estimates, particularly for mode-sensitive questions.",
+    "url": "https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "], after analyzing a series of mode experiments conducted under the auspices of the ESS, concluded that “mixed-mode data collection designs are unlikely to increase RR or reduce nonresponse bias in survey estimates compared to data collected face to face. In fact, overall, they suggest that RR would decrease and nonresponse bias would probably increase.” Cornesse and Bosnjak [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is based is only an estimate and the true proportion of females in the defined subpopulation is already known to equal 0.5, the within-study variance may be calculated as:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "To answer the research questions, I created random-effects meta-regression (alternatively called mixed-effects) models using the restricted maximum likelihood method to estimate τ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## tau^2 (estimated amount of residual heterogeneity): 0.0002 (SE = 0.0001)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## tau (square root of estimated tau^2 value): 0.0126",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## estimate se tval df pval ci.lb ci.ub",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "## tau (square root of estimated tau^2 value): 0.0131",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6) 統計学・実験計画",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Plos1_review.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(98.6KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "survey review PLOS.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(102.2KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Table 2 appears in such way, because the manuscript is converted to a PDF format. I think I sticks to the formatting guidelines; if not, I will discuss this topic with the editor. For the reviewers, I previously attached table 2 as a separate file and it is still available as an attachment.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF (1.1 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -1332,7 +1332,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/taiseimurayama/n/nd11b24183494",
+    "url": "https://note.com/bakko_club/n/ne96e87de6465",
     "status": "ok",
     "method": "http"
    },
@@ -1342,7 +1342,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/bakko_club/n/ne96e87de6465",
+    "url": "https://note.com/taiseimurayama/n/nd11b24183494",
     "status": "ok",
     "method": "http"
    },
@@ -1372,17 +1372,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/qiqumo/n/n9ffe4b0998ed",
+    "url": "https://u-site.jp/alertbox/10-survey-challenges",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.surece.co.jp/column/04/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://u-site.jp/alertbox/10-survey-challenges",
     "status": "ok",
     "method": "http"
    },
@@ -1407,17 +1402,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/words/enquete-create-tips/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corp.neo-m.jp/column/marketing-research_086_questionnaire-bias",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macromill.com/service/column/entry-066/",
     "status": "ok",
     "method": "http"
    },
@@ -1427,7 +1417,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.collabotown.com/2025/12/24/product-planning-failure-cases-2/",
+    "url": "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/",
     "status": "ok",
     "method": "http"
    },
@@ -1442,14 +1432,14 @@
     "method": "http"
    },
    {
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283092",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.sogolytics.com/learning-center/surveys/how-to-avoid-bias-in-surveys/",
-    "status": "robots_disallowed",
-    "method": ""
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://lensym.com/blog/survey-bias-guide",
@@ -1457,12 +1447,12 @@
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283092",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://analythical.com/blog/types-of-bias-in-survey",
+    "url": "https://casrai.org/guides/survey-bias",
     "status": "ok",
     "method": "http"
    }
@@ -1475,13 +1465,13 @@
     "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/deskrex/n/nb8db55cfdf8f",
     "https://note.com/misaki_ai_work/n/nac9368e58ce0",
-    "https://note.com/taiseimurayama/n/nd11b24183494",
-    "https://note.com/610_mto/n/n438488470076?hl=en",
     "https://note.com/bakko_club/n/ne96e87de6465",
+    "https://note.com/610_mto/n/n438488470076?hl=en",
+    "https://note.com/taiseimurayama/n/nd11b24183494",
     "https://note.com/kagawatomo/n/n19063dcdd8e8",
     "https://note.com/iromegane_bot/n/n98aef7aa4662",
-    "https://note.com/610_mto/n/n5fe57e207f7b",
-    "https://note.com/seinonotes/n/n165aba4b9984"
+    "https://note.com/m2ai_jp/n/n31d471de146a",
+    "https://note.com/jack4manastalk/n/n880406135053"
    ],
    "engines": [
     "ddgs:google",
@@ -1497,14 +1487,14 @@
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
     "https://note.com/qiqumo/n/n8a1dbc0c1e66",
     "https://www.dm-insight.jp/column/response-bias/",
-    "https://note.com/qiqumo/n/n9ffe4b0998ed",
     "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://www.onoff.ne.jp/blog/?p=10014",
+    "https://note.com/qiqumo/n/n9ffe4b0998ed",
     "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://www.onoff.ne.jp/blog/?p=10014",
     "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1512,8 +1502,8 @@
   {
    "query": "アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果） やり方",
    "results": [
-    "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
+    "https://qiqumo.jp/contents/knowhow/7500",
     "https://www.dm-insight.jp/column/response-bias/",
     "https://www.surece.co.jp/column/04/",
     "https://u-site.jp/alertbox/10-survey-challenges",
@@ -1533,18 +1523,18 @@
    "query": "アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果） 事例",
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
-    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
-    "https://researto.com/column/market-research-bias/",
+    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.surece.co.jp/column/04/",
+    "https://researto.com/column/market-research-bias/",
     "https://www.cross-m.co.jp/introduction/research-guide",
-    "https://www.macromill.com/service/words/enquete-create-tips/",
-    "https://corp.neo-m.jp/column/marketing-research_086_questionnaire-bias",
+    "https://www.macromill.com/service/column/entry-066/",
     "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://www.interviewz.io/blog/bias-questionnaire/"
+    "https://surveroid.jp/mr-journal/Knowledge/ss9Pu",
+    "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1553,13 +1543,13 @@
    "query": "survey bias checklist by process mode effect sampling reach",
    "results": [
     "https://www.bellandholmes.com/blog/survey-bias-types-survive-qa",
-    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283092",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
     "https://www.sogolytics.com/learning-center/surveys/how-to-avoid-bias-in-surveys/",
     "https://lensym.com/blog/survey-bias-guide",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/",
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283092",
+    "https://casrai.org/guides/survey-bias",
     "https://analythical.com/blog/types-of-bias-in-survey",
     "https://www.evalacademy.com/articles/sampling-bias-identifying-and-avoiding-bias-in-data-collection",
-    "https://www.varsitytutors.com/practice/subjects/ssat-middle-level-writing/lessons/sampling-and-survey-bias",
     "https://www.kantar.com/north-america/inspiration/research-services/survey-bias-examples-pf",
     "https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/"
    ],
@@ -1567,7 +1557,7 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "site:note.com アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）",
@@ -1584,7 +1574,7 @@
     "https://note.com/qiqumo/n/n8a1dbc0c1e66"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1601,7 +1591,7 @@
     "https://x.com/donmai_0319/status/2104543061128986670"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1609,15 +1599,15 @@
    "query": "site:linkedin.com アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）",
    "results": [
     "https://jp.linkedin.com/pulse/survey-design-why-wording-your-questions-can-make-ana-paterra-ph-d--ttc9c?tl=ja",
-    "https://www.linkedin.com/posts/qualtrics_ウェビナーへご登録いただきありがとうございます-クアルトリクス-activity-6899294147669237760-Jbbz",
     "https://jp.linkedin.com/pulse/研究者の調査設計が抱える3つの課題と私たちができること-daisuke-yamashita-njudc",
     "https://jp.linkedin.com/pulse/unveiling-bias-data-collection-analysis-understanding-lkjff?tl=ja",
-    "https://www.linkedin.com/posts/elena-tolstoguzova_15-分ウェビナーでスッキリわかる-サーベイ設問設計の基礎と実践-クアルトリクス-activity-6901820610826121216-L8Zu",
     "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja",
-    "https://jp.linkedin.com/pulse/detecting-data-distortions-three-types-biases-every-manager-eppler?tl=ja"
+    "https://jp.linkedin.com/pulse/detecting-data-distortions-three-types-biases-every-manager-eppler?tl=ja",
+    "https://jp.linkedin.com/pulse/common-types-bias-research-examples-how-avoid-them-neujin-22k9f?tl=ja",
+    "https://jp.linkedin.com/pulse/correcting-invisible-bias-understanding-heckmans-aashish-juneja-ph-d-dhiqf?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1626,14 +1616,14 @@
    "results": [
     "https://www.facebook.com/a.tatsujin/posts/知りたい情報が得られる設問設計の方法アンケート調査を行う際に重要な設問設計-良くない設問の例を提示しながら分かりやすく解説していますぜひご覧くださいhttpsw/185566946488844/",
     "https://www.facebook.com/fullswingbyDeNA/posts/アンケートの設問設計を成功させるにはアンケートをとったものの改善に役立つ結果が出なかったその原因はアンケート設問の設計にあるのかもしれません今回はアンケートを成/372836656535096/",
-    "https://www.facebook.com/cuenote.mania/posts/1665282976880819/",
     "https://www.facebook.com/researchpr/",
+    "https://www.facebook.com/cuenote.mania/posts/1665282976880819/",
     "https://www.facebook.com/mmdlabo/posts/本日弊社リサーチャーによるコラム適切な設問設計とは1-設問文選択肢の基本的なルールをリリースいたしましたアンケート調査をするために課題の整理や設問案の検討はした/623687026115651/",
     "https://www.facebook.com/usertestonsearch/posts/いいユーザーテストのためには良い設問タスク設計が必要です被験者を誘導しないバイアスを掛けないそんなことを意識しながら設問設計をしますナレッジ更新しましたhttp/927849993927589/",
     "https://www.facebook.com/laboroai/videos/削っていた調査を必要十分な規模で/968979755564563/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1661,38 +1651,38 @@
    "query": "アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果） X 投稿",
    "results": [
     "https://qiqumo.jp/contents/knowhow/7500",
-    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.surece.co.jp/column/04/",
     "https://u-site.jp/alertbox/10-survey-challenges",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2019/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2019/sas-basic-statistical-seminars-for-beginning-sas-users-2019-july-01.pdf",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://www.dm-insight.jp/column/response-bias/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/survey_response_burden/",
     "https://researto.com/column/market-research-bias/",
-    "https://www.interviewz.io/blog/bias-questionnaire/",
-    "https://ja.tesify.pro/anketo-tsukurikata-kenkyu-2026-shakudo-junjokouka-bias/"
+    "https://corp.neo-m.jp/column/marketing-research_086_questionnaire-bias",
+    "https://tayori.com/blog/survey-research-guide/",
+    "https://www.interviewz.io/blog/bias-questionnaire/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "survey bias checklist by process mode effect sampling reach site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/drnaveedurrehman_learn-these-9-popular-methods-for-estimating-activity-7444331740858454017-Nvhb",
     "https://www.linkedin.com/posts/nacke_research-phd-bias-activity-7366437766940745728-9rkI",
-    "https://www.linkedin.com/in/mike-crites-ph-d-6b22242b",
-    "https://www.linkedin.com/posts/dr-asma-tayyab-6b40b7272_thesiswriting-phdlife-academicwriting-activity-7508495231617703936-1lSE",
     "https://www.linkedin.com/pulse/idea-validation-condensed-guide-itamar-gilad",
+    "https://www.linkedin.com/posts/dr-asma-tayyab-6b40b7272_thesiswriting-phdlife-academicwriting-activity-7508495231617703936-1lSE",
+    "https://www.linkedin.com/in/mike-crites-ph-d-6b22242b",
     "https://www.linkedin.com/top-content/recruitment-hr/implementing-employee-surveys/ethics-of-employee-surveying/",
     "https://www.linkedin.com/in/ahmedmaali",
     "https://www.linkedin.com/top-content/user-experience/mobile-user-experience-best-practices/mobile-user-experience-and-the-importance-of-feedback/",
-    "https://www.linkedin.com/in/jeffrey-maxwell-36579a125",
-    "https://www.linkedin.com/in/riadazar"
+    "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf",
+    "https://www.linkedin.com/in/jeffrey-maxwell-36579a125"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1700,6 +1690,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T20:45:09.888807+00:00"
 }

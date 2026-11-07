@@ -686,14 +686,15 @@
   - 「OSINTフレームワークは次の目的に使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「ソース、ツール、方法、または目標でデータを分類する」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「さらに、OSINTは近年、パブリックドメイン内の情報を安全かつ確実に使用する方法について議論を巻き起こしています」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「OSINT Methodology: How Open Source Intelligence Works」（https://aofirs.org/articles/osint-open-source-intelligence）
   - 「OSINTによるセキュリティ情報調査方法まとめ #Security - Qiita」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「OSINTによるセキュリティ情報調査方法まとめ」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「最近（2016年頃）、サイバー攻撃の脅威を調べる方法として、公開情報を活用したOSINT（Open Source INTelligence／オシント）に注目が集まっています」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「但し、フレームワークに定義できないものもあることを認識しておきましょう」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「そうしないと、無理やりフレームワークに収めて結論を誤ったり、情報を落とす可能性があります」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「ロッキードマーチンが開発したフレームワーク」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
 - 突き合わせ・推定：
   - 「（侵入テスト、セキュリティ検証、脅威対象領域評価、」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「) used NLP to analyze WhatsApp chats for a remarkable investigation, which estimates the large-scale vandalism of South Africa. Some researchers observed the use of OSINT in criminal investigations that involve coordinated misbehavior and cybercrime (Kao et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
   - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
   - 「自宅で作るDFIR・NSM実習ラボ｜Security OnionでZeek・Suricataを動かす（安全な検証環境）」（https://yasashii-cybersecurity.com/osint_beginer/）
   - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint_beginer/）
@@ -707,7 +708,6 @@
   - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
   - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 一次情報の探し方：
   - 「ソーシャルメディアプロファイル、オンラインアクティビティ、公的記録、その他のソースからの情報をつなぎ合わせるときに、ある人の習慣、関心、振る舞いの詳細なプロファイルを作成することが可能です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります」（https://note.com/terueda/n/n5707498651c3）
@@ -727,6 +727,8 @@
 - 失敗・落とし穴：
   - 「また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「Unreliable and prone to bias, non verifiable, time-consuming and resource-intensive, prone to cultural, language and social barriers, vulnerable to counterintelligence, the chance of human error, affected by legal and ethical considerations」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
+  - 「). The main objective of this framework was to reduce the use of cognitive biases throughout the investigation process. This technique provides six main steps: identifying the issue, developing a hypothesis, gathering data, assessing the hypothesis, selecting a related hypothesis, and continuously monitoring incidents. Aslan et al. (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10014398/）
   - 「OSINT is often mistaken for simple online research. In practice, it follows a structured methodology that includes:」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
   - 「Avoid analytical bias or misinformation」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
   - 「「ネット検索なんて誰でもみんなやっている」と思われた社長、それは大きな間違いです」（https://note.com/terueda/n/n5707498651c3）
@@ -738,8 +740,6 @@
   - 「特に、サイトやブログなどで公開されている個人情報を収集する場合、取り扱いには十分に注意する必要があります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「特に２については、収集先のサービスの運営元の国の法律に則った処罰を場合によっては受けますので、細心の注意が必要となります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「法律違反には注意しましょう」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 実例：
   - 「GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis. · GitHub」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
   - 「- Help find real world examples of functions, API's and libraries across 10+ sources.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
@@ -754,8 +754,8 @@
   - 「例えば、公開掲示板への投稿はそれ自体では、サイバーセキュリティチームにとって有用な情報をもたらさない可能性があります」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「例えば、サイバー犯罪者は、「機密だが未分類の情報」というフレーズを含むドキュメントのファイル検索を実行できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
-  - 「ネットで「消費税 軽減税率」と検索するのが「本を1冊だけ引っ張ってくる」行為なら、OSINTは「関連する通達・Q&A・他自治体の運用事例・国会答弁を横断的に集めて、自庁の規則と照らし合わせる」行為です」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「【ケース①：消費税の経過措置、あなたの自治体は正しく運用できていますか？】」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「site:example.gov “company name” filetype: pdf」（https://aofirs.org/articles/osint-open-source-intelligence）
+  - 「For example, a web archive is appropriate when the research question concerns an older version of a webpage. A mapping platform is appropriate when you need to examine geographic context. A metadata tool may be useful when an original media file is lawfully available.」（https://aofirs.org/articles/osint-open-source-intelligence）
 - 検索結果の抜粋：
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — ユーザー名調査 Username 19件 公開されているユーザー名情報を調べるためのOSINTツールをまとめています。 Webでユーザー名を横断検索。 ユーザー名を複数サイトで横断検索（要ローカル導入）。 ユーザー名を複数サイトで横断検索（要ローカル導入）。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (OSINT) - Global Strategic Business ...GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of ...OSINT Methodology: How Open Source Intelligence WorksTop 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights B」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
@@ -6115,11 +6115,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -9682,9 +9682,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順
@@ -11541,6 +11541,11 @@
   - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11552,7 +11557,11 @@
   - 「近年はコンプライアンス意識の高まりから、取引先や金融機関が決算公告の実施を確認するケースも増えています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法

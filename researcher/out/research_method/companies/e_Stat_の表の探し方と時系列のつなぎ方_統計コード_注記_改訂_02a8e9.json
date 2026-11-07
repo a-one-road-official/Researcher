@@ -9,31 +9,11 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-07T17:10:54.589117+00:00",
+ "researched_at": "2026-11-07T22:28:36.195938+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/ryuyan/n/n1026798f3821",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/epolicy_actvst/n/n663f8cb1ab27",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/joyous_poppy3578/n/ndbd1ef21754c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "status": "ok",
-    "method": "browser"
-   },
    {
     "url": "https://note.com/s_v_s/n/n9d6328633b83",
     "status": "ok",
@@ -45,42 +25,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/database",
+    "url": "https://note.com/tabino4ori/n/n196bd379345c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/usageguide",
+    "url": "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/news/20201225",
+    "url": "https://note.com/arima_planning/n/n851c719dc777",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yukionoguchi/n/n72456a1984f8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/help/dbview-3-3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://icu-hsuzuki.github.io/ds4aj/estat-site.html",
+    "url": "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
     "status": "ok",
     "method": "http"
    },
@@ -90,12 +50,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.research-skills.com/articles/estat-howto/",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.research-skills.com/articles/estat-howto/",
     "status": "ok",
     "method": "http"
    },
@@ -105,59 +70,44 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=0&toukei=00200524&tstat=000000090001&tclass1=000000090004&stat_infid=000032256281",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00202002",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dx-cancam.com/datascience/e-stat/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kkr.mlit.go.jp/plan/pt/data/pdf/e-stat_manual.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.e-stat.go.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://docs.cloud.google.com/bigquery/docs/working-with-time-series?hl=ja",
+    "url": "https://dashboard.e-stat.go.jp/timeSeries?fieldCode=02",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.princeton.edu/time_series_basics",
+    "url": "https://www.e-stat.go.jp/en",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html",
+    "url": "https://www.e-stat.go.jp/en/stat-search/database",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://docs.databricks.com/aws/en/machine-learning/feature-store/time-series",
+    "url": "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_s050_en",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
+    "url": "https://www.stat.go.jp/english/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/en-us/azure/databricks/machine-learning/feature-store/time-series",
+    "url": "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.stata.com/manuals17/ts.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -165,131 +115,106 @@
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） site:note.com",
    "results": [
-    "https://note.com/ryuyan/n/n1026798f3821",
-    "https://note.com/epolicy_actvst/n/n663f8cb1ab27",
-    "https://note.com/joyous_poppy3578/n/ndbd1ef21754c",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
     "https://note.com/s_v_s/n/n9d6328633b83",
     "https://note.com/stats47/n/n7e4572d23a1b",
-    "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
     "https://note.com/tabino4ori/n/n196bd379345c",
+    "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
     "https://note.com/arima_planning/n/n851c719dc777",
-    "https://note.com/agile_kudu7242/n/n74b6b1f1a00c"
+    "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
+    "https://note.com/stats47/n/n914ee28ff773"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） note",
    "results": [
-    "https://www.e-stat.go.jp/stat-search/database",
-    "https://www.e-stat.go.jp/usageguide",
-    "https://www.youtube.com/watch?v=OgiDIK8jqJM",
-    "https://www.e-stat.go.jp/news/20201225",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://note.com/yukionoguchi/n/n72456a1984f8",
-    "https://www.e-stat.go.jp/stat-search/files?kikan=00550",
     "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "https://www.research-skills.com/articles/estat-howto/",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://www.e-stat.go.jp/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） やり方",
    "results": [
-    "https://www.e-stat.go.jp/usageguide",
-    "https://www.e-stat.go.jp/help/dbview-3-3",
-    "https://www.youtube.com/watch?v=OgiDIK8jqJM",
-    "https://www.e-stat.go.jp/news/20201225",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://icu-hsuzuki.github.io/ds4aj/estat-site.html",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
+    "https://blog.kurashiq.com/estat-first-search-guide/",
     "https://www.research-skills.com/articles/estat-howto/",
-    "https://blog.kurashiq.com/estat-first-search-guide/"
+    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://www.e-stat.go.jp/",
+    "https://dashboard.e-stat.go.jp/timeSeries?fieldCode=02"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） 事例",
    "results": [
-    "https://www.e-stat.go.jp/usageguide",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=0&toukei=00200524&tstat=000000090001&tclass1=000000090004&stat_infid=000032256281",
-    "https://www.youtube.com/watch?v=OgiDIK8jqJM",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://www.e-stat.go.jp/news/20201225",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00202002",
-    "https://dx-cancam.com/datascience/e-stat/",
-    "https://www.research-skills.com/articles/estat-howto/"
+    "https://www.research-skills.com/articles/estat-howto/",
+    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://www.e-stat.go.jp/",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://dashboard.e-stat.go.jp/timeSeries?fieldCode=02"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "e-Stat table search statistics code time series join notes",
    "results": [
-    "https://docs.cloud.google.com/bigquery/docs/working-with-time-series",
-    "https://libguides.princeton.edu/time_series_basics",
-    "https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html",
-    "https://docs.databricks.com/aws/en/machine-learning/feature-store/time-series",
-    "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
-    "https://learn.microsoft.com/en-us/azure/databricks/machine-learning/feature-store/time-series",
-    "https://www.snowflake.com/en/developers/guides/getting-started-with-time-series-using-snowflake-streaming-sis-ml-notebooks/",
-    "https://www.mongodb.com/resources/basics/time-series-data-analysis",
-    "https://www.datacamp.com/tutorial/time-series-analysis-tutorial",
-    "https://www.e-stat.go.jp/en"
+    "https://www.e-stat.go.jp/en",
+    "https://www.e-stat.go.jp/en/stat-search/database",
+    "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_s050_en",
+    "https://www.stat.go.jp/english/",
+    "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
+    "https://www.stata.com/manuals17/ts.pdf",
+    "http://econ.queensu.ca/faculty/gregory/econ452/manual.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）",
    "results": [
-    "https://note.com/ryuyan/n/n1026798f3821",
-    "https://note.com/epolicy_actvst/n/n663f8cb1ab27",
-    "https://note.com/joyous_poppy3578/n/ndbd1ef21754c",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/stats47/n/n7e4572d23a1b",
     "https://note.com/s_v_s/n/n9d6328633b83",
+    "https://note.com/stats47/n/n7e4572d23a1b",
     "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
     "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/arima_planning/n/n851c719dc777",
-    "https://note.com/stats47/n/n914ee28ff773"
+    "https://note.com/stats47/n/n914ee28ff773",
+    "https://note.com/stats47/n/n0bd95dda8588"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
    "query": "site:x.com e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）",
    "results": [
     "https://x.com/kotsudokan/status/2083191642081710193",
-    "https://jf.x.com/images/media-preview/2106149839704625475",
-    "https://x.com/chanryo_eff/status/1764128563794526209",
+    "https://jf.x.com/images/media-preview/2107586100512370742",
     "https://x.com/pengoo_writer/status/2025207882195849475",
+    "https://x.com/chanryo_eff/status/1764128563794526209",
     "https://x.com/kotsudokan/status/2083191644028121446",
     "https://x.com/chanryo_eff/status/1724900077389381956",
     "https://x.com/boingojp/status/2108116218796282119"
@@ -307,8 +232,8 @@
     "https://jp.linkedin.com/pulse/linkedin検索を攻略人企業投稿の効率的な探し方とコツを整理-嘉一-中島-h75hc",
     "https://jp.linkedin.com/pulse/intro-time-series-analysis-thu-m-pham-qx8rc?tl=ja",
     "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
-    "https://jp.linkedin.com/pulse/time-series-forecasting-decomposition-practical-kalyan-sarvepalli-p6bic?tl=ja"
+    "https://jp.linkedin.com/pulse/time-series-forecasting-decomposition-practical-kalyan-sarvepalli-p6bic?tl=ja",
+    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -334,72 +259,60 @@
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） note 社長",
    "results": [
-    "https://www.e-stat.go.jp/stat-search/database",
-    "https://www.e-stat.go.jp/usageguide",
-    "https://www.youtube.com/watch?v=OgiDIK8jqJM",
-    "https://www.e-stat.go.jp/news/20201225",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://note.com/yukionoguchi/n/n72456a1984f8",
-    "https://www.soumu.go.jp/main_content/001093339.pdf",
-    "https://icu-hsuzuki.github.io/ds4aj/estat-site.html",
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
+    "https://note.com/s_v_s/n/n9d6328633b83",
+    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://www.research-skills.com/articles/estat-howto/",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://www.e-stat.go.jp/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂） X 投稿",
    "results": [
-    "https://www.e-stat.go.jp/stat-search/database",
-    "https://www.e-stat.go.jp/usageguide",
-    "https://www.youtube.com/watch?v=39NW-vGtA5k",
-    "https://www.e-stat.go.jp/classifications/terms",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.e-stat.go.jp/help/news/whats-new-4-1",
-    "https://icu-hsuzuki.github.io/ds4aj/estat-site.html",
-    "https://www.youtube.com/watch?v=OgiDIK8jqJM",
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
+    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://www.research-skills.com/articles/estat-howto/",
+    "https://www.e-stat.go.jp/",
+    "https://www.e-stat.go.jp/help/operation",
+    "https://dashboard.e-stat.go.jp/timeSeries?fieldCode=02"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "e-Stat table search statistics code time series join notes site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/mike-e-angelo_dailydeveloper-status-buildinginpublic-activity-7508058114575769601-GN-8",
-    "https://www.linkedin.com/top-content/technology/data-analysis-and-decision-making/how-to-analyze-technical-data-for-decisions/",
-    "https://www.linkedin.com/in/rfquigley",
-    "https://www.linkedin.com/pulse/complete-guide-learning-data-analytics-100-days-brittany-city",
-    "https://www.linkedin.com/posts/dasimic_there-are-3-months-left-before-2026-endsif-activity-7511511147800440834-AG0z",
-    "https://www.linkedin.com/in/daniel-walker-0837511a1",
-    "https://in.linkedin.com/in/sda23",
-    "https://www.linkedin.com/in/tk-li",
-    "https://www.linkedin.com/top-content/technology/data-analysis-and-decision-making/key-elements-of-data-analysis/",
-    "https://www.linkedin.com/in/harsh-sindhwa"
+    "https://www.linkedin.com/pulse/how-join-two-time-series-when-timestamps-dont-match-marco-gessner",
+    "https://www.linkedin.com/pulse/quick-dirty-demo-using-esql-lookup-join-combine-two-indices-calizo-gofec",
+    "https://in.linkedin.com/company/stat-search-analytics",
+    "https://www.linkedin.com/pulse/sql-series-part-15advanced-join-techniques-datavizon-ryesc",
+    "https://www.linkedin.com/pulse/asof-join-optimization-lever-time-series-petabyte-ahmed-cheriat-phd-lg2ne",
+    "https://www.linkedin.com/pulse/exploring-asof-join-revolutionizing-time-series-data-analysis-morton-j8zec",
+    "https://my.linkedin.com/pulse/top-100-most-interviewed-advanced-sql-developer-interview-islam-jqbpc?tl=ms"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ29頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）",
-  "実例": "記載なし（読んだ29頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ19頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）",
+  "実例": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-06T04:38:30.487242+00:00"
 }
