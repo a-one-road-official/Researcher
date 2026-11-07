@@ -467,6 +467,7 @@
   - 「https://www.jil.go.jp/institute/siryo/2022/documents/0257.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
 - 失敗・落とし穴：
   - 「「プロジェクト成功時のボーナスはほぼなく、失敗時のみ給与が下がる」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「: Ensuring the reliability and validity of the data collected can be challenging. Poorly designed research methods can lead to biased or inaccurate data.」（https://www.verifiedmarketresearch.com/marketresearchglossary/primary-research/）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1404）
   - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1404）
   - 「オンラインインターンシップの対策オンラインのインターンシップへの参加にあたっての対策や注意点を紹介しています」（https://unistyleinc.com/techniques/1404）
@@ -480,7 +481,6 @@
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1404）
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1404）
   - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1404）
-  - 「経験に根差していれば何でもいいわけではないので注意が必要です」（https://unistyleinc.com/techniques/1404）
 - 実例：
   - 「記事の内容やAIの分析結果・推論に対するご意見・ご指摘・ご要望はお受けしておりません」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「面接日程の調整術・ES締切後の対処法・X就活垢の活用法・時短の志望動機作成術など、時間がない中で納得のいく結果を出すための実践集です」（https://note.com/aruaruteitei/n/n5a56033bc157）
@@ -501,6 +501,7 @@
   - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
   - 「Industry Analysis - Top 3 Methods to Assess and Analyze an ...Primary, Secondary, and Tertiary Sources in Business Research ...Industry Analysis: Definition, Framework, and Worked ExamplePrimary Market Research: Methods, Examples & Advantages | AMC ...Primary Research in the context of Market Research Industry - VMR — There are three commonly used and important methods of performing industry analy」（https://corporatefinanceinstitute.com/resources/management/industry-analysis-methods/）
+  - 「Industry Analysis - Top 3 Methods to Assess and Analyze an ...Primary Market Research: Methods, Examples & Advantages | AMC ...Primary, Secondary, and Tertiary Sources in Business Research ...Primary Research in the context of Market Research Industry - VMRPrimary vs Secondary Research: Differences, Methods, Sources ... — There are three commonly used and important methods of performing industry a」（https://corporatefinanceinstitute.com/resources/management/industry-analysis-methods/）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。 大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある落とし穴も紹介します。」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
 
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
@@ -4714,51 +4715,57 @@
 ## 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）（entity matching key profiling missing rate composite key false merge）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「マッチングキーの設計方法：何をキーにすれば同一判定できるか」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「ECサイト・商品データの場合：JANコード・型番・会員IDの活用」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「類似度マッチング型：スコアで同一性を判定する方式」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「AI・機械学習型：学習データから判定モデルを構築する方式」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「また、既存データを自動で上書きしない方法もあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：ロールバックの方法と、担当者研修の準備」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「あわせて、安全な提供方法と検証用サンプルを準備します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.」（https://matchlogic.io/resources/data-matching-guide）
 - 突き合わせ・推定：
+  - 「データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「完全一致、ルール一致、あいまい一致の判定を検証します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「業務担当者が正解ラベルを付け、結果と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「実際の料金は、必ず提案書の前提条件と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「あわせて、安全な提供方法と検証用サンプルを準備します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「さらに、開発・検証・本番の分離や保持期限を確認します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「Machine learning matching trains classification models on labeled pairs to learn patterns that rule-based methods miss, incorporating many features at once: string similarities, numerical distances, pattern recognition, and behavioral signals. Once trained, the model scores new pairs with a probability estimate.」（https://matchlogic.io/resources/data-matching-guide）
   - 「「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「更新日時、入力経路、活動履歴を並べ、矛盾しない値は統合し、矛盾する値はデータオーナーの判断へ回すルールに分けます」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
-  - 「表示用の正式名称と、照合に使う正規化済みの値は分けて持つと運用しやすくなります」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
-  - 「重複の発生源がフォームなら入力項目を見直し、CSVインポートなら照合キーとマッピングを修正し、手動入力なら必須項目とヘルプテキストを調整します」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
-  - 「結果が変わらなければ、発生源の仮説を見直し、別の入力経路や更新処理を調べます」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
 - 一次情報の探し方：
+  - 「：統合後に、どのレコードの値を採用するかの取り決め」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「代表レコードは、項目ごとに採用基準を決めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「Step 1: Data Preparation and Profiling」（https://matchlogic.io/resources/data-matching-guide）
+  - 「MatchLogic Data Profiling Dashboard」（https://matchlogic.io/resources/data-matching-guide）
+  - 「MatchLogic's profiling engine scans millions of records in seconds, revealing completeness scores, format chaos, and duplicate risk before any matching rules are configured.」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Start with Data Profiling, Not Matching」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Profiling exposed missing data and format chaos before matching began」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Data matching is not a feature checkbox; it is an ongoing discipline that determines the quality of every downstream data process. The four technique families each serve specific data conditions, and the most effective implementations combine them in hybrid workflows, with the pipeline from profiling through merging refined over decades of research and practice.」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Getting each stage right takes investment in profiling, ground-truth labeling, threshold tuning, and ongoing monitoring.」（https://matchlogic.io/resources/data-matching-guide）
   - 「法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「判断基準を管理し、例外が出たときにどのルールを採用するかを決め、次回の監査へ反映する役割です」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
   - 「Step 1: Profiling Join Keys Before You Merge」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
   - 「the merge. A few minutes of profiling prevents hours of debugging.」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「This is related to a broader practice of profiling datasets before you work with them, which is covered in depth in」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「Validating and Profiling a New Dataset with pandas」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「Sampling for key profiling:」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「# For a 10M row DataFrame, sample 100K rows for key profiling」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「Profiling Entity Matching Benchmark Tasks」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
-  - 「define a set of profiling dimensions which capture central aspects」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
-  - 「download. By profiling and complementing the benchmark tasks,」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
-  - 「entity matching; benchmarking; profiling; reproducibility; baseline」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
-  - 「Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Bench-」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
 - 失敗・落とし穴：
+  - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「The most common mistake is jumping to algorithm configuration without understanding the data. Profile every source to identify completeness rates, format patterns, and duplicate distributions, because this step takes days while skipping it costs weeks of rework.」（https://matchlogic.io/resources/data-matching-guide）
   - 「本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
@@ -4771,8 +4778,14 @@
   - 「人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
   - 「入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
   - 「Common Mistakes & Troubleshooting」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
-  - 「matching pairs within each block. To avoid selection bias, we add」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
 - 実例：
+  - 「業務担当者が正解ラベルを付け、結果と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「12〜24か月以上のケースがあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「特に、データ調査と、名寄せ結果を各システムに戻す連携では、工数が増えやすくなります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.」（https://matchlogic.io/resources/data-matching-guide）
+  - 「to link records across tax, benefits, health, and housing departments to detect fraud, ensure benefits reach eligible recipients, and improve service delivery. The Operation Safe Pilot case, which matched about 40,000 Northern California pilot records against Social Security disability records, remains a classic demonstration of cross-agency linkage.」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Smaller datasets, proofs of concept, non-regulated use cases.」（https://matchlogic.io/resources/data-matching-guide）
+  - 「Precision (the share of declared matches that are correct) and recall (the share of true matches found) are both critical, and the F1 score balances them. For most enterprise use cases, target an F1 above 0.95 and monitor it over time as volumes and sources change.」（https://matchlogic.io/resources/data-matching-guide）
   - 「名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「判定ルールとは、キー同士の比較結果をどの条件で「同一」と見なすかを定義するものです」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「以下では、企業データ・個人データ・ECデータの3つのケース別に、推奨キーと複合キーの組み合わせ方を整理します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
@@ -4781,13 +4794,6 @@
   - 「会員データの統合では、実店舗とECサイトで会員IDが別々に管理されているケースが多く見られます」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「棚卸しの結果として、「このシステムには法人番号が存在しないため複合キーを使う」「メールアドレスの欠損率が高いため電話番号を補助キーにする」といった判断が具体的にできるようになります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「この段階を省略して実装に進むと、後工程で設計の見直しが必要になるケースが多いため、丁寧に進めることが重要です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「顧客データが複数のシステムに分散していて集約に手間がかかっているケースや、社内に分析専門家がおらずデータ活用の進め方に迷っているケースでは、導入支援チームによる要件定義と運用支援チームによる伴走サポートが整っている点も、選定時の判断材料になります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「たとえば、同じビルに入居する別会社が「企業名の一部＋住所」の複合キーで同一と判定されたり、類似した名前の別人が氏名だけで統合されたりするケースが該当します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「食品のAI需要予測で食品ロス削減と欠品防止を両立する方法｜導入事例と5つの実践ポイント」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
-  - 「Linking similar records always involves uncertainty. The real question is where errors are acceptable. Different use cases tolerate different risks, but many linkage implementations fail because this distinction is never made explicit.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
-  - 「it is often safer to preserve uncertainty and route ambiguous cases for review than to force a match that cannot be defended later.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
-  - 「Deterministic matching relies on predefined rules, such as exact matches on one or more fields. For example, ‘match records where email addresses are identical,’ or ‘where name and date of birth matches exactly.’ In practice, many deterministic implementations use hierarchical or rules-priority matching, where high-confidence rules are evaluated first before broader criteria are applied.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
 
 ## 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）（central bank working paper labor productivity measurement part-time mergers reallocation decomposition）
 - 文脈：推定
@@ -5296,11 +5302,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -6179,12 +6185,12 @@
   - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
-  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Central Bureau of Statistics (Israel) (nd). Seasonal adjustment (PDF, 530kb). Accessed 7」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「seasonal adjustment (PDF, 615kb). Accessed 7 February 2014, available from」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「Linde, P (Statistics Denmark) (2005). Seasonal adjustment (PDF, 688kb). Accessed 7」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「Wroblewski, M (2010). Seasonal adjustment diagnostics: Census Bureau guideline (PDF,」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「statistics institutes (PDF, 399kb). Estudios de Economia Aplicada, 28(3), 607–23.」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「version 3.1 (PDF, 2.47mb). Accessed 7 February 2014, available from」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
 - 失敗・落とし穴：
   - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -6194,13 +6200,13 @@
   - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
-  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「mean of the revision series is biased (ie where the final estimate is consistently under- or」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「over-estimated) then this undesirable bias should be accounted for in the test statistic. In」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「To verify that Levene’s test was not affected by underlying bias in any of the series, we」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「We found no statistically significant bias in any of the 15 series we analysed.」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「A modified Levene’s test – for cases where there is a statistically significant bias – is」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「undesirable bias or consistent over- or under-estimation of the final estimate. So for」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
+  - 「include the undesirable bias. Let us define the mean of the absolute deviations of」（https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download）
 - 実例：
   - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
@@ -9595,7 +9601,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -9618,9 +9624,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順

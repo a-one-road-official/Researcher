@@ -8,8 +8,184 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-07T11:12:54.895691+00:00",
+ "researched_at": "2026-11-07T16:32:35.557580+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mean of the revision series is biased (ie where the final estimate is consistently under- or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "over-estimated) then this undesirable bias should be accounted for in the test statistic. In",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To verify that Levene’s test was not affected by underlying bias in any of the series, we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We found no statistically significant bias in any of the 15 series we analysed.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified Levene’s test – for cases where there is a statistically significant bias – is",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "undesirable bias or consistent over- or under-estimation of the final estimate. So for",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "include the undesirable bias. Let us define the mean of the absolute deviations of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
@@ -192,6 +368,72 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "methodologies, or recommendations. Any data analysis was carried out under the security",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4 Methods: Using Levene’s test for equality of variances ........................................... 6",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Appendix 1: Methodology – Strategy for measuring the size of revisions ................ 13",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Here is a summary of our methodology and results.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4 Methods: Using Levene’s test for equality of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "difference between the variances of two distributions. This method can robustly deal with",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat (2009). Eurostat methodologies and working papers: ESS guidelines on",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hungarian Central Statistical Office (2007). Seasonal adjustment: Methods and practices",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ONS (nd). Methodology of the monthly Index of Services: Seasonal adjustment (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Unpublished document, Collection and Statistical Methodologies DocONE library",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Appendix 1: Methodology for measuring the size of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
@@ -306,140 +548,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be of limited use (also called “average bias”).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
@@ -492,6 +600,54 @@
    {
     "quote": "• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf",
     "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Central Bureau of Statistics (Israel) (nd). Seasonal adjustment (PDF, 530kb). Accessed 7",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "seasonal adjustment (PDF, 615kb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Linde, P (Statistics Denmark) (2005). Seasonal adjustment (PDF, 688kb). Accessed 7",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Wroblewski, M (2010). Seasonal adjustment diagnostics: Census Bureau guideline (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "statistics institutes (PDF, 399kb). Estudios de Economia Aplicada, 28(3), 607–23.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "version 3.1 (PDF, 2.47mb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "reporting manual (PDF, 522kb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ONS (nd). Methodology of the monthly Index of Services: Seasonal adjustment (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -752,6 +908,96 @@
    {
     "quote": "quality of provisional estimates or flash estimates has to be assessed",
     "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• For greater stability in revisions in Statistics NZ’s official estimates, we recommend",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "with either the trend or the seasonally adjusted series as the official estimate for our time",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "emphasise when we report on estimates in our media and information releases. The lead",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What we have left can be considered the ‘true’ final estimates. These ‘true’ estimates",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mean we can be confident in our revision estimates. For more information about how we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "considered homogenous. A total revision is the revision of each estimate from when we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "first published it to what the estimate is currently – when the series has stabilised.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mean of the revision series is biased (ie where the final estimate is consistently under- or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "over-estimated) then this undesirable bias should be accounted for in the test statistic. In",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "point problem refers to trend estimates being more volatile (ie highly variable, or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "τY .1 As we add each new time series point to ,PTτZ the estimates",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revised estimates for",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2 Each new input data point ,1PTtz+ that is added to the vector ,PTτZ will affect the estimates of the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "lengths and are symmetric in time. The filters used to estimate",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thus, in practice, we should get convergence in estimates of total revisions within *3P",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -1262,6 +1508,48 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "adjusted and trend series in our case), as it has greater power and efficiency.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is important to note that there are cases where Levene’s test will not perform well. If the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "this case, a revised Levene’s test statistic should be used. For more information and the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "intermediate goods (Intgoods) series as an example in the remainder of the results",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified Levene’s test – for cases where there is a statistically significant bias – is",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ty τ . In our case, the transformation function .FSA Pτ will",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "applied. Unfortunately, in the case of revisions, the mean of the revisions represents an",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "example, a user may be interested in studying revision between first published data and",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
@@ -1345,17 +1633,17 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/vast_cosmos500/n/n0392fc734e94",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/momoen_de/n/n16ca1590879c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
+    "url": "https://note.com/uminomieruheya/n/nf38fa7d953a7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/ndbee20392934",
     "status": "ok",
     "method": "http"
    },
@@ -1365,7 +1653,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/mao114514/n/n6c32b75f5486",
+    "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
     "status": "ok",
     "method": "http"
    },
@@ -1375,42 +1668,27 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rd_analytics_hub/n/n71a2ff63fec9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/akiyama924/n/n80fa21555400",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/e_dao/n/n4a89d35ed368",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mnakao.net/data/statistics1.pdf",
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/45-2-181.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://bellcurve.jp/statistics/course/26159.html",
+    "url": "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.statweb.jp/method",
+    "url": "https://qiita.com/molecular_pool/items/7b0170cede76bec771a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tasuto11/n/n274220876f4a",
     "status": "ok",
     "method": "http"
    },
@@ -1420,34 +1698,39 @@
     "method": "http"
    },
    {
-    "url": "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_06.pdf",
+    "url": "http://hs-www.hyogo-dai.ac.jp/~kawano/HStat/?plugin=cssj&page=2009%2F13th%2FSign_Test",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.saecanet.com/2025/07/r%E3%81%A7%E7%AC%A6%E5%8F%B7%E6%A4%9C%E5%AE%9A/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tokyo-tosho.co.jp/02426/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "url": "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukeigaku-jouhou.info/2018/12/16/sign-test-table/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/260",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-viz-lab.com/statistical-data-cleansing",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
@@ -1455,24 +1738,24 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "url": "https://cr-cres.jp/cresight/it-dx/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95%E3%82%92%E7%B5%8C%E5%96%B6%E5%88%A4%E6%96%AD%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%EF%BC%9A%E4%B8%BB%E8%A6%81%E6%89%8B%E6%B3%95%E3%81%A8/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_03.pdf",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.mhlw.go.jp/stf/newpage_67518.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/discussion/2008/documetns/08-02.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
@@ -1485,12 +1768,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.amstat.org/docs/default-source/files/pdfs/cos-asa-revisions-economic-indicators.pdf",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/edition-8/chapter-24-quality-national-accounts/revisions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
     "status": "ok",
     "method": "pdf"
    }
@@ -1500,60 +1788,60 @@
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） site:note.com",
    "results": [
-    "https://note.com/vast_cosmos500/n/n0392fc734e94",
     "https://note.com/momoen_de/n/n16ca1590879c",
-    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
-    "https://note.com/e_dao/n/n66df0213c7f2",
-    "https://note.com/mao114514/n/n6c32b75f5486",
-    "https://note.com/reading_monkey/n/nad4589381f56",
     "https://note.com/uminomieruheya/n/nf38fa7d953a7",
-    "https://note.com/jun8888888/n/n671b79694bb7",
     "https://note.com/reading_monkey/n/ndbee20392934",
-    "https://note.com/bizgram/n/n9a587c22ec50"
+    "https://note.com/e_dao/n/n66df0213c7f2",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/reading_monkey/n/nad4589381f56",
+    "https://note.com/crypvo/n/nfe27fdc81948",
+    "https://note.com/calm_jacana8846/n/n9fb4d062f970",
+    "https://note.com/omanyuk/n/n6c9b8885a7b9"
    ]
   },
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） note",
    "results": [
-    "https://note.com/rd_analytics_hub/n/n71a2ff63fec9",
-    "https://note.com/akiyama924/n/n80fa21555400",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://note.com/e_dao/n/n4a89d35ed368",
-    "https://mnakao.net/data/statistics1.pdf",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://bellcurve.jp/statistics/course/12933.html",
-    "https://www.lifescience.co.jp/yk/ronbun.pdf",
-    "https://note.com/paguinu/n/n8f522394d90d",
-    "https://qiita.com/molecular_pool/items/7b0170cede76bec771a1"
+    "https://note.com/momoen_de/n/n16ca1590879c",
+    "https://note.com/reading_monkey/n/nad4589381f56",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/45-2-181.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
+    "https://qiita.com/molecular_pool/items/7b0170cede76bec771a1",
+    "https://note.com/tasuto11/n/n274220876f4a",
+    "https://note.com/tasuto11/n/n42eb4fb307e6",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196"
    ]
   },
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） やり方",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://bellcurve.jp/statistics/course/26159.html",
-    "https://www.statweb.jp/method",
     "https://toukeigaku-jouhou.info/2018/12/16/sign-test/",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_06.pdf",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.saecanet.com/2025/07/r%E3%81%A7%E7%AC%A6%E5%8F%B7%E6%A4%9C%E5%AE%9A/",
-    "https://rnpsychology.org/lecture/papermanual_stat.pdf",
-    "https://note.com/rd_analytics_hub/n/n71a2ff63fec9"
+    "http://hs-www.hyogo-dai.ac.jp/~kawano/HStat/?plugin=cssj&page=2009%2F13th%2FSign_Test",
+    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
+    "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
+    "https://toukeigaku-jouhou.info/2018/12/16/sign-test-table/",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/260",
+    "https://www.biostat4869.com/%E7%B5%B1%E8%A8%88%E6%A4%9C%E5%AE%9A%E6%BA%961%E7%B4%9A%E3%80%8C%E3%83%8E%E3%83%B3%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%B3%95%E3%80%8D%E6%94%BB%E7%95%A5-%E2%80%95/",
+    "https://note.com/rd_analytics_hub/n/n71a2ff63fec9",
+    "https://kikakurui.com/z9/Z9041-2-1999-01.html",
+    "https://www.statweb.jp/method"
    ]
   },
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） 事例",
    "results": [
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
+    "https://data-viz-lab.com/statistical-data-cleansing",
     "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_03.pdf",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/45-2-181.pdf",
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
+    "https://cr-cres.jp/cresight/it-dx/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95%E3%82%92%E7%B5%8C%E5%96%B6%E5%88%A4%E6%96%AD%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%EF%BC%9A%E4%B8%BB%E8%A6%81%E6%89%8B%E6%B3%95%E3%81%A8/",
+    "https://www.mhlw.go.jp/stf/newpage_67518.html",
     "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
+    "https://www.jil.go.jp/institute/discussion/2008/documetns/08-02.pdf",
+    "https://www.actuaries.jp/lib/annual/pdf/2014-D-02.pdf",
+    "https://www.soumu.go.jp/main_content/000422928.pdf",
     "https://note.com/rd_analytics_hub/n/n71a2ff63fec9"
    ]
   },
@@ -1561,56 +1849,56 @@
    "query": "revision analysis official statistics mean revision mean absolute revision",
    "results": [
     "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
     "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "https://www.amstat.org/docs/default-source/files/pdfs/cos-asa-revisions-economic-indicators.pdf",
+    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/edition-8/chapter-24-quality-national-accounts/revisions",
+    "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/8c/8c4af1d35804845949eb309f8b76d4ca4b04174c8209022a18faf9f1cc721f47.pdf",
+    "https://docs.ropensci.org/reviser/reference/get_revision_analysis.html",
     "https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product",
-    "https://stats.je/revisions-policy/",
-    "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
     "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html"
    ]
   },
   {
    "query": "site:note.com 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）",
    "results": [
-    "https://note.com/vast_cosmos500/n/n0392fc734e94",
-    "https://note.com/momoen_de/n/n16ca1590879c",
-    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
-    "https://note.com/e_dao/n/n66df0213c7f2",
-    "https://note.com/mao114514/n/n6c32b75f5486",
-    "https://note.com/reading_monkey/n/nad4589381f56",
-    "https://note.com/uminomieruheya/n/nf38fa7d953a7",
     "https://note.com/reading_monkey/n/ndbee20392934",
-    "https://note.com/jun8888888/n/n671b79694bb7",
-    "https://note.com/bizgram/n/n9a587c22ec50"
+    "https://note.com/momoen_de/n/n16ca1590879c",
+    "https://note.com/uminomieruheya/n/nf38fa7d953a7",
+    "https://note.com/e_dao/n/n66df0213c7f2",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/reading_monkey/n/nad4589381f56",
+    "https://note.com/crypvo/n/nfe27fdc81948",
+    "https://note.com/mao114514/n/n6c32b75f5486",
+    "https://note.com/kokastar/n/n34eba161aef1"
    ]
   },
   {
    "query": "site:x.com 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）",
    "results": [
-    "https://x.com/developer_quant/status/1325073624831721473",
+    "https://x.com/developer_quant/status/1342459369347194884?ref_src=twsrc%5Etfw",
     "https://x.com/desireblood641/status/2081873013415506122",
     "https://x.com/gkt_phd/status/2069425239407415446",
     "https://x.com/smo_yutohisano/status/2075165578747342927",
-    "https://x.com/genkuroki/status/1754419136179130644",
+    "https://x.com/Logics_of_Blue/status/2043199544788504990",
     "https://x.com/genkuroki/status/1260402105841410050",
-    "https://x.com/stern_bow/status/2084112861882921342",
-    "https://x.com/nananairu7/status/2074096861515063569"
+    "https://x.com/genkuroki/status/1754419136179130644",
+    "https://x.com/stern_bow/status/2084112861882921342"
    ]
   },
   {
    "query": "site:linkedin.com 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）",
    "results": [
     "https://jp.linkedin.com/in/hidenori-kasajima-34910060",
-    "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-dr-shantanu-kumar-huisf?tl=ja",
     "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-varsigma-sjizf?tl=ja",
+    "https://jp.linkedin.com/pulse/demystifying-hypothesis-testing-averages-means-dr-shantanu-kumar-huisf?tl=ja",
     "https://jp.linkedin.com/learning/six-sigma-green-belt-4/2887047",
     "https://jp.linkedin.com/learning/statistics-foundations-4-advanced-topics-24606376/3980537",
     "https://jp.linkedin.com/pulse/applying-basic-analytics-methods-2-statistical-tests-nagumothu-dulic?tl=ja",
     "https://jp.linkedin.com/pulse/making-sense-stats-when-do-you-use-t-test-z-test-anova-jauhari-aiwlc?tl=ja",
-    "https://jp.linkedin.com/posts/datascience222_平均値の差の効果量の検定-activity-7234070134926008320-ZIEO"
+    "https://jp.linkedin.com/posts/minitab-jp_ウェビナー開催7月30日水14時dmaic統計の再発見シリーズ第2弾-activity-7351149381590441986-8wet"
    ]
   },
   {
@@ -1628,30 +1916,27 @@
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） note 社長",
    "results": [
-    "https://note.com/rd_analytics_hub/n/n71a2ff63fec9",
-    "https://note.com/paguinu/n/n8f522394d90d",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://note.com/nanto_econ",
-    "https://mnakao.net/data/statistics1.pdf",
-    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
-    "https://note.com/akiyama924/n/n80fa21555400",
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://note.com/tasuto11/n/n274220876f4a"
+    "https://note.com/tasuto11/n/n274220876f4a",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://note.com/tasuto11/n/n42eb4fb307e6",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://shohyoubookreview.com/archives/16373",
+    "https://qiita.com/molecular_pool/items/7b0170cede76bec771a1",
+    "https://www.statweb.jp/method"
    ]
   },
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） X 投稿",
    "results": [
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://www.youtube.com/watch?v=7QmPjJwgeQA",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://logics-of-blue.com/anova-foundation/",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "https://zenn.dev/taiyou/articles/a0324e7cd6d315",
-    "https://rnpsychology.org/lecture/papermanual_stat.pdf",
-    "https://stats.m-sugaya.jp/history.html",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
+    "https://qiita.com/aokikenichi/items/9d829910efd5dff0b79f",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://toketarou.com/books_toukei_jyun1/",
+    "https://www.saa.or.jp/dc/sale/apps/journal/JournalShowDetail.do?goDownload=&itmNo=41464",
+    "https://stat-expert.ism.ac.jp/wp/wp-content/uploads/2024/01/SSE-DP-2024-1-3.pdf",
+    "https://www.biostat4869.com/%E7%B5%B1%E8%A8%88%E6%A4%9C%E5%AE%9A%E6%BA%961%E7%B4%9A%E3%80%8C%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%E3%80%8D%E6%94%BB%E7%95%A5-%E2%80%95-ar-ma-arima%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%A8/",
+    "https://www.biostat4869.com/%E7%B5%B1%E8%A8%88%E6%A4%9C%E5%AE%9A%E6%BA%961%E7%B4%9A%E3%80%8C%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90%E3%80%8D%E6%94%BB%E7%95%A5-%E2%80%95-pca%E3%83%BBmds%E3%83%BB%E6%AD%A3%E6%BA%96%E7%9B%B8/",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/73-1-all.pdf",
     "https://note.com/rd_analytics_hub/n/n71a2ff63fec9"
    ]
   },
@@ -1660,19 +1945,318 @@
    "results": [
     "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-to-interpret-jobs-report-revisions/",
     "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-benchmark-revisions-impact-job-growth-data/",
-    "https://www.linkedin.com/posts/jason-miller-32110325_the-revised-gdp-data-as-expected-showed-activity-7511052868943024128-hAX3",
-    "https://www.linkedin.com/posts/anil-shinde-96b975b8_as-my-ib-mathematics-ai-sl-students-prepare-activity-7460214350088232960-pr4J",
-    "https://www.linkedin.com/pulse/eu-gmp-annex-11-revision-what-industry-said-2025-draft-uday-shetty-tasrf",
-    "https://www.linkedin.com/pulse/aws-ai-practitioner-preparation-last-minute-sheet-hardik-joshi--cqsnc",
-    "https://www.linkedin.com/pulse/eighty-years-unamended-japans-constitution-article-96-habib-al-badawi-i81nf",
+    "https://www.linkedin.com/posts/rishi-raj-6776171a6_difference-between-revision-appeal-activity-7399128863534002176-fmsn",
+    "https://www.linkedin.com/posts/mohamed-rizal-abd-raub-1a9280201_work-breakdown-structure-wbs-in-document-activity-7412673283428560896-qxCC",
     "https://www.linkedin.com/posts/pooja-belwal-7078601a7_csirnet-jrf-lifesciences-activity-7471252488503877632-y3N9",
-    "https://www.linkedin.com/posts/midhamicky_frm-part-1-the-greeks-activity-7517283763807207425-m-mj",
-    "https://ca.linkedin.com/in/gordon-hirons-667458197"
+    "https://uk.linkedin.com/in/williamwadsworth",
+    "https://www.linkedin.com/posts/bangari-vinay-52364b215_is1893-seismicdesign-structuralengineering-activity-7434837188053299201-N3wc",
+    "https://www.linkedin.com/posts/anil-shinde-96b975b8_as-my-ib-mathematics-ai-sl-students-prepare-activity-7460214350088232960-pr4J",
+    "https://www.linkedin.com/posts/bone-joint-health_early-national-comparison-of-robotic-versus-activity-7511337927453536256-GywY",
+    "https://be.linkedin.com/in/albertomuelas"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 8,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "mean of the revision series is biased (ie where the final estimate is consistently under- or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "over-estimated) then this undesirable bias should be accounted for in the test statistic. In",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "To verify that Levene’s test was not affected by underlying bias in any of the series, we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We found no statistically significant bias in any of the 15 series we analysed.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified Levene’s test – for cases where there is a statistically significant bias – is",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "undesirable bias or consistent over- or under-estimation of the final estimate. So for",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "include the undesirable bias. Let us define the mean of the absolute deviations of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "methodologies, or recommendations. Any data analysis was carried out under the security",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4 Methods: Using Levene’s test for equality of variances ........................................... 6",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Appendix 1: Methodology – Strategy for measuring the size of revisions ................ 13",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Here is a summary of our methodology and results.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4 Methods: Using Levene’s test for equality of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "difference between the variances of two distributions. This method can robustly deal with",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat (2009). Eurostat methodologies and working papers: ESS guidelines on",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hungarian Central Statistical Office (2007). Seasonal adjustment: Methods and practices",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ONS (nd). Methodology of the monthly Index of Services: Seasonal adjustment (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Unpublished document, Collection and Statistical Methodologies DocONE library",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Appendix 1: Methodology for measuring the size of",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Central Bureau of Statistics (Israel) (nd). Seasonal adjustment (PDF, 530kb). Accessed 7",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "seasonal adjustment (PDF, 615kb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Linde, P (Statistics Denmark) (2005). Seasonal adjustment (PDF, 688kb). Accessed 7",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Wroblewski, M (2010). Seasonal adjustment diagnostics: Census Bureau guideline (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "statistics institutes (PDF, 399kb). Estudios de Economia Aplicada, 28(3), 607–23.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "version 3.1 (PDF, 2.47mb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "reporting manual (PDF, 522kb). Accessed 7 February 2014, available from",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ONS (nd). Methodology of the monthly Index of Services: Seasonal adjustment (PDF,",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "• For greater stability in revisions in Statistics NZ’s official estimates, we recommend",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "with either the trend or the seasonally adjusted series as the official estimate for our time",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "emphasise when we report on estimates in our media and information releases. The lead",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What we have left can be considered the ‘true’ final estimates. These ‘true’ estimates",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mean we can be confident in our revision estimates. For more information about how we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "considered homogenous. A total revision is the revision of each estimate from when we",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "first published it to what the estimate is currently – when the series has stabilised.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "mean of the revision series is biased (ie where the final estimate is consistently under- or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "over-estimated) then this undesirable bias should be accounted for in the test statistic. In",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "point problem refers to trend estimates being more volatile (ie highly variable, or",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "τY .1 As we add each new time series point to ,PTτZ the estimates",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revised estimates for",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2 Each new input data point ,1PTtz+ that is added to the vector ,PTτZ will affect the estimates of the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "lengths and are symmetric in time. The filters used to estimate",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thus, in practice, we should get convergence in estimates of total revisions within *3P",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "adjusted and trend series in our case), as it has greater power and efficiency.",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is important to note that there are cases where Levene’s test will not perform well. If the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "this case, a revised Levene’s test statistic should be used. For more information and the",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "intermediate goods (Intgoods) series as an example in the remainder of the results",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified Levene’s test – for cases where there is a statistically significant bias – is",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ty τ . In our case, the transformation function .FSA Pτ will",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "applied. Unfortunately, in the case of revisions, the mean of the revisions represents an",
+    "url": "https://statsnz.contentdm.oclc.org/digital/api/collection/p20045coll1/id/2747/download",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 9,
  "first_researched_at": "2026-11-06T02:54:43.056411+00:00"
 }

@@ -8,9 +8,257 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T11:18:01.406177+00:00",
+ "researched_at": "2026-11-07T16:37:48.962865+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most common mistake is jumping to algorithm configuration without understanding the data. Profile every source to identify completeness rates, format patterns, and duplicate distributions, because this step takes days while skipping it costs weeks of rework.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes & Troubleshooting",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "matching pairs within each block. To avoid selection bias, we add",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、既存データを自動で上書きしない方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：ロールバックの方法と、担当者研修の準備",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This technique handles missing data and field-level inconsistencies far better than deterministic methods, and it is the standard approach in healthcare patient matching, government record linkage, and large-scale customer deduplication.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Machine learning matching trains classification models on labeled pairs to learn patterns that rule-based methods miss, incorporating many features at once: string similarities, numerical distances, pattern recognition, and behavioral signals. Once trained, the model scores new pairs with a probability estimate.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 1: Data Preparation and Profiling",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 2: Blocking and Indexing",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 3: Candidate Pair Generation",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 4: Comparison and Scoring",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: Classification and Manual Review",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 6: Merging and Survivorship",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most common mistake is jumping to algorithm configuration without understanding the data. Profile every source to identify completeness rates, format patterns, and duplicate distributions, because this step takes days while skipping it costs weeks of rework.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Think of it as a progression: matching identifies candidate pairs, entity resolution groups those pairs into clusters representing real-world entities, and deduplication applies merge/purge logic to produce clean, non-redundant records. Each step depends on the quality of the step before it.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
@@ -408,87 +656,61 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes & Troubleshooting",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "matching pairs within each block. To avoid selection bias, we add",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
+   {
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 1: Data Preparation and Profiling",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "MatchLogic Data Profiling Dashboard",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "MatchLogic's profiling engine scans millions of records in seconds, revealing completeness scores, format chaos, and duplicate risk before any matching rules are configured.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Start with Data Profiling, Not Matching",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Profiling exposed missing data and format chaos before matching began",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data matching is not a feature checkbox; it is an ongoing discipline that determines the quality of every downstream data process. The four technique families each serve specific data conditions, and the most effective implementations combine them in hybrid workflows, with the pipeline from profiling through merging refined over decades of research and practice.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Getting each stage right takes investment in profiling, ground-truth labeling, threshold tuning, and ongoing monitoring.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
@@ -642,6 +864,90 @@
   ],
   "突き合わせ・推定": [
    {
+    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Machine learning matching trains classification models on labeled pairs to learn patterns that rule-based methods miss, incorporating many features at once: string similarities, numerical distances, pattern recognition, and behavioral signals. Once trained, the model scores new pairs with a probability estimate.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
@@ -715,6 +1021,48 @@
    }
   ],
   "実例": [
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "12〜24か月以上のケースがあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に、データ調査と、名寄せ結果を各システムに戻す連携では、工数が増えやすくなります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to link records across tax, benefits, health, and housing departments to detect fraud, ensure benefits reach eligible recipients, and improve service delivery. The Operation Safe Pilot case, which matched about 40,000 Northern California pilot records against Social Security disability records, remains a classic demonstration of cross-agency linkage.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Smaller datasets, proofs of concept, non-regulated use cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Precision (the share of declared matches that are correct) and recall (the share of true matches found) are both critical, and the F1 score balances them. For most enterprise use cases, target an F1 above 0.95 and monitor it over time as volumes and sources change.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
@@ -1056,22 +1404,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/atstream/n/n4b6dd8a1e381",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/atstream/n/na4971a88118f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
     "status": "ok",
     "method": "http"
    },
@@ -1096,7 +1444,7 @@
     "method": "http"
    },
    {
-    "url": "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "url": "https://www.irwin-and-co.com/articles/master-data-nayose",
     "status": "ok",
     "method": "http"
    },
@@ -1106,12 +1454,22 @@
     "method": "http"
    },
    {
-    "url": "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/",
+    "url": "https://salesnow.jp/media/125/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://salesnow.jp/media/125/",
+    "url": "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/",
     "status": "ok",
     "method": "http"
    },
@@ -1121,32 +1479,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "url": "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dl.acm.org/doi/10.1145/3340531.3412781",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/index.html",
+    "url": "https://easymorph.com/blog/5-most-common-mistakes-in-data-joins",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://neo4j.com/labs/agent-memory/explanation/resolution-deduplication/",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://michaelnocito.github.io/analyst-prep-kit/guides/entity-resolution/",
+    "url": "https://semarchy.com/blog/data-matching-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matchlogic.io/resources/data-matching-guide",
     "status": "ok",
     "method": "http"
    }
@@ -1157,10 +1515,10 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） site:note.com",
    "results": [
     "https://note.com/ai_komon/n/n9b96b57f965c",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
@@ -1172,9 +1530,12 @@
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://www.issoh.co.jp/column/details/18983/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://www.irwin-and-co.com/articles/master-data-nayose",
     "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
-    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
+    "https://salesnow.jp/media/125/",
+    "https://services.connecto-data.com/media/Data-Preparation/a55",
+    "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/",
+    "https://www.ripla.co.jp/blog/system/entity-resolution-process/"
    ]
   },
   {
@@ -1185,7 +1546,7 @@
     "https://www.issoh.co.jp/column/details/18983/",
     "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
-    "https://salesnow.jp/media/125/",
+    "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
     "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
@@ -1194,8 +1555,8 @@
    "results": [
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
-    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "https://www.issoh.co.jp/column/details/18983/",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://ec-rider.net/b2bec/tokuisaki-master-togo/",
     "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
@@ -1204,24 +1565,26 @@
   {
    "query": "entity matching key profiling missing rate composite key false merge",
    "results": [
-    "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "https://dl.acm.org/doi/10.1145/3340531.3412781",
-    "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "https://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/index.html",
-    "https://neo4j.com/labs/agent-memory/explanation/resolution-deduplication/",
-    "https://michaelnocito.github.io/analyst-prep-kit/guides/entity-resolution/",
-    "https://pythondatabench.com/article/pandas-joins-duplicates-missing-matches"
+    "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
+    "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
+    "https://easymorph.com/blog/5-most-common-mistakes-in-data-joins",
+    "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "https://semarchy.com/blog/data-matching-explained/",
+    "https://matchlogic.io/resources/data-matching-guide",
+    "https://quizlet.com/95269104/chapter-3-relational-database-model-flash-cards/",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://arxiv.org/html/2607.26298v1"
    ]
   },
   {
    "query": "site:note.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
-    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/ai_komon/n/n9b96b57f965c",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/anomaly_inc/n/n97a5977ecc26",
     "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/ai_komon/n/n9b96b57f965c",
+    "https://note.com/anomaly_inc/n/n97a5977ecc26",
+    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
@@ -1234,72 +1597,438 @@
     "https://x.com/boss_sec_labo/status/2111657313614573684",
     "https://x.com/boss_sec_labo/status/2112896734502539563",
     "https://x.com/boss_sec_labo/status/2112385872066920625",
-    "https://x.com/MyTechBlogJP/status/2108086381390266677"
+    "https://x.com/MyTechBlogJP/status/2108086381390266677",
+    "https://x.com/takanishi12/status/2087433963375923620",
+    "https://x.com/AIzcb4/status/2111465215401533594",
+    "https://x.com/shiromegry/status/2074115876971065484"
    ]
   },
   {
    "query": "site:linkedin.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
-    "https://www.linkedin.com/company/concentrix",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
     "https://jp.linkedin.com/posts/清悟-中村-6952563ba_単独愛知の町工場から棚卸しもrpaも消えたgemini活用4事例が衝撃-activity-7511219977451147265-Tftt",
     "https://jp.linkedin.com/pulse/analyzing-missing-data-sql-step-by-step-guide-adetona-makinde-8scxf?tl=ja",
     "https://jp.linkedin.com/posts/高井-翔平-313547287_業務棚卸しの重要性と進め方-ai活用を成功させるための鍵は最新のitスキルではなく-activity-7475480348139679744-dB7Q",
     "https://jp.linkedin.com/pulse/handling-missing-data-how-leads-wrong-conclusions-doug-rose-otnpe?tl=ja",
-    "https://jp.linkedin.com/posts/優貴乃-岩﨑-9a2798353_ai導入前の業務棚卸しシート-activity-7473600460126412800-uzHg"
+    "https://jp.linkedin.com/posts/優貴乃-岩﨑-9a2798353_ai導入前の業務棚卸しシート-activity-7473600460126412800-uzHg",
+    "https://jp.linkedin.com/posts/高井-翔平-313547287_aiが使われない理由は性能ではない-aiを導入したけれど現場で全く使われなくなった-activity-7460260052055035905-LFJv"
    ]
   },
   {
    "query": "site:facebook.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
-    "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
+    "https://www.facebook.com/janettelillypad/",
     "https://www.facebook.com/NipponSoftOfficial/photos/ma合併後の顧客データの統合でお困りではありませんかmaにともなうシステム統合ではデータの品質整合性の壁名寄せの難しさといった課題をいかに解決していくかが顧客デ/122278510886231505/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
-    "https://www.facebook.com/fullcomp.hachioji/posts/お知らせ棚卸しが予想より早く終了したため一部のタイトルの買取を再開します買取可能タイトル遊戯王デュエルマスターズとなりますhttpstcoobwpvhez9q/1786599014733082/",
+    "https://www.facebook.com/asteriawarp/posts/asteria-warp-tips-紹介-条件分岐編branchstartコンポーネントを使った条件分岐を動画で解説キクちゃんことキクチがちょっと偉そうにしてま/4310092612417051/",
     "https://www.facebook.com/meow0217/posts/闇の力を秘めし鍵よ真の姿を我の前に示せ契約のもとさくらが命じるレリーズ隱藏著黑暗力量的鑰匙啊在我面前顯示你真正的力量跟你定下約定的小櫻命令你封印解除封印兩年的照/793883736095426/",
-    "https://www.facebook.com/takako.daichi/posts/根室の皆さんへ根室平内郵便局前でゴリラのキーホルダーがついた鍵を拾いました郵便局前だったので局長に託しておきました失くされた方の元に届きますように/2420433901466255/"
+    "https://www.facebook.com/gensendo/videos/この時期が今年もやってきました-棚卸しという名の地獄-薬備品消耗品えこんなにあるのこれどこいった去年こんなにあったっけ数字と現実の間で繰り広げられる年に一度の大/1950667868949389/"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） note 社長",
    "results": [
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://www.issoh.co.jp/column/details/18983/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "https://www.irwin-and-co.com/articles/master-data-nayose",
+    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） X 投稿",
    "results": [
+    "https://x.com/izukan01/status/2114963556005302625",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "https://www.issoh.co.jp/column/details/18983/",
     "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://www.issoh.co.jp/column/details/18983/",
     "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
-    "https://ec-rider.net/b2bec/tokuisaki-master-togo/",
+    "https://www.irwin-and-co.com/articles/master-data-nayose",
     "https://aurant-technologies.com/blog/cdp-identity-matching-key-order/"
    ]
   },
   {
    "query": "entity matching key profiling missing rate composite key false merge site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/sandeep-mdm-ai_matchandmerge-mdm-activity-7371956134292721664-B217",
-    "https://www.linkedin.com/pulse/entity-resolution-scale-probabilistic-matching-techniques-reddy-g934c",
-    "https://www.linkedin.com/posts/advanced-data-management-solutions_mdm-ai-merging-activity-7434249644211351553-kwnj",
-    "https://www.linkedin.com/posts/taeho-kim-26b139262_most-entity-resolution-pipelines-are-tuned-activity-7490234549063331840-qVZm",
-    "https://www.linkedin.com/posts/suryanshu-rathour-0a69601a1_dataengineering-databricks-sparksql-activity-7435719776972242945-ntce",
-    "https://www.linkedin.com/advice/3/how-can-you-troubleshoot-errors-dataframe-merging-9u1zc",
-    "https://www.linkedin.com/advice/0/how-do-you-handle-mismatched-missing-data-augbc"
+    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
+    "https://www.linkedin.com/posts/namanvyas21_dataquality-dataanalytics-dataengineering-activity-7515617557492527104-7lG-",
+    "https://www.linkedin.com/posts/mohamed-habib-khattat-2b206a173_delivering-our-ods-into-the-temenos-ecosystem-activity-7517491605902155776-rkBI",
+    "https://www.linkedin.com/in/bismanpal-anand",
+    "https://www.linkedin.com/in/mukuldesai",
+    "https://gh.linkedin.com/in/lawrence-koomson-689774266",
+    "https://www.linkedin.com/in/suraj-ranganath",
+    "https://www.linkedin.com/in/shubhamvyas7",
+    "https://www.linkedin.com/in/prakhar-anand-12a041131",
+    "https://www.linkedin.com/in/sholley"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 11,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most common mistake is jumping to algorithm configuration without understanding the data. Profile every source to identify completeness rates, format patterns, and duplicate distributions, because this step takes days while skipping it costs weeks of rework.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、既存データを自動で上書きしない方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：ロールバックの方法と、担当者研修の準備",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This technique handles missing data and field-level inconsistencies far better than deterministic methods, and it is the standard approach in healthcare patient matching, government record linkage, and large-scale customer deduplication.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Machine learning matching trains classification models on labeled pairs to learn patterns that rule-based methods miss, incorporating many features at once: string similarities, numerical distances, pattern recognition, and behavioral signals. Once trained, the model scores new pairs with a probability estimate.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 1: Data Preparation and Profiling",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 2: Blocking and Indexing",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 3: Candidate Pair Generation",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 4: Comparison and Scoring",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: Classification and Manual Review",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 6: Merging and Survivorship",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most common mistake is jumping to algorithm configuration without understanding the data. Profile every source to identify completeness rates, format patterns, and duplicate distributions, because this step takes days while skipping it costs weeks of rework.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Think of it as a progression: matching identifies candidate pairs, entity resolution groups those pairs into clusters representing real-world entities, and deduplication applies merge/purge logic to produce clean, non-redundant records. Each step depends on the quality of the step before it.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 1: Data Preparation and Profiling",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "MatchLogic Data Profiling Dashboard",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "MatchLogic's profiling engine scans millions of records in seconds, revealing completeness scores, format chaos, and duplicate risk before any matching rules are configured.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Start with Data Profiling, Not Matching",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Profiling exposed missing data and format chaos before matching began",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data matching is not a feature checkbox; it is an ongoing discipline that determines the quality of every downstream data process. The four technique families each serve specific data conditions, and the most effective implementations combine them in hybrid workflows, with the pipeline from profiling through merging refined over decades of research and practice.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Getting each stage right takes investment in profiling, ground-truth labeling, threshold tuning, and ongoing monitoring.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Machine learning matching trains classification models on labeled pairs to learn patterns that rule-based methods miss, incorporating many features at once: string similarities, numerical distances, pattern recognition, and behavioral signals. Once trained, the model scores new pairs with a probability estimate.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "12〜24か月以上のケースがあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に、データ調査と、名寄せ結果を各システムに戻す連携では、工数が増えやすくなります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "fall into four primary categories, each suited to different data conditions and accuracy requirements. Most enterprise implementations use a hybrid approach, applying deterministic matching first for high-confidence pairs and then probabilistic or machine learning methods for ambiguous cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to link records across tax, benefits, health, and housing departments to detect fraud, ensure benefits reach eligible recipients, and improve service delivery. The Operation Safe Pilot case, which matched about 40,000 Northern California pilot records against Social Security disability records, remains a classic demonstration of cross-agency linkage.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Smaller datasets, proofs of concept, non-regulated use cases.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Precision (the share of declared matches that are correct) and recall (the share of true matches found) are both critical, and the F1 score balances them. For most enterprise use cases, target an F1 above 0.95 and monitor it over time as volumes and sources change.",
+    "url": "https://matchlogic.io/resources/data-matching-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 12,
  "first_researched_at": "2026-11-05T17:50:35.263143+00:00"
 }
