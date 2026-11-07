@@ -297,6 +297,10 @@ def rows_from_doc(topic, d):
                     # （「不足」と答えた割合−「過剰」の割合、%ポイント）が企業の割合・社員数として13件入った。差の指数（DI・%ポイント・ポイント）は割合にしない
                     if DIPOINT.match(q, m.end()) or (DIWORD.search(q[max(0, m.start() - 30):m.start()]) and "ポイント" in q[m.end():m.end() + 6]):
                         drop(topic, "DI・%ポイントの差の指数（4-48）"); continue
+                    # 2026-11-07 56回目の走査の失敗から：中小企業白書の「上位10％、中央値、下位10％」の10が1人あたりの欄に % の値として3件入り
+                    # 【一次で確認】と出た。分位の名前（上位・下位・トップ・ボトム＋%）は値にしない
+                    if re.search(r"(上位|下位|トップ|ボトム|top|bottom)\s*$", q[max(0, m.start() - 5):m.start()], re.I) and m.group(2) in ("%", "％"):
+                        drop(topic, "分位の名前（上位・下位10%・4-81）"); continue
                     v, u = norm(*m.groups())
                     # 2026-11-06 4-56 走査の失敗から：mfg_capacity の「日本造船工業会・国交省の年ごとの新造船受注量」の %（10年推移）の欄に、
                     # 世界の建造量の国別シェア（中国 約50%・日本 8%〜16%）と前年比の増減（12%減・15%増・バルカー45%増）が同じ欄で並び、【裏付けあり】と出た。
@@ -316,6 +320,10 @@ def rows_from_doc(topic, d):
                     # 数字の近く（前40字）の年を優先
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
+                    # 2026-11-07 56回目の走査の失敗から：mfg_capacity の「離職率は36.7％（2005年）から11.4％（2025年）に低下」で、
+                    # 前40字の年を採ったため 11.4 に2005年・36.7 に2025年が付き、下がった系列が上がった向きに読めた。値の直後の括弧の年はその値の年
+                    _post = re.match(r"\s*[（(]\s*(20[0-3]\d|19[89]\d)\s*年", q[m.end():m.end() + 12])
+                    if _post: y = _post.group(1)
                     yfix = ""
                     if y in CENSUS_YEARS and CENSUS_ACT.search(q) and "実績" not in q[max(0, m.start() - 40):m.end() + 20]:
                         y, yfix = str(int(y) - 1), "活動調査の調査年→実績年（-1年）"
@@ -1929,6 +1937,37 @@ def scan(topic):
            f"- 1人あたり・生産性の引用 {len(_per)}行のうち、平均だけで分位・中央値の無い品目：{len(_avg_only)}件（規模の差より規模の中のばらつきが大きいことがある。規模別の向きを書く前に分位を取る）", *(f"  - {n}" for n in _avg_only[:15]),
            f"- 1人あたりの引用に分母（従業者・従業員・常用など）の書かれていない品目：{len(_noden)}件（分母が分かるまで他の1人あたりと並べない・4-70）", *(f"  - {n}" for n in _noden[:15]),
            f"- 画像の PDF を OCR で読んだ引用のある品目：{len(_ocr)}件（OCR は桁・小数点・カンマを取り違える。原表で数字を確かめるまで【事実】に上げない）", *(f"  - {n}" for n in _ocr[:10]), ""]
+    # 2026-11-07 4-81（兵庫県「経済構造実態調査（製造業事業所調査）の概要・利用上の注意」令和5年：2022年以降は出荷額の上位から累積9割の事業所を
+    # 調べて全体を推計する・従業者4〜29人の付加価値は粗付加価値で30人以上と算式が違う・出荷額は消費税込みに補正し旧年は当時の税率のまま・
+    # 1〜2事業所の欄と差引きで分かる欄は X・四捨五入で内訳と合計が合わない・従業上の地位の区分が無期／有期に変わった。
+    # wphillipmoore「ICD 203 tradecraft standards」：検索ごとに当たった件数と採った件数を残し、一次の検索が0件なら省かず「不達」と書く）。
+    # ①秘匿（X）に触れた引用 ②粗付加価値・付加価値の算式に触れた引用 ③消費税の込み・抜きに触れた引用と、円の系列が税率の変わった年（2014・2019）をまたぐ品目
+    # ④抽出・推計の調査に触れた引用 ⑤従業上の地位・雇用区分の変更に触れた引用
+    _HIDE = re.compile(r"(秘匿|(?<![A-Za-z])X(?![A-Za-z])\s*(は|：|=|＝)|「X」|“X”|数値を(秘匿|伏せ))")
+    _GVA = re.compile(r"(粗付加価値|付加価値額?の(算式|計算|定義)|4\s*[〜～~-]\s*29\s*人)")
+    _TAX = re.compile(r"(消費税(込|抜|を含|を除|額を含)|税込|税抜|内税|外税)")
+    _SAMP = re.compile(r"(上位[^。]{0,10}9\s*割|累積[^。]{0,10}(9割|90\s*[%％])|裾切り|抽出(調査)?[^。]{0,15}推計|推計値)")
+    _EMP = re.compile(r"(無期雇用|有期雇用|従業上の地位[^。]{0,10}(変更|区分)|雇用形態[^。]{0,6}区分[^。]{0,6}変)")
+    _hide = sorted({r["品目"] for r in rows if _HIDE.search(r.get("引用", ""))})
+    _gva = sorted({r["品目"] for r in rows if _GVA.search(r.get("引用", ""))})
+    _tax = sorted({r["品目"] for r in rows if _TAX.search(r.get("引用", ""))})
+    _samp = sorted({r["品目"] for r in rows if _SAMP.search(r.get("引用", ""))})
+    _emp = sorted({r["品目"] for r in rows if _EMP.search(r.get("引用", ""))})
+    _yen = {}
+    for r in rows:
+        if r.get("予測") or "円" not in str(r.get("単位", "")): continue
+        try: _y = int(str(r.get("年", ""))[:4])
+        except Exception: continue
+        _yen.setdefault(r["品目"], set()).add(_y)
+    _taxcross = sorted(f"{it}（{min(ys)}〜{max(ys)}年・税率の変わった{'・'.join(str(t) for t in (2014, 2019) if min(ys) < t <= max(ys))}年をまたぐ）"
+                       for it, ys in _yen.items() if any(min(ys) < t <= max(ys) for t in (2014, 2019)))
+    md += ["## 統計の作り方の点検（秘匿・算式・税・抽出・雇用区分・4-81）",
+           f"- 秘匿（X）に触れた引用のある品目：{len(_hide)}件（X を0にしない。X を除いた足し上げは下限。差引きで X が分かる欄も X）", *(f"  - {n}" for n in _hide[:10]),
+           f"- 粗付加価値・付加価値の算式に触れた引用のある品目：{len(_gva)}件（4〜29人と30人以上は算式が違う。規模をまたいで付加価値の1人あたりを並べない）", *(f"  - {n}" for n in _gva[:10]),
+           f"- 消費税の込み・抜きに触れた引用のある品目：{len(_tax)}件（込みと抜きの値を同じ系列に並べない）", *(f"  - {n}" for n in _tax[:10]),
+           f"- 円の系列が消費税率の変わった年をまたぐ品目：{len(_taxcross)}件（税込みの出荷額は税率の段差を含む。向きを書く前に込み・抜きを確かめる）", *(f"  - {n}" for n in _taxcross[:20]),
+           f"- 抽出・推計（上位9割など）の調査に触れた引用のある品目：{len(_samp)}件（2022年以降の推計値と全数の工業統計を同じ線につながない）", *(f"  - {n}" for n in _samp[:10]),
+           f"- 従業上の地位・雇用区分の変更に触れた引用のある品目：{len(_emp)}件（分母の数え方が変わる。変更の前後で1人あたりの向きを書かない・4-70）", *(f"  - {n}" for n in _emp[:10]), ""]
     md += kougyo_section(topic)
     md += kougyo_size_section(topic)
     md += kougyo_contract_section(topic)
