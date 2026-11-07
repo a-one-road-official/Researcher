@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T15:37:29.541114+00:00",
+ "researched_at": "2026-11-07T21:13:20.460177+00:00",
  "evidence": {
   "実例": [
    {
@@ -98,6 +98,24 @@
    {
     "quote": "Generate Tests from Examples Using 'roxygen' and 'testthat'",
     "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -314,6 +332,96 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is a a preliminary (or earlier) estimate and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "was estimated. The real-time dataset is constructed as follows.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is the preliminary estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
     "pass": 3,
@@ -470,6 +578,116 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Simply Beautiful PDF Letters from Markdown",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digitally Sign and Verify PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Tools for Easy Use of the 'e-Stat' API",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Transcription Elongation Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Feature Stores for the 'diseasy' Framework",
@@ -562,6 +780,30 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "Still others come from methodological changes or benchmark updates.",
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
     "pass": 3,
@@ -608,98 +850,6 @@
     "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simply Beautiful PDF Letters from Markdown",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digitally Sign and Verify PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Tools for Easy Use of the 'e-Stat' API",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Transcription Elongation Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
    }
   ],
   "失敗・落とし穴": [
@@ -790,6 +940,36 @@
    {
     "quote": "Multistate Model Bias-Corrected Robust Variance",
     "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -972,7 +1152,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/e_dao/n/n1d4439bbbc9a",
+    "url": "https://note.com/hugwell/n/n1c94173eeb12",
     "status": "ok",
     "method": "http"
    },
@@ -982,7 +1162,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/arima_planning/n/n8257c129345e",
+    "url": "https://note.com/e_dao/n/n1d4439bbbc9a",
     "status": "ok",
     "method": "http"
    },
@@ -992,87 +1172,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tnishimaki/n/nff97c41334d6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/nekoai_lab/n/n5a81ebd5c600",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jmir.org/2022/11/e41566/PDF",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
+    "url": "https://note.com/arima_planning/n/n8257c129345e",
     "status": "ok",
     "method": "http"
    },
@@ -1087,34 +1187,64 @@
     "method": "http"
    },
    {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gacco.org/stat-japan3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.math.sci.ehime-u.ac.jp/~matsuura/2021pro2/dataset.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/data/data-revision-policy",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.ine.es/art/ree/178_2.pdf",
+    "url": "https://ec.europa.eu/eurostat/web/national-accounts/database/data-revisions",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.ajs.or.at/index.php/ajs/article/download/1468/794",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1123,171 +1253,388 @@
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） site:note.com",
    "results": [
     "https://note.com/doiwa/n/n0397da719f07",
-    "https://note.com/e_dao/n/n1d4439bbbc9a",
+    "https://note.com/hugwell/n/n1c94173eeb12",
     "https://note.com/yamaaki_07/n/n974447a24c5e",
-    "https://note.com/arima_planning/n/n8257c129345e",
+    "https://note.com/e_dao/n/n1d4439bbbc9a",
     "https://note.com/marthay/n/n6a5a3633cd40",
-    "https://note.com/tnishimaki/n/nff97c41334d6",
+    "https://note.com/arima_planning/n/n8257c129345e",
     "https://note.com/novel_yeflo/n/n650b3a7c5f2b"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note",
    "results": [
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://note.com/nekoai_lab/n/n5a81ebd5c600",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.jmir.org/2022/11/e41566/PDF",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://ec.europa.eu/eurostat/data/database"
-   ]
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://gacco.org/stat-japan3/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://note.com/data_pn/n/n3a33a9120a47"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） やり方",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
-    "https://ec.europa.eu/eurostat/data/database"
-   ]
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://gacco.org/stat-japan3/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1208"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） 事例",
    "results": [
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
-    "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
-    "https://ec.europa.eu/eurostat/data/database"
-   ]
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://gacco.org/stat-japan3/",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.math.sci.ehime-u.ac.jp/~matsuura/2021pro2/dataset.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "revision triangle real-time dataset noise versus news test mean revision t-test Eurostat",
    "results": [
     "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://ec.europa.eu/eurostat/data/data-revision-policy",
-    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
-    "https://www.ine.es/art/ree/178_2.pdf",
-    "https://www.ajs.or.at/index.php/ajs/article/view/1468/794",
-    "https://www.youtube.com/watch?v=JvtJloNsm6M",
-    "https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250158/aacus250158.html",
-    "https://www.aeaweb.org/content/file?id=15847",
-    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/"
-   ]
+    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
+    "https://ec.europa.eu/eurostat/web/national-accounts/database/data-revisions",
+    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "https://ropensci.r-universe.dev/articles/reviser/revision-analysis.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://note.com/doiwa/n/n0397da719f07",
-    "https://note.com/noe_official/n/n336306f3c427",
-    "https://note.com/statistics_ai/n/n5c3557fcb50a",
-    "https://note.com/e_dao/n/n1d4439bbbc9a",
-    "https://note.com/kenxxxken/n/nce7762dcec30",
     "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
-    "https://note.com/super_guppy179/n/n275140ebfdfd"
-   ]
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "https://note.com/marthay/n/n6a5a3633cd40",
+    "https://note.com/e_dao/n/n1d4439bbbc9a",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/futaro_/n/ne92955415538"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://jf.x.com/images/media-preview/2113759896936370264",
-    "https://jf.x.com/images/media-preview/2103455884366188544",
-    "https://jf.x.com/images/media-preview/2104204905997308126",
-    "https://jf.x.com/images/media-preview/2088452663784673731",
-    "https://jf.x.com/images/media-preview/2097324757926736086",
+    "https://jf.x.com/images/media-preview/2099346487994147068",
+    "https://jf.x.com/images/media-preview/2104150580969328937",
+    "https://jf.x.com/images/media-preview/2098969925586997426",
+    "https://jf.x.com/images/media-preview/2065926636105588829",
     "https://x.com/jaeho38line/status/2089126729071911030",
     "https://x.com/smo_yutohisano/status/2075165578747342927"
-   ]
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://www.linkedin.com/posts/zahra-kharazian_scania-component-x-dataset-a-real-world-activity-7312774232524963841-_VBt",
-    "https://ca.linkedin.com/company/axiom-real-time-metrics",
-    "https://in.linkedin.com/company/qualitykiosk-technologies",
     "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
-    "https://www.linkedin.com/pulse/technology-behind-linkedins-fight-against-ai-slop-tim-jurka-7ojbc",
+    "https://ca.linkedin.com/company/axiom-real-time-metrics",
     "https://jp.linkedin.com/pulse/demystifying-project-management-iron-triangle-scope-dvhpf?tl=ja",
-    "https://jp.linkedin.com/pulse/handbook-anomaly-detection-python-outlier-3-ecod-kuo-ph-d-cpcu?tl=ja"
-   ]
+    "https://jp.linkedin.com/pulse/data-quality-validation-python-dataframes-miguel-cabrera?tl=ja",
+    "https://jp.linkedin.com/pulse/handbook-anomaly-detection-python-outlier-3-ecod-kuo-ph-d-cpcu?tl=ja",
+    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
-    "https://graph.facebook.com/v2.8/10157238489260205/picture/",
     "https://www.facebook.com/buzzbuzzne/posts/頭の体操三角形は何個ある解答はコメント欄に答え合わせはコチラ/3232076147114905/",
-    "https://www.facebook.com/weathertimejnet/",
+    "https://www.facebook.com/Isuzugtime/videos/astronネクスターnexter品番hab003j価格297000-税込新開発のデュアルタイムクロノグラフがレギュラーモデルとして登場三角形で構築された幾何学/1016528547728478/",
     "https://www.facebook.com/reel/801382729299547/",
     "https://www.facebook.com/adachi.hanga/posts/浮世絵の初版しょはんと後版あとはんとは-アダチの初版へのこだわり-先日ご紹介した広重の猿若町夜の景この作品の満月にかかるあてなしぼかしで摺られた一筋の黒い雲は初/1709043655914249/",
+    "https://www.facebook.com/marketplace/item/39079823494950476/",
     "https://www.facebook.com/JCA1948/videos/オンラインセミナーコンクール課題曲集オンラインセミナー開講中sample公開f4定点観測第32回朝日作曲賞受賞者宮本正太郎さんによる自作解説です三角みず紀さんの/1008110706543171/",
-    "https://www.facebook.com/BrainMusicWindband/videos/フレキシブル楽譜シリーズ紹介アンサンブルフレキシブル改訂作品アンサンブルの名作が様々な編成オーケストレーションで演奏できるフレキシブル編成にオリジナルの編成響き/1791964545450948/",
-    "https://www.facebook.com/business/help/750785952855662/"
-   ]
+    "https://www.facebook.com/CSISut/posts/共同研究利用システムjorasに実人流データセット東京都2024年5月2025年5月が追加されました携帯端末位置情報に基づいたリアル人流データですぜひご利用くだ/1368827928373937/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note 社長",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
-    "https://note.com/mediologic/n/n0430d581ac94",
-    "https://ec.europa.eu/eurostat/data/database"
-   ]
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://gacco.org/stat-japan3/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://note.com/data_pn/n/n3a33a9120a47"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） X 投稿",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-025-66748-y&domain=pdf",
-    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
-    "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2024/data/html/program/pdf/E-024.pdf",
-    "https://ec.europa.eu/eurostat/data/database"
-   ]
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://gacco.org/stat-japan3/",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1208"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "revision triangle real-time dataset noise versus news test mean revision t-test Eurostat site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-september-edition-eurostat-5h6vc",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-april-edition-eurostat-vegie",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-july-edition-eurostat-hfibc",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-june-edition-eurostat-y5zyc",
-    "https://be.linkedin.com/company/european-commission",
-    "https://uk.linkedin.com/in/teraallas",
-    "https://www.linkedin.com/posts/antonymartini_luxembourg-ranks-fifth-lowest-at-43-fossil-activity-7503707100271820802-UGI1",
-    "https://www.linkedin.com/posts/giacomo-romanini-1ba60a63_productionnetworks-monetarypolicy-champ-activity-7518330205011243008-HR5z",
-    "https://uk.linkedin.com/in/yu-jinghui-sage",
-    "https://www.linkedin.com/posts/martinkongsvik_another-record-year-for-eu-tourism-in-2025-activity-7447553829048467456-8jjV"
-   ]
+    "https://www.linkedin.com/advice/0/how-can-you-handle-noisy-data-your-analysis-skills-data-science-qe9bf",
+    "https://www.linkedin.com/advice/1/how-can-you-identify-noisy-data-mining-skills-data-mining",
+    "https://lk.linkedin.com/company/test-triangle",
+    "https://www.linkedin.com/company/eurostat/",
+    "https://www.linkedin.com/pulse/t-test-simplified-step-by-step-guide-real-world-applications-deb-vsj9f",
+    "https://www.linkedin.com/posts/stegan_the-revision-triangle-activity-7513870948719104000-9dRC",
+    "https://www.linkedin.com/advice/3/how-can-you-reduce-noise-machine-learning-1r6kf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 8,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is a a preliminary (or earlier) estimate and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "was estimated. The real-time dataset is constructed as follows.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is the preliminary estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 9,
  "first_researched_at": "2026-11-06T07:05:14.243850+00:00"
 }

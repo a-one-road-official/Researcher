@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・200品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・202品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7375,12 +7375,12 @@
   - 「マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「【PR動画事例】阪本高生堂のクールグリースを魅力的に魅せるコツとは」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「AI時代に「選ばれる」ホワイトペーパーの条件とは？BtoBマーケティングの勝機は“提案型×二刀流”にあり！｜FUNGRY Planner’s FILE #01」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「集客とマーケティングは違う？成果を出す戦略と目的ごとに有効な集客方法を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックには、さまざまなステップや方法があります」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ここでは、具体的な方法を見ていきましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -10662,11 +10662,11 @@
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
 - 文脈：推定
@@ -11477,7 +11477,7 @@
   - 「たとえば、生年月日が未来の日付になっているケースや、郵便番号と住所が一致しないケースなどが対象となります」（https://jp.sansan.com/media/aggregation-of-names/）
   - 「例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます」（https://jp.sansan.com/media/aggregation-of-names/）
   - 「ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
 
 ## 決算公告の貸借対照表を内訳の合計と資産合計で照合して読む実務と、株式会社以外の法人（医療法人・協同組合・社団）の決算の科目の違い（開示ワイヤー 決算公告ガイドの書き手）（reading Japanese statutory balance sheet notices verify totals non-stock corporations accounts）
 - 文脈：手法
@@ -11910,3 +11910,47 @@
 - 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+
+## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）（survivorship bias correction business data closed firms best worst case assumption）
+- 文脈：失敗・落とし穴
+- 手順・やり方：
+  - 「How to Correct for It」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「How to Detect It Before It Burns You」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「framework delivers, and a」（https://metricgate.com/blogs/survivorship-bias/）
+- 突き合わせ・推定：
+  - 「survivor mean is no longer an unbiased estimate of」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Re-estimate under pessimistic assumptions about the dropouts to bracket how far the bias could move your conclusion.」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「imitate behaviors that failed firms shared in equal measure — the data simply forgot the failures. Engineers who estimate」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「estimate is itself misleading — a tight interval around the wrong center is still wrong.」（https://metricgate.com/blogs/survivorship-bias/）
+- 失敗・落とし穴：
+  - 「Survivorship Bias in Data Analysis | MetricGate」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Survivorship Bias in Data Analysis」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「guide explains how the bias creeps in, shows a simulation you can run, and lays out the corrections that actually work. It pairs well」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「selection bias vs survivorship bias」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Survivorship bias is not about bad measurement. Every number in your dataset can be perfectly accurate. The problem is the」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「How the Bias Distorts Your Numbers」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「survivor mean is no longer an unbiased estimate of」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「# every fund-year, no bias」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「"=== Survivorship bias in fund returns ===\n"」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「"Survivorship bias inflates the average"」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Where Survivorship Bias Shows Up」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Inflated — biased upward」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「The gold standard is a full universe that back-fills the dead funds, lapsed customers, or scrapped parts. Many vendors now sell explicitly “survivorship-bias-free” histories for exactly this reason.」（https://metricgate.com/blogs/survivorship-bias/）
+- 実例：
+  - 「The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Double selection — worst case」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
