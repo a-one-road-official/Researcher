@@ -8,8 +8,470 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-07T17:02:36.961442+00:00",
+ "researched_at": "2026-11-07T22:44:28.476215+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "Morris Hansen Lecture, September 26, 2024. 2024Citro_paper.pdf. BLS and BEA have also estimated consumer unit distributions of personal",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "わしい統計の構築に向けた幕開けといえるものである",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本年秋には、 「公的統計の整備",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1) 統計の目的",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(2) 統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Funded by the Alfred P . Sloan Foundation, Annie E. Casey Foundation, California Community Foundation, and",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Annie E. Casey Foundation, California Community Foundation, and the",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "diminished safeguards for statistical integrity. In several cases,",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The National Center for Health Statistics, for example, has",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in the case of federal statistical agencies, as providers of a",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "public trust in government, and growing disinclination to answer surveys in any case, continue to hamper effective collection",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "changing nation. (See Section 2.3.3 for examples of interdependencies and Section 4 for a discussion of innovation challenges",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In most cases, the setbacks in funding and support we document are the result of government-wide efforts to reduce staff, bud-",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mandates have increased. Most of the agencies have also lost 20–30% of their staff, 95% in the case of the National",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cases involving controlled access to restricted federal data. (See Section 4 for further discussion of the White House AI action",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "information still missing in Table 2.2, are two examples.",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8 See, e.g., What Happens When Politicians Meddle With Economic Data: Argentina’s Example - WSJ; Trump Fired America’s Economic Data",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "individually or, in the case of the Federal Economic Statistics Advisory Committee, collectively.",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, when the new administration dismissed many recently hired federal employees, the Internal Revenue Service’s",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Agencies often use external data streams to produce their own data products and reports. T wo examples are discussed below for",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の異業種をかかえる事例が増える可能性がある",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "methodologists, and recent hires with up-to-date skills. These",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "novation and have been introducing data science methods,",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Recommendation 1—Staffing: As a first step toward restor-",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "modernized data collection methods, and improved accessi-",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "system-wide portfolio review framework. Agencies should",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "use the framework to regularly assess, modernize, add to, and",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Congress should take steps to strengthen this trust. Congress",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "data sources and methods in Supporting Materials: G.",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the Covid-19 pandemic and the October 1–November 12, 2025, government shutdown, and harnessing new methods and",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the current administration has taken numerous steps that have weakened federal statistical agencies. Some of these actions have",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this section, we step back to consider the broader ramifications of the developments discussed in subsections 2.1 and 2.2.",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "innovation and improved data collection technologies and methods from the private sector to agency staff. They were a voice",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Comparisons. ” “Number of uses” should be viewed as illustrative. For further explanation, detailed methodology, and",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methods and technology while minimizing costs and respondent burden.",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Supportive policy and procedural frameworks. Agencies need clear, streamlined processes for data acquisition, IT mod-",
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "集中型機構ともいえる＊2",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "estimated percentage of U.S. adults who tend to trust federal",
@@ -235,502 +697,55 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Morris Hansen Lecture, September 26, 2024. 2024Citro_paper.pdf. BLS and BEA have also estimated consumer unit distributions of personal",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "わしい統計の構築に向けた幕開けといえるものである",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本年秋には、 「公的統計の整備",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1) 統計の目的",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(2) 統計制度見直しの経緯",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "methodologists, and recent hires with up-to-date skills. These",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "novation and have been introducing data science methods,",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Recommendation 1—Staffing: As a first step toward restor-",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "modernized data collection methods, and improved accessi-",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "system-wide portfolio review framework. Agencies should",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "use the framework to regularly assess, modernize, add to, and",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Congress should take steps to strengthen this trust. Congress",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "data sources and methods in Supporting Materials: G.",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the Covid-19 pandemic and the October 1–November 12, 2025, government shutdown, and harnessing new methods and",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the current administration has taken numerous steps that have weakened federal statistical agencies. Some of these actions have",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this section, we step back to consider the broader ramifications of the developments discussed in subsections 2.1 and 2.2.",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "innovation and improved data collection technologies and methods from the private sector to agency staff. They were a voice",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Comparisons. ” “Number of uses” should be viewed as illustrative. For further explanation, detailed methodology, and",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methods and technology while minimizing costs and respondent burden.",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. Supportive policy and procedural frameworks. Agencies need clear, streamlined processes for data acquisition, IT mod-",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "集中型機構ともいえる＊2",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Funded by the Alfred P . Sloan Foundation, Annie E. Casey Foundation, California Community Foundation, and",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Annie E. Casey Foundation, California Community Foundation, and the",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "diminished safeguards for statistical integrity. In several cases,",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The National Center for Health Statistics, for example, has",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in the case of federal statistical agencies, as providers of a",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "public trust in government, and growing disinclination to answer surveys in any case, continue to hamper effective collection",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "changing nation. (See Section 2.3.3 for examples of interdependencies and Section 4 for a discussion of innovation challenges",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In most cases, the setbacks in funding and support we document are the result of government-wide efforts to reduce staff, bud-",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mandates have increased. Most of the agencies have also lost 20–30% of their staff, 95% in the case of the National",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cases involving controlled access to restricted federal data. (See Section 4 for further discussion of the White House AI action",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "information still missing in Table 2.2, are two examples.",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "8 See, e.g., What Happens When Politicians Meddle With Economic Data: Argentina’s Example - WSJ; Trump Fired America’s Economic Data",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "individually or, in the case of the Federal Economic Statistics Advisory Committee, collectively.",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, when the new administration dismissed many recently hired federal employees, the Internal Revenue Service’s",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Agencies often use external data streams to produce their own data products and reports. T wo examples are discussed below for",
-    "url": "https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の異業種をかかえる事例が増える可能性がある",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/_swika/n/n7f1f830b47a0",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/naoki0921/n/n228f3f04ac14",
+    "url": "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nstac.go.jp/use/archives/anonymity/?doing_wp_cron=1794008155.3163659572601318359375",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/_swika/n/n542656232c7b",
+    "url": "https://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-20-t10.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/deft_viper1604/n/n896a3a75d25b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/toshi_1012/n/n18f1a0eb3b40",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
@@ -753,59 +768,44 @@
     "method": "http"
    },
    {
-    "url": "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "url": "https://www.mhlw.go.jp/content/10700000/000594241.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000644846.pdf",
+    "url": "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_0.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.keidanren.or.jp/policy/2016/027_honbun.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000562988.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.gao.gov/products/gao-26-107538",
+    "url": "https://hdsr.mitpress.mit.edu/pub/vb6hwxez",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://files.gao.gov/reports/GAO-26-107538/index.html",
+    "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/03/do-low-survey-response-rates-threaten-data-dependence/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.bls.gov/cps/methods/response_rates.htm",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.oig.dol.gov/public/reports/oa/2024/17-24-001-11-001b.pdf",
+    "url": "https://legis1.com/news/jobs-report-data-quality-faces-risks-as-survey",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.bls.gov/blog/2023/what-is-bls-doing-to-maintain-data-quality-as-response-rates-decline.htm",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.oig.dot.gov/sites/default/files/DOT+CPARS+Reporting_3.15.23.pdf",
-    "status": "http_404",
+    "url": "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
+    "status": "http_403",
     "method": "pdf"
+   },
+   {
+    "url": "https://unece.org/sites/default/files/2025-09/Generative%20AI%20for%20Official%20Statistics%20HLG-MOS%20Report.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nass.usda.gov/Publications/Methodology_and_Data_Quality/Advanced_Topics/standards_stat_surveys_OMB.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -813,102 +813,133 @@
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 site:note.com",
    "results": [
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf",
     "https://note.com/_swika/n/n7f1f830b47a0",
-    "https://note.com/naoki0921/n/n228f3f04ac14",
-    "https://note.com/_swika/n/n542656232c7b",
-    "https://note.com/keisemi/n/naf14ab3c9062",
-    "https://note.com/deft_viper1604/n/n896a3a75d25b",
-    "https://note.com/toshi_1012/n/n18f1a0eb3b40",
-    "https://note.com/iciro325/n/nd70b352ba953"
+    "https://note.com/naoki0921/n/n228f3f04ac14"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 やり方",
    "results": [
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/004-013.pdf",
-    "https://www.soumu.go.jp/main_content/000567905.pdf",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I034187894",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
     "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
-    "https://www.soumu.go.jp/main_content/000644846.pdf",
-    "https://www.mhlw.go.jp/content/10700000/000594241.pdf"
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 事例",
    "results": [
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/004-013.pdf",
-    "https://www.soumu.go.jp/main_content/000567905.pdf",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I034187894",
-    "https://www.keidanren.or.jp/policy/2016/027_honbun.pdf",
-    "https://www.soumu.go.jp/main_content/000562988.pdf",
-    "https://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf"
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/004-013.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "official statistics user problems low response rate contractor change continuity reproducibility report",
    "results": [
-    "https://www.gao.gov/products/gao-26-107538",
-    "https://files.gao.gov/reports/GAO-26-107538/index.html",
+    "https://hdsr.mitpress.mit.edu/pub/vb6hwxez",
+    "https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/03/do-low-survey-response-rates-threaten-data-dependence/",
+    "https://legis1.com/news/jobs-report-data-quality-faces-risks-as-survey",
+    "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
+    "https://unece.org/sites/default/files/2025-09/Generative%20AI%20for%20Official%20Statistics%20HLG-MOS%20Report.pdf",
+    "https://www.nass.usda.gov/Publications/Methodology_and_Data_Quality/Advanced_Topics/standards_stat_surveys_OMB.pdf",
     "https://www.bls.gov/cps/methods/response_rates.htm",
-    "https://www.oig.dol.gov/public/reports/oa/2024/17-24-001-11-001b.pdf",
-    "https://www.bls.gov/blog/2023/what-is-bls-doing-to-maintain-data-quality-as-response-rates-decline.htm",
-    "https://www.oig.dot.gov/sites/default/files/DOT+CPARS+Reporting_3.15.23.pdf",
-    "https://webdocs.gmu.edu/wp-content/uploads/baroni-center-government-contracing-trends-and-performance-index.pdf"
+    "https://analysisfunction.civilservice.gov.uk/policy-store/user-engagement-strategy-for-statistics-ensuring-official-statistics-meet-societys-need/",
+    "https://www.researchgate.net/publication/228459265_The_Causes_and_Consequences_of_Response_Rates_in_Surveys_by_the_News_Media_and_Government_Contractor_Survey_Research_Firms",
+    "https://www.gao.gov/products/gao-26-107538"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書",
    "results": [
-    "https://note.com/keisemi/n/naf14ab3c9062",
-    "https://note.com/naoki0921/n/n228f3f04ac14",
-    "https://note.com/deft_viper1604/n/n896a3a75d25b",
-    "https://note.com/toshi_1012/n/n18f1a0eb3b40",
-    "https://note.com/_swika/n/n7f1f830b47a0",
-    "https://note.com/_swika/n/n542656232c7b",
-    "https://note.com/iciro325/n/nd70b352ba953"
+    "https://note.com/modern_flea8708/n/n988bc31b2e1f",
+    "https://note.com/modern_flea8708/n/nf3264b862676",
+    "https://note.com/modern_flea8708/n/ne6121df5b053",
+    "https://note.com/modern_flea8708/n/n1bf5d4772078",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/good_dill292/n/n95f7881e6d4f",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/jack4manastalk/n/n2eeee2240e33",
+    "https://note.com/good_dill292/n/n38c834bd0deb",
+    "https://note.com/jack4manastalk/n/nae2210dd64f8"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書",
    "results": [
-    "https://jf.x.com/images/media-preview/2095180828372320712",
     "https://x.com/tsukamoto_ishin/status/2041784934847934824",
-    "https://x.com/takifoll/status/2044363813080998329",
     "https://x.com/hashtag/統計改革",
-    "https://x.com/Nagapiii/status/2100396398277730466",
     "https://x.com/digital_jpn/status/2099693207726821601",
-    "https://x.com/grok/status/2107497024899739780"
+    "https://x.com/takifoll/status/2044363813080998329",
+    "https://x.com/Nagapiii/status/2100396398277730466",
+    "https://x.com/grok/status/2107497024899739780",
+    "https://x.com/Shibainuuu_/status/2116512152014160071"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -931,6 +962,9 @@
   {
    "query": "site:facebook.com 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書",
    "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/groups/813342132068841/",
     "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/groups/475478942463926/posts/25594619076789899/",
     "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
@@ -940,51 +974,69 @@
     "https://www.facebook.com/mhlw.japan/posts/令和7年上半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/1130393482457377/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書 X 投稿",
    "results": [
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/004-013.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I034187894",
-    "https://www.soumu.go.jp/main_content/000567905.pdf",
-    "https://www.jstage.jst.go.jp/article/ojjams/35/2/35_211/_pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://www.soumu.go.jp/main_content/000571395.pdf",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.stat.go.jp/",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
     "https://www.dir.co.jp/report/research/economics/japan/20250327_025004.pdf",
-    "https://www.ipss.go.jp/syoushika/bunken/DATA/pdf/25810103.pdf"
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.scj.go.jp/en/info/kohyo/pdf/kohyo-20-t10.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "official statistics user problems low response rate contractor change continuity reproducibility report site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/testing-impact-low-response-rates-joe-hopper",
-    "https://www.linkedin.com/advice/0/how-can-you-overcome-low-response-rates-dropouts",
-    "https://pe.linkedin.com/pulse/23-business-continuity-statistics-know-updated-2023-dale-shulmistra/",
-    "https://economicgraph.linkedin.com/research/work-change-report",
-    "https://www.linkedin.com/top-content/change-management/project-change-management/turnover-rate-impact-on-project-continuity/",
-    "https://www.linkedin.com/advice/3/how-do-you-report-change-management-metrics-different",
-    "https://www.linkedin.com/advice/3/what-can-you-learn-from-change-control-reports-vk5ce"
+    "https://www.linkedin.com/pulse/future-provenance-why-data-acquisition-must-code-jo%C3%A3o-pedro-azevedo-jbinf",
+    "https://ca.linkedin.com/in/abel-dasylva-aa2bba10",
+    "https://www.linkedin.com/in/edmund-osei-owusu",
+    "https://uk.linkedin.com/in/yanikaborg",
+    "https://uk.linkedin.com/in/drwillparry",
+    "https://www.linkedin.com/in/bharat-singh-183b46164",
+    "https://au.linkedin.com/in/gideonvos",
+    "https://www.linkedin.com/in/samira-deshpande-857401184",
+    "https://www.linkedin.com/in/ryanrossi",
+    "https://www.linkedin.com/in/guschavezcs"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T20:04:51.574480+00:00"
 }
