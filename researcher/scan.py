@@ -1193,6 +1193,27 @@ def scan(topic):
     _NUMS = re.compile(r"\d[\d,\.]*"); _KANA = re.compile(r"[ぁ-ん]")
     nflat = [r for r in rows if len(_NUMS.findall(r["引用"])) >= 6 and len(_KANA.findall(r["引用"])) < 4]
     if nflat: md.append(f"  - ⚠ 表を平たくした文の疑い（数字6つ以上・かなほぼ無し）{len(nflat)}件（例：{nflat[0]['品目']}）：列・行の見出しとの対応が崩れている恐れ。表のファイル・原文の表で列を確かめるまで採る値にしない（4-76）")
+    # 2026-11-07 4-78（Aura「LinkedIn Employee Count vs Real Headcount」・People Data Labs「Exploring Employee Headcount Accuracy」：
+    # SNS の社員数は本人の申告で、辞めた人・外注・別の同名の会社の人を含み、子会社を合算する。製造業は SNS に載らない人が多く少なく出る）。
+    # 人数の引用が LinkedIn・SNS・Wantedly の申告の数字なら頭数の一次にせず、別の切り口の幅の端としてだけ使う
+    _SNSHC = re.compile(r"(LinkedIn|リンクトイン|Wantedly|ウォンテッドリー|社員数（LinkedIn|フォロワー)", re.I)
+    nsns = [r for r in rows if r["単位"] in ("人", "名") and (_SNSHC.search(r["引用"]) or re.search(r"(linkedin\.com|wantedly\.com)", r["URL"] or ""))]
+    if nsns: md.append(f"  - ⚠ SNS申告の社員数 {len(nsns)}件（例：{nsns[0]['品目']}）：本人の申告で、退職者・外注・同名の別会社・子会社の合算を含む。製造業は載らない人が多い。頭数の一次にせず、登記・開示・採用ページの人数と幅で並べる（4-78）")
+    # 同（People Data Labs：親会社の人数に子会社を足した数は親自身の大きさと伸びを隠す）。人数の引用に「グループ」「連結」があれば、
+    # 単体・事業所の人数と同じ系列で比べない目印を出す（4-13 の単体と連結を人数にも当てる）
+    _GRPHC = re.compile(r"(グループ(全体|計|合計|従業員)|連結(従業員|社員|ベース|で)|グループ会社を含)")
+    ngrp = [r for r in rows if r["単位"] in ("人", "名") and _GRPHC.search(r["引用"])]
+    if ngrp: md.append(f"  - ⚠ グループ・連結の人数 {len(ngrp)}件（例：{ngrp[0]['品目']}）：子会社を足した人数。単体・事業所の人数や1人あたりの分母と同じ系列にしない（4-78）")
+    # 同（JobsPikr「Estimate a Company's Employee Count with Job-Posting Math」：求人の件数は同じ職の複数媒体・複数地域の掲載、常時募集の再掲を含み、
+    # 3〜4割が重複とされる。求人数は空席の在庫で人数ではない）。求人の件数（件・職種）の引用を数え、人数や伸びの事実にしない目印にする
+    _JOBN = re.compile(r"(求人|募集)(数|件数|中|掲載)?[^。]{0,12}\d+\s*(件|職種|ポジション)")
+    njob = [r for r in rows if _JOBN.search(r["引用"])]
+    if njob: md.append(f"  - ⚠ 求人の件数 {len(njob)}件（例：{njob[0]['品目']}）：複数媒体・複数地域の重複と常時募集の再掲を含む空席の在庫。人数・伸びの事実にせず、重複を除いた件数の推移としてだけ読む（4-78）")
+    # 同（IRE「How to bulletproof your data story」：記事の割合はいくつの件数で計算したかを必ず答える）。%の値の引用に、母数（n=・〇社・〇人・〇件・回答）が
+    # 無いものを数え、母数が分かるまで向き・比較の根拠にしない
+    _BASE = re.compile(r"(n\s*=\s*\d|N\s*=\s*\d|\d[\d,]*\s*(社|人|名|件|事業所|回答|サンプル))")
+    npct = [r for r in rows if r["単位"] in ("%", "％") and not _BASE.search(r["引用"])]
+    if npct: md.append(f"  - ⚠ 母数の書かれていない割合 {len(npct)}件（例：{npct[0]['品目']}）：何件で計算した割合か分からない。母数を原表で確かめるまで向き・比較の根拠にしない（4-78）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl

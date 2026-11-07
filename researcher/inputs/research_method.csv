@@ -170,3 +170,5 @@ AIや他人が示した番号・統計・引用を原本で1件ずつ照合す�
 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け,multi-source cross-check shared bias role swap majority voting vs any-alarm rule,クロスチェック 共通バイアス 役割 入れ替え;複数AI 多数決 審判 バイアス note;メタ・クロスチェック シコファンシー,突き合わせ
 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例,full-time equivalent conversion denominator per employee comparison pitfalls,常勤換算 計算 注意点 兼務;FTE 換算 生産性 比較 落とし穴;延べ人数 頭数 違い 統計,推定
 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ,analysis of competing hypotheses limitations hypothesis mapping empirical evidence,競合仮説分析 限界 実証;ACH 批判 仮説 生成 バイアス;仮説マッピング 情報分析,突き合わせ
+会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対）,company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors,社員数 推定 求人数 重複 方法;従業員数 データ 正確さ 子会社 合算;headcount estimate validation ground truth,推定
+データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）,data journalism editor checklist questions universe subset sample self-reported name matching record layout,データジャーナリズム 検証 チェックリスト 編集者;NICAR data verification checklist;調査報道 データ 照合 名寄せ 確認,突き合わせ
