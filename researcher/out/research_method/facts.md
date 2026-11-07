@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・183品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・186品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5033,7 +5033,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -7859,6 +7859,7 @@
   - 「公表された度数からRでκを再計算し、著者らの報告値と照合しました」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「単純な大標本の標準誤差（nが小さいと精度が悪い近似）を使うと、SFA-YL（n = 59）の95%区間は約0.09〜0.68、SA-YL（n = 16）は0を下回る値から1を上回る値にまで及び、点推定値がほとんど情報を持たないことを示します」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「自動の重複件数やフロー図を、自分の表計算と照合せずに信用する」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses?」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -7868,7 +7869,6 @@
   - 「使用前にチームによって検証されたフォーム，データの抽出が単独あるいは複数名で行」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
   - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Meta-analysis of effect estimates」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
 - 一次情報の探し方：
   - 「全文献について、査読者ごとの判定（採用・除外・保留）を監査できる記録として残す」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「Rayyanの「対応ファイル形式」ページには、EndNote（.enw）、RefMan/RIS（.ris）、BibTeX（.bib）、CSV（.csv）、PubMed/NBIB（.nbib）、PubMed XML（.xml）、Web of Science CIW（.ciw）、PDFが載っており、コンテナとして.txt、.docx、.ris.gz、.zipも挙げられています」（https://japan.editverse.com/rayyan-screening-guide/）
@@ -7883,24 +7883,24 @@
   - 「学位論文の統計｜解析計画の立て方と報告のしかた」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「修士論文・博士論文の統計は、データを集める前に解析計画を決めておくのが基本です」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「統計解析・統計チェック・メタアナリシスに対応します」（https://japan.editverse.com/rayyan-screening-guide/）
-  - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「The PRISMA-S checklist is available for download in Word and portable document format (PDF) formats from the PRISMA Statement website [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 - 失敗・落とし穴：
   - 「出力時は「full record」または「include abstract」を選ぶようにとの注意書きがあり、抄録がないとRayyanのAI機能の精度が下がるとされています」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「2×2表、対象件数、注意点とともに示す」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「Forest plot作成、異質性評価、出版バイアス評価まで対応します」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「学位論文の剽窃チェック｜大学10校の運用例と執筆者の注意点」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「: Incomplete reporting may mask a narrow or biased search approach」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
+  - 「If you applied a study design filter, language restriction, or date limit, each must be documented and justified. Undocumented limits may appear as hidden bias.」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
+  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Song F, Parekh-Bhurke S, Hooper L, Loke YK, Ryder JJ, Sutton AJ, Hing CB, Harvey I. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「SR 検索に学会抄録を含めると，バイアスを最小限に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「な限り多くのバイアスを取り除くために開発された」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 - 実例：
   - 「同論文は、指針の作成グループらが検討の背景や作成の過程、指針の内容、準拠事例などを解説する内容です」（https://current.ndl.go.jp/car/43342）
   - 「文献検索手順を記録するための指針として、検索対象としたデータベース名・臨床試験登録レジストリ・オンライン情報源等に関わる「情報源・方法」、検索式・制約や限界・検索フィルター・先行研究の手法の活用状況・検索の実施日等に関わる「検索手段」、検索プロセスの「ピアレビュー」、検索結果の合計レコード数・複数の情報源を用いた場合の重複処理に関わる「検索結果の管理」の4セクション・16項目のチェックリストで構成されています」（https://current.ndl.go.jp/car/43342）
@@ -7912,11 +7912,11 @@
   - 「全ペアのRの結果です（観察一致率とκは筆者の計算、「報告値」は著者らの値）」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「回帰分析の種類と選び方｜結果変数で決めるモデル選択と論文記載例」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「回帰分析のモデルは、ソフトウェアのメニューではなく、測定した結果変数（アウトカム）の型で選びます」（https://japan.editverse.com/rayyan-screening-guide/）
-  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
-  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Search Strategy Example」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
+  - 「Here is a simplified example of a documented search for a systematic review on mindfulness-based interventions for anxiety disorders:」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
+  - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycInfo.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）（osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration）
 - 文脈：一次情報の探し方
@@ -11129,3 +11129,40 @@
   - 「例えば、100人を対象にアンケート調査を1回実施した場合、サンプルサイズは「100」、サンプル数は「1」となります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「調査結果などでよく見かける「n＝100」という表記の「n」は、このサンプルサイズを意味しています」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「例えば、内閣府が実施している「国民生活に関する世論調査」の回収率」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+
+## 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）（reading government statistical spreadsheets row column headers verification data journalism）
+- 文脈：手法
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
+- 文脈：手法
+- 手順・やり方：
+  - 「The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Admiralty System, NATO AJP-2.1 is a structured framework」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「. Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+- 失敗・落とし穴：
+  - 「used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+- 実例：
+  - 「While the Admiralty System wasn't originally designed for cybersecurity, its principles are remarkably adaptable to the digital realm. For example, the Admiralty System is included as a」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Improbable based on current understanding. For example, claims that don't match known tactics, techniques, and procedures (TTPs) of the threat actor.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Example 1: The Reliable Threat Report」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Example 2: The Dubious Social Media Claim」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「Example 3: The New Kid on the Block」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
+- 文脈：手法
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

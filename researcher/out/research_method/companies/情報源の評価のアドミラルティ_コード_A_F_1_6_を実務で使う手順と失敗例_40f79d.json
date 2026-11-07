@@ -1,0 +1,508 @@
+{
+ "name": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
+ "en": "admiralty code source grading practical OSINT analysts mistakes",
+ "aliases": [
+  "アドミラルティコード 情報源 評価 実務",
+  "NATO source reliability information credibility grading example",
+  "OSINT source grading handling codes"
+ ],
+ "context": "手法",
+ "kind": "market",
+ "researched_at": "2026-11-07T14:58:24.107007+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Admiralty System, NATO AJP-2.1 is a structured framework",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "While the Admiralty System wasn't originally designed for cybersecurity, its principles are remarkably adaptable to the digital realm. For example, the Admiralty System is included as a",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Improbable based on current understanding. For example, claims that don't match known tactics, techniques, and procedures (TTPs) of the threat actor.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1: The Reliable Threat Report",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2: The Dubious Social Media Claim",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 3: The New Kid on the Block",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ocaml/n/n25a2c177afc3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/goldmist1959/n/n88276ab96488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kensho_note/n/n80379e531cfb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_broom590/n/nb8198d6f9107",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takamo8/n/n243b27184120",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catill.bitbucket.io/CM/5_1_5_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hacklog_stealth/n/n5a847aa93190",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npmh.net/publication/data/66bok922169.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mign.io/articles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jenni.ai/ja/blog/what-is-a-credible-source",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cd350476/n/nb077ffe64431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdb.tsukuba.ac.jp/syllabi/2026/FG34301/jpn/0/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apophis133.medium.com/the-admiralty-system-in-cti-bad6134c567f",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 site:note.com",
+   "results": [
+    "https://note.com/ocaml/n/n25a2c177afc3",
+    "https://note.com/goldmist1959/n/n88276ab96488",
+    "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/clean_broom590/n/nb8198d6f9107",
+    "https://note.com/takamo8/n/n243b27184120",
+    "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
+    "https://note.com/worksflow/n/n091fa3d00856",
+    "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "https://note.com/frank_marketing/n/ncf9ee3c182b0"
+   ]
+  },
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 note",
+   "results": [
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://catill.bitbucket.io/CM/5_1_5_1.html",
+    "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://note.com/hacklog_stealth/n/n5a847aa93190",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14791",
+    "https://freelance-concierge.jp/articles/detail/745/",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
+   ]
+  },
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 やり方",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.npmh.net/publication/data/66bok922169.pdf",
+    "https://www.mign.io/articles/",
+    "https://solanets.com/2026/11/02/cyber-attribution-fingerprints-dprk-it-workers/",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
+   ]
+  },
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 事例",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://jenni.ai/ja/blog/what-is-a-credible-source",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://note.com/cd350476/n/nb077ffe64431",
+    "https://kdb.tsukuba.ac.jp/syllabi/2026/FG34301/jpn/0/",
+    "https://www.mign.io/articles/",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
+   ]
+  },
+  {
+   "query": "admiralty code source grading practical OSINT analysts mistakes",
+   "results": [
+    "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
+    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
+    "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "https://en.wikipedia.org/wiki/Admiralty_code",
+    "https://apophis133.medium.com/the-admiralty-system-in-cti-bad6134c567f",
+    "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
+   ]
+  },
+  {
+   "query": "site:note.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
+   "results": [
+    "https://note.com/ocaml/n/n25a2c177afc3",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/feriko_392/n/n75e9eee0d6f8",
+    "https://note.com/takamo8/n/n243b27184120",
+    "https://note.com/clean_broom590/n/nb8198d6f9107",
+    "https://note.com/aoyamacpa/n/nc8ef58a5e67a",
+    "https://note.com/frank_marketing/n/ncf9ee3c182b0",
+    "https://note.com/shiny_magpie4504/n/n44e2b1fb4962"
+   ]
+  },
+  {
+   "query": "site:x.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
+   "results": [
+    "https://x.com/hashtag/アドミラルティ・コード",
+    "https://x.com/dutcode02/status/2116972971785167337",
+    "https://jf.x.com/images/media-preview/2106581744245707050",
+    "https://jf.x.com/images/media-preview/2115172513571594744",
+    "https://jf.x.com/images/media-preview/2095414014482530420",
+    "https://x.com/dutcode02/status/2113741013269524650",
+    "https://x.com/ugkfOm6yaAKiR5N/status/2072958817529364840"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
+   "results": [
+    "https://jp.linkedin.com/pulse/source-credibility-theory-timeless-progress-from-navlakha-phd--gz08f?tl=ja",
+    "https://jp.linkedin.com/pulse/how-find-sources-your-research-paper-5-steps-dr-naureen-aleem-hpw8f?tl=ja",
+    "https://jp.linkedin.com/pulse/data-behind-ai-understanding-where-artificial-gets-its-gaz-hall-fh9de?tl=ja",
+    "https://jp.linkedin.com/pulse/why-your-enterprise-needs-single-source-truth-heliosz-yds4c?tl=ja",
+    "https://jp.linkedin.com/pulse/story-lead-time-land-asot-lewis-kennebrew-bchac?tl=ja",
+    "https://jp.linkedin.com/in/makoto-f-685651435",
+    "https://jp.linkedin.com/pulse/when-evaluating-ai-dont-forget-ilities-fergal-mcgovern-a338e?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例",
+   "results": []
+  },
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 note 社長",
+   "results": [
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://note.com/creacir/n/ndd034a907875",
+    "https://ikenplus.cfa.go.jp/api/file/6FJEJKZPY",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://note.com/cyber_forest/n/n0adce94d8c1f",
+    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "https://www.e-xtreme.co.jp/blog/50153/",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
+   ]
+  },
+  {
+   "query": "情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例 X 投稿",
+   "results": [
+    "https://camtsuku.com/guide/3811",
+    "https://zenn.dev/ricrio/articles/x-algorithm-source-code-analysis",
+    "https://nii-auth.atlassian.net/wiki/spaces/meatmailniiacjp/pages/36274344",
+    "https://note.com/kawaidesign/n/ncc48348607be",
+    "https://hasshin-lab.comtri.jp/x-community-notes/",
+    "https://www.sns.adishplus.co.jp/blog/x-twitter/blog-20250430/",
+    "https://blog.x.com/ja/company/xs-community-led-approach-tackling-inaccurate-and-misleading-information",
+    "https://d-m-f.jp/blog/0035-2/",
+    "https://www.soumu.go.jp/main_content/000938666.pdf",
+    "https://en.wikipedia.org/wiki/Admiralty_code"
+   ]
+  },
+  {
+   "query": "admiralty code source grading practical OSINT analysts mistakes site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/gareth-w-44aa5b140",
+    "https://uk.linkedin.com/in/felixghauri",
+    "https://www.linkedin.com/in/anthonykimery",
+    "https://de.linkedin.com/in/ahmed-nabil-al-eryani",
+    "https://pk.linkedin.com/in/abdul-wahid022",
+    "https://www.linkedin.com/top-content/science/science-journalism-insights/evaluating-sources-in-science-reporting/",
+    "https://de.linkedin.com/in/ohanamedeiros",
+    "https://ng.linkedin.com/in/sadiq-idris-amana-28a64a46",
+    "https://fr.linkedin.com/in/aurore-caugy-1a5085138/fr",
+    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Admiralty System, NATO AJP-2.1 is a structured framework",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "While the Admiralty System wasn't originally designed for cybersecurity, its principles are remarkably adaptable to the digital realm. For example, the Admiralty System is included as a",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Improbable based on current understanding. For example, claims that don't match known tactics, techniques, and procedures (TTPs) of the threat actor.",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1: The Reliable Threat Report",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2: The Dubious Social Media Claim",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 3: The New Kid on the Block",
+    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-07T14:58:24.107007+00:00"
+}

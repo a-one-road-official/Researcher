@@ -8,78 +8,8 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-07T10:04:07.626675+00:00",
+ "researched_at": "2026-11-07T15:05:05.984715+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、PythonでWeb APIを扱う他のケースと同じように、",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例として、「家計調査 / 家計収支編 二人以上の世帯 詳細結果表」にアクセスする際の",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ケース1: 国勢調査(2015) 「人口等基本集計」のダウンロード",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "./example1.json",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ケース2: 総務省 「社会・人口統計体系」のダウンロード",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．",
-    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ",
@@ -341,6 +271,76 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、PythonでWeb APIを扱う他のケースと同じように、",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例として、「家計調査 / 家計収支編 二人以上の世帯 詳細結果表」にアクセスする際の",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケース1: 国勢調査(2015) 「人口等基本集計」のダウンロード",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "./example1.json",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケース2: 総務省 「社会・人口統計体系」のダウンロード",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．",
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -377,7 +377,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/api/api-info/e-stat-manual",
+    "url": "https://www.e-stat.go.jp/usageguide",
     "status": "ok",
     "method": "http"
    },
@@ -387,7 +387,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.e-stat.go.jp/usageguide",
+    "url": "https://www.e-stat.go.jp/api/api-info/e-stat-manual2-1",
     "status": "ok",
     "method": "http"
    },
@@ -407,12 +407,22 @@
     "method": "http"
    },
    {
+    "url": "https://www.e-stat.go.jp/api/api-info/e-stat-manual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.e-stat.go.jp/api/info-cat/news/ssds201805",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://yutannihilation.github.io/estatapi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanaka-farm.com/blog/struggles-and-learnings-of-data-import-programming-practice-day-11_downloading-data-from-government-statistics-e-stat/",
     "status": "ok",
     "method": "http"
    },
@@ -427,22 +437,27 @@
     "method": "http"
    },
    {
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/help/operation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.e-stat.go.jp/api/api-info",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://www.e-stat.go.jp/api/api-info/api-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.kanagawa-u.ac.jp/library/search/database/list/article0702_01648",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/help/operation",
     "status": "ok",
     "method": "http"
    },
@@ -495,14 +510,14 @@
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） note",
    "results": [
-    "https://www.e-stat.go.jp/api/api-info/e-stat-manual",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/usageguide",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.e-stat.go.jp/api/api-info/e-stat-manual2-1",
     "https://exploratory.io/note/exploratory/e-Stat-API-MBG8KYC0/note_content/note.html",
     "https://www.e-stat.go.jp/api/info-cat/news",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://github.com/yutannihilation/estatapi",
+    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://www.e-stat.go.jp/api/info-cat/news/ssds201805",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
@@ -517,23 +532,23 @@
     "https://www.youtube.com/watch?v=ETC4aALShPE",
     "https://www.e-stat.go.jp/api/info-cat/news/ssds201805",
     "https://yutannihilation.github.io/estatapi/",
-    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "https://nanaka-farm.com/blog/struggles-and-learnings-of-data-import-programming-practice-day-11_downloading-data-from-government-statistics-e-stat/",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） 事例",
    "results": [
-    "https://www.e-stat.go.jp/api/api-info/e-stat-manual",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.e-stat.go.jp/api/info-cat/news",
     "https://www.e-stat.go.jp/api/api-info",
-    "https://yutannihilation.github.io/estatapi/",
-    "https://exploratory.io/note/exploratory/e-Stat-API-MBG8KYC0/note_content/note.html",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.e-stat.go.jp/api/api-info/api-data",
+    "https://www.e-stat.go.jp/api/info-cat/news",
+    "https://qiita.com/faux/items/efc4c8981510b78dd560",
     "https://www.youtube.com/watch?v=9K2L5Db9Xhk",
+    "https://yutannihilation.github.io/estatapi/",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
+    "https://www.e-stat.go.jp/api/info-cat/news/ssds201805",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
@@ -549,15 +564,15 @@
     "https://libguides.volstate.edu/data/library",
     "https://guides.lib.usf.edu/API/education",
     "https://uchidamizuki.com/jpstat/articles/estat.html",
-    "https://www.ncbi.nlm.nih.gov/home/develop/api/"
+    "https://sparcopen.org/our-work/negotiation-resources/data-analysis/usage-statistics/"
    ]
   },
   {
    "query": "site:note.com 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）",
    "results": [
     "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
+    "https://note.com/tabino4ori/n/n196bd379345c",
     "https://note.com/rosy_takin8598/n/na437d45168f2",
     "https://note.com/ianak_20251121/n/n32216bea77a6",
     "https://note.com/mankintan/n/n65f0fa60e38d",
@@ -568,11 +583,11 @@
    "query": "site:x.com 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）",
    "results": [
     "https://x.com/pengoo_writer/status/2025207882195849475",
+    "https://jf.x.com/images/media-preview/2116857055864643693",
+    "https://jf.x.com/images/media-preview/2116474487676010960",
     "https://x.com/KabayaC0718/status/2100881854081773852",
-    "https://x.com/Yan_second_0417/status/1706827392109642056",
     "https://x.com/kotsudokan/status/2083191644028121446",
     "https://x.com/lacademy1/status/2076922140138287415",
-    "https://x.com/mirai_spark/status/2080786610057273566",
     "https://x.com/ArtHappyMuseum/status/2082824459296317558"
    ]
   },
@@ -607,26 +622,26 @@
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/api/info-cat/news",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "https://www.youtube.com/watch?v=39NW-vGtA5k",
     "https://exploratory.io/note/exploratory/e-Stat-API-MBG8KYC0",
-    "https://www.youtube.com/watch?v=ETC4aALShPE",
-    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://www.e-stat.go.jp/usageguide",
     "https://qiita.com/faux/items/efc4c8981510b78dd560",
+    "https://note.com/kiyo_ai_note/n/nac8c77768c07",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
   {
    "query": "大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API） X 投稿",
    "results": [
-    "https://www.e-stat.go.jp/api/api-info/e-stat-manual",
+    "https://www.e-stat.go.jp/usageguide",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/api/info-cat/news",
     "https://yutannihilation.github.io/estatapi/",
     "https://qiita.com/faux/items/efc4c8981510b78dd560",
-    "https://www.e-stat.go.jp/usageguide",
+    "https://www.e-stat.go.jp/api/api-info",
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://uchidamizuki.com/blog/posts/2022/12/call-e-stat-api-in-r.html",
     "https://opac.lib.kansai-u.ac.jp/blogs/blog_entries/view/748/6a46a61a532fab6c0e528f74dba7e08a?frame_id=912",
+    "https://nanaka-farm.com/blog/struggles-and-learnings-of-data-import-programming-practice-day-11_downloading-data-from-government-statistics-e-stat/",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
@@ -639,17 +654,17 @@
     "https://www.linkedin.com/in/zheng-zeng-waysofliving",
     "https://www.linkedin.com/in/sam-hume-dsc",
     "https://ng.linkedin.com/in/chisom-kanu-834b42251",
-    "https://www.linkedin.com/in/griffin-olson-allen",
     "https://au.linkedin.com/in/sunchuangyuhuang",
     "https://www.linkedin.com/in/cjnolet",
-    "https://hk.linkedin.com/in/yaxin-zheng-1a7a88315"
+    "https://hk.linkedin.com/in/yaxin-zheng-1a7a88315",
+    "https://www.linkedin.com/in/kenjamesadams"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T19:15:12.890857+00:00"
 }

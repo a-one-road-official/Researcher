@@ -239,10 +239,10 @@
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：8件／数字のある品目 12件（67%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - zanusai.com と www.startus-insights.com：品目の重なり 1/2（50%）
+  - zanusai.com と 調査会社：品目の重なり 0/3（0%）
   - zanusai.com と parallellabs.app：品目の重なり 0/3（0%）
-  - zanusai.com と intuitionlabs.ai：品目の重なり 0/3（0%）
-  - www.startus-insights.com と intuitionlabs.ai：品目の重なり 0/2（0%）
-  - parallellabs.app と www.startus-insights.com：品目の重なり 0/2（0%）
+  - www.startus-insights.com と 調査会社：品目の重なり 0/2（0%）
+  - parallellabs.app と 調査会社：品目の重なり 0/2（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - LLM搭載NAS・ストレージ｜利用人数・性能［不明］

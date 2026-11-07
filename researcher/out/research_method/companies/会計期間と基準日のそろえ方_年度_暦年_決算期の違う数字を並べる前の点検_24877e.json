@@ -8,8 +8,794 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-07T10:06:33.142539+00:00",
+ "researched_at": "2026-11-07T15:07:33.432223+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "The Calendarization Framework",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Core Calendarization Methodologies",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2. Weighted Average Stub Period Methodology",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This methodology is particularly valuable when building forward multiples for private company valuations where quarterly data isn't available. The key limitation is that it assumes linear progression throughout the year, which may not hold for highly seasonal businesses.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. Quarterly Reconstruction Method",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most precise but labor-intensive approach involves reconstructing quarterly results for each comparable company and then aggregating quarters to match your desired calendar period. This method is standard practice in bulge bracket investment banking and private equity deal teams.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Inventory valuation methods (FIFO vs. LIFO) can create artificial timing differences during inflationary periods",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assumptions and methodology notes",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Present methodology and results to senior team members before using in client deliverables",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In 2024-2025, several fairness opinions have been challenged in Delaware Chancery Court proceedings, with plaintiffs' experts criticizing inadequate calendarization as evidence of flawed methodology. While these challenges have generally not succeeded on their own, they underscore the importance of rigorous, defensible technique.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "While manual calendarization in Excel remains the standard for complex situations, technology platforms are increasingly automating routine aspects of the process. Professional-grade tools like S&P Capital IQ, FactSet, and Bloomberg offer calendarized multiples as standard outputs, though users should understand the underlying methodology.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Template-based adjustment frameworks for common one-time items",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Audit logs tracking all data sources and calculation steps",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are incorporating sophisticated calendarization capabilities that allow users to quickly generate properly adjusted comparable company analyses, reducing the manual calculation burden while maintaining full transparency into methodology.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "モデルが求める精度、ソフトウェア基盤、データ型、通信方式、コンパイラ、運用体制により総所有コストが変わる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "世代交代が速い場合、旧型機の性能当たり電力費、保守費、ラック密度が不利になる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最高経営責任者は、現時点で計画している2027年と2028年の供給能力では顧客の需要を満たしきれない見込みだとし、2028年の能力を従来示していた30％増からさらに上積みする方法を検討していると述べた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FTはSynMaxの分析として、2026年稼働予定の米データセンターの約4割が遅延に直面し、Microsoft、OpenAIなどの大型案件は3か月以上遅れる見込みだと伝えた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IEAは同時に、ガスタービン、変圧器、先端チップの供給不足や系統接続の遅れ、複雑な許認可がデータセンター開発を遅らせていると指摘し、データセンター事業者と結ばれた小型モジュール炉（SMR）の計画が2024年末の25GWから45GWに増えたことも紹介している",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これがAI産業におけるジェボンズ型の反作用である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OpenAIとの大型契約への依存と、マイナスの自由キャッシュフローが懸念の中心だ",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それでも、数千億ドル規模の計算資源契約を裏付ける売上の見え方が、計上方法ひとつで200億ドル動くことを市場は思い知らされた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プロンプトの最適化、キャッシュ、小型モデルへの振り分けが進めば、利用件数が増えても計算資源需要の伸びは鈍る",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIビジネスモデルは「計算資源の時間貸し」「APIトークン課金」「月額SaaS」「AI社員型」「処理件数課金」「成果報酬」「導入・保守・監査サービス」に分けられる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "成果報酬型は魅力的だが、営業成果がAIに起因したか、顧客側の業務変更や外部要因の影響をどう除くかという問題があるため、固定料金と変動料金の併用が現実的だ",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第19章で見たとおり、年換算売上は計上方法で大きく変わる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半導体製造工場、変電所、送電線、大型発電設備は時間がかかる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給側の強みと弱点を一言でまとめると、NVIDIAは需要の厚さが強みで、利益率の緩やかな低下と顧客の内製化が弱点、TSMCは価格決定力が強みで、2027年以降の大型投資の回収が論点になる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうちOracleは、OpenAIとの大型契約への依存、マイナスの自由キャッシュフロー、格付けの低下が重なり、ハイパースケーラーの中でも信用面の弱さが際立つ",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "👇以下の記事ではテンバガーを発掘する方法を、詳細に記載しています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "権利をもらってから現金になるまでの3ステップ",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "信託型ストックオプションと2023年の給与課税",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "信託型ストックオプションは、2010年代後半から2020年代前半にかけて急速に広がった仕組みです",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この一件以降、信託型の新規採用は急減しています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業価値評価のプルータス・コンサルティングの調査によると、2025年に新規上場した企業のうち信託型ストックオプションを使っていたのは8%にとどまりました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国の大型上場企業153社（時価総額上位を業種横断で選定）",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アップルは-35%、オラクル-32%、クアルコム-33%と、大型テックにも大きく減らした会社があります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RTXはレイセオンとの統合、AMDはザイリンクスの買収、TモバイルはスプリントとのM&Aで、いずれも株式を対価とする大型再編を経ています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の153社は2026年時点で上場を続けている大型株なので、この期間に消えた高株式報酬の会社は最初から入っていません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で同じ処理をしても、メタは18%、アルファベット15%、マイクロソフト7%、エヌビディア6%、ビザ4%と、大型の勝ち組はほとんど揺らぎません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従来型のウイルス対策ソフトを置き換える形で顧客を積み上げ、直近1年で83.32%という力強い上昇を見せています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調整後の指標では利益率が十分に高く見える会社ですが、正式な会計基準で見ると利益はごく薄いという典型例になっています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "M&Aで買収した企業の人材を引き留めるために大型の株式報酬を出す方針を続けてきたことが背景にあります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増加分にはスラックやタブローなど大型買収に伴う株式発行が含まれますが、それを差し引いても株主の持ち分が薄まり続けた11年だったことは変わりません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "子会社の決算日から連結決算日までの三か月の間に、大口の取引先が倒産した、工場で事故が起きた、大型の契約が解約された",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期ズレを解消する方法は、大きく二つある",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "差異期間の損益を連結損益計算書に含めて処理する方法と、連結損益計算書を通さずに利益剰余金で直接調整する方法",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "買収した子会社の経理統合は、人の入れ替えより締めの型を先に移す",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変更の期の差異期間の損益は、監査法人と協議のうえ利益剰余金で直接調整する方法を選び、注記した",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2社とも、切り替えた期には差異期間の損益を米欧の2社と同じ方法で処理して注記している",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持分法適用会社の取り込み、数字が届かない関連会社を決算に載せる方法",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "If holiday sales represented 40% of annual EBITDA and came in 8% below expectations, Company A's reported results reflect this weakness while Company B's forward estimates may not yet be adjusted. An analyst using unadjusted forward multiples could undervalue Company A by 15-20% relative to Company B, despite identical underlying business performance.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For companies without quarterly reporting or in situations where you need forward-looking metrics, the weighted average approach estimates results for partial periods by prorating annual figures.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "7 months actual + 5 months estimated",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "FY2025 is 11 months actual + 1 month estimated (ends June 2025)",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because \"forward\" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because \"forward\" is mostly estimated and includes more uncertainty).",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Obtaining consensus analyst estimates (from Bloomberg, FactSet, or S&P Capital IQ)",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Weighting fiscal year estimates accordingly",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This approach ensures that all forward multiples reflect the same time horizon and similar levels of estimate uncertainty, creating true comparability.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Consensus estimates for forward periods",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Validate that forward estimates align with consensus ranges",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第30章 予測リストの検証――何がすでに起き、何が極端か",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらは証券会社の推計であり、会社の計画値ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただ、その制度を株主の側から眺めるとどう見えるのかを、数字で検証した記事はほとんど見当たりません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "教科書に書いてある結論と、数字が示す結論はきれいに食い違いました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここからは、通説の検証に入ります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上の概念が当てはまりにくい金融・REITは、この検証から除きました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ検証を株式報酬÷営業キャッシュフローでもやりました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヘルスケアや小売、エネルギーといった業種は、今回の検証でも株式報酬が最も軽いグループ（Q5）の常連でした",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "連結消去仕訳が止まる原因は照合の段取り、内部取引と未実現利益の実務",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
+    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、TSMCとNVIDIAは過去最高の決算を出し、メモリ大手は2027年分の生産枠をほぼ売り切ったと伝えられている",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月時点の状況を各制約に当てはめると、④GPUと⑤メモリは「供給者の決算が過去最高で、受注は先まで埋まっている」段階、②データセンターと③電力は「計画は多いが着工・接続が遅れている」段階、⑥資金は「借り手の選別が始まった」段階にある",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給制約下の過去最高決算と、利益率の緩やかな低下が同時に起きている点は押さえておきたい",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10月15日発表の2026年7〜9月期決算は、売上1兆4,942億台湾ドル（約467億米ドル）、純利益7,631億台湾ドルで、純利益は前年同期比68.7％増と過去最高を更新した",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ決算の中で、スマートフォンなど完成品部門は2四半期連続の営業赤字になる見通しと伝えられた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI向けのメモリ高騰が、消費者向け機器の需要を押しのけている構図が一社の決算の中に表れている",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確定決算は10月29日に発表される予定である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハイパースケーラーの決算にもメモリ高騰は表れた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算が過去最高でも、市場はすでに「メモリの山の後」を織り込み始めている",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今後のデータセンター供給統計では、IT負荷のMW、契約済みMW、送電接続済みMW、GPU搭載ラック数、商用利用可能MWを分ける必要がある",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次の確認点は11月の7〜9月期決算と、年内に期限を迎える債務の借り換え条件である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4大ハイパースケーラーの2026年の設備投資見通しは、7月末の決算で軒並み上方修正された",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10月下旬から始まる7〜9月期決算で、2027年の見通しがどう語られるかが最大の焦点となる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026〜2030年の投資計画を企業比較する際は、投資予定額だけでなく発表日、決算期、対象範囲（GPU購入か、土地建物か、メモリか）、確定契約か希望計画か、実際の稼働開始時期をそろえる必要がある",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "値上がりしたときだけ効くオプションより、渡した瞬間から価値のあるRSUのほうが採用競争で強いからです",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株主の側から決算書を読むなら、当期の株式報酬額だけでなく、この残高を見ておく意味は小さくありません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この一件以降、信託型の新規採用は急減しています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年5月20日に発表された2027年1月期第1四半期の決算資料で、エヌビディアは次のように記載しています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算期末が6月以前の会社は前年度として扱い、暦年におおむねそろえています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "M&Aによる発行と株式報酬による発行は、決算書の株数の上では区別されずに混ざります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年7月1日に、その時点ですでに提出済みの直近本決算だけを使って全銘柄を並べます",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算発表前の情報を使わない、いわゆるポイントインタイム方式です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算期末から18か月以上古いデータしか使えない銘柄は除外します",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "直近本決算で、株式報酬が営業キャッシュフローに占める割合が高かった上位はこうなりました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指標ブロックの株価と1年変動率はGoogle Financeの表示値、株式報酬は直近本決算の実額です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式報酬という文脈でエヌビディアが重要なのは、2026年5月20日の決算発表で",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "M&Aによる株式発行と株式報酬による発行が、決算書の株数の上では区別されずに混ざる典型例です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算を見るときの3つのチェック",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RTXのレイセオン統合、AMDのザイリンクス買収、TモバイルとスプリントのM&Aなど、株式を対価とする再編は決算書の上で株式報酬と区別できません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "子会社の決算日が親会社と違うとき、決算期の統一と仮決算の比較｜CFOzine",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮決算のコストは、子会社の月次決算の質で決まる",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算期を揃えるかどうかの判断で押さえる三点",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社は3月決算、子会社は12月決算",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "連結財務諸表に関する会計基準第16項は、子会社の決算日が連結決算日と異なる場合には、子会社は連結決算日に正規の決算に準ずる合理的な手続により決算を行う、と定めている",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのうえで注4が、決算日の差異が3か月を超えない場合には子会社の正規の決算を基礎として連結決算を行うことができる、と容認している",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算日が異なることから生ずる連結会社間の取引に係る会計記録の重要な不一致について、必要な整理を行うこと",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまり三か月ルールを使う会社は、仮決算の手間を省く代わりに、ズレから生じる親子間の不一致を毎期調整する義務を負っている",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IFRS第10号は、連結に用いる親会社と子会社の財務諸表を同じ日付とすることを求め、子会社の決算日が異なる場合には、実務上不可能でない限り、親会社と同じ日付の追加の財務情報を作成させる",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期ズレのまま取り込む会社は、仮決算をしていない分だけ楽をしているように見える",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社が3月決算、子会社が12月決算なら、1月から3月に親子間で行われた取引は、親会社の当期には入っているが、連結に取り込む子会社の数字には入っていない",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親子間の取引が多いグループほど、この作業は重くなり、しかも決算の終盤、最も時間のない時期に発生する",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "子会社の決算日から連結決算日までの三か月の間に、大口の取引先が倒産した、工場で事故が起きた、大型の契約が解約された",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社計算規則第114条第2項は、連結注記表の重要な後発事象について、決算日の異なる子会社等については当該子会社等の事業年度の末日後に発生した事象とすると定めている",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後発事象の評価期間は2027年4月から変わる、決算日後に拾い切る仕組み",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "Technical Considerations and Common Pitfalls",
@@ -325,792 +1111,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "If holiday sales represented 40% of annual EBITDA and came in 8% below expectations, Company A's reported results reflect this weakness while Company B's forward estimates may not yet be adjusted. An analyst using unadjusted forward multiples could undervalue Company A by 15-20% relative to Company B, despite identical underlying business performance.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For companies without quarterly reporting or in situations where you need forward-looking metrics, the weighted average approach estimates results for partial periods by prorating annual figures.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "7 months actual + 5 months estimated",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "FY2025 is 11 months actual + 1 month estimated (ends June 2025)",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because \"forward\" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because \"forward\" is mostly estimated and includes more uncertainty).",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Obtaining consensus analyst estimates (from Bloomberg, FactSet, or S&P Capital IQ)",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Weighting fiscal year estimates accordingly",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This approach ensures that all forward multiples reflect the same time horizon and similar levels of estimate uncertainty, creating true comparability.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Consensus estimates for forward periods",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Validate that forward estimates align with consensus ranges",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第30章 予測リストの検証――何がすでに起き、何が極端か",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらは証券会社の推計であり、会社の計画値ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただ、その制度を株主の側から眺めるとどう見えるのかを、数字で検証した記事はほとんど見当たりません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "教科書に書いてある結論と、数字が示す結論はきれいに食い違いました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここからは、通説の検証に入ります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "売上の概念が当てはまりにくい金融・REITは、この検証から除きました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ検証を株式報酬÷営業キャッシュフローでもやりました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ヘルスケアや小売、エネルギーといった業種は、今回の検証でも株式報酬が最も軽いグループ（Q5）の常連でした",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "連結消去仕訳が止まる原因は照合の段取り、内部取引と未実現利益の実務",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The Calendarization Framework",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Core Calendarization Methodologies",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2. Weighted Average Stub Period Methodology",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This methodology is particularly valuable when building forward multiples for private company valuations where quarterly data isn't available. The key limitation is that it assumes linear progression throughout the year, which may not hold for highly seasonal businesses.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. Quarterly Reconstruction Method",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The most precise but labor-intensive approach involves reconstructing quarterly results for each comparable company and then aggregating quarters to match your desired calendar period. This method is standard practice in bulge bracket investment banking and private equity deal teams.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Inventory valuation methods (FIFO vs. LIFO) can create artificial timing differences during inflationary periods",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assumptions and methodology notes",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Present methodology and results to senior team members before using in client deliverables",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In 2024-2025, several fairness opinions have been challenged in Delaware Chancery Court proceedings, with plaintiffs' experts criticizing inadequate calendarization as evidence of flawed methodology. While these challenges have generally not succeeded on their own, they underscore the importance of rigorous, defensible technique.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While manual calendarization in Excel remains the standard for complex situations, technology platforms are increasingly automating routine aspects of the process. Professional-grade tools like S&P Capital IQ, FactSet, and Bloomberg offer calendarized multiples as standard outputs, though users should understand the underlying methodology.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Template-based adjustment frameworks for common one-time items",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Audit logs tracking all data sources and calculation steps",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are incorporating sophisticated calendarization capabilities that allow users to quickly generate properly adjusted comparable company analyses, reducing the manual calculation burden while maintaining full transparency into methodology.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "モデルが求める精度、ソフトウェア基盤、データ型、通信方式、コンパイラ、運用体制により総所有コストが変わる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "世代交代が速い場合、旧型機の性能当たり電力費、保守費、ラック密度が不利になる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最高経営責任者は、現時点で計画している2027年と2028年の供給能力では顧客の需要を満たしきれない見込みだとし、2028年の能力を従来示していた30％増からさらに上積みする方法を検討していると述べた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "FTはSynMaxの分析として、2026年稼働予定の米データセンターの約4割が遅延に直面し、Microsoft、OpenAIなどの大型案件は3か月以上遅れる見込みだと伝えた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IEAは同時に、ガスタービン、変圧器、先端チップの供給不足や系統接続の遅れ、複雑な許認可がデータセンター開発を遅らせていると指摘し、データセンター事業者と結ばれた小型モジュール炉（SMR）の計画が2024年末の25GWから45GWに増えたことも紹介している",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これがAI産業におけるジェボンズ型の反作用である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OpenAIとの大型契約への依存と、マイナスの自由キャッシュフローが懸念の中心だ",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それでも、数千億ドル規模の計算資源契約を裏付ける売上の見え方が、計上方法ひとつで200億ドル動くことを市場は思い知らされた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プロンプトの最適化、キャッシュ、小型モデルへの振り分けが進めば、利用件数が増えても計算資源需要の伸びは鈍る",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIビジネスモデルは「計算資源の時間貸し」「APIトークン課金」「月額SaaS」「AI社員型」「処理件数課金」「成果報酬」「導入・保守・監査サービス」に分けられる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "成果報酬型は魅力的だが、営業成果がAIに起因したか、顧客側の業務変更や外部要因の影響をどう除くかという問題があるため、固定料金と変動料金の併用が現実的だ",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第19章で見たとおり、年換算売上は計上方法で大きく変わる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "半導体製造工場、変電所、送電線、大型発電設備は時間がかかる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "供給側の強みと弱点を一言でまとめると、NVIDIAは需要の厚さが強みで、利益率の緩やかな低下と顧客の内製化が弱点、TSMCは価格決定力が強みで、2027年以降の大型投資の回収が論点になる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このうちOracleは、OpenAIとの大型契約への依存、マイナスの自由キャッシュフロー、格付けの低下が重なり、ハイパースケーラーの中でも信用面の弱さが際立つ",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "👇以下の記事ではテンバガーを発掘する方法を、詳細に記載しています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "権利をもらってから現金になるまでの3ステップ",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "信託型ストックオプションと2023年の給与課税",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "信託型ストックオプションは、2010年代後半から2020年代前半にかけて急速に広がった仕組みです",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この一件以降、信託型の新規採用は急減しています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業価値評価のプルータス・コンサルティングの調査によると、2025年に新規上場した企業のうち信託型ストックオプションを使っていたのは8%にとどまりました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "米国の大型上場企業153社（時価総額上位を業種横断で選定）",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アップルは-35%、オラクル-32%、クアルコム-33%と、大型テックにも大きく減らした会社があります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RTXはレイセオンとの統合、AMDはザイリンクスの買収、TモバイルはスプリントとのM&Aで、いずれも株式を対価とする大型再編を経ています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回の153社は2026年時点で上場を続けている大型株なので、この期間に消えた高株式報酬の会社は最初から入っていません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で同じ処理をしても、メタは18%、アルファベット15%、マイクロソフト7%、エヌビディア6%、ビザ4%と、大型の勝ち組はほとんど揺らぎません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従来型のウイルス対策ソフトを置き換える形で顧客を積み上げ、直近1年で83.32%という力強い上昇を見せています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調整後の指標では利益率が十分に高く見える会社ですが、正式な会計基準で見ると利益はごく薄いという典型例になっています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "M&Aで買収した企業の人材を引き留めるために大型の株式報酬を出す方針を続けてきたことが背景にあります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "増加分にはスラックやタブローなど大型買収に伴う株式発行が含まれますが、それを差し引いても株主の持ち分が薄まり続けた11年だったことは変わりません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "子会社の決算日から連結決算日までの三か月の間に、大口の取引先が倒産した、工場で事故が起きた、大型の契約が解約された",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "期ズレを解消する方法は、大きく二つある",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "差異期間の損益を連結損益計算書に含めて処理する方法と、連結損益計算書を通さずに利益剰余金で直接調整する方法",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "買収した子会社の経理統合は、人の入れ替えより締めの型を先に移す",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "変更の期の差異期間の損益は、監査法人と協議のうえ利益剰余金で直接調整する方法を選び、注記した",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2社とも、切り替えた期には差異期間の損益を米欧の2社と同じ方法で処理して注記している",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "持分法適用会社の取り込み、数字が届かない関連会社を決算に載せる方法",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で、TSMCとNVIDIAは過去最高の決算を出し、メモリ大手は2027年分の生産枠をほぼ売り切ったと伝えられている",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2026年10月時点の状況を各制約に当てはめると、④GPUと⑤メモリは「供給者の決算が過去最高で、受注は先まで埋まっている」段階、②データセンターと③電力は「計画は多いが着工・接続が遅れている」段階、⑥資金は「借り手の選別が始まった」段階にある",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "供給制約下の過去最高決算と、利益率の緩やかな低下が同時に起きている点は押さえておきたい",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "10月15日発表の2026年7〜9月期決算は、売上1兆4,942億台湾ドル（約467億米ドル）、純利益7,631億台湾ドルで、純利益は前年同期比68.7％増と過去最高を更新した",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ決算の中で、スマートフォンなど完成品部門は2四半期連続の営業赤字になる見通しと伝えられた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI向けのメモリ高騰が、消費者向け機器の需要を押しのけている構図が一社の決算の中に表れている",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確定決算は10月29日に発表される予定である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ハイパースケーラーの決算にもメモリ高騰は表れた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算が過去最高でも、市場はすでに「メモリの山の後」を織り込み始めている",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今後のデータセンター供給統計では、IT負荷のMW、契約済みMW、送電接続済みMW、GPU搭載ラック数、商用利用可能MWを分ける必要がある",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "次の確認点は11月の7〜9月期決算と、年内に期限を迎える債務の借り換え条件である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4大ハイパースケーラーの2026年の設備投資見通しは、7月末の決算で軒並み上方修正された",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "10月下旬から始まる7〜9月期決算で、2027年の見通しがどう語られるかが最大の焦点となる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2026〜2030年の投資計画を企業比較する際は、投資予定額だけでなく発表日、決算期、対象範囲（GPU購入か、土地建物か、メモリか）、確定契約か希望計画か、実際の稼働開始時期をそろえる必要がある",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "値上がりしたときだけ効くオプションより、渡した瞬間から価値のあるRSUのほうが採用競争で強いからです",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株主の側から決算書を読むなら、当期の株式報酬額だけでなく、この残高を見ておく意味は小さくありません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この一件以降、信託型の新規採用は急減しています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2026年5月20日に発表された2027年1月期第1四半期の決算資料で、エヌビディアは次のように記載しています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算期末が6月以前の会社は前年度として扱い、暦年におおむねそろえています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "M&Aによる発行と株式報酬による発行は、決算書の株数の上では区別されずに混ざります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "毎年7月1日に、その時点ですでに提出済みの直近本決算だけを使って全銘柄を並べます",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算発表前の情報を使わない、いわゆるポイントインタイム方式です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算期末から18か月以上古いデータしか使えない銘柄は除外します",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "直近本決算で、株式報酬が営業キャッシュフローに占める割合が高かった上位はこうなりました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "指標ブロックの株価と1年変動率はGoogle Financeの表示値、株式報酬は直近本決算の実額です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式報酬という文脈でエヌビディアが重要なのは、2026年5月20日の決算発表で",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "M&Aによる株式発行と株式報酬による発行が、決算書の株数の上では区別されずに混ざる典型例です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算を見るときの3つのチェック",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RTXのレイセオン統合、AMDのザイリンクス買収、TモバイルとスプリントのM&Aなど、株式を対価とする再編は決算書の上で株式報酬と区別できません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "子会社の決算日が親会社と違うとき、決算期の統一と仮決算の比較｜CFOzine",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仮決算のコストは、子会社の月次決算の質で決まる",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算期を揃えるかどうかの判断で押さえる三点",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "親会社は3月決算、子会社は12月決算",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "連結財務諸表に関する会計基準第16項は、子会社の決算日が連結決算日と異なる場合には、子会社は連結決算日に正規の決算に準ずる合理的な手続により決算を行う、と定めている",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのうえで注4が、決算日の差異が3か月を超えない場合には子会社の正規の決算を基礎として連結決算を行うことができる、と容認している",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算日が異なることから生ずる連結会社間の取引に係る会計記録の重要な不一致について、必要な整理を行うこと",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり三か月ルールを使う会社は、仮決算の手間を省く代わりに、ズレから生じる親子間の不一致を毎期調整する義務を負っている",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IFRS第10号は、連結に用いる親会社と子会社の財務諸表を同じ日付とすることを求め、子会社の決算日が異なる場合には、実務上不可能でない限り、親会社と同じ日付の追加の財務情報を作成させる",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "期ズレのまま取り込む会社は、仮決算をしていない分だけ楽をしているように見える",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "親会社が3月決算、子会社が12月決算なら、1月から3月に親子間で行われた取引は、親会社の当期には入っているが、連結に取り込む子会社の数字には入っていない",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "親子間の取引が多いグループほど、この作業は重くなり、しかも決算の終盤、最も時間のない時期に発生する",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "子会社の決算日から連結決算日までの三か月の間に、大口の取引先が倒産した、工場で事故が起きた、大型の契約が解約された",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社計算規則第114条第2項は、連結注記表の重要な後発事象について、決算日の異なる子会社等については当該子会社等の事業年度の末日後に発生した事象とすると定めている",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "後発事象の評価期間は2027年4月から変わる、決算日後に拾い切る仕組み",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -1262,15 +1262,7 @@
   },
   {
    "query": "会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検） 事例",
-   "results": [
-    "https://otemachiprep.com/glossary/fiscal-year-calendar-conversion/",
-    "https://www.yayoi-kk.co.jp/kaikei/oyakudachi/kaikeikikan/",
-    "https://www.issoh.co.jp/column/details/17980/",
-    "https://shirugear.com/articles/fiscal-year-guide",
-    "https://business.ntt-east.co.jp/column/service/ohs/account-year.html",
-    "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/jigyonendo/",
-    "https://biz.moneyforward.com/accounting/basic/75536/"
-   ]
+   "results": []
   },
   {
    "query": "fiscal year calendar year alignment comparing statistics company data",
@@ -1281,7 +1273,8 @@
     "https://stablebread.com/calendarization/",
     "https://www.ivaluate.eu/blog/calendarization-in-comp-analysis-mastering-fiscal-year-adjustments-2026-07-03",
     "https://morrowcreekdataservices.com/journal/how-to-compare-business-metrics-when-fiscal-years-do-not-align/",
-    "https://pomegra.io/learn/library/track-b-stock-market-core/financial-statements/chapter-01-why-statements-matter/fiscal-year-vs-calendar-year"
+    "https://pomegra.io/learn/library/track-b-stock-market-core/financial-statements/chapter-01-why-statements-matter/fiscal-year-vs-calendar-year",
+    "https://finance-able.com/blog/calendarization/"
    ]
   },
   {
@@ -1293,7 +1286,8 @@
     "https://note.com/lemuria793/n/n732e36bf2c4d",
     "https://note.com/aigx/n/n0800a149dd7b",
     "https://note.com/mizukamijs6/n/nb0aa48d70626",
-    "https://note.com/nori_noguchi/n/n2ab686a58ce4"
+    "https://note.com/nori_noguchi/n/n2ab686a58ce4",
+    "https://note.com/tetsuya_hori/n/naae5355eaf3f"
    ]
   },
   {
@@ -1370,222 +1364,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Technical Considerations and Common Pitfalls",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because \"forward\" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because \"forward\" is mostly estimated and includes more uncertainty).",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "To address this bias, sophisticated practitioners use Next Twelve Months (NTM) multiples, which represent the twelve-month period immediately following the valuation date, regardless of fiscal year boundaries. For a May 15, 2025 valuation date, NTM covers May 15, 2025 through May 14, 2026 for all companies.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This eliminates fiscal year bias and provides consistent forward-looking comparability",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Real-World Impact: The Retail Sector Example",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Professional valuation practitioners employ three primary approaches, each with specific use cases:",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, to calculate TTM revenue as of March 31, 2025 for a June fiscal year-end company:",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, for a June FYE company valued on May 15, 2025:",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "If holiday sales represented 40% of annual EBITDA and came in 8% below expectations, Company A's reported results reflect this weakness while Company B's forward estimates may not yet be adjusted. An analyst using unadjusted forward multiples could undervalue Company A by 15-20% relative to Company B, despite identical underlying business performance.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For companies without quarterly reporting or in situations where you need forward-looking metrics, the weighted average approach estimates results for partial periods by prorating annual figures.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "7 months actual + 5 months estimated",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "FY2025 is 11 months actual + 1 month estimated (ends June 2025)",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This creates a systematic bias where companies with fiscal years ending soon after the valuation date appear to trade at lower forward multiples (because \"forward\" is nearly complete and thus more certain), while companies with fiscal years ending well after the valuation date appear more expensive (because \"forward\" is mostly estimated and includes more uncertainty).",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Obtaining consensus analyst estimates (from Bloomberg, FactSet, or S&P Capital IQ)",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Weighting fiscal year estimates accordingly",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This approach ensures that all forward multiples reflect the same time horizon and similar levels of estimate uncertainty, creating true comparability.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Consensus estimates for forward periods",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Validate that forward estimates align with consensus ranges",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The Calendarization Framework",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Core Calendarization Methodologies",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2. Weighted Average Stub Period Methodology",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This methodology is particularly valuable when building forward multiples for private company valuations where quarterly data isn't available. The key limitation is that it assumes linear progression throughout the year, which may not hold for highly seasonal businesses.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. Quarterly Reconstruction Method",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The most precise but labor-intensive approach involves reconstructing quarterly results for each comparable company and then aggregating quarters to match your desired calendar period. This method is standard practice in bulge bracket investment banking and private equity deal teams.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Inventory valuation methods (FIFO vs. LIFO) can create artificial timing differences during inflationary periods",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assumptions and methodology notes",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Present methodology and results to senior team members before using in client deliverables",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In 2024-2025, several fairness opinions have been challenged in Delaware Chancery Court proceedings, with plaintiffs' experts criticizing inadequate calendarization as evidence of flawed methodology. While these challenges have generally not succeeded on their own, they underscore the importance of rigorous, defensible technique.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While manual calendarization in Excel remains the standard for complex situations, technology platforms are increasingly automating routine aspects of the process. Professional-grade tools like S&P Capital IQ, FactSet, and Bloomberg offer calendarized multiples as standard outputs, though users should understand the underlying methodology.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Template-based adjustment frameworks for common one-time items",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Audit logs tracking all data sources and calculation steps",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "are incorporating sophisticated calendarization capabilities that allow users to quickly generate properly adjusted comparable company analyses, reducing the manual calculation burden while maintaining full transparency into methodology.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.",
-    "url": "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-06T15:02:12.184889+00:00"
 }

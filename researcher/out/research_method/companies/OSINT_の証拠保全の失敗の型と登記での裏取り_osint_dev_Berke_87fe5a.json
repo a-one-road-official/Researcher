@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-07T10:15:48.113989+00:00",
+ "researched_at": "2026-11-07T15:07:30.839186+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -133,6 +133,14 @@
    },
    {
     "quote": "Вопросы и ответы: Использование расследований по открытым источникам в судебных процессах по правам человека (PDF)",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.",
     "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -483,14 +491,6 @@
    },
    {
     "quote": "has spent a lot of time exploring tools that help to automate capture and analysis of large datasets from social media, such as pinpoint. Really helpful are the many dashboards that open source investigators have created, which compile a number of useful tools (most free) in one place. An example includes that put out by",
-    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.",
     "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1075,27 +1075,22 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/j_circon/n/n29eab4f9b17e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/platypus2000jp/n/n908cf3d0301e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/solo_style/n/n985b3c636ab6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "url": "https://note.com/j_circon/n/n29eab4f9b17e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "url": "https://note.com/dds_field_note/n/neccd096ac071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dds_field_note/n/n7e979f5f57d5",
     "status": "ok",
     "method": "http"
    },
@@ -1105,27 +1100,57 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/magic_vole6213/n/ned75084de255",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-security.printemps.tokyo/articles/recon-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itdojp.github.io/white-hat-cyber-intelligence-book/references/chapter-10-source-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/dfir-forensics-matome/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/security-failure-12-evidence-preservation-202606",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://keep.google.com/&followup=https://keep.google.com/&ltmpl=keep&passive=1209600&service=memento&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-67028160:1794064100663042",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "url": "https://osint.dev/tools/singlefile/docs/evidence-capture-workflow",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ethosrisk.com/blog/osint-best-practices/",
+    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
     "status": "ok",
     "method": "http"
    },
@@ -1135,92 +1160,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://globe.asahi.com/article/14757751",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://search.criminalip.io/ja/asset/report/218.188.222.31",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.akamai.com/ja/blog",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jpcert.or.jp/magazine/chronology/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://digitallibrary.un.org/record/3973652",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://academic.oup.com/lril/article/13/1/93/8126615",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.academia.edu/81631939/The_Berkeley_Protocol_on_Digital_Open_Source_Investigations_A_Practical_Guide_on_the_Effective_Use_of_Digital_Open_Source_Information_in_International_Human_Rights_Humanitarian_Law_and_Criminal_Investigations",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "url": "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
     "status": "ok",
     "method": "http"
    }
@@ -1230,14 +1170,11 @@
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） site:note.com",
    "results": [
-    "https://note.com/j_circon/n/n29eab4f9b17e",
-    "https://note.com/platypus2000jp/n/n908cf3d0301e",
     "https://note.com/solo_style/n/n985b3c636ab6",
-    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
-    "https://note.com/kishioka/n/nf3b74d4d4ffe",
-    "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "https://note.com/j_circon/n/n29eab4f9b17e",
     "https://note.com/dds_field_note/n/neccd096ac071",
     "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
     "https://note.com/magic_vole6213/n/ned75084de255",
     "https://note.com/nikinusu318/n/nf6a8daf345d3"
    ]
@@ -1245,69 +1182,44 @@
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note",
    "results": [
-    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
-    "https://osint.dev/articles/osint-is-not-just-searching",
-    "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
-    "https://ethosrisk.com/blog/osint-best-practices/",
-    "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
-    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
-    "https://www.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e"
+    "https://media-security.printemps.tokyo/articles/recon-osint",
+    "https://itdojp.github.io/white-hat-cyber-intelligence-book/references/chapter-10-source-review/",
+    "https://note.com/",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://yasashii-cybersecurity.com/dfir-forensics-matome/",
+    "https://gxo.co.jp/column/security-failure-12-evidence-preservation-202606",
+    "https://keep.google.com/"
    ]
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） やり方",
-   "results": [
-    "https://ethosrisk.com/blog/osint-best-practices/",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.youtube.com/watch?v=lr-4eNnBKNA",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
-    "https://eset-info.canon-its.jp/malware_info/special/detail/210901.html"
-   ]
+   "results": []
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） 事例",
-   "results": [
-    "https://globe.asahi.com/article/14757751",
-    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
-    "https://www.akamai.com/ja/blog",
-    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
-    "https://www.jpcert.or.jp/magazine/chronology/",
-    "https://www.mason-c.co.jp/security_magazine/",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20171023-35109174-cnn-int&lang=ja",
-    "https://researchmap.jp/yonemurakotaro/research_projects/44986637?lang=ja"
-   ]
+   "results": []
   },
   {
    "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration",
    "results": [
+    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "https://osint.dev/tools/singlefile/docs/evidence-capture-workflow",
+    "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
     "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
-    "https://osint.dev/articles/osint-is-not-just-searching",
-    "https://digitallibrary.un.org/record/3973652",
-    "https://academic.oup.com/lril/article/13/1/93/8126615",
-    "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "https://www.academia.edu/81631939/The_Berkeley_Protocol_on_Digital_Open_Source_Investigations_A_Practical_Guide_on_the_Effective_Use_of_Digital_Open_Source_Information_in_International_Human_Rights_Humanitarian_Law_and_Criminal_Investigations",
-    "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
-    "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source"
+    "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
+    "https://github.com/igor-invernon/investigation-frameworks/tree/main"
    ]
   },
   {
    "query": "site:note.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
    "results": [
+    "https://note.com/solo_style/n/n985b3c636ab6",
     "https://note.com/j_circon/n/n29eab4f9b17e",
-    "https://note.com/dds_field_note/n/n820dbccacd9f",
     "https://note.com/dds_field_note/n/neccd096ac071",
     "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
     "https://note.com/magic_vole6213/n/ned75084de255",
-    "https://note.com/nikinusu318/n/nf6a8daf345d3",
     "https://note.com/chan0419/n/n78bfff16ae26"
    ]
   },
@@ -1319,80 +1231,57 @@
     "https://x.com/chisaidehissori/status/2094050470071607429",
     "https://x.com/chisaidehissori/status/2083008452138614830",
     "https://x.com/chisaidehissori/status/2083008449617784982",
-    "https://x.com/chisaidehissori/status/1800528837463388558",
-    "https://x.com/chisaidehissori/status/2100454320387113453"
+    "https://x.com/chisaidehissori/status/2100454320387113453",
+    "https://x.com/chisaidehissori/status/1800528837463388558"
    ]
   },
   {
    "query": "site:linkedin.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
    "results": [
-    "https://jp.linkedin.com/pulse/10-deadly-sins-osint-part-1-skull-games-solutions-pbetc?tl=ja",
     "https://jp.linkedin.com/pulse/osint-cyber-forensics-cracking-digital-mystery-er-mohit-dhabuwala-8p0yf?tl=ja",
-    "https://www.linkedin.com/posts/frost-sullivan-japan_osint-cybersecurity-threatintelligence-activity-7401149478231146496-G1dn",
     "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
     "https://www.linkedin.com/posts/tomoko-tanizaki_hack-fes-2026でのワークショップmythos世代のネットワークosint-activity-7485312493448364033-itHP",
     "https://it.linkedin.com/posts/nihonmatsu_sansのnew-to-cyber-field-manualによればosint-activity-7061860609398640640-QxbP",
-    "https://jp.linkedin.com/pulse/osint-techniques-can-reveal-more-than-youthink-nazrul-islam-rana-xogfc?tl=ja"
+    "https://jp.linkedin.com/pulse/osint-unlocked-building-transparent-defensible-toby-langston-a2yde?tl=ja",
+    "https://jp.linkedin.com/pulse/10-deadly-sins-osint-part-1-skull-games-solutions-pbetc?tl=ja",
+    "https://www.linkedin.com/posts/frost-sullivan-japan_osint-cybersecurity-threatintelligence-activity-7401149478231146496-G1dn"
    ]
   },
   {
    "query": "site:facebook.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
    "results": [
     "https://www.facebook.com/qiita/posts/100lgtm-普段の調査で利用するosintまとめ-by-_roku_/2926902907345529/",
-    "https://www.facebook.com/nihonmatsu/posts/確かにosintは技術よりも倫理が大切だと思います脅威インテリジェンスは攻撃者の文化的背景組織構造経済政治的要因を元に攻撃者の意図を読み解きプライバシーに踏み込/24188431947432357/",
-    "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報6月24日水開催-経済安全保障osint活用セミナー第4回研究における産業スパイ対策事例研究セキュリティ確保のため必要な取り組みとは詳細お申し込み-/1539739791497336/",
     "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
-    "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
+    "https://www.facebook.com/nihonmatsu/posts/確かにosintは技術よりも倫理が大切だと思います脅威インテリジェンスは攻撃者の文化的背景組織構造経済政治的要因を元に攻撃者の意図を読み解きプライバシーに踏み込/24188431947432357/",
     "https://www.facebook.com/InteropTokyo/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/1532652158197756/",
-    "https://www.facebook.com/kenji.asada.2025/photos/フェンタニル続報ルポ②です日本拠点のボスのさらに奥にいた親玉yip-chuen-fat葉伝発how-did-he-rise-to-become-a-global/3195494867323965/"
+    "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
+    "https://www.facebook.com/kenji.asada.2025/photos/フェンタニル続報ルポ②です日本拠点のボスのさらに奥にいた親玉yip-chuen-fat葉伝発how-did-he-rise-to-become-a-global/3195494867323965/",
+    "https://www.facebook.com/takao19861208/videos/あなたの前太ももはもしかしてパンパンに張ってるもしくはかなり太いんじゃなくって-そんなあなたにお届けする太ももの裏トレーニングこれを行うと太もも痩せ足痩せに効果/1778494316521512/"
    ]
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note 社長",
-   "results": [
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
-    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
-    "https://globe.asahi.com/article/14757751",
-    "https://osint.jp/",
-    "https://note.com/sherlokian/n/nc28aed5f6c3a",
-    "https://cysec148.hatenablog.com/entry/2025/06/30/164859"
-   ]
+   "results": []
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） X 投稿",
-   "results": [
-    "https://ethosrisk.com/blog/osint-best-practices/",
-    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://x.com/osintjapan",
-    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
-    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
-    "https://osint.jp/",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/02700/010900002/?P=2"
-   ]
+   "results": []
   },
   {
    "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/bradleyshervheim",
-    "https://www.linkedin.com/in/fuhardixit",
-    "https://www.linkedin.com/in/tanishkamali",
-    "https://www.linkedin.com/in/tessrubin",
-    "https://www.linkedin.com/in/andromeda-ambard",
-    "https://www.linkedin.com/in/michaelangelomelo",
-    "https://www.linkedin.com/in/ernest-templin",
-    "https://www.linkedin.com/in/steve-yip",
-    "https://ca.linkedin.com/in/jamesallan626",
-    "https://es.linkedin.com/in/benjamin-wolter"
+    "https://www.linkedin.com/posts/activity-7513484300533673985-Gm0j",
+    "https://www.linkedin.com/pulse/ethical-effective-digital-human-rights-inquiries-galal-abukhashaba-hnyuc",
+    "https://cy.linkedin.com/posts/susan-wolfinbarger-ph-d-4738a336_in-ukraine-berkeley-experts-are-shaping-activity-7033985774706425856-Xgzp",
+    "https://www.linkedin.com/posts/osmosis-institute_osint-berkelyprotocol-osmosis-activity-7322983059165691906-vBGl",
+    "https://www.linkedin.com/posts/aroosa-salahuddin26_verify-first-osint-ai-and-the-diplomat-activity-7521299757789757441-u9RC",
+    "https://www.linkedin.com/pulse/berkeley-protocol-digital-open-source-investigations-danny-haas",
+    "https://www.linkedin.com/posts/maks-demydenko_a-guide-for-judges-and-fact-finders-activity-7200042955871584258-o2Gw"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T15:02:21.264875+00:00"
 }
