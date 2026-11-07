@@ -209,6 +209,13 @@ PRICEWORD = re.compile(r"(指数|物価|価格|デフレーター|前年比|騰�
 SHIPWORK = re.compile(r"造船.{0,12}(就労|従業|人手|働く)")
 SEAFARER = re.compile(r"(船員|外航|内航|定員|乗組)")
 SHIPYARD = re.compile(r"(造船|造船所|舶用|建造)")
+# 4-83（58回目の走査の失敗）：取り違えた図表・行・地域
+FIGFILE = re.compile(r"(?<![a-z0-9])b\d+_\d+_\d+(?![0-9])", re.I)
+FIGNO = re.compile(r"第(\d)-(\d)-(\d+)図")
+SHEETROW = re.compile(r"^\s*Sheet\d*\s*:\s*([^:]{1,40}):")
+INDROW = re.compile(r"(業|サービス|福祉|産業)")
+MFGITEM = re.compile(r"(製造業|めっき|鍍金|金型|熱処理|プレス|鋳造|鍛造|受託加工)")
+NOLOCAL = re.compile(r"(県や市の表を使わない|市・県の表を使わない|全国の表|全国・e-Stat|（全国）|全国×)")
 def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
@@ -283,6 +290,24 @@ def rows_from_doc(topic, d):
                 # 品目が物価指数なのに、引用が指数・物価の語を含まない金額・人数は、その品目の事実にしない
                 if PRICEIDX.search(name) and not PRICEWORD.search(q):
                     if NUM.search(q): drop(topic, "主語が別の統計（物価指数の品目に金額・4-61）")
+                    continue
+                # 2026-11-07 走査の失敗から（58回目・4-83 取り違えた表）：mfg_capacity の「中小企業白書2020 付属統計資料 規模別 労働生産性
+                # 上位10%・中央値・下位10% 製造業の表」に、第1-2-5図（b1_2_05.xlsx）でなく第1-2-4図の b1_2_04.xlsx の行
+                # （宿泊業・小売業・医療福祉など製造業以外の業種平均）が16件入り、【一次で確認】になった。
+                # ①品目が付属統計のファイル番号（bN_N_NN）を名指しするのに、URLのファイル番号が違えば別の図表なので事実にしない
+                fwant = {x.lower() for x in FIGFILE.findall(name)} or {f"b{a}_{b}_{int(c):02d}" for a, b, c in FIGNO.findall(name)[:1]}; fgot = [x.lower() for x in FIGFILE.findall(url)]
+                if fwant and fgot and not (set(fgot) & fwant):
+                    if NUM.search(q): drop(topic, "品目が名指す図表と別のファイル（4-83）")
+                    continue
+                # ②品目が製造業（か製造業の細分類）を名指しするのに、表の行の見出し（「Sheet1:<行>:」）が製造業以外の産業なら事実にしない
+                sm = SHEETROW.match(q)
+                if sm and MFGITEM.search(name) and INDROW.search(sm.group(1)) and not re.search(r"製造|全産業|産業計|合計", sm.group(1)):
+                    if NUM.search(q): drop(topic, "表の行の見出しが別の産業（4-83）")
+                    continue
+                # ③品目が「全国」「県や市の表を使わない」と名指しするのに、自治体（pref.・city.）の表から来た数字は事実にしない
+                # （同じ回、工業統計の消費税の扱いの品目に横須賀市・長野県の表が入った）
+                if NOLOCAL.search(name) and region_of(url):
+                    if NUM.search(q): drop(topic, "全国の品目に自治体の表（4-83）")
                     continue
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
