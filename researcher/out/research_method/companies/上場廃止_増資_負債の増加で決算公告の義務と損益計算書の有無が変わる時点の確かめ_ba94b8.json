@@ -8,8 +8,452 @@
  ],
  "context": "決算公告",
  "kind": "market",
- "researched_at": "2026-11-07T14:50:22.153979+00:00",
+ "researched_at": "2026-11-07T20:20:22.247966+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法務部員が知っておくべき「二段の推定」とは？！",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 申込から掲載まで約15営業日かかるため、逆算してスケジュールを立てる",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます",
+    "url": "https://asanagi.co.jp/2023/03/07/5096/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "のみを公示している場合は、違法状態となることに注意する必要がある",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を怠ると罰則が課せられるため、注意が必要です",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. 【要注意】公告義務がない会社もある？",
+    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点",
+    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3つの公告方法、それぞれのメリットと注意点",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q6: 決算公告を行う際の注意点は何ですか？",
+    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を行う際には、以下の点に注意が必要です",
+    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下のとおり手続きを行う必要がありますので注意しましょう",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です",
+    "url": "https://keiridriven.mjs.co.jp/171979/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう",
+    "url": "https://keiridriven.mjs.co.jp/171979/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "相続クイズ５０問（間違いだらけのネット情報）",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "相続に関与しようとする民間資格や民間団体にご注意ください",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セミナー参加者の募集をウェブ上で行なうときの注意点",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自己株式取得（総株主から買取）の手続と注意点",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自己株式取得（特定株主から買取）の手続と注意点",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コロナで延期していた株主総会や社員総会を開催するときに注意すべき事項～基準日を定めるべきか否かの判断基準",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他社株式取得や組織再編の際に注意すべき「独禁法の事前届出」",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社の公告（その１）貸借対照表の公告（決算公告）で注意すべき事項",
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、決算公告の発表がいい加減だった場合、企業の信用が低下し、取引を打ち切られるなどの不利益が発生する可能性があるため注意が必要です",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "）と定められているため、会社の規模はあまり関係ないことに注意して下さい",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東京新聞などの地方紙でも構いませんが、日刊スポーツなどのスポーツ新聞などは除外されているため注意して下さい",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、掲載料が高いことに注意しなくてはいけません",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、記載義務内容は全文となっているため、負担がかなり大きい点にも注意しなくてはいけません",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "信用調査機関での公告の場合は、調査費用の負担が発生する点にも注意しなくてはいけません",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「失敗事例」にならないための請求書受領システムの選び方",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予算計画でチーム目標を達成しよう！数値設定のコツと注意点",
+    "url": "https://www.keihi.com/column/46364/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、電子公告の場合は掲載期間にも注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "負債200億円以上という基準は、製造業・不動産業など固定資産の大きい業種では中堅規模の企業でも該当しうる点に注意が必要だ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "子会社は別法人であるため、子会社の公告が持株会社の義務を代替しない点に注意が必要だ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし合同会社も法人税申告は義務であり、決算公告と混同しないよう注意してください",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1項）、記載を忘れないよう注意が必要です",
+    "url": "https://shiodome.co.jp/js/blog/13590",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "登記した内容とサイトの実態がずれないよう、サイトを作り直すときは注意してください",
+    "url": "https://ipo-method.com/legal-compliance/6735/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もうひとつの注意は5年です",
+    "url": "https://ipo-method.com/legal-compliance/6735/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...",
+    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なか",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告はいつまでに｜方法の選択と電子公告日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告 - Wikipedia決算公告はいつまでに｜方法の選択と電子公告 — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法令によって義務づけられている",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しか",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に...決算公告 - Wikipedia — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。公告方法の定め方と、怠った場合の100万円以下の過料を条文で整理します。",
+    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
@@ -278,6 +722,60 @@
    {
     "quote": "2項の株式会社は、法務省令で定めるところにより、定時株主総会の終結後遅滞なく、貸借対照表の内容である情報を、定時株主総会の終結の日後5年を経過する日までの間、継続して電磁的方法により不特定多数の者が提供を受けることができる状態に置く措置をとることができるとしています",
     "url": "https://ipo-method.com/legal-compliance/6735/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外国会社を含む会社は、定款で、官報、時事に関する事項を掲載する日刊新聞または電子の3つの公告方法のうち、いずれかとすることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本規定の対象となるのは、公告方法が電子公告の場合と、後述する決算情報の電磁的公示の場合である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款に定める公告方法が官報または新聞であったとしても、Webサイト掲載での電磁的方法により、（要旨でない）内容を定時株主総会終了の日から5年間継続して公示すれば、定款に定める方法でない決算公告が認められている（会社法第440条第3項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公開の電磁的方法とは、インターネットに接続されているサーバにファイルを置くことである（計算規則第147条）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これにより、登記事項証明書には、公告の方法とは別に、決算情報の電磁的公示のためのURLが記載されるようになる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書提出会社以外の大会社で、会計監査人による不適正意見がある場合等には、公告方法によらず公告内容が追加になる（計算規則第148条）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を5年間継続して掲載することにより、決算公告に代えることができる「電磁的方法による決算公示」が認められた（旧商法第283条第5項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「電磁的方法による決算公示」制度がきっかけとなって、次の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "相互会社の場合、公告方法は原則として日刊新聞紙または電子公告に限られる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -706,6 +1204,18 @@
    {
     "quote": "【罰則】 決算公告を怠るとどうなる？過料（100万円以下）のリスクと実例",
     "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -1228,6 +1738,96 @@
     "first_seen": "2026-11-07"
    },
    {
+    "quote": "決算公告の義務サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、決算公告が義務付けられていることを認知していない者もおり、義務を履行している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "の調査によると、官報で決算公告した株式会社は",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、罰則の厳格化よりも、決算公告を自発的に行う環境の整備が重要であるとの立場を示している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本では多くの企業が3月決算であることから、その株主総会が開かれる6月に決算公告が集中する（決算期が異なる場合は、それに応じて公告時期も変わる）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、2001年の法改正以降、新聞への決算公告の掲載は大幅に減少",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外国会社を含む会社は、定款で、官報、時事に関する事項を掲載する日刊新聞または電子の3つの公告方法のうち、いずれかとすることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "電子公告の場合は、電子公告とする旨で十分であり、事故その他の理由で電子公告ができない場合の代替手段（官報または新聞）も定めることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に定款で定めない場合は、官報によるものとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに追加的な決算公告の内容は、会社計算規則（以下、「計算規則」）第136条にも明定されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本規定の対象となるのは、公告方法が電子公告の場合と、後述する決算情報の電磁的公示の場合である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款に定める公告方法が官報または新聞であったとしても、Webサイト掲載での電磁的方法により、（要旨でない）内容を定時株主総会終了の日から5年間継続して公示すれば、定款に定める方法でない決算公告が認められている（会社法第440条第3項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実施するためには、取締役会設置会社の場合は、取締役会で「決算公告に代えて決算情報の電磁的公示を採用する」旨の決議をし、法務局に「会社法第440条第3項に定める措置をするためのURL」を登記する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これにより、登記事項証明書には、公告の方法とは別に、決算情報の電磁的公示のためのURLが記載されるようになる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本規定は、後述の「決算情報の電磁的公示」制度が継続されて残存しているものである",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
     "quote": "会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）",
     "url": "https://note.com/real_ram9758/n/n015e975a7128",
     "pass": 3,
@@ -1587,427 +2187,43 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます",
-    "url": "https://asanagi.co.jp/2023/03/07/5096/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "のみを公示している場合は、違法状態となることに注意する必要がある",
-    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告を怠ると罰則が課せられるため、注意が必要です",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. 【要注意】公告義務がない会社もある？",
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点",
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3つの公告方法、それぞれのメリットと注意点",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q6: 決算公告を行う際の注意点は何ですか？",
-    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を行う際には、以下の点に注意が必要です",
-    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下のとおり手続きを行う必要がありますので注意しましょう",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です",
-    "url": "https://keiridriven.mjs.co.jp/171979/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう",
-    "url": "https://keiridriven.mjs.co.jp/171979/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "相続クイズ５０問（間違いだらけのネット情報）",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "相続に関与しようとする民間資格や民間団体にご注意ください",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "セミナー参加者の募集をウェブ上で行なうときの注意点",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自己株式取得（総株主から買取）の手続と注意点",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自己株式取得（特定株主から買取）の手続と注意点",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コロナで延期していた株主総会や社員総会を開催するときに注意すべき事項～基準日を定めるべきか否かの判断基準",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "他社株式取得や組織再編の際に注意すべき「独禁法の事前届出」",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社の公告（その１）貸借対照表の公告（決算公告）で注意すべき事項",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、決算公告の発表がいい加減だった場合、企業の信用が低下し、取引を打ち切られるなどの不利益が発生する可能性があるため注意が必要です",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "）と定められているため、会社の規模はあまり関係ないことに注意して下さい",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東京新聞などの地方紙でも構いませんが、日刊スポーツなどのスポーツ新聞などは除外されているため注意して下さい",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、掲載料が高いことに注意しなくてはいけません",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方、記載義務内容は全文となっているため、負担がかなり大きい点にも注意しなくてはいけません",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "信用調査機関での公告の場合は、調査費用の負担が発生する点にも注意しなくてはいけません",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「失敗事例」にならないための請求書受領システムの選び方",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "予算計画でチーム目標を達成しよう！数値設定のコツと注意点",
-    "url": "https://www.keihi.com/column/46364/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに、電子公告の場合は掲載期間にも注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "負債200億円以上という基準は、製造業・不動産業など固定資産の大きい業種では中堅規模の企業でも該当しうる点に注意が必要だ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "子会社は別法人であるため、子会社の公告が持株会社の義務を代替しない点に注意が必要だ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし合同会社も法人税申告は義務であり、決算公告と混同しないよう注意してください",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1項）、記載を忘れないよう注意が必要です",
-    "url": "https://shiodome.co.jp/js/blog/13590",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "登記した内容とサイトの実態がずれないよう、サイトを作り直すときは注意してください",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "もうひとつの注意は5年です",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...",
-    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なか",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告はいつまでに｜方法の選択と電子公告日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告 - Wikipedia決算公告はいつまでに｜方法の選択と電子公告 — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法令によって義務づけられている",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しか",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に...決算公告 - Wikipedia — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "法務部員が知っておくべき「二段の推定」とは？！",
-    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. 申込から掲載まで約15営業日かかるため、逆算してスケジュールを立てる",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "url": "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nnoo12/n/nc6e185955a93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fas_cpa/n/n8b2329fefcce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hupro/n/n11537798d68f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
     "status": "ok",
     "method": "http"
    },
@@ -2017,12 +2233,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ipo-method.com/legal-compliance/6735/",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -2032,12 +2243,17 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ipo-method.com/legal-compliance/6735/",
     "status": "ok",
     "method": "http"
    },
@@ -2052,37 +2268,32 @@
     "method": "http"
    },
    {
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
+    "url": "https://iclg.com/practice-areas/restructuring-and-insolvency-laws-and-regulations/japan",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tradetech.tokyo/2026/04/29/japan-securities-report-review-large-holdings-disclosure-2/",
+    "url": "https://globaladvisoryexperts.com/companies-act-reform-japan/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en.kabutan.com/jp/disclosures",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://nkbb.nikkei.co.jp/en/dataset/corporate-fundamentals/",
+    "url": "https://law.asia/japan-corporate-governance-code/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jpx.co.jp/english/listing/stocks/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jpx.co.jp/english/listing/co-search/index.html",
+    "url": "https://monolith.law/en/general-corporate/new-share-issuance-japan",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://aplash.io/blog/dbnndl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iclg.com/practice-areas/corporate-governance-laws-and-regulations/japan",
     "status": "ok",
     "method": "http"
    }
@@ -2091,31 +2302,51 @@
  "search_log": [
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "https://note.com/nnoo12/n/nc6e185955a93",
+    "https://note.com/real_ram9758/n/n015e975a7128",
+    "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "https://note.com/fas_cpa/n/n8b2329fefcce",
+    "https://note.com/hupro/n/n11537798d68f",
+    "https://note.com/kento_0724/n/nb9ec8d688b66"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） note",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "https://ja.wikipedia.org/wiki/決算公告",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "https://www.kigyou-houmu.com/secret-4/",
-    "https://ipo-method.com/legal-compliance/6735/",
+    "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "https://www.kigyou-houmu.com/secret-4/",
     "https://biz.moneyforward.com/erp/basic/2193/",
     "https://cpanote.net/disclosure/日本の開示制度の全体像：有価証券報告書・計算/"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） やり方",
    "results": [
-    "https://ja.wikipedia.org/wiki/決算公告",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "https://www.kigyou-houmu.com/secret-4/",
-    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
     "https://biz.moneyforward.com/erp/basic/2193/",
+    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "https://ipo-method.com/legal-compliance/6735/",
     "https://asanagi.co.jp/2023/03/07/5096/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） 事例",
@@ -2124,24 +2355,32 @@
     "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "https://www.kigyou-houmu.com/secret-4/",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "https://ipo-method.com/legal-compliance/6735/",
     "https://biz.moneyforward.com/erp/basic/2193/",
     "https://cpanote.net/disclosure/日本の開示制度の全体像：有価証券報告書・計算/",
-    "https://ja.wikipedia.org/wiki/決算公告",
-    "https://secure.kakaro.jp/kessan-koukoku-law-guide/"
-   ]
+    "https://asanagi.co.jp/2023/03/07/5096/",
+    "https://ipo-method.com/legal-compliance/6735/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
   },
   {
    "query": "Japan kessan koukoku obligation change delisting capital increase large company P/L summary",
    "results": [
-    "https://www.tradetech.tokyo/2026/04/29/japan-securities-report-review-large-holdings-disclosure-2/",
-    "https://en.kabutan.com/jp/disclosures",
-    "https://nkbb.nikkei.co.jp/en/dataset/corporate-fundamentals/",
-    "https://www.jpx.co.jp/english/listing/stocks/index.html",
-    "https://www.jpx.co.jp/english/listing/co-search/index.html",
+    "https://iclg.com/practice-areas/restructuring-and-insolvency-laws-and-regulations/japan",
+    "https://globaladvisoryexperts.com/companies-act-reform-japan/",
+    "https://law.asia/japan-corporate-governance-code/",
+    "https://monolith.law/en/general-corporate/new-share-issuance-japan",
     "https://aplash.io/blog/dbnndl",
-    "https://japannews.yomiuri.co.jp/business/companies/20251226-300759/"
-   ]
+    "https://iclg.com/practice-areas/corporate-governance-laws-and-regulations/japan",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）",
@@ -2152,8 +2391,14 @@
     "https://note.com/nnoo12/n/nc6e185955a93",
     "https://note.com/real_ram9758/n/n015e975a7128",
     "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "https://note.com/hupro/n/n11537798d68f"
-   ]
+    "https://note.com/hupro/n/n11537798d68f",
+    "https://note.com/lucky_bee22/n/ne75da4574b07"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:x.com 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）",
@@ -2165,398 +2410,294 @@
     "https://x.com/ANAGUMA46219/status/2070819340287615170",
     "https://x.com/hiroaki_kosaki/status/2094907388612821325",
     "https://x.com/deloitte_jp/status/2028699895025029630"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）",
    "results": [
     "https://jp.linkedin.com/posts/taro-watanabe-69551044_ブイキューブ社の決算と上場廃止について-ブイキューブが2026年3月31日に決算発表-activity-7456833340541931520-02dg",
-    "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
     "https://jp.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_東証s上場のプロルート丸光が会社更生法申請負債27億円-何故上場廃止基準末期症状-activity-7138050184734797824-YhR6",
     "https://jp.linkedin.com/posts/kei-eto-470463146_市場が問う上場の意義退出最多の94社小粒多く資本騒乱-日本経済新聞-activity-7274230110218543106-IP-R",
-    "https://jp.linkedin.com/posts/asokazu_英文開示irの重荷に昨年義務化人材が不足プライム上場維持断念も-日本経済新聞-activity-7417210850555613184-XAy4",
     "https://jp.linkedin.com/posts/hideyuki-iwabuchi-67b0b9288_クールジャパン機構を含む官民ファンド3社に見る公的投資の問題点-8月22日に-activity-7500103194379849728-ZJLG",
-    "https://www.linkedin.com/posts/kpmg-jp_2024年46月四半期決算短信の開示調査四半期報告書制度廃止後の変化-activity-7254763567877431296-c8VG"
-   ]
+    "https://jp.linkedin.com/posts/asokazu_英文開示irの重荷に昨年義務化人材が不足プライム上場維持断念も-日本経済新聞-activity-7417210850555613184-XAy4",
+    "https://www.linkedin.com/posts/kpmg-jp_2024年46月四半期決算短信の開示調査四半期報告書制度廃止後の変化-activity-7254763567877431296-c8VG",
+    "https://jp.linkedin.com/posts/ernstandyoung_46月から四半期決算大きく変更報告書廃止短信に一本化各事業損益などは義務に-activity-7226021661303549952-VzUI"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）",
    "results": [
     "https://www.facebook.com/matsuo.akihito/posts/上場廃止128社過去最多へ上場することがゴールではなくなった9月7日今日の日経新聞一面トップの記事です2026年に東京証券取引所への上場廃止が確定した企業は9月/28333830272903804/",
-    "https://www.facebook.com/nikkei/photos/東証200社超に上場廃止リスクhttpswwwnikkeicomarticledgxzqoub234rb0t20c25a3000000n_ciddsprm148/1186342029503864/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/金融庁四半期報告書廃止へ-決算短信に一本化httpswwwnikkancojparticlesview00633620fb/5410580158974377/",
     "https://www.facebook.com/torikai.law.office/posts/4837863026267133/",
-    "https://www.facebook.com/Deloitte.Japan/photos/新刊書籍会社法計算書類作成ハンドブック第20版2026年3月決算対応として2025年12月末時点の会社法関連規則に基づく計算書類等の作成実務を解説しています制度/1366294515518106/",
     "https://www.facebook.com/No.1.Recruit/posts/当社は2026年1月13日火に2026年2月期3qの決算及び株主優待制度の廃止株主還元方針の変更期末配当予想の修正増配について開示いたしました20262期-3q/1458021212694730/",
     "https://www.facebook.com/nikkan.BusinessLine/posts/657738909690115/",
+    "https://www.facebook.com/Deloitte.Japan/photos/新刊書籍会社法計算書類作成ハンドブック第20版2026年3月決算対応として2025年12月末時点の会社法関連規則に基づく計算書類等の作成実務を解説しています制度/1366294515518106/",
     "https://www.facebook.com/cubenews.jp/posts/5350469934973594/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） note 社長",
    "results": [
+    "https://ja.wikipedia.org/wiki/決算公告",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "https://www.kigyou-houmu.com/secret-4/",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "https://biz.moneyforward.com/erp/basic/2193/",
-    "https://ipo-method.com/legal-compliance/6735/",
-    "https://cpanote.net/disclosure/日本の開示制度の全体像：有価証券報告書・計算/"
-   ]
+    "https://asanagi.co.jp/2023/03/07/5096/",
+    "https://biz.moneyforward.com/erp/basic/2193/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期） X 投稿",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "https://ipo-method.com/legal-compliance/6735/",
+    "https://www.kigyou-houmu.com/secret-4/",
     "https://biz.moneyforward.com/erp/basic/2193/",
-    "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "https://cpanote.net/disclosure/日本の開示制度の全体像：有価証券報告書・計算/"
-   ]
+    "https://cpanote.net/disclosure/日本の開示制度の全体像：有価証券報告書・計算/",
+    "https://secure.kakaro.jp/kessan-koukoku-law-guide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "Japan kessan koukoku obligation change delisting capital increase large company P/L summary site:linkedin.com",
-   "results": []
+   "results": [
+    "https://www.linkedin.com/posts/泰幸-岡野-570655282_japan-japanesestocks-delisting-activity-7511915449542987776-CbBU",
+    "https://www.linkedin.com/posts/sparxgroup_increasing-delisting-the-new-metabolism-activity-7225050826891739136-PlV3",
+    "https://au.linkedin.com/in/james-halse-cfa",
+    "https://www.linkedin.com/posts/kazuhiro-ishii_2025年日本では上場廃止がipoを上回りましたがこれは資本市場の一時的な歪みではなありません-activity-7437352634417688576-0Jea",
+    "https://www.linkedin.com/posts/venture-official_japanmarkets-tsedelistings-investoralert-activity-7444675969963085824-6i3t",
+    "https://www.linkedin.com/posts/yuka-marosek-cfa-70ab6510_parentchildlisting-delisingofchildstock-tse-activity-7352419579060523008-sojI",
+    "https://www.linkedin.com/posts/edward-cartwright-6a98059_the-reforms-being-undertaken-by-the-authorities-activity-7308088360743456770-1bb5"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {
-  "手順・やり方": [
+  "突き合わせ・推定": [
    {
-    "quote": "会社のウェブサイトまたは電子公告専門サービスのウェブサイトで掲載する方法",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告はいつまでに｜方法の選択と電子公告",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告はいつまでにするか｜方法の選択と電子公告",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そして、公告の方法によって載せる内容も期間も変わります",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、いつまでに、何を、どの方法で公告するのかを条文で整理し、費用を抑える選択肢まで見ていきます",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公告方法によって貸借対照表の全文か要旨かが変わること（同条2項）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ウェブに5年間置く方法と、その場合の登記（同条3項、911条3項26号）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公告方法は3つ",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ウェブに5年間置く方法",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法939条1項は、会社は公告方法として、官報に掲載する方法、時事に関する事項を掲載する日刊新聞紙に掲載する方法、電子公告のいずれかを定款で定めることができるとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法911条3項29号が、27号の定款の定めがないときは、939条4項の規定により官報に掲載する方法を公告方法とする旨を登記事項としていることからも分かります",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同項27号が定款の定めがあるときはその定め、28号が電子公告を公告方法とする旨のものであるときは、公告すべき情報について不特定多数の者が提供を受けるために必要な事項などを登記するとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法440条2項は、公告方法が939条1項1号または2号に掲げる方法、つまり官報または日刊新聞紙である株式会社は、貸借対照表の要旨を公告することで足りるとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公告方法は変えず、貸借対照表だけウェブに置く",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3つめの方法なら、公告方法の定款変更をせずに官報の費用を避けられます",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2項の株式会社は、法務省令で定めるところにより、定時株主総会の終結後遅滞なく、貸借対照表の内容である情報を、定時株主総会の終結の日後5年を経過する日までの間、継続して電磁的方法により不特定多数の者が提供を受けることができる状態に置く措置をとることができるとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で大会社に該当しないケースでは、貸借対照表のみの公告となります（同上）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告の義務や例外的に不要となるケースについて説明します",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定款の規定がないケースでは、官報による公告を行います（同法第939条4項）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【罰則】 決算公告を怠るとどうなる？過料（100万円以下）のリスクと実例",
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "1-2. なぜ決算公告が義務なのか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2-3. 有価証券報告書提出会社は免除",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. 決算公告の「内容」：何を記載しなければならないか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "4. 決算公告の「期限」：いつまでにすべきか",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "5. 決算公告の「方法」：3種類の比較",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "5-1. 官報公告",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "8. 実務：決算公告の手順と進め方",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告はいつまでに｜方法の選択と電子公告",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告はいつまでにするか｜方法の選択と電子公告",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告をしていない非上場の会社は、実際には少なくありません",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報の掲載費用がかかること、していなくても事業に支障がないことが理由でしょう",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告の期限が定時株主総会の終結後遅滞なくであること（会社法440条1項）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ウェブに5年間置く方法と、その場合の登記（同条3項、911条3項26号）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有価証券報告書の提出会社に義務がないこと（同条4項）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報であれば申込みから掲載までに日数がかかりますので、総会の日程が決まった段階で手配を始めるのが実務です",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法939条1項は、会社は公告方法として、官報に掲載する方法、時事に関する事項を掲載する日刊新聞紙に掲載する方法、電子公告のいずれかを定款で定めることができるとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法911条3項29号が、27号の定款の定めがないときは、939条4項の規定により官報に掲載する方法を公告方法とする旨を登記事項としていることからも分かります",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "同項27号が定款の定めがあるときはその定め、28号が電子公告を公告方法とする旨のものであるときは、公告すべき情報について不特定多数の者が提供を受けるために必要な事項などを登記するとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社法440条2項は、公告方法が939条1項1号または2号に掲げる方法、つまり官報または日刊新聞紙である株式会社は、貸借対照表の要旨を公告することで足りるとしています",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報のほうが載せる情報は少なくて済むということです",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告の3つの選び方",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告は電子公告調査の対象外（941条かっこ書き）",
-    "url": "https://ipo-method.com/legal-compliance/6735/",
+    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "quote": "決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "決算公告を怠ると罰則が課せられるため、注意が必要です",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "quote": "定款変更・株主総会決議は不要な手続きの流れと注意点を解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. 【要注意】公告義務がない会社もある？",
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点",
-    "url": "https://secure.kakaro.jp/kessan-koukoku-law-guide/",
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "検索結果の抜粋": [
    {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に...決算公告 - Wikipedia — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "quote": "決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。公告方法の定め方と、怠った場合の100万円以下の過料を条文で整理します。",
+    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "外国会社を含む会社は、定款で、官報、時事に関する事項を掲載する日刊新聞または電子の3つの公告方法のうち、いずれかとすることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "quote": "本規定の対象となるのは、公告方法が電子公告の場合と、後述する決算情報の電磁的公示の場合である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款に定める公告方法が官報または新聞であったとしても、Webサイト掲載での電磁的方法により、（要旨でない）内容を定時株主総会終了の日から5年間継続して公示すれば、定款に定める方法でない決算公告が認められている（会社法第440条第3項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公開の電磁的方法とは、インターネットに接続されているサーバにファイルを置くことである（計算規則第147条）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これにより、登記事項証明書には、公告の方法とは別に、決算情報の電磁的公示のためのURLが記載されるようになる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書提出会社以外の大会社で、会計監査人による不適正意見がある場合等には、公告方法によらず公告内容が追加になる（計算規則第148条）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を5年間継続して掲載することにより、決算公告に代えることができる「電磁的方法による決算公示」が認められた（旧商法第283条第5項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「電磁的方法による決算公示」制度がきっかけとなって、次の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "相互会社の場合、公告方法は原則として日刊新聞紙または電子公告に限られる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "決算公告の義務サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、決算公告が義務付けられていることを認知していない者もおり、義務を履行している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "の調査によると、官報で決算公告した株式会社は",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、罰則の厳格化よりも、決算公告を自発的に行う環境の整備が重要であるとの立場を示している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本では多くの企業が3月決算であることから、その株主総会が開かれる6月に決算公告が集中する（決算期が異なる場合は、それに応じて公告時期も変わる）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、2001年の法改正以降、新聞への決算公告の掲載は大幅に減少",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外国会社を含む会社は、定款で、官報、時事に関する事項を掲載する日刊新聞または電子の3つの公告方法のうち、いずれかとすることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "電子公告の場合は、電子公告とする旨で十分であり、事故その他の理由で電子公告ができない場合の代替手段（官報または新聞）も定めることができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特に定款で定めない場合は、官報によるものとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに追加的な決算公告の内容は、会社計算規則（以下、「計算規則」）第136条にも明定されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本規定の対象となるのは、公告方法が電子公告の場合と、後述する決算情報の電磁的公示の場合である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款に定める公告方法が官報または新聞であったとしても、Webサイト掲載での電磁的方法により、（要旨でない）内容を定時株主総会終了の日から5年間継続して公示すれば、定款に定める方法でない決算公告が認められている（会社法第440条第3項）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実施するためには、取締役会設置会社の場合は、取締役会で「決算公告に代えて決算情報の電磁的公示を採用する」旨の決議をし、法務局に「会社法第440条第3項に定める措置をするためのURL」を登記する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これにより、登記事項証明書には、公告の方法とは別に、決算情報の電磁的公示のためのURLが記載されるようになる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本規定は、後述の「決算情報の電磁的公示」制度が継続されて残存しているものである",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T18:51:20.403634+00:00"
 }
