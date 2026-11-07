@@ -1,0 +1,634 @@
+{
+ "name": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+ "en": "TOKYO PRO Market listed manufacturing subcontractor public financial notice",
+ "aliases": [
+  "TOKYO PRO Market 上場 製造業 決算公告",
+  "TPM 上場 金属加工 決算",
+  "プロ向け市場 上場 めっき 熱処理 決算公告"
+ ],
+ "context": "会社・決算",
+ "kind": "market",
+ "researched_at": "2026-11-07T17:47:01.902529+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jpx.co.jp/equities/products/tpm/format/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obc.co.jp/special/ipo/column/list/78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finanscope.jp/column/874/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phillip.co.jp/corporatefinance/tokyopromarket.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/ipo/basic/638/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fs2.magicalir.net/tdnet/2024/239A/20240904581261.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ipo-method.com/ipo-support/10348/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsri.or.jp/publish/research/pdf/135/135_04.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/tokyopromarket/column/tokyopromarket2025_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/tpm/issues/t13vrt000000c5fv-att/t13vrt000000c5ge.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takara-print.co.jp/service/ipo/j-adviser.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipo-method.com/ipo-support/10380/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibikipartners.com/glossary/glossary_6281/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.jpx.co.jp/disc/439A0/140120251022576826.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/tpm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tpm.ipo-navi.jp/tpm/comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fit-works.co.jp/ir/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/news/4628177",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://minkabu.jp/news/4603149",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tpm.ipo-navi.jp/statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jia-ltd.com/assets/img/business/ipo/00_TOKYO%20PRO%20Market_Full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jtg-sec.co.jp/houjin/tpm-standard.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finanscope.jp/column/294/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fjt-hd.co.jp/ir/pdf/20240628_a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obc.co.jp/special/ipo/column/list/89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obc.co.jp/special/ipo/column/list/148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipo-method.com/ipo-support/11144/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://tpm.ipo-navi.jp/tpm/process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/tokyopromarket/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipo-method.com/ipo-support/10382/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.jpx.co.jp/disc/358A0/140120250522561624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prime-partners.co.jp/tokyo-pro-market-audit-requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ke.kabupro.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/tokyopromarket/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fse.or.jp/files/evt_inf/TPM2024072401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-ipo/about_tpm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obc.co.jp/special/ipo/column/list/92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/consolidate/tkc_express/2026/09/202609_14173/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finanscope.jp/column/1792/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanpou.ai/kessan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kessan-zukan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/equities/products/tpm/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 人手不足 受注 断る",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/format/03.html",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://finanscope.jp/column/874/",
+    "https://www.phillip.co.jp/corporatefinance/tokyopromarket.php",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "https://www.jtg-sec.co.jp/houjin/tpm-standard.htm",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 受注残 人手不足",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://magicalir.net/Disclosure/-/file/1753727",
+    "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "https://ipo-method.com/ipo-support/10348/",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://www.jsri.or.jp/publish/research/pdf/135/135_04.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 人手不足 損失 億円",
+   "results": [
+    "https://www.nihon-ma.co.jp/tokyopromarket/column/tokyopromarket2025_2",
+    "https://www.itochu.co.jp/ja/files/security_102.pdf",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/t13vrt000000c5fv-att/t13vrt000000c5ge.pdf",
+    "https://www.tokyo-airport-bldg.co.jp/files/ir/000017403.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261026/g77acs/140120261026556140.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://www.kddi.com/extlib/files/corporate/ir/library/yuka_shoken/pdf/yuho_2026_c1bt2n.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.takara-print.co.jp/service/ipo/j-adviser.html",
+    "https://ipo-method.com/ipo-support/10380/",
+    "https://www.hibikipartners.com/glossary/glossary_6281/",
+    "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 推移",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://tpm.ipo-navi.jp/tpm/comparison",
+    "https://www.fit-works.co.jp/ir/",
+    "https://finanscope.jp/column/874/",
+    "https://magicalir.net/Disclosure/-/file/1753727",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 統計 PDF",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.phillip.co.jp/corporatefinance/tokyopromarket.php",
+    "https://www.jia-ltd.com/assets/img/business/ipo/00_TOKYO%20PRO%20Market_Full.pdf",
+    "https://www.jtg-sec.co.jp/houjin/tpm-standard.htm",
+    "https://finanscope.jp/column/294/",
+    "https://www.fjt-hd.co.jp/ir/pdf/20240628_a.pdf",
+    "https://www.obc.co.jp/special/ipo/column/list/89"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://finanscope.jp/column/874/",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.phillip.co.jp/corporatefinance/tokyopromarket.php",
+    "https://www.obc.co.jp/special/ipo/column/list/148",
+    "https://ipo-method.com/ipo-support/11144/",
+    "https://www.jtg-sec.co.jp/houjin/tpm-standard.htm",
+    "https://tpm.ipo-navi.jp/tpm/process",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 従業者規模別",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/comparison.html",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://ipo-method.com/ipo-support/10382/",
+    "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.hibikipartners.com/glossary/glossary_6281/",
+    "https://www.fit-works.co.jp/ir/",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 1人当たり 万円",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/faq.html",
+    "https://ipo-method.com/ipo-support/10380/",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://www.fse.or.jp/files/evt_inf/TPM2024072401.pdf",
+    "https://www.freee.co.jp/kb/kb-ipo/about_tpm/",
+    "https://magicalir.net/Disclosure/-/file/1753727"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） 2015 2025",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://www.obc.co.jp/special/ipo/column/list/92",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://ipo-method.com/ipo-support/10382/",
+    "https://www.tkc.jp/consolidate/tkc_express/2026/09/202609_14173",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://www.phillip.co.jp/corporatefinance/tokyopromarket.php",
+    "https://finanscope.jp/column/1792/",
+    "https://www.jpx.co.jp/equities/products/tpm/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TOKYO PRO Market listed manufacturing subcontractor public financial notice Japan statistics",
+   "results": [
+    "https://www.jpx.co.jp/english/equities/products/tpm/index.html",
+    "https://sseinitiative.org/stock-exchange/jpx",
+    "https://www.jpx.co.jp/english/equities/products/tpm/issues/index.html",
+    "https://www.jsda.or.jp/en/statistics/factbook/files/FactBook2024_E.pdf",
+    "https://tokyobrief.com/articles/alls-and-company-tokyo-pro-market-listing-loss-guidance",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/asia-pacific/tokyo-stock-exchange/topics/quick-summary",
+    "https://stockanalysis.com/list/tokyo-stock-exchange/",
+    "https://www.jpx.co.jp/english/listing/disclosure/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+   "results": [
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/exeo/n/ndb4b1ebe32c6",
+    "https://note.com/nikkei_r_bizdata/n/n90a98e4de32d",
+    "https://note.com/local_newsletter/n/n35b3236f9e7f",
+    "https://note.com/tpm_hasegawa/n/na8015d6cd0be",
+    "https://note.com/sane_viola893/n/n72291383fdec",
+    "https://note.com/local_newsletter/n/n13fc297a8d08",
+    "https://note.com/finanscope/n/n53997e16def8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+   "results": [
+    "https://x.com/VUF_CFO/status/2086226051882160395",
+    "https://x.com/hashtag/TOKYOPROMarket",
+    "https://x.com/JPX_official/status/2039988943392047428",
+    "https://x.com/TOKYOPROMarket/status/2039957299859784039",
+    "https://x.com/Kuroi_CPA/status/2064684097419837723",
+    "https://x.com/searched_press/article/2073386442093629923",
+    "https://x.com/kessan_db"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+   "results": [
+    "https://jp.linkedin.com/posts/funaisoken_株式会社アップルパークtokyo-pro-market東京プロマーケット新規上場申請-activity-7189428100286365697-Ff-g",
+    "https://jp.linkedin.com/posts/funaisoken_リサイクルテックジャパン株式会社tokyo-pro-market東京プロマーケット-activity-7189531203991998465-Zf68",
+    "https://www.linkedin.com/posts/funaisoken_insight-labインサイトラボ株式会社tokyo-pro-market-activity-7219231932339904513-Mdiy",
+    "https://www.linkedin.com/posts/funaisoken_株式会社nptエヌピーティーtokyo-pro-market東京プロマーケット-activity-7291995509282508800-lGu8",
+    "https://jp.linkedin.com/pulse/親会社オーリーズの東証tokyo-pro-market上場について-秀一-原-uai1c",
+    "https://jp.linkedin.com/posts/funaisoken_株式会社diディーアンドアイtokyo-pro-market東京プロマーケット-activity-7292000387094433792-7blQ",
+    "https://jp.linkedin.com/posts/funaisoken_株式会社東日本地所tokyo-pro-market東京プロマーケット新規上場申請-activity-7172543034973257728-V8w4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） note 社長",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://www.hibikipartners.com/glossary/glossary_6281/",
+    "https://ipo-method.com/ipo-support/10348/",
+    "https://www.jsri.or.jp/publication/periodical/report/1752_02/",
+    "https://www.fse.or.jp/files/lis_com_free/20260227hk374A.pdf",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://www.takara-print.co.jp/service/ipo/j-adviser.html",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85） X 投稿",
+   "results": [
+    "https://www.jpx.co.jp/equities/products/tpm/issues/",
+    "https://www.takara-print.co.jp/service/ipo/j-adviser.html",
+    "https://nexillpartners.jp/law/kigyou/promarket/column/1226/",
+    "https://biz.moneyforward.com/ipo/basic/638/",
+    "https://ipo-method.com/ipo-support/10380/",
+    "https://www.nihon-ma.co.jp/tokyopromarket/process.html",
+    "https://www.hibikipartners.com/glossary/glossary_6281/",
+    "https://www.obc.co.jp/special/ipo/column/list/78",
+    "https://www.fit-works.co.jp/ir/",
+    "https://www.jpx.co.jp/equities/products/tpm/issues/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TOKYO PRO Market listed manufacturing subcontractor public financial notice site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/tsuyoshi-otsuka-cfa-0905866",
+    "https://www.linkedin.com/company/procter-and-gamble",
+    "https://www.linkedin.com/company/jpmorgan",
+    "https://www.linkedin.com/company/steelcase",
+    "https://www.linkedin.com/in/timothywelland",
+    "https://www.linkedin.com/company/prounlimited",
+    "https://www.linkedin.com/company/protiviti",
+    "https://sg.linkedin.com/in/masayukitani",
+    "https://www.linkedin.com/company/edwards-lifesciences",
+    "https://www.linkedin.com/in/ryo-muraki-2b8432171"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

@@ -8,226 +8,8 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-07T12:34:03.035006+00:00",
+ "researched_at": "2026-11-07T17:54:07.814553+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "\" case management, these practices are vital for success and help avoid \"",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "10. Edge cases",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "11. Worked examples",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 1: a fund commitment, recorded in full.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: a report of a filing.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 3: circular reporting.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 4: an attribute no usable source states.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 5: separating information from judgment.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 6: one press release, two origins.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a rating of",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IntelTechniques Workbook / Casefile",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Strategic case studies and lessons from past operations and crises.",
-    "url": "https://intelligencenotes.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "support-example.example.com",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "carrowmere.example.com",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "@example_handle_support",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "secure-pay.example.org",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
@@ -760,6 +542,232 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "実例": [
+   {
+    "quote": "\" case management, these practices are vital for success and help avoid \"",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
+    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a rating of",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IntelTechniques Workbook / Casefile",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Strategic case studies and lessons from past operations and crises.",
+    "url": "https://intelligencenotes.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "support-example.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "carrowmere.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "@example_handle_support",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "secure-pay.example.org",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "checked against the cited primary sources on",
@@ -888,14 +896,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "observed, derived and estimated data",
@@ -945,52 +945,52 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/platypus2000jp/n/n5eecd471d349",
+    "url": "https://distrowatch.com/table.php?distribution=osintvm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "url": "https://www.distrowatch.com/table.php?distribution=tsurugi",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "url": "https://distrowatch.com/?newsid=12895",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sk_kasou/n/n5f1905ea4f6f",
+    "url": "https://distrowatch.com/search.php?category=Forensics",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "url": "https://distrowatch.com/weekly.php?issue=20260720",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "url": "https://distrowatch.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sherlokian/n/nc28aed5f6c3a",
+    "url": "https://www.forensicnotes.com/osint-tools/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "status": "http_403",
+    "method": "pdf"
    },
    {
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
     "status": "ok",
     "method": "http"
    },
@@ -1000,32 +1000,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.unite.ai/ja/best-open-source-intelligence-osint-tools/",
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ibm.com/jp-ja/think/topics/osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://atsoho.com/blog/osint-how-to",
-    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
     "status": "ok",
     "method": "http"
    },
@@ -1040,47 +1020,47 @@
     "method": "browser"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.elcamy.com/blog/osint-case-studies",
+    "url": "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataimpulse.com/ja-jp/blog/osint-tools/",
+    "url": "https://www.ibm.com/jp-ja/think/topics/osint",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "url": "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://osint.dev/osint",
+    "url": "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "url": "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "url": "https://distrowatch.com/table.php?distribution=std",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distrowatch.com/?newsid=13015",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distrowatch.com/?newsid=13014",
     "status": "ok",
     "method": "http"
    },
@@ -1090,7 +1070,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "url": "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bitsight.com/learn/cti/osint-framework",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://osint.dev/osint",
     "status": "ok",
     "method": "http"
    }
@@ -1100,282 +1100,241 @@
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） site:note.com",
    "results": [
-    "https://note.com/platypus2000jp/n/n5eecd471d349",
-    "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
-    "https://note.com/sk_kasou/n/n5f1905ea4f6f",
-    "https://note.com/platypus2000jp/n/n908cf3d0301e",
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
-   ]
+    "https://distrowatch.com/osintvm",
+    "https://www.distrowatch.com/table.php?distribution=tsurugi",
+    "https://distrowatch.com/12895",
+    "https://distrowatch.com/search.php?category=Forensics",
+    "https://distrowatch.com/weekly.php?issue=20260720",
+    "https://distrowatch.com/&",
+    "https://distrowatch.com/caine",
+    "https://distrowatch.com/table.php?distribution=std",
+    "https://distrowatch.com/13015",
+    "https://distrowatch.com/13014"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note",
    "results": [
-    "https://note.com/sherlokian/n/nc28aed5f6c3a",
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://note.com/everprogress/n/nde8351a93d60",
-    "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://www.forensicnotes.com/osint-tools/",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
     "https://note.com/dora_e_m/n/n53da07162cf1",
-    "https://www.unite.ai/ja/best-open-source-intelligence-osint-tools/",
-    "https://note.com/osintechofficial/n/n5a35c4aae9aa",
-    "https://note.com/tedd_jp/n/nc236000f7e8c"
-   ]
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） やり方",
    "results": [
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://www.ibm.com/jp-ja/think/topics/osint",
-    "https://atsoho.com/blog/osint-how-to",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
     "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.nic.ad.jp/ja/materials/iw/2022/proceedings/c44/c44-ueda.pdf",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
     "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/"
-   ]
+    "https://www.youtube.com/watch?v=lr-4eNnBKNA",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） 事例",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.ibm.com/jp-ja/think/topics/osint",
-    "https://www.elcamy.com/blog/osint-case-studies",
-    "https://dataimpulse.com/ja-jp/blog/osint-tools/",
-    "http://www.tisi.jp/special/security-diagnosis-column-019/"
-   ]
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
+    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "https://www.youtube.com/watch?v=RcpXi3gnS84",
+    "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "OSINT source verification framework reliability grading provenance",
    "results": [
-    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "https://osint.dev/osint",
-    "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
-    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://knowlesys.com/en/articles/news/resources_a_practical_guide_to_source_verification_in_open_source_intelligence.html",
-    "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
+    "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://www.bitsight.com/learn/cti/osint-framework",
+    "https://osint.dev/osint",
+    "https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis",
     "https://osintersect.com/training/specialist-training/verification-validation/",
-    "https://arxiv.org/abs/2607.12524",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework"
-   ]
+    "https://shadowdragon.io/resources/osint-data-sources/",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "site:note.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
    "results": [
-    "https://note.com/platypus2000jp/n/n5eecd471d349",
-    "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
-    "https://note.com/sk_kasou/n/n5f1905ea4f6f",
-    "https://note.com/platypus2000jp/n/n908cf3d0301e",
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
-   ]
+    "https://distrowatch.com/osintvm",
+    "https://www.distrowatch.com/table.php?distribution=tsurugi",
+    "https://distrowatch.com/12895",
+    "https://distrowatch.com/search.php?category=Forensics",
+    "https://distrowatch.com/weekly.php?issue=20260720",
+    "https://distrowatch.com/&",
+    "https://distrowatch.com/caine",
+    "https://distrowatch.com/table.php?distribution=std",
+    "https://distrowatch.com/13015",
+    "https://distrowatch.com/13014"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
   },
   {
    "query": "site:x.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
    "results": [
-    "https://x.com/note_osint",
-    "https://x.com/connect24h/status/2069065298511352053",
-    "https://x.com/osintjapan/status/2105508006163095752",
-    "https://x.com/chisaidehissori",
-    "https://x.com/bluesbookblog/status/1976795618568995106",
-    "https://x.com/hikarine3/status/2116912534150410458",
-    "https://x.com/MalwareBibleJP/status/2075021875810607315"
-   ]
+    "https://distrowatch.com/osintvm",
+    "https://www.distrowatch.com/table.php?distribution=tsurugi",
+    "https://distrowatch.com/12895",
+    "https://distrowatch.com/search.php?category=Forensics",
+    "https://distrowatch.com/weekly.php?issue=20260720",
+    "https://distrowatch.com/&",
+    "https://distrowatch.com/caine",
+    "https://distrowatch.com/table.php?distribution=std",
+    "https://distrowatch.com/13015",
+    "https://distrowatch.com/13014"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
    "results": [
-    "https://jp.linkedin.com/pulse/what-osint-investigation-why-does-matter-ethos-risk-services-h8bfe?tl=ja",
-    "https://jp.linkedin.com/pulse/open-source-intelligence-osint-powerful-tool-information-t-w96pc?tl=ja",
-    "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
-    "https://www.linkedin.com/pulse/evolution-osint-beyond-modern-investigations-vub6f",
-    "https://www.linkedin.com/pulse/7-essential-tools-open-source-intelligence-osint-gathering-gupta--mbpsc",
-    "https://br.linkedin.com/company/osintcombine",
-    "https://au.linkedin.com/in/marianna-tuccia-legalrecruitment"
-   ]
+    "https://distrowatch.com/osintvm",
+    "https://www.distrowatch.com/table.php?distribution=tsurugi",
+    "https://distrowatch.com/12895",
+    "https://distrowatch.com/search.php?category=Forensics",
+    "https://distrowatch.com/weekly.php?issue=20260720",
+    "https://distrowatch.com/&",
+    "https://distrowatch.com/caine",
+    "https://distrowatch.com/table.php?distribution=std",
+    "https://distrowatch.com/13015",
+    "https://distrowatch.com/13014"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "site:facebook.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
    "results": [
-    "https://www.facebook.com/groups/459810919686665/",
-    "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
-    "https://graph.facebook.com/v2.8/10217143848730234/picture/",
-    "https://www.facebook.com/groups/1042378370061476/posts/1630306281268679/",
-    "https://www.facebook.com/groups/116834925019782/",
-    "https://www.facebook.com/groups/368706499934293/posts/3377374292400817/",
-    "https://www.facebook.com/fb-answers/osint-investigation-tools/"
-   ]
+    "https://distrowatch.com/osintvm",
+    "https://www.distrowatch.com/table.php?distribution=tsurugi",
+    "https://distrowatch.com/12895",
+    "https://distrowatch.com/search.php?category=Forensics",
+    "https://distrowatch.com/weekly.php?issue=20260720",
+    "https://distrowatch.com/&",
+    "https://distrowatch.com/caine",
+    "https://distrowatch.com/table.php?distribution=std",
+    "https://distrowatch.com/13015",
+    "https://distrowatch.com/13014"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note 社長",
    "results": [
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://note.com/sherlokian/n/nc28aed5f6c3a",
-    "https://note.com/everprogress/n/nde8351a93d60",
-    "https://www.tisi.jp/special/security-diagnosis-column-019/",
     "https://note.com/kishioka/n/nf3b74d4d4ffe",
-    "https://note.com/tantei_note/n/n50655677d2da",
-    "https://ja.wikipedia.org/wiki/加藤貞顕",
-    "https://intelligencenotes.com/",
-    "https://note.com/platypus2000jp/n/n5eecd471d349",
-    "https://note.com/sk_kasou/n/nbde2a2effa4d"
-   ]
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://note.com/dora_e_m/n/n53da07162cf1",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://note.com/4989er/n/n40c8fd7dc601",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） X 投稿",
    "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.osintframework.com/",
     "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
     "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "https://www.lanscope.jp/blogs/cyber_attack_pfs_blog/20250619_27682/",
-    "https://www.onebe.co.jp/column/osint%EF%BC%88open-source-intelligence%EF%BC%89%E3%81%A8%E4%BB%A3%E8%A1%A8%E7%9A%84%E3%81%AA%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A8%E3%81%AF%EF%BC%9F/",
-    "https://cybersecurity-jp.com/contents/data-security/1528/",
-    "https://www.youtube.com/watch?v=lr-4eNnBKNA",
-    "https://www.netattest.com/osint-2023_mkt_tst",
-    "https://www.octoparse.jp/blog/osint-tools"
-   ]
+    "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
+    "https://distrowatch.com/osintvm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "OSINT source verification framework reliability grading provenance site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/ethical-dilemma-using-data-breach-information-osint-paul-wright-jmmaf",
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye",
     "https://www.linkedin.com/posts/leendertvanbochoven_defence-osint-intelligence-activity-7516828680438898688-0Qy3",
     "https://www.linkedin.com/posts/the-coalition-of-cyber-investigators_from-guidance-to-proof-what-an-evidence-grade-activity-7516834000397811712-18Uw",
-    "https://www.linkedin.com/top-content/corporate-social-responsibility/understanding-misinformation-impact/assessing-source-credibility-for-information/",
-    "https://ng.linkedin.com/in/joy-ewatomi-559250366",
+    "https://www.linkedin.com/pulse/ethical-dilemma-using-data-breach-information-osint-paul-wright-jmmaf",
+    "https://de.linkedin.com/in/christina-lekati-social-engineering",
+    "https://www.linkedin.com/in/alessandrorossetti/",
+    "https://nl.linkedin.com/in/dutch-osintguy",
     "https://uk.linkedin.com/in/markjohnsontrmg",
-    "https://in.linkedin.com/in/mohithagadi",
-    "https://nl.linkedin.com/in/privacy-insight-solutions"
-   ]
+    "https://www.linkedin.com/in/adam-oest-0a0253158",
+    "https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
   }
  ],
  "missing": {},
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "\" case management, these practices are vital for success and help avoid \"",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Since then, various intelligence grading systems have been developed and used by different organisations. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1 (Reliable): The source has consistently provided accurate information in the past. Examples include official government databases or trusted institutional data.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These codes simplify communication and ensure consistency across different organisations or agencies. For example:",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For example, sanitisation is a critical practice, where identifiable details about sources are removed from shared intelligence. This process ensures operational security while maintaining the reliability of the intelligence. However, sanitisation introduces a challenge: once a source’s identity is removed, the reader must rely on the intelligence grade to assess its",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Explored the significance of grading frameworks, like the 3x5x2 model, and how these practices enhance the credibility, operational security, and effectiveness of sharing OSINT.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Modern investigative work increasingly relies upon open-source intelligence (OSINT). However, an effective intelligence-gathering process depends on more than just collecting data: structured practices of grading, handling, and securely disseminating intelligence are essential. These methods help guarantee operational security, foster credibility, and enable effective collaboration.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Any information OSINT investigators obtain should be recorded through the frameworks discussed in this article.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to assign to it when formulating a response or deciding how to use it effectively. To address this issue, a nationally standardised grading system is available to both public and private investigation bodies, providing them with an easily understood way to share intelligence and assess its trustworthiness.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How intelligence is evaluated and authorised within the applicable intelligence framework",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "History of Grading Frameworks",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While sharing common roots, these frameworks have been adapted over time to meet the specific needs of different organisations and countries. The evolution of these grading frameworks reflects ongoing efforts to improve the accuracy and reliability of intelligence evaluation.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sample of an Intelligence Grading Framework",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Standardised grading frameworks like 3x5x2 streamline this process, making it easier for private and public organisations to collaborate. However, intelligence sharing must remain segmented, and where appropriate, \"",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", due diligence, or law enforcement fails to draw a line between reliable data and less credible data. Such a gap highlights the need for a robust methodology combined with advanced analytics for accurate",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Grading between private and public sector investigators is also valuable. It standardises methods and builds confidence. It enhances the audibility of intelligence, a critical element of compliance and operational oversight. For example, assigning confidence levels and grades can further refine assessments, helping investigators prioritise and corroborate their intelligence more effectively.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Embedding intelligence grading into OSINT so it aligns with other intelligence disciplines can help investigators achieve better operational outcomes, protect sources, and engender confidence in their findings. Adopting such methodologies forms a best practice and is increasingly necessary in today's high-speed, high-stakes investigative environment.",
-    "url": "https://www.osint.uk/content/embracing-grading-handling-and-dissemination-practices-in-osint",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 18,
+ "new_this_run": {},
+ "runs": 19,
  "first_researched_at": "2026-11-05T04:42:23.981695+00:00"
 }

@@ -1,0 +1,693 @@
+{
+ "name": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+ "en": "Economic Census 2016 manufacturing plating die establishments employees shipments",
+ "aliases": [
+  "経済センサス 活動調査 平成28年 産業細分類 電気めっき業 従業者数 製造品出荷額等",
+  "経済センサス 2016 金属用金型 従業者数 付加価値額 e-Stat",
+  "政府統計コード00200553 平成28年 製造業 産業細分類"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T17:46:59.246069+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1122_絹・人絹織物業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1142_絹・人絹織物機械染色業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2183_人工骨材製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3251_娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3252_人形製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、従業者3人以下の事業所を除く",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2023年1月6日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2021_工業用革製品製造業（手袋を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数＝192,047事業所（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "回収率＝95.1％（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年 月日の部分へすべて1月1日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389978",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/170602analysis-kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisf.or.jp/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yokkaichi.lg.jp/www/contents/1496210490192/simple/2019kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2016/kekka/pdf/hinsan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/topics/business-economy/manufacturing/data/annual-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?cycle=0&layout=dataset&month=12040606&page=1&stat_infid=000031721274&tclass1=000001106235&tclass2=000001106275&tclass3=000001114496&tclass4=000001114523&tclass5val=0&toukei=00200553&tstat=000001095895&year=20160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389978",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://kanagata-shimbun.com/170602analysis-kanagata/",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html",
+    "https://release.nikkei.co.jp/attach_file/0515956_01.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389978",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/170602analysis-kanagata/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://zentoren.or.jp/mekki/data.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.jisf.or.jp/data/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://zentoren.or.jp/mekki/data.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.city.yokkaichi.lg.jp/www/contents/1496210490192/simple/2019kougyou.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.stat.go.jp/data/e-census/2016/kekka/pdf/hinsan.pdf",
+    "https://www.soumu.go.jp/main_content/001068215.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census 2016 manufacturing plating die establishments employees shipments Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.census.gov/topics/business-economy/manufacturing/data/annual-data.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?cycle=0&layout=dataset&month=12040606&page=1&stat_infid=000031721274&tclass1=000001106235&tclass2=000001106275&tclass3=000001114496&tclass4=000001114523&tclass5val=0&toukei=00200553&tstat=000001095895&year=20160",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/NDL9884661_Industrial_Distribution_of_the_Population_of_Japan.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&data=1&metadata=1&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106275&tclass3=000001114495&tclass4val=0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+   "results": [
+    "https://note.com/chu_sotu/n/nbeb00f82f40a",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/osakagiya/n/n4432dae0480a",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/kabutabi2000/n/n545507ec700f",
+    "https://note.com/fast_tiger8331/n/nf3661cf89257",
+    "https://note.com/vast_slug4459/n/n16700091eddc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+   "results": [
+    "https://jp.linkedin.com/company/電気興業（株）",
+    "https://www.linkedin.com/company/godrej",
+    "https://www.linkedin.com/company/alliantgroup",
+    "https://www.linkedin.com/company/openai/jobs",
+    "https://www.linkedin.com/feed/update/urn:li:share:7518681601187164160",
+    "https://members.linkedin.com/zh-cn/2019/april/welcome",
+    "https://jp.linkedin.com/learning/excel-2016-macros/703270"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86）",
+   "results": [
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/denkimekki/posts/６月例会のご案内-めっきのブレークスルー-めっき品質向上環境対応へのさらなる展開-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますよ/3993278470728387/",
+    "https://www.facebook.com/takagikinzoku/posts/中小企業白書2019に掲載されました今後とも一層の技術向上を目指し誠心誠意邁進して参ります何卒ご支援のほどよろしくお願い申し上げます-事例-3-1-21-大企業/1882750135160909/",
+    "https://www.facebook.com/takagikinzoku/photos/1882749448494311/",
+    "https://www.facebook.com/denkimekki/posts/5009032599152964/",
+    "https://www.facebook.com/denkimekki/posts/5410904435632443/",
+    "https://www.facebook.com/denkimekki/posts/2016年-関西表面技術シンポジウム次世代めっき技術の深化と新たな成長が期待できる分野への展開-電気鍍金研究会-表面技術協会関西支部-表面技術協会ウェットプロセ/1094705143919082/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325902",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.neji-bane.jp/news/20180108_09_01/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2016〜2019年の電気めっき2464・金型2691の値の2か所目（経済センサス‐活動調査2016年の同じ細分類・同じ欄で突き合わせる・1か所1回で止めない・4-86） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census 2016 manufacturing plating die establishments employees shipments site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/misty-heggeness",
+    "https://www.linkedin.com/in/ildik%C3%B3-magyari-ph-d-0298904",
+    "https://www.linkedin.com/in/jennifer-ortman-96682856",
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/in/ron-jarmin-8083a85",
+    "https://www.linkedin.com/in/emilylwiley",
+    "https://www.linkedin.com/in/alan-berube-1baa0b3",
+    "https://in.linkedin.com/in/phalasha-nagpal-4458b299",
+    "https://www.linkedin.com/in/heather-boushey-0bab129a",
+    "https://www.linkedin.com/in/ben-taylor-30550077"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ37頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ37頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ37頁・検索18回）"
+ }
+}

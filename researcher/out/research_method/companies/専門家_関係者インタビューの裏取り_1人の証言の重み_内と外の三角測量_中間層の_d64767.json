@@ -8,282 +8,8 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-07T12:36:59.832762+00:00",
+ "researched_at": "2026-11-07T17:57:43.220576+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "But keep expectations realistic. Expert interview evidence is not representative in the statistical sense, one expert’s account is one perspective, shaped by their position and interests. That’s precisely why triangulation isn’t optional. If you’re building a case study or informing a strategic decision, treat expert interviews as one strong evidence stream among several, not the whole answer.",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Contrast and example requests.",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ask for a concrete example.",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case Study: Recruiting YouTubers For Market Research – Veridata Insights",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The case for mid- and low-level insiders:",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Oftentimes, scholars disregard the influence and informational advantage of inside experts who do not occupy top positions—be it election campaigners, civil society activists, or mid-level civil servants. For example, to investigate political intervention into the tax administration in two African countries (von Soest",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "). Hence, this guiding principle should not make scholars reject the method in difficult cases.",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "; for another example, Lundgren",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reference Archibald, Ambagtsheer, Casey and Lawless",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study Research: Putting the Quant into the Qual",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Studies and Theory Development in the Social Sciences",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study Research: Principles and Practices",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What are Bias in Qualitative Research?",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Addressing how researcher bias was managed through triangulation.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "a shared bias can make agreement look like independent confirmation.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Combining embedded and outside-observer perspectives reduces the bias either group carries alone.",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How Do You Select and Sample Experts Without Building in Bias?",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "reduces bias and captures decision-making mechanisms more completely",
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Dealing with Personal Biases",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", 207–9). Interviewing inside and outside experts holds promises but also pitfalls (see the summary in",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In addition to the selection of both inside and outside experts, it is of crucial importance to limit the possibility that respondents’ personal biases compromise the results and thereby limit expert interviews’ analytical value.",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for different potential biases).",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", 154). Yet external experts also have their ideological and personal predispositions that affect the answers they give. Analyzing highly contentious issues such as the support for violence or working in post-conflict and authoritarian environments makes social-desirability bias particularly salient (Lyall",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "). Social-desirability bias regularly renders responses invalid. To counter this, scholars have designed so-called list experiments to help examine “true biases and preferences that would be otherwise difficult to reveal” (Dietrich, Hardt, and Swedlund",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To overcome the power of the good quote and avoid biases in using references, scholars should clearly catalogue the procedures guiding the aggregation and interpretation of information (Tripp",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(Dis)Courtesy Bias: ‘Methodological Cognates,’ Data Validity, and Ethics in Violence-Adjacent Research",
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
@@ -556,6 +282,152 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "実例": [
+   {
+    "quote": "For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "But keep expectations realistic. Expert interview evidence is not representative in the statistical sense, one expert’s account is one perspective, shaped by their position and interests. That’s precisely why triangulation isn’t optional. If you’re building a case study or informing a strategic decision, treat expert interviews as one strong evidence stream among several, not the whole answer.",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Contrast and example requests.",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ask for a concrete example.",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case Study: Recruiting YouTubers For Market Research – Veridata Insights",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The case for mid- and low-level insiders:",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Oftentimes, scholars disregard the influence and informational advantage of inside experts who do not occupy top positions—be it election campaigners, civil society activists, or mid-level civil servants. For example, to investigate political intervention into the tax administration in two African countries (von Soest",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "). Hence, this guiding principle should not make scholars reject the method in difficult cases.",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "; for another example, Lundgren",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reference Archibald, Ambagtsheer, Casey and Lawless",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study Research: Putting the Quant into the Qual",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Studies and Theory Development in the Social Sciences",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study Research: Principles and Practices",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "Triangulation in Qualitative Research",
@@ -713,100 +585,258 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are Bias in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Addressing how researcher bias was managed through triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a shared bias can make agreement look like independent confirmation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Combining embedded and outside-observer perspectives reduces the bias either group carries alone.",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How Do You Select and Sample Experts Without Building in Bias?",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reduces bias and captures decision-making mechanisms more completely",
+    "url": "https://veridatainsights.com/expert-interviews-research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Dealing with Personal Biases",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", 207–9). Interviewing inside and outside experts holds promises but also pitfalls (see the summary in",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In addition to the selection of both inside and outside experts, it is of crucial importance to limit the possibility that respondents’ personal biases compromise the results and thereby limit expert interviews’ analytical value.",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for different potential biases).",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", 154). Yet external experts also have their ideological and personal predispositions that affect the answers they give. Analyzing highly contentious issues such as the support for violence or working in post-conflict and authoritarian environments makes social-desirability bias particularly salient (Lyall",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "). Social-desirability bias regularly renders responses invalid. To counter this, scholars have designed so-called list experiments to help examine “true biases and preferences that would be otherwise difficult to reveal” (Dietrich, Hardt, and Swedlund",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To overcome the power of the good quote and avoid biases in using references, scholars should clearly catalogue the procedures guiding the aggregation and interpretation of information (Tripp",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(Dis)Courtesy Bias: ‘Methodological Cognates,’ Data Validity, and Ethics in Violence-Adjacent Research",
+    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/brimmingwithx/n/n87c1e61795ab",
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/squidmania/n/n23a05b612f22",
+    "url": "https://www.microsoft.com/en-us",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/onlineschoollabo/n/nc68e68db0836",
+    "url": "https://myaccount.microsoft.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://account.microsoft.com/account-checkup",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/blueinsight_inc/n/n7db26485361d",
+    "url": "https://m365.cloud.microsoft/?origindomain=Office",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rich_ibis112211/n/n08fec446975b",
+    "url": "https://support.microsoft.com/en-us/support/index",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/manawilson/n/nd7de2c5bbba1",
+    "url": "https://obsproject.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ajcp.media/archives/2534",
+    "url": "https://support.google.com/youtube/answer/11602441?hl=en",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/prime_donkey3295/n/nfafdce87e522",
+    "url": "https://support.google.com/youtube/answer/6308278?hl=en&co=GENIE.Platform=Android",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://x.com/risaku/status/2118506440742875218",
+    "url": "https://support.google.com/youtube/answer/2802027?hl=en&co=GENIE.Platform=Desktop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtube/answer/15968883?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtubetv/answer/7129768?hl=en&co=GENIE.Platform=Desktop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bankofamerica.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wallethub.com/answers/cc/ventureone-vs-bank-of-america-travel-rewards-2140691387/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wallethub.com/credit-cards/student-bank-of-america/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city-data.com/locations/BankofAmerica/Albany-Georgia.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wallethub.com/credit-cards/bank-of-america-mastercard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wallethub.com/mortgage-rates/bank-of-america-13000450i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/experts.com",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://makio-0559.jugem.jp/?eid=11931",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.linkedin.com/company/the-expert-com",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "http://totalnewsjp.com/2026/06/21/jiken-1002/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://uk.linkedin.com/company/amz-expert-agency",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.news-postseven.com/archives/20260806_2125237.html?DETAIL",
-    "status": "ok",
-    "method": "http"
+    "url": "https://uk.linkedin.com/company/managed-it-experts-ltd",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://veridatainsights.com/expert-interviews-research/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://zw.linkedin.com/company/rimkus",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://home.uchicago.edu/bursztyn/SDA.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.sciencedirect.com/science/article/pii/S1570677X1630154X",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9749714/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13230293/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://kz.linkedin.com/company/wardell-armstrong",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -814,136 +844,203 @@
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） site:note.com",
    "results": [
-    "https://note.com/brimmingwithx/n/n87c1e61795ab",
-    "https://note.com/squidmania/n/n23a05b612f22",
-    "https://note.com/onlineschoollabo/n/nc68e68db0836",
-    "https://note.com/blueinsight_inc/n/n7db26485361d",
-    "https://note.com/rich_ibis112211/n/n08fec446975b",
-    "https://note.com/manawilson/n/nd7de2c5bbba1",
-    "https://note.com/idealab/n/n7b4370edf5c4"
-   ]
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://myaccount.microsoft.com/login",
+    "https://account.microsoft.com/account-checkup",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://support.microsoft.com/en-us/support/index",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/ ->",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 19
   },
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） note",
-   "results": []
+   "results": [
+    "https://www.youtube.com/",
+    "https://obsproject.com/",
+    "https://support.google.com/youtube/answer/11602441?hl=en",
+    "https://support.google.com/youtube/answer/6308278?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/youtube/answer/2802027?hl=en&co=GENIE.Platform=Desktop",
+    "https://support.google.com/youtube/answer/15968883?hl=en",
+    "https://support.google.com/youtubetv/answer/7129768?hl=en&co=GENIE.Platform=Desktop",
+    "https://support.google.com/youtube/answer/72689?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/youtube/answer/72851?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/youtube/answer/6308116?hl=en&co=GENIE.Platform=Android"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
   },
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） やり方",
    "results": [
-    "https://ajcp.media/archives/2534",
-    "https://note.com/squidmania/n/n23a05b612f22",
-    "https://note.com/prime_donkey3295/n/nfafdce87e522",
-    "https://x.com/risaku/status/2118506440742875218",
-    "https://makio-0559.jugem.jp/?eid=11931",
-    "http://totalnewsjp.com/2026/06/21/jiken-1002/",
-    "https://www.news-postseven.com/archives/20260806_2125237.html?DETAIL"
-   ]
+    "https://www.bankofamerica.com/",
+    "https://wallethub.com/answers/cc/ventureone-vs-bank-of-america-travel-rewards-2140691387/",
+    "https://wallethub.com/credit-cards/student-bank-of-america/",
+    "https://www.city-data.com/locations/BankofAmerica/Albany-Georgia.html",
+    "https://wallethub.com/credit-cards/bank-of-america-mastercard/",
+    "https://wallethub.com/mortgage-rates/bank-of-america-13000450i",
+    "https://wallethub.com/answers/cc/international-student-credit-card-bank-of-america-2140676160/",
+    "https://wallethub.com/d/bank-of-america-cash-rewards-credit-card-128c",
+    "https://wallethub.com/edu/cc/bank-of-america-travel-rewards-card-review/51612",
+    "https://wallethub.com/answers/cc/bank-of-america-foreign-transaction-fee-1000339-2140662064/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
   },
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） 事例",
-   "results": [
-    "https://ajcp.media/archives/2534",
-    "https://note.com/prime_donkey3295/n/nfafdce87e522",
-    "https://note.com/squidmania/n/n23a05b612f22",
-    "https://x.com/risaku/status/2118506440742875218",
-    "https://makio-0559.jugem.jp/?eid=11931",
-    "http://totalnewsjp.com/2026/06/21/jiken-1002/",
-    "https://www.news-postseven.com/archives/20260806_2125237.html?DETAIL"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "expert interview triangulation evidence weight insiders social desirability bias",
    "results": [
-    "https://veridatainsights.com/expert-interviews-research/",
-    "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "https://home.uchicago.edu/bursztyn/SDA.pdf",
-    "https://www.sciencedirect.com/science/article/pii/S1570677X1630154X",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9749714/",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13230293/",
-    "https://link.springer.com/article/10.1007/s11135-026-02664-7"
-   ]
+    "https://www.linkedin.com/company/experts.com",
+    "https://www.linkedin.com/company/the-expert-com",
+    "https://uk.linkedin.com/company/amz-expert-agency",
+    "https://uk.linkedin.com/company/managed-it-experts-ltd",
+    "https://zw.linkedin.com/company/rimkus",
+    "https://kz.linkedin.com/company/wardell-armstrong",
+    "https://bm.linkedin.com/company/beale&co"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）",
    "results": [
-    "https://note.com/brimmingwithx/n/n87c1e61795ab",
-    "https://note.com/squidmania/n/n23a05b612f22",
-    "https://note.com/onlineschoollabo/n/nc68e68db0836",
-    "https://note.com/blueinsight_inc/n/n7db26485361d",
-    "https://note.com/rich_ibis112211/n/n08fec446975b",
-    "https://note.com/manawilson/n/nd7de2c5bbba1",
-    "https://note.com/storytellers/n/n60966e2f6c0e"
-   ]
+    "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+    "https://techcommunity.microsoft.com/Events",
+    "https://techcommunity.microsoft.com/category/microsoft-security",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://www.microsoft.com/en-us/",
+    "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
   },
   {
    "query": "site:x.com 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）",
    "results": [
-    "https://x.com/risaku/status/2118506440742875218",
-    "https://x.com/kharaguchi/status/2038298552670240984",
-    "https://x.com/japan_jikenfile/status/2082459004631236645",
-    "https://x.com/amneris84/status/2089563067654996404",
-    "https://x.com/rk751118/status/2108892702196875424",
-    "https://x.com/WarszawaExpress/status/2063891327969087499",
-    "https://x.com/satoruishido/status/2054183678763474947"
-   ]
+    "https://community.spectrum.net/discussion/176533/cant-access-my-road-runner-email-account",
+    "https://community.spectrum.net/discussion/175374/how-can-i-access-my-email",
+    "https://community.spectrum.net/discussion/176557/problems-with-email",
+    "https://community.spectrum.net/discussion/178344/legacy-rr-webmail",
+    "https://community.spectrum.net/discussion/178229/is-the-twc-email-just-gone",
+    "https://community.spectrum.net/discussion/170572/spectrum-webmail-access",
+    "https://community.spectrum.net/discussion/178834/what-is-the-url-for-spectrum-webmail",
+    "https://community.spectrum.net/discussion/178341/a-message-to-customers-having-trouble-accessing-legacy-rr-com-and-roadrunner-com-email-accounts",
+    "https://community.spectrum.net/discussion/175457/how-do-i-receive-charter-net-e-mail",
+    "https://community.spectrum.net/discussion/170455/unable-to-access-webmail-getting-a-error-message"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
   },
   {
    "query": "site:linkedin.com 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）",
-   "results": [
-    "https://jp.linkedin.com/pulse/interview-hr-expert-transformation-rishi-a-battja--tj86e?tl=ja",
-    "https://jp.linkedin.com/posts/makiko-miy_インタビュー調査とは種類や手順とコツを事例を交えて専門家が解説-ツギノジダイ-activity-7042144850590261248-QxMq",
-    "https://pe.linkedin.com/posts/masamichihonma_言葉の重みあの人の言葉には重みがあるなぁと感じるとき-実際に体験した気づきを-activity-7169099135575425024-cpgY",
-    "https://jp.linkedin.com/posts/yuji-taki-10b781241_連載内部監査スキル解説③内部監査のインタビュースキル-意外と知られていない-activity-7132300527656189952-wrnw",
-    "https://www.linkedin.com/posts/bijapan_これがゴールドマンサックスの360度評価だ評価依頼で駆け引き明け方まで記入-activity-7106919448502046721-15mh",
-    "https://www.linkedin.com/posts/masamichihonma_言葉の重み-あの人の言葉には重みがあるなぁと感じるとき実際に体験した気づきを-activity-7106055174946766848-HuLX",
-    "https://jp.linkedin.com/posts/wataru-takahara-10997721a_1日1つしか作れない材料研究が教えてくれたデータの重み専門職のトップランナー-activity-7499832851769544704-H7TC"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）",
    "results": [
-    "https://www.facebook.com/tokyofoundation/posts/掲載情報特集東日本大震災から15年災害情報は届いて初めて意味を持つ100人の証言命をつなぐ津波避難が示す避難行動の連鎖江野夏平-東京財団シニア政策オフィサー東日/960967632944381/",
-    "https://www.facebook.com/100086765855274/videos/2154484081801758/",
-    "https://www.facebook.com/SankeiShimbun/posts/旧統一教会系が野田佳彦氏支援関係者証言中道改革連合の野田佳彦共同代表に対し民主党時代の平成1221年に世界平和統一家庭連合旧統一教会の政治団体国際勝共連合が選挙/1348132977352043/",
-    "https://www.facebook.com/hasumitosikonopjdch/videos/気まぐれ雑談完全版からの切り取りショートです麒麟牙来るさらばカレー事件関係者証言を元に完全論破します/1746634973234356/",
-    "https://www.facebook.com/h.kaneko.gyousei/posts/情報の裏取りや情報源ニュースソースの出所を自分で調べることが大切ですね生成aiの精度が上がっているからこそaiの回答を鵜呑みにしないことです僕が取り組んでいるの/4153247491665077/",
-    "https://www.facebook.com/reel/9879759732135323/",
-    "https://www.facebook.com/ntvnews24/videos/生存者の証言からあきらかになる強制労働収容所の実態とは知られざる沖縄戦の裏側every特集沖縄の地上戦の際に作られた大規模な民間人収容所実は収容所の中にさらに特/27785085127797308/"
-   ]
+    "https://community.spectrum.net/discussion/178955/retiring-an-email-id",
+    "https://community.spectrum.net/discussion/176557/problems-with-email",
+    "https://community.spectrum.net/discussion/176533/cant-access-my-road-runner-email-account",
+    "https://community.spectrum.net/discussion/179570/odd-problem-accessing-charter-net-email",
+    "https://support.mozilla.org/en-US/questions/1433051",
+    "https://community.spectrum.net/discussion/176665/how-to-setup-spectrum-email-to-work-with-the-new-outlook-password-needed",
+    "https://community.spectrum.net/discussion/178492/spectrum-is-blocking-email-from-gmail-to-verify-roadrunner-email",
+    "https://support.mozilla.org/en-US/questions/1370885",
+    "https://community.spectrum.net/discussion/176654/where-can-i-find-my-secondary-spectrum-email-accounts",
+    "https://community.spectrum.net/discussion/173290/how-to-add-additional-email-addresses-to-my-spectrum-email"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
   },
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） note 社長",
-   "results": []
+   "results": [
+    "https://www.reddit.com/r/PornoFeet/",
+    "https://www.reddit.com/r/transporn/about/",
+    "https://www.reddit.com/r/ultrawidemasterrace/comments/4vwz4h/ultrawide_porn/",
+    "https://www.reddit.com/r/retropornstars/",
+    "https://www.reddit.com/r/lesbians/",
+    "https://www.reddit.com/r/RealHomePorn/top/",
+    "https://www.reddit.com/r/pornonyoutube/about/",
+    "https://www.reddit.com/r/getdisciplined/comments/1dinnsk/to_the_people_who_quit_porn_addiction_how_did_you/",
+    "https://www.reddit.com/r/porn/top/?t=all",
+    "https://www.reddit.com/r/3Porn_Edits/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
   },
   {
    "query": "専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り） X 投稿",
    "results": [
-    "https://ajcp.media/archives/2534",
-    "https://note.com/prime_donkey3295/n/nfafdce87e522",
-    "https://note.com/squidmania/n/n23a05b612f22",
-    "https://x.com/risaku/status/2118506440742875218",
-    "https://makio-0559.jugem.jp/?eid=11931",
-    "http://totalnewsjp.com/2026/06/21/jiken-1002/",
-    "https://niben.jp/niben/books/frontier/backnumber/201907/post-26.html"
-   ]
+    "https://mail.yahoo.com/;_ylt=A2RQRMJiZ.9q2QIAAQRXNyoA;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEEdnRpZAMEc2VjA3Ny",
+    "https://www.reddit.com/r/declutter/comments/190tfu8/i_deleted_nine_years_of_emails/",
+    "https://www.reddit.com/r/yahoo/comments/16hj0u7/how_to_contact_them_properly/",
+    "https://www.answers.com/computers/How_do_you_send_high_priority_emails_in_yahoo",
+    "https://www.answers.com/auto-parts/How_do_you_make_a_undisclosed_recipients_group_on_Yahoo_mail",
+    "https://www.reddit.com/r/thehatedone/comments/gpacf8/is_yahoo_mail_okay_for_privacy/",
+    "https://www.reddit.com/r/yahoo/comments/4gg670/how_to_remove_the_autofill_on_yahoomail_login/",
+    "https://www.reddit.com/r/yahoo/comments/v3yi9b/emails_being_delivered_to_trash_no_filters_in_use/",
+    "https://www.reddit.com/r/yahoo/comments/1ahuio8/yahoo_wont_send_verification_code_to_my_phone/",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1b3rvfo/how_has_yahoo_survived_all_these_years/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
   },
   {
    "query": "expert interview triangulation evidence weight insiders social desirability bias site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/advice/0/how-can-you-avoid-social-desirability-bias-qualitative-fi59e",
-    "https://www.linkedin.com/posts/skills-economics_how-can-you-avoid-social-desirability-bias-activity-7164670817765691392-YNfo",
-    "https://pt.linkedin.com/pulse/triangulation-migration-deception-detection-from-art-uddin-msc--gpmsc?tl=pt",
-    "https://www.linkedin.com/posts/voiceinmind_workshopsuccess-voiceinmind-meal-activity-7516078385253580800-NkoJ",
-    "https://www.linkedin.com/pulse/triangulation-migration-deception-detection-from-art-uddin-msc--gpmsc",
-    "https://www.linkedin.com/posts/thedecisionlab_social-desirability-bias-the-decision-lab-activity-7348313960166617090-borU",
-    "https://www.linkedin.com/posts/eldimpact_field-note-3-data-quality-triangulation-activity-7425479903933911040-CsZZ"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T22:56:49.621013+00:00"
 }
