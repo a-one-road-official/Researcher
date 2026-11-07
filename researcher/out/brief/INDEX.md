@@ -8,7 +8,7 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-07 12:18 JST
+## 更新：2026-11-07 12:48 JST
 
 ## この24時間で増えた事実（一部）
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説 - iCOM技研ブログ」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
@@ -46,37 +46,21 @@
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ ヒューマノイド ロボット 市場、2035年に1兆360億米ドル規模へ LinkedIn https://jp.linkedin.com > pulse > 人型ロボットが」https://jp.linkedin.com/pulse/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8B%E3%82%89%E7%94%A3%E6%A5%AD%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%B8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B42035%E5%B9%B4%E3%81%AB1%E5%85%86360%E5%84%84%E7%B1%B3%E3%83%89%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%B8-7513818788258234368-9jsyc
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「2035年までに1,300万体のヒューマノイド ロボット が私たちの ... 2035年までに1,300万体のヒューマノイド ロボット が私たちの ... LinkedIn https://jp.linkedin.com > pulse >」https://jp.linkedin.com/pulse/13-million-humanoid-robots-walk-among-us-2035-bernard-marr-arwae?tl=ja
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「ヒューマノイド ロボット に私たちの世界のより良い感覚を与える ヒューマノイド ロボット に私たちの世界のより良い感覚を与える LinkedIn https://jp.linkedin.com > pulse」https://jp.linkedin.com/pulse/giving-humanoid-robots-better-sense-our-world-texas-instruments-2z5re?tl=ja
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「Edge AI Chips vs Cloud AI Chips : Which One Powers the ... Edge AI Chips vs Cloud AI Chips : Which One Powers the ... Li」https://www.linkedin.com/pulse/edge-ai-chips-vs-cloud-which-one-powers-future-chipxpertofficial-aghcf
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜痛み・損（深さの印）：「大手全社の減産にもかかわらず、半導体メモリーの在庫解消に時間がかかっている旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜痛み・損（深さの印）：「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―US chip growth at risk from 67K too few skilled worker」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜痛み・損（深さの印）：「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―Based on graduation rates, many jobs could be hard to 」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「開発初期段階から半導体商社だけでなく、メモリベンダーの技術部門とコンタクトを取り、長期的なフォーキャスト（需要予測）を提示することで、優先的な供給枠を確保する交渉を戦略的に行うことが重要です」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「懸念されがちな推論レイテンシが劇的に短縮され、目標をクリアしてライン速度に対して十分なマージンを確保できる事例があります」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「Commissioned Research :」https://newscast.jp/news/8315575
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジAIチップ 市場、2033年に9兆台湾ドル突破へ — エッジAIチップ 市場、2033年に9兆台湾ドル突破へ BigGo ファイナンス https://finance.biggo.jp > news」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ 用途向け AIチップ 2026 -2036年：技術、市場、予測 — エッジ 用途向け AIチップ 2026 -2036年：技術、市場、予測 IDTechEx https://www.idtechex.com > ai-chips-f」https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「AI 半導体デザイン分野で 日本 とマレーシアの 企業 が協業の契約 ... — AI 半導体デザイン分野で 日本 とマレーシアの 企業 が協業の契約 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp >」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「エッジAI半導体「SAKURA-II」採用進む、映像・文章・音声をデータセンター不要で処理」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「CG Power arm Axiro、MPowerが日本のAIチップメーカーEdgeCortixに出資」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「エッジAI半導体のEdgeCortix、170億円超調達でなお追加検討、次世代チップレット投入前倒し」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「EUVリソ装置のオランダ・ASMLは、米国の対中輸出規制を受けていく中、中国向けが好調としている」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「ただオランダでは9月1日に半導体製造装置の新たな輸出規制が施行され、ArF液浸露光装置の中国輸出も許可申請する必要が生じる旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「米国のCHIPS法補助金は、より多くの企業に半導体工場の建設を促しているが、国内の学校は、必要な数のエンジニア、コンピュータ科学者および技能者を輩出する軌道に乗っていない旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「日本のEdgeCortix、米国国防イノベーションユニット（DIU）契約を獲得」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「この合意により、DIUは、EdgeCortixのハードウェアおよびソフトウェアソリューションを迅速に評価し、最終的には米国国防総省のさまざまな先端分野で展開できるようになります」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「EdgeCortixは、新たに2000万ドルを調達、インドに開発センター設立を計画」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「2.5D/3D実装技術の専門性が要求される」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「次世代のウェハ欠陥検査装置などの開発現場において、市場からの要求スペックは年々過酷さを増しています」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「メモリ帯域幅要求が300GB/sを超える場合:」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「エッジAIスタートアップが新製品を発表、川崎重工業と数百万ドル規模の契約を締結」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「川崎重工とEdgeCortix、次世代防衛システムの実現に向けたエッジAI分野での協業を開始」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「川崎重工は、EdgeCortix株式会社とエッジAI技術を活用した次世代防衛システムの実現に向け、両社が有する技術や知見を融合した協業を長期的に推進していくことで合意しました」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「エッジAI半導体のEdgeCortix、170億円超調達でなお追加検討、次世代チップレット投入前倒し」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「株式による資金調達および2024年12月以降の株式の希薄化を伴わない大規模な政府助成金を含めると、累計調達額は約150億円（1億米ドル）に達する」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「エッジAI半導体のEdgeCortix、資金調達額が150億円に到達」https://www.edgecortix.com/ja/news
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「業界の懸案、現時点の捉え方から；回復に向けた足取り、人材不足警鐘&対応 - セミコンポータル」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「業界の懸案、現時点の捉え方から；回復に向けた足取り、人材不足警鐘&対応」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「もう1つ、半導体新工場への取り組みが各国で行われる中、米国・Semiconductor Industry Association(SIA)が人材不足の問題の警鐘を鳴らす報告書を発表、2030年までに半導体業界で6万7000人不足するとして、」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「エッジ AI チップ 関連企業トップ10一覧 - LinkedIn エッジ AI チップ 関連企業トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ-ai-チッ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg — エヌビディアなどの AI 半導体、米政府が 輸出 規制案 - Bloomberg Bloomberg https://www.bloomberg.com 」https://www.bloomberg.com/jp/news/articles/2026-03-05/TBFSPTKK3NY800
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn — エッジ AI チップ 関連 企業 トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジ 用途向け AIチップ 2026-2036年：技術、市場、予測 — エッジ 用途向け AIチップ 2026-2036年：技術、市場、予測 IDTechEx https://www.idtechex.com > ai-chips-for」https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「信システムの開発・製造基盤強化及びデジタル社会と脱炭素化の両立の実」https://www.meti.go.jp/shingikai/sankoshin/shomu_ryutsu/next_generation_semiconductor/pdf/008_04_00.pdf
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「TSMCやラピダス、キオクシアなどのメーカーの動向や供給不足、シェア推移など関連業界や市場の最新ニュース・解説をタイムリーに発信します」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「プラットフォーム」の構築の一環として、政府としても両社の協業連携を支援していると説明した」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「加えて、これらを推進する上で重要な人材育成や次世代半導体に係る事」https://www.meti.go.jp/shingikai/sankoshin/shomu_ryutsu/next_generation_semiconductor/pdf/008_04_00.pdf
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「加えて、これらを推進する上で重要な人材育成等に取り組む」https://www.meti.go.jp/shingikai/sankoshin/shomu_ryutsu/next_generation_semiconductor/pdf/008_04_00.pdf
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（Facebook・検索結果の抜粋）：「New 80 mhz ai chip enables efficient edge ai inference New 80 mhz ai chip enables efficient edge ai inference Facebook h」https://www.facebook.com/dennis.c.hayes/posts/the-80-mhz-ai-chip-that-could-put-intelligence-everywherethe-article-that-sparke/27055943914016880/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「月極駐車場の管理から周辺領域へ──ニーリー、総額60億円調達で事業拡大」https://kepple.co.jp/articles/vh_svobtf62p
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「AI新興のTAI、12.7億円調達 27年秋にも半導体チップ量産へ - 日本経済新聞」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「人工知能（AI）関連の新興、トウキョウ アーチザン インテリジェンス（TAI、横浜市）はベンチャーキャピタル（VC）などを引受先とする第三者割当増資とみずほ銀行からの借り入れで計12億7000万円を調達した」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（X・検索結果の抜粋）：「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推」https://x.com/semi_journal_jp/status/2027879827777466612
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「そして工事の受注残という形で、業績の可視性が比較的高いという特徴があります」https://note.com/tatsuya_sabato/n/na37816fa37c3
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「チェックポイント3 受注残・繰越工事高が増えているか」https://note.com/tatsuya_sabato/n/na37816fa37c3
@@ -91,6 +75,22 @@
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「次の半導体大国、インド」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「政府の積極的な財政支援に加えて、海外人材の呼び込み、イノベーションを起こすような「突出した人材」を育てられる環境づくりが急務である（」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
 - AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「「経済安全保障、食料安全保障、エネルギー安全保障、健康医療安全保障、国土強靱化対策などの様々なリスクや社会課題に対し、官民が手を携え先手を打って行う戦略的な投資」であると言及しています」https://www.ichiyoshi.co.jp/topic/kabuto474
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「企業のAI導入予算も削られ、現場AI銘柄の受注にも影響が出ます」https://note.com/tatsuya_sabato/n/na37816fa37c3
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「半導体人材不足の裏で「圧倒的」求人数、無策の30年を取り戻せるか | 日経クロステック（xTECH）」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「旺盛な求人に対して、半導体人材の不足は深刻だ」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「その需要に応えられるだけの人材が、今、日本にいない」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「むしろ、企業であれ大学であれ、人材不足の悲鳴を上げている」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「アカデミアからも、「半導体人材が一番足りないのは企業だが、大学でもその声は出てきている」（東北大学 国際集積エレクトロニクス研究開発センター長の遠藤哲郎氏）と明かす」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「半導体材料メーカーの従業員数は含まれていない」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「自動運転や、人工知能（AI）、高度医療といった用途の広がりから、今後も半導体市場は拡大していく」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「次世代技術とされる半導体の3次元実装技術でも「人材はいない」（Rapidus〔ラピダス〕 専務執行役員 3Dアセンブリ本部長の折井靖光氏）」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「アカデミアからも、「半導体人材が一番足りないのは企業だが、大学でもその声は出てきている」（東北大学 国際集積エレクトロニクス研究開発センター長の遠藤哲郎氏）と明かす」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「From GPUs to Purpose-Built Chips: The AI Accelerator Landscape The WSE-3 contains 900,000 AI cores across the entire waf」https://www.linkedin.com/pulse/from-gpus-purpose-built-chips-ai-accelerator-landscape-fred-ingham-rs25e
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「When the AI Chip is a System: Does Your Patent Portfolio Protect the ... The AI infrastructure race is changing not only」https://jp.linkedin.com/pulse/when-ai-chip-system-does-your-patent-portfolio-protect-roberta-young-uhpdc?tl=ja
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — May 14, 2026 · The Asia Pacific AI accelerator chips marke」https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chip Market Share Outlook Highlights USD 74.34 ... — The AI Accelerator Chip Market was valued at USD 11.」https://www.linkedin.com/pulse/ai-accelerator-chip-market-share-outlook-highlights-usd-7434-bxrgf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「Japan Ai Accelerator Chip Sales Market Future Growth ... — Sep 2, 2026 · The Japan Ai Accelerator Chip Sales Market enco」https://www.linkedin.com/pulse/japan-ai-accelerator-chip-sales-market-fcv1f
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

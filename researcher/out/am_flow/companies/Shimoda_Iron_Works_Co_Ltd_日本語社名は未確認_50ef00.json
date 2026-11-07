@@ -1,0 +1,453 @@
+{
+ "name": "Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+ "aliases": [],
+ "context": "WAAM機導入・風力向け部品製造(鍛造フランジ・継手メーカー) / MX3D(M1 Metal AM System 日本初号機)",
+ "researched_at": "2026-11-07T03:28:03.491566+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Shimoda Iron Works Co Ltd - Company Profile and News — Shimoda Iron Works Co Ltd - Company Profile and News Bloomberg.com https://www.bloomberg.com > profile",
+    "url": "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kyoeisteel.co.jp/ja/ir/stock/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funds.deutsche-am.com/ja-jp/StaticChartView111704/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zigexn.co.jp/5090/?srsltid=AYCX9vI_DVnjmBJJO2UHLAs-6ki6kyKhM9gRAfiQeZc706MFmt8PR5kE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shi.co.jp/english/ir/stock/situation/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theworldfolio.com/interviews/shimoda-iron-works-leverages-cuttingedge-forging-technologies-and-sustainable-practices/6415/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/en/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/shimodaironworks_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/en/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=K0pIIn6jHws",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdcp.co.jp/Form/User/UserRegistRegulation.aspx?nurl=%2FForm%2FProduct%2FProductDetail.aspx%3Fshop%3D0%26pid%3D3121461233030000%26bid%3Dcofl%26swrd%3D%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588&srsltid=AYCX9vIGWN9Cwd764mp0Ihllh_AsiK64q-rnhqbRjFYK6actkI1iou3N",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.descente.co.jp/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/en/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/shimodaironworks_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/wp-content/uploads/2024/09/Newsweek-International.pdf",
+    "https://www.pumpvalve-book.com/company/shimoda-flange-co-ltd/",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html",
+    "https://jpn.bizdirlib.com/node/505266",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000048507?preview=false&createdLocale=en_US&tabSelected=appeal",
+    "https://www.energydais.com/shimoda-iron-works-coltd/"
+   ]
+  },
+  {
+   "query": "株式会社Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://jp.linkedin.com/in/shinji-shimoda-116532186",
+    "https://www.machinetools.com/en/companies/275482-shoda-iron-works-co-dot-ltd",
+    "https://mono.ipros.com/en/product/detail/2000333757/",
+    "https://www.shimoda-group.jp/company/global_network.html",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 株式会社",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/",
+    "https://www.shinba.net/",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://mono.ipros.com/en/product/detail/2000223996/",
+    "https://shinodaiw.jp/company/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000048507?preview=false&createdLocale=en_US"
+   ]
+  },
+  {
+   "query": "Ｓｈｉｍｏｄａ　Ｉｒｏｎ　Ｗｏｒｋｓ　Ｃｏ　Ｌｔｄ　（日本語社名は未確認）",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/wp-content/uploads/2024/09/Newsweek-International.pdf",
+    "https://www.pumpvalve-book.com/company/shimoda-flange-co-ltd/",
+    "https://mono.ipros.com/en/product/detail/2000333757/",
+    "https://www.machinetools.com/en/companies/275482-shoda-iron-works-co-dot-ltd",
+    "https://shimoda-flg.co.jp/en/company/",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html"
+   ]
+  },
+  {
+   "query": "ShimodaIronWorksCoLtd(日本語社名は未確認)",
+   "results": [
+    "https://shicryogenics.com/about/",
+    "https://motomirror.com/location/aetna-truck-parts/",
+    "https://www.thinkusadairy.org/applications/supplier-search/Details?supplierID=132153",
+    "https://modedistributing.com/directory/",
+    "https://dermody.com/capabilities/past-and-completed-projects/",
+    "https://www.surfaceworks.us/company/find-a-rep",
+    "https://www.selectlee.com/project/westrock-facility/",
+    "https://www.instagram.com/p/DdbtFOGkxAq/",
+    "https://www.shi.com/careers/diversity-equity-and-inclusion",
+    "https://shimoda-flg.co.jp/en/"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) Japan",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.tiw.co.jp/en/",
+    "https://www.machinetools.com/en/companies/275482-shoda-iron-works-co-dot-ltd",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://www.pumpvalve-book.com/company/shimoda-flange-co-ltd/",
+    "https://shimoda-flg.co.jp/en/company/"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 日本",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/company/topmessage/",
+    "https://www.youtube.com/watch?v=OMig2FlwqSY",
+    "https://www.pumpvalve-book.com/company/shimoda-flange-co-ltd/",
+    "https://www.shinba.net/",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) K.K.",
+   "results": [
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/company/topmessage/",
+    "https://www.pumpvalve-book.com/company/shimoda-flange-co-ltd/",
+    "https://mono.ipros.com/en/product/detail/2000333757/",
+    "https://www.machinetools.com/en/companies/275482-shoda-iron-works-co-dot-ltd",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.kyoeisteel.co.jp/ja/ir/stock/shareholder.html",
+    "https://funds.dws.com/ja-jp/StaticChartView111704/",
+    "https://zigexn.co.jp/5090/?srsltid=AYCX9vI_DVnjmBJJO2UHLAs-6ki6kyKhM9gRAfiQeZc706MFmt8PR5kE",
+    "https://www.matsui.co.jp/parts/pdf-view/web/viewer.html?file=/market/stock/ipo/2020/pdf/IPOreport_73570.pdf",
+    "https://jp.investing.com/equities/murata-mfg-co-ownership",
+    "https://www.sbigroup.co.jp/mv/group/financeall/financeall_kinkyo051226/index.htm",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250304_archive/f7dnjt/140120250303587001.pdf",
+    "https://www.cao.go.jp/invest-japan/documents/archive/files/20reportappendix.pdf",
+    "https://www.sanki.co.jp/",
+    "https://www.dnb.com/business-directory/company-profiles.shimoda_iron_works_coltd.0d0f16bec9131b7356203af156a22ece.html"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) shareholders ownership investors parent company",
+   "results": [
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.shi.co.jp/english/ir/stock/situation/index.html",
+    "https://www.jbic.go.jp/en/information/press/press-2021/0512-014699.html",
+    "https://sustainable.japantimes.com/unraveling/37",
+    "https://shimoda-flg.co.jp/en/company/companyprofile/",
+    "https://www.jsw.co.jp/en/ir/stock/shareholder.html",
+    "https://www.tsuneishi.co.jp/english/news/p3060/",
+    "https://note.com/ma_watch/n/nb34a91453000?hl=en",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.theworldfolio.com/interviews/shimoda-iron-works-leverages-cuttingedge-forging-technologies-and-sustainable-practices/6415/",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://shimoda-flg.co.jp/en/company/topmessage/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://www.youtube.com/watch?v=K0pIIn6jHws",
+    "https://mono.ipros.com/en/product/detail/2000223996/",
+    "https://shinodaiw.jp/company/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000048507?preview=false&createdLocale=en_US&tabSelected=appeal"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 代理店 契約",
+   "results": [
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://www.shimoda-group.jp/news/page/4/",
+    "https://riveting-mcn.co.jp/overseas-agency/",
+    "https://shimodalegal.com/",
+    "https://shimoda-flg.co.jp/en/company/topmessage/",
+    "https://web.hyogo-iic.ne.jp/jump/genki/item760"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 導入事例",
+   "results": [
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.youtube.com/watch?v=K0pIIn6jHws",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/",
+    "https://experience.arcgis.com/experience/4e38619fc06d4c169e76c46bf18e937b/page/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E5%8B%95%E7%94%BB",
+    "https://www.datadesign.co.jp/markforged/casestudy/",
+    "https://www.youtube.com/watch?v=OMig2FlwqSY",
+    "https://www.ironcad.jp/success-stories/",
+    "https://patents.justia.com/assignee/shimoda-iron-works-co-ltd"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 価格 OR 料金",
+   "results": [
+    "https://shimoda-flg.co.jp/",
+    "https://www.fdcp.co.jp/Form/User/UserRegistRegulation.aspx?nurl=%2FForm%2FProduct%2FProductDetail.aspx%3Fshop%3D0%26pid%3D3121461233030000%26bid%3Dcofl%26swrd%3D%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588&srsltid=AYCX9vIGWN9Cwd764mp0Ihllh_AsiK64q-rnhqbRjFYK6actkI1iou3N",
+    "https://store.descente.co.jp/customer/inquiry-edit/commodity/SDSC0140D/M01871EM015745?srsltid=AYCX9vKm_0GTFeyT5-0rEofF57T1KRKz_hCbIagxDVWPBKowyZWIueOk",
+    "http://www.nakashimada.co.jp/",
+    "https://shimoda-flg.co.jp/company/history/",
+    "https://m.shilladfs.com/estore/kr/ja/p/5034154?planDispId=D65003&",
+    "https://voi.0101.co.jp/voi/webcatalog/showGoodsDetails?wrt=5&mcd=CG025&cpg=612&pno=45&ino=01&ocn=01",
+    "https://www.s-to.jp/jp/product/14565",
+    "https://workman.jp/shop/storereserve/store_stock_search.aspx?ismodesmartphone=off&goods=2300031420098&srsltid=AYCX9vLOeb8yfvJonDVEbE58tWDTWB878fm8tcZk4RQ5mL5ywuodqlzw",
+    "https://www.bloomberg.com/profile/company/7947246Z:JP"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) 受託 造形",
+   "results": [
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/",
+    "https://www.youtube.com/watch?v=K0pIIn6jHws",
+    "https://www.youtube.com/watch?v=OMig2FlwqSY",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.toyoseitetsu.co.jp/en/network/",
+    "https://web.hyogo-iic.ne.jp/jump/genki/item760",
+    "https://shimoda-flg.co.jp/en/information/"
+   ]
+  },
+  {
+   "query": "site:note.com Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://note.com/tb_regional_labo/n/n2b1f5ad06b31?hl=en",
+    "https://note.com/gentosha_dc/n/n0c08135dc3e4?hl=en",
+    "https://note.com/postcard/n/n3fc4b88bd05c?hl=en",
+    "https://note.com/gentosha_dc/n/n70a5462abdeb?hl=en",
+    "https://note.com/tombow_yw/n/n6d7c45177157?hl=en",
+    "https://note.com/juicy_dietes2428/n/n03d6def76092?hl=en",
+    "https://note.com/tarut52124/n/n51708c5b783c?hl=en",
+    "https://note.com/toms00jp/n/n751f0e598464?hl=en",
+    "https://note.com/nn1112/n/n1b4bdc48689e?hl=en",
+    "https://note.com/gentosha_dc/n/nc43709daa470?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://x.com/numenini",
+    "https://x.com/SpacesFuture/status/1632921881551728642",
+    "https://x.com/jem_cc2",
+    "https://x.com/900adapsoid"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://jp.linkedin.com/in/shinji-shimoda-116532186",
+    "https://jp.linkedin.com/in/%E5%9C%AD-%E4%B8%8B%E7%94%B0-2b43ab297",
+    "https://jp.linkedin.com/in/%E6%98%8C%E5%8F%B2%EF%BC%8Fmasashi-%E4%B8%8A%E8%B0%B7%EF%BC%8Fkamiya-135ab996",
+    "https://jp.linkedin.com/in/shimoda-shinji-94bb6616b",
+    "https://jp.linkedin.com/pub/dir/Kei/Shimoda/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Shinji/Shimoda",
+    "https://jp.linkedin.com/pub/dir/Shinji/Shimoda/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Masashi/Kamiya",
+    "https://jp.linkedin.com/in/takao-shimoda-7646b09b/en"
+   ]
+  },
+  {
+   "query": "site:facebook.com Shimoda Iron Works Co Ltd (日本語社名は未確認)",
+   "results": [
+    "https://www.facebook.com/groups/10670147914/posts/10164634560742915/",
+    "https://www.facebook.com/HondaPowersports/posts/locked-in-for-a1-swipe-for-an-up-close-peek-at-jo-shimodas-all-new-2025-crf250rw/1012140734286315/",
+    "https://www.facebook.com/MXstore/posts/how-clean-is-jo-shimodas-kit-matching-his-fox-motion-boots-tag-a-mate-who-needs-/1423464876480389/",
+    "https://www.facebook.com/MortenHilmer/posts/my-new-signature-photo-backpack-has-now-been-launched-the-name-is-ursusthis-back/1635815501243891/",
+    "https://www.facebook.com/PinoyRefresherTaiwan/posts/job-opportunities-bound-to-japanjob-positionapplication-of-construction-equipmen/1105404310946461/",
+    "https://www.facebook.com/rcmart/posts/yokomo-sayaka-shimoda-sileighty-clear-body-coming-soondrift-fans-rejoice-yokomo-/1412459127591717/",
+    "https://www.facebook.com/HawaiiStateArchives/posts/throwback-thursday-at-the-public-archivesto-finish-this-months-theme-of-pineappl/192740162137283/",
+    "https://www.facebook.com/racerxonline/posts/liqui-moly-super-stats-limited-companythis-2026-ama-pro-motocross-championship-h/1441076548057387/",
+    "https://www.facebook.com/PinoyRefresherTaiwan/posts/job-opportunities-bound-to-japanjob-positionapplication-of-construction-equipmen/1102094461277446/",
+    "https://www.facebook.com/peter.t.young.hawaii/posts/ginacapineapple-was-given-its-english-name-because-of-its-resemblance-to-a-pine-/10231666999561346/"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) note 社長",
+   "results": [
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://shimoda-flg.co.jp/en/company/companyhistory/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://www.theworldfolio.com/interviews/shimoda-iron-works-leverages-cuttingedge-forging-technologies-and-sustainable-practices/6415/",
+    "https://jp.linkedin.com/in/shinji-shimoda-116532186",
+    "https://shimoda-flg.co.jp/en/company/companyprofile/",
+    "https://d.newsweek.com/en/file/473210/japans-manufacturing-firms-leading-quality-digital-innovation.pdf",
+    "https://www.youtube.com/shorts/MJKt0bOO6rI",
+    "https://morita-ironworks.com/summary/",
+    "https://jp.linkedin.com/in/圭-下田-2b43ab297/en"
+   ]
+  },
+  {
+   "query": "Shimoda Iron Works Co Ltd (日本語社名は未確認) X 投稿",
+   "results": [
+    "https://shimoda-flg.co.jp/en/facilities/",
+    "https://www.theworldfolio.com/news/shimoda-iron-works-pioneering-sustainable-manufacturing/5031/",
+    "https://www.instagram.com/shimodaironworks_official/",
+    "https://shimoda-flg.co.jp/en/",
+    "https://jp.linkedin.com/in/shinji-shimoda-116532186",
+    "https://www.youtube.com/watch?v=VoG-5srfMio",
+    "https://www.youtube.com/watch?v=K0pIIn6jHws",
+    "https://shimoda-flg.co.jp/en/products/",
+    "https://www.shimoda-group.jp/news/",
+    "https://jp.linkedin.com/in/圭-下田-2b43ab297"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "取引先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "株主構成": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "誰から": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "何をする": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "誰に": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "お金の形": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）",
+  "いくら": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）"
+ }
+}

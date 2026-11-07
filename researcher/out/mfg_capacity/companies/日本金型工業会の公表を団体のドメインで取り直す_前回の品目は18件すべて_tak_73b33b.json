@@ -1,0 +1,540 @@
+{
+ "name": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+ "en": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp",
+ "aliases": [
+  "site:jdmia.or.jp 金型生産額",
+  "site:jdmia.or.jp 統計 会員",
+  "日本金型工業会 金型 生産実績 filetype:pdf"
+ ],
+ "context": "業種・団体",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:22:56.926164+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jacom.or.jp/articles/260213-87465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meijishoin.co.jp/news/index.php?action=detail&news_no=51899&changeview=smp&srsltid=AYCX9vJAtyNW_L3aKgdrdQb-4bVFo2ItfzcDBjY6lkpq8S48YCuyenoV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000970479.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://officen-jp.com/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsdig.tbs.co.jp/articles/prtimes/2399470?display=1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202611042000002852/?l-id=RNBreakingNews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seizougenba.com/node/14491",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/220910special-haikei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC021OZ0S6A300C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC0227R0S6A300C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekisui.co.jp/ir/document/annual/pdf/SC_IR2025_ALL_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports?economy_report_taxonomy_category=720",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/archive/insu/pdf/privacy/tokiomarine-nichido_pamphlet_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202609_kanagata_nma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/gaiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jpkanagata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://j-fma.or.jp/newsletter_information/link",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcp.or.jp/akahata/aik/2002-12-01/12-01-faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/170910news-jdmia2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://aluminium-stewardship.org/wp-content/uploads/2025/02/JP-ASI-Performance-Standard-Guidance-V3.3-FINAL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.ide.go.jp/records/27313/file_details/ASE001000_009.pdf?filename=ASE001000_009.pdf&file_order=0",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/download/select?download=hojin&goc%5B0%5D=000&amp%3Bpage=369&sort=establishment_date&order=asc&page=1114",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jswa.jp/wp2/wp-content/uploads/2025/06/02_hiryou_data.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aij.or.jp/jpn/symposium/2026/e070_20261220.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmaa.or.jp/archives/1462",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nta.go.jp/about/council/statistics/250210/pdf/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/nyukai/kaihi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jgrants-portal.go.jp/subsidydetail/a0WJ200000CDdtCMAT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120105_press_fares_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasso.go.jp/notfound.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daichimirai.co.jp/news-release/important/2026/topics_20260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wis-jma.go.jp/sataid/ec/IR20261014.Z0940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jgai-my.sharepoint.com/personal/info_jgai_or_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Finfo_jgai_or_jp%2FDocuments%2FCLOUD%2F%E7%AB%B6%E6%8A%80%2FIJGT202505%2F%E3%82%AB%E3%83%BC%E3%83%88%E9%81%8B%E8%BB%A2%E6%89%8B%E7%94%B3%E8%AB%8B%E6%9B%B8_IJGT202505.pdf&parent=%2Fpersonal%2Finfo_jgai_or_jp%2FDocuments%2FCLOUD%2F%E7%AB%B6%E6%8A%80%2FIJGT202505&ga=1",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 人手不足 受注 断る",
+   "results": [
+    "https://www.jacom.or.jp/nousei/news/2026/02/260213-87465.php",
+    "https://www.meijishoin.co.jp/smp/news/index.php?action=detail&news_no=51899&changeview=smp&srsltid=AYCX9vJAtyNW_L3aKgdrdQb-4bVFo2ItfzcDBjY6lkpq8S48YCuyenoV",
+    "https://www.soumu.go.jp/main_content/000970479.pdf",
+    "https://officen-jp.com/media/",
+    "https://newsdig.tbs.co.jp/articles/prtimes/2399470?display=1",
+    "https://news.infoseek.co.jp/article/itmedia_news_202611042000002852/?l-id=RNBreakingNews",
+    "https://www.jprime.jp/ud/pressrelease/guid/dn0000366350",
+    "https://github.com/pfnet-research/pfgen-bench/blob/main/result/line-corporation/japanese-large-lm-3.6b-instruction-sft/809c403/README.md",
+    "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/IR/events/2025/pdf/meeting125.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/",
+    "https://seizougenba.com/node/14491",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://www.nikkei.com/article/DGXZQOUC021OZ0S6A300C2000000/",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-9223"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 人手不足 損失 億円",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC0227R0S6A300C2000000/",
+    "https://www.youtube.com/watch?v=IG-Vlvag4Is",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://www.sekisui.co.jp/ir/document/annual/pdf/SC_IR2025_ALL_J.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports?economy_report_taxonomy_category=720",
+    "https://www.chuokai.or.jp/archive/insu/pdf/privacy/tokiomarine-nichido_pamphlet_2025.pdf",
+    "https://holdings.panasonic/jp/corporate/investors/pdf/Report2023.pdf",
+    "https://www.j-front-retailing.com/sustainability/low-carbon/low-carbon02/low-carbon02.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://www.jdmia.or.jp/",
+    "https://kanagata-shimbun.com/202609_kanagata_nma/",
+    "https://www.jdmia.or.jp/gaiyo/",
+    "https://www.facebook.com/jpkanagata/",
+    "https://j-fma.or.jp/newsletter_information/link",
+    "https://www.jcp.or.jp/akahata/aik/2002-12-01/12-01-faq.html",
+    "https://kanagata-shimbun.com/170910news-jdmia2/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://faq.myna.go.jp/custom_part/faq_relations?category_id=135&id=6526&site_domain=api"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://www.soumu.go.jp/main_content/000970479.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2608.pdf",
+    "https://aluminium-stewardship.org/wp-content/uploads/2025/02/JP-ASI-Performance-Standard-Guidance-V3.3-FINAL.pdf",
+    "https://www.sekisui.co.jp/ir/document/annual/pdf/SC_IR2025_ALL_J.pdf",
+    "https://www.jdmia.or.jp/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://ir.ide.go.jp/records/27313/file_details/ASE001000_009.pdf?filename=ASE001000_009.pdf&file_order=0",
+    "https://www.npo-homepage.go.jp/npoportal/download/select?download=hojin&goc%5B0%5D=000&amp%3Bpage=369&sort=establishment_date&order=asc&page=1114",
+    "https://www.jswa.jp/wp2/wp-content/uploads/2025/06/02_hiryou_data.pdf",
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://www.aij.or.jp/jpn/symposium/2026/e070_20261220.pdf",
+    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "https://www.jasendai.or.jp/wp/wp-content/uploads/2026/05/f52b0f37cba48a6d181b00ef4ac87745.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
+    "https://jmaa.or.jp/archives/1462",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/1.htm",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.nta.go.jp/about/council/statistics/250210/pdf/01.pdf",
+    "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/nyukai/kaihi.html",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.jgrants-portal.go.jp/subsidydetail/a0WJ200000CDdtCMAT",
+    "https://www.skymark.co.jp/ja/company/investor/120105_press_fares_1.pdf",
+    "https://www.jasso.go.jp/sp/about/procurement/kouhyou/__icsFiles/afieldfile/2016/01/22/h27_09_kyousou_koukyou.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.daichimirai.co.jp/news-release/important/2026/topics_20260619.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/IR20261014.Z0940",
+    "https://www.sekisui.co.jp/ir/document/annual/pdf/SC_IR2025_ALL_J.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/",
+    "https://kanagata-shimbun.com/170910news-jdmia2/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/gaiyo/",
+    "https://www.jswa.jp/wp2/wp-content/uploads/2025/06/02_hiryou_data.pdf",
+    "https://jgai.or.jp/20250006",
+    "https://furukawa-cci.or.jp/latest_information/2025120111938/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://www.jamstec.go.jp/jamstec-j/PR/0509/0929/index.html",
+    "https://www.jdmia.or.jp/shibu/jdmia/"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp Japan statistics",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.jdmia.or.jp/news/%E3%80%8Eistma%E7%B5%B1%E8%A8%88%E3%83%96%E3%83%83%E3%82%AF2023%E3%80%8F%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "https://www.jdmia.or.jp/technical_management/",
+    "https://www.jdmia.or.jp/english/document/jyuryo_m_e.pdf",
+    "https://www.jdmia.or.jp/data/",
+    "https://www.jdmia.or.jp/toukei/kikai/suii_m.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/",
+    "https://www.jdmia.or.jp/data/輸出入統計（財務省）-8月分更新/"
+   ]
+  },
+  {
+   "query": "site:note.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n7b1b1d66a86d",
+    "https://note.com/onamae_com/n/nc025e528f27e",
+    "https://note.com/taka_peace369/n/n50270388da7a",
+    "https://note.com/saidatomoya/n/ncb03bee12541",
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3",
+    "https://note.com/shinokichi/n/n14d119764183",
+    "https://note.com/decay/n/n569a5cc2cebc"
+   ]
+  },
+  {
+   "query": "site:x.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/hashtag/日本金型工業会",
+    "https://x.com/m4sa_k1/status/2083203151457669402",
+    "https://x.com/nkinvestigation/status/2034956374871089424",
+    "https://x.com/ActMole/status/1739552289747255704"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a568303?lang=ja-JP",
+    "https://jp.linkedin.com/in/sanwakanagata",
+    "https://jp.linkedin.com/posts/takuma-tsuji-704391315_先日一般社団法人日本金型工業会-西部支部さまのお招きで製造業の利益を守るai-activity-7493956244269854720-o45x",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7496005570341052418/",
+    "https://jp.linkedin.com/in/裕貴-古田-29bb1033b",
+    "https://jp.linkedin.com/pulse/what-problems-do-data-governance-councils-domain-forums-nicola-askham-stfwf?tl=ja",
+    "https://jp.linkedin.com/posts/hakuhodo-technologies_aiドメイン実践ナレッジ共有会5社の事例から学ぶaiと自社事業の掛け合わせ方-activity-7513161210201268224-YEjX"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-2月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公表/1581380907324060/",
+    "https://www.facebook.com/jpkanagata/posts/日本金型工業会ではお馴染みのインダストリージャパンの那須直美さんが執筆された機械ビジネスが書店に並んでいます/1328122169316603/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-5月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1678169717645178/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-1月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公表/1558416239620527/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-11月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公/1503962205065931/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-1月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1571957758266375/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/",
+    "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "https://www.nikkei.com/article/DGXZQOUC021OZ0S6A300C2000000/",
+    "https://www.jdmia.or.jp/gaiyo/",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://kanagata-shimbun.com/202609_kanagata_nma/",
+    "https://monoist.itmedia.co.jp/mn/articles/2604/20/news043_2.html",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/katatorihiki/2019/download/190806katatorihiki06.pdf"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/",
+    "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://www.jdmia.or.jp/gaiyo/",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://kanagata-shimbun.com/202609_kanagata_nma/",
+    "https://mainichi.jp/articles/20250119/k00/00m/020/280000c",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09541/",
+    "https://www.facebook.com/jpkanagata/"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp site:linkedin.com",
+   "results": []
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

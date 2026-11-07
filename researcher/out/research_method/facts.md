@@ -870,21 +870,21 @@
 ## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
 - 文脈：凄腕・OSINT
 - 手順・やり方：
+  - 「Magnet Forensics / FTKの使い方、応用方法」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「Professional intelligence agencies and corporate threat hunters do not just “Google things.” They adhere to a rigorous, cyclical methodology designed to transform noisy raw data into structured, actionable, verified intelligence.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「In this comprehensive guide for 2026, we will break down the methodology utilized by professional OSINT analysts to move from the initial collection phase directly into structured analysis.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「This is the safest, most recommended method for all OSINT investigations. You do not touch the target’s physical infrastructure at all. You rely on third-party data aggregators and global search engines.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「This is the most critical phase of the methodology. Analysis is the cognitive process of extracting meaning from your processed data and connecting the disparate dots. Analysts rely on frameworks to visually and mathematically represent these connections.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「Why is an OSINT methodology important?」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「Without a methodology, investigators risk collecting large amounts of irrelevant data (data overload), violating legal or ethical boundaries, and falling victim to confirmation bias. A methodology ensures a repeatable, defensible, and accurate intelligence product.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「A good OSINT report uses the BLUF (Bottom Line Up Front) methodology, clearly states the intelligence requirement, separates verified facts from analytical assessments, and provides a clear chain of evidence (like archived links and timestamped screenshots) for every claim.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「The difference between an amateur and an intelligence professional is strict methodology.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
   - 「OSINTフレームワークは次の目的に使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「ソース、ツール、方法、または目標でデータを分類する」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「さらに、OSINTは近年、パブリックドメイン内の情報を安全かつ確実に使用する方法について議論を巻き起こしています」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】 | Octoparse」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「あわせて、OSINTの土台になる「公開情報を効率的に集める」部分を、手作業に頼らず進める方法（」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTには決まった唯一の手順はなく、目的に応じて手法を組み合わせます」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTは強力なぶん、使い方を誤ると法的・倫理的な問題につながります」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「Power BI、Tableau、Qlik Sense、Data Studio、MotionBoard、Zoho Analyticsを同じ課題で試す方法と、Webデータ活用時の確認点を紹介します」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「競合調査とは？やり方・フレームワークからAI×Octoparseによる自動化まで【完全ガイド2026】」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「本記事では、競合調査の正しいやり方4ステップ・フレームワーク5選を解説した上で、OctoparseとAIを使って1日の作業を30分に短縮する自動化ワークフローを完全公開します」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTには決まった唯一の手順がなく、目的に応じて複数のツールを組み合わせて使うのが一般的です」（https://www.octoparse.jp/blog/osint-tools）
-  - 「検索エンジンの高度な検索オプションを使いこなすのが基本で、複数の情報源をまとめて調べられる集約型のツールもあります」（https://www.octoparse.jp/blog/osint-tools）
-  - 「のがビジネスでの使い方です」（https://www.octoparse.jp/blog/osint-tools）
-  - 「ツールが便利になるほど、使い方の線引きが大切になります」（https://www.octoparse.jp/blog/osint-tools）
 - 突き合わせ・推定：
   - 「いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです」（https://www.octoparse.jp/blog/what-is-osint）
   - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、」（https://www.octoparse.jp/blog/what-is-osint）
@@ -934,6 +934,7 @@
   - 「6. Mitigating Cognitive Bias」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
   - 「Confirmation Bias」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
 - 実例：
+  - 「本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
   - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
   - 「ユースケース」（https://www.octoparse.jp/blog/what-is-osint）
   - 「アカウント分析・ソーシャルリスニング・データ収集の3タイプの違いと選び方、無料で使えるツール、Octoparseで公式では取れないデータを補完する方法まで、目的別の組み合わせ方を実例つきで解説します」（https://www.octoparse.jp/blog/osint-tools）
@@ -948,7 +949,6 @@
   - 「rule／meta／strings／conditionの構造、16進パターン、メモリスキャン、Velociraptorでの全端末ハント、誤検知を抑える運用まで、実例コードと図解でやさしく解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
   - 「. For applied examples, review the investigative articles in the」（https://theosintvault.io/osint-handbook）
   - 「username tracing case studies」（https://theosintvault.io/osint-handbook）
-  - 「OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.」（https://theosintvault.io/osint-handbook）
 
 ## 出典の独立性と確度の判定（ソース・トライアンギュレーション）（source triangulation independence confidence grading）
 - 文脈：凄腕・突き合わせ
@@ -3761,6 +3761,11 @@
   - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3771,11 +3776,6 @@
   - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「中小企業が官報決算公告で陥りやすい3つの落とし穴」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-chusho-kigyou/）
-  - 「落とし穴1: 申込タイミングが遅すぎる」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-chusho-kigyou/）
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -4888,6 +4888,10 @@
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
 - 手順・やり方：
+  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告で売上高を確認する方法｜大会社と中小企業の違いを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
   - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
   - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
@@ -4899,10 +4903,6 @@
   - 「Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.」（https://www.flares.tech/sources/competitor-revenue）
   - 「how to find a competitor’s customers」（https://www.flares.tech/sources/competitor-revenue）
   - 「How to keep competitor revenue figures current」（https://www.flares.tech/sources/competitor-revenue）
-  - 「How to automate competitor revenue tracking」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Build it bottom-up: a verified average price multiplied by an estimated customer count, both of which are obtainable from the public sources covered above. Then run a second, independent method and compare. Two rough methods that agree are far more trustworthy than one precise-looking number from a database, and when they disagree the gap tells you which assumption to attack first.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -4951,6 +4951,7 @@
   - 「Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
   - 「Most failures come from process, not from missing information. These mistakes show up most often:」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
 - 実例：
+  - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
   - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
   - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
@@ -4965,7 +4966,6 @@
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
@@ -5156,85 +5156,85 @@
 ## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「経営者・経理責任者のための補助金・助成金申請実務マニュアル｜採択率を上げる事業計画、経費設計、提出前チェックの全手順｜sansan」（https://note.com/sansan2/n/n038e934f7207）
+  - 「経営者・経理責任者のための補助金・助成金申請実務マニュアル｜採択率を上げる事業計画、経費設計、提出前チェックの全手順」（https://note.com/sansan2/n/n038e934f7207）
+  - 「だからこそお渡ししたいのは、小手先の裏技ではなく、根拠を積み上げ、証憑を残し、採択された後まで会社を守れるやり方です」（https://note.com/sansan2/n/n038e934f7207）
+  - 「厚生労働省所管の雇用関係助成金が典型で、採択競争というより、計画届や就業規則、賃金台帳、出勤簿といった日常の労務管理が要件どおりに残っているかが問われる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「自治体の「助成金」が公募・採択制だったり、国の事業でも名称と運用が典型像とずれたりする」（https://note.com/sansan2/n/n038e934f7207）
+  - 「経理責任者が単独で制度名を拾い、経営者が金額だけを見て即決する進め方では、途中で対象外経費や着手時期の食い違いが出やすい」（https://note.com/sansan2/n/n038e934f7207）
+  - 「使い方：候補を2つに絞る前の30分判定で使い、出力は要領原文と照らしてから検討表へ移す」（https://note.com/sansan2/n/n038e934f7207）
+  - 「使い方：経理と資金繰り表を広げて使い、銀行相談前に立替のピーク月を確認する」（https://note.com/sansan2/n/n038e934f7207）
+  - 「この章の方法が前提にするのは、制度名と公募回が特定でき、最新版の要領を入手できている状態です」（https://note.com/sansan2/n/n038e934f7207）
+  - 「この章は公募型の補助金を主軸に置き、助成金で読み替えるべき箇所はその都度断ります」（https://note.com/sansan2/n/n038e934f7207）
+  - 「精読六十分の具体的な進め方と四週間の逆算表は、この前提を押さえた次の部で扱います」（https://note.com/sansan2/n/n038e934f7207）
+  - 「0〜8分は表紙、公募回、締切日時、申請方法、交付決定の予定時期だけを確認し、表紙余白に書きます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「制度によっては別のIDや認定支援機関の関与が前提になるため、要領の申請方法の欄で個別に確かめます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「使い方：要領を精読した直後に使い、回答は必ず要領の原文と照合する」（https://note.com/sansan2/n/n038e934f7207）
+  - 「使い方：資格や見積で迷いが出た日に使い、金額には経理の再計算値だけを入れる」（https://note.com/sansan2/n/n038e934f7207）
 - 突き合わせ・推定：
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「補助金に期待して要領を読み、夜に申請画面で入力を進めたのに、最後の最後に小さな食い違いで進めなくなり、一つずつ手作業で確かめ直しながら、締切を前に冷や汗をかいたことも一度や二度ではありません」（https://note.com/sansan2/n/n038e934f7207）
+  - 「補助金の申請も、申請書を開いて言葉をひねり出す前に、自社に合う制度かどうかを確かめ、締切から逆算し、採択された後の会計まで見通してから計画を立てるのです」（https://note.com/sansan2/n/n038e934f7207）
+  - 「順番さえ整えば、文章の得意不得意に振り回されず、抜けや矛盾は誰でも同じように防げます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「自社との適合を点数で判定する診断表、締切から逆算する日程表と社内の分担表、初めて人工知能に触れる方への案内とそのまま使える指示文五十選、模擬審査の採点表と弱みを強みに変える作業表、売上と資金繰りを連動させる計算表の作成キット、経費の可否判定と相見積りの比較や場面別の対応表、採択後の証憑と会計の管理台帳に減額や返還を防ぐ確認表、そして三十を超えるテンプレート集です」（https://note.com/sansan2/n/n038e934f7207）
+  - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「7. 第7章 提出前最終チェックと審査対応――第三者点検で不備・矛盾・読みにくさを潰す」（https://note.com/sansan2/n/n038e934f7207）
+  - 「2. 特典2｜締切逆算スケジュール＆社内タスク分担表」（https://note.com/sansan2/n/n038e934f7207）
+  - 「・締切直前に準備不足に気づく → 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「・提出直前にミスがないか不安だ → 第7章 提出前最終チェックと審査対応――第三者点検で不備・矛盾・読みにくさを潰す」（https://note.com/sansan2/n/n038e934f7207）
+  - 「・締切に間に合うか毎日不安になる → 特典2｜締切逆算スケジュール＆社内タスク分担表」（https://note.com/sansan2/n/n038e934f7207）
+  - 「本章では、制度探しを「金額の大きい順」から始めないために、政策目的、自社の事業内容、実施時期、自己負担の四点を突き合わせ、自社に合う候補を残し、合わない候補を早めに外す考え方をたどる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「経理責任者が単独で制度名を拾い、経営者が金額だけを見て即決する進め方では、途中で対象外経費や着手時期の食い違いが出やすい」（https://note.com/sansan2/n/n038e934f7207）
+  - 「第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「前半で扱う論点は、読む順番以前の食い違いです」（https://note.com/sansan2/n/n038e934f7207）
+  - 「後半では、その読み取りを締切から逆算した予定へ落とし、経営者、経理、取引先の役割を分けます」（https://note.com/sansan2/n/n038e934f7207）
 - 一次情報の探し方：
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「経理のご担当なら、月次決算や給与計算、請求や支払いの処理に追われながら、社長からの一言で調べものを引き受け、結局は夜遅くまで一人で画面に向かっていた、という経験があるのではないでしょうか」（https://note.com/sansan2/n/n038e934f7207）
+  - 「手元に置くものは、直近決算の概要、現在の事業と従業員数、やりたいことの概算額と希望時期、使える自己資金の見通しで足りる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「雇用系は人の採用や処遇改善への取組に支払われるもので、設備代そのものを埋める設計にはなっていない」（https://note.com/sansan2/n/n038e934f7207）
+  - 「手元には、要領のPDFか印刷物、直近の決算書、登記事項が分かる資料、導入したい設備やサービスの引合い先の情報が最低限必要です」（https://note.com/sansan2/n/n038e934f7207）
+  - 「用意するのは、事務局の公式サイトから当日取り直した最新版の要領PDF、3色の付箋、タイマーです」（https://note.com/sansan2/n/n038e934f7207）
+  - 「D-14日〜D-8日は金額と根拠資料を固め、経理が決算書の数字と計画の数字を突き合わせます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「書き始める前提として、手元には最新の公募要領、審査項目が載ったページ、申請様式とその文字数・ページ制限、直近決算書、月別の売上や受注の記録、顧客から寄せられた具体的な要望や失注の記録、導入候補の見積書の下書きが要る」（https://note.com/sansan2/n/n038e934f7207）
+  - 「業界団体の統計は、自社の顧客層と年代、地域、単価帯が合う場合にだけ補強として使う」（https://note.com/sansan2/n/n038e934f7207）
+  - 「準備物は、直近2期から3期分の決算書、直近月の試算表、既存事業の商品別・取引先別売上、現在の借入返済表、導入設備等の見積書、賃料や人件費の根拠資料である」（https://note.com/sansan2/n/n038e934f7207）
+  - 「ただし金額は千円単位か円単位か、税込か税抜かを全表で統一し、決算書の実績値と計画初年度の接続を説明できる状態にしておく」（https://note.com/sansan2/n/n038e934f7207）
+  - 「手元には直近3期の決算書、直近3か月の試算表、設備見積書を置く」（https://note.com/sansan2/n/n038e934f7207）
+  - 「原価は直近決算の材料費と外注費を売上比で拾い、新事業の変動費率とする」（https://note.com/sansan2/n/n038e934f7207）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=47fb6a15fa08e4197dcd0c1ad884c109）
 - 失敗・落とし穴：
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
-  - 「顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=584fc501626968d477570f6e6a0ce183）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=584fc501626968d477570f6e6a0ce183）
-  - 「抹茶の市場規模を語る際には注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ただし、この45％を日本のてん茶生産量へそのまま掛けることには注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ここで注意したいのは、「貴州省の2,500トン」と「銅仁市の2,500トン」が同じ数字として流通していることである」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これは統計の誤りではなく、貴州省の抹茶がほぼ銅仁市に集中しているためだと考えられる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「もう一つ、比較の土台そのものに注意が要る」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ただし、シェアが高ければ利益も必ず大きいとは限らず、数値の読み取りには注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「本編では、補助金と助成金の違いを踏まえた制度の選び方から、公募要領で読み落としやすい応募資格や事前着手の注意点、審査する側が読む順序に沿った事業計画の作り方へ進みます」（https://note.com/sansan2/n/n038e934f7207）
+  - 「続いて、根拠を示せる売上予測と自己負担を乗り切る資金計画、認められない費目を外した経費と見積りの設計、様式の誤りやファイルの不備を防ぐ電子申請、提出前の最終確認と審査への対応、採択後の交付申請から受給と事後の管理までを扱います」（https://note.com/sansan2/n/n038e934f7207）
+  - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「・締切直前に準備不足に気づく → 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「申込前に潰す、ありがちな失敗2件」（https://note.com/sansan2/n/n038e934f7207）
+  - 「失敗1｜設備が欲しくて雇用系助成金に寄せた」（https://note.com/sansan2/n/n038e934f7207）
+  - 「失敗2｜上限に合わせ、買う物を膨らませた」（https://note.com/sansan2/n/n038e934f7207）
+  - 「第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
+  - 「発注済みで対象外になる失敗と、次に回す判断」（https://note.com/sansan2/n/n038e934f7207）
+  - 「プロンプト1｜事前着手と応募資格の落とし穴を洗い出す」（https://note.com/sansan2/n/n038e934f7207）
+  - 「典型的な失敗事例――直せば通るのに、放置される2パターン」（https://note.com/sansan2/n/n038e934f7207）
+  - 「失敗1｜弱みを消し、強みを盛る」（https://note.com/sansan2/n/n038e934f7207）
+  - 「失敗2｜課題と設備がつながらず、売上だけが先行する」（https://note.com/sansan2/n/n038e934f7207）
+  - 「| 選択肢 | 向く場合 | 期限の置き方 | 限界・注意 |」（https://note.com/sansan2/n/n038e934f7207）
+  - 「典型的な失敗2件――兆候が出た時点で組み直す」（https://note.com/sansan2/n/n038e934f7207）
 - 実例：
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
-  - 「担当者、費用・作業時間の上限、結果を判断する日を一緒に決め、上限に達したら自動延長しません」（https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/）
-  - 「検索結果の見出しや要約だけで数字を採用しません」（https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/）
+  - 「6. 特典6｜補助対象経費の可否判定＆相見積比較・ケース別対応表」（https://note.com/sansan2/n/n038e934f7207）
+  - 「・この経費が対象か見積が不安だらけ → 特典6｜補助対象経費の可否判定＆相見積比較・ケース別対応表」（https://note.com/sansan2/n/n038e934f7207）
+  - 「予算や制度改正、支給審査で結果は変わる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「実例――率の高い候補を外したら、自己負担の見通しが60万円動いた」（https://note.com/sansan2/n/n038e934f7207）
+  - 「事例1｜値上げを恐れて内金を払った製造業（従業員9人、税抜480万円）」（https://note.com/sansan2/n/n038e934f7207）
+  - 「事例2｜従業員数の数え違いで資格を外しかけた小売業」（https://note.com/sansan2/n/n038e934f7207）
+  - 「対象は、設備導入や新サービス開発など、投資のテーマがおおよそ決まり、事業計画の出来が審査結果に影響する補助金に申請する経営者と経理責任者である」（https://note.com/sansan2/n/n038e934f7207）
+  - 「逆に、要件を満たせば支給される性格の強い助成金や、先着順・抽選で決まる制度では、本章の組み立てが結果を左右する余地は小さい」（https://note.com/sansan2/n/n038e934f7207）
+  - 「いつから、どの顧客層や工程で、何が起き、その結果どれだけの機会や利益を逃しているのかが示されて、初めて審査員は困りごとの大きさを測れる」（https://note.com/sansan2/n/n038e934f7207）
+  - 「実例――受注台帳から市場性を組み直した金属加工業の計画」（https://note.com/sansan2/n/n038e934f7207）
+  - 「結果としてこの会社は補助率2分の1、対象経費1,200万円で採択され、稼働後6か月では納期理由の辞退が月平均2件まで減り、追加受注は月平均48万円で推移している」（https://note.com/sansan2/n/n038e934f7207）
+  - 「典型的な失敗事例――直せば通るのに、放置される2パターン」（https://note.com/sansan2/n/n038e934f7207）
+  - 「| 書き方 | 審査側が追えるか | 向くケース |」（https://note.com/sansan2/n/n038e934f7207）
+  - 「後半では、その結果から損益分岐点と自己負担額を出し、補助金の後払いと支払いの先行によって生じる資金の谷をどう越えるか、前提が崩れた場合にどの数字から見直すかへ進む」（https://note.com/sansan2/n/n038e934f7207）
+  - 「銀行へ持ち込んだ実例――残高38万円の谷」（https://note.com/sansan2/n/n038e934f7207）
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
@@ -6469,7 +6469,7 @@
   - 「Focus Group Questions: 50+ Examples and How to Write Them」（https://www.koji.so/docs/anchoring-bias-research）
   - 「The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)」（https://www.koji.so/docs/anchoring-bias-research）
   - 「How to Write Usability Test Tasks and Scenarios (With Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7653,6 +7653,7 @@
 - 失敗・落とし穴：
   - 「索・特許情報調査を行う上でその動向には注意を払っ」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
 - 実例：
+  - 「スマートウォッチの転倒検出技術を例に、キーワード入力から検索結果、公報の確認までをステップごとに紹介します」（https://itpat-info.com/search-site-list/）
   - 「Basic Search の記事では、特許番号や公開番号から素早く文献を探す方法、キーワードを使った基本検索、検索結果からPDFやテキストを確認する流れを解説しています」（https://itpat-info.com/search-site-list/）
   - 「Patent Public Searchでは、検索するだけでなく、検索結果を整理したり、文献を表示したり、タグを付けたりする機能も用意されています」（https://itpat-info.com/search-site-list/）
   - 「この記事では、検索結果の並べ替え、CSV出力、PDF表示、テキスト表示、引用・被引用文献の確認、Global Dossierによる特許ファミリー確認などを解説しています」（https://itpat-info.com/search-site-list/）
@@ -7667,8 +7668,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-  - 「仮に調査の結果，自社の」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -8215,85 +8215,85 @@
 ## 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）（misgrounded citation detection RAG hallucination evaluation legal research）
 - 文脈：検証
 - 手順・やり方：
-  - 「検索した情報を回答の材料にする方法の一つが、RAG（検索拡張生成）です」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「プロンプトを整え、必要なコンテキストを渡し、確認手順をSkillにまとめる」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「※RAG製品の検索方法、分割方法、権限、同期、評価機能は異なり、仕様も変わります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「本記事は特定製品の障害対応手順ではなく、中小企業が原因を整理するための一般的な実務手順です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「AIよろず室では、この順序で調べる方法を「RAG故障診断・5層」と呼んでいます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「この場合は、回答指示、渡す文脈の量、モデル、出力形式、人の確認方法を見直します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「AIへ登録する文書の選び方は、RAG導入判断記事からつながる文書整理手順で確認できます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「暗黙知しかない場合は、担当者への聞き取りから、業務責任者が確認した手順へ変えます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「研究でAIの誤りを減らすための具体的な検証方法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「前処理は、検索システムの性能を向上させるために重要なステップです」（https://fintan.jp/page/10301/）
+  - 「そのため、検索性能を改善したい場合、最初に確認しておいたほうがよいステップと言えるでしょう」（https://fintan.jp/page/10301/）
+  - 「このような方法だと、たとえば「5〜7ページを要約して」や「表3における最大の売上高の年は？」といった質問に回答するのが難しくなります」（https://fintan.jp/page/10301/）
+  - 「この事例では、RAGを使ってメールアプリのアシスタントを作る方法について解説しています」（https://fintan.jp/page/10301/）
+  - 「記事ではそれだけでなく、キーワード抽出や固有表現認識、日付の範囲抽出などを組み合わせて検索性能を向上させていたり、結果をヒューリスティックや機械学習を使ってリランキングする方法についても紹介しています」（https://fintan.jp/page/10301/）
+  - 「分割するだけだと書くと、簡単そうに聞こえるのですが、実際にはさまざまな方法が考え出されており、思っているよりも複雑なプロセスです」（https://fintan.jp/page/10301/）
+  - 「どのような設定で分割するのがよいのかは状況によって異なるので、実験しながら良い方法を探っていくことになります」（https://fintan.jp/page/10301/）
+  - 「チャンキングについてイメージしやすくするために、いくつかの方法について例を挙げて説明します」（https://fintan.jp/page/10301/）
+  - 「まず、もっとも単純な方法は、テキストの内容や構造に関係なく、テキストを指定された文字数やトークン数で分割する方法です」（https://fintan.jp/page/10301/）
+  - 「この方法はわかりやすいですが、テキストの内容や構造を考慮していないため、1つのチャンクの中に異なるトピックを持つパラグラフが含まれたり、文章の途中で切れることがあり、検索や生成の性能低下につながる可能性があります」（https://fintan.jp/page/10301/）
+  - 「別の方法として、テキストを段階的に小さなチャンクに分割する方法があります」（https://fintan.jp/page/10301/）
+  - 「この方法では、いくつかの区切り文字を使って、テキストを階層的かつ反復的に小さなチャンクに分割します」（https://fintan.jp/page/10301/）
+  - 「この方法は、前の方法よりはテキストの構造を考慮しているため、検索や生成の性能が向上する可能性があります」（https://fintan.jp/page/10301/）
+  - 「文書の持つ構造に基づいてチャンクに分割する方法もあります」（https://fintan.jp/page/10301/）
+  - 「個人的には、Word文書をこの方法で分割していますが、MarkdownやHTMLであれば、ライブラリに分割用の機能が用意されていることもあります[」（https://fintan.jp/page/10301/）
 - 突き合わせ・推定：
-  - 「3．出典を開き、主張と原文を照合する」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「引用文もAIが生成したものなら、原文に実際に存在するかを照合します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「AIにもう一度「正しい？」と聞くことは点検の補助にはなりますが、外部の根拠との照合を代替するものではありません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「重要な主張は、人が原文と照合します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「引用先を開けず、検証できない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「答えがない、矛盾している、正式版が不明なら、根拠層の問題です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法｜臨床AIラボ｜現役医師のAI研究」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「研究でAIの誤りを減らすための具体的な検証方法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「見た目では区別できないからこそ、検証が要ります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「AIが挙げた文献を検証する3つの手順」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「逆に言えば、検証さえ徹底すれば、AIは恐れる道具ではなく、頼れる道具になります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「AIが示した引用を検証する方法と、研究上の倫理については、別の記事でさらに踏み込んで扱う予定です」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「プロンプトで「引用してください」とお願いする実装と、APIが構造化された引用を返す実装では、後から検証できるかどうかが変わってくる、という整理です」（https://note.com/shigyoai/n/nc722ae05f766）
-  - 「当社のRAGツール「OfficeAI社員®」の導入企業である大手自動車部品メーカーでは、過去のトラブル対応記録が表形式で蓄積されていたため、複数の生成AIツールを同条件で比較検証しました」（https://officebot.jp/columns/basic-knowledge/rag-assignment/）
+  - 「検証済みの取得文書に生成プロセスを固定する」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「LLMがクエリ改良や仮説文書生成をする際、既に応答に有用な情報種別を「考慮」します」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「これは、RAGの中核的な目標である、ハルシネーションを削減し検証可能性を確保するためです」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「例えば、検索結果の中からどの情報を重視するか、情報をどのように組み合わせるか、あるいは矛盾する情報がある場合にどのように対処するかといった点について、複数の仮説（思考の枝）を立て、それぞれの妥当性を評価します」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「RAGの中核的なメカニズム、つまり取得された検証可能な文書に応答を基づかせることは、ハルシネーションを削減するための基本的な技術です」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「LLMによる自身の生成コンテンツ内主張の真実性評価、およびこの検証のためのRAG自体の潜在的使用」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「取得された検索エンジンの結果とのクロスチェックによる、根拠付けの奨励」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「誤解を招く情報、無関係な情報、または矛盾する情報を取得すること」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「コンテキストとの矛盾や、コンテキスト外情報創作の有無」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「回答内主張の特定と、それらのコンテキストからの推論可能性検証による計算」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「ノイズの多い文書や矛盾する文書を処理する能力の評価」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「回答内主張の特定、各主張のコンテキストからの推論可能性のLLM検証」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「本報告では、RAGシステムの精度を向上させるための多岐にわたる戦略を検証しました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
 - 一次情報の探し方：
+  - 「これがRAGを採用する主要な動機となっています」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「伝統的に、検索は統計的手法やベクトル類似性に基づいていました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2404.14760」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2401.15884」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2504.04915」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2501.10053」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2503.10720」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2502.06872」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「https://arxiv.org/pdf/2502.17163」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
   - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「有病率、感度、特異度、オッズ比、ハザード比などの数値は、原著論文の本文、表、図、補足資料、または公的統計の原表で確認します」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
   - 「Claude APIにはCitationsの機能があり、PDF・プレーンテキスト・カスタムコンテンツの3種類のドキュメントを渡すと、回答テキストに対して文書のインデックス・文字位置 (PDFではページ番号)・引用された原文を、構造化された形で返してくれます」（https://note.com/shigyoai/n/nc722ae05f766）
   - 「個人情報保護委員会「生成AIサービスの利用に関する注意喚起等について」別添1 (2023年6月2日): https://www.ppc.go.jp/files/pdf/230602_alert_generative_AI_service.pdf」（https://note.com/shigyoai/n/nc722ae05f766）
   - 「キーワード検索に加え、言葉の概念が近い情報を探す「ベクトル検索（Azure AI Searchによるハイブリッド検索）」を採用」（https://officebot.jp/columns/basic-knowledge/rag-assignment/）
-  - 「PDFやWord、スキャン画像など、さまざまな形式の文書データからテキストを抽出します」（https://www.msiism.jp/article/rag.html）
-  - 「機械学習、統計解析、数理計画、シミュレーションなどの数理科学を」（https://www.msiism.jp/article/rag.html）
-  - 「統計解析・データマイニング・機械学習といった技術でどのようなことができるのかを解説」（https://www.msiism.jp/article/rag.html）
-  - 「理想を言うと、すべての非構造化データ(PDF, Office, 音声, 動画, 画像)をテキスト化して、RAG の Store に格納することが望ましいです」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「- その他のライブラリ（PyMuPDF, PDFMiner など）」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「PDF/Office などのドキュメント分析によく使われるサービスとしては、Azure AI Document Intelligence がよく使われます」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「また、Azure AI Vision の OCR 機能を使うことで、画像や PDF からのテキスト抽出も行うことができます」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「コサインはスケール不変なので扱いやすく、RAG の多くはコサインを採用」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「「＊＊株式会社」と必ず記載する、特許内容は要約のみ出力など」（https://zenn.dev/microsoft/articles/rag_textbook）
-  - 「よくある入力文書としてはPDFがありますが、これに対する戦略は、なるべく代替となるデータソース（Word文書など）を探して、そちらを処理するほうが良いということです（代替となるものがないとか、あっても持ち主が渡してくれないとかあると思いますが）」（https://fintan.jp/page/10301/）
 - 失敗・落とし穴：
+  - 「人間の評価者は、モデルが見逃してしまうような細かな誤り、論理的な欠陥、または文脈上の適切さを評価できます」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「エージェントがどのツールを選択するかなど、RAGシステムが独自に行う決定が増えるほど、障害やバイアスの潜在的なポイントが増えます」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
+  - 「業務効率化に使える補助金は？ 申請時のポイントや注意点も解説」（https://amie-ai.com/contents/rag-assignment/）
+  - 「RAG（検索拡張生成）の失敗を調べていくと、面白い数字が出てきます」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「検索が失敗するとき、犯人はだいたいこの4人のどれかです」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「注意点として、リランクは」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「次のチャンク分割の結果を見て、検索が失敗しそうな箇所を指摘してください」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「プロンプト3: 検索失敗のトリアージ（犯人を切り分ける）」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「失敗事例のトリアージ、原因の要約」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「そして、正直に落とし穴も置いておきます」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
   - 「形式が整っているからこそ、誤りを見過ごしやすくなります」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
   - 「OpenAIの研究では、事前学習で学ぶパターンだけでは確実に答えられない事実があることに加え、不明と答えるより推測した方が評価される学習・評価のあり方も、誤りが残る要因として論じられています」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
   - 「しかし、その一文だけで、AIが自分の誤りを必ず認識できるようにはなりません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
   - 「実務では、存在しない情報を丸ごと作る場合だけでなく、正しい情報の一部をずらす誤りにも注意が必要です」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
   - 「例外や注意書きを落としていないかを確認します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「RAGの失敗は、少なくとも次の5層へ分けて確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「：改定・削除・同期・失敗報告が回っているか」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「同じ問題を再発させない失敗記録テンプレート」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「RAGの失敗を「5層」へ分ける」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「そのため、回答が間違っていても、失敗地点は一つではありません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「回答内容が正しくても、見せてはいけない情報を返したら失敗です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
 - 実例：
-  - 「例えば、論文名の形式や著者・発行年の書き方を知っていても、特定の論文が実在するとは限りません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「古い版だけを拾ったり、対象のプランが違ったり、重要な例外が検索結果に含まれていなかったりすれば、回答の材料が不足します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「特定の製品で観測した実験結果ではありません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「例えば、「この資料では確認できない」と答える余地を残します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
-  - 「検索結果として取得された文書名と該当箇所を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「失敗3：正しい文書があるのに、検索結果へ出ない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「検索結果を見ずに、回答だけを何度も採点しません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「Q. 検索結果を確認できない製品では、どうすればよいですか？」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
-  - 「例えば「外来の2型糖尿病患者の悪化を予測した先行研究を10本挙げてください」と頼むと、AIは著者名・雑誌名・出版年のそろった、それらしい文献リストを返してきます」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
-  - 「しかし、検索結果の取り違え、原文の読み違い、引用と主張の不一致の可能性は残ります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「近年、OpenAIのGPT-4やGoogleのGemini、MetaのLLaMAをはじめとする大規模言語モデル（Large Language Model：LLM）の能力が大幅に向上し、自然言語処理において優れた結果を収めています[1][2][3]」（https://fintan.jp/page/10301/）
+  - 「LLM-jp-eval[4]およびMT-bench-jp[5]を用いた日本語LLMの評価結果」（https://fintan.jp/page/10301/）
+  - 「OpenAI DevDay 2023で紹介されたRAGの性能を向上させるのに使ったテクニックの事例」（https://fintan.jp/page/10301/）
+  - 「これらの戦略の中には、筆者が日本語のデータセットを使って検証した結果を含めて紹介しているものもあります」（https://fintan.jp/page/10301/）
+  - 「これらのメタデータは、検索結果を絞り込むためのフィルターとして使うことで検索性能を向上させられることがあります」（https://fintan.jp/page/10301/）
+  - 「たとえば、「昨日のメールを要約して」というクエリの場合、文字列としての「昨日」とメール本文をマッチさせるのではなく、メールの受信日にマッチした結果を返さなければ、望むような応答はできないでしょう」（https://fintan.jp/page/10301/）
+  - 「その検索結果として、博多のラーメン屋が表示されたらユーザーにとって期待外れな結果である可能性が高いでしょう」（https://fintan.jp/page/10301/）
+  - 「]の事例を紹介して、本節を終えたいと思います」（https://fintan.jp/page/10301/）
+  - 「この事例では、RAGを使ってメールアプリのアシスタントを作る方法について解説しています」（https://fintan.jp/page/10301/）
+  - 「記事ではそれだけでなく、キーワード抽出や固有表現認識、日付の範囲抽出などを組み合わせて検索性能を向上させていたり、結果をヒューリスティックや機械学習を使ってリランキングする方法についても紹介しています」（https://fintan.jp/page/10301/）
+  - 「で分割し、その結果が指定したサイズ以下のチャンクを生成しない場合は次の区切り文字である」（https://fintan.jp/page/10301/）
+  - 「Microsoftのブログでは、チャンクサイズとオーバーラップの設定を変えた場合のベクトル検索の性能についての実験結果が示されています[」（https://fintan.jp/page/10301/）
+  - 「このように、検索対象のチャンクと検索結果として返すチャンクを切り分ける戦略が有効なことがあります」（https://fintan.jp/page/10301/）
+  - 「最後に、類似度が高い順に文書を並べ替えて、検索結果を返します」（https://fintan.jp/page/10301/）
+  - 「以下に、いくつかの埋め込みモデルを日本語の検索タスクで評価した結果を示します」（https://fintan.jp/page/10301/）
 
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
@@ -9341,11 +9341,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順

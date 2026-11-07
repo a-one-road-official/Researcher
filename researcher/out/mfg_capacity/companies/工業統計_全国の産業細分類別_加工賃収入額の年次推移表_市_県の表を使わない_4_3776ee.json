@@ -1,0 +1,551 @@
+{
+ "name": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+ "en": "Census of Manufacture Japan national processing fee revenue annual series by detailed industry",
+ "aliases": [
+  "工業統計調査 政府統計コード 00550010 産業別統計表 加工賃収入額 全国",
+  "工業統計 産業細分類別 年次推移 加工賃収入額 site:meti.go.jp",
+  "工業統計 時系列データ 産業別 加工賃収入額 xlsx"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:35:35.764084+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&toukei_kind=6&statdisp_id=0003448111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/ise/ise2012.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.mie.lg.jp/DATABOX/82367003127_00011.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/gec/gec2017_k.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.pref.yamanashi.jp/toukei_2/HP/DATA/H25Kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12093/0_2018_kogyokakuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ci.nii.ac.jp/ncid/BC08291266",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.pref.osaka.lg.jp/documents/12077/25ronshumatida_1.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2209/05/news001.html",
+    "https://nira.or.jp/paper/report0810.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&toukei_kind=6&statdisp_id=0003448111",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.city.kurume.fukuoka.jp/1100keikaku/2010shoukai/3040toukei/4250rokunentoukeisho/2025-0610-1146-190.html"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://toukei.pref.gunma.jp/ise/ise2012.html",
+    "https://www.pref.mie.lg.jp/DATABOX/82367003127_00011.htm",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://toukei.pref.gunma.jp/ise/ise2012.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 統計 PDF",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2012.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 従業者規模別",
+   "results": [
+    "https://toukei.pref.gunma.jp/gec/gec2017_k.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/kogyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.mie.lg.jp/DATABOX/82367003127_00011.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "http://www.pref.yamanashi.jp/toukei_2/HP/DATA/H25Kougyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12093/0_2018_kogyokakuho.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/R3seizougyo_houkokusyo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://www.stat.go.jp/data/"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan national processing fee revenue annual series by detailed industry Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.prnewswire.com/news-releases/census-bureau-completes-release-of-all-364-manufacturing-reports-from-economic-census-industry-series-277803591.html",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+   "results": [
+    "https://note.com/resas_data/n/n4e6534b5d88c",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/makabe_takashi/n/n48270b280a70",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/tashirokouji/n/n8ea5ef4e22ac",
+    "https://note.com/loyal_ivy9071/n/ned59bf0c9cbd",
+    "https://note.com/makabe_takashi/n/n8f8bb58b9450",
+    "https://note.com/honepoo/n/n4c06124a70ea",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2115790072398377108",
+    "https://jf.x.com/images/media-preview/2115288215502643703",
+    "https://x.com/zuikakuozawamk7/status/2091764438420623708",
+    "https://jf.x.com/images/media-preview/2108533210846216390",
+    "https://jf.x.com/images/media-preview/2098843322592755913",
+    "https://jf.x.com/images/media-preview/2109454252380667993",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+   "results": [
+    "https://jp.linkedin.com/pulse/ンアトウルアル-ルアングウアグエ-加工-ンルプ市場の最新動向主要企業市場細分化と将来展望2026年版-mr-pro-thinkhub-dfhjf",
+    "https://jp.linkedin.com/pulse/フアルムア-加工-設備市場の最新動向主要企業市場細分化と将来展望2026年版-qr-pro-strategy-hub-utvkf",
+    "https://jp.linkedin.com/pulse/クアントウム-インフオルムアション-加工市場の最新動向主要企業市場細分化と将来展望2026年版-0wvuf",
+    "https://jp.linkedin.com/pulse/産業用-セキュリティ-システム市場の最新動向主要企業市場細分化と将来展望2026年版-qr-pro-pulse-hub-rzn9f",
+    "https://jp.linkedin.com/posts/hideyuki-iwabuchi-67b0b9288_米の相対取引価格全国平均と出荷数量全国計の比較-相対取引価格は全農等-activity-7403359515984760832-vrjp"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30）",
+   "results": [
+    "https://www.facebook.com/NenjiToukei/",
+    "https://www.facebook.com/comicalkids/photos/募集令和8年経済センサス活動調査の調査員すべての産業分野の売上収入金額や費用などの経理項目を同一時点で網羅的に把握し我が国における事業所企業の経済活動を全国及び/1321129786718093/",
+    "https://www.facebook.com/groups/1117274224969459/posts/27093195153617344/",
+    "https://www.facebook.com/jilc.or.jp/posts/産業用地ガイドをご活用ください日本立地センターでは全国の産業用地情報を掲載した産業用地ガイドを毎年作成しホームページに無料で公開しています全国規模での産業用地情/189844506980500/",
+    "https://www.facebook.com/reddaanime/photos/急單redda預訂-預訂日版一番くじ-數碼暴龍-digimon-シリーズ-デジモン究極進化-現正接預訂日文名稱一番くじ-デジモンシリーズ-デジモン究極進化貨品編/699229965543633/",
+    "https://www.facebook.com/NenjiToukei/posts/仕送り額の年次推移現代の価値に換算仕送りは40年前の水準まで後退しているこの間授業料は物価上昇率を超えて上がっており親が仕送りにまわせる額がへっているためか授業/2085405744845871/",
+    "https://www.facebook.com/jilc.or.jp/posts/135707662337502/"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf",
+    "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "https://www.city.naruto.lg.jp/docs/2025061000064/file_contents/2025061000064__files_00624220_h033_h034.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003448106",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国の産業細分類別 加工賃収入額の年次推移表（市・県の表を使わない・4-30） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.niigata.lg.jp/site/tokei/nenkanr7syou7.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan national processing fee revenue annual series by detailed industry site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/company/office-for-national-statistics",
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/pulse/americas-manufacturing-power-map-top-10-states-what-varenas-mba-hjnjc",
+    "https://www.linkedin.com/in/dylan-rassier-96332511",
+    "https://www.linkedin.com/in/mani-janakiram",
+    "https://www.linkedin.com/in/robbie-redlin-9617a371",
+    "https://www.linkedin.com/in/emilylwiley",
+    "https://uk.linkedin.com/in/mary-gregory-bb3203224",
+    "https://uk.linkedin.com/in/rob-dyer-0349a09",
+    "https://www.linkedin.com/in/tom-crane-18991013"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

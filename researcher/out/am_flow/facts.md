@@ -2254,6 +2254,8 @@
 
 ## Shimoda Iron Works Co Ltd (日本語社名は未確認)
 - 公式URL：特定できず（not_found）
+- 検索結果の抜粋：
+  - 「Shimoda Iron Works Co Ltd - Company Profile and News — Shimoda Iron Works Co Ltd - Company Profile and News Bloomberg.com https://www.bloomberg.com > profile」（https://www.bloomberg.com/profile/company/7947246Z:JP・3回目）
 - 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
 - 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
 - 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）

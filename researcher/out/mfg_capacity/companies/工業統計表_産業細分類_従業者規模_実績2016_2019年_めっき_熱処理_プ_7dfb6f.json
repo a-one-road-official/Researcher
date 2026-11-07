@@ -1,0 +1,2037 @@
+{
+ "name": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+ "en": "Census of Manufacture detailed industry by employee size 2016-2019 per employee",
+ "aliases": [
+  "工業統計表 産業別統計表 従業者規模別 産業細分類 site:meti.go.jp filetype:xls",
+  "工業統計 細分類 規模別 2019 確報"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:23:41.996250+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "事業所数は136事業所減少し、3,903事業所でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業中分類別・従業者規模別統計表（エクセル：27KB）",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6表 市町別・従業者規模別統計表（エクセル：29KB）",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第9表 従業者規模別の推移（過去6年間）（エクセル：36KB）",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 従業者規模別産業中分類別結果表 [Excelファイル／52KB]",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6表 従業者規模別市区町村別結果表 [Excelファイル／104KB]",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "４．都道府県別産業中分類別統計表 従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別・従業者規模別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "郡町村別表（従業者３０人以上の事業所） 事業所数、従業者数、製造品出荷額等、製造品在庫額、原材料使用額等、内国消費税額、",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別・従業者規模別表（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "表1 年次別、事業所数、従業者数、製造品出荷額等",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1)都道府県別事業所数推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び従業者数は調査年の６月１日現在",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(92KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(82KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(111KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（３）品目別、都道府県別の出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（７）品目別の在庫及び産出事業所数（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（１）その他収入の種類別の産業別産出事業所数及び収入額（従業者４人以上の事業所）（産業中分類別）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（２）その他収入の種類別の都道府県別産出事業所数及び収入額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "従業者4人以上の事業所であること",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は8,313人減少し、195,131人でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年活動調査は個人経営の事業所は集計対象外です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額について、従業者4～29人の事業所は粗付加価値額です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額は従業者30人以上の事業所の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜従業者4人以上の事業所＞",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、86万3,149人で、前年に比べ1万7,074人（2.0％）増と",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "４．都道府県別産業中分類別統計表 従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "211,738人",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "213,151人",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,413人",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "有 形 固 定 資 産 投 資 総 額 （従業者30人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "市町村別・産業中分類別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別・従業者規模別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "市別・産業中分類表（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "郡町村別表（従業者３０人以上の事業所） 事業所数、従業者数、製造品出荷額等、製造品在庫額、原材料使用額等、内国消費税額、",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別・従業者規模別表（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "市別・産業中分類別表（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "郡町村別表（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品品目別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃加工品品目別表（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び従業者数は調査年の６月１日現在",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(92KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(82KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(111KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "製造品出荷額等は7,312億円減少し、8兆2,353億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は2,757億円減少し、2兆6,681億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額は1,007億円減少し、2,702億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別製造品出荷額等の全国順位は第12位でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額及び有形固定資産投資総額は、それぞれの年次1年間の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等はそれぞれの年次1年間の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は48",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "兆7,220億円で、",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、48兆7,220億円で、前年に比べ1兆7,540億円（3.7％）増と",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "が55.3％（26兆9,342億円）と最も大きく、次いで電気機械、鉄鋼、生産用機械、食料品の順になりました",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内では、豊田市（15兆3,570億円）、名古屋市（3兆5,777億円）、岡崎市（2兆5,572億円）、安城市（2兆4,594億円）、田原市（1兆8,856億円）の順になりました",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、13兆7,021億円で、前年に比べ605億円（0.4％）増と",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（２）品目群による都道府県別出荷額（産業中分類別、従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "9兆 290億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "9兆1,360億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,070億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "8兆7,331億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "8兆8,537億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,206億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "3兆1,756億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "3兆1,289億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "▲467億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "9,171億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "9,473億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "3,333億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "4,173億円",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "郡町村別表（従業者３０人以上の事業所） 事業所数、従業者数、製造品出荷額等、製造品在庫額、原材料使用額等、内国消費税額、",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の経理項目は，調査年の前年の１月から12月の数値です",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(92KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額は2,757億円減少し、2兆6,681億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額及び有形固定資産投資総額は、それぞれの年次1年間の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額について、従業者4～29人の事業所は粗付加価値額です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "(4)都道府県別付加価値額推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(111KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等，(粗)付加価値額外 (Excelファイル)(100KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び従業者数は令和２年６月１日現在，製造品出荷額等及び付加価値額は令和元年１月から12月の数値です",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表６】市町別の付加価値額の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(37KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成11年～） (Excelファイル)(37KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(21KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び従業者数は令和元年６月１日現在，製造品出荷額等及び付加価値額は平成30年１月から12月の数値です",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表6】市町別の付加価値額の推移[従業者4人以上の事業所]（平成11年～） (Excelファイル)(39KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表9～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（平成10年～） (Excelファイル)(38KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(23KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）[従業者4人以上の事業所]（昭和60年～） (Excelファイル)(23KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数及び従業者数は平成30年６月１日現在，製造品出荷額等及び付加価値額は平成29年１月から12月の数値です",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表6】市町別の付加価値額の推移[従業者4人以上の事業所]（平成10年～） (Excelファイル)(30KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "有形固定資産投資総額は1,007億円減少し、2,702億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額及び有形固定資産投資総額は、それぞれの年次1年間の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額は従業者30人以上の事業所の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7表 市区町村別有形固定資産結果表 [Excelファイル／20KB]",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(48KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(44KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(43KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(42KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(46KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(45KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "更新日：2024年3月8日",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が令和4(2022)年12月26日に公表した「令和3年経済センサス-活動調査 産業別集計（製造業）」地域編第8表の数値が修正されました",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書は、全国の事業所を対象とした調査である令和3年経済センサス-活動調査（以下「2021年活動調査」といいます",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は136事業所減少し、3,903事業所でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "増減率は対前年比-3.4％でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は8,313人減少し、195,131人でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "増減率は対前年比-4.1％でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は7,312億円減少し、8兆2,353億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "増減率は対前年比-8.2％でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は2,757億円減少し、2兆6,681億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "増減率は対前年比-9.4％でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額は1,007億円減少し、2,702億円でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "増減率は対前年比-27.2％でした",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年は2021年活動調査、2020年は2020年工業統計調査の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年活動調査は個人経営の事業所は集計対象外です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、前年比は参考値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年は2021年活動調査、2019年は2020年工業統計調査の数値です",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "本県工業の推移（事業所数、従業者数）",
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査結果（確報） （2019年6月1日現在）（愛知県集計分） - 愛知県",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査結果（確報） （2019年6月1日現在）（愛知県集計分）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "掲載日：2020年8月28日更新",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年6月2日（火曜日）公表",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "前年比3.7％増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続の減少",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "6年連続の増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2年連続の増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年8月28日 調査の目的に誤りがありましたので、訂正しました",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果（確報）の概要がPDF形式で御覧になれます",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県工業の位置及び推移、事業所数、従業者数、製造品出荷額等、付加価値額、現金給与総額、原材料使用額等、在庫額、有形固定資産投資額、工業用地、工業用水、市町村別の状況",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022-03-09",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2022-03-08",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2022-03-05",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2021-08-25",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2021-08-13",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "/ 概要版 / 2020年工業統計表「概要版」",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2021-05-28",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "/ 速報 / 2020年工業統計速報データ",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2021-03-26",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2020-08-27",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "(1)都道府県別事業所数推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)都道府県別従業者数推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3)都道府県別製造品出荷額等推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "(4)都道府県別付加価値額推移",
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月25日",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "※令和４年（2022年）以降は，「",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "​ 令和４年（2022年）以降の状況については，「",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2020年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2019年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2018年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2017年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2015年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2010年）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "※平成29年（2017年）調査から，調査期日が変わりました",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "※平成23年（2011年），平成28年（2016年）及び令和３年（2021年）は，「経済センサス-活動調査」が実施されたため，工業統計調査は実施されていません",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年（2020年）（令和元年実績）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(16KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表３】市町別の事業所数の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(34KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表４】市町別の従業者数の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(38KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2991.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=3893&layout=dataset&statdisp_id=0003014206",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-seal.ne.jp/gyouseikokuti/sangyotoukeigaiyo2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1970586434906268199",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/files/user/pdf/Annually_Report_Vol5.pdf?20250919",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/33380",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/SL.IND.EMPL.ZS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/the-new-workplace-in-japan_67c6ec46/7c897f52-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003432897"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432907",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.e-stat.go.jp/dbview?sid=0003432897"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.e-stat.go.jp/stat-search/database?page=3893&layout=dataset&statdisp_id=0003014206"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003432897",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/dbview?sid=0003432897"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jfpi.or.jp/files/user/pdf/Annually_Report_Vol5.pdf?20250919",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ]
+  },
+  {
+   "query": "Census of Manufacture detailed industry by employee size 2016-2019 per employee Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://data.worldbank.org/indicator/SL.IND.EMPL.ZS",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/the-new-workplace-in-japan_67c6ec46/7c897f52-en.pdf",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&toukei=00200553&tstat=000001095895&tclass1=000001106235&stat_infid=000031725028",
+    "https://www.bls.gov/cps/cpsaat18.htm",
+    "https://www.statista.com/topics/7451/employment-in-japan/?srsltid=AYCX9vKsDWpXr94wRS1hUHeUgzdz9VEGMJtVuJhlMoV24OHWB69MiNKf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+   "results": [
+    "https://note.com/kabuya66/n/n6d6beba125a2",
+    "https://note.com/petenshoku/n/n2b2f8c3abc8c",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/hirokimiyano/n/n201ce568fe1c",
+    "https://note.com/kabuya66/n/n324dd3c879e0",
+    "https://note.com/terradrone/n/n411bd45fb666",
+    "https://note.com/kabuberry_/n/n0a1bc6b433a2",
+    "https://note.com/jony_fujimura/n/nf69e8ac3915f",
+    "https://note.com/kagawatomo/n/nc9844172c40a",
+    "https://note.com/nekota_toure/n/n245167ba6201"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2069926560556270060",
+    "https://x.com/luigi_jpn/article/2067729162769756542",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/searched_press/article/2080307760659624367",
+    "https://x.com/i/article/2092754148085346581",
+    "https://x.com/m_takaharasan/status/1949666464971309359",
+    "https://x.com/yuto_matsuura/status/1747015870210351387",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+   "results": [
+    "https://jp.linkedin.com/in/%E9%82%A6%E8%A6%AA-%E4%B9%85%E4%BF%9D%E7%94%B0-bb6644218",
+    "https://jp.linkedin.com/in/隆宏-直井-2b0617221",
+    "https://jp.linkedin.com/in/蒼始-岩本-1697241b1",
+    "https://jp.linkedin.com/in/裕一-大澤-403b02217",
+    "https://jp.linkedin.com/in/yukiokano111",
+    "https://www.linkedin.com/pulse/job-hunting-using-linkedin-dont-want-your-current-employer-simon-gray",
+    "https://www.linkedin.com/posts/hiroshi-ono-50535066_9月18日東京mxテレビの朝番組堀潤モーニング激論サミットに出演しました-activity-7241739686640001024-Djwz",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/pulse/understanding-international-standard-industrial-isic-mohammed-deeb?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/VUC2021/"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.city.nishitokyo.lg.jp/siseizyoho/tokei/toukeisyo/R5toukeinishitokyo.files/4-4kougyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432907",
+    "https://www.tokyo-seal.ne.jp/gyouseikokuti/sangyotoukeigaiyo2019.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html"
+   ]
+  },
+  {
+   "query": "Census of Manufacture detailed industry by employee size 2016-2019 per employee site:linkedin.com",
+   "results": [
+    "https://au.linkedin.com/in/strategisegroup",
+    "https://www.linkedin.com/in/michael-ratcliffe-010bb311",
+    "https://www.linkedin.com/in/camilo-econ",
+    "https://www.linkedin.com/in/carylanna",
+    "https://www.linkedin.com/in/tiffany-nair-12553217/fr",
+    "https://www.linkedin.com/in/ashishkumarprofile",
+    "https://www.linkedin.com/in/travisstephens-ecodevo",
+    "https://www.linkedin.com/in/anantadua",
+    "https://www.linkedin.com/in/andrew-rybczynski-7312b236",
+    "https://pg.linkedin.com/in/talu-roekac-mou-4b0464123"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ45頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ45頁・検索18回）"
+ }
+}

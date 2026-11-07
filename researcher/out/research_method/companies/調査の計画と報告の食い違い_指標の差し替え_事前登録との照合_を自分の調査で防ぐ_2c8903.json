@@ -8,100 +8,8 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-06T22:34:05.046101+00:00",
+ "researched_at": "2026-11-07T03:23:00.468099+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "when the published report and the trial’s own registry entry disagree on what was measured as primary or secondary, and the disagreement isn’t explained. Three patterns cover most real cases:",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "= 0.06). Twenty studies with major switching and 19 studies with minor switching were observed. Examples of major switches according to Chan",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "was the presence of a new primary outcome or an initially secondary outcome listed as a primary outcome in the published manuscript. Examples of minor switches were related to reformulated primary outcomes or rearrangements in pre-specified lists of several primary outcomes.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Why it matters: the reporting-bias mechanism",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "risk-of-bias assessment",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Selecting only results from high-impact journals might bias results towards certain journals",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (1.5 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "How to detect outcome switching by comparing a trial’s registered outcomes against its published results, what CONSORT 2010 and ICMJE require, and how trial teams and reviewers can catch and prevent it.",
@@ -157,6 +65,98 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF (1.5 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Why it matters: the reporting-bias mechanism",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "risk-of-bias assessment",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Selecting only results from high-impact journals might bias results towards certain journals",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "when the published report and the trial’s own registry entry disagree on what was measured as primary or secondary, and the disagreement isn’t explained. Three patterns cover most real cases:",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "= 0.06). Twenty studies with major switching and 19 studies with minor switching were observed. Examples of major switches according to Chan",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "was the presence of a new primary outcome or an initially secondary outcome listed as a primary outcome in the published manuscript. Examples of minor switches were related to reformulated primary outcomes or rearrangements in pre-specified lists of several primary outcomes.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -168,17 +168,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n42d0b810bb1b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/comix_ceo162230/n/n6d056c7b9122",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n42d0b810bb1b",
     "status": "ok",
     "method": "http"
    },
@@ -188,17 +183,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n8d34f285f63a",
+    "url": "https://note.com/comix_ceo162230/n/n6d056c7b9122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/nde1c36e50e00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/studymemot/n/n81a41357b8c2",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/macromill/n/nbf9e14608d06",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yuru_business/n/n8c10587ddf23",
     "status": "ok",
     "method": "http"
    },
@@ -248,17 +248,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.macromill.com/service/column/entry-049/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researto.com/column/qualitative-research-pre-task-homework/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://trademark.jp/report/trademark/namingresearch",
+    "url": "https://www.macromill.com/service/column/entry-063/",
     "status": "ok",
     "method": "http"
    },
@@ -268,7 +258,17 @@
     "method": "http"
    },
    {
+    "url": "https://trademark.jp/report/trademark/namingresearch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://surveroid.jp/mr-journal/interview/tkbA5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macromill.com/service/words/preliminary-survey/",
     "status": "ok",
     "method": "http"
    },
@@ -298,19 +298,19 @@
     "method": "http"
    },
    {
-    "url": "https://beyondtheabstract.substack.com/p/swing-miss-rewrite-the-story-of-outcome",
-    "status": "http_403",
+    "url": "https://www.cos.io/initiatives/prereg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparimed.org/single-post/outcome-switching-research-misconduct",
+    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2738347",
     "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.bmj.com/content/393/bmj-2025-087975.full.pdf",
-    "status": "http_403",
-    "method": "pdf"
    }
   ]
  },
@@ -319,29 +319,29 @@
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 site:note.com",
    "results": [
     "https://note.com/gtminami/n/ndbb3ffda04a1",
-    "https://note.com/kagawatomo/n/n42d0b810bb1b",
-    "https://note.com/comix_ceo162230/n/n6d056c7b9122",
     "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/kagawatomo/n/n42d0b810bb1b",
     "https://note.com/engikoumu/n/n88d87d17413b",
-    "https://note.com/kagawatomo/n/n8d34f285f63a",
+    "https://note.com/comix_ceo162230/n/n6d056c7b9122",
+    "https://note.com/modern_flea8708/n/nde1c36e50e00",
     "https://note.com/gtminami/n/na86c288c1b46",
     "https://note.com/betaitohuman/n/n3c1ec4aa9ad6",
-    "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/jack4manastalk/n/n880406135053"
+    "https://note.com/kagawatomo/n/n8d34f285f63a",
+    "https://note.com/zenkok/n/n4f536e9d2da3"
    ]
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 note",
    "results": [
+    "https://note.com/studymemot/n/n81a41357b8c2",
     "https://note.com/macromill/n/nbf9e14608d06",
-    "https://note.com/yuru_business/n/n8c10587ddf23",
     "https://note.com/shintaku0707/n/ne0d4b9206189",
     "https://mixpanel.com/blog/?p=2228",
     "https://u-site.jp/alertbox/context-methods-field-diary-studies",
     "https://blog.marvelsupply.jp/way-of-smart-survey",
     "https://note.com/yuru_business/n/n66bb9ee0b867",
-    "https://www.macromill.com/service/column/entry-049/",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://www.macromill.com/service/column/entry-049/",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ]
   },
@@ -353,7 +353,7 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.intage.co.jp/gallery/research-kotsu-2/",
     "https://researto.com/column/market-research-bias/",
-    "https://www.macromill.com/service/column/entry-049/",
+    "https://www.macromill.com/service/column/entry-063/",
     "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://www.fast-ask.com/blog/articles/questionnaire-survey-analysis.html",
     "https://insight.rakuten.co.jp/knowledge/column/column028/",
@@ -364,14 +364,14 @@
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 事例",
    "results": [
     "https://www.asmarq.co.jp/column/column-cat/how_to/pre_post_survey/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://researto.com/column/qualitative-research-pre-task-homework/",
     "https://www.intage.co.jp/gallery/research-kotsu-2/",
-    "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://www.macromill.com/service/column/entry-049/",
-    "https://trademark.jp/report/trademark/namingresearch",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://researto.com/column/market-research-bias/",
     "https://www.rjc.co.jp/column/207",
+    "https://u-site.jp/alertbox/10-survey-challenges",
+    "https://trademark.jp/report/trademark/namingresearch",
     "https://surveroid.jp/mr-journal/interview/tkbA5",
+    "https://www.macromill.com/service/words/preliminary-survey/",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ]
   },
@@ -381,11 +381,11 @@
     "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
     "https://peerreviewcongress.org/abstract/outcome-switching-in-observational-studies-of-interventions-comparison-of-registration-records-and-published-articles/",
-    "https://beyondtheabstract.substack.com/p/swing-miss-rewrite-the-story-of-outcome",
-    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2738347",
-    "https://www.bmj.com/content/393/bmj-2025-087975.full.pdf",
-    "https://en.wikipedia.org/wiki/Outcome_switching",
+    "https://www.cos.io/initiatives/prereg",
     "https://www.transparimed.org/single-post/outcome-switching-research-misconduct",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2738347",
+    "https://en.wikipedia.org/wiki/Outcome_switching",
+    "https://www.bmj.com/content/393/bmj-2025-087975.full.pdf",
     "https://www.compare-trials.org/blog/are-your-results-unusual-or-how-often-are-outcomes-switched/index.html",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/"
    ]
@@ -409,13 +409,13 @@
    "query": "site:x.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
     "https://x.com/i/article/2113752054435123491",
-    "https://x.com/kuruhowa/status/2083127344643084587",
-    "https://x.com/VAIZO_commit/status/2107419181335630172",
-    "https://x.com/HiWind_Kamakura/status/2103488276107813285",
-    "https://x.com/tsukiokabunko/status/1774434473880515046",
-    "https://x.com/spring_online1/status/2117829214045184172",
     "https://x.com/ai_hacks_akira/status/2114369650003956015",
-    "https://x.com/kiriwake_ai/status/2110494856913309920"
+    "https://x.com/ai_hacks_akira/status/2115353193681236215",
+    "https://x.com/kiriwake_ai/status/2110494856913309920",
+    "https://x.com/VAIZO_commit/status/2107419181335630172",
+    "https://x.com/kakinotane_life/status/2102140836805022033",
+    "https://x.com/HiWind_Kamakura/status/2103488276107813285",
+    "https://x.com/aidatapartner/status/2112777792299352550"
    ]
   },
   {
@@ -428,15 +428,15 @@
     "https://jp.linkedin.com/pulse/品質管理の指標を単なる報告で終わらせないためのデータ活用-美徳-鈴木-pibkc",
     "https://jp.linkedin.com/pulse/metrics-reporting-strategic-foundation-assurance-patrick-m-hayes-9xg1c?tl=ja",
     "https://jp.linkedin.com/pulse/strengthen-your-brand-growth-strategy-focus-right-eya8c?tl=ja",
-    "https://www.linkedin.com/in/nadiya-konstantynova-7270534"
+    "https://www.linkedin.com/pulse/話の食い違いがなくなりウィンウィンを生み出すコミュニケーションの習慣-junsuke-iida"
    ]
   },
   {
    "query": "site:facebook.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
     "https://www.facebook.com/risktaisaku/posts/bcpで規定した計画と現実との食い違いを抽出し多くの企業に共通のあるあるとして紹介その対処について考える本連載今回から第２章に入りbcpの実効性事業継続マネジメ/779988767500207/",
-    "https://www.facebook.com/groups/627324771859424/posts/1686592229266001/",
     "https://www.facebook.com/officeken/posts/令和6年度処遇改善加算等-実績報告書様式の差し替えについて7月7日厚生労働省より実績報告書の様式修正の連絡がありましたよって各自治体において今後提出予定の事業所/745074984774158/",
+    "https://www.facebook.com/groups/627324771859424/posts/1686592229266001/",
     "https://www.facebook.com/groups/627324771859424/posts/1619952769263281/",
     "https://www.facebook.com/groups/627324771859424/permalink/1466822431242983/",
     "https://www.facebook.com/kyugi.mlit.go.jp/videos/新技術活用計画書実施報告書活用効果調査表web作業に変更/1305445412987570/",
@@ -446,15 +446,15 @@
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 note 社長",
    "results": [
-    "https://note.com/macromill/n/nbf9e14608d06",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/yuru_business/n/n66bb9ee0b867",
+    "https://note.com/macromill/n/nbf9e14608d06",
     "https://mixpanel.com/blog/?p=2228",
     "https://note.com/iamwhatichose/n/n5b9892a22ac7",
-    "https://blog.marvelsupply.jp/way-of-smart-survey",
-    "https://u-site.jp/alertbox/context-methods-field-diary-studies",
-    "https://www.onoff.ne.jp/blog/?p=14175",
+    "https://note.com/majyp/n/nd3bf10171b2b",
     "https://surveroid.jp/mr-journal/interview/Y6uCo",
+    "https://u-site.jp/alertbox/context-methods-field-diary-studies",
+    "https://blog.marvelsupply.jp/way-of-smart-survey",
+    "https://www.piano.io/ja/resources/why-personalization-can-backfire",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ]
   },
@@ -464,12 +464,12 @@
     "https://help.x.com/ja/safety-and-security/report-abusive-behavior",
     "https://zenn.dev/ats030/articles/how-to-prevent-x-account",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://webtan.impress.co.jp/e/2025/06/26/49535",
     "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/x%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BB%95%E6%A7%98%E5%A4%89%E3%81%95%E3%82%89%E3%81%AB%E3%82%88%E3%82%8B%E5%BD%B1%E9%9F%BF%E3%81%A8%E4%BB%A3%E6%9B%BF%E6%96%BD/",
-    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
     "https://s--line.co.jp/x-twitter-business-2026/",
-    "https://tatap.jp/knowledge/x-twitter-corporate-operation-guide/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJr-uA7KR6AutdIfSAmVFN_2eQwZrd8Dm19JV5vCwTdp8AN5GXK",
+    "https://xboost.now/notes/x-sensitive-flag-fix-2026",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://webtan.impress.co.jp/e/2025/06/26/49535",
     "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
    ]
   },
@@ -479,18 +479,18 @@
     "https://www.linkedin.com/posts/siterollc_ai-in-clinical-trials-sounds-promising-but-activity-7511742101466955776-gCKi",
     "https://www.linkedin.com/top-content/healthcare/clinical-trial-management/blinding-and-randomization-techniques/",
     "https://www.linkedin.com/top-content/workplace-trends/trends-in-healthcare-innovation/trends-in-clinical-research-technology/",
-    "https://www.linkedin.com/posts/ruslan-rust_tracking-claim-changes-from-preprint-to-publication-activity-7471019106935164928-j2Rb",
     "https://www.linkedin.com/posts/schopfel_open-science-policies-and-practices-among-activity-7503378820675133440-kAOy",
     "https://www.linkedin.com/posts/jehirsch_ai-could-bring-clinical-trials-to-rural-america-activity-7519086174129266688-mNTs",
+    "https://www.linkedin.com/in/markdavidhensley",
     "https://www.linkedin.com/posts/nikolay-nikolaev-70561580_clinicaltrials-cdisc-biostatistics-activity-7518028439447252992-QxH3",
     "https://www.linkedin.com/pulse/role-frequentist-framework-p-values-statistical-trials-olszewski-igy3f",
-    "https://www.linkedin.com/in/markdavidhensley",
-    "https://www.linkedin.com/posts/rossjacksonconsulting_a-recent-survey-of-120-sponsors-cros-and-activity-7513976172196708352-rcTr"
+    "https://www.linkedin.com/posts/francois-clement-bidard_tailorswitch-aka-pada-2-is-launched-activity-7505544456788484096-xMdx",
+    "https://www.linkedin.com/posts/mayank-anand-47697670_data-newcurrency-clinicalstudies-activity-7503431887206494210-S7iU"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T05:56:44.683092+00:00"
 }

@@ -1,0 +1,501 @@
+{
+ "name": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+ "en": "METI census of manufactures industry tables xlsx processing fee revenue",
+ "aliases": [
+  "工業統計 産業別統計表 Excel 加工賃収入額 全国",
+  "工業統計 確報 産業編 加工賃収入額 従業者規模別 xlsx"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:19:35.552946+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/roudouyoran.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/page/0000480651.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/3_data/kikan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/data_report/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.mhlw.go.jp/stf/roudouyoran.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://www.meti.go.jp/statistics/",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.city.osaka.lg.jp/toshikeikaku/page/0000480651.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan.html"
+   ]
+  },
+  {
+   "query": "METI census of manufactures industry tables xlsx processing fee revenue Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.meti.go.jp/english/data_report/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/tommy_tomo/n/n536e3d2d10c3",
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/ogawa_tech/n/ndc40f3e6ca98",
+    "https://note.com/ogawa_tech/n/n81450485c2c8",
+    "https://note.com/engawa_koushi/n/na0d18fdb9a80"
+   ]
+  },
+  {
+   "query": "site:x.com 経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+   "results": [
+    "https://x.com/meti_Chugoku",
+    "https://x.com/meti_Kansai",
+    "https://jf.x.com/images/media-preview/2106034694881952246",
+    "https://jf.x.com/images/media-preview/2105432809028636784",
+    "https://x.com/amc_corporation/status/2038378146832257104",
+    "https://x.com/RIETIjp",
+    "https://x.com/stock_unknown/status/2108437680677888380"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+   "results": [
+    "https://www.linkedin.com/posts/nichi_２８０万再生突破豊島晋作の経済動画夏の総集編巨大企業とai-テレ東経済-activity-7096565696041525248-C-Ah",
+    "https://jp.linkedin.com/pulse/maximizing-income-industrial-machinery-manufacturing-lean-cattermole?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41）",
+   "results": [
+    "https://www.facebook.com/JissoNews/photos/統計情報12月24日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年10月実績を追加経済産業省生産動態統計月報11月/1306493614612689/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
+    "https://www.facebook.com/maffjapan/posts/令和2年水産加工統計調査結果をお知らせします1-食用加工品生産量焼味付のりを除くは143万6880ｔで前年に比べ７減少しました主な加工種類別の生産量は以下のとお/4298664780218782/",
+    "https://www.facebook.com/groups/1117274224969459/posts/27093195153617344/",
+    "https://www.facebook.com/maffjapan/posts/統計情報令和6年漁業産出額等を公表しましたので概要を紹介します令和6年の漁業産出額は1兆6055億円となり前年に比べ508億円31減少しました令和6年は海面養殖/1387010243465184/",
+    "https://www.facebook.com/maffjapan/posts/令和5年の漁業産出額をお知らせします令和5年の漁業産出額は1兆6578億円となり前年に比べ831億円53増加しました令和5年は海面漁業においていわし類海面養殖業/1108684837964394/",
+    "https://www.facebook.com/okisou.naikakufu/posts/令和6年-農業産出額-及び-生産農業所得沖縄県を公表しました令和6年の農業産出額はさとうきびの生産量が増加したことなどから前年に比べて増加しています農業産出額と/1204262321843321/"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.rieti.go.jp/jp/publications/pdp/05p001.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計 産業別統計表 xlsx 加工賃収入額 従業者数（国の所管ページだけ・自動車工業会など業界団体のページを除く・4-41） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/hinmoku/index.html"
+   ]
+  },
+  {
+   "query": "METI census of manufactures industry tables xlsx processing fee revenue site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://sg.linkedin.com/company/metisingapore",
+    "https://pe.linkedin.com/pulse/query-revenue-data-from-sec-filings-using-external-tables-rajagopal-qu7kc",
+    "https://kr.linkedin.com/company/ministry-of-economy-trade-and-industry",
+    "https://www.linkedin.com/posts/hv2-enterprises-inc_did-you-know-the-us-census-bureaus-manufacturers-activity-7518660361529794560-yc8V",
+    "https://www.linkedin.com/posts/robsentz_welcome-to-the-historical-census-of-manufactures-activity-7391953941812449281-wDhW",
+    "https://www.linkedin.com/pulse/manufacturers-shipments-inventories-orders-analysis-may-faisal-amjad-flasf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ46頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ46頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ46頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ46頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ46頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ46頁・検索18回）",
+  "10年推移": "記載なし（読んだ46頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ46頁・検索18回）"
+ }
+}

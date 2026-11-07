@@ -1,0 +1,555 @@
+{
+ "name": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+ "en": "electroplating die mold SME public financial notice kanpo balance sheet",
+ "aliases": [
+  "めっき 株式会社 決算公告 貸借対照表の要旨 当期純利益",
+  "金型 株式会社 決算公告 官報 純資産",
+  "めっき 決算公告 電子公告"
+ ],
+ "context": "会社・決算",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:20:12.438802+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100021",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ssk0904.jp/news_contents_9185.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93301/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://minebea-accesssolutions.com/news/3244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.densai.net/info/20250905-10507/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noritz.co.jp/company/news/assets/260708_NR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://da-i-ko.co.jp/information/1832/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/file/toriteki002.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://search.kanpoo.jp/t/%E7%AC%AC63%E6%9C%9F%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%20%E4%BC%9A%E7%A4%BE%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-reit.com/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000nv77-att/03SEIWAHOLDINGS-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je25/pdf/all_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1503.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npb.go.jp/news/r05/20230801_kanpo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiodome.co.jp/js/blog/13590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanpo.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kentakukenpo.or.jp/UploadedFiles/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E8%B3%87%E6%96%99.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93303/revisions/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmi.gr.jp/eyes/blog/2026/17852.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000844146.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/old/20260629/20260629g00143/pdf/20260629g001430272.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kanpou.npb.go.jp/20110314/20110314h05514/pdf/20110314h055140002.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pfdata.fisco.jp/data/report/20180622/6680070020180622003.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jcma.or.jp/wp-content/uploads/240315kaigohokensaishinjyoho1212-14bettenn6.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260605/20260605c00102/20260605c00102full00010048f.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260710/20260710g00155/pdf/20260710g001550007.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chuokai.or.jp/contents/soshiki/gaiyou/22/R4-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.typing.com/br",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.typing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260601/20260601c00098/20260601c00098full00010112f.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_report_taxonomy_category?post=93502",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0541607_02.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jftc.go.jp/shitauke/shitaukekankoku/R6FYkankoku.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/wordle/comments/1bvl6nj/what_does_a_green_star_on_top_of_congratulations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kyoden.co.jp/news/news20250630-01/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www.techs-s.com/media/show/403",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100021",
+    "https://www.ssk0904.jp/news_contents_9185.html",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93301",
+    "https://www.jftc.go.jp/shitauke/shitaukegaiyo/oyakinsi.html",
+    "https://release.nikkei.co.jp/attach_file/0541812_03.pdf",
+    "https://kanpou.npb.go.jp/20170328/20170328g00063/pdf/20170328g000630061.pdf",
+    "https://catr.jp/"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 受注残 人手不足",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.techs-s.com/media/show/403",
+    "https://minebea-accesssolutions.com/news/3244/",
+    "https://www.densai.net/info/20250905-10507/",
+    "https://www.noritz.co.jp/company/news/assets/260708_NR.pdf",
+    "https://da-i-ko.co.jp/information/1832/",
+    "https://www.jftc.go.jp/file/toriteki002.pdf",
+    "https://www.kakeru-law.jp/lawblog/7089/",
+    "https://www.reddit.com/r/amazon/comments/38tttx/why_is_amazons_website_so_godawfully_slow/"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 人手不足 損失 億円",
+   "results": [
+    "https://search.kanpoo.jp/t/%E7%AC%AC63%E6%9C%9F%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%20%E4%BC%9A%E7%A4%BE%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "https://www.nippon-reit.com/file/term-9ad305d8c53f6dec162ee4bd0b10fbdf1e4b988c.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000nv77-att/03SEIWAHOLDINGS-1s.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/pdf/all_01.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_1503.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/667875.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100J06P.pdf",
+    "https://www.jrtt.go.jp/ir/asset/kikousai_171_172_2.pdf",
+    "https://ca.indeed.com/l-burnaby,-bc-jobs.html?vjk=9d28747f55ce2008"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+   "results": [
+    "https://www.kanpo.go.jp/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://www.npb.go.jp/news/r05/20230801_kanpo.html",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://kanpo.net/",
+    "https://catr.jp/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://kanpo-ad.com/index3.html",
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 推移",
+   "results": [
+    "https://catr.jp/",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www.techs-s.com/media/show/403",
+    "https://www.kentakukenpo.or.jp/UploadedFiles/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E8%B3%87%E6%96%99.pdf",
+    "https://www.nippon-reit.com/file/term-9ad305d8c53f6dec162ee4bd0b10fbdf1e4b988c.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93303/revisions",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000nv77-att/03SEIWAHOLDINGS-1s.pdf",
+    "https://www.tmi.gr.jp/eyes/blog/2026/17852.html",
+    "https://www.soumu.go.jp/main_content/000844146.pdf",
+    "https://www.microsoft.com/en-us/"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 統計 PDF",
+   "results": [
+    "https://www.kanpo.go.jp/old/20260629/20260629g00143/pdf/20260629g001430272.pdf",
+    "https://catr.jp/",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "https://www.kentakukenpo.or.jp/UploadedFiles/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E8%B3%87%E6%96%99.pdf",
+    "https://kanpou.npb.go.jp/20110314/20110314h05514/pdf/20110314h055140002.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "http://pfdata.fisco.jp/data/report/20180622/6680070020180622003.pdf",
+    "https://www.jcma.or.jp/wp-content/uploads/240315kaigohokensaishinjyoho1212-14bettenn6.pdf",
+    "https://en.wikipedia.org/wiki/Detroit_Red_Wings"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.kanpo.go.jp/20260605/20260605c00102/20260605c00102full00010048f.html",
+    "https://catr.jp/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.stormfront.org/forum/t1112486-150/"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 従業者規模別",
+   "results": [
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "https://catr.jp/",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "https://www.kanpo.go.jp/20260710/20260710g00155/pdf/20260710g001550007.pdf",
+    "https://www.nippon-reit.com/file/term-9ad305d8c53f6dec162ee4bd0b10fbdf1e4b988c.pdf",
+    "https://www.jcma.or.jp/wp-content/uploads/240315kaigohokensaishinjyoho1212-14bettenn6.pdf",
+    "https://www.chuokai.or.jp/contents/soshiki/gaiyou/22/R4-01.pdf",
+    "https://www.typing.com/br",
+    "https://www.typing.com/"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 1人当たり 万円",
+   "results": [
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "https://catr.jp/",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www.techs-s.com/media/show/403",
+    "https://www.kanpo.go.jp/20260601/20260601c00098/20260601c00098full00010112f.html",
+    "https://www.jcma.or.jp/wp-content/uploads/240315kaigohokensaishinjyoho1212-14bettenn6.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_report_taxonomy_category?post=93502",
+    "https://release.nikkei.co.jp/attach_file/0541607_02.pdf",
+    "https://www.jftc.go.jp/shitauke/shitaukekankoku/R6FYkankoku.html",
+    "https://www.nytimes.com/games/wordle/index.html"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） 2015 2025",
+   "results": [
+    "https://www.kanpo.go.jp/",
+    "https://catr.jp/",
+    "https://www.kyoden.co.jp/news/news20250630-01/",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://www23183ue.sakura.ne.jp/disclosures/149683",
+    "https://www.techs-s.com/media/show/403",
+    "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "https://search.kanpoo.jp/r/20220217g33p53-2de/",
+    "https://companyinformation.jp/kanpo/",
+    "https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/announcing-native-nvme-in-windows-server-2025-ushering-in-a-new-era-of-storage-p/4477353"
+   ]
+  },
+  {
+   "query": "electroplating die mold SME public financial notice kanpo balance sheet Japan statistics",
+   "results": [
+    "https://www.stlouisfed.org/on-the-economy/2024/oct/japans-consolidated-balance-sheet-challenges-monetary-policy",
+    "https://www.boj.or.jp/en/statistics/category/financial.htm",
+    "https://tradingeconomics.com/japan/central-bank-balance-sheet",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://di-r.com/en/ir/",
+    "https://www.chemi-con.co.jp/en/company/ir/library/annual/pdf/AnnualFinancialReport_202603.pdf",
+    "https://www.tel.com/ir/library/consolidated-financial-statements/j9e7ji00000000dw-att/Consolidated_Financial_Statements_FY2025.pdf",
+    "https://www.jp-bank.japanpost.jp/en/ir/financial/pdf/en_fs250808.pdf",
+    "https://www.tamuracorp.com/global/ir/pdf/Financial_Results_Presentation_2025_en.pdf",
+    "https://eplating.co.uk/how-to-guides/"
+   ]
+  },
+  {
+   "query": "site:note.com めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+   "results": [
+    "https://www.calculator.net/basic-calculator.html",
+    "https://www.calculator.net/math-calculator.html",
+    "https://www.calculatorsoup.com/calculators/math/math.php",
+    "https://www.symbolab.com/solver/algebra-calculator",
+    "https://www.mathway.com/Calculator/equation-solver",
+    "https://www.calculatorsoup.com/calculators/math/adding-and-subtracting-integers-calculator.php",
+    "https://calcsolvers.com/",
+    "https://www.mathway.com/algebra",
+    "https://www.theonlinecalculator.com/",
+    "https://www.calculatorplus.com/calculators/basic-calculator"
+   ]
+  },
+  {
+   "query": "site:x.com めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+   "results": [
+    "https://sportscore.com/football/team/brazil/9vjxm8gh68er6od/",
+    "https://www.espn.com/soccer/team/_/id/205/brazil",
+    "https://www.espn.com/soccer/team/results/_/id/205/brazil",
+    "https://www.365scores.com/en-us/football/team/brazil-2379",
+    "https://www.livescore.com/en/football/team/brazil/9010/overview/",
+    "https://www.bbc.co.uk/sport/football/teams/brazil/scores-fixtures",
+    "https://sportscore.com/football/country/brazil/",
+    "https://www.flashscore.com/football/brazil/",
+    "https://www.sofascore.com/football/team/brazil/4748",
+    "https://www.flashscore.co.uk/football/brazil/"
+   ]
+  },
+  {
+   "query": "site:facebook.com めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29）",
+   "results": [
+    "https://theviewfromavalon.com/la-galaxy-schedule-news",
+    "https://www.lagalaxy.com/schedule/matches",
+    "https://www.lagalaxy.com/schedule/",
+    "https://www.espn.com/soccer/team/fixtures/_/id/187/la-galaxy",
+    "https://www.schedulegalaxy.com/",
+    "https://www.si.com/soccer/la-galaxy/schedule",
+    "https://sports.yahoo.com/soccer/teams/la-galaxy/schedule/?fr=sycsrp_catchall",
+    "https://www.foxsports.com/soccer/los-angeles-galaxy-team-schedule",
+    "https://www.365scores.com/en-us/football/team/los-angeles-galaxy-1342",
+    "https://tv.apple.com/us/team/umc.cst.k7og69ko6rj30lg2480d376"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） note 社長",
+   "results": [
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://note.com/uenotakefumi0921/n/n8eba815c096f",
+    "https://kanpo.net/koukoku2019/faq/",
+    "https://catr.jp/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "https://kanpo-ad.com/index5.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.hyogo.doyu.jp/blog/post/202007130059/",
+    "https://kanpo-kanpo.blog.jp/",
+    "https://www.nba.com/warriors/schedule"
+   ]
+  },
+  {
+   "query": "めっき・金型の中小受託会社の官報の決算公告（純資産・当期純利益・千円/百万円の単位・4-29） X 投稿",
+   "results": [
+    "https://www.npb.go.jp/news/r05/20230801_kanpo.html",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://x.com/kessan_db",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://kanpo.net/koukoku2019/faq/",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-tetsuzuki/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://www.densan-kikaku.co.jp/houteikoukoku/kanpou/settlement/",
+    "https://www.jftc.go.jp/partnership_package/toritekihou.html",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "electroplating die mold SME public financial notice kanpo balance sheet site:linkedin.com",
+   "results": [
+    "https://eplating.co.uk/how-to-guides/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

@@ -1,0 +1,560 @@
+{
+ "name": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+ "en": "census of manufactures employees breakdown regular temporary part-time by size",
+ "aliases": [
+  "工業統計 従業者 常用労働者 臨時雇用者 内訳 規模別",
+  "経済構造実態調査 製造業事業所調査 従業者 内訳 パート"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:29:06.364578+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.brainyquote.com/quote_of_the_day",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.positivityblog.com/quote-of-the-day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/quotes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brainyquote.com/topics/daily-quotes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://quotesoftheday.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quotationspage.com/qotd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://explainx.ai/blog/microsoft-winds-down-oracle-ai-cloud-rental-older-nvidia-gpus-bloomberg-what-is-reported-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shattered.io/microsoft-winds-down-oracle-ai-cloud-deal-2023-bloomberg-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekingalpha.com/news/4668404-microsoft-winds-down-rented-ai-computing-capacity-from-oracle-report",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tech-insider.org/microsoft-winds-down-2023-oracle-ai-cloud-deal-2026/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(LibreTexts)/14:_Acids_and_Bases/14.05:_Reactions_of_Acids_and_Bases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/04:_Reactions_in_Aqueous_Solution/4.07:_Acid_Base_Reactions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsclassroom.com/tutorial/acids-and-bases/acid-base-neutralization-reactions/acid-base-neutralization-reactions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openoregon.pressbooks.pub/gschemistry/chapter/4-3-acid-base-reactions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studylib.net/doc/9488785/chapter-9--monoprotic-acids-and-bases",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chemistrylearner.com/chemical-reactions/acid-base-reaction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akc.org/expert-advice/health/best-running-dogs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thepioneerwoman.com/home-lifestyle/pets/g69221089/best-dog-breeds-for-running/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://therunexperience.com/the-best-dog-breeds-for-runners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findoutaboutdogs.com/dog-breeds/best-dog-breeds-for-running/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marathonhandbook.com/the-best-running-dogs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runnersworld.com/uk/training/motivation/a64378081/best-dog-breeds-for-runners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldomni.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldomni.com/worldomni.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldomni.com/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldomni.com/asset_securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldomni.com/abs/WOLS_2025_A_Final_Prospectus.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.worldomni.com/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/translate/m%C3%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/answers/131513/sounds-like-mi-ha-what-does-it-mean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/translate/mi+nombre+es",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/translate/chupa+mi+pito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/answers/235554/yo-me-mi-or-m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spanishdict.com/translation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-gb/contactus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/announcing-native-nvme-in-windows-server-2025-ushering-in-a-new-era-of-storage-p/4477353",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/YouTube",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/youtube/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://about.youtube/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/YouTube",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.youtube/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/topic/YouTube",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/admissions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/category/montessori-teacher-diploma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/join_pmi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/programs/montessori-essentials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://preparedmontessorian.com/course-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Census",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 人手不足 受注 断る",
+   "results": []
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 受注残 人手不足",
+   "results": [
+    "https://www.brainyquote.com/quote_of_the_day",
+    "https://www.positivityblog.com/quote-of-the-day/",
+    "https://www.forbes.com/quotes/",
+    "https://www.brainyquote.com/topics/daily-quotes",
+    "https://quotesoftheday.org/",
+    "https://www.quotationspage.com/qotd.html",
+    "https://wisdomquotes.com/quote-of-the-day/",
+    "https://thedailyquotes.com/",
+    "https://thedailyquotes.com/quote-of-the-day/",
+    "https://wisdomquotes.com/thought-of-the-day/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 人手不足 損失 億円",
+   "results": [
+    "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+    "https://explainx.ai/blog/microsoft-winds-down-oracle-ai-cloud-rental-older-nvidia-gpus-bloomberg-what-is-reported-2026",
+    "https://shattered.io/microsoft-winds-down-oracle-ai-cloud-deal-2023-bloomberg-2026/",
+    "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+    "https://seekingalpha.com/news/4668404-microsoft-winds-down-rented-ai-computing-capacity-from-oracle-report",
+    "https://tech-insider.org/microsoft-winds-down-2023-oracle-ai-cloud-deal-2026/",
+    "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(LibreTexts)/14:_Acids_and_Bases/14.05:_Reactions_of_Acids_and_Bases",
+    "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/04:_Reactions_in_Aqueous_Solution/4.07:_Acid_Base_Reactions",
+    "https://www.physicsclassroom.com/tutorial/acids-and-bases/acid-base-neutralization-reactions/acid-base-neutralization-reactions",
+    "https://openoregon.pressbooks.pub/gschemistry/chapter/4-3-acid-base-reactions/",
+    "https://studylib.net/doc/9488785/chapter-9--monoprotic-acids-and-bases",
+    "https://www.chemistrylearner.com/chemical-reactions/acid-base-reaction",
+    "https://www.pearson.com/channels/analytical-chemistry/study-guides/monoprotic-acid-base-equilibria-strong-and-weak",
+    "https://en.wikibooks.org/wiki/General_Chemistry/Reactions_of_Acids_and_Bases",
+    "https://pathwaystochemistry.com/study-guide-general-chemistry-1/reaction-in-aqueous-solution/neutralization-reactions-acids-and-bases/",
+    "https://pressbooks.bccampus.ca/chem1114langaracollege/chapter/neutralization-reactions/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 推移",
+   "results": [
+    "https://www.akc.org/expert-advice/health/best-running-dogs/",
+    "https://www.thepioneerwoman.com/home-lifestyle/pets/g69221089/best-dog-breeds-for-running/",
+    "https://therunexperience.com/the-best-dog-breeds-for-runners/",
+    "https://findoutaboutdogs.com/dog-breeds/best-dog-breeds-for-running/",
+    "https://marathonhandbook.com/the-best-running-dogs/",
+    "https://www.runnersworld.com/uk/training/motivation/a64378081/best-dog-breeds-for-runners/",
+    "https://www.dognotebook.com/best-dog-breeds-for-runners-and-joggers/",
+    "https://www.thesprucepets.com/best-dog-breeds-for-runners-4153999",
+    "https://www.animalhearted.com/blogs/dogs/dog-breeds-running-hiking",
+    "https://www.dogster.com/dog-health-care/do-dogs-need-to-run/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 統計 PDF",
+   "results": [
+    "https://www.worldomni.com/",
+    "https://www.worldomni.com/worldomni.html",
+    "https://www.worldomni.com/faq.html",
+    "https://www.worldomni.com/asset_securities.html",
+    "https://www.worldomni.com/abs/WOLS_2025_A_Final_Prospectus.pdf",
+    "https://www.worldomni.com/about.html",
+    "https://www.worldomni.com/presentations.html",
+    "https://www.worldomni.com/asset.html",
+    "https://www.worldomni.com/abs/WOART_2026_A_Final_Prospectus.pdf",
+    "https://www.worldomni.com/abs/WOART_2026_B_Final_Prospectus.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.spanishdict.com/translate/mí",
+    "https://www.spanishdict.com/answers/131513/sounds-like-mi-ha-what-does-it-mean",
+    "https://www.spanishdict.com/translate/mi+nombre+es",
+    "https://www.spanishdict.com/translate/chupa+mi+pito",
+    "https://www.spanishdict.com/answers/235554/yo-me-mi-or-m",
+    "https://www.spanishdict.com/translation",
+    "https://www.spanishdict.com/translate/a+mí",
+    "https://www.spanishdict.com/answers/109273/mi-and-m-difference-help-p-accent-mark",
+    "https://www.spanishdict.com/translate/a+mí+me+gusta",
+    "https://www.spanishdict.com/translate/te+amo,+mi+amor"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 従業者規模別",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/announcing-native-nvme-in-windows-server-2025-ushering-in-a-new-era-of-storage-p/4477353",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+    "https://techcommunity.microsoft.com/category/microsoft-security"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 1人当たり 万円",
+   "results": [
+    "https://en.wikipedia.org/wiki/YouTube",
+    "https://www.youtube.com/",
+    "https://www.facebook.com/youtube/",
+    "https://about.youtube/",
+    "https://x.com/YouTube",
+    "https://blog.youtube/",
+    "https://www.youtube.com/youtube",
+    "https://www.britannica.com/topic/YouTube",
+    "https://accounts.google.com/InteractiveLogin?service=youtube",
+    "https://www.youtube.com/feed"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 2015 2025",
+   "results": [
+    "https://preparedmontessorian.com/",
+    "https://preparedmontessorian.com/admissions",
+    "https://preparedmontessorian.com/category/montessori-teacher-diploma",
+    "https://preparedmontessorian.com/join_pmi",
+    "https://preparedmontessorian.com/programs/montessori-essentials",
+    "https://preparedmontessorian.com/course-finder",
+    "https://preparedmontessorian.com/team",
+    "https://preparedmontessorian.com/programs/montessori-teacher-diploma-3-6",
+    "https://preparedmontessorian.com/programs/montessori-teacher-diploma-6-12",
+    "https://preparedmontessorian.com/blog/first-international-partnership-launched-sol-international-montessori-training-center-in-vietnam"
+   ]
+  },
+  {
+   "query": "census of manufactures employees breakdown regular temporary part-time by size Japan statistics",
+   "results": [
+    "https://en.wikipedia.org/wiki/Census",
+    "https://www.census.gov/",
+    "https://www.census.gov/data.html",
+    "https://data.census.gov/",
+    "https://www.archives.gov/research/census",
+    "https://www.usa.gov/census-data",
+    "https://censusreporter.org/profiles/16000US0662938-roseville-ca/",
+    "http://portal.census.gov/",
+    "https://census2030planningmap.us/",
+    "https://data.census.gov/profile/City,_VS?g=160XX00US0662938"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://login.morganstanleyclientserv.com/ux/",
+    "https://www.morganstanley.com/im/en-us/individual-investor/login.html",
+    "https://morgans.org/",
+    "https://www.morganstanley.com/im/morgan-stanley-group-treasury-icav-fo1/login.html",
+    "https://atwork.morganstanley.com/solium/servlet/userLogin",
+    "https://www.morganstanley.com/wealth-general/digital-solutions",
+    "https://www.morganstanley.com/",
+    "https://www.morganstanley.com/what-we-do/wealth-management/download-morgan-stanley-mobile-app",
+    "https://www.morgan.edu/",
+    "https://www.morgandetoi.com/"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "https://www.thomasedison.org/",
+    "https://www.nps.gov/edis/learn/historyculture/edison-biography.htm",
+    "https://worldhistoryedu.com/thomas-edison-biography-facts-inventions-and-accomplishment/",
+    "https://www.britannica.com/biography/Thomas-Edison",
+    "https://www.history.com/articles/thomas-edison",
+    "https://www.biography.com/inventors/thomas-edison",
+    "https://fi.edu/en/science-and-education/collection/edisons-lightbulb",
+    "https://www.thomasedison.org/inventions",
+    "https://www.history.com/articles/thomas-edison-inventions"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://tutorialtactic.com/blog/windows-explorer-shortcuts/",
+    "https://www.majorgeeks.com/content/page/the_ultimate_list_of_every_known_file_explorer_keyboard_shortcut.html",
+    "https://www.webnots.com/keyboard-shortcuts-for-file-explorer-in-windows-11/",
+    "https://www.thewindowsclub.com/file-explorer-keyboard-shortcuts-windows-10",
+    "https://www.excelcampus.com/tips-shortcuts/file-explorer-shortcuts/",
+    "https://www.howtogeek.com/661247/how-to-open-file-explorer-with-a-keyboard-shortcut-on-windows-10/",
+    "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows",
+    "https://learn.microsoft.com/en-us/answers/questions/4279705/windows-11-file-explorer-quick-access-keyboards-sh",
+    "https://laptopjudge.com/windows-file-explorer-shortcuts-open-quick-access/",
+    "https://img.webnots.com/2025/07/Keyboard-Shortcuts-for-File-Explorer-in-Windows-11.pdf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://tobychristie.com/nascar/oreilly-series/race-results-2026-nascar-oreilly-series-the-progress-group-250-at-talladega/",
+    "https://www.newsbreak.com/sportsnaut-509592/4978993671362-nascar-o-reilly-series-results-carson-kvapil-wins-national-debt-relief-250-nascar-oars-results-at-martinsville",
+    "https://www.nascarschedule.org/nascar-oreilly-series-results",
+    "https://www.motorbiscuit.com/who-won-the-nascar-oreilly-auto-parts-series-race-at-las-vegas-full-race-results/",
+    "https://www.hendrickmotorsports.com/news/2026/october/24/nascar-o-reilly-series-results-points-standings-corey-day-finishes-sixth-at-talladega-carves-into-chase-deficit",
+    "https://sports.yahoo.com/articles/nascar-o-reilly-series-results-230351644.html?fr=sycsrp_catchall",
+    "https://frontstretch.com/2026/10/31/carson-kvapil-wins-oreilly-chase-race-at-martinsville/",
+    "https://sports.yahoo.com/articles/race-results-2026-noaps-focused-025943644.html?fr=sycsrp_catchall",
+    "https://www.aol.com/articles/won-nascar-oreilly-series-martinsville-231638000.html",
+    "https://motorsportswire.usatoday.com/story/sports/motor/nascar/2026/09/06/sheldon-creed-wins-nascar-oreilly-race-darlington-2026-chase/91640437007/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） note 社長",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/announcing-native-nvme-in-windows-server-2025-ushering-in-a-new-era-of-storage-p/4477353",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+    "https://techcommunity.microsoft.com/category/microsoft-security"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） X 投稿",
+   "results": [
+    "https://social.microsoft.com/Forums/partner/en-US/6b814cfd-6b29-45e4-a02d-c4f30a12149f/microsoft-surface-pro-effective-device-resolution",
+    "https://social.microsoft.com/Forums/ja-JP/89cc1c3e-2216-4271-8303-5c3d0cce3e19/how-to-share-your-feedback-on-the-new-design",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/e01d9723-e52a-4faf-9138-40e00543fdff",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/windows_10-windows_install/無料ｗｉｎ/c2d55ab7-c1e8-4dea-a078-61e5076b3814一部引用Windows10をライセンス認証できない理由上記にも下記の記載があるのでデバイスが変更されたらだめなようです＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊Windows7ServicePack1またはWindows8.1Updateから無償でWindows10にアップグレードした無償でWindows10にアップグレードした後、ライセンス認証されていない状態になった場合は、次の手順を実行してみてください。1.[スタート]ボタン画像を選択し、[設定]、[更新とセキュリティ]、[ライセンス認証]の順に選びます。2.[ストアに移動]を選択し、お使いのデバイスに適用できる有効なライセンスがあるかどうかを確かめます。使用できるライセンスがない場合は、ストアからWindowsを購入する必要があります。注意&",
+    "https://social.microsoft.com/Forums/Azure/en-US/f0d5e81c-a6db-439e-a78a-c51e27f910f1/biztalk-prons-and-cons-using-as-a-middle-layer-between-crm-2011-and-integration-with-other-system",
+    "https://social.microsoft.com/Forums/de-DE/17efae89-a247-4b4d-b70b-bb504704c7e1/what-the-best-way-to-check-task-baseline-status-on-pwa-with-formula",
+    "https://social.microsoft.com/Forums/en-US/ec7b3d28-fc83-4945-a8e2-54dc00c60fae/itextsharp-net-pdf-library-excluderemove-columns-based-on-values-in-table-cells",
+    "https://social.microsoft.com/Forums/en-US/29c7f53b-8ad4-4a9f-ad2b-487d5525b3ea/comparing-cells-between-rows-and-summing-them",
+    "https://social.microsoft.com/Forums/en-US/1c926675-4594-47d3-9788-920d7ca674c3/whs-after-reloading-whs-i-can-see-all-the-file-but-cant-open-them",
+    "https://social.microsoft.com/forums/en-US/042af8b9-8b0c-4e96-8c42-d25f8ba1cf96/data-corruption-when-to-get-the-fix"
+   ]
+  },
+  {
+   "query": "census of manufactures employees breakdown regular temporary part-time by size site:linkedin.com",
+   "results": [
+    "https://en.wikipedia.org/wiki/Census",
+    "https://www.census.gov/",
+    "https://www.census.gov/data.html",
+    "https://data.census.gov/",
+    "https://data.census.gov/profile/City,_VS?g=160XX00US0662938",
+    "https://www.archives.gov/research/census",
+    "https://www.usa.gov/census-data",
+    "https://censusreporter.org/profiles/16000US0662938-roseville-ca/",
+    "http://portal.census.gov/",
+    "https://census2030planningmap.us/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

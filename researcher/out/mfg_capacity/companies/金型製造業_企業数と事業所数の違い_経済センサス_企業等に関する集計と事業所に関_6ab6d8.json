@@ -1,0 +1,569 @@
+{
+ "name": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+ "en": "Japan die and mold manufacturing number of enterprises vs establishments economic census",
+ "aliases": [
+  "経済センサス 企業等に関する集計 金型製造業 企業数",
+  "経済センサス 事業所に関する集計 金型製造業",
+  "金型製造業 企業数 事業所数 違い"
+ ],
+ "context": "業種・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:35:35.516750+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kanagata-shimbun.com/220910special-haikei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-twin.co.jp/column/articles/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01268/00164/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsump.co.jp/60th/chap05/sec_02_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004035171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004029520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/ee4ca90851f3aa9bc80048786af269a8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.tokorozawa.saitama.jp/kurashi/shigotojyoho/sangyo/kogyo/sangyo_20120509151244612.files/dai2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crefty.jp/industry/machinery-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.seki.lg.jp/cmsfiles/contents/0000004/4761/kogyo_R6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.doyu.jp/topics/060415-112305",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2021/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/10068/business-enterprises-in-japan/?srsltid=AYCX9vKIKPr2gq0ePFzZeIYYY0phdFUpAnUgNpmhlMosCvJWZTSMgkGI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/papers/contribution/kawaguchi/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagurok.com/paper/dynamics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 人手不足 受注 断る",
+   "results": [
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://i-twin.co.jp/column/articles/manufacturing-labor-shortage",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01268/00164/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 受注残 人手不足",
+   "results": [
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/08/news017.html",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.automation-news.jp/2026/01/99782/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.city.tokorozawa.saitama.jp/kurashi/shigotojyoho/sangyo/kogyo/sangyo_20120509151244612.files/dai2.pdf",
+    "https://www.etisa.or.jp/Taro-mokujikanagata.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://media.crefty.jp/industry/machinery-manufacturing/",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.city.seki.lg.jp/cmsfiles/contents/0000004/4761/kogyo_R6.pdf",
+    "https://www.pref.yamagata.jp/documents/46046/00_zentai.pdf",
+    "https://www.doyu.jp/topics/060415-112305"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.doyu.jp/topics/060415-112305",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing number of enterprises vs establishments economic census Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/e-census/2021/outline.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.statista.com/topics/10068/business-enterprises-in-japan/?srsltid=AYCX9vKIKPr2gq0ePFzZeIYYY0phdFUpAnUgNpmhlMosCvJWZTSMgkGI",
+    "https://www.rieti.go.jp/en/papers/contribution/kawaguchi/04.html",
+    "https://www.zhuxuanli.com/paper/dynamics.pdf",
+    "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.oecd.org/en/data/indicators/enterprises-by-business-size.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+   "results": [
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7",
+    "https://note.com/dear_hyssop6712/n/n33ce8b7198a7",
+    "https://note.com/okabiz/n/n745365c17ecc",
+    "https://note.com/3n7no_tech_pr/n/n0a7336f235ac",
+    "https://note.com/yomusanchi/n/n905f4ab6d5e0",
+    "https://note.com/victorconsulting/n/n9048cb99eb58",
+    "https://note.com/dymol/n/n7ebde14c013a",
+    "https://note.com/sakai_innovation/n/n22bc23a64e3f",
+    "https://note.com/rm_sasaki/n/ned8a3f501c09"
+   ]
+  },
+  {
+   "query": "site:x.com 金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+   "results": [
+    "https://x.com/Asahi_Shakai/status/2117050261537726838",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://x.com/i/trending/2100391402257440927",
+    "https://x.com/Matsuno_Mold/status/2102546579232280721",
+    "https://x.com/hashtag/%E9%87%91%E5%9E%8B",
+    "https://x.com/Matsuno_Mold/status/2101806905681461500",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/asahicom/status/2117028923821240484",
+    "https://x.com/i/trending/2102617203036106778"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E9%AB%98%E5%9C%A7%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E5%88%87%E6%96%AD%E6%A9%9F%E3%81%AE%E8%B2%A9%E5%A3%B2%E5%AE%9F%E7%B8%BE%E4%BA%8B%E6%A5%AD%E6%89%80%E6%95%B0%E9%9B%87%E7%94%A8%E5%8B%95%E5%90%91cagr-712026%E5%B9%B42033%E5%B9%B4-creance-core-zhiaf",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%9F%BC%E7%8E%89%E7%9C%8C%EF%BC%8F%E6%9D%B1%E6%9D%BE%E5%B1%B1%E3%80%91%E2%97%86%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC%E2%80%BB%E8%AA%B2%E9%95%B7%E5%80%99%E8%A3%9C%E3%80%8A%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E5%8A%A0%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E7%B4%8440%EF%BC%85%E3%81%AB%E4%BD%BF%E7%94%A8%E3%80%8B%E2%97%86%E8%BB%A2%E5%8B%A4%E7%84%A1-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482735026",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%8D%83%E8%91%89%E3%83%BB%E9%87%8E%E7%94%B0%EF%BC%8F%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99%E5%8F%AF%E3%80%91%E9%87%91%E5%9E%8B%E8%A8%AD%E8%A8%88-%E6%A8%B9%E8%84%82%E6%88%90%E5%9E%8B%EF%BC%89%E2%80%BB%E7%94%9F%E7%94%A3%E6%94%B9%E5%96%84%E3%83%BB%E5%8E%9F%E4%BE%A1%E4%BD%8E%E6%B8%9B%E6%B4%BB%E5%8B%95%E3%81%8C%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%8F%E5%B9%B4%E4%BC%91125%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488006476",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%95%8C%E3%83%BBse%E3%81%8B%E3%82%89%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E6%AD%93%E8%BF%8E%E3%80%91%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E5%96%B6%E6%A5%AD%E2%80%BB%E8%87%AA%E7%A4%BE%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482717952",
+    "https://jp.linkedin.com/company/leverages-us",
+    "https://jp.linkedin.com/pulse/%E5%88%86%E8%A7%A3%E6%80%A7%E7%B4%A0%E6%9D%90%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E5%A3%B2%E4%B8%8A%E9%AB%98%E4%BA%8B%E6%A5%AD%E6%89%80%E6%95%B0%E9%9B%87%E7%94%A8%E5%8B%95%E5%90%91cagr1292026-2033-datum-drive-ugj0f",
+    "https://jp.linkedin.com/in/sakakura-kouji-1a7a8766",
+    "https://jp.linkedin.com/jobs/view/%E7%B7%8F%E5%90%88%E9%9B%BB%E6%A9%9F%E3%83%BB%E6%A9%9F%E6%A2%B0-manufacturing-business-unit%EF%BC%88strategy-consultant%E8%81%B7%EF%BC%89%E2%89%AA%E6%9D%B1%E4%BA%AC%E2%89%AB-at-abeam-consulting-4482875069",
+    "https://jp.linkedin.com/in/shinsukenagaobf",
+    "https://jp.linkedin.com/directory/articles"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45）",
+   "results": [
+    "https://www.facebook.com/asahicom/videos/t261024_%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%9E%8B%E6%A5%AD%E8%80%85%E3%81%8C%E6%B8%9B%E5%B0%91mxmp4/1661230312217847/",
+    "https://www.facebook.com/yasuo.mizuno/posts/12%E5%B9%B4%E5%89%8D/28864454819872657/",
+    "https://www.facebook.com/gisc.gujo/posts/%E9%83%A1%E4%B8%8A%E5%B8%82%E5%86%85%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E8%87%AA%E7%A4%BE%E3%81%AE%E5%BC%B7%E3%81%BF%E3%82%84%E6%8A%80%E8%A1%93%E8%A3%BD%E5%93%81%E3%82%92%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E3%81%A7%E3%81%99-%E7%8F%BE%E5%9C%A8%E7%9C%8C%E3%81%AE%E5%B2%90%E9%98%9C%E7%9C%8C%E7%94%A3%E6%A5%AD%E7%B5%8C%E6%B8%88%E6%8C%AF%E8%88%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E5%B2%90%E9%98%9C%E7%9C%8C%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BC%81%E6%A5%AD%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF%E6%8E%B2%E8%BC%89%E4%BC%81%E6%A5%AD%E3%82%92%E5%8B%9F%E9%9B%86/1450519800215807/",
+    "https://www.facebook.com/p/%E9%87%91%E5%9E%8B%E9%83%A8%E5%93%81%E3%81%AE%E3%83%86%E3%82%A4%E3%83%88-61557642395687/",
+    "https://www.facebook.com/yasuo.mizuno/posts/28927495960235209/",
+    "https://www.facebook.com/tohoku.kanagata/",
+    "https://www.facebook.com/cbre.co.jp/posts/bz%E7%A9%BA%E9%96%93%E7%A7%8B%E5%AD%A3%E5%8F%B7%E3%81%AEweb%E7%89%88%E8%A8%98%E4%BA%8B%E3%82%92%E5%85%AC%E9%96%8B%E4%B8%96%E7%95%8C%E6%9C%89%E6%95%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E7%94%A3%E6%A5%AD%E3%81%8C%E9%9B%86%E7%A9%8D%E3%81%99%E3%82%8B-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A8%E6%96%B0%E3%81%9F%E3%81%AA%E6%8A%80%E8%A1%93%E3%81%AE%E8%9E%8D%E5%90%88%E3%82%92%E4%BF%83%E3%81%97%E6%8C%91%E6%88%A6%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E8%BF%8E%E3%81%88%E5%85%A5%E3%82%8C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%81%E6%A5%AD%E7%AB%8B%E5%9C%B0%E6%88%A6%E7%95%A5%E3%81%A8%E3%81%AF%E9%80%B2%E5%87%BA%E3%82%92/1616727260468025/",
+    "https://www.facebook.com/unibird.biz/posts/-%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E7%9A%86%E3%81%95%E3%82%93%E3%81%B8-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86-%E5%8B%A4%E5%8B%99%E5%9C%B0%E5%AE%AE%E5%9F%8E%E7%9C%8C%E5%A4%A7%E5%B4%8E%E5%B8%82-%E9%9B%87%E7%94%A8%E5%BD%A2%E6%85%8B%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%B5%8C%E9%A8%93%E3%82%84%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E5%83%8D/1759535176175760/",
+    "https://www.facebook.com/camarajaponesapy/posts/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4%E3%81%A7%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B%E3%81%8C%E6%80%A5%E5%A2%971%E6%97%A5%E5%B9%B3%E5%9D%8738%E7%A4%BE%E3%81%AB19%E6%9C%88%E3%81%AE%E8%A8%AD%E7%AB%8B%E4%BB%B6%E6%95%B0%E3%81%AF1%E4%B8%87356%E7%A4%BE%E5%89%8D%E5%B9%B4%E6%AF%9441%E5%A2%97abc-%E3%82%B3%E3%83%AD%E3%83%BC%E3%83%AB%E7%B4%99%E6%8A%84%E8%A8%B3-%E5%9B%BD%E5%AE%B6%E7%A8%8E%E5%8B%99%E6%AD%B3%E5%85%A5%E5%BA%81dnit%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A82026%E5%B9%B41%E6%9C%88%E3%81%8B%E3%82%899%E6%9C%88/1585716950250068/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） note 社長",
+   "results": [
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.projectdesign.jp/articles/news/146599f9-7701-4325-8026-b9f76a57be03",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://note.com/dear_hyssop6712/n/n33ce8b7198a7",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業 企業数と事業所数の違い（経済センサス 企業等に関する集計と事業所に関する集計・会社数か工場数か・4-45） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.rieti.go.jp/jp/publications/nts/25j022.html",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://factoryadvance.jp/blog/565/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013822678736971"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing number of enterprises vs establishments economic census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/fred-gale-a798314",
+    "https://www.linkedin.com/in/doug-moody-ca",
+    "https://www.linkedin.com/in/neal-mcnamara-78b55b14",
+    "https://www.linkedin.com/in/anupama-garani",
+    "https://www.linkedin.com/in/tammy-swaney-0b1048b",
+    "https://www.linkedin.com/in/kory-anderson-54476418",
+    "https://www.linkedin.com/pulse/what-odyssey-can-teach-us-vertical-farming-henry-gordon-smith-qy0re",
+    "https://www.linkedin.com/in/stephentsears",
+    "https://in.linkedin.com/in/swaminathan-s-b916107",
+    "https://www.linkedin.com/in/kbcea"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

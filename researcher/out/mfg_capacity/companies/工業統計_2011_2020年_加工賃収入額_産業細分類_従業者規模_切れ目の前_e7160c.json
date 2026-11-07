@@ -1,0 +1,1561 @@
+{
+ "name": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+ "en": "Census of Manufacture Japan processing fee revenue by detailed industry and size 2011-2020",
+ "aliases": [
+  "site:meti.go.jp 工業統計表 産業別統計表 加工賃収入額 従業者規模別",
+  "工業統計調査 確報 産業細分類別 加工賃収入額 2019",
+  "filetype:xlsx 工業統計 産業細分類 従業者規模 加工賃"
+ ],
+ "context": "一次・切れ目の前",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:31:37.115194+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "1200 1．（２） ← 概要版1200 1．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「従業者規模区分」を10区分から６区分へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「従業者規模区分」を10区分から６区分へ変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編1100 第１部 1． ・「事業所数」「事業所敷地面積」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編2100 第２部 1． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1120 １．（１） ② ← 産業編3110 ３． （１） ① ・「従業者規模区分」を表頭から表側へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1220 １．（２） ② ← 産業編3220 ３．（２） ② ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編1300 第１部 ３． ・「事業所数」「事業所敷地面積」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編2300 第２部 ３． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1200 1．（２） → 概要版1200 1．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2200 ２．（２） → 産業別統計表2300 ２．（３） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．従業者規模別統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、事業所敷地面積及び１日当たり水源別用水量",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：２．従業者規模別統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０２０年工業統計表 産業別統計表 2200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：産業分類 事業所数 従業者数 現金給与",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：事業所数 年次 Number of establishments Years 217601事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：事業所数 年次 Number of establishments Years 191339事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：事業所数 年次 Number of establishments Years 188249事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：事業所数 年次 Number of establishments Years 185116事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：事業所数 年次 Number of establishments Years 181877事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：事業所数 年次 Number of establishments Years 28239事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：事業所数 年次 Number of establishments Years 25466事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：事業所数 年次 Number of establishments Years 24892事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "6 従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従業者数 （平成29年6月1日現在） （単位：人）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【例】男：⑥７人 － ⑤２人 － ⑦１人 ＋ ⑧１人 ＝ ５人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "女：⑥５人 － ⑤０人 － ⑦０人 ＋ ⑧１人 ＝ ６人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "男女計： ５人 ＋ ６人 ＝ １１人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜その 1＞「6 従業者数」の書き方が変わりました",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1500 1．（５） ← 品目編1500 第１部 ５． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1600 1．（６） ← 品目編1600 第１部 ６． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業編1210 1．（２） ① ・表中の「常用労働者」項目名を削除、 「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1300 1．（３） ← 産業編1310 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2200 ２．（２） ← 産業編2100 ２．（１） ・「常用労働者年間月平均数（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "但し、従業者30人以上の事業所に関する統計表の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、30人以上の３区分のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「有形固定資産年末現在高（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者30人以上）」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1500 第１部 ５． → 品目別統計表1500 １．（５） ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」 に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1600 第１部 ６． → 品目別統計表1600 １．（６） ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」 に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1210 1．（２） ① → 産業別統計表1200 1．（２） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を 表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1310 1．（３） → 産業別統計表1300 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） → 産業別統計表2200 ２．（２） ・「常用労働者年間月平均数（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者30人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（3）従業者4～29人の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（3）従業者30人の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者４人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "推計による従業者３人以下の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（２）従業者３０人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（３）従業者４～２９人の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（２）従業者４人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０２０年工業統計表 産業別統計表 2200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（３）従業者３０人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "推計による従業者３人以下の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：・従業者4人以上の製造事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：産業分類 事業所数 従業者数 現金給与",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者29人以下は",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：年次 （人） （百万円） （百万円） （百万円） （百万円）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：従業者数 （人） Number of persons engaged （persons） 7497792人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：従業者数 （人） Number of persons engaged （persons） 7571369人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「11 製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額」、「12 製造品出荷額、在庫額等」、「13 12 のア、ウ、エの合計金額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「10 製造品出荷額等」、「11 10 のア、イ、ウの合計金額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満、300～1000万円を1000万円未満に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円～1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円を5千万円～3億円に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3～10億円、10～100億円、100億円以上を3億円以上に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３． ← 市区町村編2000 ２． ・「製造品出荷額等」のうち、「内その他収入額」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者30人以上）」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）産業細分類別事業所数、従業者数、製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：年次 （人） （百万円） （百万円） （百万円） （百万円）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額） （百万円） Value added (Gross value adde 98028029百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 33665749百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 185992395百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 302185204百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額） （百万円） Value added (Gross value adde 97341636百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 34366213百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 199048032百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 319035840百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "<2021年実績> 以降",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2020年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2019年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2018年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成29(2017)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成28(2016)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27(2015)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022.12.26",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「除却額」を「除却・売却による減少額」に名称変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に表示変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仮勘定（増加額）」、「除却・売却による減少額」、「減価償却額」の計算式用アルファベットを変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「除却額」を「除却・売却による減少額」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定（増加額）」「除却・売却による減少額」「減価償却額」の計算式用アルファベット変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・時系列（5年）追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３． ← 企業統計編2100 ２．（１） ・時系列（5年）追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定（増加額）」「除却額」「減価償却額」の計算式用アルファベット変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造業計に時系列（5年）を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査の廃止のお知らせ（2022年4月1日）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2022年以降は",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 地域別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 品目別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月13日 「2020年確報 産業別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 5月28日 「2020年産業別統計表（概要版）」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 3月26日 「2020年速報」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2023.05.12",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2021.08.13",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：２０２０年工業統計表 産業別統計表 Report by Industry of the 2020 Census",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "INDEX：令和3(2021)年 8月13日公表 2021/8/13",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 時系列表中の平成27（2015）年における数値は、「平成28年経済センサス-活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：2020年工業統計表 産業別統計表データ 令和3(2021)年8月13日掲載",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：※ 2015年の数値（斜体部分）については、平成28年経済センサス－活動調査 製造業（産業編）（総務省・経済産業省）から転載した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：産業分類 年次 Industries Years 2015",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：産業分類 年次 Industries Years 2016",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：産業分類 年次 Industries Years 2017",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：産業分類 年次 Industries Years 2018",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：産業分類 年次 Industries Years 2019",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：産業分類 年次 Industries Years 2015",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：産業分類 年次 Industries Years 2016",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：産業分類 年次 Industries Years 2017",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：産業分類 年次 Industries Years 2018",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 18202132百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：食料品製造業：産業分類 年次 Industries Years 2019",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：畜産食料品製造業：産業分類 年次 Industries Years 2015",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 概要版3000 ３． ・「有形固定資産投資総額」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1100 1．（１） ← 産業編1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「有形固定資産年末現在高（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３．（１） → 概要版2000 ２． ・「有形固定資産投資総額」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1100 1．（１） → 産業別統計表1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "300万円未満、300～1000万円を1000万円未満に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円～1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円を5千万円～3億円に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：年次 （人） （百万円） （百万円） （百万円） （百万円）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "1100：製造業計：付加価値額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額） （百万円） Value added (Gross value adde 98028029百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 33665749百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 185992395百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 302185204百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額） （百万円） Value added (Gross value adde 97341636百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 34366213百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 199048032百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 （百万円） Value of manufactured goods shipments （mil. 319035840百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額） （百万円） Value added (Gross value adde 103408282百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "総 額 （百万円） Total cash wages and salaries （mil. yen） 35440757百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   },
+   {
+    "quote": "使用額等 （百万円） Cost of raw materials, fuels and electricit 210355697百万円",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls",
+    "status": "http_202",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h30/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "browser:seed"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000034247.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000066638.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448106",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ecitizen.jp/statdb/StatsTitleList/00550010?statsname=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB+%E7%A2%BA%E5%A0%B1+%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%90%E5%B9%B4%E7%A2%BA%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/hinmoku/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indb.co.jp/wp-content/themes/in/service/economy/cdrom/update/pdf/kogyo_R0201.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?tclass=000001145041&cycle=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.shibuya.tokyo.jp/kusei/kuni_kikamtokei/kogyo_tokei_syosa/05kogyo_2020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_R3kougyou_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-explorer.oecd.org/vis?lc=en&df%5Bds%5D=DisseminateFinalDMZ&df%5Bid%5D=DSD_REV_ASAP%40DF_REVJPN&df%5Bag%5D=OECD.CTP.TPS&df%5Bvs%5D=2.1",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.okayama.jp/shisei/0000034247.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.city.okayama.jp/shisei/0000066638.html"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Publish/Analysis/News/089EconomicCensus2016E.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_R3kougyou_gaiyou.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan processing fee revenue by detailed industry and size 2011-2020 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/",
+    "https://data-explorer.oecd.org/vis?lc=en&df[ds]=DisseminateFinalDMZ&df[id]=DSD_REV_ASAP%40DF_REVJPN&df[ag]=OECD.CTP.TPS&df[vs]=2.1",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.statista.com/topics/7755/it-industry-in-japan/?srsltid=AYCX9vJFbnUbvDFGtvdjRwNcxEDjlrmnZ1m6IjPItZJcoJw6mMFXooU1",
+    "https://www.e-stat.go.jp/en",
+    "https://www.jama.org/wp-content/uploads/2013/12/The-Motor-Industry-of-Japan-2011-Publications-Industry-Report-2011.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+   "results": [
+    "https://note.com/taguchi_yasutomo/n/ne96b7d8b4443",
+    "https://note.com/haruwayuki/n/n5b00d1b0dd68",
+    "https://note.com/everprogress/n/n2abc7fc606a0",
+    "https://note.com/jdex/n/nf11ac02ad16a",
+    "https://note.com/nekota_toure/n/nd586b1acbf87",
+    "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
+    "https://note.com/medicalconsult/n/n76645607f55b",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/nekota_toure/n/nb33bae8958d2",
+    "https://note.com/datamanagement/n/n43709725e616"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2096394600240066712",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://jf.x.com/images/media-preview/2114631358681419903",
+    "https://jf.x.com/images/media-preview/2113530502481379668",
+    "https://jf.x.com/images/media-preview/2106036826972770662",
+    "https://x.com/masashi_i/status/2084834106253472010",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/take_morikawa/status/2086774364356456922",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+   "results": [
+    "https://jp.linkedin.com/pulse/ルアドイアション-加工市場の最新動向主要企業市場細分化と将来展望2026年版-sos-pro-market-sphere-7cgof",
+    "https://jp.linkedin.com/pulse/シュイート-金属-加工-設備市場の最新動向主要企業市場細分化と将来展望2026年版-evidence-craft-0ztwf",
+    "https://jp.linkedin.com/pulse/クアントウム-インフオルムアション-加工市場の最新動向主要企業市場細分化と将来展望2026年版-0wvuf",
+    "https://jp.linkedin.com/pulse/maximizing-income-industrial-machinery-manufacturing-lean-cattermole?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26）",
+   "results": [
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/Deloitte.Japan/posts/デロイトは2020年5月31日までの会計年度fy20においてグローバルの合計業務収入が476億ドルとなり前会計年度から現地通貨ベースで55増米ドルベースで39増/3463407563742296/",
+    "https://www.facebook.com/ibaraki.tokei/posts/令和２年2020年茨城県産業連関表最新の茨城県産業連関表を公表しました簡易分析シートで経済波及効果の推計もできます茨城-産業-経済効果-httpswwwpref/1300057195500303/",
+    "https://www.facebook.com/bisai.monozukuri/",
+    "https://www.facebook.com/maffjapan/posts/令和2年水産加工統計調査結果をお知らせします1-食用加工品生産量焼味付のりを除くは143万6880ｔで前年に比べ７減少しました主な加工種類別の生産量は以下のとお/4298664780218782/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/",
+    "https://www.facebook.com/nagoyamosaic/posts/総合カタログ2020-2021発行のお知らせいつも名古屋モザイク工業をご利用くださいまして誠にありがとうございますこの度総合カタログ-2020-2021を発行致/1229678820558871/",
+    "https://www.facebook.com/KHHcustoms/posts/出口貨物統計方式05之代碼意義及英文說明已修正請業者正確填報以加速貨物通關內容-財政部關務署近期已公告修正關港貿作業代碼八統計方式一出口1應列統計之出口貨物項下/4512999978718453/"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.city.okayama.jp/shisei/0000034247.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "工業統計 2011〜2020年 加工賃収入額 産業細分類×従業者規模（切れ目の前・4-26） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000971",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan processing fee revenue by detailed industry and size 2011-2020 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jonathanbank",
+    "https://www.linkedin.com/in/muhammad-mohsin-raza",
+    "https://it.linkedin.com/in/claudio-vicarelli-49611012",
+    "https://www.linkedin.com/pulse/comprehensive-analysis-japan-downstream-processing-market-t01de",
+    "https://www.linkedin.com/pulse/japan-concentration-downstream-processing-market-future-growth-kg8bc",
+    "https://www.linkedin.com/pulse/japan-food-processing-system-market-insights-share-industry-rp5sc",
+    "https://www.linkedin.com/pulse/analyzing-global-japan-agriculture-food-processing-market-lzjjf",
+    "https://www.linkedin.com/pulse/japan-processing-equipments-market-size-drivers-tmief",
+    "https://www.linkedin.com/pulse/japan-pharmaceutical-processing-equipment-wxonc",
+    "https://www.linkedin.com/pulse/japan-orange-processing-market-size-drivers-digital-schif/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）"
+ }
+}

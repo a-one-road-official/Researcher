@@ -1,0 +1,275 @@
+{
+ "name": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+ "en": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010",
+ "aliases": [
+  "e-Stat 00550010 工業統計調査 産業別統計表 平成24年",
+  "e-Stat 工業統計表 産業編 平成25年 確報 xls",
+  "工業統計調査 平成26年確報 産業別統計表 e-stat"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:35:24.763380+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&layout=datalist&cycle=7&year=20100&month=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/ja/dataset/meti_20140901_0865/resource/93c47007-d1f2-488f-9c12-f7c969813e2e",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 人手不足 受注 断る",
+   "results": []
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2014.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&layout=datalist&cycle=7&year=20100&month=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 人手不足 損失 億円",
+   "results": []
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2014.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&layout=datalist&cycle=7&year=20100&month=0",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 推移",
+   "results": []
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2014.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&layout=datalist&cycle=7&year=20100&month=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://ja.wikipedia.org/wiki/工業統計調査",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.e-stat.go.jp/statistics/00550010"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/kougyou/2014.html",
+    "https://data.e-gov.go.jp/data/ja/dataset/meti_20140901_0865/resource/93c47007-d1f2-488f-9c12-f7c969813e2e",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2014/kg14q30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001045887&layout=datalist&cycle=7&year=20100&month=0"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010 Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/statistics/00550010",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/en/stat-search/",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "https://www.e-stat.go.jp/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://note.com/mankintan/n/n65f0fa60e38d",
+    "https://note.com/tobieigeography/n/n8cc997c2b7c5",
+    "https://note.com/human_symphony/n/nde11d09c3044",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/__name___/n/n68802c0bb801",
+    "https://note.com/stats47/n/nf28da95897e0",
+    "https://note.com/tommy_tomo/n/n536e3d2d10c3"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://x.com/GridBalance/status/2024066904550473758",
+    "https://x.com/soho_cad/status/2113805391037620285",
+    "https://x.com/paj_sekiren/status/2072173000452079897",
+    "https://x.com/gen_by_unit",
+    "https://x.com/che_che_che24/status/2105537113630654791",
+    "https://x.com/mizukiw330/status/2066863758421663820",
+    "https://x.com/BellCurve_stat"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/reel/2119100192188101/",
+    "https://www.facebook.com/groups/acctexcel/posts/1670846363788233/",
+    "https://www.facebook.com/tncia3020099/posts/excel-vba整合ai工具與大數據分析班第01期名額所剩不多ai工具及資料分析和形態excel資料處理分析函數進階應用excel-數據分析應用及ai工具應用/1275084681318927/",
+    "https://www.facebook.com/pcgaku/posts/公益財団法人大阪府工業協会様発行の商工振興に4月から連載コラムを担当させていただいています半分を過ぎ7回目になりました今回は初心者でも瞬時に集計できる数式不要の/6129635637106763/",
+    "https://www.facebook.com/JissoNews/photos/統計情報12月24日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年10月実績を追加経済産業省生産動態統計月報11月/1306493657946018/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） note 社長",
+   "results": []
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） X 投稿",
+   "results": []
+  },
+  {
+   "query": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://www.linkedin.com/pulse/statistical-procedures-medical-device-industry-wayne-taylor",
+    "https://in.linkedin.com/company/census",
+    "https://mx.linkedin.com/company/beaver-manufacturing-company-inc.",
+    "https://uk.linkedin.com/company/e-tabs",
+    "https://in.linkedin.com/company/mcelroy-manufacturing-inc",
+    "https://bg.linkedin.com/company/estat-ltd."
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ17頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ17頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ17頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ17頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ17頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ17頁・検索18回）",
+  "10年推移": "記載なし（読んだ17頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ17頁・検索18回）"
+ }
+}

@@ -1,0 +1,1160 @@
+{
+ "name": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+ "en": "Japan die and mold manufacturing employees establishments census of manufactures series",
+ "aliases": [
+  "工業統計 金型・同部分品・附属品製造業 従業者数 事業所数 推移",
+  "金型製造業 従業者数 工業統計 2014 2019 2020",
+  "site:meti.go.jp 工業統計 金型 従業者"
+ ],
+ "context": "工法・金型",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:26:55.860939+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "が大きい（倒産、廃業の情報が反映されづらい）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が大きい（倒産、廃業の情報が反映されづらい）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2023年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2023年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2023年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 10名以下の 20名以下の",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※旧工業統計と製造業事業所調査における「事業所数」の差異については P13を参照",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 2002年～2023年の事業所数推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（２０２３年／令和５年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額 ＆ 事業所数 （２０２３年／令和５年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ ×印は算出事業所数が１または２のため秘匿",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2024年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2024年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2024年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 10名以下の 20名以下の",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※旧工業統計と製造業事業所調査における「事業所数」の差異については P13を参照",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 2003年～2024年の事業所数推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（２０２４年／令和６年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額 ＆ 事業所数 （２０２４年／令和６年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ ×印は算出事業所数が１または２のため秘匿",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※1994年の旧工業統計は従業員1～3人が集計されていないので、1993年の資料をベースに算出",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 約11万8,000人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 10名以下の 20名以下の",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊印の1994年は、従業員３人以下規模集計されていないので1993年の３人以下規模の数値に1994年の４人以上規模の数値を加算させて",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９人以下 2,640 61.1% 141,189 9.9%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人～１９人 799 18.5% 165,420 11.5%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０人～２９人 385 8.9% 150,005 10.5%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３０人～９９人 404 9.3% 376,951 26.3%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人～２９９人 86 2.0%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３００人以上 7 0.2%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人～１９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０人～２９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３０人～９９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人～２９９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３００人以上",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人以上",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※1994年の旧工業統計は従業員1～3人が集計されていないので、1993年の資料をベースに算出",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 約11万8,000人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 10名以下の 20名以下の",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊印の1994年は、従業員３人以下規模集計されていないので1993年の３人以下規模の数値に1994年の４人以上規模の数値を加算させて",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９人以下 2,545 62.4% 136,583 9.4%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人～１９人 679 16.7% 155,486 10.7%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０人～２９人 347 8.5% 150,519 10.3%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３０人～９９人 417 10.2% 405,590 27.9%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人～２９９人 82 2.0%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３００人以上 7 0.2%",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０人～１９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０人～２９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３０人～９９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人～２９９人",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３００人以上",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１００人以上",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "１）金型生産額の推移 製造業事業所調査＆機械統計グラフ・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2023年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４）型種別の金型生産額 ・・・・・・・・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５）都道府県別金型生産額（上位10都道府県）（2023年）・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2023年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2023年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "型の生産額は金型の１事業所の生産額として集計",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産高 約1兆9,575億円 12,815事業所",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 2002年～2023年の生産額推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【型種別の金型生産額 構成比 ※2023年／令和5年】",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【構成比】 ※上位10都道府県おける型別生産額の構成比",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（２０２３年／令和５年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額 ＆ 事業所数 （２０２３年／令和５年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※生産額上位10エリア",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）金型生産額の推移 製造業事業所調査＆機械統計グラフ・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2024年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４）型種別の金型生産額 ・・・・・・・・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５）都道府県別金型生産額（上位10都道府県）（2024年）・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2024年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2024年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "型の生産額は金型の１事業所の生産額として集計",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産高 約1兆9,575億円 12,815事業所",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 2003年～2024年の生産額推移",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【型種別の金型生産額 構成比 ※2024年／令和6年】",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【構成比】 ※上位10都道府県おける型別生産額の構成比",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（２０２４年／令和６年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額 ＆ 事業所数 （２０２４年／令和６年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※生産額上位10エリア",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2023年（令和5年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）金型生産額の推移 製造業事業所調査＆機械統計グラフ・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2023年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５）都道府県別金型生産額（上位10都道府県）（2023年）・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2023年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2023年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 2022年調査（2021年実績）からは製造業事業所調査を使用",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧 工業統計調査が実施されなかった為経済センサ",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年 ２２年 1,087,388 ▲ 6.2 314,851 ▲ 0.3 3.45",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年 ２７年 1,376,759 2.6 382,100 8.0 3.60",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 ２８年 1,440,944 4.7 397,808 4.1 3.62",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 ２９年 1,525,782 5.9 420,529 5.7 3.63",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 ３０年 1,475,268 ▲ 3.3 400,570 ▲ 4.7 3.68",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 R元年 1,360,230 ▲ 7.8 398,765 ▲ 0.5 3.41",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 R２年 1,543,858 13.5 358,389 ▲ 10.1 4.31",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 R３年 1,400,481 ▲ 9.3 344,239 ▲ 3.9 4.07",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 R４年 1,468,405 4.9 355,620 3.3 4.13",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年（令和6年）",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）金型生産額の推移 製造業事業所調査＆機械統計グラフ・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）金型製造業の事業所・従業者数の推移・・・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３）従業員規模別、事業所数生産額（2024年）・・・・・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５）都道府県別金型生産額（上位10都道府県）（2024年）・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６）型種別都道府県別金型生産額および事業所数（2024年）・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７）型種別都道府県別金型生産額＆事業所数（2024年）・・・・・・",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 2022年調査（2021年実績）からは製造業事業所調査を使用",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧 工業統計調査が実施されなかった為経済センサ",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年 ２２年 1,087,388 ▲ 6.2 314,851 ▲ 0.3 3.45",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年 ２７年 1,376,759 2.6 382,100 8.0 3.60",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 ２８年 1,440,944 4.7 397,808 4.1 3.62",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 ２９年 1,525,782 5.9 420,529 5.7 3.63",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 ３０年 1,475,268 ▲ 3.3 400,570 ▲ 4.7 3.68",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 R元年 1,360,230 ▲ 7.8 398,765 ▲ 0.5 3.41",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 R２年 1,543,858 13.5 358,389 ▲ 10.1 4.31",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 R３年 1,400,481 ▲ 9.3 344,239 ▲ 3.9 4.07",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 R４年 1,468,405 4.9 355,620 3.3 4.13",
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kanagata-shimbun.com/220910special-haikei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004035171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gunma-eri.or.jp/indicator/pdf/40th/seizougyou.jigyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.seki.lg.jp/cmsfiles/contents/0000004/4761/kogyo_R6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/publications/summary/26050008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/events/documents/session_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 人手不足 受注 断る",
+   "results": [
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://business.ntt-east.co.jp/column/bizdrive/labor-shortage-manufacturing-5tips.html"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 受注残 人手不足",
+   "results": [
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2025.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.gunma-eri.or.jp/indicator/pdf/40th/seizougyou.jigyou.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.e-stat.go.jp/dbview?sid=0003389791"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.city.seki.lg.jp/cmsfiles/contents/0000004/4761/kogyo_R6.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/dbview?sid=0004035171"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing employees establishments census of manufactures series Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.rieti.go.jp/en/publications/summary/26050008.html",
+    "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "https://www.jil.go.jp/english/events/documents/session_1.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://note.com/fir_institute/n/nc0e0463b065d",
+    "https://note.com/yomusanchi/n/n905f4ab6d5e0",
+    "https://note.com/fisco_jp/n/n9726fea408ea",
+    "https://note.com/mangawakaru/n/nbfda216ef04f",
+    "https://note.com/quiet_myrtle840/n/n17ce08b4c4be",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/sms_gi/n/nd7d2a7341d55",
+    "https://note.com/lgstudio/n/nece96b2e55fb",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70"
+   ]
+  },
+  {
+   "query": "site:x.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/luigi_jpn/article/2089684200245100653",
+    "https://x.com/luigi_jpn/article/2095766103033282864",
+    "https://x.com/hori_AIdea/article/2099731263355793746",
+    "https://x.com/hibeto",
+    "https://x.com/hojokin_office",
+    "https://x.com/luigi_jpn/article/2096394600240066712",
+    "https://x.com/pop_ikeda/article/2034078678175649952",
+    "https://x.com/luigi_jpn/article/2110855379978702959"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://jp.linkedin.com/company/leverages-us",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E7%A6%8F%E5%B2%A1%E6%94%AF%E7%A4%BE%E3%80%91%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4438896988",
+    "https://jp.linkedin.com/showcase/career-executive-jp%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E6%9C%AD%E5%B9%8C%E3%80%91%E4%BC%9A%E8%A8%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%8F%AF%EF%BC%89-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4438898864",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E6%9C%AD%E5%B9%8C%E3%80%91%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4439007425",
+    "https://jp.linkedin.com/in/inho-k-982237kih",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%EF%BD%9C%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%80%91-%E2%94%80-%E5%BB%BA%E8%A8%AD%E6%A5%AD%E7%95%8C%E7%89%B9%E5%8C%96%E5%9E%8Bhr%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8C%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%8D-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%83%89%E3%83%91%E3%83%83%E3%83%89-4483861807",
+    "https://jp.linkedin.com/in/kazuki-kubota-830101115",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E7%A6%8F%E5%B2%A1%E6%94%AF%E7%A4%BE%E3%80%91%E4%BC%9A%E8%A8%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4439012273",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E6%9C%AD%E5%B9%8C%E3%80%91%E7%A8%8E%E5%8B%99%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E7%B5%8C%E9%A8%93%E8%80%85%E5%90%91%E3%81%91%EF%BC%89-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4439000732"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/posts/1538964444028781/",
+    "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E6%98%A8%E6%97%A5%E5%8D%83%E8%91%89%E7%9C%8C%E7%94%B7%E5%A5%B3%E5%85%B1%E5%90%8C%E5%8F%82%E7%94%BB%E5%A4%9A%E6%A7%98%E6%80%A7%E7%A4%BE%E4%BC%9A%E6%8E%A8%E9%80%B2%E4%BA%8B%E6%A5%AD%E6%89%80%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%9C%8C%E3%81%A7%E3%81%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E5%83%8D%E3%81%8F%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A9%8D%E6%A5%B5%E7%9A%84%E3%81%AA%E7%94%B7%E5%A5%B3%E5%85%B1%E5%90%8C%E5%8F%82%E7%94%BB%E3%81%AE%E5%8F%96%E7%B5%84%E3%82%92%E8%A1%8C%E3%81%86%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%92%E8%A1%A8%E5%BD%B0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97/25974726242170205/",
+    "https://www.facebook.com/sharoushi.river/posts/8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF118%E5%80%8D%E3%81%A7%E6%A8%AA%E3%81%B0%E3%81%84%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E3%81%AF%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%8F%E5%A3%B2%E3%81%A7%E6%B8%9B%E5%B0%91-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%882%E6%97%A5%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%81%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3/1555747776592047/",
+    "https://www.facebook.com/minshokyo/posts/%E5%8E%9A%E5%8A%B4%E7%9C%81%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E4%BA%8B%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%81%B7%E7%A8%AE%E5%88%A5%E6%89%8B%E6%95%B0%E6%96%99%E9%9B%A2%E8%81%B7%E7%8A%B6%E6%B3%81%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%91%EF%BC%92%E6%9C%88%EF%BC%92%EF%BC%95%E6%97%A5%E6%9C%A8%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8B%E3%82%89%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%81%B7%E7%A8%AE%E5%88%A5%E6%89%8B%E6%95%B0%E6%96%99%E9%9B%A2%E8%81%B7%E7%8A%B6%E6%B3%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C/863011129655238/",
+    "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99pdr%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9E%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E5%8C%BB%E8%96%AC%E5%93%81%E3%81%AE%E7%A0%94%E7%A9%B6%E8%A3%BD%E9%80%A0%E6%8B%A0%E7%82%B9%E3%81%8C%E3%81%8B%E3%81%9A%E3%81%95%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2%E3%83%91%E3%83%BC%E3%82%AF%E3%81%AB%E7%AB%8B%E5%9C%B0%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E6%B1%BA%E5%AE%9A%E3%81%97%E5%8D%94%E5%AE%9A%E6%9B%B8%E3%82%92%E7%B7%A0%E7%B5%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%8A%95%E8%B3%87%E9%A1%8D%E3%81%AF%E7%B4%84165%E5%84%84%E5%86%86%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E6%94%BE%E5%B0%84/29070031739306291/",
+    "https://www.facebook.com/toshihito.kumagai/photos/29056104507365681/",
+    "https://www.facebook.com/groups/627324771859424/posts/1460485495210010/",
+    "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E6%98%A8%E6%97%A5%E3%81%AF%E6%AD%A6%E9%83%A8%E8%BE%B2%E6%B0%B4%E5%A4%A7%E8%87%A3%E3%81%8C%E5%8D%83%E8%91%89%E7%9C%8C%E3%81%AE%E8%A2%AB%E7%81%BD%E5%9C%B0%E3%82%92%E8%A6%96%E5%AF%9F%E3%81%95%E3%82%8C%E7%A7%81%E3%82%821%E6%97%A5%E5%90%8C%E8%A1%8C%E3%81%97%E8%A2%AB%E7%81%BD%E3%81%97%E3%81%9F%E8%BE%B2%E6%B0%B4%E7%94%A3%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AE%E6%94%AF%E6%8F%B4%E3%82%84%E5%90%84%E7%A8%AE%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%BE%A9%E6%97%A7%E6%94%AF%E6%8F%B4%E3%82%92%E6%B1%82%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E5%8D%B0%E6%97%9B%E6%B2%BC%E3%81%AE%E5%A0%A4%E9%98%B2%E6%B1%BA%E5%A3%8A%E3%81%AB%E3%82%88%E3%82%8B%E6%B5%B8/29043249881984477/",
+    "https://www.facebook.com/nakamuta.houmu/",
+    "https://www.facebook.com/%E8%8D%89%E6%B4%A5%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80-384136002085666/"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） note 社長",
+   "results": [
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n3563903e6e87",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://kanagata-shimbun.com/220910special-haikei/",
+    "https://www.rieti.go.jp/jp/publications/nts/25j022.html",
+    "https://www.asahi.com/articles/ASVBV2BZSVBVULLI001M.html",
+    "https://x.com/i/trending/2011754972078358664",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.e-stat.go.jp/dbview?sid=0004035171"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing employees establishments census of manufactures series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/ryobidiecasting",
+    "https://www.linkedin.com/company/the-manufacturing-institute-mi",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/company/caterpillar-inc",
+    "https://www.linkedin.com/company/national-association-of-manufacturers---nam",
+    "https://www.linkedin.com/company/iowamoldtooling",
+    "https://www.linkedin.com/company/prince-industries",
+    "https://www.linkedin.com/company/jtekt-corporation",
+    "https://www.linkedin.com/company/texas-instruments",
+    "https://www.linkedin.com/company/eli-lilly-and-company"
+   ]
+  }
+ ],
+ "missing": {
+  "1人あたり・1社あたり金額": "記載なし（読んだ48頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ48頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ48頁・検索18回）"
+ }
+}
