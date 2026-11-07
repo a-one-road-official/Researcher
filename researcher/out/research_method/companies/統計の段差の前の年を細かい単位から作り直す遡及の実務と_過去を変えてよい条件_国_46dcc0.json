@@ -8,23 +8,83 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T17:55:41.759034+00:00",
+ "researched_at": "2026-11-07T23:36:45.165674+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
+    "quote": "EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
+    "quote": "7B56804562AC/0/1999091p30pub.pdf",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
+    "quote": "33 https://www.bis.org/ifc/publ/ifcb33a.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(STD`NA(99)39 https://www.oecd.org/std/na/2681263.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Leo and S. Pisani, ISTAT 1999,https://www.oecd.org/std/na/2681239.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Business June 2008, https://www.bea.gov/scb/pdf/2008/06 June/0608_flexible.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://bea.gov/scb/pdf/2008/05 May/0508_nipa_pce.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bmdi/document/1401_D13_T9_V1-eng.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Leo and S. Pisani, ISTAT 1999 https://www.oecd.org/std/na/2681239.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.bea.gov/scb/pdf/2013/11%20November/1113_finance_services.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "May 2008 https://apps.bea.gov/scb/pdf/2008/05%20May/0508_methods.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "WS/Lao WS-Country practices on rebasing and linking NA.pdf",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-4991.2009.00342.x/pdf",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -117,6 +177,26 @@
    },
    {
     "quote": "old estimates. Set some",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -305,150 +385,100 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7B56804562AC/0/1999091p30pub.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "33 https://www.bis.org/ifc/publ/ifcb33a.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(STD`NA(99)39 https://www.oecd.org/std/na/2681263.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Leo and S. Pisani, ISTAT 1999,https://www.oecd.org/std/na/2681239.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Business June 2008, https://www.bea.gov/scb/pdf/2008/06 June/0608_flexible.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://bea.gov/scb/pdf/2008/05 May/0508_nipa_pce.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bmdi/document/1401_D13_T9_V1-eng.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Leo and S. Pisani, ISTAT 1999 https://www.oecd.org/std/na/2681239.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.bea.gov/scb/pdf/2013/11%20November/1113_finance_services.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "May 2008 https://apps.bea.gov/scb/pdf/2008/05%20May/0508_methods.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "WS/Lao WS-Country practices on rebasing and linking NA.pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-4991.2009.00342.x/pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kamokita/n/n9c6a763ce31e",
+    "url": "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kounotori17/n/ndc15bb83654d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/todobuono/n/n5a514ba6467a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/todobuono/n/nea823d9a8ab4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/todobuono/n/n4500b9df68d9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mu0283/n/n13ed937ca717",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_3.pdf",
+    "url": "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/10700000/000688449.pdf",
+    "url": "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "status": "ok",
+    "url": "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
+    "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000718336.pdf",
+    "url": "https://www.timeanddate.com/sun/usa/kailua-kona",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timeanddate.com/timer/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timeanddate.com/time/zones/cst",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtube/answer/6000976",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtubetv/?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://obsproject.com/forum/tags/youtube/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtube/answer/7341336?hl=en-GB&co=GENIE.Platform=Android",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/youtube/answer/2398242?hl=en&co=GENIE.Platform=Android",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
@@ -466,19 +496,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not260525a.pdf",
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/data/nihon/pdf/25nihon.pdf",
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://wheat-biz.com/acc/keiri-daiko-kanendo-shusei-kaikei/",
+    "url": "https://www.soumu.go.jp/main_content/000718336.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://en.wikipedia.org/wiki/Backcasting",
@@ -486,27 +521,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0040162524000817",
+    "url": "https://nso.gov.mt/events/projecting-the-past-micro-based-backcasting-methods-in-business-statistics-through-micro-decomposition-analysis/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/en/web/nace/backcasting",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pdfs.semanticscholar.org/fd8a/c7ec5585123f4bf7db4eb494c7a1eb118817.pdf",
-    "status": "ok",
+    "url": "https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2018/mtg1/3a_Item_7_Backcasting_UNSD_23_May_2018.pdf",
+    "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/w/ks-01-25-030",
+    "url": "https://erc.undp.org/methods-center/methods/evaluation-techniques/backcasting",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S2666188825001236",
+    "url": "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
     "status": "http_403",
     "method": "http"
    }
@@ -516,198 +546,245 @@
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） site:note.com",
    "results": [
-    "https://note.com/kamokita/n/n9c6a763ce31e",
-    "https://note.com/kounotori17/n/ndc15bb83654d",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/todobuono/n/nea823d9a8ab4",
-    "https://note.com/todobuono/n/n4500b9df68d9",
-    "https://note.com/mu0283/n/n13ed937ca717",
-    "https://note.com/genial_moraea172/n/nded518ea002c"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
+    "https://en.wikipedia.org/wiki/Microsoft"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） note",
    "results": [
-    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_3.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
-    "https://www.mhlw.go.jp/content/10700000/000688449.pdf",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "https://www.soumu.go.jp/main_content/000718336.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
+    "https://www.timeanddate.com/sun/usa/kailua-kona"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） やり方",
    "results": [
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/about_old_kaku/about_old_kaku.html",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/sokyuukaitei_021018.html",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "https://www.soumu.go.jp/main_content/000718336.pdf",
-    "https://www.boj.or.jp/statistics/outline/notice_2026/not260525a.pdf"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
+    "https://www.youtube.com/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） 事例",
    "results": [
-    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_3.pdf",
-    "https://www.stat.go.jp/data/nihon/pdf/25nihon.pdf",
-    "https://wheat-biz.com/acc/keiri-daiko-kanendo-shusei-kaikei/",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/sokyuukaitei_021018.html",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "https://www.soumu.go.jp/main_content/000718336.pdf"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "backcasting statistical break bottom-up reconstruction overlap year linking conditions",
    "results": [
+    "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "https://en.wikipedia.org/wiki/Backcasting",
-    "https://www.sciencedirect.com/science/article/pii/S0040162524000817",
-    "https://ec.europa.eu/eurostat/en/web/nace/backcasting",
-    "https://pdfs.semanticscholar.org/fd8a/c7ec5585123f4bf7db4eb494c7a1eb118817.pdf",
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/w/ks-01-25-030",
-    "https://www.sciencedirect.com/science/article/pii/S2666188825001236",
-    "https://www.ul.com/sites/default/files/2024-09/1922866-White+Paper+of+Backcast_Final.pdf"
+    "https://nso.gov.mt/events/projecting-the-past-micro-based-backcasting-methods-in-business-statistics-through-micro-decomposition-analysis/",
+    "https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2018/mtg1/3a_Item_7_Backcasting_UNSD_23_May_2018.pdf",
+    "https://erc.undp.org/methods-center/methods/evaluation-techniques/backcasting",
+    "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
+    "https://www.shrm.org/enterprise-solutions/insights/backcasting-future-back-thinking",
+    "https://ec.europa.eu/eurostat/web/nace/backcasting",
+    "https://jfsdigital.org/transition-scenarios-via-backcasting/",
+    "https://www.4strat.com/crisis-management/backcasting/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い）",
    "results": [
-    "https://note.com/kounotori17/n/ndc15bb83654d",
-    "https://note.com/kamokita/n/n9c6a763ce31e",
-    "https://note.com/todobuono/n/n4500b9df68d9",
-    "https://note.com/todobuono/n/nea823d9a8ab4",
-    "https://note.com/genial_moraea172/n/nded518ea002c",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/mu0283/n/n13ed937ca717"
+    "https://www.ashleyfurniture.com/c/furniture/living-room/sofas/?prefn1=fabric&prefv1=Leather",
+    "https://www.crateandbarrel.com/furniture/leather-sofas/1",
+    "https://www.macys.com/shop/sale/by-category/home/furniture-mattresses/Material/Leather?id=31260",
+    "https://www.bassettfurniture.com/living/leather-sofas",
+    "https://www.wayfair.com/furniture/sb1/leather-sofas-c413892-a2470~7175.html",
+    "https://www.macys.com/shop/home/furniture-mattress/living-room/couches-sofas/Material/Leather?id=35419",
+    "https://www.ethanallen.com/en_US/shop-products-leather-furniture-sofas",
+    "https://www.ikea.com/us/en/cat/sofas-sectionals-fu003/f/leather-sofas-f-materials--38829/",
+    "https://www.ashleyfurniture.com/c/furniture/living-room/leather-seating/leather-couch/",
+    "https://www.wayfair.com/furniture/sb2/leather-sofas-on-sale-c413892-a2470~7175-a69278~8.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:x.com 統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い）",
    "results": [
-    "https://x.com/taka_peace369/status/2099689206889222277",
-    "https://x.com/8pq3aioo/status/2086178183133728969",
-    "https://x.com/webkanoshi/status/1108955647872102403",
-    "https://x.com/umekichkun/status/1108751174235111424",
-    "https://x.com/michihito_ando/status/2030548742936604965",
-    "https://x.com/nkinvestigation/status/2106889779531108419",
-    "https://x.com/bot_kanazawa/status/2114190213756957097"
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://myaccount.microsoft.com/login",
+    "https://account.microsoft.com/account-checkup",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/ ->",
+    "https://www.microsoft.com/en-us/download",
+    "https://apps.microsoft.com/",
+    "https://outlook.office.com/mail/inbox"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "site:linkedin.com 統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い）",
    "results": [
-    "https://www.linkedin.com/company/abb/",
-    "https://jp.linkedin.com/posts/敏勝-鎌仲-5b54852b1_linkedinなどのビジネスsns利用者が過去の職歴を遡って修正する遡及的改訂-activity-7503779353629978624-MaIJ",
-    "https://www.linkedin.com/posts/satoshi-kamei-1648b335_docomo-business-forum22-activity-6988138681140228096--QIL",
-    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
-    "https://jp.linkedin.com/pulse/comprehensive-roadmap-learning-statistics-from-basics-abd-ur-rahman-dalff?tl=ja",
-    "https://jp.linkedin.com/pulse/rebuild-from-scratch-why-leaders-should-hit-reset-more-leann-case-bpotc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-use-descriptive-statistics-excel-data-analysis-chartexpo-me2gf?tl=ja"
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://myaccount.microsoft.com/login",
+    "https://account.microsoft.com/account-checkup",
+    "https://security.microsoft.com/",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/ ->",
+    "https://www.microsoft.com/en-us/download",
+    "https://apps.microsoft.com/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:facebook.com 統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い）",
    "results": [
-    "https://www.facebook.com/imakarasuugaku/",
-    "https://www.facebook.com/tmng.co.jp/photos/-web開催間違いだらけの工場経営-次の10年を勝ち抜くために経営判断の自分軸を作り直す-視聴時間-約60分-成功も失敗も知り尽くした経験豊富なコンサルタントが/996069992501811/",
-    "https://www.facebook.com/EYJapanOfficial/photos/動画公開いまさら聞けない過年度遡及会計方針開示の基礎-過年度遡及-と-会計方針-開示について解説動画を公開しました会計方針表示方法会計上の見積りの定義や会計方針/1105713301566656/",
-    "https://www.facebook.com/taxpolicy/photos/前期損益修正の処理過年度遡及会計基準の導入によって過年度の経理処理のミスを訂正する際に前期損益修正を行わず修正再表示の処理を行うこととなっている-前期損益修正は/591797317513001/",
-    "https://www.facebook.com/miki521424noguchi/posts/新規事業が売れないと商品を作り直すhpを変える広告費を増やすでもその前に商品ではなく市場への入口がズレているだけかもしれません10月からcrafanテストマーケ/3441309832704945/",
-    "https://www.facebook.com/otohanachouka/videos/レビューを頼まれたけれど内容がボロボロすぎて1から直したくなったでもレビューというのは完成に向かうものを磨く作業であって土台から作り直すことではないだから指摘だ/1676431496957697/",
-    "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615271002500/"
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/749387-can-you-combine-two-rr-accounts-if-they-same-name.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/1258422-we-currently-unable-complete-your-request.html",
+    "https://www.flyertalk.com/forum/travelbuzz/1250821-best-tongue-cheek-airline-aviation-nicknames.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/1117953-what-s-history-behind-wn-designation-southwest.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/2106655-associating-two-reservations.html",
+    "https://www.flyertalk.com/forum/american-express-membership-rewards/2148094-platinum-airline-fee-200-reimbursement-reports-wn-southwest-only-2024-2026-a.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/1578921-can-you-change-payment-options-after-booking.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/1832949-could-i-have-been-scammed-free-ticket-phone-call.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/2165743-canceling-rebooking-southwest-lower-fare.html",
+    "https://www.flyertalk.com/forum/southwest-airlines-rapid-rewards/2114160-split-booking-during-change-now-available.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） note 社長",
    "results": [
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/about_old_kaku/about_old_kaku.html",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/sokyuukaitei_021018.html",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "https://www.soumu.go.jp/main_content/000718336.pdf",
-    "https://www.boj.or.jp/statistics/outline/notice_2026/not260525a.pdf"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191011-00010003-ksbv-l37&lang=ja",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
+    "https://jicpa.or.jp/specialized_field/files/4-11-0-2j-20170731.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/about_old_kaku/about_old_kaku.html",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/sokyuukaitei_021018.html",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
-    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "https://www.soumu.go.jp/main_content/000718336.pdf",
-    "https://www.boj.or.jp/statistics/outline/notice_2026/not260525a.pdf"
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000282802&page=ref_view&type=reference&ldtl=1&fi=6_0%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%208_21%202_3&mcmd=25",
+    "https://www.longrangehunting.com/threads/7mm-168gr-berger-hybrid-hunter.246296/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 39
   },
   {
    "query": "backcasting statistical break bottom-up reconstruction overlap year linking conditions site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/supply-chain-reconstruction-action-plan-sourcing-eo-nasir-jamil-mknhc",
-    "https://www.linkedin.com/pulse/backtesting-backcasting-validation-approaches-stronger-analytics-oe0ee",
-    "https://kr.linkedin.com/posts/martin-karlberg-phd-5ab07410_backcasting-statisticalbusinessregisters-activity-7354522013601787904-XsBF?tl=ko",
-    "https://www.linkedin.com/pulse/good-backcast-makes-better-forecast-greg-turk",
-    "https://pe.linkedin.com/pulse/how-build-breakthrough-secret-backcasting-shane-kramps",
-    "https://et.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
-    "https://pe.linkedin.com/posts/govinda-timilsina-6b455a44_dear-dr-timilsina-we-are-pleased-to-let-activity-6827933179505061888-le-E"
+    "https://en.wikipedia.org/wiki/Backcasting",
+    "https://www.4strat.com/crisis-management/backcasting/",
+    "https://fourweekmba.com/backcasting/",
+    "https://www.shrm.org/enterprise-solutions/insights/backcasting-future-back-thinking",
+    "https://www.futuresalchemist.com/tools-and-models/backcasting-2",
+    "https://systemsthinkingalliance.org/glossary/backcasting/",
+    "https://www.betterevaluation.org/methods-approaches/methods/backcasting",
+    "https://referently.com/backcasting-explained-how-planning-backwards-from-a-future-goal-works/",
+    "https://toekomstverkennen.nl/en/strategic-foresight-methods/backcasting/",
+    "https://erc.undp.org/methods-center/methods/evaluation-techniques/backcasting"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T08:04:59.950178+00:00"
 }
