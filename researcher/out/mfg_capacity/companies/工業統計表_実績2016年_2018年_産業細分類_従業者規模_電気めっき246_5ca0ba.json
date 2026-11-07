@@ -1,0 +1,946 @@
+{
+ "name": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+ "en": "Japan Census of Manufactures 2016 2018 establishment size class plating heat treatment press die",
+ "aliases": [
+  "工業統計表 2018年 産業別統計表 従業者規模別 細分類 site:meti.go.jp",
+  "e-Stat 工業統計調査 2018年 産業細分類 従業者規模別 xlsx",
+  "工業統計 平成30年 確報 産業別統計表 規模別"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-07T16:52:02.725444+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（３）品目別、都道府県別の出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（７）品目別の在庫及び産出事業所数（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（１）その他収入の種類別の産業別産出事業所数及び収入額（従業者４人以上の事業所）（産業中分類別）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（２）その他収入の種類別の都道府県別産出事業所数及び収入額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（２）品目群による都道府県別出荷額（産業中分類別、従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（３）品目別、都道府県別の出荷及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（７）品目別の在庫及び産出事業所数（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（８）品目別、経営組織別、資本金階層別の製造品出荷額（従業者4人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（１）その他収入の種類別の産業別産出事業所数及び収入額（従業者４人以上の事業所）（産業中分類別）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．その他収入に関する統計表】（２）その他収入の種類別の都道府県別産出事業所数及び収入額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "【１．製造品に関する統計表】（２）品目群による都道府県別出荷額（産業中分類別、従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（８）品目別、経営組織別、資本金階層別の製造品出荷額（従業者4人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【５．参考表 推計による従業者３人以下の事業所に関する統計表】（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "工業統計調査 確報 平成30年確報 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   },
+   {
+    "quote": "2020-01-20",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/33380",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/1723/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2986.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/contents/wdu010/digitalbook/keizai/osakanokeizai2018/pageindices/index31.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/shoukouhan/data/07-020/27ind02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=dataset&month=0&statdisp_id=0003389974&tclass1=000001022790&tclass2=000001133147&toukei=00550010&tstat=000001022686&year=20180",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/page/0000607232.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/640230/japan-manufacturing-business-number-by-industry/?srsltid=AYCX9vKr2c7HnkVxWsQJKwBOtCJ1E1eOuJjEsROUcrtmmbr-gVLqXGgD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagurok.com/paper/dynamics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bisai-monozukuri.com/en/database/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.city.nishitokyo.lg.jp/siseizyoho/tokei/toukeisyo/R5toukeinishitokyo.files/4-4kougyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000006697562&layout=dataset&statdisp_id=0003014164"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q20000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://ab.jcci.or.jp/article/1723/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.city.osaka.lg.jp/contents/wdu010/digitalbook/keizai/osakanokeizai2018/pageindices/index31.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q20000.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset",
+    "https://toukei.pref.shizuoka.jp/shoukouhan/data/07-020/27ind02.html",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=dataset&month=0&statdisp_id=0003389974&tclass1=000001022790&tclass2=000001133147&toukei=00550010&tstat=000001022686&year=20180",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.city.osaka.lg.jp/toshikeikaku/page/0000607232.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan Census of Manufactures 2016 2018 establishment size class plating heat treatment press die Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://www.statista.com/statistics/640230/japan-manufacturing-business-number-by-industry/?srsltid=AYCX9vKr2c7HnkVxWsQJKwBOtCJ1E1eOuJjEsROUcrtmmbr-gVLqXGgD",
+    "https://www.zhuxuanli.com/paper/dynamics.pdf",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.e-stat.go.jp/en",
+    "https://en.wikipedia.org/wiki/Manufacturing_in_Japan",
+    "https://www.bdo-japan.jp/en-gb/industries/manufucturing"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+   "results": [
+    "https://note.com/petenshoku/n/n2b2f8c3abc8c",
+    "https://note.com/kami_nori/n/nbbae1d6b824d",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/sumasate/n/nc7de8bb065be",
+    "https://note.com/kagawatomo/n/nc9844172c40a",
+    "https://note.com/terradrone/n/n411bd45fb666",
+    "https://note.com/nekota_toure/n/n245167ba6201",
+    "https://note.com/kabuberry_/n/n0a1bc6b433a2",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/reading_monkey/n/n78fc62546789"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2069926560556270060",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/searched_press/article/2080307760659624367",
+    "https://x.com/i/article/2092754148085346581",
+    "https://x.com/hiroki_miyano27",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/JPCA_official/status/2023992850011087271",
+    "https://x.com/paj_sekiren/status/2072173000452079897"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+   "results": [
+    "https://jp.linkedin.com/in/tao-yu-b30a4b277",
+    "https://jp.linkedin.com/in/%E9%82%A6%E8%A6%AA-%E4%B9%85%E4%BF%9D%E7%94%B0-bb6644218",
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B164-toru-%E4%BA%A8-hara-%E5%8E%9F-s4bxc",
+    "https://jp.linkedin.com/pulse/how-use-descriptive-statistics-excel-data-analysis-chartexpo-me2gf?tl=ja",
+    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
+    "https://www.linkedin.com/posts/liteon_2018-taipei-intl-industrial-automation-exhibition-activity-6425177658979651584-tWTN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:facebook.com 工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）",
+   "results": [
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/VUC2021/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.aj-pia.or.jp/wp-content/uploads/2023/02/r03insta_industry_r02achieve.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.jagat.or.jp/archives/33380"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q30000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0&statdisp_id=0003389422",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.jeita.or.jp/japanese/stat/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan Census of Manufactures 2016 2018 establishment size class plating heat treatment press die site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/nikkin-nagano/",
+    "https://www.linkedin.com/pulse/japan-vcp-plating-equipment-market-application-kibof/",
+    "https://pe.linkedin.com/pulse/japan-plating-bath-analysis-services-market-e5sxf/",
+    "https://www.linkedin.com/pulse/japan-utomotive-plating-equipment-market-trends-producers-m4ope",
+    "https://www.linkedin.com/pulse/global-japan-wafer-plating-equipment-market-opportunities-ewede",
+    "https://www.linkedin.com/pulse/emerging-technologies-reshaping-japan-copper-plating-equipment-hsbhf",
+    "https://www.linkedin.com/pulse/plating-market-global-outlook-us-japan-4sspf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ46頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ46頁・検索18回）"
+ }
+}

@@ -1,0 +1,640 @@
+{
+ "name": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+ "en": "Census of Manufacture Japan definition value of shipments including internal consumption tax METI report notes PDF",
+ "aliases": [
+  "工業統計表 産業編 用語の解説 消費税 内国消費税額 site:meti.go.jp filetype:pdf",
+  "工業統計調査 調査票 記入の仕方 製造品出荷額 消費税 site:meti.go.jp"
+ ],
+ "context": "統計の定義",
+ "kind": "market",
+ "researched_at": "2026-11-07T16:51:57.949910+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/1998_yogo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6133.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000672508.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/syogakuyunyuwg/syogakuyunyuwg_gijihaihu/20250612/shiryo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/keizaicensus2021yougonokaisetu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ichinoseki.iwate.jp/uploads/public/archive_0000000758_00/20220322-175233.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/about/organization/ntc/kohon/syouhi/pdf/all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.shizuoka.lg.jp/documents/3816/000131135_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000020289.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000915.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infomart.co.jp/seikyu/column/import-consumption-tax.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2020chuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/tokeisho/toukeisho20.files/hyo_6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/1013/chosa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jama.or.jp/statistics/facts/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kumamoto.jp/kiji0033002/Bun_93344_21_0038j_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/notes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/24cyousanogaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/uploaded/life/2165196_3494350_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/5599.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/downloadfiles/m41104-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085437",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.shibata.lg.jp/machidukuri/about/toukei/kougyo/1001789.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukuoka.lg.jp/uploaded/life/35164_2534127_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/kogyochiku/pdf/h21-k7-riyou-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fukushima.fukushima.jp/material/files/group/4/h25_kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/files/user/pdf/Annually_Report_Vol4.pdf?20250919",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/items/023010054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.ishikawa.lg.jp/glossary/seizouhin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://data.e-stat.go.jp/lod/page/ontology/surveyItem/terminology/Te33360",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/1998_yogo.html",
+    "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6133.htm",
+    "https://www.soumu.go.jp/main_content/000672508.pdf",
+    "https://www.mof.go.jp/about_mof/councils/syogakuyunyuwg/syogakuyunyuwg_gijihaihu/20250612/shiryo1.pdf",
+    "https://kankyoshimin.org/newsletters4public/200902.pdf",
+    "https://www.customs.go.jp/tetsuzuki/c-answer/imtsukan/1103_jr.htm",
+    "https://www.jmcti.org/mondai/pdf/sokuhou2023-1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://laws.e-gov.go.jp/law/326M50000400081/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/keizaicensus2021yougonokaisetu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_gaiyo.pdf",
+    "https://www.city.ichinoseki.iwate.jp/uploads/public/archive_0000000758_00/20220322-175233.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.nta.go.jp/about/organization/ntc/kohon/syouhi/pdf/all.pdf",
+    "https://www.city.shizuoka.lg.jp/documents/3816/000131135_1.pdf",
+    "https://www.soumu.go.jp/main_content/000255508.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000020289.pdf",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jetro.go.jp/world/qa/04A-000915.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.infomart.co.jp/seikyu/column/import-consumption-tax.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2020chuui.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 推移",
+   "results": [
+    "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.nerima.tokyo.jp/kusei/tokei/tokeisho/toukeisho20.files/hyo_6.pdf",
+    "https://toukei.pref.ishikawa.lg.jp/dl/1013/chosa.pdf",
+    "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf",
+    "https://www.jama.or.jp/statistics/facts/industry/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 統計 PDF",
+   "results": [
+    "https://www.city.kumamoto.jp/kiji0033002/Bun_93344_21_0038j_03.pdf",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/notes.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/24cyousanogaiyo.pdf",
+    "https://www.pref.oita.jp/uploaded/life/2165196_3494350_misc.pdf",
+    "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/5599.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.pref.saga.lg.jp/toukei/kiji00367476/3_67476_131273_up_cs1r4vwq.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/downloadfiles/m41104-1.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085437",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.city.shibata.lg.jp/machidukuri/about/toukei/kougyo/1001789.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 1人当たり 万円",
+   "results": [
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/h30kogyopdf.pdf",
+    "https://www.city.nagasaki.lg.jp/uploaded/attachment/6779.pdf",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/35164_2534127_misc.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/kogyochiku/pdf/h21-k7-riyou-j.pdf",
+    "https://www.city.fukushima.fukushima.jp/material/files/group/4/h25_kougyou.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.jetro.go.jp/world/qa/04A-000915.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jama.or.jp/statistics/facts/industry/",
+    "https://www.jfpi.or.jp/files/user/pdf/Annually_Report_Vol4.pdf?20250919",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Census of Manufacture Japan definition value of shipments including internal consumption tax METI report notes PDF Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://learn.microsoft.com/en-us/dynamics365/finance/localizations/japan/apac-jpn-consumption-tax-report",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.eu-japan.eu/taxes-accounting/consumption-taxes",
+    "https://www.oecd.org/tax/consumption/consumption-tax-trends-japan.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+   "results": [
+    "https://note.com/ocaml/n/nf8a34932b7e7",
+    "https://note.com/hanno_high/n/n41e472d5b87c",
+    "https://note.com/witty_dog6694/n/n81f0c9cce89c",
+    "https://note.com/tax_p/n/nc7aae6b22ca2",
+    "https://note.com/kiyotakasato/n/n93a13a008df9",
+    "https://note.com/yomasaru/n/n6d549c8577eb",
+    "https://note.com/semimaru69/n/n5d7d0d6e4a12",
+    "https://note.com/desmusic3/n/n002f1823e90d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2105210905126649904",
+    "https://jf.x.com/images/media-preview/2112026013328949548",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/ikp_taxco/status/2104781397898772554",
+    "https://x.com/mAhQAzqq2SfS2qD/status/2107312891963773066",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/sales_takamura/status/2091934899104313839"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+   "results": [
+    "https://px.ads.linkedin.com/collect/?pid=8308081&fmt=gif",
+    "https://www.linkedin.com/company/elevanceskills",
+    "https://in.linkedin.com/company/xebia",
+    "https://jp.linkedin.com/pulse/fmcg-food-manufacturing-2025-review-growth-innovation-5kowe?tl=ja",
+    "https://www.linkedin.com/pulse/欲しいと必要の違い消費財と医薬品におけるニーズとウォンツの本質-michio-okazaki-d2wqc",
+    "https://jp.linkedin.com/pulse/how-can-consumer-packaged-good-manufacturers-brand-owners-klazema-damce?tl=ja",
+    "https://www.linkedin.com/jobs/radio-technician-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）",
+   "results": [
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ohmurahideaki/posts/30日2023年度の愛知県の県民経済計算推計結果を公表しました県の経済規模を示す県内総生産名目は46兆911億円となり前年度の43兆653億円から70増加しまし/1365307002277638/",
+    "https://www.facebook.com/ohmurahideaki/posts/1058626312945710/",
+    "https://www.facebook.com/kyotoshimbun/posts/京都府福知山市の長田野工業団地の２０２５年度製造出荷額が４１１６億円前年度比１増と４年連続で過去最高を更新し２４年度に続いて４千億/1632659468862524/",
+    "https://www.facebook.com/life21.style/posts/先ずは5そして消費税を廃止し工場出荷をベースにした物品税輸入品には関税をかけそれ以降は複雑な税金を取るのをやめれば良い消費税以前に戻そう/628611201858196/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.saitama.lg.jp/006/013/006/003/p041620_d/fil/chui.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/2012/note.pdf",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/keizaicensus2021yougonokaisetu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.soumu.go.jp/main_content/000777097.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11037/5137104.pdf",
+    "https://www.e-stat.go.jp/surveyitems/items/023010054"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.jetro.go.jp/world/qa/04A-000915.html",
+    "https://data.e-gov.go.jp/data/en/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d?inner_span=True",
+    "https://www.e-stat.go.jp/stat-search?iroha=6&toukei=00350360&page=1",
+    "https://bbs.naccscenter.com/data/customs/jimu/pdf/tetsu/sea/tsukan/tst_010_010_030.pdf",
+    "https://www.customs.go.jp/kaisei/youshiki/form_C/C5020k.pdf",
+    "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6563.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/1998_yogo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Census of Manufacture Japan definition value of shipments including internal consumption tax METI report notes PDF site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/meti-white-paper-manufacturing-2026-sets-new-course-japan-kkoyf",
+    "https://www.linkedin.com/pulse/selling-japan-2026-consumption-tax-guide-every-foreign-tmgxf",
+    "https://www.linkedin.com/posts/itbusinesstoday_the-meti-white-paper-on-manufacturing-2026-activity-7516505807992020992-g_lX",
+    "https://www.linkedin.com/posts/japanindustrynews_meti-report-shipment-value-of-rubber-products-activity-7036884906139873280-S0OU",
+    "https://www.linkedin.com/top-content/supply-chain-management/cross-border-shipping-regulations/duty-and-tax-requirements-for-low-value-shipments/",
+    "https://www.linkedin.com/pulse/optimized-linkedin-article-ministry-economy-trade-industry-bf5sc/",
+    "https://www.linkedin.com/pulse/understanding-japanese-corporate-tax-documentation-comprehensive-abyve",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7344891881639636992/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

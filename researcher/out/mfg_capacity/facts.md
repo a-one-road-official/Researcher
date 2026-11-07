@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・176品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・179品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9344,6 +9344,180 @@
 
 ## 工業統計調査 製造品出荷額等の定義 消費税等内国消費税額を含む（経産省の全国の調査票の記入の手引き・結果報告書の用語の解説の PDF・4-81・4-83）（Census of Manufacture Japan definition value of shipments including internal consumption tax METI report notes PDF）
 - 文脈：統計の定義
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）（Japan Pension Service covered establishment search insured persons count plating heat treatment press die company）
+- 文脈：会社・人数
+- 痛み・損（深さの印）：
+  - 「基本手当は、一般被保険者が離職し労働の積極的な意思及び能力（健康状態・家庭環境等）を有す」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「るにもかかわらず職業に就くことができない状態にある場合で、離職の日以前２年間（疾病、負傷等」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「ただし、倒産・解雇等により離職した特定受給資格者又は、一部の特定理由離職者に該当する」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「場合は、離職の日以前１年間（疾病、負傷等の期間がある場合には最大限４年間）に被保険者期間が」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「受給期間は、原則として離職の日の翌日から起算して１年間です」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「例えば、病気で離職した場合を図示すると次のとおりです」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「受給資格に係る離職日の翌日から４年を経過するまでの間（延長後の受給期間が４年に満た」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「ない場合は当該期間の最後の日までの間）に、受給期間延長申請書に離職票ー２と受給期間」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「※受給期間の延長のための手続きは、離職した日の翌日から起算して２か月以内に、受給期間」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「延長申請書に離職票ー２を添えて安定所に本人自身が申し出てください」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「離職の日の翌日以後１年間」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「ウ 離職後、令和４年７月１日以降に事業を開始等した方については、当該事業を行っている期間等」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「原則として離職前６か月間における平均賃金日額のおよそ45%～80%で、一定の基準により次表の」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「受給資格がある方で被保険者であった期間及び離職理由等により次のようになっています」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「① ②及び③以外の全ての受給資格者（定年退職者や自己の都合等で離職した者）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 事業所数・社数：
+  - 「ンターが設置され、会員数は35,625名です」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「「会員数」欄は令和７年３月末現在の登録会員数です」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 社員数・平均社員数：
+  - 「1 国民年金に加入する人 …………………………… 17」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「3 求人募集に応募する前に ………………………… 35」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「4 愛知の求人・求職の状況 ………………………… 36」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「7 求人票の見方 ……………………………………… 39」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「第１ シルバー人材センター」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「1 臨時・短期・軽易な就業に“シルバー人材センター” … 47」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「我が国の人口は、世界でも例を見ない急速な少子高齢化が進んでおり、令和６年10月1日時点での65歳」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「以上の高齢者は3,624万人、総人口に占める割合は29.3％となった」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「また、15歳から64歳の人口（生産年齢人口）は、2070年には総人口の52.1％となると」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（65歳以上人口割合）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「65歳以上人口を15～」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「64歳人口で支える割合」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「） 、2024年は総務省「人口推計」 （令和６年10月１日現在（確定値） ） 、」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「2025年以降は国立社会保障・人口問題研究所「日本の将来推計人口（令和５年推計） 」の出生中位・死亡中位仮定による推計結果」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（注1） 2015年及び2020年の年齢階級別人口は不詳補完値によるため、年齢不詳は存在しない」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 受注金額・加工賃収入：
+  - 「（註） １．60歳時の「一時収入」は退職金、60歳以降の「その他の収入」は、個人年金（80万） 、高年齢求職者給付金（65歳時17万円）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「算した金額に100万円を加算します」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「20年以下 40万円×勤続年数（最低80万円） 」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「20年超 800万円＋70万円×（勤続年数−20年）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「195万円以下 5％ −」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「195万円超～330万円以下 10％ 97,500円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「330万円超～695万円以下 20％ 427,500円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「695万円超～900万円以下 23％ 636,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「900万円超～1,800万円以下 33％ 1,536,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「1,800万円超～4,000万円以下 40％ 2,796,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「4,000万円超 45％ 4,796,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「800万円＋70万円×（30年−20年）＝1,500万円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2,500万円−1,500万円）× 1ー2 =500万円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（500万円×20％−42万7,500円）×102.1％＝58万4,522円（１円未満切捨て）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「■ 退職金にかかる税金の計算例（30年勤務した方が退職金を2,500万円受け取った場合）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 1人あたり・1社あたり金額：
+  - 「（註） １．60歳時の「一時収入」は退職金、60歳以降の「その他の収入」は、個人年金（80万） 、高年齢求職者給付金（65歳時17万円）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「算した金額に100万円を加算します」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「20年以下 40万円×勤続年数（最低80万円） 」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「20年超 800万円＋70万円×（勤続年数−20年）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「195万円以下 5％ −」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「195万円超～330万円以下 10％ 97,500円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「330万円超～695万円以下 20％ 427,500円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「695万円超～900万円以下 23％ 636,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「900万円超～1,800万円以下 33％ 1,536,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「1,800万円超～4,000万円以下 40％ 2,796,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「4,000万円超 45％ 4,796,000円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「800万円＋70万円×（30年−20年）＝1,500万円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2,500万円−1,500万円）× 1ー2 =500万円」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（500万円×20％−42万7,500円）×102.1％＝58万4,522円（１円未満切捨て）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「■ 退職金にかかる税金の計算例（30年勤務した方が退職金を2,500万円受け取った場合）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 10年推移：
+  - 「これに伴って、労働力人口の減少も見込まれ、日本経済の活力低下、若年世代に対する社会保障負担の」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「増加、医療費等の財政負担の増加など、様々な問題点が指摘されています」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2015）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2020）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2025）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2024）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（2023）」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「資料： 棒グラフと実線の高齢化率については、2020年までは総務省「国勢調査」 （2015年及び2020年は不詳補完値による」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「） 、2024年は総務省「人口推計」 （令和６年10月１日現在（確定値） ） 、」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「2025年以降は国立社会保障・人口問題研究所「日本の将来推計人口（令和５年推計） 」の出生中位・死亡中位仮定による推計結果」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「（注1） 2015年及び2020年の年齢階級別人口は不詳補完値によるため、年齢不詳は存在しない」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「2024年の年齢階級別人口は、総務省統計局「令和２年国勢調査」 （不詳補完値）の人口に基づ」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「2025年以降の年齢階級別人口は、総務省統計局「令和２年国勢調査 参考表：不詳補完結果」による年齢不詳をあん分した人」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「なお、1950年～2010年の高齢化率の算出には分母から年齢不詳を除いている」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「資料： 1950年、2023年は厚生労働省「簡易生命表」 、1960年から2020年までは厚生労働省「完全生命表」 、2030年以降は、国立社会保障・人口問題研究所「日本の将来推計人口（令和５年」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 人手と仕事の差：
+  - 「（数値が高くなるほど求職者は仕事に就きやすくなり、求人者にとっては人手不足となります」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+  - 「●人手不足分野等での仕事の発注が見込まれる企業等」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+
+## 工業統計表 実績2016年・2018年 産業細分類×従業者規模（電気めっき2464・金属熱処理2465・金属プレス2452・金型2691・消費税の段差の2019年を外して同じ年どうしで全区分をそろえる・4-37・4-85）（Japan Census of Manufactures 2016 2018 establishment size class plating heat treatment press die）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（３）品目別、都道府県別の出荷及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（７）品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．その他収入に関する統計表】（１）その他収入の種類別の産業別産出事業所数及び収入額（従業者４人以上の事業所）（産業中分類別）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．その他収入に関する統計表】（２）その他収入の種類別の都道府県別産出事業所数及び収入額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 社員数・平均社員数：
+  - 「【１．製造品に関する統計表】（１）品目別出荷及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（２）品目群による都道府県別出荷額（産業中分類別、従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（３）品目別、都道府県別の出荷及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（７）品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（８）品目別、経営組織別、資本金階層別の製造品出荷額（従業者4人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．その他収入に関する統計表】（１）その他収入の種類別の産業別産出事業所数及び収入額（従業者４人以上の事業所）（産業中分類別）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．その他収入に関する統計表】（２）その他収入の種類別の都道府県別産出事業所数及び収入額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 受注金額・加工賃収入：
+  - 「【１．製造品に関する統計表】（２）品目群による都道府県別出荷額（産業中分類別、従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（４）品目別、従業者規模別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（５）品目別出荷における産業別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．製造品に関する統計表】（８）品目別、経営組織別、資本金階層別の製造品出荷額（従業者4人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．賃加工品に関する統計表】 品目別の加工賃収入額及び産出事業所数（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【５．参考表 推計による従業者３人以下の事業所に関する統計表】（１） 産業細分類別事業所数、従業者数及び製造品出荷額等」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【５．参考表 推計による従業者３人以下の事業所に関する統計表】（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 1人あたり・1社あたり金額：
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【１．産業別統計表 (産業細分類別)】（３）従業者４～２９人の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（２）従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【３．経営組織別資本金規模別統計表（産業細分類別）】従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「２. 都道府県別産業別統計表 従業者４人以上の事業所に関する統計表（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「３．市区町村別産業中分類別統計表 従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 生産能力・設備：
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 10年推移：
+  - 「工業統計調査 確報 平成30年確報 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+  - 「2020-01-20」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&year=20180&month=0&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001133147&tclass3val=0）
+- 痛み・損（深さの印）：記載なし（読んだ46頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ46頁・検索18回）
+
+## 受託加工の上場・TOKYO PRO Market 上場の会社の決算公告と有価証券報告書の有無（プロ向け市場は有報が無く公告の義務が残る・EDINETで0件でも官報・電子公告を探す・4-85）（TOKYO PRO Market listed manufacturing subcontractor public financial notice）
+- 文脈：会社・決算
 - 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
 - 事業所数・社数：記載なし（読んだ55頁・検索18回）
 - 社員数・平均社員数：記載なし（読んだ55頁・検索18回）

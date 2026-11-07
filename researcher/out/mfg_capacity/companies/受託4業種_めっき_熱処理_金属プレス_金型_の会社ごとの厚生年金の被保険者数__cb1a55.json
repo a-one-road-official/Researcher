@@ -1,0 +1,1126 @@
+{
+ "name": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+ "en": "Japan Pension Service covered establishment search insured persons count plating heat treatment press die company",
+ "aliases": [
+  "日本年金機構 適用事業所検索 被保険者数 めっき",
+  "適用事業所 検索 被保険者数 金型 株式会社",
+  "厚生年金 適用事業所 被保険者数 熱処理 会社"
+ ],
+ "context": "会社・人数",
+ "kind": "market",
+ "researched_at": "2026-11-07T16:51:54.107571+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "基本手当は、一般被保険者が離職し労働の積極的な意思及び能力（健康状態・家庭環境等）を有す",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るにもかかわらず職業に就くことができない状態にある場合で、離職の日以前２年間（疾病、負傷等",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、倒産・解雇等により離職した特定受給資格者又は、一部の特定理由離職者に該当する",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "場合は、離職の日以前１年間（疾病、負傷等の期間がある場合には最大限４年間）に被保険者期間が",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受給期間は、原則として離職の日の翌日から起算して１年間です",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、病気で離職した場合を図示すると次のとおりです",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受給資格に係る離職日の翌日から４年を経過するまでの間（延長後の受給期間が４年に満た",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ない場合は当該期間の最後の日までの間）に、受給期間延長申請書に離職票ー２と受給期間",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※受給期間の延長のための手続きは、離職した日の翌日から起算して２か月以内に、受給期間",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "延長申請書に離職票ー２を添えて安定所に本人自身が申し出てください",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職の日の翌日以後１年間",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ\u0007 離職後、令和４年７月１日以降に事業を開始等した方については、当該事業を行っている期間等",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原則として離職前６か月間における平均賃金日額のおよそ45%～80%で、一定の基準により次表の",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受給資格がある方で被保険者であった期間及び離職理由等により次のようになっています",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① ②及び③以外の全ての受給資格者（定年退職者や自己の都合等で離職した者）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※「１年未満」欄は、③に該当する理由またはその他やむを得ない理由により離職された方にのみ適用されます",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 特定受給資格者（倒産、 解雇等により、 再就職の準備をする時間的余裕がなく離職を余儀なくされた者）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１）\u0007基本手当は、離職の日の翌日から１年（所定給付日数が360日の受給資格者は１年と60日、330日の受給資格者は１年と30日）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "ンターが設置され、会員数は35,625名です",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「会員数」欄は令和７年３月末現在の登録会員数です",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1 国民年金に加入する人 …………………………… 17",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 求人募集に応募する前に ………………………… 35",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 愛知の求人・求職の状況 ………………………… 36",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 求人票の見方 ……………………………………… 39",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ シルバー人材センター",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 臨時・短期・軽易な就業に“シルバー人材センター” … 47",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の人口は、世界でも例を見ない急速な少子高齢化が進んでおり、令和６年10月1日時点での65歳",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の高齢者は3,624万人、総人口に占める割合は29.3％となった",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、15歳から64歳の人口（生産年齢人口）は、2070年には総人口の52.1％となると",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（65歳以上人口割合）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "65歳以上人口を15～",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "64歳人口で支える割合",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "） 、2024年は総務省「人口推計」 （令和６年10月１日現在（確定値） ） 、",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降は国立社会保障・人口問題研究所「日本の将来推計人口（令和５年推計） 」の出生中位・死亡中位仮定による推計結果",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注1） 2015年及び2020年の年齢階級別人口は不詳補完値によるため、年齢不詳は存在しない",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の年齢階級別人口は、総務省統計局「令和２年国勢調査」 （不詳補完値）の人口に基づ",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降の年齢階級別人口は、総務省統計局「令和２年国勢調査 参考表：不詳補完結果」による年齢不詳をあん分した人",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "（註） １．60歳時の「一時収入」は退職金、60歳以降の「その他の収入」は、個人年金（80万） 、高年齢求職者給付金（65歳時17万円）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算した金額に100万円を加算します",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u000720年以下 \u000740万円×勤続年数（最低80万円） \u0007",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u000720年超 \u0007800万円＋70万円×（勤続年数−20年）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007195万円以下 5％ −",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007195万円超～330万円以下 10％ 97,500円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007330万円超～695万円以下 20％ 427,500円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007695万円超～900万円以下 23％ 636,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007900万円超～1,800万円以下 33％ 1,536,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u00071,800万円超～4,000万円以下 40％ 2,796,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u00074,000万円超 45％ 4,796,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "800万円＋70万円×（30年−20年）＝1,500万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2,500万円−1,500万円）× 1ー2 =500万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（500万円×20％−42万7,500円）×102.1％＝58万4,522円（１円未満切捨て）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 退職金にかかる税金の計算例（30年勤務した方が退職金を2,500万円受け取った場合）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "については、①150万円と②退職金の額から300万円に退職所得控除額を加算した金額を差し引いた残額との合計額が課税退職所得金額となり",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ます（退職金の額から退職所得控除額を差し引いた残額が300万円以下の場合は、 その残額に1/2を掛けた金額が課税退職所得金額となります",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、その額が10万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "（註） １．60歳時の「一時収入」は退職金、60歳以降の「その他の収入」は、個人年金（80万） 、高年齢求職者給付金（65歳時17万円）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算した金額に100万円を加算します",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u000720年以下 \u000740万円×勤続年数（最低80万円） \u0007",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u000720年超 \u0007800万円＋70万円×（勤続年数−20年）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007195万円以下 5％ −",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007195万円超～330万円以下 10％ 97,500円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007330万円超～695万円以下 20％ 427,500円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007695万円超～900万円以下 23％ 636,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007900万円超～1,800万円以下 33％ 1,536,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u00071,800万円超～4,000万円以下 40％ 2,796,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u00074,000万円超 45％ 4,796,000円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "800万円＋70万円×（30年−20年）＝1,500万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2,500万円−1,500万円）× 1ー2 =500万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（500万円×20％−42万7,500円）×102.1％＝58万4,522円（１円未満切捨て）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 退職金にかかる税金の計算例（30年勤務した方が退職金を2,500万円受け取った場合）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "については、①150万円と②退職金の額から300万円に退職所得控除額を加算した金額を差し引いた残額との合計額が課税退職所得金額となり",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ます（退職金の額から退職所得控除額を差し引いた残額が300万円以下の場合は、 その残額に1/2を掛けた金額が課税退職所得金額となります",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、その額が10万円",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "これに伴って、労働力人口の減少も見込まれ、日本経済の活力低下、若年世代に対する社会保障負担の",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加、医療費等の財政負担の増加など、様々な問題点が指摘されています",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2015）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2020）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2025）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2024）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2023）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料： 棒グラフと実線の高齢化率については、2020年までは総務省「国勢調査」 （2015年及び2020年は不詳補完値による",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "） 、2024年は総務省「人口推計」 （令和６年10月１日現在（確定値） ） 、",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降は国立社会保障・人口問題研究所「日本の将来推計人口（令和５年推計） 」の出生中位・死亡中位仮定による推計結果",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注1） 2015年及び2020年の年齢階級別人口は不詳補完値によるため、年齢不詳は存在しない",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の年齢階級別人口は、総務省統計局「令和２年国勢調査」 （不詳補完値）の人口に基づ",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降の年齢階級別人口は、総務省統計局「令和２年国勢調査 参考表：不詳補完結果」による年齢不詳をあん分した人",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、1950年～2010年の高齢化率の算出には分母から年齢不詳を除いている",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料： 1950年、2023年は厚生労働省「簡易生命表」 、1960年から2020年までは厚生労働省「完全生命表」 、2030年以降は、国立社会保障・人口問題研究所「日本の将来推計人口（令和５年",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就職 22歳\u0007 （2023年人口動態統計）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本生活費 ・家族数に増減がなければ現在額程度で推移とする 260",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 20402041 2042 2043 2044",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "（数値が高くなるほど求職者は仕事に就きやすくなり、求人者にとっては人手不足となります",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●人手不足分野等での仕事の発注が見込まれる企業等",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kageki.hankyu.co.jp/sp/revue/2027/ooku/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/260213-87465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2020/05/a8e0ed106feeb0582d4c9c2b8da700b0.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpmgsr.jp/news_contents_8952.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/documents/research019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/contents/soshiki/gaiyou/24/R6-11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichizeiren.or.jp/wp-content/uploads/whatsnew/doc/hoken_minaoshi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_09589.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fp1-siken.com/kakomon/2023_5/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001546623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1180005014415",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000844146.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.jlaforums.com/viewtopic.php?t=5380047",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://data.bodik.jp/dataset/400009_sangyourenkanhyou_h27/resource/49fad67f-adfb-4ed8-b538-d5ce747b3c7e?inner_span=True",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/930004944.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagataya.jp/blog/employee-count-pension/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&toukei=00450464&tstat=000001064003&tclass1=000001098355&stat_infid=000031556135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001058200.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipss.go.jp/ssj-db/ssj-db-top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_50.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12500000/000955316.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokuto-sr.net/news_contents_9316.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workers-portal.jp/benefit/fork/001293/top.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/119300162/hokoku/2025700/2025%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://kageki.hankyu.co.jp/sp/revue/2027/ooku/news.html",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "https://www.jacom.or.jp/nousei/news/2026/02/260213-87465.php",
+    "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2020/05/a8e0ed106feeb0582d4c9c2b8da700b0.pdf",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.jprime.jp/ud/pressrelease/guid/dn0000365322",
+    "https://career-tasu.nikkeihr.co.jp/now_news/inews/23/NIRKDB20261103NKM0175/",
+    "https://jmsa1964.com/data/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://www.jil.go.jp/institute/research/documents/research019.pdf",
+    "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 人手不足 損失 億円",
+   "results": [
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20210624110000_S100LNJD/main/0/link/houkokusyo_fy2020.pdf",
+    "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.chuokai.or.jp/contents/soshiki/gaiyou/24/R6-11.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.parker.co.jp/ja/_pdf/topics/e3196e3143991e5e41b8e6d56c57a0519734b3f3.pdf",
+    "https://www.pref.kagoshima.jp/af23/sangyo-rodo/ui/zinzai/kyuzin/documents/9943_20261030095036-1.pdf",
+    "https://www.reddit.com/r/DisneyPlus/comments/j7j1gf/disney_plus_low_volume_on_pc_pls_help/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "https://www.nichizeiren.or.jp/wp-content/uploads/whatsnew/doc/hoken_minaoshi.pdf",
+    "https://www.mhlw.go.jp/stf/newpage_09589.html",
+    "https://fp1-siken.com/kakomon/2023_5/04.html",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://nytcrosswordanswers.org/___-tov-jewish-festival-crossword-clue/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.mhlw.go.jp/content/001546623.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://compalyze.co.jp/company/1180005014415",
+    "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "https://www.soumu.go.jp/main_content/000844146.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "http://www.jlaforums.com/viewtopic.php?t=5380047",
+    "http://www.jlaforums.com/viewforum.php?f=184"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 32
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.mhlw.go.jp/content/001546623.pdf",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://www.soumu.go.jp/main_content/000844146.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "https://data.bodik.jp/dataset/400009_sangyourenkanhyou_h27/resource/49fad67f-adfb-4ed8-b538-d5ce747b3c7e?inner_span=True",
+    "https://www.moj.go.jp/isa/content/930004944.pdf",
+    "https://www.espn.com/nfl/team/depth/_/name/hou/houston-texans"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 25
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.microsoft.com/en-us/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 従業者規模別",
+   "results": [
+    "https://kanagataya.jp/blog/employee-count-pension/",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=dataset&toukei=00450464&tstat=000001064003&tclass1=000001098355&stat_infid=000031556135",
+    "https://www.nenkin.go.jp/service/kounen/jigyosho/jigyoshokensaku.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.mhlw.go.jp/content/001058200.pdf",
+    "https://www.ipss.go.jp/ssj-db/ssj-db-top.html",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_50.pdf",
+    "https://www.bestbuy.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/content/12500000/000955316.pdf",
+    "https://www.nichizeiren.or.jp/wp-content/uploads/whatsnew/doc/hoken_minaoshi.pdf",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://workersboard.mori.co.jp/mypage/topics/3296",
+    "https://www.moj.go.jp/isa/content/930004944.pdf",
+    "https://fp1-siken.com/kakomon/2023_5/04.html",
+    "https://www.hokuto-sr.net/news_contents_9316.html",
+    "https://www.workers-portal.jp/benefit/fork/001293/top.html",
+    "https://www.hpmgsr.jp/news_contents_8952.html",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） 2015 2025",
+   "results": [
+    "https://www.npo-homepage.go.jp/npoportal/document/119300162/hokoku/2025700/2025%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2462",
+    "https://www.jcr.co.jp/download/dd22d0148ee11d10100afa4d644d4ad4b2a36e4d6f80ad48d7/25d1579.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903448.html",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.mitsui-high-tec.com/ir/files/1dfc527b1c363282657c5b52ab44a3882d2015d1.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/002514915.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://en.wikipedia.org/wiki/Jonathan_Heasley"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Japan Pension Service covered establishment search insured persons count plating heat treatment press die company Japan statistics",
+   "results": [
+    "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "https://cri.georgetown.edu/countries/japan/",
+    "https://www.nenkin.go.jp/international/english/index.html",
+    "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
+    "https://pensionresearchcouncil.wharton.upenn.edu/wp-content/uploads/2015/09/0-256-09141-2-3.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/pensions-at-a-glance-2023-country-notes_2e11a061/japan_b752f047/6198231e-en.pdf",
+    "https://www.mofa.go.jp/j_info/japan/socsec/maruo/maruo_5.html",
+    "https://www.ipss.go.jp/s-info/e/jasos/jasos.pdf",
+    "https://actuaries.org/app/uploads/2025/07/IPM5_Oyama_Papers_Boston2008.pdf",
+    "https://en.m.wikipedia.org/wiki/Japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+   "results": [
+    "https://www.reddit.com/r/amazon/comments/38tttx/why_is_amazons_website_so_godawfully_slow/",
+    "https://www.reddit.com/r/buildapc/comments/6tlj07/is_it_safe_to_buy_pc_components_on_amazon/",
+    "https://www.reddit.com/r/amazonprime/comments/128otcb/scary_mail_from_ofmamazoncom/",
+    "https://www.reddit.com/r/FASCAmazon/",
+    "https://www.reddit.com/r/amazon/about/",
+    "https://www.reddit.com/r/AmazonLunaHub/wiki/index/",
+    "https://www.reddit.com/r/hometheater/comments/8mrmob/anyone_ever_order_their_tv_through_amazon_howd_it/",
+    "https://www.reddit.com/r/amazon/comments/3hiaq1/is_it_reliable_to_buy_used_book_from_amazon/",
+    "https://www.reddit.com/r/amazon/comments/4p4rxa/unknown_gift_card_applied_to_my_account/",
+    "https://www.reddit.com/r/MerchByAmazon/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+   "results": [
+    "https://support.google.com/translate/answer/2534559?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/translate/answer/6142478?hl=en&co=GENIE.Platform=Android",
+    "https://translate.google.com/",
+    "https://support.google.com/meet/answer/10964115?hl=en-GB&co=GENIE.Platform=Desktop",
+    "https://support.google.com/translate/answer/6350850?hl=en&co=GENIE.Platform=Desktop",
+    "https://support.google.com/translate/answer/6142468?hl=tr&co=GENIE.Platform=Android",
+    "https://support.google.com/translate/answer/6350850?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/translate/answer/6142468?hl=ru&co=GENIE.Platform=Android",
+    "https://support.google.com/translate/?hl=en",
+    "https://support.google.com/translate/answer/6142469?hl=en&co=GENIE.Platform=Android"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85）",
+   "results": [
+    "https://webmail.apps.mil/tasks/",
+    "https://webmail.apps.mil/opx?bO=1",
+    "https://webmail.apps.mil/mail/?realm=army.mil",
+    "https://webmail.apps.mil/tasks/?app",
+    "https://webmail.apps.mil/bookings/",
+    "https://webmail.apps.mil/bookwithme/me"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） note 社長",
+   "results": [
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://release.nikkei.co.jp/attach_file/0505624_01.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://kageki.hankyu.co.jp/revue/2016/nobunaga/poster.html",
+    "https://openjicareport.jica.go.jp/pdf/11617362_01.pdf",
+    "https://iga-ueno.or.jp/wp-content/uploads/2020/04/f0f00a55f172f223680aab8418abfced.pdf",
+    "https://nippoltd.co.jp/assets/img/history.pdf",
+    "https://www.sangyokoyo.or.jp/kensaku_shokugyo/shokugyo_sakuin.pdf",
+    "https://forums.operationsports.com/forums/forum/football/ea-sports-college-football-and-ncaa-football/ncaa-football/576360-brendan-s-conference-realignment-guide"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社ごとの厚生年金の被保険者数（日本年金機構 厚生年金保険・健康保険 適用事業所検索・会社名と法人番号で・一次に近い人数・4-85） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_09589.html",
+    "https://workersboard.mori.co.jp/mypage/topics/3296",
+    "http://www.nta.co.jp/aft/70090244.asp",
+    "https://jobhouse.jp/factory/entry/1250101",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2464",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://www.jswa.jp/2024/04/01/35465/",
+    "https://cp.pfa.or.jp/nippon-chem/membership/index2.html",
+    "https://www.ait.ac.jp/assets/docs/career/lab-companies-seminar/guide2.pdf",
+    "https://answers.microsoft.com/en-us/outlook_com/forum/all/sharing-contacts-on-outlook-2016-mac-not-working/f03ca1ce-c9bb-4a1c-be46-0959370deb60"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "Japan Pension Service covered establishment search insured persons count plating heat treatment press die company site:linkedin.com",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/Japan",
+    "https://en.m.wikipedia.org/wiki/History_of_Japan",
+    "https://simple.m.wikipedia.org/wiki/Japan",
+    "https://www.japan.travel/en/",
+    "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "https://www.britannica.com/place/Japan",
+    "https://www.japan-guide.com/",
+    "https://www.japan.go.jp/japan/",
+    "https://www.worldatlas.com/maps/japan",
+    "https://www.japan.travel/en/us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）"
+ }
+}

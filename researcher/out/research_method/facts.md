@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・189品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・192品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -675,22 +675,23 @@
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
 - 手順・やり方：
+  - 「PHP2Shell：今知っておくべきことと、次に備える方法」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「ただし、より広範な収集と脅威インテリジェンスのフレームワークのコンテキスト内でこのアクティビティを見ることで、アクティビティを既知の攻撃者グループに帰属させることができるため、この特定の脅威アクターから組織を防御するために使用できるプロファイルに詳細性と具体性を与えることができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「能動的データ収集は、受動的データツールで識別されたサイバー脅威プロファイルを補完したり、その他の方法で特定の調査をサポートしたりするために、アドホックで使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「OSINTフレームワークとは、セキュリティチームが攻撃者またはそのアクションに関する情報を迅速かつ正確に特定できるように、データ、プロセス、方法、ツール、および手法を統合する方法論です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「OSINTフレームワークは次の目的に使用できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「ソース、ツール、方法、または目標でデータを分類する」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「さらに、OSINTは近年、パブリックドメイン内の情報を安全かつ確実に使用する方法について議論を巻き起こしています」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「OSINTによるセキュリティ情報調査方法まとめ #Security - Qiita」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「OSINTによるセキュリティ情報調査方法まとめ」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「最近（2016年頃）、サイバー攻撃の脅威を調べる方法として、公開情報を活用したOSINT（Open Source INTelligence／オシント）に注目が集まっています」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「但し、フレームワークに定義できないものもあることを認識しておきましょう」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「そうしないと、無理やりフレームワークに収めて結論を誤ったり、情報を落とす可能性があります」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「ロッキードマーチンが開発したフレームワーク」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「4つのA（action, asset, actor, attribute）で説明する方法で、脅威を記述・共有するためのモデル」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「ある程度表現に自由度があるので使い方がむつかしく、また、XML形式なのでビューアがないとちょっと読みにくいです」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「STIXとは異なって、脅威そのものではなく、IDSに投入するレベルに落とし込んだIOCの表現方法」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「攻撃の方法は絶えず変化するので、confidenceを75%くらいに設定して、ルールを運用するとよいそうです」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「組織の根幹であるリスク管理に相当する事項のため、分析で得られた知見の使い方については、一意の正解はありません」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧」（https://mikiya-webdesign.com/osint-tools/）
-  - 「TYLabs QuickSand Framework」（https://mikiya-webdesign.com/osint-tools/）
-  - 「使い方について7件まとめました」（https://mikiya-webdesign.com/osint-tools/）
-  - 「利用目的・方法・各規約によっては問題になる場合があるため、規約と法令を守り不当な用途では使わないでください」（https://mikiya-webdesign.com/osint-tools/）
 - 突き合わせ・推定：
+  - 「（侵入テスト、セキュリティ検証、脅威対象領域評価、」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
   - 「自宅で作るDFIR・NSM実習ラボ｜Security OnionでZeek・Suricataを動かす（安全な検証環境）」（https://yasashii-cybersecurity.com/osint_beginer/）
   - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint_beginer/）
@@ -705,8 +706,8 @@
   - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 一次情報の探し方：
+  - 「ソーシャルメディアプロファイル、オンラインアクティビティ、公的記録、その他のソースからの情報をつなぎ合わせるときに、ある人の習慣、関心、振る舞いの詳細なプロファイルを作成することが可能です」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります」（https://note.com/terueda/n/n5707498651c3）
   - 「～公開情報を武器に変える、守りのDX入門～｜solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
@@ -721,8 +722,9 @@
   - 「法人登記情報・組織図・使用している技術スタック（求人票から判明することが多い）・パートナー企業・オフィスの所在地などが対象になる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「従業員のSNS・GitHubのパブリックリポジトリ・求人票の記述内容を定期的に見直す」（https://note.com/red_structure/n/na2c79b00d217）
   - 「site:自社ドメイン filetype:pdf や site:自社ドメイン inurl:admin といった検索で、意図せず公開されているドキュメントや管理画面へのアクセス経路がないかを確認できる」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「情報収集先は公開されている情報全てとなりますので、ネット情報、公的記録、メディアなど、様々です」（https://note.com/subland_/n/nd946aa4f734d）
 - 失敗・落とし穴：
+  - 「また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「OSINT is often mistaken for simple online research. In practice, it follows a structured methodology that includes:」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
   - 「Avoid analytical bias or misinformation」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
   - 「「ネット検索なんて誰でもみんなやっている」と思われた社長、それは大きな間違いです」（https://note.com/terueda/n/n5707498651c3）
@@ -736,8 +738,6 @@
   - 「法律違反には注意しましょう」（https://note.com/subland_/n/nd946aa4f734d）
   - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「倫理的考察と注意点」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 実例：
   - 「GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis. · GitHub」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
   - 「- Help find real world examples of functions, API's and libraries across 10+ sources.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
@@ -746,14 +746,14 @@
   - 「ここからは、企業でOSINTの手法を効果的に活用するための活用事例を6パターン紹介します」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
   - 「調査結果は、日本語で分かりやすくまとめたレポートとして提供されます」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
   - 「VPN機器の脆弱性はなぜ狙われる？2026年の不正アクセス事例とSCS評価制度★3で求められる対策」（https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools）
+  - 「例えば、ソーシャルメディアアカウントをマイニングして、ユーザーの名前、生年月日、家族構成、居住地などの個人情報を得ることができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「サイバーセキュリティにおけるOSINTのユースケース」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「サイバーセキュリティにおけるOSINTの一般的なユースケースとして、次の2つがあります」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「例えば、公開掲示板への投稿はそれ自体では、サイバーセキュリティチームにとって有用な情報をもたらさない可能性があります」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「例えば、公開されているインテリジェンスを確認することで、脅威アクターは組織が防御ラインを張る可能性のある場所を把握し、別の攻撃方法を探すことができます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
+  - 「例えば、サイバー犯罪者は、「機密だが未分類の情報」というフレーズを含むドキュメントのファイル検索を実行できます」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「ネットで「消費税 軽減税率」と検索するのが「本を1冊だけ引っ張ってくる」行為なら、OSINTは「関連する通達・Q&A・他自治体の運用事例・国会答弁を横断的に集めて、自庁の規則と照らし合わせる」行為です」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「【ケース①：消費税の経過措置、あなたの自治体は正しく運用できていますか？】」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「しかし現場では、「昨年の担当者がまとめた資料」や「ベンダーから届いた説明資料」だけを頼りに運用しているケースが少なくありません」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「そして、高額な追徴が発生したケースも私は存じ上げております・・・」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「【ケース②：自治体ホームページは、OSINTの「見本市」でもある】」（https://note.com/solo_style/n/n985b3c636ab6）
-  - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「といった投稿をSNSにしてしまうケースも実際に起きている」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「例えば「あるメールアドレス」を起点に、関連するドメイン・IPアドレス・SNSアカウント・人物情報が芋づる式に展開されていく」（https://note.com/red_structure/n/na2c79b00d217）
 - 検索結果の抜粋：
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — ユーザー名調査 Username 19件 公開されているユーザー名情報を調べるためのOSINTツールをまとめています。 Webでユーザー名を横断検索。 ユーザー名を複数サイトで横断検索（要ローカル導入）。 ユーザー名を複数サイトで横断検索（要ローカル導入）。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (OSINT) - Global Strategic Business ...GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of ...OSINT Methodology: How Open Source Intelligence WorksTop 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights B」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
@@ -2928,6 +2928,12 @@
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「promote awareness of the role, responsibilities, and practices, and how to engage ombuds;」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「options or to show broader context or background. AR Cs are an appropriate method for」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「CIO, the IC shall adopt a method to provide customized, Public Key Infrastructure-enabled」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「the protection of sensitive data, sources, methods, and activities. Tearlines should adhere to the」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「sources and methods, when disclosure would harm national security. The degree to which」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
   - 「Altss Private Markets OSINT Verification Standard | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Inspect the methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2937,13 +2943,10 @@
   - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Entity Resolution Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Temporal Data & Freshness Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Investment Signal Classification Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「the collection method, as process metadata (rule 6.2);」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「describes the quality and credibility of its underlying sources and methods;」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「6.2 Collection method is not origin.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
 - 突き合わせ・推定：
+  - 「(e.g., "according to ... ") or a specific aspect of analysis (i.e., judgment, assessment, estimate,」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「Estimates), applicable source information shall be retained for the period of the time horizon or」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「estimate, compilation, database, graphic, or interactive publication, created by the analytic」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「observed, derived and estimated data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2973,6 +2976,11 @@
   - 「A copy of a filing hosted by an aggregator.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
 - 失敗・落とし穴：
+  - 「objectivity, bias, politicization, or other issues in Standards application in analytic producti;.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「politicization, biased reporting, or lack of objectivity in intelligence analysis.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「objectivity, bias, politicization, or other issues in Standards application in analytic products.」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
   - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
   - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
@@ -2983,11 +2991,6 @@
   - 「このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
-  - 「IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
-  - 「分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
-  - 「分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
-  - 「分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
-  - 「このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
 - 実例：
   - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -3466,6 +3469,8 @@
 - 手順・やり方：
   - 「貸借対照表の要旨を正しく作成する手順がわかります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「東京官書普及（千代田区）への窓口持参からWEB申込まで、具体的な手順を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -3477,8 +3482,6 @@
   - 「決算公告で損益計算書の開示は必要？大会社と非大会社の違い、公告方法別の記載ルール、当期純損益の付記義務を会社法に基づき解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告で損益計算書の開示は必要？大会社と非大会社の違い、公告方法別の記載ルール、当期純損益の付記義務を会社法に基づき解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3511,6 +3514,7 @@
   - 「信託登記が入っている不動産の売却時チェックリスト」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 失敗・落とし穴：
+  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3525,11 +3529,12 @@
   - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「主要企業の官報公告事例と実務への影響を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3540,8 +3545,6 @@
   - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「例えば、3月決算の会社が期中に資本金が5億円以上になった場合でも、その事業年度の貸借対照表が承認・報告される翌年の定時株主総会の時点ではじめて大会社に該当することになります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「義務を怠った際、過料が処されたケースが少ない」（https://keiridriven.mjs.co.jp/171979/）
-  - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -9504,11 +9507,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ
@@ -11360,3 +11363,146 @@
   - 「例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます」（https://jp.sansan.com/media/aggregation-of-names/）
   - 「ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
 - 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+
+## 決算公告の貸借対照表を内訳の合計と資産合計で照合して読む実務と、株式会社以外の法人（医療法人・協同組合・社団）の決算の科目の違い（開示ワイヤー 決算公告ガイドの書き手）（reading Japanese statutory balance sheet notices verify totals non-stock corporations accounts）
+- 文脈：手法
+- 手順・やり方：
+  - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ここからは、実際に貸借対照表の要旨を作成するための具体的な手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「貸借対照表の要旨は、以下の5ステップで作成できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ステップ3: 表示単位を決定し、金額を変換する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ステップ4: 当期純利益（又は当期純損失）を付記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ステップ5: 資産合計と負債純資産合計の一致を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ここでは、典型的な中小企業（非大会社・非公開会社）を想定した記入済みサンプルを掲載します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「貸借対照表の要旨を実際に公告する方法は3つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「それぞれの特徴を比較して、自社に最適な方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「まだ決算公告の方法を決めていない方は、「」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「決算公告とは？義務・罰則・3つの公告方法を基礎からわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+- 一次情報の探し方：
+  - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「決算公告の貸借対照表「要旨」とは？全文との違いを理解する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「ミス5: 決算日の記載漏れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「まとめ｜貸借対照表の要旨を正しく作成して決算公告を完了しよう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「Q4. 合同会社でも決算公告は必要ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「Q5. 決算公告をしないとどうなりますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「株式会社には会社法440条により決算公告の義務があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「実は、決算公告で掲載する貸借対照表には「全文」と「要旨」の2パターンがあり、多くの中小企業は「要旨」で公告できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「会社分類ごとの記載義務の違い、必須科目、よくある記載ミスまで網羅しているので、初めて決算公告を行う方でもこの記事だけで作成を完了できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「官報で約1/4ページ〜1/2ページ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「官報で1ページ以上になることも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「つまり、資本金5億円未満かつ負債200億円未満の中小企業であれば、貸借対照表の「要旨」で決算公告を行うことができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「合同会社には決算公告の義務がないため、合同会社の経営者は「公告をしない」という選択ができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+- 失敗・落とし穴：
+  - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+- 実例：
+  - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「「流動資産は千円単位、固定資産は円単位」のように、同じ表の中で異なる単位が混在するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「端数処理（四捨五入・切り捨て）の結果、資産合計と負債及び純資産合計に差異が生じることがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「「資本準備金」と「資本剰余金」を混同するケース、「当期未処分利益」と「利益剰余金」を取り違えるケースが見られます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「実務上、積極的に摘発されるケースは多くありませんが、法的リスクとして認識しておく必要があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「近年はコンプライアンス意識の高まりから、取引先や金融機関が決算公告の実施を確認するケースも増えています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+
+## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
+- 文脈：手法
+- 手順・やり方：
+  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「るためにさまざまな方法を用いてきた 11, 17, 19, 20）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「難である可能性が高いことが，検索方法の出版後査」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源や方法を使用した検索を報告方法に関する指」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献検索方法の報告が不完全であると疑念が生」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+- 突き合わせ・推定：
+  - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「テストされ，検証されているが， SR またはその他」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of grey literature influence estimates of intervention」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「3ヶ月かけて収集した200件の論文が、矛盾するデータや重複情報で整理不能に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「医療分野では治療効果の評価に、教育現場では介入プログラムの検証に活用され、心理学領域ではメンタルヘルス介入の効果測定に応用されています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「RevMan Webを使用したデータ転送では、自動検証機能が入力エラーを72%削減します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「データ整合性維持には、3段階検証プロセス（入力時・統合時・解析前）が有効です」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「Review Managerを活用したデータ抽出では、自動検証機能が入力ミスを72%防止するという結果が報告されています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「具体的な解析プロトコルでは、ノード間の一貫性検証に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「特に匿名化処理では、3段階検証システム（自動処理・手動確認・第三者チェック）が個人情報漏洩リスクを82%低減します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「測定値の不一致が生じた場合、3段階検証フロー（再測定・機器点検・専門家相談）を採用する機関では、データ廃棄率を56%削減しています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「データ欠損：自動入力検証システムの導入（エラー率72%削減）」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「データ統合段階では、3段階検証プロセスが入力エラーを56%抑制します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+- 一次情報の探し方：
+  - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Cochrane Reviews 119, 120）で採用された介入（実施戦」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「2023年の分析では、この手法を採用した論文が掲載率を41%向上させた事例があり、読解時間の短縮効果が認められています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+- 失敗・落とし穴：
+  - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「SR 検索に学会抄録を含めると，バイアスを最小限に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な限り多くのバイアスを取り除くために開発された」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「と視覚的なフローチャートを活用した結果、研究デザインの明確化からバイアス評価まで、システマティックな作業が可能に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+  - 「メタ解析実施時のバイアスリスク評価フレームワーク」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
+- 実例：
+  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献 DB には肯定的な結果を報告した英語の出版物」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+
+## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
+- 文脈：手法
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）

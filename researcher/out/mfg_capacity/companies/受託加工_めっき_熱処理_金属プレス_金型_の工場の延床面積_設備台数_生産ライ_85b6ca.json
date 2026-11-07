@@ -1,0 +1,640 @@
+{
+ "name": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+ "en": "Japanese contract plating heat treatment press shop floor area equipment count revenue employees company profile",
+ "aliases": [
+  "めっき 会社概要 延床面積 従業員数 売上高 工場",
+  "熱処理 受託 会社概要 設備台数 炉 従業員 売上",
+  "金属プレス 会社概要 プレス機 台数 従業員数 売上高"
+ ],
+ "context": "1人あたり生産能力",
+ "kind": "market",
+ "researched_at": "2026-11-07T16:52:01.592612+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100021",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/2019/tis_news/20190701_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/13th/saitaku13ji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_08_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/monozukuri300sha/zenbun/2018habataku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/1464/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfca-net.or.jp/data_files/view/4609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/press.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/R2monodukurikigyo_guidebook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.gunma.jp/uploaded/attachment/707690.xlsx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/103090650/hokoku/2022700/2022%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2211.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Index_search/detail?idx=269&tmtl=3&jcode=000000015&vsw=1&vidx=154&ppg=30&rgtn=WZ2130429&hidx=0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wis-jma.go.jp/sataid/ec/IR20261022.Z0020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/12_kinzoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zukaikeizai.com/gyokai/jigyo/industrial-equipment/metal-processing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl2903978.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://daichiku.jp/wp-content/uploads/2022/10/H30_seikajireishu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sd1c27a6c8d051504.jimcontent.com/download/version/1614744918/module/14607175629/name/%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%EF%BC%89_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jobhouse.jp/factory/entry/1250006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai-kyoto.or.jp/whatsnew/R520seikajirei2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/outline/pdf/2009_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-holdings.co.jp/common/pdf/sustainability/data/2026/sustainability_2026_j_A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903645.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://yamagata-carsite.jp/images/corp-img/yamagata_car_guide_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/lab/mass-production-technology-and-equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.parker.co.jp/en/ir/_pdf/133-report-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 人手不足 受注 断る",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://workersboard.mori.co.jp/mypage/topics/3296",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100021",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "https://www.tisi.jp/documents/jp/news/2019/tis_news/20190701_1.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://jigyou-saikouchiku.go.jp/pdf/result/plan/seizo_08.pdf",
+    "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf",
+    "https://corp.tanso-man.com/subsidy-blog/subsidies-for-metal-processing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 受注残 人手不足",
+   "results": [
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/13th/saitaku13ji.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_08_06.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/monozukuri300sha/zenbun/2018habataku.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://jobhouse.jp/factory/entry/1209018",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 人手不足 損失 億円",
+   "results": [
+    "https://monoist.itmedia.co.jp/mn/series/1464/",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "http://www.tck.or.jp/wp-content/uploads/2021/01/monodukuriseikajireisyu2020_web.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+   "results": [
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/press.pdf",
+    "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/R2monodukurikigyo_guidebook.pdf",
+    "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/1464/",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/13th/saitaku13ji.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.pref.gunma.jp/uploaded/attachment/707690.xlsx",
+    "https://www.e-stat.go.jp/statistics/00550630",
+    "https://www.st-k.jp/accession/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/103090650/hokoku/2022700/2022%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.pref.gunma.jp/uploaded/attachment/707690.xlsx",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2211.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "https://www.stat.go.jp/library/opac/Index_search/detail?idx=269&tmtl=3&jcode=000000015&vsw=1&vidx=154&ppg=30&rgtn=WZ2130429&hidx=0",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/R2monodukurikigyo_guidebook.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/IR20261022.Z0020",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/press.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/qa.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2903978.html",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/R2monodukurikigyo_guidebook.pdf",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/press.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl2904064.html",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/13th/saitaku13ji.pdf",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 1人当たり 万円",
+   "results": [
+    "https://workersboard.mori.co.jp/mypage/topics/3296",
+    "https://daichiku.jp/wp-content/uploads/2022/10/H30_seikajireishu.pdf",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://sd1c27a6c8d051504.jimcontent.com/download/version/1614744918/module/14607175629/name/%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%EF%BC%89_all.pdf",
+    "https://jobhouse.jp/factory/entry/1250006",
+    "https://www.chuokai-kyoto.or.jp/whatsnew/R520seikajirei2023.pdf",
+    "https://www.mhi.com/jp/company/overview/outline/pdf/2009_all.pdf",
+    "https://www.jfe-holdings.co.jp/common/pdf/sustainability/data/2026/sustainability_2026_j_A3.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） 2015 2025",
+   "results": [
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903645.html",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/all/press.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/1464/",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://www.pref.gunma.jp/uploaded/attachment/707690.xlsx",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2025/01/2024web.pdf",
+    "https://yamagata-carsite.jp/images/corp-img/yamagata_car_guide_2026.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Japanese contract plating heat treatment press shop floor area equipment count revenue employees company profile Japan statistics",
+   "results": [
+    "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "https://www.parker.co.jp/en/ir/_pdf/133-report-1.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/semiconductor-manufacturing-equipment-market/japan",
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2025_databook_print.pdf",
+    "https://bullfincher.io/ranking/top-industrial-companies-in-japan-by-revenue",
+    "https://www.thefabricator.com/thefabricator/article/lasercutting/japans-precision-sheet-metal-business-keeps-climbing",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://www.espec.co.jp/english/ir/event/pdf/presentation2023_2q_ref01.pdf",
+    "https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market",
+    "https://takamatsu-p.co.jp/en/corporate/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+   "results": [
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/kyowa_heat1961/n/ne5de74a0c95c",
+    "https://note.com/coherentmi/n/n03ba62f0e485",
+    "https://note.com/mobio_osaka/n/nef02e7d3ad90",
+    "https://note.com/kakuka0904/n/n76a762fba66a",
+    "https://note.com/hiroaki_ohishi/n/ncf379a24bfa6",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/ripla_business/n/n69edf0a9d4fe"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/sangyo_web/status/2082658736473358551",
+    "https://x.com/JX_NMM/status/2069674314270703828",
+    "https://x.com/SATOMIOFFICE/status/1673611933541597185",
+    "https://x.com/i/trending/2069702449208627603",
+    "https://x.com/MetalTechJapan/status/2034102499255456148",
+    "https://x.com/realix1967"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+   "results": [
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa",
+    "https://jp.linkedin.com/posts/乃慧-和田-a7aa6987_化学物半導体前工程専門家新規事業現年収up保証希望に応相談5年以上経歴-activity-7126090776618430464-uhsW",
+    "https://www.linkedin.com/posts/真-高田-80b6611b5_積層造形-金属3dプリンター-j3d-activity-6712253493492662274-T0d-",
+    "https://jp.linkedin.com/posts/horiba-japan_車両開発エンジニアリング-自動車開発を支えるソリューション-activity-7166280601212243970-LL31",
+    "https://jp.linkedin.com/posts/atsushi-kaneko-5319ab233_ガス焼けになる前にガス抜き部品sg-windやsg-porousを使って-activity-7285883367869370369-7VME",
+    "https://jp.linkedin.com/posts/月刊プロパティマネジメント_pm会社の実態と事業動向-216社のアンケート分析抜粋版-2025年11月号-activity-7395035587700965376-TCkP"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:facebook.com 受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84）",
+   "results": [
+    "https://www.facebook.com/nkkmold/",
+    "https://www.facebook.com/shinwa.plating/posts/964229220323551/",
+    "https://www.facebook.com/INTERMOLD/posts/intermold金型展金属プレス加工技術展2026-1月31日まで出展申込受付中日程-5月20日水22日金ポートメッセなごや申込締切-1月31日土-残り約3週/1409122094341214/",
+    "https://www.facebook.com/binrepo/posts/この人に聞く-ワールド工業-代表取締役社長-梅本-恭宏氏大型品対応や厚付けめっき耐久性に優れた筆めっきに強み-福山市にある１９９２年設立のワールド工業備後圏域や/1485536253413623/",
+    "https://www.facebook.com/permalink.php/?story_fbid=208570915022051&id=100076074313664",
+    "https://www.facebook.com/bydjapan/posts/知っていますか実はbyd日本でも製造拠点があります金型はプレス加工等には欠かせないツールのひとつで館林のtmc工場にて金型の設計と製作を取り組んでいますbyd-/1311406686941565/",
+    "https://www.facebook.com/Mazda.Japan/posts/超巨大プレスを52年間うごかし続けるそれを支える地道な技術とはクルマのボディパーツを生産するプレス機械マツダ本社プレス工場では最大5200トンの大型プレス機械を/995170177237430/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） note 社長",
+   "results": [
+    "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/R2monodukurikigyo_guidebook.pdf",
+    "http://www.alps.or.jp/follow/wp-content/uploads/2017/05/2015kouki.pdf",
+    "https://openjicareport.jica.go.jp/pdf/11681939_09.PDF",
+    "https://jobhouse.jp/factory/entry/1188728",
+    "https://www.kigyorichi.pref.fukuoka.lg.jp/ja/wp-content/uploads/2026/02/d88fa5928e909b8b3eeb48151fbab790.pdf",
+    "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "http://www.tck.or.jp/wp-content/uploads/2021/01/monodukuriseikajireisyu2020_web.pdf",
+    "https://yamagata-carsite.jp/images/corp-img/yamagata_car_guide_2026.pdf",
+    "https://www.nissan-global.com/JP/SUSTAINABILITY/LIBRARY/SR/2026/ASSETS/PDF/DB26_J_All.pdf?adobe_mc=MCMID%3D57994931573662167747978708078606479228%7CMCORGID%3D0BCEE1CE543D41F50A4C98A5%2540AdobeOrg%7CTS%3D1792972800",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託加工（めっき・熱処理・金属プレス・金型）の工場の延床面積・設備台数・生産ライン数と売上・従業員数（公式の会社概要の同じページ・売上の推定の3本目の切り口＝物理の足跡・4-84） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/documents/kanagata_5years.pdf",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/13th/saitaku13ji.pdf",
+    "https://jobhouse.jp/factory/entry/1251304",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2023_ir_j.pdf",
+    "https://www.nikkan.co.jp/brand/industries/semiconductor/",
+    "https://www.chusho.meti.go.jp/earthquake2011/download/110818Eq-Jirei-5.pdf",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://jigyou-saikouchiku.go.jp/pdf/result/plan/seizo_08.pdf",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "https://www.e-stat.go.jp/statistics/00550630"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japanese contract plating heat treatment press shop floor area equipment count revenue employees company profile site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/stahls'",
+    "https://www.linkedin.com/company/bluewater-thermal-solutions",
+    "https://www.linkedin.com/company/ingersoll-rand",
+    "https://www.linkedin.com/company/thermo-fisher-scientific",
+    "https://www.linkedin.com/company/avery-dennison",
+    "https://www.linkedin.com/company/precision-resource-inc",
+    "https://www.linkedin.com/company/flow-international",
+    "https://www.linkedin.com/company/lyten-inc",
+    "https://www.linkedin.com/company/capital-machine-technologies-inc-",
+    "https://www.linkedin.com/company/rossindustriesinc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

@@ -1,0 +1,393 @@
+{
+ "name": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
+ "en": "estimate private company revenue physical footprint square footage locations equipment funding valuation limits",
+ "aliases": [
+  "売上 推定 床面積 拠点数 設備 非上場",
+  "private company revenue estimate square footage headcount triangulate",
+  "資金調達 評価額 売上 逆算 倍率 限界"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-07T16:51:57.314012+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/nagi_cpa_tax/n/n7f6edb10137f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jsuccession/n/n121cd8650c54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sk_kasou/n/n5f399867efe8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunagu_family/n/ne228b9df9ebe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moddah/n/ndd7e27b228d4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jarea.org/cms_files/general/public_doc/practical/syoukenkashishin_20211124.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/kkatada/n/nc2e4f1273091",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001205705.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://recog.works/ja/news/detail/584",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rals.co.jp/invest/column/finance/real-estate-loan-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://owner.minorasu.co.jp/asset/%E8%B3%83%E8%B2%B8%E7%B5%8C%E5%96%B6%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%80%E7%AC%AC8%E5%9B%9E-%E7%89%A9%E4%BB%B6%E3%81%AE%E6%8B%85%E4%BF%9D%E5%8A%9B%E2%91%A1%E7%A9%8D%E7%AE%97%E8%A9%95%E4%BE%A1/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0498655_05.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://biz.moneyforward.com/ipo/basic/7665/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toushi-hakase.com/simulation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbineotrade.jp/ipo/pdf/660A-3.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001059020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0535844_02.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.javada.or.jp/jigyou/gino/business/h29l063c01x.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonzaitaku.co.jp/publicity/mt/201812/20181222%20%E9%80%B1%E5%88%8A%E7%8F%BE%E4%BB%A3%EF%BC%88%E6%8E%B2%E8%BC%89%E7%94%A8%EF%BC%89.pdf?link=Seminar_Title&sk=nztm&article=real-estate-investment-merit&indirect=true",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-ap.com/custom/pdf/kinri_202603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93301/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://microventures.com/how-to-value-a-private-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valentiam.com/newsandinsights/private-company-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 site:note.com",
+   "results": [
+    "https://note.com/nagi_cpa_tax/n/n7f6edb10137f",
+    "https://note.com/jsuccession/n/n121cd8650c54",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/tsunagu_family/n/ne228b9df9ebe",
+    "https://note.com/yocchiamo/n/nb28bd622d21f",
+    "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "https://note.com/high_growth/n/n4a6a9be72fed",
+    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 note",
+   "results": [
+    "https://note.com/moddah/n/ndd7e27b228d4",
+    "https://jarea.org/cms_files/general/public_doc/practical/syoukenkashishin_20211124.pdf",
+    "https://note.com/kkatada/n/nc2e4f1273091",
+    "https://www.mlit.go.jp/common/001205705.pdf",
+    "https://recog.works/ja/news/detail/584",
+    "https://www.rals.co.jp/invest/column/finance/real-estate-loan-evaluation/",
+    "https://www.shinshu-u.ac.jp/guidance/disclosure/corporation/yakuinkai/uploads/556yakuin_20220518.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2024/documents/11.pdf",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 やり方",
+   "results": [
+    "https://jarea.org/cms_files/general/public_doc/practical/syoukenkashishin_20211124.pdf",
+    "https://www.rals.co.jp/invest/column/finance/real-estate-loan-evaluation/",
+    "https://owner.minorasu.co.jp/asset/%E8%B3%83%E8%B2%B8%E7%B5%8C%E5%96%B6%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%80%E7%AC%AC8%E5%9B%9E-%E7%89%A9%E4%BB%B6%E3%81%AE%E6%8B%85%E4%BF%9D%E5%8A%9B%E2%91%A1%E7%A9%8D%E7%AE%97%E8%A9%95%E4%BE%A1/",
+    "https://release.nikkei.co.jp/attach_file/0498655_05.pdf",
+    "https://biz.moneyforward.com/ipo/basic/7665/",
+    "https://www.toushi-hakase.com/simulation/",
+    "https://www.sbineotrade.jp/ipo/pdf/660A-3.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.javada.or.jp/jigyou/gino/business/h29l063c01x.pdf",
+    "https://service.g-search.jp/2024/12/20/01062.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 事例",
+   "results": [
+    "https://jarea.org/cms_files/general/public_doc/practical/syoukenkashishin_20211124.pdf",
+    "https://www.mlit.go.jp/common/001059020.pdf",
+    "https://release.nikkei.co.jp/attach_file/0535844_02.pdf",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.javada.or.jp/jigyou/gino/business/h29l063c01x.pdf",
+    "https://www.nihonzaitaku.co.jp/publicity/mt/201812/20181222%20%E9%80%B1%E5%88%8A%E7%8F%BE%E4%BB%A3%EF%BC%88%E6%8E%B2%E8%BC%89%E7%94%A8%EF%BC%89.pdf?link=Seminar_Title&sk=nztm&article=real-estate-investment-merit&indirect=true",
+    "https://www.tokyo-ap.com/custom/pdf/kinri_202603.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93301",
+    "https://jicpa.or.jp/specialized_field/files/4-22-1-2-20191101.pdf",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "estimate private company revenue physical footprint square footage locations equipment funding valuation limits",
+   "results": [
+    "https://mergersandinquisitions.com/private-company-valuation/",
+    "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
+    "https://microventures.com/how-to-value-a-private-company",
+    "https://www.valentiam.com/newsandinsights/private-company-valuation",
+    "https://www.privco.com/insights/Complete-Guide-to-Private-Company-Valuation-Methods-Formulas-and-Practical-Insights",
+    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "https://carta.com/learn/startups/equity-management/private-company-valuations/",
+    "https://www.mcmcapital.com/case-study/how-to-quickly-estimate-the-value-of-a-private-company/",
+    "https://www.westernsouthern.com/life-insurance/business-valuation-calculator",
+    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
+   "results": [
+    "https://note.com/dkoni/n/n15104ce67ce1",
+    "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/hasegawa_shohey/n/nc8a7f10f9e66",
+    "https://note.com/high_growth/n/n4a6a9be72fed",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/exepro_partner/n/n4a67c00c02d9"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
+   "results": [
+    "https://x.com/zenmizo/status/2067530235437072458",
+    "https://x.com/nikkeinagoya/status/2076864183162044495",
+    "https://x.com/LOCAMA_AT/status/2061942316475240670",
+    "https://x.com/biz_arts1/status/2066007720831156440",
+    "https://x.com/nyx2308/status/2076799043733422442",
+    "https://x.com/sector__0/status/2108034900213617116",
+    "https://x.com/centurion_engnr/status/2092907732995076418"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界",
+   "results": [
+    "https://www.facebook.com/takesi.morisita/videos/軽貨物の管理まだバラバラ点呼は紙報告はline売上や経費は別で管理現場も管理者も確認するだけで時間がかかるだからofaは自社で使う仕組みをつくりましたofa-d/1809450847155938/",
+    "https://www.facebook.com/reformonline/posts/主要な設備建材メーカー81社の最新決算をまとめ売上高順にランキング化しました売上高1位は昨年同様lixil東京都品川区でしたメーカーの76が増収だったが収益面で/1374521241349935/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/上場を直近20年以上続けている日本の完成車メーカー9社を対象に売上高ランキングを作成売上高の増減を視覚化できるアニメーションを用いてレースを繰り広げているような/4059036037541539/",
+    "https://www.facebook.com/reformonline/photos/建材設備流通会社売上高ランキング2026渡辺パイプ9増収で1位本誌が実施した主要建材卸販売会社の売上高調査で渡辺パイプ東京都千代田区が昨年に続き首位を獲得しまし/1549344207200970/",
+    "https://www.facebook.com/depart.tazunearuki/posts/そごう大宮店さいたま市最大の売場面積をもつ百貨店政令指定都市さいたま市にあって売場面積は最大ながら売上で地域二番店に甘んじているそごう大宮店開業して36年そごう/733477358807528/",
+    "https://www.facebook.com/retailguide.lg/posts/売上高5000億円経常利益300億円突破で勢い増すオーケーが登戸店をオープンhttpsretailguidetokubaicojpstore6872/319454923172090/",
+    "https://www.facebook.com/NewBalanceJapan/posts/ニューバランス-ウォーキングシューズ-日本国内販売足数金額-13年連続no1を獲得ニューバランスジャパンはウォーキングシューズのカテゴリーにて2013年から13/1407741091392640/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 note 社長",
+   "results": [
+    "https://note.com/moddah/n/ndd7e27b228d4",
+    "https://note.com/kazufumi0110/n/n6cdf6b2bc743",
+    "https://note.com/openpage/n/neb4536ecfc91",
+    "https://release.nikkei.co.jp/attach_file/0525800_04.pdf",
+    "https://note.com/kkatada/n/nc2e4f1273091",
+    "https://www.mlit.go.jp/common/001059020.pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2024/documents/11.pdf",
+    "https://recog.works/ja/news/detail/584",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "非上場の売上を物理の足跡（拠点・床面積・設備台数・車両台数）から推定する方法と、評価額・資金調達から逆算するときの限界 X 投稿",
+   "results": [
+    "https://www.mlit.go.jp/common/001205705.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.mspf.jp/grande21/common/upload_attached_file.php?uaf_id=10715",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://www.nihonzaitaku.co.jp/publicity/mt/201805/20180420Nikkin.pdf?link=BukkenShokaiHoho&sk=nztm&article=real-estate-investment-fraud&indirect=true",
+    "https://www.nihon-ma.co.jp/tokyopromarket/faq.html",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://www.toushi-hakase.com/simulation/",
+    "https://www.taisyaku.jp/about/backwardation/",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "estimate private company revenue physical footprint square footage locations equipment funding valuation limits site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/shelly-rastogi",
+    "https://ca.linkedin.com/company/intrepid-growth-partners",
+    "https://www.linkedin.com/company/principal-asset-management",
+    "https://www.linkedin.com/company/advent-international",
+    "https://www.linkedin.com/pulse/state-tax-nexus-20-why-startups-owe-states-theyve-never-ryan-wang-13j6c",
+    "https://www.linkedin.com/in/codiesanchez",
+    "https://www.linkedin.com/in/stefan-safko",
+    "https://www.linkedin.com/in/allyson-johnson-caia",
+    "https://www.linkedin.com/company/silver-lake",
+    "https://www.linkedin.com/company/star-mountain-capital-llc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T16:51:57.314012+00:00"
+}
