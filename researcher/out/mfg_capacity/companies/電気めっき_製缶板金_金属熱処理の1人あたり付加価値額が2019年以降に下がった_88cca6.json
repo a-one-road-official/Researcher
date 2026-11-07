@@ -1,0 +1,356 @@
+{
+ "name": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+ "en": "electroplating sheet metal heat treatment Japan value added per employee decline flat after 2019",
+ "aliases": [
+  "めっき業 付加価値 減少 2020年",
+  "製缶板金 受注 減少 2023年",
+  "熱処理 加工 受注 横ばい 2024年",
+  "全国鍍金工業組合連合会 景況 減少"
+ ],
+ "context": "反対の向き",
+ "kind": "market",
+ "researched_at": "2026-11-07T01:42:17.110236+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://heroes.freee.co.jp/magazines?gs=4d7de767715ef07492faf647960a25f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalregister.gov/documents/2025/08/15/2025-15504/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2024_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 人手不足 受注 断る",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf",
+    "https://heroes.freee.co.jp/magazines",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport2023_03_14.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 受注残 人手不足",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 人手不足 損失 億円",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 推移",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf",
+    "https://heroes.freee.co.jp/magazines"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 統計 PDF",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf",
+    "https://heroes.freee.co.jp/magazines"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 従業者規模別",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf",
+    "https://heroes.freee.co.jp/magazines"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 1人当たり 万円",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） 2015 2025",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "electroplating sheet metal heat treatment Japan value added per employee decline flat after 2019 Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "https://www.federalregister.gov/documents/2025/08/15/2025-15504/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2024_all.pdf",
+    "https://www.ibisworld.com/united-states/industry/metal-plating-treating/650/",
+    "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://koreascience.kr/article/JAKO202124452986588.pdf",
+    "https://www.renewable-ei.org/en/activities/reports/20261020.php",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+   "results": [
+    "https://note.com/yo4shi80/n/nb97a4861142e",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/at_consulting18/n/nf47674263cb5",
+    "https://note.com/pairworkai_jp/n/n665dab81d763",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2110554213998903373",
+    "https://jf.x.com/images/media-preview/2104128174888308978",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733",
+    "https://x.com/Masa_Hyo0214_II/status/1802459184040206727",
+    "https://x.com/OgawaSeisakusho/status/2036204919619985880",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/OgawaSeisakusho/status/2053943645666259366"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/pulse/熱処理サービス-market-forecast-report-2026年から2033年までの14-cagr成長の分析市場の課題および新たなトレンド-yfhbe",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／快適な寮完備☆／月収例32-1万円／赴任パックプレゼント！【板金機械のオペレーター作業】（no-os-10368-20-jp）-at-フジアルテ株式会社-4466742090",
+    "https://www.linkedin.com/jobs/view/【焼津／第二新卒・未経験歓迎】電気制御設計～転勤無／製缶業界topクラスシェア／世界に誇る独自技術～-at-株式会社三友機械製作所-4023138170",
+    "https://jp.linkedin.com/pulse/金属無電解めっき溶液の市場規模市場シェア市場成長タイプ別用途別の市場分析地域の洞察および2033年ま-7477415786589048835-gnane",
+    "https://jp.linkedin.com/jobs/view/＜長野市＞金属部品のめっき・段取り-日払いok【アナタのスキル活かしませんか？】残業ほぼナシでプラ充！落ち着く少人数の職場！-at-株式会社綜合キャリアオプション-4453657300",
+    "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）",
+   "results": [
+    "https://www.facebook.com/people/株式会社メタルヒート金属熱処理/100057429280184/",
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/denkimekki/posts/2023年度総会ならびに講演会のご案内めっき業を取り巻く現状と将来展望-下記のとおり2023年度総会講演会を開催いたします万障お繰り合わせの上ご参加下さいますよ/720004953160255/",
+    "https://www.facebook.com/radiobingo777/posts/ラジオコラボマガジンｒｂの中で備後の経営者群像-第8回を執筆しました備後の経営者たちが市場環境等の変化にどのように対応したのかその事績を紹介します今回は福山熱煉/1435545791913579/",
+    "https://www.facebook.com/100057429280184/posts/-代表取締役原敏城藍綬褒章受章-公表2020年4月28日各メディア多数内容令和2年春の褒章藍綬褒章受章この度代表取締役の原敏城が元日本金属熱処理工業会会長として/100209228443327/",
+    "https://www.facebook.com/denkimekki/posts/5009032599152964/",
+    "https://www.facebook.com/OsakaPrefectureUniv/posts/720中百舌鳥キャンパスで行われた公開講座関西経済論ⅩⅩⅢに本学の工学部経営工学科obで金属熱処理の専門企業である株式会社東研サーモテックで代表取締役会長を務め/862478550571802/"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） note 社長",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69） X 投稿",
+   "results": [
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93118/revisions",
+    "https://release.nikkei.co.jp/attach/696483/02_202509081430.pdf",
+    "https://www.tokyo-kosha.or.jp/kosha/public/argus-kiraritokyo/rmepal00000212zy-att/argus-special_all.pdf",
+    "https://www-1.kkr.mlit.go.jp/shiga/shigakoku_report/pdf/20180808.pdf",
+    "https://news.infoseek.co.jp/article/20261010jcast20262518406/?tpgnr=busi-econ",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000731.pdf",
+    "https://www2.axa.co.jp/company/hpm/voice_report_2020_400th.pdf"
+   ]
+  },
+  {
+   "query": "electroplating sheet metal heat treatment Japan value added per employee decline flat after 2019 site:linkedin.com",
+   "results": [
+    "https://zw.linkedin.com/in/dexter-dumba-00a2b952",
+    "https://www.linkedin.com/pulse/plating-services-market-us-japan-korea-europe-analysis-wv4lf",
+    "https://www.linkedin.com/pulse/japan-electroplating-solution-market-analysis-firje",
+    "https://in.linkedin.com/in/rahulkokate",
+    "https://in.linkedin.com/in/hariharan-thevaseelan-9a7a2044",
+    "https://www.linkedin.com/pulse/thorough-analysis-japan-electroplating-machinery-msk4e",
+    "https://www.linkedin.com/pulse/japan-metal-electroplating-kit-market-unlocking-growth-z2whf",
+    "https://www.linkedin.com/pulse/japan-metal-plating-finishing-service-market-application-hqqsf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ16頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ16頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ16頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ16頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ16頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ16頁・検索18回）",
+  "10年推移": "記載なし（読んだ16頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ16頁・検索18回）"
+ }
+}

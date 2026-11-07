@@ -2494,6 +2494,10 @@
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
 - 手順・やり方：
+  - 「AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「How to Clean Up Messy CRM Data (A Practitioner’s Workflow)」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2505,11 +2509,8 @@
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「公式ドキュメントで裏を取った3つのズレと、.claude/agents への固定方法、Fable 5がOpus 5のちょうど2倍単価であることから導ける損益分岐を解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「助成金・補助金の調べ方｜AIで候補を整理し原典で確かめる手順」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「MECEのコツと『AIで広げ、人間で絞る』作法、末端ノードをナレッジグラフで継続更新する反復ループまでを、実務者向けにやさしく解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIで作ったWebサイトを誰が更新する？公開前確認と復旧で決める運用方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「Notion Sites、WordPress、Netlifyの公開境界を比べ、確認と復旧の担当を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
+  - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2524,7 +2525,6 @@
   - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2558,6 +2558,7 @@
   - 「※なお、全文をAIツールに読み込ませる際、オークランド大学図書館は、同大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
+  - 「ロボティクスと自動運転の実装事例から、製造業・物流業界に50兆ドル規模の変革をもたらす可能性まで詳しく分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2572,7 +2573,6 @@
   - 「40時間→2時間の事例、ChatGPTプロンプト2種、業界別事例、反復ループ型ワークフローまで具体的に紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -2637,6 +2637,13 @@
 ## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
 - 文脈：同一性
 - 手順・やり方：
+  - 「Agentic simulation: when the AI chooses how to simulate」（https://prolyz.com/blog/master-data-management-entity-resolution）
+  - 「No single matching method wins」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「Entity resolution is the step in the」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「practical Entity Resolution / Deduplication framework on Databricks」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+  - 「show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+  - 「tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+  - 「and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
   - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「offer managed matching services or customizable frameworks for teams that want to build entity resolution within an existing data platform.」（https://dataladder.com/best-entity-resolution-software/）
   - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2645,13 +2652,6 @@
   - 「An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「A complete enterprise entity resolution framework generally includes the following stages:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Candidate records are compared across relevant attributes. Different fields may require different comparison methods.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「How to Measure Entity Resolution Quality」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「How to Choose the Right Entity Resolution Software」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
 - 突き合わせ・推定：
   - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2672,21 +2672,21 @@
 - 失敗・落とし穴：
   - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
+  - 「Mergers, subsidiaries, name changes, and re-registrations create cases where two records are related but not identical — or identical but with conflicting attributes. Resolution needs a policy for near-boundary cases, not just a threshold slider.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「ML models learn similarity directly from examples — accepted and rejected pairs from stewards, historical merges, or labeled samples. They shine on the fields that defeat rules:」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「Case, units,」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「Normalize formats — case, whitespace, punctuation, address structure, units — so comparison is fair. AI-assisted standardization learns patterns rules miss.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「The classic case: resolve individuals and accounts across CRM, ERP, support, and marketing. Direct payoffs — no duplicate outreach, trustworthy segmentation, correct lifetime value — and a prerequisite for personalization AI that does not contact churned customers.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「A baseline duplicate rate per domain gives you the business case and the metric you will be judged on.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「Survivorship is the rule set that decides which value survives when matched records are merged into a golden record — for example keeping the CRM's phone number but the ERP's legal address. Modern platforms rank sources per attribute using observed freshness and completeness rather than trusting a fixed hierarchy, and retain provenance so every surviving value can be traced back to its source.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「A 30-minute walkthrough using your domain as the example: how 4DAlert would block, score, merge, and verify your records — and what your current rules are missing.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「The use case is fairly common across」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+  - 「--> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the best record per cluster.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
   - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「Customer-Facing Analytics: Benefits, Examples & Tools」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「Learn how customer-facing analytics works, including its architecture, benefits, examples, tools, implementation strategies, and best practices.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「combine entity resolution with graph analytics, relationship discovery and case investigation. These platforms are commonly evaluated for fraud, financial crime,」（https://dataladder.com/best-entity-resolution-software/）
   - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Combines several techniques—for example, exact rules for reliable identifiers, fuzzy comparison for names, and probabilistic scoring across the complete record.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Regardless of technique, match quality should be evaluated using representative labelled records. Teams should examine precision, recall, false positives, false negatives, and the number of uncertain cases requiring human review rather than relying on a single vendor-provided accuracy percentage.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Worked Example: Resolving Customer Records Across Enterprise Systems」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「contact@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「accounts@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「support@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -3098,11 +3098,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3704,11 +3704,11 @@
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
@@ -4573,38 +4573,44 @@
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
 - 手順・やり方：
-  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「This looks at the revisions in each Blue Book and relates to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication that was open to revision. It is one indicator of the trade-off between timeliness and accuracy, and also captures methodological improvements that come through our annual Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「The main methodological and data improvements in Blue Book 2026 are the incorporation of the Annual Survey of Goods and Services (ASGS), which gives us more information on products that are produced by the services industries, and changes to our estimates of actual and imputed rentals. For quarterly changes in volume GDP, the MAR for Blue Book 2026 was 0.04 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「, specifically the Annual Survey of Goods and Services, led to a revision to this historical data and now reflects a latest estimate of 1.7% for annual GDP in 2012. This is a consequence of a change in methods to bring in an entirely new data source that shed greater light on goods production in the service sector.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「However, there have been a series of methodological revisions over the last six years, which have had a particular impact for the change in 2017. For instance,」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「the enhancement in the quality of price deflators, including new methods to account for changes in the quality of computer hardware」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「introducing new weighting methods for market output deflators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「bringing in method improvements to trade in services travel deflators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「One likely explanation is that these revisions reflect the impact of balancing our full range of information in a SUT framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate. However, the MAR is smaller in recent decades, although again with the partial exception of the pandemic period.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「Communicating the UK Economic Cycle methodology article」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「Estimates of business investment were updated in Blue Book 2026 because of revised and newly available data, methodological improvements and the annual review of our seasonal adjustment models. More information on the revisions can be found in Section 3 of our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
 - 突き合わせ・推定：
-  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「There is a mean revision between the first estimate and the final estimate of positive 0.1 percentage points over the period Quarter 1 (Jan to Mar) 1961 to Quarter 4 (Oct to Dec) 2023; for the period Quarter 1 2020 to Quarter 4 2023, there is a mean revision of positive 0.3 percentage points, which includes the impact of the uncertainty around the coronavirus (COVID-19) pandemic.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「When we look at the sign of quarterly GDP growth, of the 175 times where the growth in the first estimate was positive, 168 of these (96%) have remained positive in the final estimate, while 42 of the 64 (66%) instances where the growth in the first estimate was negative have remained negative.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「For the period between May 2018 and December 2023, the mean revision to the first estimate of the three-month change in GDP is positive 0.26 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「In the UK, the value of the economy in 2025 is estimated to be £3.0 trillion; this estimate is compiled from over」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「in the annual production round, with a time series that goes back to 1948 annually and 1955 quarterly. In the UK, we produce a first estimate of quarterly GDP six weeks after that quarter ends, alongside our higher-frequency monthly GDP estimates, which are also available around 40 days after the month ends.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「There is a trade-off between the timeliness and accuracy of estimates of GDP. As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle for the national accounts estimates, which includes these data revisions and is explained in the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「, can take up to three years and naturally leads to revisions in our estimates of GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「Managing the trade-off between timeliness and accuracy in producing our best estimates of GDP blog」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP are in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「and revisions of our short-term GDP estimates in our regular statistical bulletins and articles, and seek opportunities to improve this on an ongoing basis.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「estimates too much, while they are much more open to revise GDP expenditure components over time. More」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
 - 一次情報の探し方：
+  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
   - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
@@ -4614,8 +4620,11 @@
   - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
 - 失敗・落とし穴：
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
   - 「In those studies where the potential pitfalls of relying on current-vintage data have been」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
   - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
   - 「to Equation 3 yields an unbiased and consistent estimate of ". Less obviously, var(T(t)) # var(w(t)),」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
@@ -4627,26 +4636,22 @@
   - 「vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
   - 「Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
   - 「Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「y(t) = x(t)" + w(t), although both strategies yield unbiased estimates of ".」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「estimate the forecasting model of interest yield unbiased parameter estimates (West and」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「In those studies where the pitfalls of relying on current-」（https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf）
 - 実例：
-  - 「We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2026.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「in 2021 led to a revision from 1.7% to 2.1%. Another example is in」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「For example, the mean revision between the estimate published a year later (m plus 12) and this “final” estimate is 0.08 percentage points. It will then be zero by the time of the estimate that is published three years later, which is taken to be the “final” one.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「if the economy is contracting in real time. However, this is also conditional on the distribution of these growth rates for the first estimates. First estimates that are closer to no growth (for example, 0.0%) are more likely to change sign if there is a revision, where the mean revision over this entire sample is positive 0.13 percentage points. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「For example, from the period May 2018 to August 2025, we find a mean revision between the first estimate and the one published a year later of positive 0.1 percentage points. As our sample increases, we will move to a “final” estimate that is the one that is published three years later to improve comparability.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume business investment – this includes up to Quarter 2 (Apr to June) 2026.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
-  - 「example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「Except in the uninteresting case in which y(t)t is never revised, the Equation 3's error term has」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「x(T)T and the sample mean of the x(t)t (t = 0, 1, ...T - 1). The simplest case is that in which x(T)T」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
 
 ## 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）（entity matching key profiling missing rate composite key false merge）
 - 文脈：突き合わせ
@@ -5541,7 +5546,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6770,7 +6775,7 @@
   - 「Identify assets which can be pledged as security (For example, equipment or accounts receivable that may be factored.)」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「In some cases, payments on expense items are not due in regular monthly increments. Average necessary living expense items with varying monthly payments over 12 months.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Examples of questions to ask business taxpayers include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方

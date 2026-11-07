@@ -8,11 +8,121 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-06T20:53:29.355251+00:00",
+ "researched_at": "2026-11-07T01:42:10.600302+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazunomo/n/ne59b0909d029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tt1933mania/n/n8d22c2011ac6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/34650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jyaga0716/n/n0aa7362ae7b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nstac.go.jp/create/practice/?doing_wp_cron=1794000186.2278220653533935546875",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/dlri/654419.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
    {
     "url": "https://www.soumu.go.jp/main_content/000623516.pdf",
     "status": "ok",
@@ -24,128 +134,110 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/roudou/sokuhou/nen/dt/index.html",
+    "url": "https://www.stat.go.jp/english/info/guide/2025pamphlet.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.facebook.com/thejapantimes/posts/japans-population-has-fallen-to-12305-million-early-data-from-the-2025-census-sh/1401889985309919/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/roudou/2.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/surveyitems/items/249010033",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00200531",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/english/data/kokusei/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/english/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://d-infra.ier.hit-u.ac.jp/English/census-survey/b001.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/profile/Yoshiro-Matsuda/publication/30780457_Formation_of_the_Census_System_in_Japan_1871-1945_-Development_of_the_Statistical_System_in_Japan_Proper_and_her_Colonies/links/56000ef208aec948c4fa4a28/Formation-of-the-Census-System-in-Japan-1871-1945-Development-of-the-Statistical-System-in-Japan-Proper-and-her-Colonies.pdf",
+    "url": "https://journals.sagepub.com/doi/10.1177/2158244020963080",
     "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/en/stat-search?toukei=00200521",
-    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://unstats.un.org/unsd/demographic-social/meetings/2026/ws-20260928/docs/d05-s11-p02.pdf",
+    "url": "https://www2.census.gov/programs-surveys/abs/information/abs-question-guidance-508.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.demographic-research.org/articles/volume/32/26",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/kazunomo/n/ne59b0909d029",
+    "https://note.com/tt1933mania/n/n8d22c2011ac6",
+    "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/yoshi993/n/n95e654ef41d0",
+    "https://note.com/furu_kaggle/n/ne5ef243c586a",
+    "https://note.com/seikahaibun/n/nb9c70e53a94a"
+   ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note",
    "results": [
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/roudou/10.html",
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.stat.go.jp/data/roudou/sokuhou/nen/dt/index.html",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf"
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "https://shikiho.toyokeizai.net/news/0/34650",
+    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://note.com/jyaga0716/n/n0aa7362ae7b7",
+    "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 やり方",
    "results": [
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.stat.go.jp/data/roudou/10.html",
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/roudou/2.html",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "https://www.e-stat.go.jp/surveyitems/items/249010033"
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
+    "https://www.nstac.go.jp/create/practice/",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
+    "https://www.dlri.co.jp/report/dlri/654419.html",
+    "https://www.m2j.co.jp/market/report/90495"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 事例",
    "results": [
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/roudou/2.html",
-    "https://www.stat.go.jp/data/roudou/10.html",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "https://www.e-stat.go.jp/stat-search/files?toukei=00200531"
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "https://www.dlri.co.jp/report/dlri/654419.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.soumu.go.jp/main_content/000928642.pdf"
    ]
   },
   {
    "query": "survey year vs reference year statistics pitfalls Japan census",
    "results": [
-    "https://www.stat.go.jp/english/data/kokusei/index.html",
-    "https://www.stat.go.jp/english/",
-    "https://d-infra.ier.hit-u.ac.jp/English/census-survey/b001.html",
-    "https://www.researchgate.net/profile/Yoshiro-Matsuda/publication/30780457_Formation_of_the_Census_System_in_Japan_1871-1945_-Development_of_the_Statistical_System_in_Japan_Proper_and_her_Colonies/links/56000ef208aec948c4fa4a28/Formation-of-the-Census-System-in-Japan-1871-1945-Development-of-the-Statistical-System-in-Japan-Proper-and-her-Colonies.pdf",
-    "https://www.e-stat.go.jp/en/stat-search?toukei=00200521",
-    "https://unstats.un.org/unsd/demographic-social/meetings/2026/ws-20260928/docs/d05-s11-p02.pdf",
-    "https://www.nstac.go.jp/en/about/guide/timeline/"
+    "https://www.stat.go.jp/english/info/guide/2025pamphlet.html",
+    "https://www.facebook.com/thejapantimes/posts/japans-population-has-fallen-to-12305-million-early-data-from-the-2025-census-sh/1401889985309919/",
+    "https://journals.sagepub.com/doi/10.1177/2158244020963080",
+    "https://www2.census.gov/programs-surveys/abs/information/abs-question-guidance-508.pdf",
+    "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "https://www.demographic-research.org/articles/volume/32/26",
+    "https://blog.gaijinpot.com/2025-japan-census/",
+    "https://en.wikipedia.org/wiki/Census",
+    "https://demographics-by-cubit.helpscoutdocs.com/article/80-should-i-compare-data-year-over-year",
+    "https://www.stat.go.jp/english/data/kokusei/index.html"
    ]
   },
   {
@@ -165,83 +257,91 @@
    "results": [
     "https://x.com/nineKan821/status/2091011604200759444",
     "https://x.com/DAKURAblog/status/2029919305320780283",
-    "https://x.com/hujimari/status/2028425278494818581",
     "https://x.com/rkakui/status/2114876378038538487",
-    "https://x.com/Ai_Usuki/status/2071387731339694306",
     "https://x.com/kyookine/status/2095837126394871999",
-    "https://x.com/kudoyama456489/status/2089005533953249391"
+    "https://x.com/OldBlurman/status/2117753505352130846",
+    "https://x.com/hujimari/status/2028425278494818581",
+    "https://x.com/CIPHER1978/status/2108487235666661736"
    ]
   },
   {
    "query": "site:linkedin.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://au.linkedin.com/jobs",
-    "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
     "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
+    "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
     "https://www.linkedin.com/feed/update/urn:li:activity:7467172911100055552/",
     "https://www.linkedin.com/feed/update/urn:li:activity:7377298388138029056/",
     "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ",
     "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
     "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
     "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/",
     "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
+    "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615271002500/",
     "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
-    "https://www.facebook.com/mhlw.japan/posts/調査票が届いた方へ雇用動向調査上半期を実施しています入職者票は上半期に入職された方にお願いしています離職者票は事業所内の離職状況などを調査しています抽出調査とな/1465888648907857/",
-    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/984165253746868/",
-    "https://www.bing.com/aclick?ld=e8Fv93iPCXZghDcvQEOKAxaTVUCUwpfkpO7wXS83rIvUPjJQrOsOU0WJm_lVJ1X8ZCqZEhxK9aCcrWWQiqSKAwHSfoBENYUUOrVz8j_ZBj4XBBb6CjaNGgCaf7aI8plxvxBwdixL68Qda8iP2FBnOvEAwV_5dMonRotJeA4sH-APuHLKOcrVMT-nHhbUNSWPyktw1oXg&u=aHR0cHMlM2ElMmYlMmZlbGV2ZW5sYWJzLmlvJTJmamElMmZhZ2VudHMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2R3b3JsZHdpZGVfYnJhbmRzZWFyY2hfZW50ZXJwcmlzZV9qYXBhbmVzZSUyNnV0bV9pZCUzZDU3MDc3MDI1NiUyNnV0bV90ZXJtJTNkJWUzJTgyJWE0JWUzJTgzJWFjJWUzJTgzJTk2JWUzJTgzJWIzJWUzJTgzJWE5JWUzJTgzJTljJWUzJTgxJWFlJWU0JWJjJTlhJWU4JWE5JWIxJWU1JTllJThiQUklMjZ1dG1fY29udGVudCUzZGJyYW5kXy1fZWxldmVubGFic19jb252ZXJzYXRpb25hbF9haSUyNm1zY2xraWQlM2QyYjM5YWE4OTRhZTYxMjBhYTQzZmMwNjc3NWYxMzE0Mw&rlid=2b39aa894ae6120aa43fc06775f13143"
+    "https://www.facebook.com/mhlw.japan/posts/調査票が届いた方へ雇用動向調査上半期を実施しています入職者票は上半期に入職された方にお願いしています離職者票は事業所内の離職状況などを調査しています抽出調査とな/1465888648907857/"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note 社長",
    "results": [
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
-    "https://www.pref.oita.jp/uploaded/life/119744_141193_misc.pdf",
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "https://www.stat.go.jp/data/roudou/2.html",
-    "https://www.stat.go.jp/data/roudou/10.html"
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/fr159.html",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
+    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "https://www.pictet.co.jp/investment-information/market/today/20251007.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://note.com/kamokita/n/nbaaffd43b076",
+    "https://www.soumu.go.jp/main_content/000623516.pdf"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/roudou/10.html",
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.stat.go.jp/data/roudou/2.html",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf"
+    "https://www.youtube.com/watch?v=-OVFNjM-8AU",
+    "https://www.reuters.com/jp/markets/japan/WPO4FDFF2BI6HDEFHHP4BHTNEA-2026-08-28/",
+    "https://www.bloomberg.com/jp/news/articles/2026-02-09/TA74I6T9NJLT00",
+    "https://www.youtube.com/watch?v=k2bONNDXf4M",
+    "https://www.stat.go.jp/data/seigo/roudou/index.html",
+    "https://www.m2j.co.jp/market/report/50763",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "https://www.nikkei.com/article/DGXZQOGN030100T00C26A2000000/",
+    "https://online.nikkei-cnbc.co.jp/vod/61276",
+    "https://www.stat.go.jp/data/roudou/10.html"
    ]
   },
   {
    "query": "survey year vs reference year statistics pitfalls Japan census site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/numbers-out-insights-from-japans-post-covid-census-nakajima-magen-unuwc",
-    "https://www.linkedin.com/pulse/understanding-avoiding-common-statistical-pitfalls-yashica-sharma-yzxme",
-    "https://pe.linkedin.com/advice/1/how-can-you-avoid-pitfalls-dimensionality-reduction",
-    "https://pe.linkedin.com/pulse/common-pitfalls-recruiting-japan-キョウマウンマウンハイン-kyaw-maung-maung-hein",
-    "https://www.linkedin.com/advice/0/what-common-pitfalls-survey-sampling-how-can-uavhe",
-    "https://www.linkedin.com/pulse/ai-survey-research-valid-uses-pitfalls-jennifer-tonti-vs3lc",
-    "https://www.linkedin.com/top-content"
+    "https://www.linkedin.com/in/emma-reburn-8563a679",
+    "https://www.linkedin.com/in/stephanie-coffey-12390ab9",
+    "https://www.linkedin.com/in/paul-c-beatty-9981b49",
+    "https://www.linkedin.com/in/staskolenikov",
+    "https://www.linkedin.com/in/curtiss-chapman",
+    "https://www.linkedin.com/in/emin-dinlersoz-874a8822",
+    "https://www.linkedin.com/in/yezzi-lee",
+    "https://www.linkedin.com/in/mark-muenchrath-348228b",
+    "https://www.linkedin.com/in/carolina-franco-20826145",
+    "https://www.linkedin.com/in/ron-jarmin-8083a85"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ16頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ16頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ16頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）",
-  "実例": "記載なし（読んだ16頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
 }
