@@ -172,3 +172,5 @@ AIや他人が示した番号・統計・引用を原本で1件ずつ照合す�
 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ,analysis of competing hypotheses limitations hypothesis mapping empirical evidence,競合仮説分析 限界 実証;ACH 批判 仮説 生成 バイアス;仮説マッピング 情報分析,突き合わせ
 会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対）,company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors,社員数 推定 求人数 重複 方法;従業員数 データ 正確さ 子会社 合算;headcount estimate validation ground truth,推定
 データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）,data journalism editor checklist questions universe subset sample self-reported name matching record layout,データジャーナリズム 検証 チェックリスト 編集者;NICAR data verification checklist;調査報道 データ 照合 名寄せ 確認,突き合わせ
+決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）,calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls,決算期 調整 暦年 換算 方法;LTM 計算 方法 決算期 違い;カレンダー化 類似会社 決算期,推定
+公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体,official statistics data cleaning suppressed cells classification change concordance table reconciliation to totals,e-Stat 秘匿 X 処理;統計 按分 推計 注意;産業分類 改定 対応表 時系列 接続,統計
