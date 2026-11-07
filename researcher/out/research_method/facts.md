@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・156品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・158品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5706,6 +5706,7 @@
   - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
   - 「インターネットを使えない人のために、都道府県の図書館などに官報発行サイトを見られる端末も置かれています」（https://note.com/joshima_s/n/n04cab9927719）
 - 失敗・落とし穴：
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5720,7 +5721,6 @@
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -7046,11 +7046,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -9091,25 +9091,27 @@
 ## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ACH is an eight-step method based on cognitive」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「cal scientific method. The rigor inherently re-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「quired means this method is appropriate to use」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Time frame: The method is appropriate for any」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「in the method can com-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「intelligence circles, where this method is」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「How to Adapt ACH Tools to Foresight」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「scientific framework would help reduce cogni-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「process, validating intelligence methods and practices, the use of games in teaching」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Analytic Methods ❙ Richards Heuer」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「(SACH) are methodologies designed to reduce the level of uncertainty among decision-makers」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ticularly appropriate for intelligence problems. There are other methods analogous to ACH,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「e.g., the broadly used medical methodology, Differential Diagnosis (DD). SACH is less used」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「makes the analyst’s reasoning more transparent. Both methods are conceptually straightfor-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「How to start your own practice」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Competitive Intelligence Frameworks >」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Analysis of Competing Hypotheses, often abbreviated as ACH, is a structured analytic technique for evaluating several plausible explanations for the same set of facts. Instead of asking, “What evidence supports my preferred view?” ACH asks, “Which hypothesis is least inconsistent with the evidence we have?” That shift is the heart of the method.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「It is a decision-making and intelligence framework used when signals are ambiguous, evidence is incomplete, and smart people can reasonably disagree about what is happening. Consultants frequently use it in」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「ACH was developed and popularized by Richards J. Heuer Jr., a longtime CIA analyst. Heuer has written that he developed the method in the late 1970s, and he later explained it in detail in」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「The method was created to address a familiar problem: analysts tend to settle too quickly on an initial narrative and then collect evidence that supports it. In intelligence, that can lead to serious errors. In business, the same failure mode shows up when leadership teams misread a competitor’s intent, interpret a market signal too narrowly, or confuse a plausible story with the most likely one.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「The method is especially powerful when there are three to five genuinely plausible explanations and the available evidence is mixed. It is also useful when the team is politically invested in a particular answer, because the framework forces disagreement into the open. Used well, ACH often becomes an entry point into broader」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「5. How to Apply Analysis of Competing Hypotheses: Step-by-Step」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Convert the result into decisions, trigger points, and next steps. That may mean reallocating budget, changing pricing posture, accelerating product development, or assigning owners to watch for specific signposts. Then socialize the output, gather feedback, and update the matrix as new evidence arrives.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「8. Common Pitfalls and How to Avoid Them」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「9. How Analysis of Competing Hypotheses Relates to Other Frameworks」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Frameworks such as SWOT or Five Forces help teams understand position and industry structure. ACH serves a different purpose: it helps explain ambiguous developments when the facts can support several stories at once. In that sense, it is less a substitute for classic strategy tools than a way to sharpen judgment before choices are made.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Absolutely. Smaller firms can run a simplified ACH exercise with three hypotheses, a short evidence list, and a focused workshop. The method does not require a large intelligence team; it requires disciplined thinking.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「All Competitive Intelligence Frameworks」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
 - 突き合わせ・推定：
   - 「and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「of confidence in their own estimate.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 一次情報の探し方：
+  - 「Competitor Analysis and Profiling」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -9123,6 +9125,11 @@
   - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
+  - 「ACH is especially valuable because it is designed to reduce confirmation bias. It does not promise certainty. It gives teams a disciplined way to compare alternative explanations, expose assumptions, and decide what they need to monitor next.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Reduces confirmation bias.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「8. Common Pitfalls and How to Avoid Them」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「A key assumptions check is often a useful precursor to ACH. It surfaces the beliefs the team is taking for granted, which makes it easier to define better hypotheses and spot where bias may be shaping interpretation.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Yes. It remains highly relevant for ambiguous decisions where multiple explanations are plausible and bias is a real risk. Most modern teams use it more selectively and more lightly than intelligence agencies once did, but the core logic is still very strong.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -9133,12 +9140,9 @@
   - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「A common pitfall in this step is to see a large amount of evidence (relative to the total amount」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「remember, unless you find an obvious error or stupid mistake, your first answer is probably」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 実例：
+  - 「Business Case Development」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「6. Example: Analysis of Competing Hypotheses in Action」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「ous foresight examples would be in monitoring」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -9152,8 +9156,6 @@
   - 「enough information to answer a question. In the above example, it is entirely possible that data」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「SACH Case Study: Ghana Telecommunications」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「ment based on the limited evidence available. For purposes of this case study, the analysts」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Tools, Tutorials, Critiques and Case Studies」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 
 ## フェルミ推定の結果を既知の統計の総量と照らして仮定を直す手順（分解を終えてから数を入れる・クロス・マーケティング等の調査会社の解説）（Fermi estimation sanity check against known statistics revise assumptions market research firm）
 - 文脈：推定
@@ -9510,3 +9512,110 @@
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「Start with NTA Corporate Number full files, daily changes and Web API, then add gBizINFO API and EDINET where the business case and terms justify it.」（https://companiesdata.cloud/open-company-data-japan.html）
+
+## データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）（data journalism bad data guide checklist percent change percentage points inflation adjustment）
+- 文脈：検証
+- 手順・やり方：
+  - 「GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub」（https://github.com/Quartz/bad-data-guide）
+  - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://github.com/Quartz/bad-data-guide）
+  - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
+  - 「It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://github.com/Quartz/bad-data-guide）
+- 突き合わせ・推定：
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
+  - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.」（https://github.com/Quartz/bad-data-guide）
+  - 「Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.」（https://github.com/Quartz/bad-data-guide）
+- 一次情報の探し方：
+  - 「A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got」（https://github.com/Quartz/bad-data-guide）
+  - 「. However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://github.com/Quartz/bad-data-guide）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://github.com/Quartz/bad-data-guide）
+- 失敗・落とし穴：
+  - 「You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://github.com/Quartz/bad-data-guide）
+  - 「is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://github.com/Quartz/bad-data-guide）
+  - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://github.com/Quartz/bad-data-guide）
+  - 「This problem tends to crop up in subjects where people have a strong confirmation bias. ("Just as I thought, crime is up!") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://github.com/Quartz/bad-data-guide）
+- 実例：
+  - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
+  - 「may be represented in another way. For example a false」（https://github.com/Quartz/bad-data-guide）
+  - 「can help streamline the spelling correction process by suggesting close matches between inconsistent values within a column (for example, matching」（https://github.com/Quartz/bad-data-guide）
+  - 「, but really aren't. This is often the case with surveys where」（https://github.com/Quartz/bad-data-guide）
+  - 「You've got states and you need counties. You've got employers and you need employees. They gave you years, but you want months. In many cases we get data that have been aggregated too much for our purposes.」（https://github.com/Quartz/bad-data-guide）
+  - 「you're using Excel on a Mac, in which case it's」（https://github.com/Quartz/bad-data-guide）
+  - 「In the vast majority of cases your text editor or spreadsheet application will figure out the correct encoding, however, if it screws it up you could be publishing somebody's name with a weird character in the middle. Your source should be able to tell you what encoding your data are in. In the event they can't there are ways of guessing that are about fairly reliable. Ask a programmer.」（https://github.com/Quartz/bad-data-guide）
+  - 「. In this case you've got counties, but you want states or you've got months but you want years. Fortunately this is usually pretty straightforward.」（https://github.com/Quartz/bad-data-guide）
+  - 「In all of these cases the main solution is simply to identify the problem. Obviously trying to perform any analysis on a spreadsheet that has these kinds of problems will fail, sometimes for non-obvious reasons. When looking at new data for the first time it's always a good idea to ensure there aren't extra header rows or other formatting characters inserted amongst the data.」（https://github.com/Quartz/bad-data-guide）
+  - 「? There is no one definitive answer. In general, if you're going to compute aggregates on columns that are missing data, you can safely do so by filtering out the missing rows first, but be careful not to compare aggregates from two different columns where different rows were missing values! In some cases the missing values might also be legitimately interpreted as」（https://github.com/Quartz/bad-data-guide）
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
+  - 「, where 2004 = 100). In either of these cases, 2004 may or may not be an appropriate year for comparison. It could have been an unusually high crime year.」（https://github.com/Quartz/bad-data-guide）
+  - 「seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.」（https://github.com/Quartz/bad-data-guide）
+  - 「For example, the United Nations」（https://github.com/Quartz/bad-data-guide）
+  - 「P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some」（https://github.com/Quartz/bad-data-guide）
+
+## AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）（verifying cited sources claim support partial support unverified contradicted）
+- 文脈：検証
+- 手順・やり方：
+  - 「AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「この記事では、初心者でも取り組みやすい7つの検証方法を解説します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「AIが提示した出典を検証する7つの方法」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法1：AIの主張を細かく分ける」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法2：URLを開いて出典の実在を確認する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法3：資料名・著者・発行年を照合する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法4：出典の本文とAIの説明を比べる」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法5：公開日・更新日・対象期間を確認する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法6：独立した情報源と比較する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法7：論文の訂正・撤回情報を確認する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「実際に論文を調べる5ステップ」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ステップ1：公式資料を確認する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ステップ2：説明を裏付けるか調べる」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ステップ3：検証結果を整理する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+- 突き合わせ・推定：
+  - 「AIの出典を検証する7つの方法｜架空の論文・引用を見抜く - 知って得する研究所」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「この記事では、初心者でも取り組みやすい7つの検証方法を解説します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「さらに、論文や参考文献の検索方法、具体的な確認例、AIに検証を手伝わせる質問文、公開前のチェックリストも紹介します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「AIが提示した出典を検証する7つの方法」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「方法3：資料名・著者・発行年を照合する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ステップ3：検証結果を整理する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「これは、今回紹介する検証方法の中でも特に重要です」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「※これは検証方法を説明するための架空の例です」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「実際のアプリや検証実験の結果ではありません」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「必要に応じて第三者による検証記事も参考にします」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「論文タイトル、著者、DOIなどを利用して文献情報を照合するサービスです」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ここでは、実在するOpenAIの公式資料を使って、AIの主張と根拠を照合する方法を説明します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「※以下の主張は検証手順を説明するために設定したものです」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「検証作業を終えたら、確認できた範囲を記録します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「元資料とAIの説明が矛盾している、数値が異なる、別資料を誤って引用しているなどの状態」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+- 一次情報の探し方：
+  - 「公的な認証制度や学術的な評価スコアではありません」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「AIを便利な情報整理の道具として活用しながら、重要な事実は公式資料や一次情報で確認しましょう」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「Document processing begins with text extraction using PyMuPDF」（https://arxiv.org/html/2511.16198v1）
+  - 「PyMuPDF Documentation: https://github.com/pymupdf/PyMuPDF」（https://arxiv.org/html/2511.16198v1）
+  - 「for PDF files, followed by recursive text splitting into 512-character chunks with 50-character overlap. The chunking strategy employs hierarchical separators including paragraph breaks, sentences, punctuation, and whitespace to maintain semantic coherence whilst ensuring manageable sizes for retrieval operations.」（https://arxiv.org/html/2511.16198v1）
+- 失敗・落とし穴：
+  - 「特に注意したいのは、3つ目の「出典と説明が一致しない」問題です」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「本文を確認するときは、次の言葉に注意すると誤りを発見しやすくなります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ここで注意したいのが、日付の種類です」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「論文は発表後に誤りが発見され、修正されたり、撤回されたりすることがあります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「一方、公式資料で「有料」と説明されているサービスをAIが「無料」と説明していれば、Dの「不一致・誤り」に該当します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「ただし、AI自身が新たな誤りを生成する可能性もあります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「生成AIとは何ができる？ChatGPTとの違い・仕組み・注意点までわかるガイド」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「AI旅行プランの注意点10選｜ChatGPTの間違いを防ぐ確認方法」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「Citation bias: questionable research practice or scientific misconduct?」（https://arxiv.org/html/2511.16198v1）
+- 実例：
+  - 「ステップ3：検証結果を整理する」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「出典の確認結果を4段階で判断する方法」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、AIが次のように回答したとします」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「OpenAIの公式ヘルプでも、検索結果や引用には誤りや古い情報が含まれる可能性があり、元の情報源を開いて確認するよう案内しています（資料[2]）」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、AIが示したDOIを調べた結果、別タイトルの論文につながる場合は、参考文献情報に誤りがある可能性があります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「実際のアプリや検証実験の結果ではありません」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば「最大30％改善」と「平均30％改善」では意味が異なります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、2026年4月に新制度が発表されたとしても、実際の開始日が同年10月である可能性があります」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、ある企業の新機能について調べるなら、公式発表、公式マニュアル、更新履歴などを確認します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「検索結果が見つからない場合も、すぐに架空の論文と決めつけないようにしましょう」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「同じ公式ヘルプでは、検索結果や引用が不完全、古い、または誤っている場合があることも案内されています」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、出典を検索しても見つからなかっただけなら、原則としてCの「未確認」に分類します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「日付、数値、料金、制度、研究結果、引用を抽出し、可能な範囲で一次資料と照合してください」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「例えば、AIが「あるサービスの月額料金は980円」と説明していた場合、企業のトップページを紹介するだけでは十分ではありません」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）
+  - 「統計やアンケート結果を使う場合、数値だけでなく、その数値が何を表しているのか確認します」（https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853）

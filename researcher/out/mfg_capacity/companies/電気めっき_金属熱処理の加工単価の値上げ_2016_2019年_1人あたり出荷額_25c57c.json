@@ -1,0 +1,541 @@
+{
+ "name": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+ "en": "Japan electroplating heat treatment processing price increase 2016-2019",
+ "aliases": [
+  "めっき 加工単価 値上げ 2018 site:or.jp",
+  "熱処理 加工賃 値上げ 2018 工業会",
+  "日本熱処理工業会 景況 2019"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:06:58.432576+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000056597&page=ref_view&rnk=1&mcmd=25&st=ref_cnt_all&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_22%202_5%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9&lsmp=1&type=reference",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/20261015jcast20262518502/?tpgnr=busi-econ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topy.co.jp/ja/news/irnews/auto_20241029505058/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.news24.jp/sp/articles/2019/05/23/06440418.html?utm_source=goo&utm_medium=relatedarticles&utm_campaign=n24_acquisition&utm_content=457117",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekitorisupport.go.jp/case/p_380/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/jihyo/20210426_02_05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.punch.co.jp/ir/upload/20250214_shared_research_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furukawakk.co.jp/ir/library/pdf/155M.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/rmepal000002621v-att/R8_innovationmap.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/covid-19/20220111.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/images/2022/06/hou2205.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://surface.mechanical-tech.co.jp/node/901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/tips/fa_tips/45583/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://criepi.denken.or.jp/jp/serc/periodicals/pdf/periodicals11_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.netsushori.jp/osirase.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/metal/current-topics/current-topics_00005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00550630&tstat=000001023741&tclass1=000001080196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010305/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shkqyx.magtechjournal.com/EN/matrix/matrix.do?articleId=1416&type=FromHtmlPdf",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://samuraisteel.net/wp-content/uploads/2017/03/SamuraiSteel-MetalPress-Steel-170228.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250304_archive/f7dnjt/140120250303587001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rite.or.jp/system/latestanalysis/pdf/Zenkoku-electricityprices20140902.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/ichiran/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj_2020/kekka/report/2019/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2022/may/kitori/220531_gyousyubunseki_3_1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11201250/001519558.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.netsushori.jp/analysis/index.php",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC267OA0W1A021C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/electroplating-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/electroplating-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://market.us/report/electroplating-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/en/reports/white_paper/trade_invest_2019_overview.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000056597&page=ref_view&rnk=1&mcmd=25&st=ref_cnt_all&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_22%202_5%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9&lsmp=1&type=reference",
+    "https://news.infoseek.co.jp/article/20261015jcast20262518502/?tpgnr=busi-econ",
+    "https://www.topy.co.jp/ja/news/irnews/auto_20241029505058/pdfFile.pdf",
+    "http://www.news24.jp/sp/articles/2019/05/23/06440418.html?utm_source=goo&utm_medium=relatedarticles&utm_campaign=n24_acquisition&utm_content=457117",
+    "https://ir.mmc.co.jp/ja/ir/news/news20240731102956.html",
+    "https://www.douyukai.or.jp/dor/2011/12/dor-3354.html",
+    "https://www.zakzak.co.jp/economy/ecn-news/print/20130423/ecn1304230711001-c.htm",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 受注残 人手不足",
+   "results": [
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://tekitorisupport.go.jp/case/p_380/",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.punch.co.jp/ir/upload/20250214_shared_research_JP.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1901.pdf",
+    "https://www.furukawakk.co.jp/ir/library/pdf/AR2026J_A3.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 人手不足 損失 億円",
+   "results": [
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.furukawakk.co.jp/ir/library/pdf/155M.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.tokyo-kosha.or.jp/support/josei/jigyo/rmepal000002621v-att/R8_innovationmap.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://j-net21.smrj.go.jp/special/covid-19/20220111.html",
+    "https://www.punch.co.jp/ir/upload/20250214_shared_research_JP.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.chuokai.or.jp/images/2022/06/hou2205.pdf",
+    "https://tekitorisupport.go.jp/case/p_380/",
+    "https://surface.mechanical-tech.co.jp/node/901",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://jp.meviy.misumi-ec.com/info/ja/tips/fa_tips/45583/",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://criepi.denken.or.jp/jp/serc/periodicals/pdf/periodicals11_05.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 推移",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "http://www.netsushori.jp/osirase.htm",
+    "https://www.chuokai.or.jp/images/2022/06/hou2205.pdf",
+    "https://tekitorisupport.go.jp/case/p_380/",
+    "https://journal.jogmec.go.jp/metal/current-topics/current-topics_00005.html",
+    "https://criepi.denken.or.jp/jp/serc/periodicals/pdf/periodicals11_05.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00550630&tstat=000001023741&tclass1=000001080196"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 統計 PDF",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://criepi.denken.or.jp/jp/serc/periodicals/pdf/periodicals11_05.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://shkqyx.magtechjournal.com/EN/matrix/matrix.do?articleId=1416&type=FromHtmlPdf",
+    "http://samuraisteel.net/wp-content/uploads/2017/03/SamuraiSteel-MetalPress-Steel-170228.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250304_archive/f7dnjt/140120250303587001.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://www.rite.or.jp/system/latestanalysis/pdf/Zenkoku-electricityprices20140902.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.meti.go.jp/statistics/ichiran/index.html",
+    "https://www.stat.go.jp/data/kkj_2020/kekka/report/2019/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://criepi.denken.or.jp/jp/serc/periodicals/pdf/periodicals08_05.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 従業者規模別",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2022/may/kitori/220531_gyousyubunseki_3_1.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://www.mhlw.go.jp/content/11201250/001519558.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 1人当たり 万円",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://surface.mechanical-tech.co.jp/node/901",
+    "https://tekitorisupport.go.jp/case/p_380/",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.punch.co.jp/ir/upload/20250214_shared_research_JP.pdf",
+    "https://warp.ndl.go.jp/web/20190801141141/www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2019/7/20190709.html",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） 2015 2025",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://tekitorisupport.go.jp/case/p_380/",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://www.nikkei.com/article/DGXZQOUC267OA0W1A021C2000000/",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2022/magazine2205.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "Japan electroplating heat treatment processing price increase 2016-2019 Japan statistics",
+   "results": [
+    "https://www.stratviewresearch.com/market-reports/electroplating-market.html",
+    "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "https://www.futuremarketinsights.com/reports/electroplating-market",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "https://market.us/report/electroplating-market/",
+    "https://www.jetro.go.jp/ext_images/en/reports/white_paper/trade_invest_2019_overview.pdf",
+    "https://www.fortunebusinessinsights.com/electroplating-market-110108",
+    "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
+    "https://www.precedenceresearch.com/electroplating-market"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+   "results": [
+    "https://note.com/yomu_kessan/n/n8031a02ccd3b",
+    "https://note.com/kuro_yagi_san/n/n9eef81af4e13",
+    "https://note.com/anomaly_inc/n/nc2e9ddf21508",
+    "https://note.com/papasandesu/n/n934316873210",
+    "https://note.com/fine_guppy5891/n/nca6020183751",
+    "https://note.com/ryota_teruya/n/n4230865a07e5",
+    "https://note.com/kinzoku2/n/n01fa4e4ecb0c"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2115416473716093386",
+    "https://jf.x.com/images/media-preview/2093838362570530952",
+    "https://x.com/Matsuno_Mold/status/2092736588535259360",
+    "https://x.com/iwama_kiduki/status/2082753081792745755",
+    "https://x.com/lemantebrass/status/2018206206175883775",
+    "https://x.com/TEKKOSHIMBUN/status/2073889663790752085",
+    "https://x.com/2ueps7/status/2108040940078444564"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属熱処理-market-research-業界データ-2026-2033年の予測cagr-eicpe",
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://www.linkedin.com/jobs/メッキ加工-中国-値上げ幅-jobs",
+    "https://jp.linkedin.com/pulse/熱処理サービス-market-forecast-report-2026年から2033年までの14-cagr成長の分析市場の課題および新たなトレンド-yfhbe",
+    "https://jp.linkedin.com/pulse/最新在留資格更新手数料値上げの全貌と企業が取るべき防衛策-shota-komine-hzfie",
+    "https://jp.linkedin.com/pulse/金属無電解めっき溶液の市場規模市場シェア市場成長タイプ別用途別の市場分析地域の洞察および2033年ま-7477415786589048835-gnane"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）",
+   "results": [
+    "https://www.facebook.com/YTtrading20160115/posts/新日鉄住金は2016年6月積みから店売り鉄骨向け国内厚板価格を1015値上げすることを決めた15はトン当たり1万円に相当国内店売りは第一弾として6月積契約から同/1605187583130370/",
+    "https://www.facebook.com/photo.php/?fbid=2654770977884296",
+    "https://www.facebook.com/yahatamekki/posts/2019年10月1日より消費税率が8から10に変更されます変更に伴い当社めっき商品の一部を順次価格改定させていただく場合がございますリピート品であっても念のため/1381110378731262/",
+    "https://www.facebook.com/xcoat/posts/-東京電力など4社電気料金を2016年夏に値上げ-標準家庭で月額1226円増-httpwwwkankyo-businessjpnews011765php/806313199478301/",
+    "https://www.facebook.com/tacklenews.net/posts/ダイワが3年連続の価格改定値上げ2016年の値上げ率が半端ないhttptacklenewsnetdaiwa-price201602html/943153269109553/",
+    "https://www.facebook.com/asahikeikinzoku/posts/重要なお知らせ本年7月1日より-製品価格の改定をさせていただきます私たちアサヒ軽金属は革新的な調理器をひとつでも多くご家庭へとお届けするため原材料や燃料輸送コス/584871925359077/",
+    "https://www.facebook.com/the.onemap/videos/合計が増えた全部値上げ詳しい本編httpswwwyoutubecomwatchvngwxbztyev4動画内の模型仮定は実際の家計地域個別商品の予測ではありませ/1656891372900912/"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） note 社長",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://note.com/nikkei5min/n/n47574001c7ce",
+    "https://www.neji-bane.jp/jihyo/20210426_02_05/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000122.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://news.infoseek.co.jp/article/asciijp_4439904/?tpgnr=busi-econ",
+    "https://www.aichi-steel.co.jp/_assets/dl/ir/library/integrate_report/2024/2024_all.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/21808",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32） X 投稿",
+   "results": [
+    "https://simulator.eic-jp.org/metal-processing-electricity-cost-review",
+    "https://zentoren.or.jp/top/info/2017shitauke.html",
+    "https://www.jsnm.or.jp/news/?p=773",
+    "https://www.youtube.com/watch?v=pO86N8OSj60",
+    "https://www.chuokai.or.jp/images/2022/06/hou2205.pdf",
+    "https://www.neji-bane.jp/jihyo/20220829_02_04/",
+    "https://surface.mechanical-tech.co.jp/node/901",
+    "https://www.japanmetaldaily.com/articles/-/233279",
+    "https://www.zenshoren.or.jp/kokuhatsu/kokuhatsu1.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630"
+   ]
+  },
+  {
+   "query": "Japan electroplating heat treatment processing price increase 2016-2019 site:linkedin.com",
+   "results": [
+    "https://fr.linkedin.com/in/elise-saoutieff-researcher/en",
+    "https://fr.linkedin.com/in/elise-saoutieff-researcher",
+    "https://www.linkedin.com/pulse/japan-electroplating-additives-market-trends-historical-forecast-llpte",
+    "https://www.linkedin.com/pulse/thorough-analysis-japan-electroplating-machinery-msk4e",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-value-chain-competitive-tg9bf",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-uljec/",
+    "https://www.linkedin.com/pulse/japan-electroplating-solution-market-analysis-firje",
+    "https://www.linkedin.com/pulse/scope-trends-japan-electroplating-chemicals-market-latest-dynamics-waa9e",
+    "https://www.linkedin.com/pulse/plating-services-market-us-japan-korea-europe-analysis-wv4lf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ52頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ52頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ52頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ52頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ52頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ52頁・検索18回）",
+  "10年推移": "記載なし（読んだ52頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ52頁・検索18回）"
+ }
+}

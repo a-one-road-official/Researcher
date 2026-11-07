@@ -1,0 +1,514 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+ "en": "Economic Structure Survey manufacturing establishments industry tables xlsx 4-digit industry employees shipments value added",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業別統計表 filetype:xlsx site:meti.go.jp",
+  "製造業事業所調査 産業細分類別 従業者数 製造品出荷額等 付加価値額 filetype:xlsx",
+  "経済構造実態調査 確報 製造業 産業編 site:e-stat.go.jp"
+ ],
+ "context": "一次・切れ目の後",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:54:21.843526+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001219780",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&lid=000001110167&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=%E8%A3%BD%E9%80%A0%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%89%80%E8%AA%BF%E6%9F%BB%E3%80%80%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004048563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bea.gov/itable/gdp-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/nationalaccount/docs/SUT_IOT_HB_Final_Cover.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/data/indicators/value-added-by-activity.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001219780",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000612.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200555&tstat=000001231885&tclass1=000001231887&stat_infid=000040312314"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-01-full-listm/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001231885"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-01-full-listm/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004048563",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments industry tables xlsx 4-digit industry employees shipments value added Japan statistics",
+   "results": [
+    "https://www.bea.gov/itable/gdp-by-industry",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://unstats.un.org/unsd/nationalaccount/docs/SUT_IOT_HB_Final_Cover.pdf",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.oecd.org/en/data/indicators/value-added-by-activity.html",
+    "https://ourworldindata.org/grapher/manufacturing-value-added-to-gdp",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+   "results": [
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/wish11_11/n/n8325c88dab73",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/focusmarketing/n/nd807fa0635b1",
+    "https://note.com/wish11_11/n/n52e7d10e9ff0",
+    "https://note.com/iceman_23/n/n0e339395bbce",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/toarukanrisha/n/nbc6459a2e68f",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/i/article/2113066175089508431",
+    "https://x.com/shiroikoibitoa",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://jf.x.com/images/media-preview/2105696015877808379",
+    "https://jf.x.com/images/media-preview/2097873708186775948",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/kido_office/status/2089094854446125168",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+   "results": [
+    "https://jp.linkedin.com/posts/健一-片山-958614237_2025年度-海外進出日系企業実態調査中国編2026年3月-調査レポート-activity-7438172710993600512-2viu",
+    "https://jp.linkedin.com/posts/shoichionaka_経済産業省が2026年1月に発表した2040年の就業構造推計に目を通してみました-activity-7432232582047547392-GwLx",
+    "https://jp.linkedin.com/pulse/japan-industrial-robotics-market-trends-growth-industry-yoshio-kondo-pylee"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）",
+   "results": [
+    "https://www.facebook.com/61584187930928/posts/no010%E4%B8%96%E7%95%8C%E3%81%AE%E7%89%A9%E4%BE%A1%E6%97%A5%E6%9C%AC%E3%82%92100%E3%81%A8%E3%81%99%E3%82%8B%E3%81%A8%E4%B8%BB%E3%81%AA%E5%87%BA%E5%85%B8%E4%B8%96%E7%95%8C%E9%8A%80%E8%A1%8C-wdi%E5%AE%B6%E8%A8%88npish%E6%9C%80%E7%B5%82%E6%B6%88%E8%B2%BB%E3%81%AE%E4%BE%A1%E6%A0%BC%E6%B0%B4%E6%BA%96%E6%8C%87%E6%95%B0-%E4%B8%96%E7%95%8C%E9%8A%80%E8%A1%8C%E6%8C%87%E6%A8%99%E3%81%AE%E5%85%AC%E5%BC%8F%E5%AE%9A%E7%BE%A9-formatjson%E4%B8%96%E7%95%8C%E9%8A%80%E8%A1%8C-in/122151132129139597/",
+    "https://www.facebook.com/61584187930928/posts/%E5%90%89%E9%87%8E%E5%AE%B6-vs-%E6%9D%BE%E5%B1%8B-%E5%BA%97%E8%88%97%E6%95%B0-vsmap-no017%E5%87%BA%E5%85%B8%E5%90%89%E9%87%8E%E5%AE%B6%E5%85%AC%E5%BC%8F%E5%BA%97%E8%88%97%E6%A4%9C%E7%B4%A2%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E6%8E%B2%E8%BC%89%E4%BB%B6%E6%95%B0%E5%BA%97%E8%88%97%E8%A9%B3%E7%B4%B0-%E6%9D%BE%E5%B1%8B%E3%83%95%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E5%BA%97%E8%88%97%E6%A4%9C%E7%B4%A2%E6%9D%BE%E5%B1%8B%E3%81%AE%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7%E5%BA%97%E8%88%97%E8%A9%B3%E7%B4%B0-%E6%9D%BE%E5%B1%8B/122150214201139597/",
+    "https://www.facebook.com/61584187930928/posts/%E5%A4%A7%E5%88%86%E3%81%AE%E6%B2%BB%E5%AE%89%E7%8A%AF%E7%BD%AA%E7%99%BA%E7%94%9F%E7%8E%87-%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E5%88%A5map%E9%9B%86%E8%A8%88%E6%96%B9%E6%B3%95%E7%8A%AF%E7%BD%AA%E7%99%BA%E7%94%9F%E7%8E%872025%E5%B9%B4%E3%81%AE%E5%88%91%E6%B3%95%E7%8A%AF%E8%AA%8D%E7%9F%A5%E4%BB%B6%E6%95%B02025%E5%B9%B44%E6%9C%88%E8%AA%BF%E6%9F%BB%E3%81%AE%E4%BA%BA%E5%8F%A3100%E4%BB%B6%E6%95%B0%E3%81%AF2025%E5%B9%B41%E6%9C%8812%E6%9C%88%E3%81%AE%E5%88%91%E6%B3%95%E7%8A%AF%E8%AA%8D%E7%9F%A5%E4%BB%B6%E6%95%B0%E4%BA%BA%E5%8F%A3%E3%81%AF/122151012867139597/",
+    "https://www.facebook.com/61584187930928/posts/%E9%9D%A2%E7%A9%8Dno1%E3%83%89%E3%83%B3%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%E5%BA%97%E8%88%97%E5%A3%B2%E3%82%8A%E5%A0%B4%E9%9D%A2%E7%A9%8D-%E7%A9%BA%E6%92%AEmap-no013%E5%87%BA%E5%85%B8%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99ppih%E3%83%91%E3%83%B3%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E5%BA%97%E8%88%97%E6%83%85%E5%A0%B1-%E3%83%89%E3%83%B3/122144802777139597/",
+    "https://www.facebook.com/61584187930928/posts/%E9%95%B7%E5%B4%8E%E3%81%AE%E6%B2%BB%E5%AE%89-%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E5%88%A5map%E5%B8%82%E7%94%BA%E6%9D%91%E5%88%A5-%E9%95%B7%E5%B4%8E%E3%81%AE%E7%8A%AF%E7%BD%AA%E7%99%BA%E7%94%9F%E7%8E%879%E6%AE%B5%E9%9A%8E%E3%82%B9%E3%82%B3%E3%82%A2%E5%AF%BE%E9%A6%AC%E5%B8%82-034%E3%82%B9%E3%82%B3%E3%82%A23%E5%A3%B1%E5%B2%90%E5%B8%82-028%E3%82%B9%E3%82%B3%E3%82%A25%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82-041%E3%82%B9%E3%82%B3%E3%82%A22%E5%B0%8F%E5%80%A4%E8%B3%80%E7%94%BA-024%E3%82%B9%E3%82%B3%E3%82%A26%E6%96%B0/122150525619139597/",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
+    "https://www.facebook.com/groups/713390697225371/",
+    "https://www.facebook.com/groups/813342132068841/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/2428.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou_keizaikouzou.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments industry tables xlsx 4-digit industry employees shipments value added site:linkedin.com",
+   "results": [
+    "https://kz.linkedin.com/in/alisher-beisembekov",
+    "https://www.linkedin.com/in/vikramdias",
+    "https://ng.linkedin.com/in/nicholas-idoko",
+    "https://au.linkedin.com/in/chloeperot",
+    "https://de.linkedin.com/in/sabyasachi-paul",
+    "https://www.linkedin.com/pulse/philadelphia-fed-manufacturing-business-outlook-survey-faisal-amjad-xyuuf/",
+    "https://www.linkedin.com/pulse/manufacturing-business-outlook-survey-analysis-june-2026-faisal-amjad-cunqf",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://in.linkedin.com/company/starship-global-vct",
+    "https://pulse.linkedin.com/research-and-trends/publications"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ45頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ45頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ45頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ45頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ45頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ45頁・検索18回）",
+  "10年推移": "記載なし（読んだ45頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ45頁・検索18回）"
+ }
+}

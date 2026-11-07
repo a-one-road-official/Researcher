@@ -1,0 +1,565 @@
+{
+ "name": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+ "en": "Japan shipbuilding only workforce vs marine equipment industry workforce annual MLIT",
+ "aliases": [
+  "造船業 就労者数 推移 site:mlit.go.jp filetype:pdf",
+  "造船業 舶用工業 従業者 内訳 年次",
+  "海事局調べ 造船 労働人口 推移 -船員"
+ ],
+ "context": "供給・造船",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:50:13.911291+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanaeru-web.jp/blog/2537/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://samurai-law.com/tokutei/sub01-06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001744786.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tsb-care.com/126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/deltacf/n/na8708285e367",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titp360.jp/column/sshr/shipbuilding-marine-industry-specific-skills/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/maritime_fr5_000006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001454693.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://solution-supporter.jp/tokuteiginou-zousen-indonesia-coe-failure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokuteiginou-online.com/column/zousenpaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treeglobalpartners.com/articles/tokutei-ginou-zosen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokutei-ginou-teleapo-senmon.com/tokutei-ginou-zousen-kaitakusaki/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://max-kyujin.com/media/tokuteiginou-zousen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00600300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00600750",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstra.jp/html/PDF/05_london_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/14275924",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.spf.org/opri/global-data/opri/pdf_files/1997_hakuyokogyokankei_tokeihokoku.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.catherine.ac.jp/wp-content/uploads/2023/05/4c575abfdcab14ebf74eb814c8624c57.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/data/maritime_commission_no03/document03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/roudouyoran.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/chart/html/g0005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/statistics/details/t-kaiun-2_tk_000216.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstra.jp/PDF/report7_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001472909.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4738331/17_p003.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.naiko-kaiun.or.jp/img/naiko_data2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/file/318.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr07/pdf/chr07_1-1-9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsanet.or.jp/data/pdf/data2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/policies/ssw/ship.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/roudou/sokuhou/nen/ft/pdf/gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/statistics/details/t-kaiun-2_tk_000215.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsmea.or.jp/jp//members/data-dw.php",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 人手不足 受注 断る",
+   "results": [
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://samurai-law.com/tokutei/sub01-06/",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://www.mlit.go.jp/maritime/content/001744786.pdf",
+    "https://tsb-care.com/126",
+    "https://titp360.jp/column/sshr/shipbuilding-marine-industry-specific-skills/",
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://gaikokujinzai2026.jp/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E5%AE%9F%E6%85%8B%E3%80%80%E7%AC%AC%EF%BC%95%E8%A9%B1%E3%80%80%E9%80%A0%E8%88%B9%E3%83%BB%E8%88%B6%E7%94%A8%E5%B7%A5%E6%A5%AD%E3%80%80%E3%81%9D%E3%81%AE2/",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00600300"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 受注残 人手不足",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf",
+    "https://note.com/deltacf/n/na8708285e367",
+    "https://titp360.jp/column/sshr/shipbuilding-marine-industry-specific-skills/"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 人手不足 損失 億円",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://samurai-law.com/tokutei/sub01-06/",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://titp360.jp/column/sshr/shipbuilding-marine-industry-specific-skills/"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+   "results": [
+    "https://www.mlit.go.jp/maritime/maritime_fr5_000006.html",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://www.moj.go.jp/isa/content/001454693.pdf",
+    "https://solution-supporter.jp/tokuteiginou-zousen-indonesia-coe-failure/",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://tokuteiginou-online.com/column/zousenpaku/",
+    "https://treeglobalpartners.com/articles/tokutei-ginou-zosen/",
+    "https://tokutei-ginou-teleapo-senmon.com/tokutei-ginou-zousen-kaitakusaki/",
+    "https://sukimagroup.jp/zousen-ukeire-guide-kigyou/",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 推移",
+   "results": [
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://treeglobalpartners.com/articles/tokutei-ginou-zosen/",
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://max-kyujin.com/media/tokuteiginou-zousen/",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00600300",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 統計 PDF",
+   "results": [
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://www.jstra.jp/html/PDF/05_london_5.pdf",
+    "https://www.moj.go.jp/isa/content/001454693.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/14275924",
+    "https://www.spf.org/opri/global-data/opri/pdf_files/1997_hakuyokogyokankei_tokeihokoku.pdf",
+    "https://www.catherine.ac.jp/wp-content/uploads/2023/05/4c575abfdcab14ebf74eb814c8624c57.pdf",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mlit.go.jp/common/001295634.pdf",
+    "https://www.jpmac.or.jp/data/maritime_commission_no03/document03.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 従業者規模別",
+   "results": [
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.mhlw.go.jp/stf/roudouyoran.html",
+    "https://www.jil.go.jp/kokunai/statistics/chart/html/g0005.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://samurai-law.com/tokutei/sub01-06/",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 1人当たり 万円",
+   "results": [
+    "https://www.mlit.go.jp/common/001295634.pdf",
+    "https://www.jstra.jp/PDF/report7_2024.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://www.moj.go.jp/isa/content/001472909.pdf",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4738331/17_p003.pdf",
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.naiko-kaiun.or.jp/img/naiko_data2024.pdf",
+    "https://www.jpmac.or.jp/file/318.pdf",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） 2015 2025",
+   "results": [
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://treeglobalpartners.com/articles/tokutei-ginou-zosen/",
+    "https://www.jsanet.or.jp/data/pdf/data2025.pdf",
+    "https://www.moj.go.jp/isa/policies/ssw/ship.html",
+    "https://www.stat.go.jp/data/roudou/sokuhou/nen/ft/pdf/gaiyou.pdf",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/14275924",
+    "https://www.e-stat.go.jp/statistics/00600750"
+   ]
+  },
+  {
+   "query": "Japan shipbuilding only workforce vs marine equipment industry workforce annual MLIT Japan statistics",
+   "results": [
+    "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
+    "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en/full-report/component-4.html",
+    "https://www.imarinenews.com/28976.html",
+    "https://www.breakwaveadvisors.com/insights/2026/4/14/japans-shipbuilding-industry-capacity-constraints-and-structural-transition",
+    "https://www.brsshipbrokers.com/en/news/japan-s-shipbuilding-industry-reaction-to-maintain-its-global-orderbook-share-consolidation-and-modernization",
+    "https://www.facebook.com/michigan.engineering/posts/yesterday-shipbuilders-and-maritime-industry-experts-from-the-us-and-japan-met-t/1491260949699591/",
+    "https://www.jittiusa.org/jittijournal-1/japan%E2%80%99s-initiatives-on-revitalizing-the-shipbuilding-industry",
+    "https://www.sphericalinsights.com/blogs/japan-shipbuilding-revival-how-new-investment-could-reshape-global-supply-chains",
+    "https://www.statista.com/topics/8888/shipbuilding-industry-in-japan/?srsltid=AYCX9vJWmweFZMay0liyRIOcoitno_TEBtweZBb_5PB6jKJDBAsCdK_4",
+    "https://www.stat.go.jp/english/data/roudou/"
+   ]
+  },
+  {
+   "query": "site:note.com 造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+   "results": [
+    "https://note.com/sugimura1012/n/nebb3bbd26db5",
+    "https://note.com/cozyiwasaki/n/n74f63fa91580",
+    "https://note.com/thetashis01/n/n518ac08a9b18",
+    "https://note.com/thetashis01/n/n9d9eac74f049",
+    "https://note.com/awillize/n/n8dd4e1194dd2",
+    "https://note.com/ghrs/n/n7e4d560e0dc6",
+    "https://note.com/gaikokujinzai/n/n52f73cda149d",
+    "https://note.com/humble_wolf9605/n/n07e0cdec8e91",
+    "https://note.com/thetashis01/n/ncc72be621703",
+    "https://note.com/k1tojo/n/na9a41248e7a8"
+   ]
+  },
+  {
+   "query": "site:x.com 造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+   "results": [
+    "https://x.com/global_astra_1/status/2113915889062236542",
+    "https://x.com/SolomonSol71488/status/2090409332999438788",
+    "https://x.com/ship_investor/status/2059589136861028404",
+    "https://x.com/nikkei/status/2090408737374658693",
+    "https://x.com/extreme877/status/2043122689045672433",
+    "https://x.com/overk0823/status/2022893352929366497",
+    "https://x.com/martytaka777/status/2027210469535252962",
+    "https://x.com/nikkeibusiness/status/2063992108533547312"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+   "results": [
+    "https://jp.linkedin.com/company/今治造船（株）",
+    "https://jp.linkedin.com/in/从保-李-626758214",
+    "https://jp.linkedin.com/pulse/世界造船市場は貿易拡大と環境対応船舶の革新を原動力に2032年までに1970億米ドル規模へ成長へ-reportoceanjapan-bpn2c",
+    "https://www.linkedin.com/feed/update/urn:li:share:7500365118212497409",
+    "https://www.linkedin.com/posts/信友-高木-165917240_インドネシア人日本就労数が急増したと思ったら岸田文雄の実弟の会社がなんと-activity-7195822624478797827-G-f1",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho",
+    "https://jp.linkedin.com/posts/theruleofoceans_2026年-予測-遊覧船-activity-7458275173780156416-Gxq1"
+   ]
+  },
+  {
+   "query": "site:facebook.com 造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）",
+   "results": [
+    "https://www.facebook.com/61593684942939/posts/%E5%A4%A7%E7%88%86%E7%AC%91%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%82%AC%E3%83%81%E5%BC%B7%E3%81%99%E3%81%8Eww%E5%B0%8F%E9%87%8E%E7%94%B0%E6%B0%8F%E3%81%AE%E8%A1%9D%E6%92%83%E5%8F%8D%E6%92%83%E3%81%A7%E8%A6%AA%E4%B8%AD%E6%B4%BE%E3%81%8C%E5%89%8D%E4%BB%A3%E6%9C%AA%E8%81%9E%E3%81%AE%E5%88%B6%E5%BE%A1%E4%B8%8D%E8%83%BD%E3%81%AB%E5%A4%A7%E7%82%8E%E4%B8%8A%E3%83%88%E3%83%B3%E3%83%87%E3%83%A2%E3%81%AA%E3%81%84%E4%BA%8B%E6%85%8B%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/122126806575456164/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/photos/2024927特定技能2号令和5年12月末総数37人分野別建設30人造船-舶用工業6人製造三分野1人国別ベトナム20人中国12人フィリピン3人インドネシア2人令/1060208882779069/",
+    "https://www.facebook.com/一般社団法人日本舶用工業会-2345527279104430/",
+    "https://www.facebook.com/marinefans.org/posts/日本造船統計分類以及各別船舶圖面513mb-fbclidiwverduamszrrlehrua2flbqixmqabhmdnrayhq6ftctr6y2rwlv/1229980472478534/",
+    "https://www.facebook.com/OTITJITCO/photos/特定技能在留外国人数令和5年9月末現在速報値8月末17人9月末21人と特定技能4名が増加しました10月末には9月に造船船舶工業で初めて特定技能2号に認定されたベ/834069551844542/",
+    "https://www.facebook.com/kirianman/posts/造船会社で働く157人のうち96人が外国人です因島鉄工では社長が外国人がいなかったら仕事にならないお手上げと話しています会社は資格取得や礼拝スペース家族寮を整備/1105699221803387/",
+    "https://www.facebook.com/kinkikaiji/photos/日本海事新聞-電子版-httpswwwjmdcojp2026年01月19日-デイリー版6面-造船舶用-より賀詞交近畿舶用工業会国内造船業を供給で支える-近畿舶用/1312971284201425/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/photos/2024530nghệ-an省北中部各省で海外就労人材輩出数12を争うnghệ-an省に関する記事要点ハンガリーでの造船労働者の月収は30005000万vnd約/971312155002076/"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） note 社長",
+   "results": [
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://note.com/deltacf/n/na8708285e367",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://samurai-law.com/tokutei/sub01-06/",
+    "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "https://tsb-care.com/126",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://note.com/deltacf/n/nea6920f7f035"
+   ]
+  },
+  {
+   "query": "造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58） X 投稿",
+   "results": [
+    "https://www.mlit.go.jp/maritime/maritime_fr5_000006.html",
+    "https://www.aibisu.net/archives/1668",
+    "https://treeglobalpartners.com/articles/tokutei-ginou-zosen/",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai81/81shiryou_1.pdf",
+    "https://note.com/yo4shi80/n/nd23f1601e2fa",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://max-kyujin.com/media/tokuteiginou-zousen/",
+    "https://kanaeru-web.jp/blog/2537/",
+    "https://www.e-stat.go.jp/statistics/00600750",
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf"
+   ]
+  },
+  {
+   "query": "Japan shipbuilding only workforce vs marine equipment industry workforce annual MLIT site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/mahesh-korade-86510a152",
+    "https://in.linkedin.com/in/venkata-kishor-sambana-13377379",
+    "https://www.linkedin.com/posts/ramprasad-ravi-b901273_a-trial-project-to-use-ai-generated-forecasts-activity-7422446715862986753-jvjr",
+    "https://sg.linkedin.com/in/koichiro-abe-6b0345179",
+    "https://au.linkedin.com/in/irene-penesis-2b657119",
+    "https://hk.linkedin.com/in/jan-waas-2472261",
+    "https://www.linkedin.com/posts/hirofumi-yamamoto-maritime-bridge_maritimebridgejapan-japanshipping-shipbuilding-activity-7519395526694305792-8rwj",
+    "https://jp.linkedin.com/in/justus-schoemaker-a158801",
+    "https://uk.linkedin.com/in/rosspaget",
+    "https://kr.linkedin.com/in/sangmok-sam-roh-5209a434"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

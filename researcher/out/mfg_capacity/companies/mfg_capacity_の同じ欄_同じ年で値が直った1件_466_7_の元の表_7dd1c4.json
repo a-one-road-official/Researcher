@@ -1,0 +1,325 @@
+{
+ "name": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+ "en": "source table check for revised value same item same year manufacturing contract processing Japan",
+ "aliases": [
+  "工業統計 確報 改定 加工賃収入額 産業細分類 訂正",
+  "工業統計表 正誤表 訂正 産業別統計表"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:55:44.731143+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://dataaicareer.com/tableau-numbers-not-matching/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://translate.google.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-ai.com/data/data-quality-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solverglobal.com/product/template-marketplace/manufacturing-capacity-utilization-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vba-work-motegi-office.com/%E3%80%90excel%E3%80%91%E9%87%8D%E8%A4%87%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95%EF%BD%9C%E9%96%A2%E6%95%B0%E3%83%BB%E3%83%94%E3%83%9C%E3%83%83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://excel-support.jp/learn/pivot-table-not-working",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funshitsu.com/excel-pivot-table-aggregation-error-data-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lanes.info/capacity-util/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%A7%E5%90%8C%E3%81%98%E9%96%A2%E6%95%B0%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8C%E9%81%95%E3%81%86%E5%8E%9F%E5%9B%A0%E3%81%A8%E5%AF%BE%E5%87%A6%E6%B3%95%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.doodle-office.work/entry/excel-index-match-nth-match",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/yearly/kogyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=%E8%A3%BD%E9%80%A0%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%89%80%E8%AA%BF%E6%9F%BB%E3%80%80%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?layout=dataset&query=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/898487279/%E7%8E%89%E6%89%8B%E7%AE%B1-%E9%9D%9E%E8%A8%80%E8%AA%9E-%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/JPNPROMANAISMEI",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/640262/japan-manufacturing-goods-shipments-value-by-industry/?srsltid=AYCX9vKVuS-td6vTtRVqDNlaIqL_h06xpxpRbY2t0aV1BkH3Le4l5PGt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=gross+value+added&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/manufacturing-pmi",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 人手不足 受注 断る",
+   "results": [
+    "https://dataaicareer.com/tableau-numbers-not-matching/",
+    "https://translate.google.co.jp/",
+    "https://mfg-ai.com/data/data-quality-manufacturing",
+    "https://www.solverglobal.com/product/template-marketplace/manufacturing-capacity-utilization-dashboard",
+    "https://lanes.info/jp-mfg-capacity-util/",
+    "https://vba-work-motegi-office.com/【excel】重複データをまとめる方法｜関数・ピボッ/",
+    "https://nyanto.jimdofree.com/ｴｸｾﾙ関数-問題解決/エクセル関数で月ごと-年月ごと-年ごとに値を抽出し合計-集計する方法/",
+    "https://lanes.info/jp-industrial-prod/",
+    "https://www.cellnets.co.jp/dev_column/13406",
+    "https://partner.iatf-iso.net/product/run-at-rate/"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 受注残 人手不足",
+   "results": []
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 人手不足 損失 億円",
+   "results": []
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "https://excel-support.jp/learn/pivot-table-not-working",
+    "https://funshitsu.com/excel-pivot-table-aggregation-error-data-check/",
+    "https://lanes.info/jp-mfg-capacity-util/",
+    "https://lanes.info/capacity-util/",
+    "https://it-notes.stylemap.co.jp/excel/excelで同じ関数の結果が違う原因と対処法を解説す/",
+    "https://www.doodle-office.work/entry/excel-index-match-nth-match"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 推移",
+   "results": []
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 統計 PDF",
+   "results": []
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://ja.wikipedia.org/wiki/工業統計調査",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=製造業事業所調査　工業統計",
+    "https://www.e-stat.go.jp/en/stat-search/files?layout=dataset&query=工業統計",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_shosai.pdf"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 従業者規模別",
+   "results": [
+    "https://www.scribd.com/document/898487279/%E7%8E%89%E6%89%8B%E7%AE%B1-%E9%9D%9E%E8%A8%80%E8%AA%9E-%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） 2015 2025",
+   "results": []
+  },
+  {
+   "query": "source table check for revised value same item same year manufacturing contract processing Japan Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://fred.stlouisfed.org/series/JPNPROMANAISMEI",
+    "https://www.statista.com/statistics/640262/japan-manufacturing-goods-shipments-value-by-industry/?srsltid=AYCX9vKVuS-td6vTtRVqDNlaIqL_h06xpxpRbY2t0aV1BkH3Le4l5PGt",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=gross+value+added&layout=dataset",
+    "https://tradingeconomics.com/japan/manufacturing-pmi",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://unstats.un.org/unsd/nationalaccount/docs/SUT_IOT_HB_Final_Cover.pdf",
+    "https://www.federalreserve.gov/feeds/g17.html",
+    "https://www.meti.go.jp/english/statistics/"
+   ]
+  },
+  {
+   "query": "site:note.com mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+   "results": [
+    "https://note.com/yukimorikawatem/n/nb71d2d34b3c3",
+    "https://note.com/large_shark2393/n/nfe8429c5ef03",
+    "https://note.com/loots/n/n14ed5f6bcf02",
+    "https://note.com/keity717/n/n6f7ec953e085",
+    "https://note.com/ready_garlic6264/n/n3926c0ac0359",
+    "https://note.com/loots/n/nab5e46dd5e4b",
+    "https://note.com/fair_garlic4456/n/nfb6603522f30"
+   ]
+  },
+  {
+   "query": "site:x.com mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+   "results": [
+    "https://x.com/kessan_db/status/2078981332739535083",
+    "https://x.com/hakuto1208/status/2115421079078584609",
+    "https://x.com/SPEARHEAD_G/status/2090851955556118541",
+    "https://x.com/AITOvibecoder/status/2109929010520371277",
+    "https://x.com/slotiger1211/status/2104587842857078921",
+    "https://x.com/Torowa_No3/status/2111425826306814224",
+    "https://x.com/anzan813/status/2104814951219204574"
+   ]
+  },
+  {
+   "query": "site:linkedin.com mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+   "results": [
+    "https://jp.linkedin.com/jobs/capacity-analyst-jobs",
+    "https://dk.linkedin.com/in/halloliver/ja",
+    "https://tw.linkedin.com/in/于詢-林-1620b9249",
+    "https://www.linkedin.com/advice/1/how-can-you-measure-capacity-utilization-manufacturing-5ta3f",
+    "https://jp.linkedin.com/jobs/view/mfg-mxt-engineer-at-micron-technology-4410852190",
+    "https://pe.linkedin.com/posts/maheshbarate_china-carmakers-to-double-mfg-capacity-abroad-activity-7255158522697400321-JmfC",
+    "https://www.linkedin.com/posts/bioplan-associates_biopharma-mfg-capacity-and-production-bioplan-activity-7207382059869188096-HDwe"
+   ]
+  },
+  {
+   "query": "site:facebook.com mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）",
+   "results": [
+    "https://www.facebook.com/mfg.concept/",
+    "https://www.facebook.com/IBM.Sano/photos/businesswireの記事によるとltoテープカートリッジの2021年出荷容量実績が対前年2020年比で40アップになったようです圧縮状態での換算で2021/5251160561607364/",
+    "https://www.facebook.com/mfg.concept/posts/本日発売のヤングマガジンにて第181話掲載です第4戦シーサイドダブルレーン決勝2周目18号車北原がカナタとベッケンバウアーと共に快進撃-その理由を須藤さんがたっ/1170505297079252/",
+    "https://www.facebook.com/mfg.concept/posts/こんにちはmfgコンセプトですオートサロン2日目が始まりましたmfgエンジェルスの撮影会は激混みの為撮影待ちエリアを設置することになりました右から林ゆめさん沢す/367252057404584/",
+    "https://www.facebook.com/hideaki.jinbo.1/posts/第25回mfg東日本-定期総会がマルキユー本社で行われました25期事業報告会計報告26期の役員新体制26期事業計画案の後-懇親会豪華景品が当たる-お楽しみ抽選会/3195864227265453/",
+    "https://www.facebook.com/kanto.mfg.corp/",
+    "https://www.facebook.com/mfg.concept/photos/本日発売のヤングマガジンにて第181話掲載です第4戦シーサイドダブルレーン決勝2周目18号車北原がカナタとベッケンバウアーと共に快進撃-その理由を須藤さんがたっ/1170504897079292/"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） note 社長",
+   "results": [
+    "https://lanes.info/jp-mfg-capacity-util/",
+    "https://translate.google.co.jp/",
+    "https://excel-support.jp/learn/pivot-table-not-working",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "https://funshitsu.com/excel-pivot-table-aggregation-error-data-check/",
+    "https://buralog.jp/pivot-checklist/",
+    "https://lanes.info/capacity-util/"
+   ]
+  },
+  {
+   "query": "mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51） X 投稿",
+   "results": [
+    "https://funshitsu.com/excel-pivot-table-aggregation-error-data-check/",
+    "https://excel-support.jp/learn/pivot-table-not-working",
+    "https://it-notes.stylemap.co.jp/excel/excelのピボットテーブルで同じ項目が別々に集計さ/",
+    "https://www.excel-laboratory.online/excel-duplicate-columns-error/",
+    "https://buralog.jp/pivot-checklist/",
+    "https://it-notes.stylemap.co.jp/excel/excelで同じ関数の結果が違う原因と対処法を解説す/",
+    "https://learn.microsoft.com/ja-jp/answers/questions/5100667/question-5100667"
+   ]
+  },
+  {
+   "query": "source table check for revised value same item same year manufacturing contract processing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/productivity/manufacturing-improvement-techniques/using-boms-to-guide-manufacturing-processes/",
+    "https://in.linkedin.com/in/saranya-narayanan-977b9560",
+    "https://in.linkedin.com/in/nandipati-shashikala-aa46321bb",
+    "https://www.linkedin.com/in/anirudhshankar4",
+    "https://in.linkedin.com/in/navya-vashisht-7576a7338",
+    "https://www.linkedin.com/in/rachel-kaufman-6559634",
+    "https://www.linkedin.com/in/olegkhazanov",
+    "https://ng.linkedin.com/in/nathan-ojaokomo",
+    "https://www.linkedin.com/pulse/mastering-rfq-quotation-comparison-sap-mm-strategic-procurement-kaur-zhswc",
+    "https://www.linkedin.com/in/mingshenghong"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ25頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ25頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ25頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ25頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ25頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ25頁・検索18回）",
+  "10年推移": "記載なし（読んだ25頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ25頁・検索18回）"
+ }
+}

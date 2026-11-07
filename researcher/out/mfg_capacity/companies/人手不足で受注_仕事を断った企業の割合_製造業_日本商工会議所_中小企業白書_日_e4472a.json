@@ -1,0 +1,568 @@
+{
+ "name": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+ "en": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey",
+ "aliases": [
+  "人手不足 受注を断った 割合 site:jcci.or.jp",
+  "中小企業白書 人手不足 需要増に対応できない 受注 割合 site:chusho.meti.go.jp",
+  "日本政策金融公庫 人手不足 受注 断った 割合 site:jfc.go.jp",
+  "帝国データバンク 人手不足 受注機会の損失 割合 製造業",
+  "東京商工リサーチ 人手不足 アンケート 受注を断った 製造業"
+ ],
+ "context": "穴埋め・一次0件",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:50:22.460538+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://online.logi-biz.com/142932/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mkensetu.jp/news/labor-shortage-gap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cast-er.com/column/how-to-solve-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wood_bell919/n/n8522970747db",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/labor-shortage/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineering-technology.brexa.com/blog/technavi/labor-shortage-bankruptcy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodtechjapan.jp/hub/ja-jp/blog/article_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkg.co.jp/column/recruitment-retention/106/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/index.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/sec/tokei/keizaikouzour40326.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://higucm.com/news/kensetsu-hitodebusoku-toushi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/03/news015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/rpa/rpa_guide/35638/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/news/items/info0912_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250819-laborshortage202507/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/17538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/discussion_paper/ron340.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imf.org/external/pubs/ft/wp/2015/wp15181.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 人手不足 受注 断る",
+   "results": [
+    "https://online.logi-biz.com/142932/",
+    "https://mkensetu.jp/news/labor-shortage-gap/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://cast-er.com/column/how-to-solve-labor-shortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://note.com/wood_bell919/n/n8522970747db",
+    "https://forbesjapan.com/articles/detail/93940",
+    "https://biz.nuro.jp/column/103/",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 受注残 人手不足",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://ma-la.co.jp/m-and-a/labor-shortage/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "https://www.consultsourcing.jp/12889",
+    "https://www.youtube.com/watch?v=k7-MqllJSFM"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 人手不足 損失 億円",
+   "results": [
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://engineering-technology.brexa.com/blog/technavi/labor-shortage-bankruptcy/",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://note.com/sei_tamai/n/n2870d137ec12"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://www.foodtechjapan.jp/hub/ja-jp/blog/article_004.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://tkg.co.jp/column/recruitment-retention/106/",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://ma-la.co.jp/m-and-a/labor-shortage/"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 推移",
+   "results": [
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://tkg.co.jp/column/recruitment-retention/106/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://ma-la.co.jp/m-and-a/labor-shortage/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://cast-er.com/column/how-to-solve-labor-shortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 1人当たり 万円",
+   "results": [
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://higucm.com/news/kensetsu-hitodebusoku-toushi.html",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/03/news015.html",
+    "https://www.usknet.com/rpa/rpa_guide/35638/",
+    "https://www.n-lights.com/nlplus/logisticslabor_shortage/",
+    "https://www.jcer.or.jp/j-column/column-saito/2025023.html",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/keikyou/keikyo6.files/202410gaiyou.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 2015 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://www.mh5.jp/announce_95702.html",
+    "https://www.foodtechjapan.jp/hub/ja-jp/blog/article_004.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/"
+   ]
+  },
+  {
+   "query": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey Japan statistics",
+   "results": [
+    "https://www.nippon.com/en/articles/-/17538",
+    "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron340.pdf",
+    "https://www.imf.org/external/pubs/ft/wp/2015/wp15181.pdf",
+    "https://www.tandfonline.com/doi/full/10.1080/2329194X.2026.2629324",
+    "https://www.facebook.com/japaninsidehq/posts/japan-ceos-overwhelmingly-demand-foreign-workers-as-labor-shortages-and-aging-cr/1102281658741418/",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en.html",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.stat.go.jp/english/data/roudou/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://note.com/tsuchiyamamakoto/n/n2597959d0f1b",
+    "https://note.com/newbizcreate_777/n/ncdb09e84038b",
+    "https://note.com/satoshi_umeki/n/ndc709b30965a",
+    "https://note.com/mino11293/n/nda12b296cf41",
+    "https://note.com/tsuchiyamamakoto/n/n2ca86f83a294",
+    "https://note.com/newbizcreate_777/n/n3f71a5efcc79",
+    "https://note.com/kazukuro1015/n/nec5299668289",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/charm_hare8468/n/nce8d7bfb9073"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://x.com/sore_shirabeta",
+    "https://x.com/1Sirou01",
+    "https://x.com/EiQ299",
+    "https://x.com/inagaki_hq/status/2093830705583460430",
+    "https://x.com/SORAMON_INC/status/2104330239811756302",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://x.com/akishiro_akisia/status/2112343237272998084",
+    "https://x.com/hatano_keiei/status/2063365524135031065",
+    "https://x.com/zensaikyou/status/2105810317326659672",
+    "https://x.com/itmedia/status/2036614076781224280"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://jp.linkedin.com/in/jumpei-arino-b5a896250",
+    "https://jp.linkedin.com/in/%E9%9B%85%E7%AF%84-%E5%B0%8F%E6%9E%97-700a6787",
+    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
+    "https://jp.linkedin.com/in/%E8%B3%A2%E5%A4%AA-%E5%B0%8F%E6%9E%97-84a907419",
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B164-toru-%E4%BA%A8-hara-%E5%8E%9F-s4bxc",
+    "https://cn.linkedin.com/posts/rockwell-automation_元宇宙概念在製造業落地成真洛克威爾自動化用-ar-技術全面優化工廠維運效率-activity-6932857921126940672-FQsT",
+    "https://cn.linkedin.com/posts/david-huang-58390635_為什麼加人常常無效-製造業常常發生的負面價值資訊好比供應商來料品質不良製程不良-activity-7499435046764691456-0Dmz",
+    "https://www.linkedin.com/news/story/人手不足中小企業の6割-4983345/",
+    "https://www.linkedin.com/news/story/人手不足-定年引き上げ等で対応-6208322/",
+    "https://jp.linkedin.com/posts/shuheikotobuki_大型工事26年度受注できず建設会社の7割成長投資阻む人手不足-日本経済新聞-activity-7418159617349799936-VN1y"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://www.facebook.com/fanhung.liu/photos/專欄20xx-ai製造台灣製造業不能再等的轉機台灣的產業問題早已不在於訂單量而在於沒有人近年來製造業面臨的最大困境不是市場需求不足而是沒有人力可以生產老師傅陸續/26098822076374768/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/",
+    "https://www.facebook.com/matsuo.akihito/posts/トヨタヒト型ロボット40万台を工場へ-人手不足を救うのか人の仕事を奪うのか今日9月18日の日経新聞にトヨタ自動車が自社開発したヒト型ロボットを世界の工場に40万/28487364120883751/",
+    "https://www.facebook.com/chiyodadenshi/posts/先週の気になるニュース１月１７日日本経済新聞朝刊-大型工事縮む受注余力大手中堅の建設会社の約７割が２０２６年度内は大型工事を新規受注できないとみていることがわか/1383339563586465/",
+    "https://www.facebook.com/yorozushiga/photos/受注は増えたのに人手が足りないバックヤード業務に追われ接客に集中できない賃上げの原資をどう確保すべきか悩んでいるそんな課題を抱える経営者個人事業主の皆様へ滋賀県/1512819504186476/",
+    "https://www.facebook.com/michitaka.hasegawa/posts/aiで仕事が奪われると言われながら人手不足だから外国から人材をつれてくる何なんでしょうねaiで人手がいらなくなった業界から人手不足の業界にリソースが動けば良い話/28663552963331958/",
+    "https://www.facebook.com/mokutaikyo/posts/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662895528113/"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） note 社長",
+   "results": [
+    "https://note.com/wood_bell919/n/n8522970747db",
+    "https://note.com/long_wren5334/n/n2b2b6f8b46fa",
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://www.youtube.com/watch?v=qPwxmxo953Q",
+    "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/",
+    "https://note.com/ike_satoshi/n/n4b38df6d905d",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://www.consultsourcing.jp/12889",
+    "https://note.com/onesmallstep_dx/n/n32041edb441a",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） X 投稿",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.foodtechjapan.jp/hub/ja-jp/blog/article_004.html",
+    "https://www.youtube.com/watch?v=k7-MqllJSFM",
+    "https://note.com/smartsuit/n/n16e498638ebb",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://www.brother.co.jp/product/biz/business-navi/column/product-logistic/use36/",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ]
+  },
+  {
+   "query": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/williamwgeorge_why-american-manufacturing-is-losing-jobs-activity-7414136938041053184-dieN",
+    "https://www.linkedin.com/pulse/food-delivery-japan-radical-challenges-secure-growth-akio-fujii-jiegc",
+    "https://www.linkedin.com/top-content/finance/analyzing-economic-indicators/manufacturing-output-insights/",
+    "https://www.linkedin.com/pulse/ceic-insights-indonesias-msci-warnings-japans-labor-shortage-75bkf",
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4",
+    "https://www.linkedin.com/pulse/has-japanese-shipbuilding-really-declined-yang-chen-%E9%99%88%E6%B4%8B--6luoc",
+    "https://www.linkedin.com/posts/financial-times_japans-convenience-stores-are-facing-an-activity-7513145387889790976-LjcS",
+    "https://www.linkedin.com/news/story/transportation-equipment-dents-demand-for-durable-goods-7902705/",
+    "https://www.linkedin.com/pulse/weekly-economic-commentary-nasser-saidi-3e",
+    "https://www.linkedin.com/pulse/time-invest-japan-dominique-turpin"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

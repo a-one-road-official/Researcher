@@ -522,6 +522,7 @@
   - 「取締役を委員長とするコンプライアンス推進委員会を置き、「FUJIKURA COMPOSITES 行動規範」に基づいて、グループ横断的なコンプライアンス体制の整備と問題点の把握、コンプライアンス上のリスクの分析・評価、再発防止策の立案にあたっております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
   - 「2026年3月期（2025年度実績）の決算につきましては、世界的な地政学リスクやサプライチェーンへの影響、インフレなど不確実性の高い事業環境のもとでありましたが、売上高は402億38百万円（前期比0.9%減）、営業利益は48億38百万円（同4.7%増）と、利益面で増益を達成することができました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
 - これから関心を持つこと：
+  - 「森田健司社長に23年度の業績を振り返りつつ、スポーツ用品部門、新成長戦略の投資、新年の抱負などを聞いた」（https://www.gomutimes.co.jp/?p=190802・3回目）
   - 「当社は、新たな製品の高機能化・高付加価値化や戦略的投資など、持続的成長のための諸施策を推進いたします」（https://www.fujikuracomposites.jp/company/message/・1回目）
   - 「同氏は、過去に主要株主における業務執行者でしたが、すでに経営から退いており株主や投資家の判断に影響を及ぼす恐れはなく、一般株主との利益相反が生じる恐れがないと判断したことから、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
   - 「中途採用 募集要項｜藤倉コンポジット 採用サイト」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
@@ -533,8 +534,8 @@
   - 「当社では、東京証券取引所に提出する業績予想の他、株主や投資家の皆様がご自身で当社の将来の価値についてご検討いただけるように、当社の計画・戦略、目標、予想に関する資料等を書面またはウェブサイト上で提供する場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「ただし、その内容に明らかな誤りがあり、株主・投資家の皆様の判断に重大な影響を与えると当社が判断した場合は、誤りを訂正するよう発信者に要請するとともに、正確な情報を発信します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「業務執行にあたって生じる設備投資・要員の異動については、取締役会で決定した基本方針に基づいて、常勤取締役と重要な各部門の責任者が構成する経営会議において、取締役会で決定した内部統制の基本方針、経営方針及び計画等に則し、全社的な観点から詳細かつ充分に検討して決定します」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
-  - 「当ホームページ上に掲載されている情報は、投資判断の参考として投資一般に関する情報提供を目的としたものであり、投資の勧誘を目的としたものではありません」（https://www.fujikuracomposites.jp/ir/stock/・1回目）
 - 顧客の顧客（主要取引先・発注元）：
+  - 「【応募資格】 [必須] 【必須条件】 ・大学を卒業、もしくは大学院を修了 【歓迎条件】 ■不動産業界での実務経験 ■金融機関または財務会計、管理会計等の会計業務の経験 ■行政や地方公共団体等での就業経験 ■営業やサービス職での顧客対応・交渉業務の実務経験 ■語学力を活かした顧客対応経験 【下記のような方が入社しています】 ・不動産会社で賃貸管理や売買仲介をされていた方 ・デベロッパーや東京都や地方自治体などで都市開発に携わっていた方 ・メガバンクや信託銀行などで営業をしていた方 【職種名】 公務員に近い環境/賃貸住宅を維持管理/幅広いキャリア形成/500～700万/テレワーク・時間休有り」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「売上高や規模の拡大のみを追い求めることなく、グループが一体となって、顧客重視の経営姿勢を今後も貫いていきます」（https://www.fujikuracomposites.jp/company/・1回目）
   - 「当社グループは、自動車部品メーカーに対する売上が多く、自動車産業に大きく依存した状況にあります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「実際の業績等に影響を与える要素には、経済情勢、顧客ニーズの動向、為替レートの変動、原材料価格の変動、急速な技術革新等が考えられますが、これらに限定されるものではありません」（https://www.fujikuracomposites.jp/ir/management/・1回目）
@@ -546,7 +547,6 @@
   - 「（２）当社連結売上高の2％以上の重要な取引が当社グループとの間にある企業の業務執行取締役・執行役・執行役員でないこと」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
   - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
   - 「e 上場会社の主要な取引先又はその業務執行者」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
-  - 「h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
 - 顧客の顧客が求めること（調達方針・要求）：
   - 「こうした変化を見据えながら、藤倉コンポジットは世界中のお客様に品質と価格の両面で満足いただける、」（https://www.fujikuracomposites.jp/company/network/・1回目）
   - 「当社グループは、世界的に認められている品質管理基準に厳格に従って様々な製品を製造しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
@@ -561,6 +561,7 @@
   - 「また、バリューチェーン全体を通じた脱炭素化を推進し、新たな価値を創出することにより、持続可能な社会の発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
   - 「地球環境の保全のために、脱炭素、資源保全、循環経済の構築に向けて活動し、バリューチェーン全体を通じた持続可能な発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
 - 顧客の競合：
+  - 「ナンシン、中国セグメントは増収増益」（https://gomuhouchi.com/business/72919/・3回目）
   - 「中国浙江省杭州市に杭州藤倉橡膠有限公司（現連結子会社）を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「中国浙江省安吉経済開発区に安吉藤倉橡膠有限公司」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「中国市場の拡大など、国内製造業の事業環境は急変しています」（https://www.fujikuracomposites.jp/company/network/・1回目）
@@ -572,7 +573,6 @@
   - 「当社では、「知財で事業を支援する」を基本方針とし、当社独自の技術・ブランドの権利化、特許情報を主とした市場動向・競合動向などを分析し、営業部門・技術部門と協同して企業価値の向上および事業活動を支える活動を推進しています」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
   - 「一方で、他社の知的財産権を尊重するため、他社調査や侵害回避等の予防措置を講じています」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
   - 「また、今後は日本国内や中国など、高齢化の進展に伴い市場拡大が見込まれる医療分野に注目しています」（https://www.fujikuracomposites.jp/ir/management/message/・1回目）
-  - 「新規開拓営業での最も大きな壁は、競合の牙城を崩すこと」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
 - 自社の競合（すでに入っている売り手）：
   - 「他社との協業を含め、新規開発製品の強化」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
   - 「加えて、スタートアップ企業である株式会社テクサーとの資本業務提携を通じ、当社のセンサ技術を活かしたスマートビルディング市場への参入も果たしました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
@@ -600,6 +600,9 @@
   - 「募集職種 【営業(品川)/工業用ゴム部品】自動車、住宅設備など/プライム上場」（https://www.r-agent.com/company/46090/・3回目）
   - 「募集職種 【機構設計(岩槻)/エアシリンダ、レギュレータ等】空圧機器の製品・装置設計」（https://www.r-agent.com/company/46090/・3回目）
 - 発言（社長・役員）：
+  - 「【新年インタビュー】藤倉コンポジット 森田健司社長」（https://www.gomutimes.co.jp/?p=190802・3回目）
+  - 「森田健司社長に23年度の業績を振り返りつつ、スポーツ用品部門、新成長戦略の投資、新年の抱負などを聞いた」（https://www.gomutimes.co.jp/?p=190802・3回目）
+  - 「藤倉コンポジットの歴代社長 1名」（https://the-shashi.com/tse/5121/ceo/・3回目）
   - 「当社は明治34年に藤倉善八翁の意を受け継いだ末弟の松本留吉が、初代社長として事業を立ち上げて以来、120年という長い月日を経て、更に未来へ羽ばたこうとしております」（https://www.fujikuracomposites.jp/company/message/・1回目）
   - 「Fujikura Composite America, Inc. CEO」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
   - 「FUJIKURA COMPOSITES HAIPHONG,INC.取締役社長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
@@ -609,9 +612,6 @@
   - 「委任をする場合、代表取締役社長執行役員は、個人別報酬の原案を作成し、指名報酬諮問委員会の答申を経た上で、個人別報酬を決定する」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
   - 「トップメッセージ｜サステナビリティ｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
   - 「この強みを「稼ぐ力」に変えるため、私は2024年に新設した「先進技術戦略室」を社長直轄組織とし、意思決定のスピードを飛躍的に高めました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
-  - 「サステナビリティ統括室長メッセージ｜サステナビリティ｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
-  - 「発足当初は経営企画、人事、経理などのリーダーを中心とした数名体制の事務局でしたが、推進力を飛躍的に高めるため、組織を社長直轄へと変更しました」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
-  - 「2024年4月から同統括室は社長直轄とした組織体制となり、サステナビリティ全般に対する活動の一層の強化を図っています」（https://www.fujikuracomposites.jp/focus/environment-climate-change/・1回目）
 - 政治（法・補助・規制）：
   - 「2022年度以降、新たな化学物質規制として労働安全衛生法の関係政省令が改正され、ラベル表示・SDS通知・リスクアセスメント実施の対象物質が順次追加されています」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
   - 「法令に基づく各種測定値では規制基準を遵守していることも説明し、環境負荷低減や地域の環境保全の活動状況を確認いただきました」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
@@ -626,6 +626,8 @@
   - 「高齢者医療運営円滑化等補助金（財政基盤の強化が必要な健康保険組合が行う保健事業等に要する費用に対して行う助成事業）」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
   - 「補助金を繰り返し取れている会社には、「制度の探し方」と「事業計画の書き方」が社内に残っています」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
 - 経済（売上・利益・投資額）：
+  - 「ナンシン、中国セグメントは増収増益」（https://gomuhouchi.com/business/72919/・3回目）
+  - 「ニッタ、ベルト・ゴム製品事業、ホース・チューブ製品事業は増収増益」（https://gomuhouchi.com/business/72919/・3回目）
   - 「売上高や規模の拡大のみを追い求めることなく、グループが一体となって、顧客重視の経営姿勢を今後も貫いていきます」（https://www.fujikuracomposites.jp/company/・1回目）
   - 「したがって、自動車産業の生産動向によって売上高に重大な影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「当社は、外貨建債権債務を有しているため、期末での換算差額が為替差損益として発生し、経常利益に重大な影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
@@ -636,9 +638,9 @@
   - 「2026年3月期（2025年度実績）の決算につきましては、世界的な地政学リスクやサプライチェーンへの影響、インフレなど不確実性の高い事業環境のもとでありましたが、売上高は402億38百万円（前期比0.9%減）、営業利益は48億38百万円（同4.7%増）と、利益面で増益を達成することができました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
   - 「売上高は計画に対して若干未達となったものの、各事業が持つ強みを活かし、安定した利益水準を確保できたことは成果の一つだと捉えています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
   - 「スポーツ用品事業においては、コロナ禍以降のゴルフ市場の在庫調整の影響等により減収となりましたが、当社のオリジナルシャフトは高付加価値製品として底堅い需要を維持し、営業利益率30％以上という高い収益性となっています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
-  - 「当社は、第7次中期経営計画期間において、人的資本に対して約14億円の投資を計画しています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
-  - 「地政学的リスクが高まる中、売上高、営業利益、営業利益率についてお聞かせください」（https://www.fujikuracomposites.jp/ir/management/message/・1回目）
 - 技術（特許・開発）：
+  - 「今日のIRC 2026 AICHI（11月6日、最終日）」（https://gomuhouchi.com/business/72919/・3回目）
+  - 「【応募資格】 [必須] 【必須条件】 ・大学を卒業、もしくは大学院を修了 【歓迎条件】 ■不動産業界での実務経験 ■金融機関または財務会計、管理会計等の会計業務の経験 ■行政や地方公共団体等での就業経験 ■営業やサービス職での顧客対応・交渉業務の実務経験 ■語学力を活かした顧客対応経験 【下記のような方が入社しています】 ・不動産会社で賃貸管理や売買仲介をされていた方 ・デベロッパーや東京都や地方自治体などで都市開発に携わっていた方 ・メガバンクや信託銀行などで営業をしていた方 【職種名】 公務員に近い環境/賃貸住宅を維持管理/幅広いキャリア形成/500～700万/テレワーク・時間休有り」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「オフセット印刷用ブランケット開発、販売」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「船舶垂直降下式乗込装置（シューター）を開発」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「ベトナム・ハイフォン市にFUJIKURA COMPOSITES HAIPHONG,INC.」（https://www.fujikuracomposites.jp/company/history/・1回目）
@@ -649,9 +651,10 @@
   - 「当社技術製造統括兼事業開発統括部長兼事業所統括部長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
   - 「社内業務システムの開発・運用管理やPCの運用管理、生産管理や販売管理のシステムの変更やPCの入れ替えやキッティング、状態確認や監視等をお任せします」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
   - 「アプリからサーバー・ネットワーク、システム開発、セキュリティ管理といったITエンジニアの業務を幅広く経験でき、スキルアップできる環境で」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
-  - 「そのために、『技術開発』、企業活動のさまざまな場面における『創造』、『活発なコミュニケーション』を大切にし、お客様へのタイムリーな提案と、少し先の未来に焦点を合わせた独創的な製品を提供していきます」（https://www.fujikuracomposites.jp/company/・1回目）
-  - 「HAIPHONG, INC.」（https://www.fujikuracomposites.jp/company/・1回目）
 - 検索結果の抜粋：
+  - 「工業 用品事業について - 藤倉コンポジット — 工業 用品事業について - 藤倉コンポジット 藤倉コンポジット株式会社 https://fujikuracomposites.jp > satellite > industrial > about」（https://fujikuracomposites.jp/fjk/satellite/industrial/about/・3回目）
+  - 「藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,779,546件） — 藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,779,546件） スタンバイ」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「自動車関連製品｜工業用品 - 藤倉コンポジット — 自動車関連製品｜工業用品 - 藤倉コンポジット 藤倉コンポジット株式会社 https://fujikuracomposites.jp > fjk > industrial > automotive」（https://fujikuracomposites.jp/fjk/satellite/industrial/automotive/・3回目）
   - 「藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... — 藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... 日刊ゲンダイDIGITAL https://www.nikkan-gendai.com > ... > トピックスニュース」（https://www.nikkan-gendai.com/articles/view/money/380461・3回目）
   - 「[ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット — [ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > ... > 入社」（https://www.fujikuracomposites.jp/recruit/member/130/・3回目）
   - 「【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 — 【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 ゴムタイムス https://www.gomutimes.co.jp > ...」（https://www.gomutimes.co.jp/?p=150199・3回目）
@@ -661,9 +664,6 @@
   - 「藤倉コンポジット | Hibiki Path Advisors Official Website — 藤倉コンポジット | Hibiki Path Advisors Official Website hibiki-path-advisors.com https://www.hibiki-path-advisors.com > engagement」（https://www.hibiki-path-advisors.com/ja/category/engagement/5121/・3回目）
   - 「IRライブラリー｜IR情報｜ 藤倉コンポジット 株式会社 — IRライブラリー｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/library/・3回目）
   - 「【 藤倉コンポジット 】[5121] 有価証券報告書 | 日経電子版 — 【 藤倉コンポジット 】[5121] 有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=5121・3回目）
-  - 「株主・投資家の皆様へ｜IR情報 - 藤倉コンポジット — 株主・投資家の皆様へ｜IR情報 - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/investors/・3回目）
-  - 「藤倉コンポジット 株式会社（5121）の 有価証券報告書 — 藤倉コンポジット 株式会社（5121）の 有価証券報告書 J-LiC 上場企業サーチ https://j-lic.com > ... > 藤倉コンポジット株式会社」（https://j-lic.com/companies/5121/annual-report・3回目）
-  - 「財務・業績｜IR情報｜ 藤倉コンポジット 株式会社 — 財務・業績｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/finance/・3回目）
 - 設立：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）
 - 売上高：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）
 - 取引先：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）

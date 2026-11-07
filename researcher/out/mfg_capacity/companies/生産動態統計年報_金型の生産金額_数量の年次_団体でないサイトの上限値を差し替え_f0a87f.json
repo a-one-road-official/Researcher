@@ -1,0 +1,321 @@
+{
+ "name": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+ "en": "METI yearbook of production dynamics statistics dies and molds annual production value",
+ "aliases": [
+  "生産動態統計 年報 金型 生産金額 年計 Excel",
+  "機械統計年報 金型 生産 金額 推移",
+  "site:meti.go.jp 生産動態統計 金型 年報"
+ ],
+ "context": "一次・金型",
+ "kind": "market",
+ "researched_at": "2026-11-07T04:14:57.282897+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kikai/seisandaka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://the-shashi.com/market/machinery/dies-molds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140004110118001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kikai-nen.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/archives/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000040191921&layout=dataset&statdisp_id=0004019772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140004150118001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550205",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550205",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-reports.com/en/articles/01KK0VJGS41APXYP3Q2HBVRPRA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 人手不足 受注 断る",
+   "results": []
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 受注残 人手不足",
+   "results": []
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 人手不足 損失 億円",
+   "results": []
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kikai/seisandaka.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010140004110118001/1"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://the-shashi.com/market/machinery/dies-molds/",
+    "https://jp.gdfreak.com/public/detail/jp010140004110118001/1"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 統計 PDF",
+   "results": [
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.meti.go.jp/statistics/tyo/seidou/archives/index.html",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "https://www.jdmia.or.jp/toukei/"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 経済構造実態調査 OR 工業統計",
+   "results": []
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000040191921&layout=dataset&statdisp_id=0004019772",
+    "https://www.meti.go.jp/statistics/tyo/seidou/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "https://jp.gdfreak.com/public/detail/jp010140004150118001/1",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550205",
+    "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://jp.gdfreak.com/public/detail/jp010140004110118001/1"
+   ]
+  },
+  {
+   "query": "METI yearbook of production dynamics statistics dies and molds annual production value Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.e-stat.go.jp/en/statistics/00550205",
+    "https://www.e-stat.go.jp/en/statistics/00550200",
+    "https://jp-reports.com/en/articles/01KK0VJGS41APXYP3Q2HBVRPRA/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "site:note.com 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+   "results": [
+    "https://note.com/toshiyamiyazaki/n/nb8a2c865788a",
+    "https://note.com/toshiyamiyazaki/n/nc9bc9c2b31de",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/decay/n/n569a5cc2cebc",
+    "https://note.com/izuku_idea/n/n06b572500496",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7"
+   ]
+  },
+  {
+   "query": "site:x.com 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2116726986223825395",
+    "https://jf.x.com/images/media-preview/2112344230274490875",
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/ikinokore_3k/status/2101873224330195142",
+    "https://x.com/jmat2022/status/2038450530473881997",
+    "https://x.com/i/trending/2099672122675396842",
+    "https://x.com/OgawaSeisakusho/status/2079730897646190628"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+   "results": [
+    "https://in.linkedin.com/company/amplesoftech",
+    "https://www.linkedin.com/pulse/symbols-making-your-linkedin-profile-stand-out-karen-tisdell",
+    "https://www.linkedin.com/in/ben-hoskin-cfa-024b9021",
+    "https://www.linkedin.com/company/qualitest",
+    "https://www.linkedin.com/company/docusign",
+    "https://jp.linkedin.com/posts/jetro-japanexternaltradeorganization_海外ビジネスのヒントがここにジェトロ2026年版-主要国地域の貿易投資年報-activity-7503361733315596288-J304",
+    "https://jp.linkedin.com/learning/excel-charts-365-2019/2935960"
+   ]
+  },
+  {
+   "query": "site:facebook.com 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1541721361290015/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-11月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1515678883894263/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1207529431375878/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1953356981490817/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表-機械統計とは-金型を製造している従業員規模30名以上の事業所を調査対象として-毎月生産金額生産数量生産重量の各項目を経済産業省が調査集/359516177541580/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-1月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/889322701227589/"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） note 社長",
+   "results": [
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf"
+   ]
+  },
+  {
+   "query": "生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.e-stat.go.jp/dbview?sid=0004001006",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://jp.gdfreak.com/public/detail/jp010140004150118001/2",
+    "https://jp.gdfreak.com/public/detail/jp010140004110118001/1"
+   ]
+  },
+  {
+   "query": "METI yearbook of production dynamics statistics dies and molds annual production value site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/market-forecasting-change-global-dies-manufacturing-cqxjc",
+    "https://www.linkedin.com/pulse/diesandmolds-market-industry-growth-optima-business-architects-1t9ef",
+    "https://pe.linkedin.com/pulse/us-offset-dies-market-unveiling-competitive-dynamics-rwc7f",
+    "https://pe.linkedin.com/pulse/pioneering-growth-analyzing-global-wire-drawing-dies-medical-aj1ke",
+    "https://www.linkedin.com/pulse/dies-molds-market-future-scope-opportunities-usahc/?published=t",
+    "https://www.linkedin.com/pulse/dies-manufacturingmarket-analysis-forecastinggrowth-a90rf",
+    "https://www.linkedin.com/pulse/die-casting-molds-market-emerging-trends-regulatory-dynamics-ekl5f"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ23頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ23頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ23頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ23頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索18回）",
+  "10年推移": "記載なし（読んだ23頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索18回）"
+ }
+}

@@ -8,7 +8,7 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-07 12:48 JST
+## 更新：2026-11-07 13:22 JST
 
 ## この24時間で増えた事実（一部）
 - AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ヒューマノイドロボットは工場の雇用を奪うのか？製造業の人手不足と自動化の現実を解説 - iCOM技研ブログ」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
@@ -61,36 +61,36 @@
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「月極駐車場の管理から周辺領域へ──ニーリー、総額60億円調達で事業拡大」https://kepple.co.jp/articles/vh_svobtf62p
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「AI新興のTAI、12.7億円調達 27年秋にも半導体チップ量産へ - 日本経済新聞」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
 - AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「人工知能（AI）関連の新興、トウキョウ アーチザン インテリジェンス（TAI、横浜市）はベンチャーキャピタル（VC）などを引受先とする第三者割当増資とみずほ銀行からの借り入れで計12億7000万円を調達した」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（X・検索結果の抜粋）：「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推」https://x.com/semi_journal_jp/status/2027879827777466612
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「そして工事の受注残という形で、業績の可視性が比較的高いという特徴があります」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「チェックポイント3 受注残・繰越工事高が増えているか」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「工事や大型システム案件を扱う会社では、受注高と受注残高が先行指標になります」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（Facebook・検索結果の抜粋）：「大分デバイステクノロジー株式会社 - FacebookKeisuke Taki - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...フェローテック、中国光通信大手とAI分野で協業――半導体部」https://www.facebook.com/odtcorp/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（Facebook・検索結果の抜粋）：「Takashi Yunogami - Facebook Oct 8, 2026 · 生成AIの爆発的な普及によって、NVIDIAのGPUや、そ れに搭載する広帯域メモリHBMの価格が高騰している のは理解できます。 ところが、これらとは全く」https://www.facebook.com/yunogami/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「グローバルインフォメーションによると、世界のHBMの市場規模は2024年で25億ドルでしたが、年平均成長率24.2％で拡大し、2030年には92億ドルに達する見込みです」https://www.ichiyoshi.co.jp/topic/kabuto474
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「東証プライムの売買代金は10兆9,219億円に膨らみました」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「2024年には台湾積体電路製造（TSMC）の熊本・菊陽町工場が稼働開始を予定」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「ロイター通信の報道によれば、韓国Samsung Electronics（サムスン電子）が日本に後工程工場の設置を検討しているという」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「次の半導体大国、インド」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「政府の積極的な財政支援に加えて、海外人材の呼び込み、イノベーションを起こすような「突出した人材」を育てられる環境づくりが急務である（」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「「経済安全保障、食料安全保障、エネルギー安全保障、健康医療安全保障、国土強靱化対策などの様々なリスクや社会課題に対し、官民が手を携え先手を打って行う戦略的な投資」であると言及しています」https://www.ichiyoshi.co.jp/topic/kabuto474
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「企業のAI導入予算も削られ、現場AI銘柄の受注にも影響が出ます」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「半導体人材不足の裏で「圧倒的」求人数、無策の30年を取り戻せるか | 日経クロステック（xTECH）」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「旺盛な求人に対して、半導体人材の不足は深刻だ」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜社会（人・担い手）：「その需要に応えられるだけの人材が、今、日本にいない」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「むしろ、企業であれ大学であれ、人材不足の悲鳴を上げている」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「アカデミアからも、「半導体人材が一番足りないのは企業だが、大学でもその声は出てきている」（東北大学 国際集積エレクトロニクス研究開発センター長の遠藤哲郎氏）と明かす」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「半導体材料メーカーの従業員数は含まれていない」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「自動運転や、人工知能（AI）、高度医療といった用途の広がりから、今後も半導体市場は拡大していく」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「次世代技術とされる半導体の3次元実装技術でも「人材はいない」（Rapidus〔ラピダス〕 専務執行役員 3Dアセンブリ本部長の折井靖光氏）」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「アカデミアからも、「半導体人材が一番足りないのは企業だが、大学でもその声は出てきている」（東北大学 国際集積エレクトロニクス研究開発センター長の遠藤哲郎氏）と明かす」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「From GPUs to Purpose-Built Chips: The AI Accelerator Landscape The WSE-3 contains 900,000 AI cores across the entire waf」https://www.linkedin.com/pulse/from-gpus-purpose-built-chips-ai-accelerator-landscape-fred-ingham-rs25e
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「When the AI Chip is a System: Does Your Patent Portfolio Protect the ... The AI infrastructure race is changing not only」https://jp.linkedin.com/pulse/when-ai-chip-system-does-your-patent-portfolio-protect-roberta-young-uhpdc?tl=ja
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — May 14, 2026 · The Asia Pacific AI accelerator chips marke」https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chip Market Share Outlook Highlights USD 74.34 ... — The AI Accelerator Chip Market was valued at USD 11.」https://www.linkedin.com/pulse/ai-accelerator-chip-market-share-outlook-highlights-usd-7434-bxrgf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「Japan Ai Accelerator Chip Sales Market Future Growth ... — Sep 2, 2026 · The Japan Ai Accelerator Chip Sales Market enco」https://www.linkedin.com/pulse/japan-ai-accelerator-chip-sales-market-fcv1f
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「パンデミック初期には、サプライチェーンの混乱、工場の操業停止、輸送上の問題により、チップ不足や生産の遅延が生じました」https://www.gii.co.jp/report/smrc2021629-ai-semiconductor-market-forecasts-global-analysis.html
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「バーティカルAI企業、起業で勝機」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「米民主党はAIブームを失速させるのか 5つのポイントで解説」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「素材・部材メーカー（住友ベークライト、マルマエ、日東紡など）は業績を伸ばす一方、ルネサスのようにAIシフトに出遅れ、最終赤字を喫する企業も現れています」https://note.com/medicalconsult/n/n76645607f55b
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜経済（規模・価格・為替）：「2025年第2四半期のNANDメモリ市場全体の売上高は、前四半期比で22％増加し、146億ドルに達しました」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「伯東、EdgeCortix 株式会社と販売代理店契約を締結」https://www.hakuto.co.jp/news/260820.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「「EdgeCortix 社」）と販売代理店契約を締結しました」https://www.hakuto.co.jp/news/260820.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」https://www.hakuto.co.jp/news/260820.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「バーティカルAI企業、起業で勝機」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「社会のなかで情報技術やデータが担う役割は年々拡大し、情報・通信基盤の高度化が要求される」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「IEC42001 AI利活用に際するマネジメントシステムの要求事項を整理 AIシステムを開発・提供・使用する組織 AIシステム普及に伴って、安心・安全な開発・提供・使用が求められる」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の顧客（発注元が求めること）：「利用、認証取得などが進む」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜技術（新しい技術・実証）：「トヨタ、未来に懸ける開発」https://xtech.nikkei.com/atcl/nxt/column/18/02421/062500123/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点 - 特集 - メガソーラービジネス plus : 日経BP」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「米で外国製・定置用蓄電池に規制、中国製の扱いが焦点」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「今回の規制によって、電力系統の安全保障と、急増するBESS需要を支えるサプライチェーンの確保をどう両立するかが課題となる」https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/090800230/?ST=msb
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「2025年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 ～総合編 — 2025年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 ～総合編 yano.co.jp https://www.yano.co.jp > market_r」https://www.yano.co.jp/market_reports/C66126700?srsltid=AYCX9vIXzpGRnKD4lDMzhi2jGPLqQ9oIlKevGVurYC2R5sZ5rMcNGEgm
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 — 定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 fkg-report.jp https://www.fkg-report.jp > reports」https://www.fkg-report.jp/reports/112603819.html
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜検索結果の抜粋：「2026 年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 — 2026 年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 yano.co.jp https://www.yano.co.jp > market_reports」https://www.yano.co.jp/market_reports/C68116800?srsltid=AYCX9vJvyFkjpzFY4jqkLVU7FFKQPYoKzcf_-AsZ5qQf_Opb7i0yRQIB
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「停電時の営業継続により年間推定2,400万円の機会損失を防止できる」https://www.enegaeru.com/battery-bizmodel
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「backlog of projects awaiting grid connection is rooted in existing connection rules that」https://www.renewable-ei.org/pdfdownload/activities/REI_Japan_GridScale_Battery_Storage_Policy_EN_260611.pdf
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜痛み・損（深さの印）：「of the relevant departments is limited, backlogs inevitably occur. This is the essence of」https://www.renewable-ei.org/pdfdownload/activities/REI_Japan_GridScale_Battery_Storage_Policy_EN_260611.pdf
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜SNS・note（LinkedIn・検索結果の抜粋）：「What is a Battery Energy Storage System (BESS) and Why is It ... What is a Battery Energy Storage System (BESS) and Why 」https://www.linkedin.com/pulse/what-battery-energy-storage-system-bess-why-essential-singal-sj1wc
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/battery-bizmodel
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「: 機器販売による15-20%のマージン」https://www.enegaeru.com/battery-bizmodel
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜自社の競合（商社・代理店・仲介）：「中間マージンを削減し、より効率的な電力取引が可能になると期待」https://www.enegaeru.com/battery-bizmodel
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜社会（人・担い手）：「4. 人材・組織能力の強化」https://www.enegaeru.com/battery-bizmodel
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

@@ -1,93 +1,94 @@
 # 分野_GX_輸出（日本→海外（輸出）・顧客起点の3C＋PEST・事実のみ）
 
 ### 日本→海外（輸出）｜ペロブスカイト太陽電池（perovskite solar cell）
-- 取得：2026-11-06T03:46・調査3回目・読んだ頁82
-- 痛み・損（深さの印）（1件）：
+- 取得：2026-11-07T04:09・調査4回目・読んだ頁77
+- 痛み・損（深さの印）（2件）：
   - ［一次］2026-11-06「・良好な市場環境から受注残高が豊富（54.5GW）」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- 顧客（金を払う側）（87件）：
+  - ［記事］2026-11-07「（銅・インジウム・ガリウム・セレン）などの薄膜太陽電池は、中国勢によるシリコン系太陽電池の急激な価格低下の前に競争力を失い、多くの企業が市場から撤退・倒産した苦い歴史があります」https://www.techno-producer.com/ai-report/psc_key-players-applications/
+- 顧客（金を払う側）（89件）：
+  - ［一次］2026-11-07「東京電力ホールディングスと積水化学工業が共同でペロブスカイトの導入を担当する」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+  - ［一次］2026-11-07「新築だけでなく既存の高層ビルでも、ペロブスカイト太陽電池を導入できるポテンシャルは大きい」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-06「所在地 ：（本社）東京都台東区東上野1-7-15 （工場）愛媛県松山市西垣生町2889」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「太陽電池メーカー 自動車関連企業・電子部品関連企業・」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「ただし、太陽電池製造装置の中でも新規装置の案件と改造・増設の案件があり、改造・増設は納入済の装置に対して行うため利益率が比較的高くなる」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-  - ［一次］2026-11-06「顧客となる企業は主に米国や日本の太陽電池メーカー」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-  - ［一次］2026-11-06「その中でも最も主要な顧客は米国のFirst Solar社（NASDAQ上場）であり、同社とは20年近い取引実績が」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- 顧客の顧客（発注元が求めること）（34件）：
+- 顧客の顧客（発注元が求めること）（44件）：
   - ［一次］2026-11-06「特に米国では約30年の実績があり、米国市場で要求されるUL規格やNEC規格などの安全基準への対応、米国顧客から要求されるロックウェル社製の制」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「過去には太陽電池の受託生産（OEM生産）にも取り組み、この経験を太陽電池関」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「や防炎性能の認証を受けた遮熱シートを採用しており耐久性も高い（写真 10）」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-04「⚫ S+3Eを大前提に、電力部門の脱炭素化に向けて、再生可能エネルギーの主力電源化を徹底し、関係省庁が連携して施策」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
   - ［一次］2026-11-04「６．脱炭素電源の拡大と系統整備」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-- 顧客の競合（奪いに来る側）（78件）：
+- 顧客の競合（奪いに来る側）（85件）：
   - ［一次］2026-11-06「して使用され、主に中国・韓国の太陽電」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「顧客となる企業は主に米国や日本の太陽電池メーカー」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「その中でも最も主要な顧客は米国のFirst Solar社（NASDAQ上場）であり、同社とは20年近い取引実績が」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・米国における太陽光発電の最低発電コストは$38/MWhであり、$71/MWhの石炭火力発電を下回っている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「を法制化（うち5つの州と地域は再生可能エネルギー利用100％を法制化）、多くの米国大企業が太陽光発電所への出資や保有、自社物件屋上への」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- 自社の競合（商社・代理店・仲介）（13件）：
+- 自社の競合（商社・代理店・仲介）（16件）：
+  - ［一次］2026-11-07「36 European Commission, EU Solar Energy Strategy (May 2022).」https://www.renewable-ei.org/pdfdownload/activities/REI_SolarPVsupplychain2024_jp.pdf
   - ［一次］2026-11-04「Research and Public Relations Office, Commissioner’s Secretariat, ANRE」https://www.enecho.meti.go.jp/en/category/special/article/detail_196.html
+  - ［記事］2026-11-07「GitHub Copilot Impact DashboardにChatとVS Code Agents追加、9機能に」https://labmemo.com/perovskite-solar-cell-guide-2026/
+  - ［記事］2026-11-07「GitHub Copilot Impact DashboardにChatとVS Code Agents追加、9機能に」https://labmemo.com/perovskite-solar-cell-energy-deep-dive-explained-2026/
   - ［記事］2026-11-06「当面の事業規模として、ショールームおよび販売代理店を都内に新設する費用として3億円を見込む」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04796/?ST=msb
-  - ［記事］2026-11-06「Meta Description: Explore the five largest renewable energy projects in Asia set for commissioning by 2026. From India and the Philippines t...」https://www.renewableenergyasia.org/2026/06/japan-to-offer-support-for-exports-of.html
-  - ［記事］2026-11-06「A patent analysis commissioned by Nikkei and conducted by Clarivate Analytics Japan examined approximately 2,000 perovskite-related patent families — those filed in at least two countries and still active as of the end o」https://enerbe.net/perovskite-solar-cells-2026-china-vs-japan-battery-oem-impact/
-  - ［記事］2026-11-04「第2のペロブスカイト｢OPV｣、アジア初量産へ 繊維商社GSIクレオス」https://www.nikkei.com/article/DGXZQOUA1779L0X10C26A2000000/
-- 政治（法・予算・規制）（77件）：
+- 政治（法・予算・規制）（82件）：
   - ［一次］2026-11-06「1. 普及に向けた課題：コストと法規制 ................................ ................................ ................................ .... 24」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-06「●対策 3 ガイドライン整備と規制緩和 .......................................................................................................... 29」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-06「政府は第 7 次エネルギー基本計画（第 7 次エネ基）において、2040 年までにペロブスカイト太陽」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-06「政府による 2040 年の発電コストの予測」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-06「第 3 章では、ペロブスカイト太陽電池の普及に向けた課題を整理し、政府や自治体が実施すべ」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
-- 経済（規模・価格・為替）（90件）：
+- 経済（規模・価格・為替）（103件）：
   - ［一次］2026-11-06「資本金 ：2,812百万円（2025年8月末現在）」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・過去5か年の加重平均売上総利益率は、30.3％」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・全体の売上総利益率25％を指標としているが、恒久的に30％を達成することを目標としている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・売上高のグラフは、FY2023～FY2025の3か年の連結業績における売上高合計金額（29,279百万円）を基に作成」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「過去3年間の売上高の比率と内訳」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- 社会（人・担い手）（14件）：
+- 社会（人・担い手）（18件）：
+  - ［一次］2026-11-07「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
+  - ［一次］2026-11-07「⚫ ペロブスカイト太陽電池を含めた再エネ電源の普及を担う人材育成のために今年度に調査事業を実施し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
+  - ［一次］2026-11-07「ペロブスカイト太陽電池導入拡大に向けて必要なスキルや課題を整理し、人材育成策を検討する」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf
+  - ［一次］2026-11-07「安全性認証や製品規格の標準化、サプライチェーンの確立、製造技術や施工人材の育成など業界共通の課題解決に取り組み、日本全体でペロブスカイト関連の産業競争力の強化につなげるものです」https://www.nef.or.jp/keyword/20260930.html
   - ［一次］2026-11-06「ものづくりの拠点である松山工場には約170名（有期雇用を含む）が勤務し、装置製造に必要なすべての機能（開発・設計・製造・保守）が集約され」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-  - ［一次］2026-11-04「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
-  - ［一次］2026-11-04「⚫ ペロブスカイト太陽電池を含めた再エネ電源の普及を担う人材育成のために今年度に調査事業を実施し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
-  - ［一次］2026-11-04「ペロブスカイト太陽電池導入拡大に向けて必要なスキルや課題を整理し、人材育成策を検討する」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
 - 技術（新しい技術・実証）（100件）：
   - ［一次］2026-11-06「株式会社エヌ・ピー・シー 営業、購買、開発、設計、製造、保守サービス 164名」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・現状はファーストソーラー社への偏重が大きいが、同社との取引は維持したまま、p. 8において成長性が高いと認識しているペロブスカイトなどの次世代向」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「ペロブスカイトなどの次世代型太陽電池も対象としている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・現在はペロブスカイト太陽電池の研究開発を進めている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-06「・今までに太陽電池を製造していなかった企業も参入しており、各メーカーによって研究開発が進められている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
-- SNS・note（Facebook・検索結果の抜粋）（11件）：
-  - ［SNS］2026-11-06「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
-  - ［SNS］2026-11-06「ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新... Mar 30, 2026 · ECO信頼サービス株式会社 顧客満足推進室 #ペロブスカイト太陽光 #太陽光発電専門店 #次世代太陽電池 #先行予約受付中 」https://www.facebook.com/ecoshinrai/
-  - ［SNS］2026-11-06「Dエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新... Sep 20, 2026 · Posts ＜ペロブスカイト最新情報＞ 第3回：最大の弱点だった“耐久性”はどこまで改善され たのか ペロブスカイト太陽電池は高効率・低コストという大 きな利点を持ちながら、」https://www.facebook.com/daitsu.energy/
-  - ［SNS］2026-11-05「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会..」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには... Oct 14, 2026 · ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには？ 一般的な割断法では断面に凹凸が生じ、層構造の詳細評価が難しいケースがあります。一方、通常のイオンミリング法はビーム照射による局所的な発熱でペロブスカイト層が損傷しやすく、適用が難しいとされてきまし ...」https://www.facebook.com/jeol.jp/posts/ペロブスカイト太陽電池の断面を低ダメージかつ平滑に作製するには一般的な割断法では断面に凹凸が生じ層構造の詳細評価が難しいケースがあります一方通常のイオンミリング/1605304444946996/
-- SNS・note（note・検索結果の抜粋）（11件）：
-  - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは... Aug 9, 2026 · 近年、エネルギー界のゲームチェンジャーとして世界中で凄まじい注目を集めている「ペロブスカイト太陽電池」。 「名前は聞いたことがあるけれど、従来の太陽光パネルと何が違うの？」 「なぜ今、日本がこれほど熱狂しているの？」 そんな疑問を解消するために、基礎知識からメリット ...」https://note.com/fitenao55/n/n2be100ec6f15
-  - ［SNS］2026-11-06「ペロブスカイト太陽電池：次世代エネルギーを拓く技術の全貌と製造プ... Jun 19, 2025 · 第1章 ペロブスカイト革命：基礎原理とコア技術 1.1 ペロブスカイト結晶構造（ABX₃）：太陽光発電への天与の才 ペロブスカイト太陽電池の核心は、その名の由来となった特異な結晶構造にある。この構造は一般的に化学式ABX3 で表され、Aサイトにはメチルアンモニウムのような陽イオン、B ...」https://note.com/iem27265/n/n8aabfb740e5a
-  - ［SNS］2026-11-06「ペロブスカイト太陽電池 (PSC)とは何か～なぜ日本はペロブスカイト太... Dec 16, 2025 · 3. 応用範囲の拡張 ―「どこでも電源®」という新市場 経済産業省 資源エネルギー庁 日日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（後編）より引用 PSCは従来不可能だった用途を切り開きます。 建材一体型（壁・窓・バルコニー） EV・ドローン・航空機 インフラ、IoT、災害用 ...」https://note.com/human_macaw1926/n/n7a003aedeccb
-  - ［SNS］2026-11-06「日本発・次世代「ペロブスカイト太陽電池」が拓くエネルギー革命 Dec 7, 2025 · 全文文字起こし： 今、日本のエネルギー技術が世界をひっくり返そうとしています。 従来の太陽光パネルの常識を根本から変える新技術、それがペロブスカイト太陽電池です。 薄く、軽く、曲がり、しかも安く作れるという革命的な特徴を持ち、世界中から注目されています。 そしてついに ...」https://note.com/yamada_kazuro/n/nf482934137b9
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池、2030年に向けて何が起きてる？第15回：積水... Mar 31, 2026 · 1. 「塗工のプロ」がトップに立つ戦略的意義 ペロブスカイト太陽電池（PSC）を量産する、特に積水化学が得意とする「フィルム型」において、最大の肝になるのは**「塗工（コーティング）」**の技術です。薄いフィルムの上に、発電材料をいかに均一に、精密に塗り続けるか。 新社長の清水氏 ...」https://note.com/fast_poppy8050/n/n36a5067739be
+- SNS・note（LinkedIn・検索結果の抜粋）（18件）：
+  - ［SNS］2026-11-07「Kisan Kishida - フィルム型ペロブスカイト太陽電池量産 | LinkedIn#perovskitesolar #renewableenergy #cleanenergy # ... - LinkedIn若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN ...Anoop Pandey - Dy. General Manager at Mitsubishi Materials ...Tatsuy」https://jp.linkedin.com/in/kisan-kishida-55b508293
+  - ［SNS］2026-11-07「Anoop Pandey - Dy. General Manager at Mitsubishi Materials ...Tatsuya Kawabe - 再エネでモノつくり/ペロブスカイト太陽電池アドバ...ペロブスカイト太陽電池の重要部材「透明電極」安価に…東洋インキが新... Dy. General Manager at Mitsubishi Materials India Private Limited · Dy Genera」https://in.linkedin.com/in/anoop-pandey-1aa98010
+  - ［SNS］2026-11-07「Perovskite Solar Cell Market Trends: Tandem Technology - LinkedIn 1 day ago · Perovskite Solar Cell Market grows with tandem technology, higher efficiency, flexible photovoltaics, and rising investment in clean energy wo」https://www.linkedin.com/pulse/perovskite-solar-cell-market-trends-6owkf
+  - ［SNS］2026-11-07「Dr. Rahul Kundara - PDF || Ph.D. (Perovskite Solar Cells) at ... PDF || Ph.D. (Perovskite Solar Cells) at Delhi Technological University (Formerly DCE) · Experience: National Institute of Technology Delhi · Education: De」https://in.linkedin.com/in/dr-rahul-kundara-16b684326
+  - ［SNS］2026-11-07「Dr.Laxman Gouda - Co-Founder and CEO of the startup ABX3PV ...Mustafa Haider - Ph.D. Perovskite Solar Cell, Research Expert ...P3C Technology and Solutions Pvt. Ltd. | LinkedIn My Ph.D research mainly focused on the hybr」https://it.linkedin.com/in/dr-laxman-gouda-49878337
+- SNS・note（X・検索結果の抜粋）（12件）：
+  - ［SNS］2026-11-07「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。」https://x.com/i/trending/2035749372399349876
+  - ［SNS］2026-11-06「もりした千里 on X: "ペロブスカイト太陽電池は薄くて軽くて曲げられ... また、さいたま市役所に設置されているタンデム型ペロブスカイト太陽電池は100% 国産と伺いました。 まだこれから耐久性やコスト等課題はありますが、 まず多くの方に知っていただくことが重要だと考えています。」https://x.com/ChiiChiiiii/status/2092104999421858191
+  - ［SNS］2026-11-05「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。中国は関連特許33,000件超を取得し世界シェア76%を占め、日本政府は2025 ...」https://x.com/i/trending/2035749372399349876
+  - ［SNS］2026-11-05「日本発祥のペロブスカイト太陽電池、中国で100社超が量産へ 薄く曲がる次世代太陽電池が、中国で一気に量産体制を整えています。日本で生まれたこの技術を巡り、X上で日本の巻き返しを求める声が高まっています。 2009年に桐蔭横浜大学の宮坂力教授が発明したペロブスカイト太陽 ...」https://x.com/i/trending/2035274142103339447
+  - ［SNS］2026-11-05「積水化学工業株式会社【公式】 on X: "／ 最近よく聞く「#ペロブスカ... ／ 最近よく聞く「#ペロブスカイト太陽電池」 実はもう、実際に使われ始める段階に入っています💡 \ 長年、#積水化学グループ が開発に取り組んできた #フィルム型ペロブスカイト太陽電池 その名も…「SOLAFIL（ソラフィル）」！ 2026年3月、事業開始を決定、供給に向けた具体的な協議も ...」https://x.com/SEKISUI_jp/status/2047827975056626151
 - SNS・note（note・本文）（69件）：
   - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは？特徴・課題・未来像まで｜fitenao」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは？特徴・課題・未来像まで」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「そんな疑問を解消するために、基礎知識からメリット・デメリット、技術的課題、そして最新の商用化動向までを分かりやすく一気に解説します！」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「1. そもそも「ペロブスカイト」ってなに？」https://note.com/fitenao55/n/n2be100ec6f15
   - ［SNS］2026-11-06「ペロブスカイト（Perovskite）とは、もともと「特定の結晶構造」を指す化学用語です。1839年にロシアの鉱物学者ペロブスキーの名にちなんで命名されました。」https://note.com/fitenao55/n/n2be100ec6f15
-- SNS・note（X・検索結果の抜粋）（11件）：
-  - ［SNS］2026-11-06「もりした千里 on X: "ペロブスカイト太陽電池は薄くて軽くて曲げられ... また、さいたま市役所に設置されているタンデム型ペロブスカイト太陽電池は100% 国産と伺いました。 まだこれから耐久性やコスト等課題はありますが、 まず多くの方に知っていただくことが重要だと考えています。」https://x.com/ChiiChiiiii/status/2092104999421858191
-  - ［SNS］2026-11-05「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。中国は関連特許33,000件超を取得し世界シェア76%を占め、日本政府は2025 ...」https://x.com/i/trending/2035749372399349876
-  - ［SNS］2026-11-05「日本発祥のペロブスカイト太陽電池、中国で100社超が量産へ 薄く曲がる次世代太陽電池が、中国で一気に量産体制を整えています。日本で生まれたこの技術を巡り、X上で日本の巻き返しを求める声が高まっています。 2009年に桐蔭横浜大学の宮坂力教授が発明したペロブスカイト太陽 ...」https://x.com/i/trending/2035274142103339447
-  - ［SNS］2026-11-05「積水化学工業株式会社【公式】 on X: "／ 最近よく聞く「#ペロブスカ... ／ 最近よく聞く「#ペロブスカイト太陽電池」 実はもう、実際に使われ始める段階に入っています💡 \ 長年、#積水化学グループ が開発に取り組んできた #フィルム型ペロブスカイト太陽電池 その名も…「SOLAFIL（ソラフィル）」！ 2026年3月、事業開始を決定、供給に向けた具体的な協議も ...」https://x.com/SEKISUI_jp/status/2047827975056626151
-  - ［SNS］2026-11-05「Semi-journal公式 on X: "【東芝と信越化学、寿命1.5倍のペロブスカイ... 【東芝と信越化学、寿命1.5倍のペロブスカイト太陽電池 世界最高水準】 東芝と信越化学工業は新潟大学と連携し、耐久性能を先行品の1.5倍に高めた次世代ペロブスカイト太陽電池を開発した。 現時点の世界最高水準で、2030年代の製品販売を目指す。同分野で量産技術を蓄積する中国勢に耐久 ...」https://x.com/semi_journal_jp/status/2097088531038609852
-- SNS・note（LinkedIn・検索結果の抜粋）（13件）：
-  - ［SNS］2026-11-06「The Rise of Perovskite Solar Cells - LinkedIn May 19, 2026 · Over the last decade, perovskite-based solar cells (PSCs) have become one of the most exciting frontiers in renewable energy research. Their promise lies not o」https://www.linkedin.com/pulse/rise-perovskite-solar-cells-padmini-moorthy-phd-rih8c/
-  - ［SNS］2026-11-06「Next-Generation Solar Technology: Introduction to Perovskite ... Jul 24, 2025 · Perovskite solar cells are a type of next-generation photovoltaic technology that uses perovskite-structured compounds (usually hybrid organ」https://www.linkedin.com/pulse/next-generation-solar-technology-introduction-perovskite-d-ieflc
-  - ［SNS］2026-11-06「Dr. Rahul Kundara - PDF || Ph.D. (Perovskite Solar Cells) at ... PDF || Ph.D. (Perovskite Solar Cells) at Delhi Technological University (Formerly DCE) · Experience: National Institute of Technology Delhi · Education: De」https://in.linkedin.com/in/dr-rahul-kundara-16b684326
-  - ［SNS］2026-11-06「Dr.Laxman Gouda - Co-Founder and CEO of the startup ABX3PV ...P3C Technology and Solutions Pvt. Ltd. | LinkedInMustafa Haider - Ph.D. Perovskite Solar Cell, Research Expert ...Rida Ahmed - Materials Scientist | Advanced 」https://it.linkedin.com/in/dr-laxman-gouda-49878337
-  - ［SNS］2026-11-05「Tatsuya Kawabe - 再エネでモノつくり/ペロブスカイト太陽電池アドバ...#perovskitesolar #renewableenergy #cleanenergy # ... - LinkedIn若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN ...厦门海森工贸有限公司 | 领英 - 领英 (中国)Vagas de ペロブスカイト太陽電池 製造コスト em Moçambique (54」https://jp.linkedin.com/in/tatsuya-kawabe-43511b296
-- 検索結果の抜粋（60件）：
+- 検索結果の抜粋（81件）：
+  - ［一次］2026-11-07「第18回 解説記事：「ペロブスカイト太陽電池の社会実装に向けた動向」... — Sep 30, 2026 · ペロブスカイト太陽電池の種類、特徴、導入が期待される背景と適用例、国内外企業の開発・事業化動向、実用化に向けた課題を整理し、太陽光発電の新たな導入余地を広げる技術としての意義を概説します。」https://www.nef.or.jp/keyword/20260930.html
+  - ［一次］2026-11-07「ペロブスカイト太陽電池の需要創出に向けて — L. 事業目的 軽量・柔軟などの特徴を有するペロブスカイト太陽電池は、これまで太陽電池が設置困難であった場所にも設置を可能とするとともに、主な原料であるヨウ素は、我が国が世界シェアの約30%を占めるなど、再エネ導入拡大や強靭なエネルギー供給 ...」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_05.pdf
+  - ［一次］2026-11-07「Perovskite Solar Cells: The Key to the Future Expansion of ... — Feb 16, 2024 · Part 2 of this article presents situations in other countries regarding the development of perovskite solar cells. It also highlights effort」https://www.enecho.meti.go.jp/en/category/special/article/detail_196.html
   - ［一次］2026-11-06「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_02」https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html
   - ［一次］2026-11-06「次世代型「 ペロブスカイト太陽電池 」導入を支援：環境省 — 次世代型「 ペロブスカイト太陽電池 」導入を支援：環境省 J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > news」https://j-net21.smrj.go.jp/news/uq501j000000ehx8.html
-  - ［一次］2026-11-06「ペロブスカイト太陽電池、ついに日本の夏を耐え過ごす！ — Mar 13, 2026 · 高耐久化手法の開発により、ペロブスカイト太陽電池の社会実装の推進に貢献すると期待されます。 なお、この技術の詳細は、2026年3月17日に第73回応用物理学会春季学術講演会にて発表されます。」https://www.aist.go.jp/aist_j/press_release/pr2026/pr20260313_2/pr20260313_2.html
-  - ［一次］2026-11-06「設置自由度の高いペロブスカイト太陽電池の 実用化開発 — グリーンイノベーション基金事業 次世代太陽電池の開発 設置自由度の高いペロブスカイト太陽電池の実用化開発 発表: 2025年07月16日 国立研究開発法人 新エネルギー・産業技術総合開発機構 発表者名 島 正樹 (株)エネコートテクノロジーズ」https://www.nedo.go.jp/content/800031717.pdf
-  - ［一次］2026-11-06「NEDOエネルギー・地球環境分野成果報告会2026（分野名：太陽光発電） ... — 先表No. : m-29 グリーンイノベーション基金事業/次世代型太陽電池の開発/次世代型太陽電池実用化事業 高効率・高耐久ペロブスカイト太陽電池モジュールの実用化技術開発 団体名:株式会社アイシン、国立大学法人東京大学 発表日:2026年7月22日」https://www.nedo.go.jp/content/800068157.pdf
+- SNS・note（Facebook・検索結果の抜粋）（14件）：
+  - ［SNS］2026-11-07「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...【薄くて軽くて曲が」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
+  - ［SNS］2026-11-07「ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル... Mar 30, 2026 · 本日は最新モデル、薄型太陽光発電、 ペロブスカイトのご紹介」https://www.facebook.com/ecoshinrai/
+  - ［SNS］2026-11-07「Dエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル... Sep 20, 2026 · ペロブスカイトは本格普及へ向けて大きく前進してい ます。 令和8年熊本地震により被災された皆さまに、心よりお」https://www.facebook.com/daitsu.energy/
+  - ［SNS］2026-11-06「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
+  - ［SNS］2026-11-06「ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新... Mar 30, 2026 · ECO信頼サービス株式会社 顧客満足推進室 #ペロブスカイト太陽光 #太陽光発電専門店 #次世代太陽電池 #先行予約受付中 」https://www.facebook.com/ecoshinrai/
+- SNS・note（note・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは... Aug 9, 2026 · 近年、エネルギー界のゲームチェンジャーとして世界中で凄まじい注目を集めている「ペロブスカイト太陽電池」。 「名前は聞いたことがあるけれど、従来の太陽光パネルと何が違うの？」 「なぜ今、日本がこれほど熱狂しているの？」 そんな疑問を解消するために、基礎知識からメリット ...」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「ペロブスカイト太陽電池：次世代エネルギーを拓く技術の全貌と製造プ... Jun 19, 2025 · 第1章 ペロブスカイト革命：基礎原理とコア技術 1.1 ペロブスカイト結晶構造（ABX₃）：太陽光発電への天与の才 ペロブスカイト太陽電池の核心は、その名の由来となった特異な結晶構造にある。この構造は一般的に化学式ABX3 で表され、Aサイトにはメチルアンモニウムのような陽イオン、B ...」https://note.com/iem27265/n/n8aabfb740e5a
+  - ［SNS］2026-11-06「ペロブスカイト太陽電池 (PSC)とは何か～なぜ日本はペロブスカイト太... Dec 16, 2025 · 3. 応用範囲の拡張 ―「どこでも電源®」という新市場 経済産業省 資源エネルギー庁 日日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（後編）より引用 PSCは従来不可能だった用途を切り開きます。 建材一体型（壁・窓・バルコニー） EV・ドローン・航空機 インフラ、IoT、災害用 ...」https://note.com/human_macaw1926/n/n7a003aedeccb
+  - ［SNS］2026-11-06「日本発・次世代「ペロブスカイト太陽電池」が拓くエネルギー革命 Dec 7, 2025 · 全文文字起こし： 今、日本のエネルギー技術が世界をひっくり返そうとしています。 従来の太陽光パネルの常識を根本から変える新技術、それがペロブスカイト太陽電池です。 薄く、軽く、曲がり、しかも安く作れるという革命的な特徴を持ち、世界中から注目されています。 そしてついに ...」https://note.com/yamada_kazuro/n/nf482934137b9
+  - ［SNS］2026-11-05「ペロブスカイト太陽電池、2030年に向けて何が起きてる？第15回：積水... Mar 31, 2026 · 1. 「塗工のプロ」がトップに立つ戦略的意義 ペロブスカイト太陽電池（PSC）を量産する、特に積水化学が得意とする「フィルム型」において、最大の肝になるのは**「塗工（コーティング）」**の技術です。薄いフィルムの上に、発電材料をいかに均一に、精密に塗り続けるか。 新社長の清水氏 ...」https://note.com/fast_poppy8050/n/n36a5067739be
 ### 日本→海外（輸出）｜水電解装置（water electrolyzer）
 - 取得：2026-11-06T03:50・調査3回目・読んだ頁79
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）

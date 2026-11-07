@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・121品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・139品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5078,6 +5078,17 @@
   - 「令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 — 令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 佐賀県 https://www.pref.saga.lg.jp > toukei > kiji003101251」（https://www.pref.saga.lg.jp/toukei/kiji003101251/index.html）
   - 「2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 — 2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 愛知県 https://www.pref.aichi.jp > toukei > kougyo202006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html）
 
+## 経済構造実態調査 製造業事業所調査 産業別統計表 Excel 2022〜2024年 確報（産業細分類×従業者規模の事業所数・従業者数・加工賃収入額・切れ目の後の系列・工業統計とつながない・4-26）（Economic Structure Actual Survey manufacturing establishments report by industry detailed industry by size Excel）
+- 文脈：業種・統計
+- 痛み・損（深さの印）：記載なし（読んだ37頁・検索18回）
+- 事業所数・社数：記載なし（読んだ37頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ37頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ37頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索18回）
+- 生産能力・設備：記載なし（読んだ37頁・検索18回）
+- 10年推移：記載なし（読んだ37頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ37頁・検索18回）
+
 ## 人手不足で受注を断った企業の割合（規模別・業種別）（share of SMEs declining orders due to labor shortage Japan by size）
 - 文脈：損の額・一次
 - 痛み・損（深さの印）：
@@ -5646,6 +5657,17 @@
 - 10年推移：記載なし（読んだ15頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ15頁・検索18回）
 
+## 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）（share of SMEs that declined orders due to labor shortage Japan manufacturing survey）
+- 文脈：穴埋め・一次0件
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
 ## 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）（BOJ Tankan employment conditions DI manufacturing by size time series）
 - 文脈：比べる相手・一次
 - 痛み・損（深さの印）：
@@ -5973,6 +5995,17 @@
 - 10年推移：記載なし（読んだ17頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ17頁・検索18回）
 
+## 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）（Japan electroplating heat treatment processing price increase 2016-2019）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ52頁・検索18回）
+- 事業所数・社数：記載なし（読んだ52頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ52頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ52頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ52頁・検索18回）
+- 生産能力・設備：記載なし（読んだ52頁・検索18回）
+- 10年推移：記載なし（読んだ52頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ52頁・検索18回）
+
 ## 工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）（Census of Manufacture 2019 results establishments 4-29 employees by industry detailed classification）
 - 文脈：全体・統計
 - 痛み・損（深さの印）：記載なし（読んだ6頁・検索18回）
@@ -6020,6 +6053,39 @@
 - 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索18回）
 - 生産能力・設備：記載なし（読んだ25頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ25頁・検索18回）
+
+## 2020年工業統計調査の産業別統計表（実績2019年）で従業者4〜29人の産業細分類を引く言い換え（電気めっき2464・金属熱処理2465・製缶板金2446・金属プレス2452・金属用金型2691・29人以下の2回目の変化・4-25）（2020 census of manufacture industry tables 2019 results establishments 4-29 employees detailed industry Japan）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ39頁・検索18回）
+- 事業所数・社数：記載なし（読んだ39頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索18回）
+- 生産能力・設備：記載なし（読んだ39頁・検索18回）
+- 10年推移：記載なし（読んだ39頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索18回）
+
+## mfg_capacity の同じ欄・同じ年で値が直った1件（+466.7%）の元の表（どの欄で別の文脈の数字が入れ替わったか・改訂か取り違えかの切り分け・4-42・4-51）（source table check for revised value same item same year manufacturing contract processing Japan）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ25頁・検索18回）
+- 事業所数・社数：記載なし（読んだ25頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ25頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ25頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索18回）
+- 生産能力・設備：記載なし（読んだ25頁・検索18回）
+- 10年推移：記載なし（読んだ25頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ25頁・検索18回）
+
+## 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）（METI yearbook of production dynamics statistics dies and molds annual production value）
+- 文脈：一次・金型
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 10年推移：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
 
 ## 日本造船工業会・国土交通省の年ごとの新造船受注量（累計と年の切り分け・受注残と分けて・4-53）（Japan shipbuilders annual new orders volume gross tonnage yearly not cumulative）
 - 文脈：痛み・造船
@@ -6239,6 +6305,17 @@
   - 「人手不足が深刻化する中、船舶産業においてはより少ない人手で建造量を維持し、」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
   - 「すでに人手不足や就労者の高齢化が進行しており、より少ない人手で生産量を維持するか、」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
 
+## 生産動態統計 金型 年報の生産金額・数量の時系列を e-Stat の統計コードで（00550030・金型の一次の系列・4-30）（METI production dynamics statistics dies and molds annual production value e-Stat）
+- 文脈：統計・金型
+- 痛み・損（深さの印）：記載なし（読んだ21頁・検索18回）
+- 事業所数・社数：記載なし（読んだ21頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索18回）
+- 生産能力・設備：記載なし（読んだ21頁・検索18回）
+- 10年推移：記載なし（読んだ21頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索18回）
+
 ## 造船業の就労者数の実績の年次（国交省 海事レポート・日本造船工業会の造船関係資料・計画の前提値と分けて・2014〜2025年・4-57）（Japan shipbuilding workforce actual annual MLIT maritime report SAJ）
 - 文脈：供給・造船
 - 社員数・平均社員数：
@@ -6388,6 +6465,28 @@
   - 「今週の必修ニュース｜9月の輸出船受注17隻・造船向け鋼材は人手不足で1割減」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
 
+## 造船業だけの就労者数と舶用工業の就労者数を分けた年次の表（国交省 海事局の造船関係資料・造船＋舶用の合計12.5〜13万人と造船だけ約8万人の範囲を分ける・船員と混ぜない・4-58）（Japan shipbuilding only workforce vs marine equipment industry workforce annual MLIT）
+- 文脈：供給・造船
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）（Economic Census for Business Frame 2024 manufacturing establishments employees by detailed industry and size e-Stat 00200552）
+- 文脈：統計・全体
+- 痛み・損（深さの印）：記載なし（読んだ39頁・検索18回）
+- 事業所数・社数：記載なし（読んだ39頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索18回）
+- 生産能力・設備：記載なし（読んだ39頁・検索18回）
+- 10年推移：記載なし（読んだ39頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索18回）
+
 ## 国交省 海事局資料の造船業の就労者数「79,499人」「82,579人」がどの年の値か（年の欄つきの表・2015.4現在の並び・4-44・4-59）（Japan MLIT maritime bureau shipbuilding workforce 79499 82579 year table）
 - 文脈：全体・統計
 - 痛み・損（深さの印）：記載なし（読んだ6頁・検索18回）
@@ -6480,6 +6579,115 @@
 - 1人あたり・1社あたり金額：記載なし（読んだ20頁・検索18回）
 - 生産能力・設備：記載なし（読んだ20頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ20頁・検索18回）
+
+## 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）（Bank of Japan CGPI annual report table metal products index level csv）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ37頁・検索18回）
+- 事業所数・社数：記載なし（読んだ37頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ37頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ37頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索18回）
+- 生産能力・設備：記載なし（読んだ37頁・検索18回）
+- 10年推移：記載なし（読んだ37頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ37頁・検索18回）
+
+## 日本銀行 企業物価指数 金属製品 前年比の年ごとの表（年の欄つき・2016〜2019年と2021年以降を分ける・年不明の%を年に結びつける・4-62）（Bank of Japan corporate goods price index metal products year-on-year change by year table）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ39頁・検索18回）
+- 事業所数・社数：記載なし（読んだ39頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索18回）
+- 生産能力・設備：記載なし（読んだ39頁・検索18回）
+- 10年推移：記載なし（読んだ39頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索18回）
+
+## 日本銀行 企業物価指数 金属製品 年平均 指数の水準（site:boj.or.jp・xlsx か csv・数字を検索語に入れない・4-63）（Bank of Japan CGPI metal products annual average index level xlsx site:boj.or.jp）
+- 文脈：物価・一次
+- 痛み・損（深さの印）：
+  - 「市場動向～受注残の積み上がりにより国内建造能力はひっ迫」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「国内造船各社も概ね3年半分の受注残を抱え、期近な船台は完売」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「足を背景に採用力の強化や離職の抑制に対する意識が一段と高まっていることから 、オ」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「業績動向 ～大手チェーンは好調ながら、倒産件数は過去最多」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「ける飲食店の倒産件数は過去最多(900件〈前年比+6件〉)を記録」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+- 社員数・平均社員数：
+  - 「法人企業統計によると 、2026年４～６月期の」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「丸が大きいほど１人当」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「注：2025年は従業員数10人以上の施設が対象」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「個人消費 1.8 0.0 0.5 0.4 0.4 1.8 1.5 0.9 0.8 1.3 0.7 1.1」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「材料費・電気代・人件費の上がり分を、1個あたりの金額に直します」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 受注金額・加工賃収入：
+  - 「大企業の総平均支給額は 100万円を突破」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「造業は90万円台と、前年比＋９％近くの高い伸び」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「質小売売上高も前月比＋ 0.8％と、前月 （同」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「８月の小売売上高は前年比＋ 0.3％と、ほぼゼ」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「ギーHD 26/5 2026年度に燃料油事業に対して約880億円(前年比+約400億円)の投資計画を公表」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「✓ 80億円/年以上の合理化を目標に生産体制を適正」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「図表2 電子部品・半導体メーカー売上高上位10社」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「図表2 電気機械メーカー売上高上位10社」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「三菱電機 電源・冷却システム等の最適化を進め、データセンター関連事業売上高を2030年度に0.4兆円まで拡大」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「図表2 国内売上高上位企業(2025年度)」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「図表1 国内ITサービス売上高推移」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「注2：買収金額100億円以上」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「機械を含む3機種合計受注額は前年度を大きく上回りました」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「伴って原動機等の需要が増加し、2025年度の3機種合計受注額は」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「町工場の加工賃は1時間いくら？決算書の数字だけで出せる、赤字にならない時間単価の計算方法【計算ツール付き】」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 1人あたり・1社あたり金額：
+  - 「大企業の総平均支給額は 100万円を突破」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「造業は90万円台と、前年比＋９％近くの高い伸び」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+- 生産能力・設備：
+  - 「2026年４～６月期の実質ＧＤＰ成長率◆設備投資とその他内需が上方改定」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「設備投資 ▲ 3.9 ▲ 3.7 2.5 1.7 1.7 1.5 1.2 1.2 1.0 2.2 ▲ 0.3 1.5」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「設備投資 3.2 2.4 10.6 8.5 5.0 5.0 5.0 5.0 4.1 6.4 5.2」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「5年通期のエチレンプラント稼働率は 77.3%(前年比-2.6%P)と低」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「油・ナフサの調達難により、エチレンプラントの稼働率は足元で 70%を」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「統合後の生産能力はPP159万トン/年、PE72」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「図表1 紙･板紙の国内出荷量と工場稼働率推移」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「増強(2028年度にLIB生産能力を約3倍に拡大等)」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+- 10年推移：
+  - 「2025年 2026年 2027年」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2016 17 18 19 20 21 22 23 24 25 26」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「（全国、生鮮除く総合、前年比）」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「（2020年＝100）」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「（2019～2020年平均＝100）」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「(前年比、右目盛）」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「（2025年＝100）」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2021 22 23 24 25 26」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2022 23 24 25 26」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「輸送用機械工業が減少したものの 、堅調な」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「に推移していることに加え、中東危機により落ち込ん」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「経常利益（全産業）は前年比＋24.6%と、７四」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「など（営業外損益に計上 ）が増加したことも増益」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「材料価格などの変動費増加が収益の下押し要因と」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「強く、先行きのソフトウェア投資は堅調に推移する見」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+- 人手と仕事の差：
+  - 「人手不足感の高まりや物価の高騰などにより企業に」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「に、企業利益の増加による投資余力の改善が設備」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2025年の鋼材内需は、人手不足や資材高騰に伴う建設工事の低」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2026年3月に、内閣府は人手不足解消と産業競争力強化を狙い、AIとハードウェアが」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「では、人手不足への対応や熟練者の技能承継が待ったなしの状態にある上 、製造業に」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「市場動向～受注残の積み上がりにより国内建造能力はひっ迫」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「国内造船各社も概ね3年半分の受注残を抱え、期近な船台は完売」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「状態にあり、液化CO2運搬船など一部の特殊船では2030年納期の」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「もっとも、船台の逼迫による長納期化が続く中、」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「もっとも、人件費・外注費等のコ」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「今後は、人手不足の深刻化を背景に 、成長領域の拡大に加え、既存領域における人」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「人手不足を背景に選別受注が進んだほか 、建設費上昇分の価格転」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「2023年以降、業績改善を背景に企業の投資余力が拡大していることに加え 、人材不」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「業者は、人手不足解消に向け、ICT・介護ロボット活用による効率化・省人化対応が求」（https://www.smbc.co.jp/hojin/report/resources/pdf/1_00_CRSDOutlook.pdf）
+  - 「見積書に入れる項目一覧、有効期限は30日が目安な理由、送料・段取り・急ぎ対応の外注費など赤字見積を防ぐ7つのチェックポイントを、機械工具商社の営業経験をもとに紹介します」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）（Economic Structure Survey Japan die and mold manufacturing employees establishments）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ41頁・検索18回）
+- 事業所数・社数：記載なし（読んだ41頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ41頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ41頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ41頁・検索18回）
+- 生産能力・設備：記載なし（読んだ41頁・検索18回）
+- 10年推移：記載なし（読んだ41頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ41頁・検索18回）
 
 ## 経済センサス‐活動調査 製造業 加工賃収入額 全国 産業細分類（製造品出荷額・販売額と取引段階を分けて）（Economic Census for Business Activity Japan manufacturing processing fee revenue national by industry）
 - 文脈：全体・統計
@@ -6804,6 +7012,28 @@
   - 「経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 — 経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database > cycle=1」（https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822）
 - 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
 
+## 経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）（Economic Structure Survey Japan manufacturing establishments electroplating heat treatment metal dies employees shipments value added by industry 2020-2023）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ6頁・検索18回）
+- 事業所数・社数：記載なし（読んだ6頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ6頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ6頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ6頁・検索18回）
+- 生産能力・設備：記載なし（読んだ6頁・検索18回）
+- 10年推移：記載なし（読んだ6頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ6頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 産業別統計表の Excel（filetype:xlsx・2021〜2024年調査・産業細分類4けた×従業者数・製造品出荷額等・付加価値額・1回目の検索の0件の取り直し・4-67）（Economic Structure Survey manufacturing establishments industry tables xlsx 4-digit industry employees shipments value added）
+- 文脈：一次・切れ目の後
+- 痛み・損（深さの印）：記載なし（読んだ45頁・検索18回）
+- 事業所数・社数：記載なし（読んだ45頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ45頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ45頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ45頁・検索18回）
+- 生産能力・設備：記載なし（読んだ45頁・検索18回）
+- 10年推移：記載なし（読んだ45頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ45頁・検索18回）
+
 ## 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）（Japan census of manufacture 2019 all 4-digit industries metal products per-employee shipments table）
 - 文脈：一次・比較の相手
 - 事業所数・社数：
@@ -6969,6 +7199,17 @@
   - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
   - 「など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
 
+## 電気めっき・製缶板金・金属熱処理の1人あたり付加価値額が2019年以降に下がった・横ばいとする資料（反対の向き・2020年のコロナ禍・2022年以降の物価・自動車減産・4-56・4-69）（electroplating sheet metal heat treatment Japan value added per employee decline flat after 2019）
+- 文脈：反対の向き
+- 痛み・損（深さの印）：記載なし（読んだ6頁・検索18回）
+- 事業所数・社数：記載なし（読んだ6頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ6頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ6頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ6頁・検索18回）
+- 生産能力・設備：記載なし（読んだ6頁・検索18回）
+- 10年推移：記載なし（読んだ6頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ6頁・検索18回）
+
 ## 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）（Japan Census of Manufacture 2019 processing fee revenue share by detailed industry）
 - 文脈：全体・統計
 - 事業所数・社数：
@@ -7023,6 +7264,28 @@
   - 「法人番号1000020230006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
 - 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）（listed Japanese contract metal processing companies revenue and employees same fiscal year）
+- 文脈：会社・開示
+- 痛み・損（深さの印）：記載なし（読んだ39頁・検索18回）
+- 事業所数・社数：記載なし（読んだ39頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索18回）
+- 生産能力・設備：記載なし（読んだ39頁・検索18回）
+- 10年推移：記載なし（読んだ39頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 産業細分類別 加工賃収入額・製造品出荷額等・従業者数 2020〜2023年 全国（Excel の表）（Economic Census for Business Activity manufacturing establishments detailed industry receipts for processing 2020 2023 Japan）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ12頁・検索18回）
+- 事業所数・社数：記載なし（読んだ12頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ12頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ12頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ12頁・検索18回）
+- 生産能力・設備：記載なし（読んだ12頁・検索18回）
+- 10年推移：記載なし（読んだ12頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ12頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

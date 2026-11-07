@@ -1,0 +1,416 @@
+{
+ "name": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+ "en": "listed Japanese contract metal processing companies revenue and employees same fiscal year",
+ "aliases": [
+  "EDINET 有価証券報告書 従業員の状況 金属加工 受託 平均臨時雇用人員",
+  "めっき 熱処理 受託 上場 従業員数 売上高 推移"
+ ],
+ "context": "会社・開示",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:59:47.439723+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://built.itmedia.co.jp/bt/articles/2608/28/news103.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/402451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/DnD-inc/items/db2eb87387603d2f788b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/listedconstruction2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_kekka.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.crefty.jp/industry/metal-processing-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sp-21.co.jp/study/scatter-1-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mad2007takahashi/n/n7f646325e917",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zukaikeizai.com/ranking/revper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004029509",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kessanmarketing.com/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://listed-data.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/rankings/revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/viz/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/ranking/revper/2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/toyokeizai_20260925_959046/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/ranking/revper/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinmyakucode.com/ja/rankings/revenue/real-estate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/download",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/rankings/psr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsoho.com/companies/en/industry/metal-products",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://atsoho.com/companies/en/industry/iron-steel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://corpolog.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japansmallcap.com/sectors/metal-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/study/190546/metals-industry-in-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 人手不足 受注 断る",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://built.itmedia.co.jp/bt/articles/2608/28/news103.html",
+    "https://diamond.jp/articles/-/402451",
+    "https://qiita.com/DnD-inc/items/db2eb87387603d2f788b",
+    "https://www.tdb.co.jp/report/industry/listedconstruction2025/",
+    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_kekka.pdf",
+    "https://sp-21.co.jp/study/scatter-1-sales/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 受注残 人手不足",
+   "results": []
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 人手不足 損失 億円",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://crefty.jp/industry/metal-processing-manufacturing/",
+    "https://built.itmedia.co.jp/bt/articles/2608/28/news103.html",
+    "https://news.yahoo.co.jp/articles/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_kekka.pdf",
+    "https://sp-21.co.jp/study/scatter-1-sales/",
+    "https://note.com/mad2007takahashi/n/n7f646325e917"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+   "results": [
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "https://www.e-stat.go.jp/dbview?sid=0004029509",
+    "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "https://zukaikeizai.com/ranking/revper/2025/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 推移",
+   "results": [
+    "https://kessanmarketing.com/companies",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0004029509",
+    "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "http://listed-data.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "https://edinetdb.jp/rankings/revenue"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004029509",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_kekka.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.stat.go.jp/viz/kkj/index.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r5.pdf"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 経済構造実態調査 OR 工業統計",
+   "results": []
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 従業者規模別",
+   "results": [
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "https://edinetdb.jp/rankings/revenue",
+    "https://zukaikeizai.com/ranking/revper/2025/",
+    "https://www.e-stat.go.jp/dbview?sid=0004029509"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 1人当たり 万円",
+   "results": [
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://news.infoseek.co.jp/article/toyokeizai_20260925_959046/",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://zukaikeizai.com/ranking/revper/2026/",
+    "https://kinmyakucode.com/ja/rankings/employee-count/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） 2015 2025",
+   "results": [
+    "https://kinmyakucode.com/ja/rankings/revenue/real-estate/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "https://irbank.net/download",
+    "https://biz.toyokeizai.net/data/service/detail/id=327",
+    "https://edinetdb.jp/rankings/psr"
+   ]
+  },
+  {
+   "query": "listed Japanese contract metal processing companies revenue and employees same fiscal year Japan statistics",
+   "results": [
+    "https://atsoho.com/companies/en/industry/metal-products",
+    "https://atsoho.com/companies/en/industry/iron-steel",
+    "https://corpolog.jp/en/",
+    "https://japansmallcap.com/sectors/metal-products",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html",
+    "https://www.statista.com/study/190546/metals-industry-in-japan/",
+    "https://www.dbj.jp/ricf/en/databank/"
+   ]
+  },
+  {
+   "query": "site:note.com 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+   "results": []
+  },
+  {
+   "query": "site:x.com 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+   "results": [
+    "https://x.com/daynohito/status/2094955644294156331",
+    "https://x.com/srs20170526/status/2097512435335020545",
+    "https://x.com/edinetdb/status/2079379240680915412",
+    "https://x.com/ai_analyst_ir/status/2113166183557964063",
+    "https://x.com/IA_okada/status/2103299335425507423",
+    "https://x.com/rSu8bySbnrSIDPX/status/2080340672109052108",
+    "https://x.com/masashi_i/status/2047525944387334597"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+   "results": [
+    "https://jp.linkedin.com/posts/mmmsumo_日系の新興コンサル会社ベイカレント出身者が2015年に設立ノースサンド社の売上-activity-7440589121707737088-EPzH",
+    "https://jp.linkedin.com/posts/sakuraitakuya_従業員90名以下で売上2倍超株式会社ワットマン-渡邉-匡cfoが担った財務統制-activity-7480452317419360256-O854",
+    "https://www.linkedin.com/posts/cavora_社員38人で売上80億円はなぜ可能なのかaiが加工工程を自動化する工作機械が職人不足-activity-7491070575004545025-lg7G",
+    "https://jp.linkedin.com/posts/naoko-yamamoto-792302208_10年間で売上高を7倍社員数を5000人から約3万人へと成長させたアクセンチュア-activity-7424244306804166656-xHMh",
+    "https://jp.linkedin.com/posts/yusuke-shimizu-b3085957_上場会社がなぜ売上数億円規模のメーカーを買収するのか-上場会社による国内の-activity-7497925922503835648-kogW",
+    "https://jp.linkedin.com/posts/pengfei-tang-38870b308_売上高と利益を読み解く同じ損益計算書でも単純に横並び比較できない理由-vibecoding-activity-7514125218206900224-JALJ",
+    "https://jp.linkedin.com/posts/yuji-naramoto-1b66b2251_社長がいない日も見積もりを返す受託加工の見積もりを過去の似た案件から従業員が出-activity-7512655669003653120-_-ng"
+   ]
+  },
+  {
+   "query": "site:facebook.com 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）",
+   "results": [
+    "https://www.facebook.com/PwCJapan/posts/業種別会計事例業界別成長度売上高伸長従業員数伸長など分析情報通信業界情報通信業界を代表する国内主要3キャリアnttソフトバンクkddiの有価証券報告書の情報をも/1029292097106441/",
+    "https://www.facebook.com/shukan.bunshun.official/posts/581514837314863/",
+    "https://www.facebook.com/tsrnet/posts/データを読む上場企業1898社-2021年3月期決算従業員数調査-2021年3月期決算の上場1898社の従業員数正社員は280万8097人前年比10増で前年の2/4077845878950170/",
+    "https://www.facebook.com/tbsnewsdig/videos/見られています出勤時間は自由従業員第一主義で売り上げ20倍に急成長のプリント加工会社-78歳の新入社員もゲキ推しさん2023年6月13日配信/1157121326150094/",
+    "https://www.facebook.com/watch/?v=3556860971269155",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/上場を直近20年以上続けている日本の完成車メーカー9社を対象に売上高ランキングを作成売上高の増減を視覚化できるアニメーションを用いてレースを繰り広げているような/4059036037541539/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） note 社長",
+   "results": [
+    "https://note.com/jissen_presen/n/n654c3fe1b458",
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "https://www.jpx.co.jp/markets/statistics-equities/examination/",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://toyokeizai.net/articles/-/959046?display=b"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70） X 投稿",
+   "results": [
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://zukaikeizai.com/ranking/revper/2026/",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://edinetdb.jp/rankings/psr",
+    "https://biz.toyokeizai.net/data/service/detail/id=328",
+    "https://uriage-jp.com/"
+   ]
+  },
+  {
+   "query": "listed Japanese contract metal processing companies revenue and employees same fiscal year site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/日本製鉄/",
+    "https://www.linkedin.com/company/tanaka-precious-metals",
+    "https://jp.linkedin.com/company/contract-metal-products",
+    "https://www.linkedin.com/hubs/top-companies/jp/",
+    "https://www.linkedin.com/company/makoto-metal-technology-inc-",
+    "https://www.linkedin.com/posts/straitsresearch_top-20-japanese-companies-as-of-2024-activity-7223931039449006082-AvUT",
+    "https://www.linkedin.com/posts/machinery-and-equipment-industry_cncmachine-cnc-japanesemanufacturing-activity-7495013463749091328-yX4N"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ39頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ39頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ39頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ39頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ39頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ39頁・検索18回）",
+  "10年推移": "記載なし（読んだ39頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ39頁・検索18回）"
+ }
+}

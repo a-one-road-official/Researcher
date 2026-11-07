@@ -1,0 +1,471 @@
+{
+ "name": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+ "en": "Bank of Japan CGPI annual report table metal products index level csv",
+ "aliases": [
+  "企業物価指数 金属製品 類別 指数 年平均 filetype:csv site:boj.or.jp",
+  "企業物価指数 2020年基準 金属製品 102 103 年平均 表",
+  "stat-search.boj.or.jp PR01 金属製品 年 csv"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:53:35.264693+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-01-09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/corporate_goods_price_index/domestic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/mtshtml/pr01_m_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/info/dload.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Bank_of_Japan_j/status/1978068400686473692",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bomb-llc.com/tools/price-trend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/cpi/1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?layout=dataset&page=1&query=CPI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?layout=dataset&query=%E4%BC%81%E6%A5%AD%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=naphtha&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/a/a16-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2015/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2015/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/mtshtml/csv/pr01_m_1.csv",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.alphacast.io/sources/bank-of-japan-boj-152/pubs/corporate-goods-price-index-cgpi-1319",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 人手不足 受注 断る",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.boj.or.jp/statistics/outline/index.htm",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.boj.or.jp/research/brp/ron_2026/ron260603a.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/pdf/all_01.pdf",
+    "https://www.stat-search.boj.or.jp/index.html"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 受注残 人手不足",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 人手不足 損失 億円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-01-09.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.boj.or.jp/statistics/outline/index.htm",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://x.com/Bank_of_Japan_j/status/1978068400686473692",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.stat-search.boj.or.jp/index.html"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 推移",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://x.com/Bank_of_Japan_j/status/1978068400686473692",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.stat-search.boj.or.jp/index.html"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat.go.jp/data/cpi/1.html",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.e-stat.go.jp/stat-search?layout=dataset&page=1&query=CPI",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.e-stat.go.jp/stat-search?page=1&query=naphtha&layout=dataset",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a16-3.html",
+    "https://www.soumu.go.jp/main_content/001083704.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 従業者規模別",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat.go.jp/data/cpi/1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.e-stat.go.jp/stat-search?layout=dataset&page=1&query=CPI",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.stat-search.boj.or.jp/index.html"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 1人当たり 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.stat.go.jp/data/cpi/1.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.stat-search.boj.or.jp/ssi/mtshtml/pr01_m_1.html",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://x.com/Bank_of_Japan_j/status/1978068400686473692",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2015/index.htm"
+   ]
+  },
+  {
+   "query": "Bank of Japan CGPI annual report table metal products index level csv Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://www.alphacast.io/sources/bank-of-japan-boj-152/pubs/corporate-goods-price-index-cgpi-1319",
+    "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm",
+    "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "https://db.nomics.world/BOJ/CGPI",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://tradingeconomics.com/japan/producer-prices",
+    "https://www.boj.or.jp/en/statistics/pi/index.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+   "results": [
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/fp_okane/n/nc7e745a38e7e",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/2025onkochishin/n/na76bc2a39b85",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8",
+    "https://note.com/mine_fp/n/n23315b0ee6c5",
+    "https://note.com/shuichichiba/n/nbdb1d134191b",
+    "https://note.com/primary_watch/n/nf1abb9e8cd77"
+   ]
+  },
+  {
+   "query": "site:x.com 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+   "results": [
+    "https://x.com/Bank_of_Japan_j/status/2110340335981183040",
+    "https://x.com/indbgraphreport/status/2042517580020355121",
+    "https://x.com/indbgraphreport/status/1790194356923883850",
+    "https://x.com/Bank_of_Japan_j/status/2099470737157280191",
+    "https://x.com/indbgraphreport/status/2042507414927544543",
+    "https://x.com/indbgraphreport/status/1998566012455989705",
+    "https://x.com/indbgraphreport/status/2055111587900592436"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+   "results": [
+    "https://jp.linkedin.com/posts/廣海-三浦-474b27240_資金循環統計速報2024年第3四半期-日本銀行-bank-of-japan-activity-7079618548792242177-7CL-",
+    "https://www.linkedin.com/posts/元生-竹田-64120657_金融庁日銀企業向け融資を常時把握危機を未然防止-日本経済新聞-activity-7103121457097949184-kTDX",
+    "https://jp.linkedin.com/learning/excel-pivottables-for-beginners-14943231/3083824",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7373572540784394240/",
+    "https://www.linkedin.com/posts/koji1974_三菱ufj銀行の中山健悟様が8月2日に発表された経済情報-米国-次期米国大統領-activity-7232536033102290944-f9mV",
+    "https://www.linkedin.com/pulse/hospital-finances-under-pressure-calls-grow-linking-masaya-yamamoto-z6e1c"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）",
+   "results": [
+    "https://www.facebook.com/BankofJapan/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数2025年7月国内企業物価は4ヵ月連続で伸びが縮小日本銀行-が8月13日に発表した-企業物価指数-によると2025年7月の-国内企業物価-は前年比2/1262330839021657/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2025年4月-国内企業物価-は5ヵ月連続で前年比4台日本銀行が5月14日に発表した企業物価指数によると2025年4月の国内企業物価は前年比403/1192682042653204/",
+    "https://www.facebook.com/BankofJapan/posts/統計企業物価指数1月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1354443959818762/",
+    "https://www.facebook.com/BankofJapan/photos/統計企業物価指数12月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1331556675440824/",
+    "https://www.facebook.com/BankofJapan/posts/統計企業物価指数7月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1209116971018129/",
+    "https://www.facebook.com/BankofJapan/posts/統計企業物価指数9月を公表しましたhttpswwwbojorjpstatisticspicgpi_releaseindexhtm/1259435769319582/"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.boj.or.jp/statistics/outline/notice_2017/not170712a.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/index.htm",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://www.stat-search.boj.or.jp/",
+    "https://x.com/Bank_of_Japan_j/status/1790716265016836551",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.e-stat.go.jp/stat-search?layout=dataset&page=1&query=CPI",
+    "https://www.stat.go.jp/data/cpi/1.html",
+    "https://x.com/Bank_of_Japan_j/status/2110340335981183040/photo/1",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.reuters.com/jp/economy/bank-of-japan/DOAQCI6DSRNSJB6OIP364NHZEE-2025-11-13/",
+    "https://www.youtube.com/watch?v=9jSLqq2-puk",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "Bank of Japan CGPI annual report table metal products index level csv site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/japannews24_the-corporate-goods-price-index-cgpi-for-activity-7196206436643659778-eILS",
+    "https://pe.linkedin.com/posts/japannews24_the-corporate-goods-price-index-cgpi-for-activity-7196206450648522752-Ro3F",
+    "https://www.linkedin.com/in/makoto-kasai-4b2846284",
+    "https://www.linkedin.com/jobs/bank-of-japan-release-schedule-october-2026-cgpi-jobs",
+    "https://www.linkedin.com/posts/numerator_we-have-released-our-july-2026-numerator-activity-7493683028330856448-0UUS",
+    "https://www.linkedin.com/posts/numerator_numerator-has-released-our-september-2026-activity-7515763305333059587-uwse",
+    "https://www.linkedin.com/pulse/summary-boj-outlook-economic-activity-prices-april-2026-rymond-inc-gicxf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ37頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ37頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ37頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ37頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ37頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ37頁・検索18回）",
+  "10年推移": "記載なし（読んだ37頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ37頁・検索18回）"
+ }
+}

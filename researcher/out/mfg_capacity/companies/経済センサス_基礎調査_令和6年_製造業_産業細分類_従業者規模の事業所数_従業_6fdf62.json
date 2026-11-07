@@ -1,0 +1,464 @@
+{
+ "name": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+ "en": "Economic Census for Business Frame 2024 manufacturing establishments employees by detailed industry and size e-Stat 00200552",
+ "aliases": [
+  "経済センサス 基礎調査 令和6年 製造業 細分類 従業者規模 site:e-stat.go.jp",
+  "経済センサス 基礎調査 2024 電気めっき 金属用金型 事業所数",
+  "令和6年経済センサス 基礎調査 確報 産業小分類 従業者規模別"
+ ],
+ "context": "統計・全体",
+ "kind": "market",
+ "researched_at": "2026-11-07T03:50:24.482826+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kochi.lg.jp/doc/2026022700108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei06_01000072.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisa.or.jp/explain/tabid/755/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?kikan=00200&toukei=00200552&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei06_01000073.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/003/905/r03_census_seizougyou_riyou_chuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004040081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/database?bunya_l=07&cycle=0&layout=datalist&page=1&result_page=1&statdisp_id=0004040087&tclass1=000001223947&tclass2=000001223949&tclass3=000001223954&tclass4val=0&toukei=00200552&tstat=000001223942",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&bunya_l=07&bunya_s=0701&layout=dataset&toukei=00200552&result_page=1&statdisp_id=0004049009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/topics/business-economy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.pref.kochi.lg.jp/doc/2026022700108/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.e-census-st.go.jp/",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei06_01000072.html",
+    "https://www.jisa.or.jp/explain/tabid/755/default.aspx"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/stat-search?kikan=00200&toukei=00200552&page=1",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei06_01000073.html",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/003/905/r03_census_seizougyou_riyou_chuui.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.yamagata.jp/020052/kensei/shoukai/toukeijouhou/kogyo_top.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004040081",
+    "https://www.stat.go.jp/data/e-census/2024/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.pref.kochi.lg.jp/doc/2026022700108/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "https://www.e-census-st.go.jp/",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Frame 2024 manufacturing establishments employees by detailed industry and size e-Stat 00200552 Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/stat-search/database?bunya_l=07&cycle=0&layout=datalist&page=1&result_page=1&statdisp_id=0004040087&tclass1=000001223947&tclass2=000001223949&tclass3=000001223954&tclass4val=0&toukei=00200552&tstat=000001223942",
+    "https://www.stat.go.jp/english/data/e-census/",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&bunya_l=07&bunya_s=0701&layout=dataset&toukei=00200552&result_page=1&statdisp_id=0004049009",
+    "https://www.census.gov/topics/business-economy.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&cycle=0&year=20240&month=12040606&toukei=00200552&tstat=000001223942&tclass1=000001223947&tclass2=000001223950&tclass3=000001223956&tclass4val=0&stat_infid=000040389360",
+    "https://www.census.gov/newsroom/press-releases/2025/establishment-and-firm-size-statistics.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?layout=dataset&query=/+and+/+difference&statdisp_id=0004025781"
+   ]
+  },
+  {
+   "query": "site:note.com 経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+   "results": [
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/haruwayuki/n/n5b00d1b0dd68",
+    "https://note.com/noble_guppy6313/n/n42887efe4b8e",
+    "https://note.com/jony_fujimura/n/nf69e8ac3915f",
+    "https://note.com/taituna/n/n34c2cf397fdb",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/lyco_pene/n/nbc0b075f0072",
+    "https://note.com/makuake_hr/n/na23313f2747b",
+    "https://note.com/ima_career/n/n0fc48d689836"
+   ]
+  },
+  {
+   "query": "site:x.com 経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2116482460385149005",
+    "https://jf.x.com/images/media-preview/2115062409530581426",
+    "https://x.com/ecensus2026",
+    "https://x.com/ecensus2026/status/2028757279210602591",
+    "https://x.com/OgawaSeisakusho/status/2065544435795177585",
+    "https://x.com/seikankon/status/2084469669982036026",
+    "https://x.com/OgawaSeisakusho/status/2047421836292702546"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+   "results": [
+    "https://economicgraph.linkedin.com/",
+    "https://in.linkedin.com/in/rajnarayanam",
+    "https://www.linkedin.com/help/linkedin/answer/a720019",
+    "https://www.linkedin.com/posts/complianceasia_令和６年金融商品取引法等改正に係る政令内閣府令案等の公表について-activity-7312707984415997953-2PoD",
+    "https://www.linkedin.com/posts/yu-iwata-273580_中国調達下げる5割代替先9割日本製造業100社に聞く-activity-7004034105570979840-EM2L",
+    "https://www.linkedin.com/posts/david-lavorel-731b4730_中国調達下げる5割代替先9割日本製造業100社に聞くイブニングスクープ-activity-7004639821566488576-P_fh",
+    "https://www.linkedin.com/posts/masato-nagahara-41550114a_令和7年度jogmec金属資源セミナークリティカルミネラルブリーフィングの開催-activity-7356260040737017857-eL8j"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58）",
+   "results": []
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.soumu.go.jp/main_content/000885912.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=247&page=1000",
+    "https://www.e-stat.go.jp/stat-search?kikan=00200&toukei=00200552&page=1",
+    "https://www.indb.co.jp/wp-content/themes/in/service/economy/cdrom/update/pdf/census_R0602.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐基礎調査 令和6年 製造業 産業細分類×従業者規模の事業所数・従業者数（政府統計コード00200552・表番号で Excel・全国の合計を結果の概要と照合・活動調査とつながない・4-58） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2024/gaiyou.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.pref.kochi.lg.jp/doc/2026022700108/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.e-census-st.go.jp/",
+    "https://www.e-stat.go.jp/stat-search?kikan=00200&toukei=00200552&page=1"
+   ]
+  },
+  {
+   "query": "Economic Census for Business Frame 2024 manufacturing establishments employees by detailed industry and size e-Stat 00200552 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/summary-economic-census-2024-business-intelligence-limited-yo7dc",
+    "https://pk.linkedin.com/company/pbsofficialpak",
+    "https://www.linkedin.com/pulse/highlights-from-2024-deloitte-manufacturing-52zme",
+    "https://www.linkedin.com/company/us-census-bureau-economic-census",
+    "https://www.linkedin.com/pulse/january-2024-manufacturing-insights-snapshot-economic-falak-patel-rcgbc",
+    "https://www.linkedin.com/posts/gallup-pakistan_gallup-pakistan-is-proud-to-release-its-latest-activity-7372248039425650688-qFqz",
+    "https://www.linkedin.com/pulse/numbers-dont-lie-bruneis-economy-entering-new-era-malai-hassan-othman-dlz1c/"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ39頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ39頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ39頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ39頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ39頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ39頁・検索18回）",
+  "10年推移": "記載なし（読んだ39頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ39頁・検索18回）"
+ }
+}
