@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・159品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・161品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -8278,25 +8278,131 @@
 
 ## 経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）（Japan Economic Structure Survey manufacturing establishment detailed industry regular employees part-time breakdown national）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ38頁・検索18回）
-- 事業所数・社数：記載なし（読んだ38頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ38頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ38頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ38頁・検索18回）
-- 生産能力・設備：記載なし（読んだ38頁・検索18回）
-- 10年推移：記載なし（読んだ38頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ38頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
+- 事業所数・社数：記載なし（読んだ36頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ36頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ36頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ36頁・検索18回）
+- 生産能力・設備：記載なし（読んだ36頁・検索18回）
+- 10年推移：記載なし（読んだ36頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索18回）
 
 ## 全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）（Japan Plating Industry Association member survey employees part-time share）
 - 文脈：業界団体
-- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
-- 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
+- 事業所数・社数：記載なし（読んだ54頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
+- 生産能力・設備：記載なし（読んだ54頁・検索18回）
+- 10年推移：記載なし（読んだ54頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
+
+## 経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）（Japan Economic Census for Business Activity 2021 metal surface treatment regular temporary employees）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 事業所数・社数：
+  - 「１．事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅰ－１ 産業分類別事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅱ－３ 「娯楽業」における産業小分類別事業所数、売上高及び年間入場者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「年間入場者１人当たり売上高」 、 「年間入場者数」及び「１事業所当た」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「ア 産業小分類別に受講生数（会員数）（※）をみると、「その他の教養・技能教授業」が312」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅱ－５ 「学習塾」及び「教養・技能教授業」における産業小分類別事業所数、」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注１：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「受講生１人当たり売上高」 、 「受講生数（会員数） 」及び「１事業所当」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２：「受講生数（会員数） 」は2020年12月31日現在の受講生数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 社員数・平均社員数：
+  - 「Ⅱ 特定のサービス業の状況（個人経営を除く） ............................... ３」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「１．事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「専門・技術サービス業」 が168万３千人、「宿泊業， 飲食サービス業」 が385万２千人、「生活関」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「連サービス業， 娯楽業」 が185万５千人、「教育， 学習支援業」 が67万７千人、「サービス業 （他」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「に分類されないもの） 」が405万４千人となっている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅰ－１ 産業分類別事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「従業者１人当」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２：「 （参考）15歳以上 （有配偶以外） 人口構成比」は令和２年国勢調査の結果 （2020年10月１日現在の数値） を用いている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「（参考）15歳以上（有配偶以外）人口構成比」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２： 「15歳以上（有配偶以外）人口構成比 」は令和２年国勢調査の結果（2020年10月１日現在の数値）を用いてい」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「ア 産業小分類別に年間入場者数（※）をみると、「フィットネスクラブ」が１億8515万人と」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「最も多く、次いで「スポーツ施設提供業（別掲を除く） 」が１億1002万人、 「映画館」が」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「１億255万人などとなっている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 受注金額・加工賃収入：
+  - 「・ 売上（収入）金額等の経理事項は2020年１年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2020年の売上（収入）金額（以下「売上高」という」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「兆378億円、「学術研究， 専門 ・ 技術サービス業」 が46兆3668億円、「宿泊業， 飲食サービス業」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「が18兆9824億円、「生活関連サービス業， 娯楽業」 が29兆7551億円、「教育， 学習支援業」 が３」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「兆5769億円、「サービス業（他に分類されないもの） 」が41兆4390億円となっている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅰ－２ 産業分類別売上高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「ウ 産業小分類別に年間入場者（※）１人当たり売上高をみると、「興行場 （別掲を除く） ， 興」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「行団」が２万円と最も多く、次いで「ゴルフ場」が１万２千円、 「ボウリング場」が５千」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「表Ⅱ－３ 「娯楽業」における産業小分類別事業所数、売上高及び年間入場者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「年間入場者１人当たり売上高」 、 「年間入場者数」及び「１事業所当た」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 1人あたり・1社あたり金額：
+  - 「行団」が２万円と最も多く、次いで「ゴルフ場」が１万２千円、 「ボウリング場」が５千」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「1) 概要 事業所数、従業者数、製造品出荷額等及び付加価値額等の主要な事項について、産業（中分類）別に表章 2022年９月30日」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 10年推移：
+  - 「・ 売上（収入）金額等の経理事項は2020年１年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「なることから、時系列比較を行う際は、十分に留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「https://www.stat.go.jp/data/e-census/2021/kekka/pdf/hotei.pdf」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「https://www.stat.go.jp/data/e-census/2021/kekka/pdf/otherwiseclassified.pdf」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「このため、雇用者の内訳については、時系列比較を行うことはできない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「集計結果の時系列比較を行う際は、十分に留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2021年（令和３年）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2020年の売上（収入）金額（以下「売上高」という」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2020年（令和２年）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「2020年 （令和２年）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２：「 （参考）15歳以上 （有配偶以外） 人口構成比」は令和２年国勢調査の結果 （2020年10月１日現在の数値） を用いている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２： 「15歳以上（有配偶以外）人口構成比 」は令和２年国勢調査の結果（2020年10月１日現在の数値）を用いてい」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+  - 「注２：「受講生数（会員数） 」は2020年12月31日現在の受講生数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 人手と仕事の差：
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf）
+- 生産能力・設備：記載なし（読んだ40頁・検索18回）
+
+## 人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）（Japan Chamber of Commerce labor shortage survey respondents number methodology）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+- 事業所数・社数：
+  - 「（２）回答企業数：」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+- 社員数・平均社員数：
+  - 「人手不足と回答した企業は６割（60.0％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材を受入れている企業は４社に１社（25.1％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「日本への適応性が高く、技能・知識を有する外国人材に対する「在留期限がない、家族帯同が可能な受入れ」は、半数以上（51.7％）が「増やすべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「法定雇用義務の対象となる従業員37.5人以上の企業のうち、障害者法定雇用率を達成した企業は約４割（42.7％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「特に、50人以下の企業では、半数近く（46.0％）が「雇用しておらず、募集・採用に向けた取り組みを行っていない」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「障害者の雇用が困難な理由について、「障害特性を踏まえた業務切り出し、設定が困難」（51.7％）、「就労・教育をサポートする人的な余裕がない」（50.9％）と回答する企業が約半数」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「女性従業員のキャリアアップに取り組むうえでの課題は、「ライフイベント（育児・介護等）によるキャリアの停滞（29.0％）」、「長時間労働や責任の重さ等により、本人が活躍を望みづらい（27.5％）」、「ロールモデルが不足（26.7％）」が約３割で最多」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+- 10年推移：
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「2024年3月以前のニュースを見る」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+- 人手と仕事の差：
+  - 「本調査は、中小企業における人手不足の状況と対策、外国人材・障害者・女性・シニア人材の活躍推進、仕事と家庭の両立、リスキリングの状況について、中小企業の実態を把握し、今後の要望活動に活かしていくために実施しました」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「【ポイント①：人手不足の状況と対策について】」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足と回答した企業は６割（60.0％）」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
+  - 「外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答」（https://www.jcci.or.jp/news/research/2026/0915140001.html）
 - 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

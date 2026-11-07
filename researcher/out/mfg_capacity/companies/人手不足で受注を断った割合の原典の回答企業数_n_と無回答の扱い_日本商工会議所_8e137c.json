@@ -1,0 +1,699 @@
+{
+ "name": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+ "en": "Japan Chamber of Commerce labor shortage survey respondents number methodology",
+ "aliases": [
+  "日本商工会議所 人手不足 調査 回答企業数",
+  "人手不足の状況 調査概要 有効回答",
+  "商工会議所 人手不足 受注 断った 回答数"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T10:53:23.948362+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "（２）回答企業数：",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人手不足と回答した企業は６割（60.0％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材を受入れている企業は４社に１社（25.1％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本への適応性が高く、技能・知識を有する外国人材に対する「在留期限がない、家族帯同が可能な受入れ」は、半数以上（51.7％）が「増やすべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "法定雇用義務の対象となる従業員37.5人以上の企業のうち、障害者法定雇用率を達成した企業は約４割（42.7％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、50人以下の企業では、半数近く（46.0％）が「雇用しておらず、募集・採用に向けた取り組みを行っていない」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "障害者の雇用が困難な理由について、「障害特性を踏まえた業務切り出し、設定が困難」（51.7％）、「就労・教育をサポートする人的な余裕がない」（50.9％）と回答する企業が約半数",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "女性従業員のキャリアアップに取り組むうえでの課題は、「ライフイベント（育児・介護等）によるキャリアの停滞（29.0％）」、「長時間労働や責任の重さ等により、本人が活躍を望みづらい（27.5％）」、「ロールモデルが不足（26.7％）」が約３割で最多",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月以前のニュースを見る",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "本調査は、中小企業における人手不足の状況と対策、外国人材・障害者・女性・シニア人材の活躍推進、仕事と家庭の両立、リスキリングの状況について、中小企業の実態を把握し、今後の要望活動に活かしていくために実施しました",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ポイント①：人手不足の状況と対策について】",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と回答した企業は６割（60.0％）",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、従業員数21人以上の企業では約7割が人手不足と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "20人以下の小規模企業では、人手不足が約半数（49.1％）と全体を下回ったものの、深刻度は５割超（54.9％）で全体を超え、約１割（8.2％）は廃業や事業継続を懸念",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別にみると、建設業（77.4％）、運輸業（72.2％）、介護・看護業（70.5％）で人手不足が７割を超える",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対策は、採用強化に次いで、「デジタル活用等による省力化」が約４割（40.2％）と最も多いが、企業規模が小さいほど回答数は減少",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以下の企業では、「事業の縮小・見直し・外注化」で対応する傾向が３割超（31.6%）と、21人以上の企業より多い",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材受入れにかかる国の方針について、６割近く（55.6％）が「(全面的または人手不足の業種・地域に限って)受入れを拡大すべき」と回答",
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100402",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93218/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000042.000084898.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.en-japan.com/newsrelease/2026/45297.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/93940",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250819-laborshortage202507/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kubell.com/news/2025/12/research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Index_search/detail?idx=107&tmtl=3&jcode=000000143&vsw=1&vidx=164&ppg=30&rgtn=WZ2071383&hidx=0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93661/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000056597&page=ref_view&rnk=1&mcmd=25&st=ref_cnt_all&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_22%202_5%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9&lsmp=1&type=reference",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/press/documents/20190918.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2024/documents/0248_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/siryo/2016/documents/0179.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000313563&page=ref_view&rnk=1&mcmd=25&st=update&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%2C%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF&lsmp=1&type=reference",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12073/145.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://log-innovation.rku.ac.jp/laboratory/pdf/distribution67_total.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riaj.or.jp/release/2007/pdf/071225.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcma.or.jp/wp-content/uploads/2007/04/jigyo-19-03-03.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://researchmap.jp/read0147861/misc/45697934/attachment_file.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_news/20160523_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://contents.xj-storage.jp/xcontents/82370/3735f2f1/766b/4c7c/9668/6d3afa97210e/20170927173547843s.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kitamura55.com/archives/4093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Index_search/detail?idx=58&tmtl=3&jcode=000000143&vsw=1&vidx=141&ppg=20&rgtn=WZ2070466&hidx=0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hrpro.co.jp/bc.php?id=21503",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iis-net.or.jp/files/kousya/page/tokei/R5juchuukigyo_jittai_chousa_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2024/documents/0248.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iis-net.or.jp/files/kousya/page/tokei/R6_juchuukigyo_jittai_chousa_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20201001225228/www.chusho.meti.go.jp/pamflet/hakusyo/H26/PDF/140630hakushohyoushi.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000067.000175265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/250314-80164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.logi-biz.com/142932/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 人手不足 受注 断る",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100402",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93218",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://www.seikohd.com/research-construction-labor-shortage-2026/",
+    "https://online.logi-biz.com/142932/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 受注残 人手不足",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://prtimes.jp/main/html/rd/p/000000042.000084898.html",
+    "https://corp.en-japan.com/newsrelease/2026/45297.html",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://forbesjapan.com/articles/detail/93940",
+    "https://www.tdb.co.jp/report/economic/20250819-laborshortage202507/",
+    "https://www.kubell.com/news/2025/12/research.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 人手不足 損失 億円",
+   "results": [
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.stat.go.jp/library/opac/Index_search/detail?idx=107&tmtl=3&jcode=000000143&vsw=1&vidx=164&ppg=30&rgtn=WZ2071383&hidx=0",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93661",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000056597&page=ref_view&rnk=1&mcmd=25&st=ref_cnt_all&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%205_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_22%202_5%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9&lsmp=1&type=reference",
+    "https://www.issoh.co.jp/column/details/11003/",
+    "https://news.infoseek.co.jp/article/tbs_3029349/?tpgnr=busi-econ"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100402",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://www.jil.go.jp/press/documents/20190918.pdf",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 推移",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
+    "https://www.jil.go.jp/institute/siryo/2016/documents/0179.pdf",
+    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000313563&page=ref_view&rnk=1&mcmd=25&st=update&asc=desc&fi=3_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B%204_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%2C%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF&lsmp=1&type=reference",
+    "https://www.pref.osaka.lg.jp/documents/12073/145.pdf",
+    "https://log-innovation.rku.ac.jp/laboratory/pdf/distribution67_total.pdf",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 統計 PDF",
+   "results": [
+    "http://www.riaj.or.jp/release/2007/pdf/071225.pdf",
+    "https://www.jcma.or.jp/wp-content/uploads/2007/04/jigyo-19-03-03.pdf",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
+    "https://researchmap.jp/read0147861/misc/45697934/attachment_file.pdf",
+    "https://www.tisi.jp/documents/jp/news/tis_news/20160523_1.pdf",
+    "http://contents.xj-storage.jp/xcontents/82370/3735f2f1/766b/4c7c/9668/6d3afa97210e/20170927173547843s.pdf",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://kitamura55.com/archives/4093",
+    "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "https://www.kkj-st.go.jp/about/",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://www.stat.go.jp/library/opac/Index_search/detail?idx=58&tmtl=3&jcode=000000143&vsw=1&vidx=141&ppg=20&rgtn=WZ2070466&hidx=0",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_11_03.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 従業者規模別",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.tdb.co.jp/report/economic/20250819-laborshortage202507/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 1人当たり 万円",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://ats-entry.hito-link.jp/sites/marketenterprise/matter/matters/103",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://warp.ndl.go.jp/web/20201001225228/www.chusho.meti.go.jp/pamflet/hakusyo/H26/PDF/140630hakushohyoushi.pdf",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） 2015 2025",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "http://contents.xj-storage.jp/xcontents/82370/3735f2f1/766b/4c7c/9668/6d3afa97210e/20170927173547843s.pdf",
+    "https://www.jacom.or.jp/column/2025/03/250314-80164.php",
+    "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/"
+   ]
+  },
+  {
+   "query": "Japan Chamber of Commerce labor shortage survey respondents number methodology Japan statistics",
+   "results": [
+    "https://www.facebook.com/japandailydotjp/posts/a-nationwide-survey-conducted-by-the-japan-and-tokyo-chambers-of-commerce-and-in/1579888977514084/",
+    "https://www.nippon.com/en/articles/-/17538",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.instagram.com/p/DdX2IkTDRmT/",
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/?srsltid=AYCX9vKbv_2tCEZ-YFMqAMl_IBVEFIHpSD-SpcNSURGW6LbuqVfnR9WC",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://www.jri.co.jp/en/MediaLibrary/file/english/periodical/jrirj/2023/01/nishioka.pdf",
+    "https://www.oecd.org/en/publications/oecd-employment-outlook-2025-country-notes_f91531f7-en/japan_7672bd00-en.html",
+    "https://www.japantimes.co.jp/news/2026/09/16/japan/foreign-labor-survey/"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+   "results": [
+    "https://note.com/comix_ceo162230/n/na80b360654ef",
+    "https://note.com/mototchen/n/nc0bb8247ad0e",
+    "https://note.com/modern_flea8708/n/nec8752bba35c",
+    "https://note.com/aikensyou/n/n18ecba5a9a8b",
+    "https://note.com/2025onkochishin/n/na2e2b56595f8",
+    "https://note.com/ocaml/n/ne144fb47885f",
+    "https://note.com/dakudhigura/n/nfff5d8efbcb2",
+    "https://note.com/dakudhigura/n/n1b041ae722c6",
+    "https://note.com/dakudhigura/n/n1cf48e633662",
+    "https://note.com/minamisouken01/n/n72c295c2d074"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+   "results": [
+    "https://x.com/SORAMON_INC/status/2104330239811756302",
+    "https://x.com/teradasyacho/status/2012320252101800297",
+    "https://x.com/Sara_Return/status/2100478640744239567",
+    "https://x.com/rasuku_net_com/status/2075294439837442333",
+    "https://x.com/i/trending/2037852139871932551",
+    "https://x.com/fyZjDxO8PJDyWd2/status/2102402544186400967",
+    "https://x.com/JBpress/status/2067404497337319588"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+   "results": [
+    "https://jp.linkedin.com/posts/圭弘-岩田-059b53250_インサイドセールスのkpiに受注率を入れると現場は受注しやすい商談しか渡さなくなる-activity-7483837959226408960-_wiJ",
+    "https://jp.linkedin.com/pulse/人手不足は数の問題ではないかもしれない組織の力を底上げする3つの視点-薫-藤井-ar3qc",
+    "https://jp.linkedin.com/posts/moment-h_以前あるクライアントの営業支援に入ったときkpiが月間訪問件数30件だけに-activity-7496347880371232768-vK2V",
+    "https://jp.linkedin.com/posts/圭弘-岩田-059b53250_kpiが弱い会社は足し算の数字ばかり見ています-訪問件数架電数投稿数-activity-7481301218523369474-ZQS1",
+    "https://jp.linkedin.com/posts/勇次郎-野田-40974a220_受注率が伸び悩む企業はすぐにリードの質や商談数を問題視しがち一方で真-activity-7426223771167965184-V1JR",
+    "https://jp.linkedin.com/posts/shuhei-nomura_前職で顧客の従業員1000名以下になると途端に受注率が悪くなってた明らかターゲット-activity-6777723419430649856-tNrW",
+    "https://jp.linkedin.com/posts/優-柴田-a29551183_最近とある大企業のマネジメント研究を紹介する投稿を見かけました-とてもよくまとまっていて-activity-7451746332769165312-e-Cn"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79）",
+   "results": [
+    "https://www.facebook.com/nikkei/posts/totoユニットバスの受注停止へ-中東情勢で材料ナフサが不足/1486818042789593/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/",
+    "https://www.facebook.com/tokushimashimbun/posts/藍住町官製談合-阿波牛の藤原受注割合高め70に-契約困難で辞退業者目立つ/574024161414048/",
+    "https://www.facebook.com/groups/1316938205997522/posts/1645452056479467/",
+    "https://www.facebook.com/ribbon.beppu/posts/️️現在スタッフが不足しており一度に調理できる数に限りがあるためメニューを変更してご案内させて頂いておりますまた調理のタイミングなどによりご提供の順番が前後する/1545140650949567/",
+    "https://www.facebook.com/smrjpr/photos/参加者募集人材不足を乗り越える募集採用定着最新手法習得-ojt型講習会採用数定着率を向上させるための具体的手法自社と求職者双方の視点から効果的な採用手法を解説す/1399615168871095/",
+    "https://www.facebook.com/asahicom/posts/地方は逆分権の時代に-人手足りない市町村事務国が再編検討へhttpswwwasahicomarticlesastdw2q74tdwutfk014mhtmlref/853411983977647/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） note 社長",
+   "results": [
+    "https://note.com/cozy_dog3748/n/nf94c9d1eeaca",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://note.com/maoulogic/n/nb1443eb4d8fc",
+    "https://note.com/ike_satoshi/n/n4b38df6d905d",
+    "https://prtimes.jp/main/html/rd/p/000000005.000185200.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/rosy_godwit403/n/n2cab7967df7a",
+    "https://comtri.jp/122-founders-labor-shortage/",
+    "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合の原典の回答企業数（n）と無回答の扱い（日本商工会議所 人手不足の状況に関する調査 報告書の調査概要・母数・4-78・4-79） X 投稿",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.kubell.com/news/2025/12/research.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://x.com/i/trending/2099079654283829596",
+    "https://www.sankei.com/article/20230627-WA4I62NLMFD2DIWJR6LDJXRYHY/",
+    "https://impact-h.co.jp/news/press250722",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000112.000080381.html",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html"
+   ]
+  },
+  {
+   "query": "Japan Chamber of Commerce labor shortage survey respondents number methodology site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/recruitment-hr/understanding-labor-market-trends/labor-force-participation-rates/",
+    "https://rw.linkedin.com/jobs/view/consultant-at-british-chamber-of-commerce-in-rwanda-4446616531",
+    "https://www.linkedin.com/pulse/chambers-drivers-european-resilience-growth-part-eurochambres-t4dae",
+    "https://www.linkedin.com/in/audrey-yamamoto",
+    "https://www.linkedin.com/in/ericjodts",
+    "https://www.linkedin.com/posts/nickhr_a-great-post-from-shridhar-here-and-one-activity-7514936234352201728-CvLv",
+    "https://www.linkedin.com/in/becky-bartoszek-8002b151",
+    "https://www.linkedin.com/in/brandi-jennings-4213b8b8",
+    "https://www.linkedin.com/in/mark-baird-ph-d-a0230514",
+    "https://www.linkedin.com/in/dr-ashvin-vibhakar-408a801"
+   ]
+  }
+ ],
+ "missing": {
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）"
+ }
+}

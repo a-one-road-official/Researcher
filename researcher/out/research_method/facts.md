@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・173品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・175品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5257,11 +5257,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -10487,3 +10487,131 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）（calendarization fiscal year alignment LTM NTM stub period comparable companies pitfalls）
+- 文脈：推定
+- 手順・やり方：
+  - 「決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「四半期データからLTM・NTMを実際に積み上げるExcel実装の手順は、姉妹記事の」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「EV/EBITDA​倍率と​類似会社比較法｜Comps​作成の​5ステップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「スタブ期間のEBITDAをComps用に年換算する際によくあるミスが、単純に「12か月 ÷ 期間月数」を掛けて引き伸ばすやり方です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「図2：決算期ズレへの対応方法を選ぶ判断フロー」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「で揃えたか、②補正方法」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「マルチプルのレンジだけを示して補正方法を書かないと、レビューする側は数値の信頼性を判断できません」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「季節性の​ない​事業であれば​単純な​月数按分でも​大きな​誤差は​生じませんが、​季節性が​ある​事業では​実態から​離れた​数値に​なりやすいため、​前年同期の​実績や​季節指数で​補正するのが​望ましい​方法です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「補正を行った場合は、基準日・補正方法・補正できなかった会社の有無をフットノートで開示し、レビューする側が数値の前提を検証できる状態にしておくことが実務上の作法です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「その​AIの​使い方、」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「本記事では、LTMの計算式と数値例、日本の開示資料からの数字の拾い方、そして決算期がずれたコンプスを揃えるカレンダライゼーションまで、実務の手順を解説します」（https://finance-rice-field.com/ltm-ebitda-calendarization）
+  - 「手順自体は単純ですが、分母の期間定義が揃って初めてマルチプルは比較可能になります」（https://finance-rice-field.com/ltm-ebitda-calendarization）
+- 突き合わせ・推定：
+  - 「が生じた会社については、前後のFYを合成した推定12か月ベースの数値を使用した」」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「補正を行った場合は、基準日・補正方法・補正できなかった会社の有無をフットノートで開示し、レビューする側が数値の前提を検証できる状態にしておくことが実務上の作法です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「AI×ファイナンス実務マスター講座は、AIで財務分析・モデルを作り、一次資料とExcelで検証するまでを講義動画と演習で学ぶ講座です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「AIで作り、検証まで学ぶ8講座」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「「LTMでは12倍だが来期予想では9倍」という並びは、割高と割安の矛盾ではなく、成長期待の大きさそのものです」（https://finance-rice-field.com/ltm-ebitda-calendarization）
+- 一次情報の探し方：
+  - 「決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「成長率が高い会社ほど決算期ズレの影響が大きくなることを、整数の仮設例で確認」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「で複数の会社を並べるとき、各社の決算期はほぼ確実にバラバラです」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「日本企業は3月決算が多数派である一方、米国企業の多くは12月」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「決算を採用しており、国内企業同士でも3月・12月・9月・6月決算が混在します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「本記事が扱うのは、Comps実務における決算期ズレの」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「「同じ業種・成長率でも決算期が違うだけでEV/EBITDAがどれだけ動くか」を整数の仮設例で確認し、LTM統一・CY化・FY表記のまま注記という3つの対応をどう使い分けるかを整理します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「なぜ決算期の​ズレが​Comps​比較を​歪めるのか」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「日本企業に3月決算が多いのは、官公庁の会計年度」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「や新卒一括採用など日本の商慣行に合わせた歴史的経緯によるものです」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「決算が主流で、クロスボーダーでComp Setを組む場面（日本の同業種を米国のグローバルピアと比較する等）では、決算期のズレが常態化します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「決算期がズレたまま「各社の直近本決算」を並べると、次の2つの問題が生じます」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「：成長企業ほど四半期ごとの業績水準が切り上がっていくため、直近本決算がどれだけ「新しいか」によってEBITDA水準が変わり、マルチプルも変わります」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「決算期ズレへの対応は、大きく3つの選択肢に整理できます」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+- 失敗・落とし穴：
+  - 「で解説）の代替として使う近似値である点には注意が必要です」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「業種に​よる​季節性が​ある​場合の​注意点」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「バリュエーションの​落とし穴20」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+  - 「注意点は3つ」（https://finance-rice-field.com/ltm-ebitda-calendarization）
+- 実例：
+  - 「国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
+
+## 公的統計の前処理の実務（秘匿値X・不詳・按分の向き・地域コードや区分の年ごとの対応表・総数との突合・加工の記録）を書く書き手と媒体（official statistics data cleaning suppressed cells classification change concordance table reconciliation to totals）
+- 文脈：統計
+- 手順・やり方：
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応」（https://data-viz-lab.com/census-data）
+  - 「本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングを進める6つのSTEP」（https://data-viz-lab.com/census-data）
+  - 「STEP1 利用目的と必要な集計単位の確定」（https://data-viz-lab.com/census-data）
+  - 「STEP2 元データの構造把握とヘッダー・階層の整形」（https://data-viz-lab.com/census-data）
+  - 「STEP3 表記の標準化：全角半角・数値型・文字コード」（https://data-viz-lab.com/census-data）
+  - 「STEP4 欠測・秘匿値・不詳の処理方針の決定」（https://data-viz-lab.com/census-data）
+  - 「STEP5 地域コードによる名寄せと他データとの結合」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます」（https://data-viz-lab.com/census-data）
+  - 「更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です」（https://data-viz-lab.com/census-data）
+  - 「APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります」（https://data-viz-lab.com/census-data）
+  - 「補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください」（https://data-viz-lab.com/census-data）
+  - 「Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます」（https://data-viz-lab.com/census-data）
+- 突き合わせ・推定：
+  - 「国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「BtoB企業：市場規模推計での按分処理の設計」（https://data-viz-lab.com/census-data）
+  - 「分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります」（https://data-viz-lab.com/census-data）
+  - 「商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください」（https://data-viz-lab.com/census-data）
+  - 「加工が終わったデータは、必ず元の統計表の総数と突き合わせます」（https://data-viz-lab.com/census-data）
+  - 「検証と並んで欠かせないのが、加工履歴の記録です」（https://data-viz-lab.com/census-data）
+  - 「細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります」（https://data-viz-lab.com/census-data）
+  - 「按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください」（https://data-viz-lab.com/census-data）
+  - 「経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます」（https://data-viz-lab.com/census-data）
+  - 「公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります」（https://data-viz-lab.com/census-data）
+  - 「残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します」（https://data-viz-lab.com/census-data）
+  - 「増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます」（https://data-viz-lab.com/census-data）
+- 一次情報の探し方：
+  - 「クレンジングでは、こうした公的統計特有の形式を分析可能な状態へ整えていきます」（https://data-viz-lab.com/census-data）
+  - 「少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります」（https://data-viz-lab.com/census-data）
+  - 「手元にダウンロード済みのファイルがある方は、実際の統計表と照らし合わせながら読み進めてください」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングとは：公的統計特有の前処理」（https://data-viz-lab.com/census-data）
+  - 「統計GIS境界データと結合する際のキー設計」（https://data-viz-lab.com/census-data）
+  - 「国勢調査の集計結果は、総務省統計局が」（https://data-viz-lab.com/census-data）
+  - 「統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます」（https://data-viz-lab.com/census-data）
+  - 「APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります」（https://data-viz-lab.com/census-data）
+  - 「配布される統計表は、印刷して人が読むことを前提に設計されています」（https://data-viz-lab.com/census-data）
+  - 「業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします」（https://data-viz-lab.com/census-data）
+  - 「分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです」（https://data-viz-lab.com/census-data）
+  - 「一方の統計表は、年齢階級や男女が列方向に展開された横持ちの形をとっているため、そのまま接続すると列数だけが増えて集計軸を作れません」（https://data-viz-lab.com/census-data）
+  - 「この4列さえ決めておけば、統計表が変わっても同じ処理を流用できます」（https://data-viz-lab.com/census-data）
+  - 「工数の目安は統計表1枚あたり30分から2時間程度で、10枚を扱う案件なら1人日から2人日を見込んでください」（https://data-viz-lab.com/census-data）
+  - 「2015年と2020年で同じ名称の統計表を使っていても、集計の定義が更新されている場合があるのです」（https://data-viz-lab.com/census-data）
+- 失敗・落とし穴：
+  - 「少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングでよくある失敗パターン」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「順番には意味があり、標準化を終える前に名寄せへ進むと、後述する典型的な失敗を踏むことになってしまうでしょう」（https://data-viz-lab.com/census-data）
+  - 「カンマと空白を除去したうえで数値型へ変換し、変換に失敗した値は削除せず別列へ退避させます」（https://data-viz-lab.com/census-data）
+  - 「符号を一律に0へ置き換える処理は、最も頻度が高く、最も影響の大きい誤りになります」（https://data-viz-lab.com/census-data）
+  - 「許容できる差はゼロが原則で、1人でもずれていれば処理のどこかに誤りがあると考えてください」（https://data-viz-lab.com/census-data）
+  - 「判別作業は、数値変換に失敗した値の一覧を作るところから始めます」（https://data-viz-lab.com/census-data）
+  - 「「総数」「男」「女」が縦に並ぶ形式のまま合計すると、人口が実際の2倍になるという、発見が遅れがちな誤りが生まれるのです」（https://data-viz-lab.com/census-data）
+  - 「名称が同じであることを理由にそのまま比較へ進むと、解釈を誤ります」（https://data-viz-lab.com/census-data）
+  - 「結合時に注意したいのが、境界データと属性データの調査年をそろえる点です」（https://data-viz-lab.com/census-data）
+  - 「ここでは、実務の現場で繰り返し目にする失敗を5つ取り上げます」（https://data-viz-lab.com/census-data）
+  - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）
+  - 「最も頻度が高い失敗が、伏せられた値を0として集計してしまうケースです」（https://data-viz-lab.com/census-data）
+  - 「順序を守るだけで、失敗パターンの大半は回避できます」（https://data-viz-lab.com/census-data）
+- 実例：
+  - 「国勢調査の集計結果は、総務省統計局が」（https://data-viz-lab.com/census-data）
+  - 「ダウンロードしたCSVは、文字コードがShift_JISになっているケースが多数です」（https://data-viz-lab.com/census-data）
+  - 「を、単なる空欄や0と同一視すると、集計結果は静かに壊れます」（https://data-viz-lab.com/census-data）
+  - 「業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします」（https://data-viz-lab.com/census-data）
+  - 「Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます」（https://data-viz-lab.com/census-data）
+  - 「点検結果はスプレッドシートへ調査年別で記録し、比較可能と判断した根拠まで残しておくと、レビュー時の説明が容易です」（https://data-viz-lab.com/census-data）
+  - 「担当者が異動した時点で、分析そのものが止まってしまう事例も少なくありません」（https://data-viz-lab.com/census-data）
+  - 「初回の実装には市区町村単位で3人日から5人日程度かかりますが、2回目以降の更新は1時間以内に短縮できるケースが大半です」（https://data-viz-lab.com/census-data）
+  - 「世帯数が少ない区分では該当する値が公表されないため、詳細な属性ほど空白が目立つ結果になるのです」（https://data-viz-lab.com/census-data）
+  - 「確認結果は表ごとにメモへ残し、読み込み処理の引数として外出ししておくと保守が楽になります」（https://data-viz-lab.com/census-data）
+  - 「分類の結果は符号ごとの件数として集計し、全体に占める割合を把握してから方針を決めてください」（https://data-viz-lab.com/census-data）
+  - 「記録の粒度は、担当者以外が同じ結果を再現できるかどうかを基準に決めてください」（https://data-viz-lab.com/census-data）
+  - 「再現できない加工は分析結果の信頼性を担保できないため、成果物としては未完成の状態です」（https://data-viz-lab.com/census-data）
+  - 「いずれも、発生してから直すより設計段階で防ぐほうが、結果として工数を抑えられるのです」（https://data-viz-lab.com/census-data）
+  - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）

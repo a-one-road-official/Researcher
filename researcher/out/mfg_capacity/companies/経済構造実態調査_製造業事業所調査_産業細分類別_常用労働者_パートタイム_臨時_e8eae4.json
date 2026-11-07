@@ -1,0 +1,458 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+ "en": "Japan Economic Structure Survey manufacturing establishment detailed industry regular employees part-time breakdown national",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業細分類 常用労働者 パートタイム site:meti.go.jp",
+  "工業統計表 産業別統計表 従業者 内訳 パート 細分類 filetype:xlsx",
+  "e-Stat 工業統計 従業者 雇用形態別 産業細分類 -県"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T10:53:25.159909+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/170-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000451128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_97493.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinjigate.jp/topics/detail/id=11176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035169",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_full_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2406/25/news002_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/170-1b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/7451/employment-in-japan/?srsltid=AYCX9vLTCYHXCJ_XW0VL0DFQhx5vcAm1ZmN4j8x45i2itao8yvJVPImV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.mhlw.go.jp/toukei/list/170-1d.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "https://www.soumu.go.jp/main_content/000451128.pdf",
+    "https://www.mh5.jp/announce_97493.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/data/koyou/jouken/r7",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 受注残 人手不足",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://jinjigate.jp/topics/detail/id=11176"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035169",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2025.pdf",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/25/news002_2.html",
+    "https://www.mhlw.go.jp/toukei/list/170-1b.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.mhlw.go.jp/toukei/list/170-1b.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html"
+   ]
+  },
+  {
+   "query": "Japan Economic Structure Survey manufacturing establishment detailed industry regular employees part-time breakdown national Japan statistics",
+   "results": [
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.stat.go.jp/english/",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.statista.com/topics/7451/employment-in-japan/?srsltid=AYCX9vLTCYHXCJ_XW0VL0DFQhx5vcAm1ZmN4j8x45i2itao8yvJVPImV",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.jil.go.jp/profile/documents/Adhikari.pdf",
+    "https://tradingeconomics.com/japan/full-time-employment",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+   "results": [
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/ogawa_tech/n/n40b30ad43d16",
+    "https://note.com/ogawa_tech/n/nb9c64341cf84",
+    "https://note.com/areaia/n/nf0b05f44550e",
+    "https://note.com/areaia/n/n00b34ef7552e",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://note.com/areaia/n/n1b33b46a47af",
+    "https://note.com/areaia/n/nc7bdd620a888"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2100404370546303364",
+    "https://jf.x.com/images/media-preview/2110030252194046203",
+    "https://x.com/m_takaharasan/status/2092149946682376642",
+    "https://x.com/OgawaSeisakusho/status/2035498399634710822",
+    "https://x.com/PD_Takayama/status/2110526123335672192",
+    "https://x.com/shoutengai/status/2046712457952190557",
+    "https://x.com/OgawaSeisakusho/status/2029665338342920646"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+   "results": [
+    "https://pulse.linkedin.com/",
+    "https://www.linkedin.com/insights/",
+    "https://www.linkedin.com/pulse/how-much-linkedin-premium-2025-full-pricing-guide-features-hayat-phqsf",
+    "https://in.linkedin.com/company/linkedin/jobs",
+    "https://gb.linkedin.com/",
+    "https://jp.linkedin.com/pulse/journey-contingent-workforce-program-maturity-part-6-pelletier?tl=ja",
+    "https://jp.linkedin.com/pulse/臨時労働市場の未来2026年から2033年までの構造的洞察とcagr予測-polycore-market-research-xqbde"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78）",
+   "results": [
+    "https://graph.facebook.com/v2.8/10223479830609262/picture/",
+    "https://www.facebook.com/EasyWsdl/",
+    "https://www.facebook.com/deedeewithers/",
+    "https://www.facebook.com/megumi.ueda.714/videos/おはようございます昨日は急な臨時休業でした今日はランチタイムより元気にopenです️明日のディナータイムはお休みとさせていただきます雨が続いていますねこれ以上色/4069585873343902/",
+    "https://www.facebook.com/sharoushi.river/posts/1335160631984097/",
+    "https://www.facebook.com/zentekkin/photos/このような調査が全国に広がることに期待する-建設通信新聞横浜市労務費ダンピングを調査26年度から-改正入契法基づき対応-横浜市は１２月１２日に全面施行する改正公/1194298186131056/",
+    "https://www.facebook.com/scianto.Ryo/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.zeem.jp/useful/column/fact_finding_survey_part/",
+    "https://shokosoken.or.jp/paper/theme/2017/201702.html",
+    "https://www.mhlw.go.jp/toukei/list/170-1d.html",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 産業細分類別 常用労働者・パートタイム・臨時の内訳（全国・2464 電気めっき業・表の番号つき・県の統計を除く・4-78） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.mhlw.go.jp/toukei/list/170-1d.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://www.stat.go.jp/data/kkj/form.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0"
+   ]
+  },
+  {
+   "query": "Japan Economic Structure Survey manufacturing establishment detailed industry regular employees part-time breakdown national site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/company/office-for-national-statistics",
+    "https://uk.linkedin.com/in/liz-mckeown-56219371",
+    "https://www.linkedin.com/company/national-science-foundation",
+    "https://www.linkedin.com/company/us-census-bureau",
+    "https://www.linkedin.com/company/noaa",
+    "https://www.linkedin.com/company/niimbl-the-national-institute-for-innovation-in-manufacturing-biopharmaceuticals",
+    "https://www.linkedin.com/company/city-of-tacoma",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://uk.linkedin.com/in/james-benford-1801b25a"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ36頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ36頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ36頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ36頁・検索18回）",
+  "10年推移": "記載なし（読んだ36頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索18回）"
+ }
+}

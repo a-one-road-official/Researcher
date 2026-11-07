@@ -1,0 +1,791 @@
+{
+ "name": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+ "en": "Japan Economic Census for Business Activity 2021 metal surface treatment regular temporary employees",
+ "aliases": [
+  "経済センサス 活動調査 金属表面処理業 常用雇用者 臨時雇用者",
+  "経済センサス 産業小分類 246 雇用者 内訳",
+  "e-Stat 経済センサス 製造業 常用雇用者 パート"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T10:53:25.323682+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 「娯楽業」における産業小分類別事業所数、売上高及び年間入場者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「年間入場者１人当たり売上高」 、 「年間入場者数」及び「１事業所当た",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 産業小分類別に受講生数（会員数）（※）をみると、「その他の教養・技能教授業」が312",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－５ 「学習塾」及び「教養・技能教授業」における産業小分類別事業所数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「受講生１人当たり売上高」 、 「受講生数（会員数） 」及び「１事業所当",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「受講生数（会員数） 」は2020年12月31日現在の受講生数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "Ⅱ 特定のサービス業の状況（個人経営を除く） ............................... ３",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専門・技術サービス業」 が168万３千人、「宿泊業， 飲食サービス業」 が385万２千人、「生活関",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連サービス業， 娯楽業」 が185万５千人、「教育， 学習支援業」 が67万７千人、「サービス業 （他",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類されないもの） 」が405万４千人となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「 （参考）15歳以上 （有配偶以外） 人口構成比」は令和２年国勢調査の結果 （2020年10月１日現在の数値） を用いている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）15歳以上（有配偶以外）人口構成比",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２： 「15歳以上（有配偶以外）人口構成比 」は令和２年国勢調査の結果（2020年10月１日現在の数値）を用いてい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 産業小分類別に年間入場者数（※）をみると、「フィットネスクラブ」が１億8515万人と",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最も多く、次いで「スポーツ施設提供業（別掲を除く） 」が１億1002万人、 「映画館」が",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１億255万人などとなっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "・ 売上（収入）金額等の経理事項は2020年１年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆378億円、「学術研究， 専門 ・ 技術サービス業」 が46兆3668億円、「宿泊業， 飲食サービス業」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が18兆9824億円、「生活関連サービス業， 娯楽業」 が29兆7551億円、「教育， 学習支援業」 が３",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆5769億円、「サービス業（他に分類されないもの） 」が41兆4390億円となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業分類別売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 産業小分類別に年間入場者（※）１人当たり売上高をみると、「興行場 （別掲を除く） ， 興",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行団」が２万円と最も多く、次いで「ゴルフ場」が１万２千円、 「ボウリング場」が５千",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 「娯楽業」における産業小分類別事業所数、売上高及び年間入場者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「１事業所当たり売上高」 、 「年間入場者１人当たり売上高」 、 「年間入場者数」及び「１事業所当た",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "行団」が２万円と最も多く、次いで「ゴルフ場」が１万２千円、 「ボウリング場」が５千",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1) 概要 事業所数、従業者数、製造品出荷額等及び付加価値額等の主要な事項について、産業（中分類）別に表章 2022年９月30日",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "・ 売上（収入）金額等の経理事項は2020年１年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なることから、時系列比較を行う際は、十分に留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/hotei.pdf",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/otherwiseclassified.pdf",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、雇用者の内訳については、時系列比較を行うことはできない",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "集計結果の時系列比較を行う際は、十分に留意が必要である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年（令和２年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 （令和２年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「 （参考）15歳以上 （有配偶以外） 人口構成比」は令和２年国勢調査の結果 （2020年10月１日現在の数値） を用いている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２： 「15歳以上（有配偶以外）人口構成比 」は令和２年国勢調査の結果（2020年10月１日現在の数値）を用いてい",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「受講生数（会員数） 」は2020年12月31日現在の受講生数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の売上（収入）金額や主な事業の種類（原則として2020年１年間の収入額又は販売額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原則として2020年１年間の商品等の販売額又は役務の提供によって実現した売上高、営業収",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下の各サービス業における2020年１月１日から2020年12月31日までの１年間の取扱件数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003406576",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/241092.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sakai.lg.jp/shisei/tokei/tokeisho/jigyousyo/75391620240411115847101.files/8-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.chino.lg.jp/soshiki/kikakuzaisei/keizai03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004003248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,79208,c,html/79208/1kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/38515.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/census-kouzou-annai-syoten-2021.9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145668&tclass3=000001161869&tclass4=000001161886&tclass5val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makusho.jp/wp-content/uploads/2025/01/%E8%A3%BD%E9%80%A0%E6%A5%AD.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&statdisp_id=0004005684&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2021/pdf/notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/12/oecd-economic-surveys-japan-2021_1579e783/6b749602-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003406576",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/241092.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003406576",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.city.sakai.lg.jp/shisei/tokei/tokeisho/jigyousyo/75391620240411115847101.files/8-3.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "https://www.city.chino.lg.jp/soshiki/kikakuzaisei/keizai03.html",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004003248",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003406576",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,79208,c,html/79208/1kougyou.pdf",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/241092.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/38515.pdf",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,79208,c,html/79208/1kougyou.pdf",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "http://www.etisa.or.jp/census-kouzou-annai-syoten-2021.9.pdf",
+    "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955/resource/5f631815-08dd-4ecc-baf7-50cb8d0c7dcb",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145668&tclass3=000001161869&tclass4=000001161886&tclass5val=0",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145668&tclass3=000001161869&tclass4=000001161886&tclass5val=0",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&alpha=6&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001062978&layout=datalist&tclass4val=0"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.makusho.jp/wp-content/uploads/2025/01/%E8%A3%BD%E9%80%A0%E6%A5%AD.pdf",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html"
+   ]
+  },
+  {
+   "query": "Japan Economic Census for Business Activity 2021 metal surface treatment regular temporary employees Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&statdisp_id=0004005684&tclass4val=0",
+    "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/2021/pdf/notice.pdf",
+    "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/12/oecd-economic-surveys-japan-2021_1579e783/6b749602-en.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.stat.go.jp/english/info/news/20220630.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?tstat=000001145590"
+   ]
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+   "results": [
+    "https://note.com/toshiyamiyazaki/n/n8ee2b8c6b88a",
+    "https://note.com/hashtag/経済センサス",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/toshiyamiyazaki/n/na612f0f96926",
+    "https://note.com/toshiyamiyazaki/n/n74a80ef28f34",
+    "https://note.com/at_consulting18/n/nb1bfe4b1b017",
+    "https://note.com/at_consulting18/n/nf47674263cb5"
+   ]
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+   "results": [
+    "https://x.com/Kyoto_Stat/status/1582520991095586821",
+    "https://x.com/MIC_soudan/status/2054003627329831245",
+    "https://jf.x.com/images/media-preview/2116496294017634642",
+    "https://jf.x.com/images/media-preview/2113238596891378149",
+    "https://x.com/city_ota/status/2068853977526186000",
+    "https://x.com/ecensus2026",
+    "https://x.com/gamanoabura_nsb/status/2054157157550166335"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+   "results": [
+    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA",
+    "https://jp.linkedin.com/posts/takaratomy_サステナビリティcsr活動-new特集ページ-社員がイキイキワクワク-activity-7145623054155407360-5gca",
+    "https://www.linkedin.com/jobs/vice-president-hotel-operations-jobs",
+    "https://jp.linkedin.com/posts/sakuraitakuya_横浜denaベイスターズが26年ぶりに日本一となったことで全国の経済波及効果は約-activity-7277481537720238080-XILi",
+    "https://jp.linkedin.com/pulse/when-freelancing-gig-work-temp-jobs-merge-billy-mountjoy?tl=ja",
+    "https://jp.linkedin.com/pulse/リンクトイン独自調査データが語る今働きたい会社トップ25-linkedin-news-japan",
+    "https://jp.linkedin.com/pulse/future-jobs-insights-from-world-economic-forums-2025-report-pandey-tqtkc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79）",
+   "results": [
+    "https://www.facebook.com/sakatacity/posts/国の統計調査経済センサスでわかること①事業所と従業者経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決まっています全国すべ/1380103194145753/",
+    "https://www.facebook.com/nagasakitokei/photos/令和3年経済センサス-活動調査を実施中です全ての事業所企業のみなさまにおかれてはお知らせした期限までにご回答いただきますよう何卒ご協力をお願いいたします経済セン/2956434681289970/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/sakatacity/posts/国の基幹統計-経済センサスでわかること③山形県で一番従業者数の多い業種経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決ま/1384152953740777/",
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑を公開しました経済センサス活動調査のデータをもとに都道府県ごとの従業者数ラン/122133293493121431/",
+    "https://www.facebook.com/sakatacity/photos/a.454875607922982/4091953530881820/"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/yougo/d05.html",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類 246 金属表面処理業 常用雇用者・臨時雇用者の内訳（全国・e-Stat の表・2464 の常用とパートの切り分けの別の統計・4-78・4-79） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003406576",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.pref.miyagi.jp/documents/27347/696432.pdf",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://data.city.fukuyama.hiroshima.jp/is/dataset/f0312151-c7da-46f8-ad44-7f2fe388e609/resource/810e7c9f-7b28-4395-9eca-e88328271681?inner_span=True&activity_id=c4f97e87-cc1d-49c7-b233-bdc2cc661c77"
+   ]
+  },
+  {
+   "query": "Japan Economic Census for Business Activity 2021 metal surface treatment regular temporary employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/thomas-kevin-swift-3a476121",
+    "https://www.linkedin.com/in/yasha-spriha-0a4916a6",
+    "https://www.linkedin.com/in/pian-chen-8813ba11",
+    "https://www.linkedin.com/in/jkevinscott",
+    "https://www.linkedin.com/in/dani-johnson",
+    "https://www.linkedin.com/in/neilsterud",
+    "https://www.linkedin.com/in/steve-consiglio-9592a22",
+    "https://www.linkedin.com/in/kevinmeadowswv",
+    "https://www.linkedin.com/in/arun-asok",
+    "https://www.linkedin.com/in/andreaamendola"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ40頁・検索18回）"
+ }
+}

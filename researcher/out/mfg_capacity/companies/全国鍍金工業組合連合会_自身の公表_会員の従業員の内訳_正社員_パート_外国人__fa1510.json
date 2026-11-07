@@ -1,0 +1,551 @@
+{
+ "name": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+ "en": "Japan Plating Industry Association member survey employees part-time share",
+ "aliases": [
+  "全国鍍金工業組合連合会 実態調査 従業員 パート",
+  "めっき業 実態調査 報告書 従業員数 雇用形態"
+ ],
+ "context": "業界団体",
+ "kind": "market",
+ "researched_at": "2026-11-07T10:53:17.920744+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rengo-soken.or.jp/work/%E3%80%90%E5%88%A5%E6%8E%B2%E8%B3%87%E6%96%99%E3%80%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E3%80%8C%E5%83%8D%E3%81%8D%E3%81%8C%E3%81%84%E3%80%8D%E3%81%AE%E3%81%82%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kawasaki-cci.or.jp/wp-content/uploads/2025/07/%E3%80%90%E6%9C%80%E7%B5%82%E7%89%88%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%BF%E6%9C%AC%E6%96%870725.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://error.fc2.com/blog3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wfp.org/stories/shangjiwochengriyueete?source=post_page-----b0273c31cb8a--------------------------------",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/54a9154a8fe741c4a2d3f6f6f359ffb5/260519_%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB(2026%E5%B9%B44%E6%9C%88).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.maido.or.jp/wp/wp-content/uploads/2024/08/d9f655a87872479dbc7666c467eb1eca.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://usa.yoshimura-sr.com/index.php?%E6%96%B0%E7%9D%80%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.smm.co.jp/ir/library/integrated_report/pdf/2023/2023_All.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-holdings.co.jp/common/pdf/investor/library/group-report/2025/all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903434.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=w1yCkVC3UVY%3D&tabid=143&mid=1060",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jassa.or.jp/wp-content/uploads/2025/03/information_market_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web-archive.oecd.org/pdfViewer?path=%2F2014-02-28%2F245227-16072013EmploymentOutlook2013-japanese.pdf",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11300000/001124694.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gcaj.or.jp/cms/wp-content/uploads/2026/10/37821047dede6fb18e5adcc791b980ad.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukuoka.lg.jp/uploaded/life/720824_62072440_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/zentoren/kaiin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gyoshuB.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/28census/documents/h28chosakekka_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2019/09seisakukadai18-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/06/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://public-connect.jp/employer/news/**",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2009/02/p036-037.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jassa.or.jp/wp-content/uploads/2025/04/information_market_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/jpsed_tyousahyou2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/pdf/202106sankou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903448.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jassa.or.jp/en/know/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11620471/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/222904967_Part-time_Workers_Doing_Full-time_Work_in_Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/reports/documents/jilpt-reports/no.10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.rengo-soken.or.jp/work/%E3%80%90%E5%88%A5%E6%8E%B2%E8%B3%87%E6%96%99%E3%80%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E3%80%8C%E5%83%8D%E3%81%8D%E3%81%8C%E3%81%84%E3%80%8D%E3%81%AE%E3%81%82%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AB.pdf",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.kawasaki-cci.or.jp/wp-content/uploads/2025/07/%E3%80%90%E6%9C%80%E7%B5%82%E7%89%88%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%BF%E6%9C%AC%E6%96%870725.pdf",
+    "https://news.kobekeizai.jp/tb.php/17827-bf004935",
+    "https://ja.news.wfp.org/18-41-b0273c31cb8a?source=post_page-----b0273c31cb8a--------------------------------",
+    "https://www.topics.or.jp/ud/pressrelease/6ac843c412621795fc000001",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://www.criser.jp/files/2023/2019report_monodukuri.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/54a9154a8fe741c4a2d3f6f6f359ffb5/260519_%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB(2026%E5%B9%B44%E6%9C%88).pdf",
+    "https://www.youtube.com/watch?v=QN0qOkc0VHI",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.rengo-soken.or.jp/work/%E3%80%90%E5%88%A5%E6%8E%B2%E8%B3%87%E6%96%99%E3%80%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E3%80%8C%E5%83%8D%E3%81%8D%E3%81%8C%E3%81%84%E3%80%8D%E3%81%AE%E3%81%82%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AB.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.maido.or.jp/wp/wp-content/uploads/2024/08/d9f655a87872479dbc7666c467eb1eca.pdf",
+    "http://usa.yoshimura-sr.com/index.php?%E6%96%B0%E7%9D%80%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.maido.or.jp/wp/wp-content/uploads/2024/08/d9f655a87872479dbc7666c467eb1eca.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.smm.co.jp/ir/library/integrated_report/pdf/2023/2023_All.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_all.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jfe-holdings.co.jp/common/pdf/investor/library/group-report/2025/all.pdf"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903434.html",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=w1yCkVC3UVY%3D&tabid=143&mid=1060",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.maido.or.jp/wp/wp-content/uploads/2024/08/d9f655a87872479dbc7666c467eb1eca.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "https://www.jassa.or.jp/wp-content/uploads/2025/03/information_market_03.pdf",
+    "https://web-archive.oecd.org/pdfViewer?path=%2F2014-02-28%2F245227-16072013EmploymentOutlook2013-japanese.pdf",
+    "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "https://www.rengo-soken.or.jp/work/%E3%80%90%E5%88%A5%E6%8E%B2%E8%B3%87%E6%96%99%E3%80%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E3%80%8C%E5%83%8D%E3%81%8D%E3%81%8C%E3%81%84%E3%80%8D%E3%81%AE%E3%81%82%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AB.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903434.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "https://www.mhlw.go.jp/content/11300000/001124694.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.gcaj.or.jp/cms/wp-content/uploads/2026/10/37821047dede6fb18e5adcc791b980ad.pdf",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/720824_62072440_misc.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://zentoren.or.jp/zentoren/kaiin.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000334.html",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou30-06-full-listm/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/28census/documents/h28chosakekka_gaiyo.pdf",
+    "https://www5.cao.go.jp/keizai3/2019/09seisakukadai18-6.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://www.city.fujisawa.kanagawa.jp/documents/11782/20260925101755.pdf"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201606004501_11.pdf",
+    "http://usa.yoshimura-sr.com/index.php?%E6%96%B0%E7%9D%80%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2024/06/c_01.html",
+    "https://www.youtube.com/watch?v=72Mr90bLnBY",
+    "https://public-connect.jp/employer/news/**",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/720824_62072440_misc.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） 2015 2025",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.mhlw.go.jp/content/11650000/001551388.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2009/02/p036-037.pdf",
+    "https://www.jassa.or.jp/wp-content/uploads/2025/04/information_market_04.pdf",
+    "https://www.works-i.com/surveys/item/jpsed_tyousahyou2025.pdf",
+    "https://www.moj.go.jp/isa/content/001351670.pdf",
+    "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/pdf/202106sankou.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl4903448.html",
+    "https://www.fmltd.co.jp/news/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9B%87%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "Japan Plating Industry Association member survey employees part-time share Japan statistics",
+   "results": [
+    "https://www.jassa.or.jp/en/know/data/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11620471/",
+    "https://www.researchgate.net/publication/222904967_Part-time_Workers_Doing_Full-time_Work_in_Japan",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.jil.go.jp/english/reports/documents/jilpt-reports/no.10.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://www.nippon.com/en/articles/-/18562",
+    "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "https://www.facebook.com/japandailydotjp/posts/the-survey-also-indicated-that-these-employees-often-spend-their-time-taking-bre/1285074490328869/",
+    "https://zentoren.or.jp/en/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+   "results": [
+    "https://note.com/dakudhigura/n/nde98fc386876",
+    "https://note.com/assist_you/n/n615e98a46902",
+    "https://note.com/serene_sloth5285/n/n5393cb71d9b6",
+    "https://note.com/sharoushisignal/n/n5b3dcecf28d5",
+    "https://note.com/shinkin_ai/n/n936be826b6ef",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/chusho_yosuke/n/n09acb64bc9fb",
+    "https://note.com/toaru_/n/n99badf3f9aaa"
+   ]
+  },
+  {
+   "query": "site:x.com 全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+   "results": [
+    "https://x.com/zentoren/status/2117850049938096168",
+    "https://x.com/xHwQ4lL2N861971/status/2044257157181477217",
+    "https://x.com/suzuki_asia/status/2100004764956397640",
+    "https://x.com/uriDJaOY7Z24736/status/2091534032781873277",
+    "https://x.com/chitosemidori1/status/2029560645067399610",
+    "https://x.com/SymbolAgent/status/2113793023595491450",
+    "https://x.com/NASP250/status/2110846830854779289"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+   "results": [
+    "https://www.linkedin.com/accountcenter/",
+    "https://jp.linkedin.com/",
+    "https://jp.linkedin.com/in/hiro-take-7b7687380",
+    "https://www.linkedin.com/pulse/linkedin-stats-2026-updated-joe-apfelbaum-sfxte",
+    "https://www.linkedin.com/company/kroll/",
+    "https://jp.linkedin.com/in/安亮-弘田-046126380",
+    "https://jp.linkedin.com/posts/泰佑-星野-343884283_近況報告させていただきます社員が増えてますます楽しくなってきました-最後-activity-7471481456041766912-65xC"
+   ]
+  },
+  {
+   "query": "site:facebook.com 全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78）",
+   "results": [
+    "https://www.facebook.com/SankeiShimbun/posts/政府が外国人政策の進捗公表103件の施策のうち医療費の不払い歴がある外国人が来日する際の入国審査を厳格化したほかいわゆる白タク行為の取り締まりを強化するなどした/1513735244125148/",
+    "https://www.facebook.com/zentekkin/photos/改正建設業法により様々な角度で変革が起きている-建設通信新聞-労務費など内訳明示市場単価把握に課題も長野県長野県は１２月１６日長野市内で地域を支える建設業検討会/1205046381722903/",
+    "https://www.facebook.com/reel/931151475659913/",
+    "https://www.facebook.com/zentekkin/posts/下請け企業は見積書を出す習慣を-建設工業新聞国交省労務費内訳明示の見積書書き方ガイドと様式例作成中小下請にも普及促す-国土交通省は改正建設業法に基づく労務費や必/1184102750483933/",
+    "https://www.facebook.com/lcgjapan/photos/本日415更新されたコンテンツリーフレット一覧令和8年度-働き方改革推進支援助成金webカレッジ月刊-宮武貴美2026年10月から開始従業員の負担軽減社会保険料/1447217673866707/",
+    "https://www.facebook.com/100057362871858/photos/一社日本ばね工業会西部支部の年次大会で社員4名が表彰を受けましたおめでとうございます内訳は優良従業員表彰2名優良ばね製造技能者表彰プラチナ賞3名と金賞1名です重/1491245489464199/",
+    "https://www.facebook.com/tabatadojo.kyokushin/posts/全国からご参集頂いた正会員審判員の皆様皆様を誇りに思います衷心より衷心より感謝を申し上げますありがとうございました/1606367464855680/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） note 社長",
+   "results": [
+    "https://www.rengo-soken.or.jp/work/%E3%80%90%E5%88%A5%E6%8E%B2%E8%B3%87%E6%96%99%E3%80%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E3%80%8C%E5%83%8D%E3%81%8D%E3%81%8C%E3%81%84%E3%80%8D%E3%81%AE%E3%81%82%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AB.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.nipponsteel.com/ir/library/pdf/nsc_jp_ir_2026_all_interactive.pdf",
+    "https://group.nec/assets/global/ja/about/sustainability/pdf/2021-report.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2209.pdf",
+    "https://www.daihatsu.com/jp/csr/report/lhbm9a0000000l2u-att/daihatsu_sr2025_printing_jp.pdf",
+    "https://www.jp.nikon.com/company/sustainability/report/2011/csr-glossary2011.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 自身の公表 会員の従業員の内訳（正社員・パート・外国人）と1社の人数の調査の年（団体のドメインで・会員だけの数・4-15・4-78） X 投稿",
+   "results": [
+    "https://zentoren.or.jp/",
+    "https://www.mhlw.go.jp/stf/newpage_61317.html",
+    "https://public-connect.jp/employer/news/**",
+    "https://www.youtube.com/watch?v=72Mr90bLnBY",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://files.microcms-assets.io/assets/c738313b23694496a93f61c6c1bdafb0/2fdc432ea53943efb830e39322de265a/260115.pdf",
+    "https://www.topics.or.jp/ud/pressrelease/6aed3cec126217ded4000000",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "Japan Plating Industry Association member survey employees part-time share site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/american-coatings-association",
+    "https://www.linkedin.com/company/am_bayarea",
+    "https://www.linkedin.com/posts/jaytimmons_great-to-join-cheryl-casone-on-fox-business-activity-7508131402362658816-KpxO",
+    "https://www.linkedin.com/in/dalewatkinssheffieldplaters",
+    "https://www.linkedin.com/company/champion-painting-&-specialty-services",
+    "https://www.linkedin.com/in/tonyafarmer1cmp",
+    "https://www.linkedin.com/company/products-finishing",
+    "https://www.linkedin.com/in/josephkdavenport",
+    "https://www.linkedin.com/in/miles-free-44a9038",
+    "https://uk.linkedin.com/company/riggott-&-co-limited"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ54頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ54頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ54頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ54頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ54頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ54頁・検索18回）",
+  "10年推移": "記載なし（読んだ54頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ54頁・検索18回）"
+ }
+}
