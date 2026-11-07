@@ -6662,25 +6662,85 @@
 
 ## 経済構造実態調査（政府統計コード00200608）製造業事業所調査 2022年・2023年の e-Stat データベースの表（産業細分類×従業者規模・電気めっき2464・金属熱処理2465・製缶板金2446・金属用金型2691・3回目の取り直しはコードと表番号で・4-30・4-53）（Economic Structure Survey statistics code 00200608 manufacturing establishment survey e-Stat database 4-digit industry by employee size）
 - 文脈：一次・切れ目の後
-- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
-- 事業所数・社数：記載なし（読んだ15頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ15頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ15頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
-- 生産能力・設備：記載なし（読んだ15頁・検索18回）
-- 10年推移：記載なし（読んだ15頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ21頁・検索18回）
+- 事業所数・社数：記載なし（読んだ21頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索18回）
+- 生産能力・設備：記載なし（読んだ21頁・検索18回）
+- 10年推移：記載なし（読んだ21頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索18回）
 
 ## 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）（Japan census of manufacture 2019 all 4-digit industries metal products per-employee shipments table）
 - 文脈：一次・比較の相手
-- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
-- 事業所数・社数：記載なし（読んだ55頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
-- 生産能力・設備：記載なし（読んだ55頁・検索18回）
-- 10年推移：記載なし（読んだ55頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模（3区分）別、産業中分類及び行政区別結果表」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模（6区分）別、産業中分類別結果表」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類・行政区別、従業者規模（10区分）別結果表」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模（3区分）別、産業中分類及び行政区別結果表 －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類・行政区別、従業者規模（10区分）別結果表 －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 社員数・平均社員数：
+  - 「産業細分類別結果表（従業者４人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類・行政区別結果表（従業者３０人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「調査票 甲（従業者30人以上の事業所用）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「調査票 乙（従業者29人以下の事業所用）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業細分類別結果表（従業者4人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「国勢統計区別結果表（従業者4人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類・行政区別結果表（従業者30人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者30人以上の事業所結果表 －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 受注金額・加工賃収入：
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（全事業所：平成20年・17年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成20年・19年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成19年・18年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成18年・17年比較） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（全事業所：平成17年・15年比較） －京都市、合併前の京都市及び京北町－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成17年・16年比較） －京都市、合併前の京都市及び京北町－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模（5区分）、産業（中分類）別事業所数、従業者数及び製造品出荷額等」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「従業者規模（10区分）別事業所数、従業者数及び製造品出荷額等」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）、行政区別1事業所当たり及び従業者1人当たり製造品出荷額等（従業者30人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 1人あたり・1社あたり金額：
+  - 「1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）、行政区別1事業所当たり及び従業者1人当たり製造品出荷額等（従業者30人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（細分類）別事業所数、従業者数、製造品出荷額等及び粗付加価値額（従業者4人以上の事業所）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 生産能力・設備：
+  - 「産業（中分類）、行政区別有形固定資産、リース契約額等（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「産業（中分類）、行政区別有形固定資産（従業者30人以上の事業所） －行政区－」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 10年推移：
+  - 「令和3(2021)年 経済センサス－活動調査（製造業）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「2020年 工業統計調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「2019年 工業統計調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「平成30(2018)年 工業統計調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「平成29(2017)年 工業統計調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「平成28(2016)年 経済センサス－活動調査（製造業）」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「工業統計調査は、2020年調査をもって終了しました」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「翌年実施の令和3（2021）年経済センサス-活動調査における「製造業に関する集計」にて、従来の工業統計調査に近い結果が公表され、それをもって従来の方式による公表は最後となります」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「令和4(2022)年以降の工業（製造業）結果は」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「2021年工業統計調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「「2021年工業統計調査」は、「令和3(2021)年経済センサス－活動調査」の中で必要事項が把握されたため実施されませんでした」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「令和3(2021)年経済センサス－活動調査」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「2020年 工業統計調査結果」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「統計解析シリーズNo.129 2020年工業統計調査の集計結果」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+  - 「2019年 工業統計調査結果」（https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/）
+- 痛み・損（深さの印）：記載なし（読んだ22頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ22頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

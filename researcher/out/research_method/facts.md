@@ -2159,11 +2159,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -4249,8 +4249,8 @@
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
   - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -5230,11 +5230,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -5851,7 +5851,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -6063,52 +6063,62 @@
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
 - 手順・やり方：
-  - 「statistics on how to interpret the results of a revision analys es for economic variable s」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「this document for other sophisticated / specific user methods.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「aware of changes to compilation methods that may have occurred over time to the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3 The task-force has made recommendations on how to build a database of „real-time‟ data required for」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「expect a non-zero mean revision, such as the impact of methodological or definitional changes which may」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「iii) The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「ABS Data Quality Framework」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
-  - 「Australian System of National Accounts: Concepts, Sources and Methods」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
+  - 「Topic 4 Revisions Analysis | Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Significant methodological changes, such as classification amendments or base year changes, result in revisions」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「addressing various methodological aspects of STS. The first section reviews past evidence on revisions to STS」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「(routine revisions), however methodological changes can also cause data revisions with later data releases. Please」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「• Methodological changes and changes of the reference and base year introducemain revisionsthat may be」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「Methodological changes」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「Methodological changes, including changes of definitions and classifications, are important reasons for major」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「In February 2012 the European Statistical System Committee (ESSC) approved guidelines on how to deal with the」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「corrected immediately. Users will be informed about forthcoming major revisions (e.g. due to methodological」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「methodological changes, for example changes of classifications or the base year understandably introduce」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「• Methodology of short-term business statistics – interpretation and guidelines」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「• Methodology of short-term business statistics – associated documents」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
 - 突き合わせ・推定：
-  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.6 What is the average size of revision relative to the estimate itself?」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「that on average earlier releases have been under -estimated (negative sign means over -」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「exists in the earlier estimates. Four possible outcomes have been chosen to describe」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「variable that follows a normal distribution with variance estimate as above, the t -critic」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「estimate and the sign of earlier estimate are the same.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「later estimate also signifies this.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「of the size of the earlier estimates. Aside from the above issue, it is useful as a measure」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is a a preliminary (or earlier) estimate and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「was estimated. The real-time dataset is constructed as follows.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「, from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the preliminary estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “noise”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “news”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「are the standard deviations of the latest and preliminary estimates, respectively, and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
 - 一次情報の探し方：
+  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 - 失敗・落とし穴：
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
@@ -6116,27 +6126,22 @@
   - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 - 実例：
-  - 「example, a user may be interested in studying revision between first published data and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「statistical agency publishing the data. For example, if reconciliation with annual data」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.5 In the case of growth rates, how often is the later published growth rate in the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「data points of the time series. For example, 1994Q1 – 2007Q3 represents 55」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of positive revisions : it returns the number of cases revised upward as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of negative revisions: it returns the number of cases revised down ward as a proportion」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of zero revisions: it returns the number of cases with null revision as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「This is an extreme case of unreliability, although it may be that the change of a small」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「(for example, a given month or quarter) a revision can be defined as」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
-  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
-  - 「This test indicates whether, for example, growth rates tend to be systematically revised upwards or downwards over the three years after they are first published.」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
+  - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「should be noted that revisions occur mainly between the first and second release. In this case, the later available」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「differently for a growth rate of 1% than for a growth rate of 10%. As in the case of MAR, a high RMAR also indicates」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「whenever indicators are subject to seasonal variation. For example retail sales in December are always higher than」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「countries use quarterly national accounts, for example in estimating the labour productivity that may be used for」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「they are even comparable at all. In the latter case, the users need to be informed about the break in series.」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「methodological changes, for example changes of classifications or the base year understandably introduce」（https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/20677.pdf）
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
 
 ## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
 - 文脈：抽出
@@ -8484,11 +8489,26 @@
 ## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「<p>Sorting in Google Sheets is <a href="https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Precision Journalism: A Reporter’s Introduction to Social Science Methods」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「program. From then on, journalists began to receive training on how to use data in their investigations, or even create investigations from data.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors — or lawyers.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Finally, when working with interdisciplinary teams, communication between teams is necessary throughout the process, to ensure everyone is on the same page in terms of understanding the goals of the project and how to execute it.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「offer courses and resources that help understand how to use some of the tools and programming languages.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li>Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors &mdash; or lawyers.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li>Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li>Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li><a href="https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07">pdfplumber/pdfminer&nbsp;</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+- 一次情報の探し方：
+  - 「PDF processing tools such as」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li>PDF processing tools such as」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li><a href="https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html">Poppler</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li><a href="https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07">pdfplumber/pdfminer&nbsp;</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 失敗・落とし穴：
   - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
@@ -8505,11 +8525,25 @@
   - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 実例：
+  - 「Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「like the example in this link」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Some examples of publicly available datasets include:」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「In these cases, data often drives the stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href="https://x.com/DCI_Kenya/status/1099963556500516865">like the example in this link</a>.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start="2">」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -8536,23 +8570,43 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
 - 手順・やり方：
+  - 「実務での使い方 — 3つのステップ」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ1: SFAのアカウントに法人番号フィールドを追加する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「型: テキスト(13桁固定長)」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ2: 既存リストに法人番号を付与する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ3: 法人番号をキーに複数ソースを統合する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める"今アプローチすべき企業"」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「: Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 突き合わせ・推定：
+  - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
 - 一次情報の探し方：
+  - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「5.3 Regulatory filings and audits」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 失敗・落とし穴：
+  - 「「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
   - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -8560,7 +8614,6 @@
   - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法（national statistics revisions analysis vintages methodological change period uncertainty）
 - 文脈：推定
@@ -9138,11 +9191,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ

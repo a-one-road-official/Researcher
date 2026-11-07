@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-06T20:09:01.989592+00:00",
+ "researched_at": "2026-11-07T00:39:09.044316+00:00",
  "evidence": {
   "検索結果の抜粋": [
    {
@@ -16,6 +16,246 @@
     "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Precision Journalism: A Reporter’s Introduction to Social Science Methods",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "program. From then on, journalists began to receive training on how to use data in their investigations, or even create investigations from data.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors — or lawyers.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Finally, when working with interdisciplinary teams, communication between teams is necessary throughout the process, to ensure everyone is on the same page in terms of understanding the goals of the project and how to execute it.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "offer courses and resources that help understand how to use some of the tools and programming languages.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors &mdash; or lawyers.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<p>Sorting in Google Sheets is <a href=\"https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6\">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html\">Poppler</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "like the example in this link",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some examples of publicly available datasets include:",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In these cases, data often drives the stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href=\"https://x.com/DCI_Kenya/status/1099963556500516865\">like the example in this link</a>.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start=\"2\">",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ],
   "失敗・落とし穴": [
@@ -109,45 +349,23 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "<p>Sorting in Google Sheets is <a href=\"https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6\">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to make a donation to The Journalist’s Resource",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/ai_masaki/n/nf3a542a88874",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/hirokimiyano/n/ne79e40b9eeb0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n9a5bc0b221e6",
     "status": "ok",
     "method": "http"
    },
@@ -157,17 +375,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n0ec8b293f3cd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ichi_twnovel/n/n8867a5f760ae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kagawatomo/n/n9a5bc0b221e6",
     "status": "ok",
     "method": "http"
    },
@@ -182,12 +390,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_analysiss/n/n47652737608f",
+    "url": "https://note.com/ai_sakanya/n/n488c21e1d94f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ripla_business/n/n8afeb0776f4a",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
     "status": "ok",
     "method": "http"
    },
@@ -198,11 +411,6 @@
    },
    {
     "url": "https://dataaicareer.com/data-analysis-pitfalls/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
@@ -247,9 +455,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "url": "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
+    "status": "http_503",
+    "method": "http"
    },
    {
     "url": "https://bellcurve.jp/statistics/course/5840.html",
@@ -257,27 +465,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "status": "http_503",
-    "method": "http"
+    "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "url": "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "url": "https://www.siteengine.co.jp/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "status": "http_403",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viewjournal.eu/articles/10.18146/view.332",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/",
+    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.csun.edu/journalism/verification-and-digital-reporting",
+    "url": "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
     "status": "ok",
     "method": "http"
    },
@@ -285,11 +498,6 @@
     "url": "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://viewjournal.eu/articles/10.18146/view.332",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
    },
    {
     "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
@@ -302,29 +510,29 @@
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） site:note.com",
    "results": [
+    "https://note.com/ai_masaki/n/nf3a542a88874",
     "https://note.com/hirokimiyano/n/ne79e40b9eeb0",
-    "https://note.com/chic_sage5875/n/na7b9a0751f77",
-    "https://note.com/kagawatomo/n/n0ec8b293f3cd",
-    "https://note.com/ichi_twnovel/n/n8867a5f760ae",
     "https://note.com/kagawatomo/n/n9a5bc0b221e6",
+    "https://note.com/chic_sage5875/n/na7b9a0751f77",
+    "https://note.com/ichi_twnovel/n/n8867a5f760ae",
     "https://note.com/yosatonet/n/n0752f2797baf",
     "https://note.com/diisuket/n/n694838626b89",
-    "https://note.com/hirokimiyano/n/na74aba81e4c6",
-    "https://note.com/kagawatomo/n/n23d1ef26dfbb",
-    "https://note.com/jyaga0716/n/n0aa7362ae7b7"
+    "https://note.com/ichi_twnovel/n/n3e2e8d3a20ea",
+    "https://note.com/hirokimiyano/n/n031a32279643",
+    "https://note.com/hirokimiyano/n/na74aba81e4c6"
    ]
   },
   {
    "query": "データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方） note",
    "results": [
     "https://note.com/sikumiya/n/n00d4a27de7ad",
-    "https://note.com/ai_analysiss/n/n47652737608f",
-    "https://note.com/ripla_business/n/n8afeb0776f4a",
+    "https://note.com/ai_sakanya/n/n488c21e1d94f",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
     "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
     "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "https://news.web.nhk/newsweb",
+    "https://note.com/ripla_business/n/n8afeb0776f4a",
     "https://note.com/studio_ichizen/n/n5f1a010b0e45",
     "https://note.com/moonlightmanager/n/n143435aee501"
    ]
@@ -338,8 +546,8 @@
     "https://corp.genialtech.io/ja/column/collation/",
     "https://www.kmds.jp/pc_kowaza/03_compare/",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
+    "https://dailyexcelhacks.blog/excel-compare-two-lists/",
     "https://www.amed.go.jp/content/000034153.pdf",
-    "https://smbiz.asahi.com/article/14466967",
     "https://gxo.co.jp/column/input-error-prevention-guide-2026",
     "https://advan-jpn.co.jp/column/prevent-data-error/"
    ]
@@ -351,10 +559,10 @@
     "https://data-viz-lab.com/excel",
     "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
     "https://www.amed.go.jp/content/000034153.pdf",
-    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
-    "https://bellcurve.jp/statistics/course/5840.html",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
+    "https://bellcurve.jp/statistics/course/5840.html",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_06.pdf",
+    "https://www.siteengine.co.jp/",
     "https://gxo.co.jp/column/input-error-prevention-guide-2026",
     "https://www.soumu.go.jp/main_content/000634890.pdf"
    ]
@@ -363,14 +571,14 @@
    "query": "data journalism checklist verify complete dataset limitations section",
    "results": [
     "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
-    "https://datajournalism.com/",
-    "https://libguides.csun.edu/journalism/verification-and-digital-reporting",
-    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
     "https://viewjournal.eu/articles/10.18146/view.332",
+    "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "https://libguides.northwestern.edu/c.php?g=114895&p=8358627",
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-how-do-you-edit-a-data-driven-story-when-youre-not-a-data-specialist-yourselfgi/1512261904276239/",
     "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "https://americanpressinstitute.org/challenges-data-journalism/",
     "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
     "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html",
-    "https://www.test-king.com/blog/the-path-to-data-journalism-skills-tools-and-tips/",
     "https://infotimes.academy/blog/verify-data-before-publishing"
    ]
   },
@@ -378,58 +586,58 @@
    "query": "site:note.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
     "https://note.com/kazukio/n/n6d006d6486c3",
+    "https://note.com/ai_masaki/n/nf3a542a88874",
+    "https://note.com/kagawatomo/n/n9a5bc0b221e6",
+    "https://note.com/ichi_twnovel/n/n9bde056023e1",
     "https://note.com/0375/n/nec0bcbfb443f",
     "https://note.com/slownewsjp/n/na9283d2fbea9",
-    "https://note.com/cheesegue_/n/ncbf660b94597",
-    "https://note.com/slownewsjp/n/n37ca7d5001d5",
-    "https://note.com/ichi_twnovel/n/n9bde056023e1",
-    "https://note.com/diisuket/n/n694838626b89",
+    "https://note.com/langsmith/n/na8ea07795c45",
     "https://note.com/ichi_twnovel/n/n8867a5f760ae",
-    "https://note.com/hirokimiyano/n/na74aba81e4c6",
-    "https://note.com/langsmith/n/na8ea07795c45"
+    "https://note.com/chic_sage5875/n/na7b9a0751f77",
+    "https://note.com/elith/n/n8e8232292517"
    ]
   },
   {
    "query": "site:x.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://x.com/FABYMETAL4/status/2091994224120279540",
-    "https://x.com/hiro_panketing/status/2118720635388219758",
     "https://x.com/i/article/2111237466988675400",
+    "https://x.com/FABYMETAL4/status/2091994224120279540",
     "https://x.com/wayama_ryousuke/status/2118521865262260311",
-    "https://x.com/ai_jitan/article/2113103194754879662?lang=cs",
-    "https://x.com/pop_ikeda/article/2090313930686271819",
-    "https://x.com/daifukujinji/article/2112650114447909168?lang=ar",
+    "https://x.com/hiro_panketing/status/2118720635388219758",
+    "https://x.com/daifukujinji/status/2108663894743175417",
+    "https://x.com/ai_jitan/status/2113103194754879662",
     "https://x.com/zakiryo1533/article/2065096178136682867",
     "https://x.com/KagawaTomo/status/2116800506467422688",
-    "https://x.com/RadineerE10/status/2110180930598101021"
+    "https://x.com/pop_ikeda/article/2090313930686271819",
+    "https://x.com/i/article/2111590372749287711"
    ]
   },
   {
    "query": "site:linkedin.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
     "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/can-ai-serve-advisor-infrastructure-you-need-paul-o-brien-gsnec?tl=ja",
     "https://jp.linkedin.com/pulse/introducing-monitor-know-whats-your-dynamics-data-before-copilot-ivwbe?tl=ja",
-    "https://jp.linkedin.com/pulse/making-anthropic-ceo-dario-amodei-alex-kantrowitz-ycgxe?tl=ja",
-    "https://jp.linkedin.com/pulse/peso-model-primer-marketers-communicators-gini-dietrich-jjevc?tl=ja",
+    "https://jp.linkedin.com/pulse/billions-rows-power-bi-dynamic-m-query-parameters-edward-charles?tl=ja",
     "https://jp.linkedin.com/pulse/robotic-process-automation-bank-reconciliation-sap-s4hana-bandara-z2fhc?tl=ja",
+    "https://jp.linkedin.com/pulse/80-anthropics-code-written-claude-6-things-every-needs-choudhary-je9bc?tl=ja",
     "https://www.linkedin.com/posts/youngjoo-kim_tataconsultancyservices-tcsjapan-tcs-activity-7512777701301157888-gugt",
-    "https://jp.linkedin.com/jobs/view/legal-counsel-specialist-at-smartnews-4401875072",
     "https://jp.linkedin.com/pulse/excel-hell-how-overcome-challenges-data-management-miguel-domingos-xgj4f?tl=ja",
     "https://jp.linkedin.com/pulse/we-using-wrong-data-choose-right-sites-alexander-swaab-5aa9e?tl=ja",
-    "https://jp.linkedin.com/pulse/hiring-101-15-basic-rules-we-forgot-along-way-ayon-banerjee-plk3c?tl=ja"
+    "https://jp.linkedin.com/pulse/3-ways-finance-answers-trust-gap-prasad-bhalerao-2d4jf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）",
    "results": [
-    "https://es-la.facebook.com/kimie.hatano.9",
-    "https://www.facebook.com/tvasahinews/videos/%E7%8B%AC%E8%87%AA7%E5%B9%B4%E6%9C%8D%E5%BD%B9%E4%BC%9D%E8%AA%AC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E8%AA%9E%E3%82%8B-gmo%E6%94%BB%E6%92%83%E7%8A%AF%E4%BA%BA%E5%83%8F%E3%81%AF-%E7%B4%A0%E4%BA%BA%E6%AE%8B%E3%81%95%E3%82%8C%E3%81%9F%E7%97%95%E8%B7%A1%E3%81%A8%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80%E5%86%85%E3%81%A7%E6%92%AE%E3%82%89%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%81%AB%E6%98%A0%E3%82%8B1%E4%BA%BA%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%8B%E3%81%A4%E3%81%A6100%E5%84%84%E5%86%86%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E8%A9%90%E6%AC%BA%E4%BA%8B%E4%BB%B6%E3%82%92%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93/1449997456498192/",
-    "https://www.facebook.com/KartzMediaWorks/",
-    "https://www.facebook.com/shizukaterata/?locale=ps_AF",
     "https://www.facebook.com/help/463983701520800?locale=ja_JP",
+    "https://www.facebook.com/KartzMediaWorks/",
+    "https://www.facebook.com/tvasahinews/videos/%E7%8B%AC%E8%87%AA7%E5%B9%B4%E6%9C%8D%E5%BD%B9%E4%BC%9D%E8%AA%AC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E8%AA%9E%E3%82%8B-gmo%E6%94%BB%E6%92%83%E7%8A%AF%E4%BA%BA%E5%83%8F%E3%81%AF-%E7%B4%A0%E4%BA%BA%E6%AE%8B%E3%81%95%E3%82%8C%E3%81%9F%E7%97%95%E8%B7%A1%E3%81%A8%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80%E5%86%85%E3%81%A7%E6%92%AE%E3%82%89%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%81%AB%E6%98%A0%E3%82%8B1%E4%BA%BA%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%8B%E3%81%A4%E3%81%A6100%E5%84%84%E5%86%86%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E8%A9%90%E6%AC%BA%E4%BA%8B%E4%BB%B6%E3%82%92%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93/1449997456498192/",
     "https://www.facebook.com/jimin.official/posts/%E5%81%BD%E8%AA%A4%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E4%B8%8D%E5%AE%89%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%AB%E4%BC%B4%E3%81%86%E5%8E%9F%E6%B2%B9%E7%89%A9%E8%B3%87%E4%BE%9B%E7%B5%A6%E5%AF%BE%E7%AD%96qa%E6%94%BF%E5%BA%9C%E3%81%AF%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E9%AB%98%E9%A8%B0%E5%AF%BE%E7%AD%96%E3%82%84%E5%8E%9F%E6%B2%B9%E3%81%AE%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E6%8B%A1%E5%A4%A7%E6%B5%81%E9%80%9A%E3%81%AE%E7%9B%AE%E8%A9%B0%E3%81%BE%E3%82%8A%E8%A7%A3%E6%B6%88%E3%82%92%E5%85%88%E6%89%8B%E3%81%A7%E5%AE%9F%E8%A1%8C%E4%B8%AD%E3%81%A7%E3%81%99%E5%B8%B8%E3%81%AB%E4%B8%87/1501792837970970/",
     "https://www.facebook.com/theater.enya/posts/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6%E6%B1%BA%E5%AE%9A%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E6%AE%86%E3%81%A9%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E7%A7%91%E5%AD%A6%E3%81%A8%E4%BA%8B%E5%AE%9F%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E9%A9%9A%E6%84%95%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%92%E3%83%9D%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E7%9B%B2%E7%82%B9%E3%81%AE%E4%B8%8A%E6%98%A0%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E5%A4%A7%E8%A5%BF/1786578092782400/",
-    "https://www.facebook.com/groups/146940180042907/",
+    "https://www.facebook.com/shizukaterata/?locale=ps_AF",
+    "https://www.facebook.com/hkunimitsu/posts/binance-8700%E5%84%84%E5%86%86%E3%81%AE%E5%B7%A8%E9%A1%8D%E3%83%8F%E3%83%83%E3%82%AF-%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%A7%E5%A2%97%E5%8A%A0%E3%81%AE%E4%B8%80%E9%80%94%E3%81%AEai%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E5%8F%96%E5%BC%95%E6%89%80binance%E3%81%A7%E5%B7%A8%E9%A1%8D%E3%81%AE%E4%B8%8D%E5%AF%A9%E3%81%AA%E8%B3%87%E7%94%A3%E7%A7%BB%E5%8B%95%E3%81%8C%E5%A0%B1%E3%81%98%E3%82%89%E3%82%8C%E3%81%9F%E8%BF%BD%E8%B7%A1%E3%81%95%E3%82%8C/10164301083038283/",
+    "https://es-la.facebook.com/kimie.hatano.9",
     "https://www.facebook.com/docomo.official/posts/%E4%B8%80%E9%83%A8%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E5%BF%9C%E5%AF%BE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3-%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%A0%B1%E9%81%93%E3%81%AB%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E4%BE%AE%E8%BE%B1%E3%81%97%E3%81%9F%E4%B8%8D%E9%81%A9%E5%88%87%E3%81%AA%E5%BF%9C%E5%AF%BE%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E3%81%94%E4%B8%8D%E5%BF%AB%E3%81%AA%E6%80%9D%E3%81%84%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E8%AA%A0%E3%81%AB%E7%94%B3%E3%81%97/2778265785586852/",
     "https://www.facebook.com/tvasahinews/videos/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E6%8A%95%E7%A8%BF-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp%E3%81%AE%E4%BF%AE%E6%AD%A3%E3%83%91%E3%83%83%E3%83%81%E9%81%A9%E7%94%A8%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91%E3%82%8B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%8C21%E6%97%A5%E5%A4%9C%E3%81%AB%E8%87%AA%E8%BA%AB%E3%81%AEx%E3%81%A7%E5%A4%A7%E8%87%B3%E6%80%A5%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Ephp/2620471338454206/"
    ]
@@ -440,12 +648,13 @@
     "https://note.com/sikumiya/n/n00d4a27de7ad",
     "https://note.com/rosy_dove4297/n/ne0fb8079b26d",
     "https://news.web.nhk/newsweb",
-    "https://researchmap.jp/blogs/blog_entries/view/96798/b6bbcdada9b5f64af3b670fc4c496f03?frame_id=685447",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
     "https://note.com/magic_ai7978/n/naabb0b3af89c",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://souzokushindan.com/sys/?p=122848",
+    "https://researchmap.jp/blogs/blog_entries/view/96798/b6bbcdada9b5f64af3b670fc4c496f03?frame_id=685447",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.siteengine.co.jp/",
-    "https://www.zentsuken.net/journal/file/144_5.html"
+    "https://note.com/moonlightmanager/n/n143435aee501"
    ]
   },
   {
@@ -455,169 +664,245 @@
     "https://support.claris.com/s/article/SNS-%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%AE%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%87%E3%83%BC%E3%82%BF%E8%A1%A8%E8%A8%98%E6%96%B9%E6%B3%95%E3%81%AE%E7%B5%B1%E4%B8%80%E3%83%AB%E3%83%BC%E3%83%AB%E5%AF%BE%E5%BF%9C-%E3%81%9D%E3%82%8C-Claris-FileMaker-%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B?language=ja",
     "https://exceljoshi.cocoo.co.jp/media/excel-date-entry-rule",
     "https://help.x.com/ja/using-x/articles",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vINX57X8eMwZ9tYmh5_eEDOMvoVZUMK9IRLTM8FF9aUffFgD1ke",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vKracKlnJkm1VbZ09wkm1VmVawBkCmvhALbSABnVRhZZVzmYNMu",
     "https://www.siteengine.co.jp/",
-    "https://www.amed.go.jp/content/000034154.pdf",
     "https://support.microsoft.com/ja-jp/excel/guidelines-for-organizing-and-formatting-data-on-a-worksheet",
-    "https://xtech.nikkei.com/atcl/nxt/column/18/02033/041400012/",
-    "https://gxo.co.jp/column/input-error-prevention-guide-2026"
+    "https://gxo.co.jp/column/input-error-prevention-guide-2026",
+    "https://advan-jpn.co.jp/column/prevent-data-error/"
    ]
   },
   {
    "query": "data journalism checklist verify complete dataset limitations section site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-xbj0f",
+    "https://www.linkedin.com/pulse/how-review-research-paper-complete-reviewer-checklist-aleem-6d57f",
     "https://www.linkedin.com/pulse/ai-assisted-investigative-journalism-pakistan-practical-aleem-ajkgf",
     "https://www.linkedin.com/in/kleinmatic",
     "https://ca.linkedin.com/in/craigjsilverman",
     "https://www.linkedin.com/in/lamthuyvo",
-    "https://www.linkedin.com/in/abtran",
-    "https://www.linkedin.com/in/simonrogersjournalist",
     "https://www.linkedin.com/in/searchbistro",
-    "https://www.linkedin.com/in/julie-j-lee",
-    "https://www.linkedin.com/in/surya-mattu"
+    "https://www.linkedin.com/in/surya-mattu",
+    "https://www.linkedin.com/in/simonrogersjournalist",
+    "https://www.linkedin.com/in/jessicalhuseman"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {
-  "検索結果の抜粋": [
-   {
-    "quote": "10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "<p>“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "<p>“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "<p>“Not paying attention to the top left corner is the easiest mistake you will make, and it can end careers,” warns Thompson. “You want to always keep your data tied to other lines and rows, so you need to highlight the whole kit-and-caboodle. Don’t ever sort only a single column; always use the top left hand corner — it should be like tying your shoes.”</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“Every journalist will make a mistake — it’s all about being smart about making sure you never make that mistake again, and about being transparent with your audience,” says",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "at American University. “But you can certainly minimize the chance of mistakes.”",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "<p>Sorting in Google Sheets is <a href=\"https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6\">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "quote": "began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "quote": "Precision Journalism: A Reporter’s Introduction to Social Science Methods",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "quote": "program. From then on, journalists began to receive training on how to use data in their investigations, or even create investigations from data.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "How to make a donation to The Journalist’s Resource",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "quote": "Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors — or lawyers.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Finally, when working with interdisciplinary teams, communication between teams is necessary throughout the process, to ensure everyone is on the same page in terms of understanding the goals of the project and how to execute it.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "offer courses and resources that help understand how to use some of the tools and programming languages.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors &mdash; or lawyers.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>PDF processing tools such as",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html\">Poppler</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><a href=\"https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07\">pdfplumber/pdfminer&nbsp;</a></li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "like the example in this link",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some examples of publicly available datasets include:",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In these cases, data often drives the stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href=\"https://x.com/DCI_Kenya/status/1099963556500516865\">like the example in this link</a>.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start=\"2\">",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>",
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T20:09:01.989592+00:00"
 }

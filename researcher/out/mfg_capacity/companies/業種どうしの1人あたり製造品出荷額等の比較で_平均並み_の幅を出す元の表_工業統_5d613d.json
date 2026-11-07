@@ -1,0 +1,722 @@
+{
+ "name": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+ "en": "Japan census of manufacture 2019 all 4-digit industries metal products per-employee shipments table",
+ "aliases": [
+  "工業統計表 2019年 産業別統計表 産業細分類 金属製品製造業 一覧 xlsx site:meti.go.jp",
+  "工業統計 2020年調査 産業細分類別 従業者1人当たり製造品出荷額等"
+ ],
+ "context": "一次・比較の相手",
+ "kind": "market",
+ "researched_at": "2026-11-07T00:24:39.412793+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模（3区分）別、産業中分類及び行政区別結果表",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模（6区分）別、産業中分類別結果表",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類・行政区別、従業者規模（10区分）別結果表",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模（3区分）別、産業中分類及び行政区別結果表 －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類・行政区別、従業者規模（10区分）別結果表 －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "産業細分類別結果表（従業者４人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類・行政区別結果表（従業者３０人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "調査票 甲（従業者30人以上の事業所用）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "調査票 乙（従業者29人以下の事業所用）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別結果表（従業者4人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "国勢統計区別結果表（従業者4人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類・行政区別結果表（従業者30人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所結果表 －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（細分類）別結果表（従業者4人以上の事業所、平成22年、平成21年)",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "国勢統計区別結果表（従業者4人以上の事業所、平成22年、平成21年)",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、前回調査との比較）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成26年、平成25年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成25年、平成24年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類及び行政区別事業所数、従業者数、製造品出荷額等（平成24年、平成23年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）及び行政区別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所、平成22年、21年) －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（全事業所：平成20年・17年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成20年・19年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成19年・18年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成18年・17年比較） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（全事業所：平成17年・15年比較） －京都市、合併前の京都市及び京北町－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所：平成17年・16年比較） －京都市、合併前の京都市及び京北町－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模（5区分）、産業（中分類）別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模（10区分）別事業所数、従業者数及び製造品出荷額等",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）、行政区別1事業所当たり及び従業者1人当たり製造品出荷額等（従業者30人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり及び従業者1人当たり結果表（従業者30人以上の事業所） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）、行政区別1事業所当たり及び従業者1人当たり製造品出荷額等（従業者30人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（細分類）別事業所数、従業者数、製造品出荷額等及び粗付加価値額（従業者4人以上の事業所）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "産業（中分類）、行政区別有形固定資産、リース契約額等（従業者30人以上の事業所） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類）、行政区別有形固定資産（従業者30人以上の事業所） －行政区－",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "令和3(2021)年 経済センサス－活動調査（製造業）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 工業統計調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年 工業統計調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年 工業統計調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "平成28(2016)年 経済センサス－活動調査（製造業）",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、2020年調査をもって終了しました",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "翌年実施の令和3（2021）年経済センサス-活動調査における「製造業に関する集計」にて、従来の工業統計調査に近い結果が公表され、それをもって従来の方式による公表は最後となります",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "令和4(2022)年以降の工業（製造業）結果は",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年工業統計調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "「2021年工業統計調査」は、「令和3(2021)年経済センサス－活動調査」の中で必要事項が把握されたため実施されませんでした",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3(2021)年経済センサス－活動調査",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 工業統計調査結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "統計解析シリーズNo.129 2020年工業統計調査の集計結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "統計解析シリーズNo.121 2019年工業統計調査の集計結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年 工業統計調査結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   },
+   {
+    "quote": "統計解析シリーズNo.112 平成30(2018)年工業統計調査の集計結果",
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2991.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/640230/japan-manufacturing-business-number-by-industry/?srsltid=AYCX9vLVr8bdPTcA0mwBd-GU5u1RJ3_ztxW9JSqYX0LFb_Sxra3ibHFd",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html"
+   ]
+  },
+  {
+   "query": "Japan census of manufacture 2019 all 4-digit industries metal products per-employee shipments table Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-1",
+    "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-76.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e13.pdf",
+    "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "https://www.statista.com/statistics/640230/japan-manufacturing-business-number-by-industry/?srsltid=AYCX9vLVr8bdPTcA0mwBd-GU5u1RJ3_ztxW9JSqYX0LFb_Sxra3ibHFd",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf",
+    "https://en.wikipedia.org/wiki/Manufacturing_in_Japan",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+   "results": [
+    "https://note.com/jony_fujimura/n/nf69e8ac3915f",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ocaml/n/n505db5d67548",
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/engawa_koushi/n/na0d18fdb9a80",
+    "https://note.com/kiyotakasato/n/n93a13a008df9",
+    "https://note.com/stats47/n/nbbd5bd83d5fd",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/nok_dy/n/neb2991243fae"
+   ]
+  },
+  {
+   "query": "site:x.com 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+   "results": [
+    "https://x.com/ngo_higashiyama/status/2109986910617862404",
+    "https://x.com/ngo_higashiyama/status/2110501801854472459",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
+    "https://x.com/hashtag/製造品出荷額等",
+    "https://x.com/OgawaSeisakusho/status/2114828517833875700",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/OgawaSeisakusho/status/2050090590277079445"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a720019?lang=ja-JP",
+    "https://jp.linkedin.com/pulse/top-10-power-bi-dashboard-examples-manufacturing-industry-goyal-7rcrc?tl=ja",
+    "https://www.linkedin.com/posts/ichengsijapan_製造業の利益率5種類の計算方法についての基礎知識に加え日本の製造業を6業種-activity-7203266671162064899-_cp6",
+    "https://jp.linkedin.com/pulse/生産性向上のはずがmr削減の衝撃の事実-売上も生産性も上がらなかった-michio-okazaki-4r0xc",
+    "https://jp.linkedin.com/posts/俊光-早﨑-763730392_今日は統計の話-出荷予測と実績の差はどうしてもゼロにはなりませんそしてその-activity-7448516286810132480-R0sR",
+    "https://jp.linkedin.com/pulse/108-per-employee-standard-cross-industry-saas-spending-jaymita-prasad-gwnjc?tl=ja",
+    "https://www.linkedin.com/posts/rsugimura_kddi快適な通信インフラの提供に向け1人あたり年間192時間削減で意思決定を-activity-7464616265337315328-BQ88"
+   ]
+  },
+  {
+   "query": "site:facebook.com 業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68）",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/photo.php/?fbid=1237778328363840",
+    "https://www.facebook.com/pdreview/posts/三世代同居率が全国平均の3倍で一般世帯の平均人員も日本一多い山形県製造業の割合が高く製造品出荷額等では電子部品デバイス電子回路製造業が１位を占めている農業ではさ/4807596979341417/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/",
+    "https://www.facebook.com/ohmurahideaki/posts/30日2023年度の愛知県の県民経済計算推計結果を公表しました県の経済規模を示す県内総生産名目は46兆911億円となり前年度の43兆653億円から70増加しまし/1365307002277638/"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html"
+   ]
+  },
+  {
+   "query": "業種どうしの1人あたり製造品出荷額等の比較で「平均並み」の幅を出す元の表（工業統計表 2019年実績 産業細分類の全業種・金属製品製造業の細分類の一覧・平均並みの幅の母数・4-68） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.ehime.jp/page/2991.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/2019kougyou.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://www2.city.kyoto.lg.jp/sogo/toukei/Economy/Data/Manufact/",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html"
+   ]
+  },
+  {
+   "query": "Japan census of manufacture 2019 all 4-digit industries metal products per-employee shipments table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/jason-miller-32110325_supplychain-shipsandshipping-manufacturing-activity-7424074151625297920-fEe-",
+    "https://www.linkedin.com/in/shitaldhakal",
+    "https://www.linkedin.com/in/perisa-ashar-345a47159",
+    "https://www.linkedin.com/in/alekseydubov",
+    "https://www.linkedin.com/in/joycesidopoulos",
+    "https://www.linkedin.com/in/dariawalker",
+    "https://www.linkedin.com/in/jason-premo-aero",
+    "https://www.linkedin.com/in/kevinshtofman",
+    "https://www.linkedin.com/in/timhargis",
+    "https://uk.linkedin.com/in/karlsmith2"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ22頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ22頁・検索18回）"
+ }
+}
