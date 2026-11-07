@@ -1123,6 +1123,11 @@
 ## アナリスト・投資家のnoteにある企業分析の型（equity analyst company analysis process blog）
 - 文脈：凄腕・企業分析
 - 手順・やり方：
+  - 「もしかしたら他の方法もあるかもしれないが、いずれにしても無料で読む機会は一般的にごく限られるのだろう」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「みなさんのお目汚しになることも構わず、そもそも企業分析に関するnoteを書き始めたのも、アナリストレポートとは違う、自分なりの表現方法で企業の姿をなるべく面白く、しかも経営者への敬意を持って伝えたいと思ったからである」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「In this beginner’s guide, we’ll walk through the key phases of performing equity research step-by-step. You’ll learn how analysts research companies, model financials, calculate valuations, and make investment recommendations.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
+  - 「Once you’ve analyzed historical performance, the next step is modeling the future.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
+  - 「provides step-by-step financial modeling tips.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「This article will discuss the fundamental teaching capabilities of equity research and how equity research helps develop all the different types of skills, perspectives, and mental infrastructures and frameworks through which equity researchers think about companies and business. It will also discuss why equity research lessons are applicable across multiple industries and career fields.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
@@ -1133,12 +1138,8 @@
   - 「BtoB SaaSのマーケティングコスト最適化の解き方（ザ・モデル型組織での実践）」（https://note.com/poco_c/m/m9305ed081d0f）
   - 「The investment analysis process is how investors judge an opportunity's likely return and risk. This guide covers its methods, components and tools, and where AI now speeds up the research behind them.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「In this blog post, we will provide a comprehensive overview of investment analysis, covering its various methods, its role in portfolio management, and its essential applications in investment analytics.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「4 Methods of Investment Analysis」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「Investment analysts use a variety of methods for analysis. Each type provides a unique perspective and insight into potential investments and is typically used in conjunction with the others to provide a comprehensive view of investment options. Below are the most prominent methods:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「This method involves assessing the quality of a company's board of directors, brand recognition, intellectual property, business model, and competitive advantage in the market. Qualitative factors can be more subjective and harder to measure than quantitative ones but are nonetheless important in investment decision-making.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「When using any of the above methods to conduct investment analysis, there are two approaches to do so. These approaches refer to the strategic viewpoint taken when conducting an analysis, including how and where to start the analysis:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
-  - 「Determining the potential profitability and risk of an investment can be approached using both quantitative and qualitative methods. Each has its own strengths and limitations, and using both can provide a comprehensive overview of an investment. Let's take a closer look at each:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
 - 突き合わせ・推定：
+  - 「Estimate future free cash flows」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「This tool uses probability distributions and random sampling to estimate the future outcome of an investment.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「① 「自分なりの仮説」を持って情報に接する」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1153,8 +1154,14 @@
   - 「そして、結果が仮説通りだったか、あるいは違ったのかを検証する」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「分解して得られたパーツを組み立て直し、「この会社の収益構造はこうなっているはずだ」という自分なりの仮説（モデル）を作り上げます」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「冒頭では少し警戒していたIRの方も、先ほどのような質問や仮説をぶつけると、」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 一次情報の探し方：
+  - 「3月期決算の企業による3Q（10-12月期）決算の発表が本格的に始まった」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「特に決算が集中する来週の金曜日などは徹夜でレポートを書き上げることになる」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「昨日投稿した日本電産の決算内容をアナリストレポート風にアレンジして少しだけ書いてみたい」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「決算の数値自体はややネガティブな印象だが、足元の業績には底打ち感が強まっているほか、注目するEV用モータの長期的な成長シナリオはむしろ前回よりも達成確度が増している」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「自戒の念も込めて書くが、決算の数字が当初の予想やコンセンサスに対してどうだったのか」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「2000年初頭の富士フィルムは決算短信をひたすら読み上げるだけだった」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「決算説明会資料が作成され、セグメント別の情報が詳細に開示される」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「an analyst names out of the filings, with a source on every figure,」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「for the filings and price moves that matter. The judgment stays with the analyst; the hours spent gathering and checking numbers are what shrink.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「pulling figures from filings」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
@@ -1163,14 +1170,9 @@
   - 「なかのアセットマネジメントでは、有価証券報告書、決算説明会資料や統合報告書などの投資家向け資料を読み込むことに加え、論文、特許情報、競合他社や採用サイトなどからも情報を収集しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「最も価値の高いものは、一次情報である企業への「直接取材」と考えています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「なお、優秀なIRの方は、現場と愚直にコミュニケーションをとって、鮮度が高くかつ解像度の高い一次情報を仕入れています」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「有価証券報告書や決算説明会資料をただ漫然と眺めるのではなく、「この会社の強みは〇〇で、この領域が伸びるはずだ」といった自分なりの仮説を立ててから情報に接することで、情報に対する感度が格段に変わります」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「③ 決算説明会や株主総会を「疑似取材」の場と捉える」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「近年、多くの企業が決算説明会をオンラインで配信しており、個人の投資家にとっても経営陣の生の声を聴ける貴重な機会が増えました」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「ここでも7年間の在籍中に、延べ約500件の機関投資家向けプレゼンテーションと約1,500件の事業会社とのIRミーティング（決算説明会含む）を実施しました」（https://note.com/shusuketerada/n/n348a235c7530）
-  - 「取材前の「孤独な格闘」：過去の決算の読み込みとデータ入力」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「具体的には、過去10年分、時にはそれ以上の有価証券報告書や決算説明資料、統合報告書等を開き、以下のようなデータを拾い出し、Excelに手入力していきます」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 失敗・落とし穴：
+  - 「会社側の公表を鵜呑みにした内容ばかりで深みがない」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
+  - 「「情報量と注意力はトレードオフの関係にある」とは誰かの言葉だ」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「もしあなたが、あるフィットネスクラブ運営会社の株を買おうとしたとき、どうやって10年後の利益を予想しますか？「健康ブームだから、なんとなく毎年5%ずつ伸びる」ではダメです」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「「構造理解」こそが、ファンダメンタルズ分析を行うアクティブ投資家の、揺るぎない情報優位性」（https://note.com/nakanoam/n/nafb26eef1ed8）
@@ -1184,9 +1186,9 @@
   - 「Common Analyst Mistakes Untemplated extrapolation of historical growth」（https://finxl.in/blogs/business-model-equity-research.html）
   - 「Common Analyst Mistake: Overestimating Scalability」（https://finxl.in/blogs/business-model-equity-research.html）
   - 「Equity research has been mistaken as a field that is dominated」（https://finxl.in/blogs/business-model-equity-research.html）
-  - 「Common Analyst Mistakes Untemplated extrapolation of historical」（https://finxl.in/blogs/business-model-equity-research.html）
-  - 「• One of the most common mistakes made by analysts is blindly」（https://finxl.in/blogs/business-model-equity-research.html）
 - 実例：
+  - 「Aim to spot important themes and variables that will impact future performance. For example, is the industry ripe for disruption from new technology? Do customers have high switching costs or brand loyalty?」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
+  - 「on best/worst case scenarios.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「Analysts look at the following for example:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「This Perspective is Beneficial for Corporate Strategic Planning Decisions for example: new product Launch, New Market Entry Decision, Merger or Acquisition Evaluations, etc.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「No matter what type of businesses you run, every successful business must be able to communicate its ideas clearly to be successful. Equity research requires individuals to develop detailed reports, develop and deliver business case presentations, and respond to challenging investor inquiries, as well as being able to clearly present their ideas.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
@@ -1200,8 +1202,6 @@
   - 「例えば、予算が未達だった場合、現場から上がってきた「それらしい」理由をうのみにせず、多方面から情報の整合性を判断して、再び現場と真に迫るコミュニケーションをとるなど、手間暇を惜しまずに職務を全うしているのではないかと投資家側からは推察しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「そして、結果が仮説通りだったか、あるいは違ったのかを検証する」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「、例えば、自信に満ちた表情で語っているか、歯切れの悪い回答をしていないか、あるいは声のトーンや話すスピードなど、文章だけでは伝わらない「空気感」から、経営者の本気度や自信のほどを感じ取ることができます」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「その結果、購入時の価額を下回ることもあります」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「例えば証券会社のアナリストが上場企業の調査を新規に開始する場合には、最低でも数か月かけて対象会社とのコミュニケーションを重ね、財務データ、非財務データの分析や競合及び業界動向の調査、株価ドライバーの特定とその予想を行い、それらを業績予想と投資判断に集約して「イニシエーションレポート」として発行します」（https://note.com/shusuketerada/n/n348a235c7530）
 - 検索結果の抜粋：
   - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -1346,22 +1346,23 @@
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
 - 手順・やり方：
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「まずはこの後の6ステップで調査の軸を整えたうえで、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチの具体的な手順（6ステップ）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「以下の6ステップで進めます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ステップ1：調査目的・リサーチクエスチョンの設定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ステップ2：調査項目を具体化する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ステップ3：信頼できる情報ソースの選定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ステップ4：情報の収集・整理」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「Reference management tools have evolved from mere conveniences to essential instruments for researchers across all disciplines. These sophisticated software applications provide a robust framework for」（https://researcher.life/blog/category/research-reading/）
+  - 「What is JSTOR? How to Use JSTOR for Research?」（https://researcher.life/blog/category/research-reading/）
+  - 「Key Takeaways IMRAD stands for Introduction, Methods, Results, and Discussion; it is the most widely used structure for original research articles in the sciences and」（https://researcher.life/blog/category/research-reading/）
+  - 「How to Use ChatGPT for Research?」（https://researcher.life/blog/category/research-reading/）
+  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「Thesis Defense: How to Ace this Crucial Step」（https://researcher.life/blog/category/research-reading/）
+  - 「For every student or researcher embarking on a Master’s or PhD degree, the thesis defense is a pivotal moment. It’s a significant step in their」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「Research is a systematic, methodical process of inquiry aimed at exploring, analyzing, and interpreting information to answer specific questions or solve problems. According to the」（https://researcher.life/blog/category/research-reading/）
+  - 「Turabian style is a citation and formatting guide written specifically for students. It covers how to structure a research paper, thesis, or dissertation, and how」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/category/research-reading/）
+  - 「Cactus Communications (CACTUS) has moved a step further in its goal to fuel academic excellence and innovation by collaborating with Proceedings of the National Academy」（https://researcher.life/blog/category/research-reading/）
+  - 「Qualitative vs Quantitative Research: Differences, Examples, and Methods」（https://researcher.life/blog/category/research-reading/）
+  - 「This article covers what qualitative and quantitative research are, how they differ, when and how to use each, how to analyze and report results from」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Google Scholar and How to Use it for Research?」（https://researcher.life/blog/category/research-reading/）
 - 突き合わせ・推定：
+  - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/category/research-reading/）
   - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
@@ -1376,8 +1377,8 @@
   - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「重要な数値や主張は、異なる調査主体の情報と照合します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 一次情報の探し方：
+  - 「JSTOR is a digital library, founded in 1995, that gives researchers online access to millions of academic journals, books, and primary sources across many subjects.」（https://researcher.life/blog/category/research-reading/）
   - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
@@ -1392,8 +1393,9 @@
   - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 失敗・落とし穴：
+  - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「Key Takeaways: Anchoring bias is the tendency to weight the first number or framing you encounter too heavily, so that it pulls every judgment that」（https://researcher.life/blog/category/research-reading/）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
@@ -1407,25 +1409,24 @@
   - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
   - 「有名になりたいという気持ちは私にもありますが、仕事で自分の露出が目的化しないよう注意しています」（https://note.com/diisuket/n/n01a1dc6cd4e7）
-  - 「ただ自分に対して使う場合には、自らが使う言葉で錯覚しないよう細心の注意を払っています」（https://note.com/diisuket/n/n01a1dc6cd4e7）
-  - 「本業で、社員インタビュー（採用広報など）・顧客インタビュー（導入事例など）・各種表彰（社内外）を受ける際も注意が必要です」（https://note.com/diisuket/n/n01a1dc6cd4e7）
 - 実例：
-  - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「同じテーマでも、質問文や調査対象者が異なると結果は変わります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「調査結果を引用するときは、数値だけでなく調査条件も確認しましょう」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「How and Where to Find Research Papers for Literature Reviews: Literature Search Strategies and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「What is IMRaD Format in Research? Examples and Guidelines」（https://researcher.life/blog/category/research-reading/）
+  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「A case study investigates a bounded phenomenon in depth, within its real-world context, using multiple sources of evidence There are six main types: exploratory, descriptive,」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「Turabian Format: Chicago Style Tips & Examples for Students」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/category/research-reading/）
+  - 「Qualitative vs Quantitative Research: Differences, Examples, and Methods」（https://researcher.life/blog/category/research-reading/）
+  - 「What Is a Likert Scale? Definition, Types, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Purposive Sampling? Methods, Techniques, and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「Since the mid-20th century, English has become the global language of science. This wasn’t always the case. Scientists like Newton, Marie Curie, and Einstein published」（https://researcher.life/blog/category/research-reading/）
+  - 「What are Open Access Resources in Research: Types and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Descriptive Research? Definition, Methods, Types and Examples」（https://researcher.life/blog/category/research-reading/）
+  - 「What is Parenthetical Citation? APA, MLA & Chicago Examples」（https://researcher.life/blog/category/research-reading/）
 - 検索結果の抜粋：
+  - 「The 15 Best Academic Blogs for 2025 | Ex Ordo21 Best Academic Blogs Every Researcher Must FollowThe Researcher's Source Blog | For Researchers | Springer NatureResearch Reading: Blog Category | Researcher.LifeBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of Melb」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -3268,7 +3269,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -5728,6 +5729,7 @@
 - 失敗・落とし穴：
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5740,9 +5742,10 @@
   - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5755,8 +5758,6 @@
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります」（https://kanpou.ai/guide/kessan-kokoku）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -9234,14 +9235,14 @@
   - 「Take a step back, evaluate, and assess all of the facts.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「The most robust way of dealing with these situations is to take a step back, assess what is occurring, and act accordingly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「They can help you learn more about your relationships involving triangulation and how to navigate them safely.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation in Research: Types, Purpose, and How to Apply It」（https://casrai.org/guides/triangulation-in-research）
-  - 「Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
-  - 「more than one method or technique used to investigate the same question.」（https://casrai.org/guides/triangulation-in-research）
-  - 「Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.」（https://casrai.org/guides/triangulation-in-research）
-  - 「The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:」（https://casrai.org/guides/triangulation-in-research）
-  - 「4. Methodological Triangulation」（https://casrai.org/guides/triangulation-in-research）
-  - 「Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:」（https://casrai.org/guides/triangulation-in-research）
-  - 「Within-method triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「日本では明治時代から、全国の三角点の位置を決める方法として使われ、地形図整備の骨格になりました」（https://construction-dx.com/ict/triangulation）
+  - 「各ステップを順に実施することで、直接測れない地点の座標を高精度に求めます」（https://construction-dx.com/ict/triangulation）
+  - 「この手順を隣接する三角形に繰り返し適用した測量網を「三角網（さんかくもう）」と呼びます」（https://construction-dx.com/ict/triangulation）
+  - 「この手順を繰り返すことで、基線から連鎖的に多数の点の座標を導き出すことができます」（https://construction-dx.com/ict/triangulation）
+  - 「スネルは1617年に隣接する三角形を連続してネットワーク状に配置する手法を考案し、現代の三角測量の原型を生み出しました」（https://construction-dx.com/ict/triangulation）
+  - 「GNSS測量はネットワーク型RTK方式の普及により、単独の受信機だけで短時間に世界測地系の座標値を取得できるようになりました」（https://construction-dx.com/ict/triangulation）
+  - 「国土地理院が整備した三角点網はこの手法で構築されており、地形図の作成や土地の境界確定、大型構造物の施工測量など幅広い用途の基準として活用されています」（https://construction-dx.com/ict/triangulation）
+  - 「丁張り測量とは｜種類・かけ方・計算方法をわかりやすく解説」（https://construction-dx.com/ict/triangulation）
 - 突き合わせ・推定：
   - 「Triangulation in Families」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Triangulation in relationships refers to a communication pattern where one person avoids direct interaction with another, instead using a third person as an intermediary. This can create misunderstandings and conflicts, often serving as a」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
@@ -9258,8 +9259,11 @@
   - 「, triangulation is one of the best known.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Triangulation is a form of manipulation and is used to exploit an interaction between two people who are not communicating directly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Triangulation is often an attempt to gain control. The manipulator seeks advantage from the situation, in the form of loyalty or attention from the other parties.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+- 一次情報の探し方：
+  - 「公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています」（https://construction-dx.com/ict/triangulation）
 - 失敗・落とし穴：
   - 「, blamed for faults and mistakes whether or not they are responsible.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「A点から求めた座標とB点から求めた座標が一致すれば、計算に誤りがないと確認できます」（https://construction-dx.com/ict/triangulation）
   - 「The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.」（https://casrai.org/guides/triangulation-in-research）
   - 「different assumptions and are vulnerable to different biases」（https://casrai.org/guides/triangulation-in-research）
   - 「Common Pitfalls and Limitations」（https://casrai.org/guides/triangulation-in-research）
@@ -9273,7 +9277,6 @@
   - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
 - 実例：
   - 「Example 1: Using a Messenger」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「The third person may also be an inappropriate choice. For example, a parent becomes a mediator between the other parent and their child.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
@@ -9283,14 +9286,13 @@
   - 「Example 3: Avoiding Direct Confrontation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「In that case, direct communication may not have been used. Instead, the friend or family may have chosen to manipulate a third party or another person to say everything they needed.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
   - 「Annie Wright shows how this plays out in a composite case she calls “Rosalind,” whose mother was the link between her and her sister.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「フランス革命期の1792年からは、ドランブルとメシャンがダンケルクからバルセロナまでを三角測量し、その結果から求めた子午線の長さをもとに、1799年に確定メートル原器が作られました」（https://construction-dx.com/ict/triangulation）
+  - 「最新の技術・市場・制度・導入事例をわかりやすく整理し、建設業界のDX推進に役立つ情報を中立的な視点で発信しています」（https://construction-dx.com/ict/triangulation）
+  - 「Construction DX リサーチチームは、建設DX市場や最新技術、法制度、国内外の事例を継続的に調査・分析する専門チームです」（https://construction-dx.com/ict/triangulation）
+  - 「BIMの活用事例とは？国内外の導入事例と成功のポイントを解説」（https://construction-dx.com/ict/triangulation）
+  - 「設計から施工、維持管理までの段階別の活用や国内外の導入事例、自社で成功させるポイントまで分かります」（https://construction-dx.com/ict/triangulation）
   - 「Worked Examples of Each Type」（https://casrai.org/guides/triangulation-in-research）
   - 「), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.」（https://casrai.org/guides/triangulation-in-research）
-  - 「— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to」（https://casrai.org/guides/triangulation-in-research）
-  - 「What is an example of methodological triangulation?」（https://casrai.org/guides/triangulation-in-research）
-  - 「For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
 - 文脈：裏取り
@@ -9364,54 +9366,62 @@
 ## フェルミ推定の結果を既知の統計の総量と照らして仮定を直す手順（分解を終えてから数を入れる・クロス・マーケティング等の調査会社の解説）（Fermi estimation sanity check against known statistics revise assumptions market research firm）
 - 文脈：推定
 - 手順・やり方：
-  - 「解き方の4ステップと注意点」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「ステップ1：前提条件の確認（問題の明確化）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「ステップ2：要素分解をして公式を作成（因数分解）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「ステップ3：公式に数字を入力（計算）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説 | マイビジョン」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「フェルミ推定の基礎知識や5つの手順、難易度別の例題・解答例、面接で評価されるポイントまで解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説｜キャリアトラス｜就職・転職を応援する情報メディア」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定のやり方を5ステップで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「経験を積むほどにスムーズに解けるようになる一方、未経験者にとってはアプローチ方法すら思い浮かばない、独特で難解な課題です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「具体的な手順を順序立てて話し、面接官があなたの考え方を追いやすいようにすることが重要です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「面接官は、問題へのアプローチ方法や解決策を導くまでのプロセスを重視しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「前提条件を共有した後、次に問題解決のアプローチ方法を決定します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「このステップでは、焦らず正確に計算を行うことを意識しましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「1～4のステップで設定した計算式や得られた数値が、実際の数値とどの程度乖離しているかを検証します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「以上の5つのステップを理解したうえで、実際に問題に挑戦してみましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「問題の理解、要素分解、数値代入と計算、結論の検証といった各ステップにかける時間をあらかじめ決めておくことで、時間内に解答をまとめることができます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「では過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数無料掲載しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「書籍を活用したり、模擬面接を受けるなど、様々な方法で練習を重ねましょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【例文30選】短い自己PR | 元人事が履歴書・ES・面接で端的に伝える方法を解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
 - 突き合わせ・推定：
-  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「大規模調査を行わずとも一定の根拠を得られる点や、データ不足でも特定の要素から市場規模を把握できるなど、意思決定や仮説検証を迅速化させる利点を把握できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定とは、限られた情報と論理的な思考を組み合わせて、大まかな数値を素早く推定できる手法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「実際のデータが十分に揃っていない状況でも、仮説と計算を重ねることで妥当な概算を導き出せるため、マーケティングや新規事業の検討など、ビジネスのさまざまな場面で活用されています」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「マーケターがフェルミ推定を活用するメリット」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定は、マーケティング分析にスピードと精度をもたらします」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定は、大規模な市場調査を実施しなくても、自社が保有するデータや一般に公開されている情報をもとに、仮説を立てたりマーケットの概算を把握したりできます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「外部のリサーチ会社に依頼するような費用や時間をかけることなく、一定の根拠を持った推定ができる点が大きな強みです」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「正確な市場データが入手できない場面でも、フェルミ推定を活用することで大まかな市場規模を算出できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「データが十分に揃うのを待つのではなく、現時点の情報を最大限活用してスピーディーに動けることが、フェルミ推定の大きな利点です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説｜キャリアトラス｜就職・転職を応援する情報メディア」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【過去問題あり】フェルミ推定とは？基礎知識・例題・やり方まで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定のやり方を5ステップで解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「「コンビニ1店舗当たりの売り上げを推定して売り上げ向上施策を考えよ」」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「コンサルや外資系企業の採用でよく用いられるフェルミ推定について解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「本記事では、未経験者にもわかりやすくフェルミ推定の基礎を解説し、実際の選考通過者の回答例や頻出問題も多数紹介」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「この記事1本で、フェルミ推定の全貌を網羅的に学べる内容となっています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定とは、限られた情報をもとに論理的推論を駆使し、短時間で概算値を導き出す思考法です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定は、「くだらない」と感じる人もいるかもしれませんが、実際にはビジネスでも大いに役立つ考え方です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「限られた情報から仮説を立て、答えを導くプロセスを通じて、現実的な解決策を見出す力が養われます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定では、答えの正確さよりも、問題を分解し、論理的に仮説を立てる過程が評価されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「ケース面接では、フェルミ推定が頻繁に出題されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「推定値を提示する際は、その根拠を明確に伝えることが重要です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「フェルミ推定では、以下の4つのアプローチ軸を用いて問題を解くことが一般的です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
 - 一次情報の探し方：
-  - 「フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「コンサルティングファームなどの採用面接では、実際に論理的に考える力や仮説を立てる力を確認するために出題されることがあります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「国勢調査と住民基本台帳では対象の定義が違うため、参照する統計を確認したうえで使いましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「また、既知の統計や身近な感覚と比べたり、別のアプローチから概算したりする方法も有効です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「フェルミ推定では、統計の細かな数値をそのまま使う必要はありません」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「統計によって18歳人口の定義が異なる点は押さえておきましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「ここでは、日本フランチャイズチェーン協会の統計対象となる主要コンビニチェーンの店舗を想定します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「協会の統計はJFA正会員のコンビニ本部を対象としているため、妥当性検証の条件もそろえやすくなります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「1店舗当たりの商圏人口は公的な基礎数値ではないため、ここでは生活圏にあるコンビニの店舗密度から約2,000人と仮定しています」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「ただし公表統計と比較する際は、対象範囲をそろえる必要がある」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「実際の統計と照らす場合も、豆・インスタントの小売額、カフェの飲食代、コーヒー飲料のいずれを含むかで公表値は大きく変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「の採用面接においても、この推定プロセスが思考力の指標として用いられている」（https://www.concord-career.com/dictionary/fermi/）
-  - 「店舗数 × 1店舗あたりの1日売上 × 365日、という供給側の分解を採用する」（https://www.concord-career.com/dictionary/fermi/）
-  - 「・日本全国のコンビニ店舗数：約5万8,000店（業界統計より概算）」（https://www.concord-career.com/dictionary/fermi/）
+  - 「コンサルや外資系企業の採用でよく用いられるフェルミ推定について解説」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「この手法は、コンサルティングファームや投資銀行など、高度な問題解決能力を必要とする業界の採用試験でも頻繁に用いられています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「文化庁の調査結果や映画業界の統計データをもとに評価します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「その後は新卒人材紹介・保育士転職支援の営業として企業の採用支援」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「その後採用人事としての経験を経て、現在はWebマーケティングを担当しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「元採用人事・元キャリアアドバイザーの視点から就活・キャリアについて専門的に発信していきます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「秋採用とは？企業の探し方と今すぐやるべきことをスケジュール別に解説！」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「だからこそ、コンサル面接や総合商社の採用試験で重視され、就活生にとって避けて通れないテーマになっているのです」（https://nengoro.com/column/marketing/fermi/）
+  - 「コンサルや総合商社の採用試験で定番の問いかけは「日本にピアノの調律師は何人いるか？」「東京駅を1日に利用する人数は？」といったもの」（https://nengoro.com/column/marketing/fermi/）
+  - 「統計を覚えていなくても、身近な知識を組み合わせれば近い答えにたどり着けます」（https://nengoro.com/column/marketing/fermi/）
+  - 「市場データや統計がなくても仮定を立て、数字を組み立て、結論を導く」（https://nengoro.com/column/marketing/fermi/）
+  - 「統計や市場調査を待つ時間がないときでも、」（https://nengoro.com/column/marketing/fermi/）
+  - 「具体的な統計を待たずとも、」（https://nengoro.com/column/marketing/fermi/）
+  - 「ここまでの例題からもわかるように、必要なのは高度な統計学ではありません」（https://nengoro.com/column/marketing/fermi/）
+  - 「統計データがすぐに手に入らない場面でも、仮定を置いて筋道を組み立てるだけで議論が前に進む」（https://nengoro.com/column/marketing/fermi/）
 - 失敗・落とし穴：
+  - 「コンサルティングファームの面接では、ほぼ間違いなくフェルミ推定の問題が出題されるため、事前の対策は必須です」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【7】初心者がやりがちな失敗と回避法」（https://nengoro.com/column/marketing/fermi/）
+  - 「ここを勘違いして「大きな数字を出せば評価される」と思い込むと失敗します」（https://nengoro.com/column/marketing/fermi/）
+  - 「面接でも実務でも「惜しい…！」という結果にならないよう、初心者が気をつけるべき失敗とその回避策を整理しました」（https://nengoro.com/column/marketing/fermi/）
+  - 「面接や会議で「答えだけ」を伝えてしまうのも典型的な失敗です」（https://nengoro.com/column/marketing/fermi/）
+  - 「初心者が失敗を避けるには、①根拠ある仮定を置く、②計算プロセスを省略しない、③無理に正解に寄せない──この3点を意識するだけで精度が一気に上がります」（https://nengoro.com/column/marketing/fermi/）
+  - 「失敗を避ける導入のコツも紹介し、集客と利益改善のヒントを得られます」（https://nengoro.com/column/marketing/fermi/）
+  - 「生成AIとは？仕組み・種類・できること・注意点をわかりやすく解説」（https://nengoro.com/column/marketing/fermi/）
   - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「解き方の4ステップと注意点」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
@@ -9419,24 +9429,22 @@
   - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「推定値が大きく乖離した場合は、いずれかの仮定に誤りがある可能性が高いため、前提に立ち返って修正する」（https://www.concord-career.com/dictionary/fermi/）
   - 「数える範囲を曖昧にしたまま計算を進めると、論理展開が成り立たなくなるため注意しましょう」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
-  - 「その場合は指摘を速やかに受け入れ、誤りがあれば修正しましょう」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
-  - 「面接は早い方がいい？日程や時間帯の選び方と注意点」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
 - 実例：
-  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「例えば「日本にある電柱の本数は？」や「人は1日に何歩くらい歩くのか？」といった、一見すると答えが見当たらない質問に対しても、すでにわかっている情報を細かく分けて考え、推論を積み重ねることで現実的な見積もりを導き出します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定の結果はあくまでも「仮説の出発点」として位置づけ、過信しすぎないことが重要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「特に重大な意思決定を伴う場面では、フェルミ推定の結果を参考程度に留め、必ず別途裏付けとなるデータを収集するようにしましょう」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「Q1.フェルミ推定とケース面接の違いは何ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「労働力調査（基本集計）2025年平均結果」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「ここでは、前提条件の確認から計算結果の検証まで、基本となる5つの手順を解説します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「「日本全国にコンビニは何店舗あるか」という問題でも、どこまでをコンビニとして扱うのかによって推定結果は変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「結果への影響が大きい要素を優先し、限られた時間でも計算できる粒度にとどめることがポイント」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「計算式が合っていても、前提や代入した数値に無理があると、結果が大きくずれるためです」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「実際には、医学部などの6年制課程や留年者などもいるため、4学年で一律に計算した結果には誤差が生じます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
-  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「特にケース面接では、候補者の論理的思考力を評価する重要な基準とされています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「ケース面接では、フェルミ推定が頻繁に出題されます」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「推定結果の5,000億円は、実際の市場規模と近い値となっています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「文化庁の調査結果や映画業界の統計データをもとに評価します」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「では過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数無料掲載しています」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】アイフォンケースの売上はいくらか？：ベイン面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】日本のトイレットペーパーの市場規模は？：モニターグループ過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】日本にある傘の本数を求めよ：BCG面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】メキシコからアメリカへの移民数の減少要因：BCG14卒論述試験過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】地方私立大学の生き残り戦略を立案せよ：アクセンチュア過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】日本の散髪屋の数を求めよ：野村総研過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】日本に高等学校は何校あるか？：BCG面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「【ケース】ネットオークションの売上規模推定と2倍にする施策：ドリームインキュベータ面接過去問」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「2. 検索バーから「ケース面接」または「フェルミ推定」と入力」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
+  - 「就活生がつまずきやすいのは「頭の中で計算して黙ってしまう」ケースです」（https://nengoro.com/column/marketing/fermi/）
 - 検索結果の抜粋：
   - 「フェルミ推定 の解き方やメリットを解説！活用の注意点は？ — フェルミ推定 の解き方やメリットを解説！活用の注意点は？ クロス・マーケティング https://www.cross-m.co.jp > marketing > mkc20260925」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 
