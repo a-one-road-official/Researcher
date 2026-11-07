@@ -3112,6 +3112,9 @@
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「(1) 計測のフレームワーク」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「(効果) へ分解するための標準的なフレームワーク (Foster et al. 2001) を示す?」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「なお、上記のフレームワークでは明示的に表現されていない構成要素が存在する点にも」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
   - 「This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「In this paper, we propose an extension of the productivity decomposition method developed by Olley」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
@@ -3124,26 +3127,27 @@
   - 「exit). Several of these decomposition methods are based on following individual producers from」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「shares and productivity developed by Olley and Pakes (1996) – hereafter OP. That method does」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「tributions that are a feature of the other decomposition methods that follow individual producers」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「step.) Historically, the analysis of aggregate productivity changes across countries and over time」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「We contrast the results from our decomposition method with the two main methods that are」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 突き合わせ・推定：
+  - 「日本経済においてこの 2 点を検証すべく、先行研究の知見を確認した」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「(shock仮説)、も しくは②企業が部門固有の生産性ショックに直面しているにもかかわらず、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「(responsiveness仮説)、という 2つの可能性を検証している」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「れが2000年代にかけて緩やかながら上昇している事実を確認 し、shock仮説は説得的ではな」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「する反応が弱いとするresponsiveness仮説による説明が有効であると主張した」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「彼らの検証によれば、米国企業の事業所レベルの雇用成長率を生産性 (1期前) に回帰す」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「を参考として、 日本の生産性のばらつきの状況を確認し、 次にresponsiveness仮説を参考に、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「GE) 以下の論文にて推計された、上場企業の実質労働生産性の分布」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「れたのかを確認したいが、 別途マイクロデータを用いた検証が必要となるため、ここでは中」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「and services, nominal physical capital and employment. From these we can calculate (or estimate)」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「per worker. We estimate TFP for our second measure as the residual of the ﬁrm-level production」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「former yields productivity estimates that have a much more direct welfare interpretation. However,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「substantially greater than Φ S1. Thus, the GR decomposition will substantially over-estimate the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計にあたっては、 各国固有の要因をコントロールするために、 国別の固」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計期間は 1995～2017 年であ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「本推計は、 無形」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「表 1 推計結果：無形資産投資が労働生産性に与える影響」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 一次情報の探し方：
+  - 「① 分析の前提コロナ・ショック前後の区分と企業の決算期」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「更に分析対象を3月期決算の企業へ絞ることで、 2020年3月」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「決算から得られるデータをコロナ・ショック前、 2021年3月決算及び2022年4月決算から得ら」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「ると、統計的に有意な正の関係が得られる89」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「ディスカッション・ペーパー:19-E-069 [PDF:2.6MB] (英語)」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
   - 「この手法を、1986年から2014年までの工業統計の事業所レベルのデータに適用し、5年ごとの平均値を示したのが、図2である」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
   - 「図2：工業統計データの集計生産性分解」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
@@ -3155,10 +3159,6 @@
   - 「統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「なお、 法人企業統計ベースの労働生」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「法人企業統計における臨時従業員数は、 臨時従業員の総労働時間」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 失敗・落とし穴：
   - 「into these same four components introduce some biases in the measurement of the contributions of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「We find that, over a 5 year period, the measurement bias associated with entry and exit is substantial,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
@@ -3176,21 +3176,21 @@
   - 「but we again will argue that some bias still remains.」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「choice of reference productivity level will necessarily lead to a bias in measuring the contribution」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 実例：
+  - 「コロナ福前後の日本におけるマクロレベルの生産性変動を分解した結果、第一に、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「以上の結果は、マクロレベルの生産性改善を展望するに当たり、個々の企業レベル」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「例えば、退出の態様」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「例えば、企業:がその業種を転換した場合、当該業種からの退出と他の」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「特徴的な結果と して、 第一に、 内部効果がコロナ・ショック後の時期において顕著に低下」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「2022年へ更に分解した結果を図表3に示す」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「図表2でコロナ補に対応する期間として示した2021年て2022年の結果との違いとして、」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「この結果は、コロナ・ショックがもたらした影響が一時」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf）
+  - 「うした資源の再配分がマクロの生産性向上につながっているという結果が報告されており」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「得られた背景として、経済センサス活動調査で包括的な情報を把握した結果、中小企業のカバー率が向上」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「とづいて日本の現状を考察するが、その前に、同論文の研究結果を確認しておく」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「これらの結果にもとづくと、米国経済では、 1990年代に若いハイテク企業がその生産性の」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「(注) Decker et al(2020)の結果の一部を筆者が略図にしたもの」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
+  - 「部門ショックが生じた後に生産要素が移動しない結果として、生産性格差が拡大したまま」（https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf）
   - 「over time. Empirically, we show that these biases are substantial for the case of Slovenia’s transi-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「case of an economy in transition that exhibits very large productivity changes: depending on the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「2See, for example, Bartelsman et al. (2009), Hsieh and Klenow (2009), and Collard-Wexler, Asker and De Loecker」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「For example, if productivity is measured as valued-added per worker and the weights are employment shares, then」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「Consider ﬁrst the case of labor productivity. Table 6 reports the underlying aggregate labor」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「Consider next the case of TFP. The same reasoning explains the over-measurement of the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「In the case of a growing economy such as Slovenia, the over-measurement of the contribution of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「Φ1 than the GR decomposition reference productivity level ¯Φ. (In both cases, the over-measurement」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「gation. For example, the unweighted mean-covariance decomposition can be applied to industries」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「relevant interpretation, as it captures an average measure of output per unit input. In the case of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「(value added per worker in our example with labor productivity).」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「In this appendix, we show how our decomposition can be applied to this case. The only required」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
-  - 「このノンテクニカルサマリーは、分析結果を踏まえつつ、政策的含意を中心に大胆に記述したもので、DP・PDPの一部分ではありません」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
-  - 「これらの結果、特に配分効率性の効果は、従来よく用いられてきたFoster, Haltiwanger, and Krizan (2001)の手法による分解結果とは異なるものであり、本研究によって、資源配分の効率性や企業の参入を促すことの重要性を示す定量的なエビデンスが提供されたといえる」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
 
 ## 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）（research decision log revisit conditions stale data refresh criteria）
 - 文脈：手順・やり方
@@ -3725,6 +3725,8 @@
 - 手順・やり方：
   - 「実施率わずか1.8%の実態、3つの公告方法の費用比較、今から始める手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「資本金の科目はなく、持分のある社団は「出資金」、基金拠出型の社団は「基金」が純資産の部に計上されます」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告と広告の違い、官報・新聞・電子公告の方法、違反時の法的責任までわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告方法の種類ごとの メリット、デメリット」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3736,8 +3738,6 @@
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「3つの公告方法」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
   - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -3755,21 +3755,21 @@
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hinagata/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 一次情報の探し方：
-  - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「とはいえ、税務申告をするうえで全ての企業で決算書の作成義務がありますし、株主や取引銀行から計算書類の提出が求められるでしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１．決算公告」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「上場会社のほとんどは印刷会社の開示支援サービスを利用して、決算短信や有価証券報告書、招集通知などの開示書類を作成しています」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、ここで作成すべきとされている注記表はあくまで計算書類のためのものであり、後述する全文による決算公告における注記とは必要なものが異なります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、電子公告にあたっては、ホームページのアドレスを登記する必要があります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「持分会社（合名会社、合資会社、合同会社）については決算公告は不要」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１－３．要旨による決算公告 - 中小企業 -」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「このページは、開示ワイヤーが収録する官報の決算公告を読むときの前提と、公告ページ・企業ページに出てくる表記の意味をまとめたものです」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「公告の方法は定款で官報・日刊新聞紙・電子公告のいずれかを定め、官報または日刊新聞紙の場合は貸借対照表の「要旨」の公告で足ります（同条2項）」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「有価証券報告書を提出している会社は決算公告が免除されます」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「上場企業の決算が官報にほとんど載らないのはこのためで、上場企業の決算はEDINETの有価証券報告書とTDnetの決算短信から収録しています」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「ただしTOKYO PRO Marketなどプロ向け市場の上場企業は有価証券報告書を提出しないため、決算公告の義務が残ります」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「開示ワイヤーが「決算公告」として収録するのは、官報（インターネット版官報）に掲載された分と、一部の企業の電子公告（自社サイト掲載分）です」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「官報の要旨公告は貸借対照表のみのものが大半で、損益計算書の要旨まで掲載する公告は全体の1割弱です」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「官報の原本では「△」が使われることがあります」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「期末月が決算月で、企業ページの決算月の表示もこれにもとづきます」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「「非開示」「—」は、その期の公告に損益計算書の要旨が掲載されていない（貸借対照表のみの決算公告）ことを示します」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「「未収録」は、その期間の決算公告・報告書を収録していない期です」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「官報の収録に抜けがあり期間が離れている場合、公告ページでは前期の列を出さず、企業ページの決算ハイライトでは「2024年3月期比」のように比較対象の期を明示します」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「売上高・営業利益・経常利益は損益計算書の要旨が掲載された公告、または有価証券報告書・決算短信からのみ収録します」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「企業ページのこれらの項目は国税庁法人番号公表サイト・gBizINFO・日本年金機構の適用事業所検索、および商業・法人登記から取得しています」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「株式会社以外の法人は、決算書の様式と科目の名称が会社法の計算書類と異なります」（https://kaijiwire.jp/guide/kessan-kokoku）
 - 失敗・落とし穴：
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -7829,7 +7829,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -9625,11 +9625,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -10909,8 +10909,8 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）

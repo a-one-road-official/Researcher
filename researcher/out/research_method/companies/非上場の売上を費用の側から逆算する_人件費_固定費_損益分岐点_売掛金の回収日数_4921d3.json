@@ -8,15 +8,15 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T08:40:00.695561+00:00",
+ "researched_at": "2026-11-07T13:23:48.664247+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
     "url": "https://biz.moneyforward.com/accounting/basic/47169/",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://betrading.jp/contents/financing-info/receivable-turnover-period/",
@@ -54,7 +54,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.r-ac.co.jp/blog/10176/",
+    "url": "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -64,7 +64,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.motenashio.com/sonekibunkiten-template/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://kmp.or.jp/soneki-bunkiten-keisan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-ac.co.jp/blog/10176/",
     "status": "ok",
     "method": "http"
    },
@@ -74,17 +84,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://hospital.co.jp/management/%E6%90%8D%E7%9B%8A%E5%88%86%E5%B2%90%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://keisan-navi.jp/bep-keisan/",
     "status": "ok",
     "method": "http"
    },
@@ -94,12 +94,37 @@
     "method": "http"
    },
    {
+    "url": "https://keisan-navi.jp/bep-keisan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://ishii-cpatax.com/profit-plan-reverse-calculation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kenshiokada-cpa.jp/break-even-sales-small-business",
+    "url": "https://www.keisanbox.jp/break-even",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/gentarou/items/4f6be536323863bba2e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m-sasaki-tax.com/break-even-point/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/44694/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://suzuki-tax.net/shacho-kyokasho/break-even-point",
     "status": "ok",
     "method": "http"
    },
@@ -146,7 +171,7 @@
     "https://www.obc.co.jp/360/list/post307",
     "https://www.crd-office.net/blog/window-dressing/",
     "https://bakuraku.jp/knowledge/knowledge-ar-management/ar-turnover-period-accounts-receivable/",
-    "https://www.r-ac.co.jp/blog/10176/",
+    "https://keiridriven.mjs.co.jp/130418/",
     "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
     "https://note.com/shijochosa_labo/n/neb7202c7e2e7"
    ]
@@ -162,7 +187,7 @@
     "https://www.crd-office.net/blog/window-dressing/",
     "https://bakuraku.jp/knowledge/knowledge-ar-management/ar-turnover-period-accounts-receivable/",
     "https://keiridriven.mjs.co.jp/130418/",
-    "https://www.r-ac.co.jp/blog/10176/",
+    "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
     "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki"
    ]
   },
@@ -192,8 +217,8 @@
     "https://www.crd-office.net/blog/window-dressing/",
     "https://bakuraku.jp/knowledge/knowledge-ar-management/ar-turnover-period-accounts-receivable/",
     "https://keiridriven.mjs.co.jp/130418/",
-    "https://www.r-ac.co.jp/blog/10176/",
-    "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki"
+    "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
+    "https://www.motenashio.com/sonekibunkiten-template/"
    ]
   },
   {
@@ -207,7 +232,7 @@
     "https://payproglobal.com/answers/what-are-days-to-break-even/",
     "https://www.cfosystemsllc.com/blog/breaking-even-and-beyond-the-value-of-a-break-even-analysis",
     "https://www.netsuite.com/portal/resource/articles/financial-management/break-even-analysis.shtml",
-    "https://wiss.com/break-even-analysis-for-manufacturing-cfos/",
+    "https://www.sba.gov/counseling/plan-your-business/break-even-point-calculator/",
     "https://costprism.com/break-even/"
    ]
   },
@@ -215,12 +240,12 @@
    "query": "site:note.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
    "results": [
     "https://note.com/shijochosa_labo/n/neb7202c7e2e7",
+    "https://note.com/shingeki_saisei/n/nc1130c8745a9",
     "https://note.com/pythonddd/n/n02d347b6554a",
-    "https://note.com/royal_yak5583/n/n0df1d85b033e",
     "https://note.com/numera_flow/n/naccef947d218",
-    "https://note.com/tad_shimizu/n/nf7cb43f5bc5b",
+    "https://note.com/royal_yak5583/n/n0df1d85b033e",
     "https://note.com/acct_kanehira/n/nd8ec41836031",
-    "https://note.com/shingeki_saisei/n/nc1130c8745a9"
+    "https://note.com/sghr_tkn/n/nb39bbf62d9ce"
    ]
   },
   {
@@ -231,33 +256,25 @@
     "https://x.com/noct_luna_note/status/2111944732238860464",
     "https://x.com/takeya_shogo/status/2040655676368978058",
     "https://x.com/ChikashiKakehi/status/2082934265445323193",
-    "https://x.com/keisuke_insyoku/status/2115675855620042968",
-    "https://x.com/ssc_nakamitsu/status/1690944334487773184"
+    "https://x.com/ssc_nakamitsu/status/1690944334487773184",
+    "https://x.com/naoto_miyagawa/status/2047892967764250644"
    ]
   },
   {
    "query": "site:linkedin.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
    "results": [
-    "https://www.linkedin.com/posts/yosuke-yoshida_妻の友人が飲食店を起ち上げるということで面白そうなので手伝っております-検討ポイント-activity-7274921316946735105-fUvr",
-    "https://jp.linkedin.com/posts/美映-遠藤-440178350_採用や一括投資のリスクを排除して売上を逆算する動線構造を整える-朝の投稿-activity-7482365711948869632-EL8-",
-    "https://jp.linkedin.com/learning/building-financial-models-for-decision-making/10309003",
     "https://jp.linkedin.com/posts/tigermonday_中小企業はthe-modelをどう取り入れる分業を急がず売上から逆算する-activity-7503950613320232960-LBbJ",
+    "https://jp.linkedin.com/learning/building-financial-models-for-decision-making/10309003",
     "https://www.linkedin.com/posts/真二-山内-b5288844_計数計画の策定5計数計画の作成手順とは-事業再生シリーズno76-計数計画-activity-7245556425823846401--AnG",
+    "https://www.linkedin.com/posts/yosuke-yoshida_妻の友人が飲食店を起ち上げるということで面白そうなので手伝っております-検討ポイント-activity-7274921316946735105-fUvr",
     "https://jp.linkedin.com/posts/masahiro-nishi-a1990452_中小企業はthe-modelをどう取り入れる分業を急がず売上から逆算する-activity-7503950619393830913-Bv1V",
+    "https://jp.linkedin.com/posts/美映-遠藤-440178350_採用や一括投資のリスクを排除して売上を逆算する動線構造を整える-朝の投稿-activity-7482365711948869632-EL8-",
     "https://jp.linkedin.com/in/歩-塚本-5571672a"
    ]
   },
   {
    "query": "site:facebook.com 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合",
-   "results": [
-    "https://www.facebook.com/shogo.takeya.0711/videos/出店時に絶対に見ないといけない数字はこれ固定費固定費を全部書き出して損益分岐点売上を計算️これをやらずに契約書にハンコは絶対ダメです食を通じて社会課題の解決をと/1564297311917374/",
-    "https://www.facebook.com/balanceblog/posts/ブログ更新しました毎月の固定費や借入の返済額将来の設備投資への積立額などから逆算で必要な目標売上を確認できた目標が決まったからといって安心できませんその数字を件/3043611189183946/",
-    "https://www.facebook.com/wamaru8/posts/-損益分岐点売上高その2-損益分岐点売上高固定費1-変動費売上高さて何故この数式なんでしょう️-利益がいくらか分かるには営業利益売上高変動費固定費先日ご説明した/1316876041816307/",
-    "https://www.facebook.com/hiroki.saito.148/videos/損益分岐点は出勤する人数で決まります2名で回す店なら月商75万円1名なら55万円1日78人で黒字になります根元だけの白髪染め専門店を5店舗経営しています開業費用/2044817016164696/",
-    "https://www.facebook.com/watch/?v=4056513087937954",
-    "https://www.facebook.com/TripleWin.HorieKaikei/videos/連載の第４回目月刊税理９月号p250257に記事が掲載されました今回は利益計画にも役立つ損益分岐点の応用式について説明しています損益分岐点とは売上高と費用がプラ/1385866015237363/",
-    "https://www.facebook.com/bk.partner/videos/オーナー必見日商によって課題や戦略は異なる/1193903702359969/"
-   ]
+   "results": []
   },
   {
    "query": "非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合 note 社長",
@@ -270,7 +287,7 @@
     "https://www.crd-office.net/blog/window-dressing/",
     "https://bakuraku.jp/knowledge/knowledge-ar-management/ar-turnover-period-accounts-receivable/",
     "https://keiridriven.mjs.co.jp/130418/",
-    "https://www.r-ac.co.jp/blog/10176/",
+    "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
     "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki"
    ]
   },
@@ -285,7 +302,7 @@
     "https://www.crd-office.net/blog/window-dressing/",
     "https://bakuraku.jp/knowledge/knowledge-ar-management/ar-turnover-period-accounts-receivable/",
     "https://keiridriven.mjs.co.jp/130418/",
-    "https://www.r-ac.co.jp/blog/10176/",
+    "https://www.jfc.go.jp/n/finance/sougyou/column/202303/index.html",
     "https://ayusawa-partners.jp/column/soneki-bunki-ten-genkai-rieki"
    ]
   },
@@ -300,19 +317,19 @@
     "https://mv.linkedin.com/in/vasanthakumar-devamaran-2aa476299",
     "https://www.linkedin.com/in/saamir-gehani",
     "https://www.linkedin.com/posts/sudam-behera-14759727_how-to-read-financial-statements-activity-7387489786179231744-Zka-",
-    "https://www.linkedin.com/posts/salman-ca_what-is-nci-non-controlling-interest-nci-activity-7420443238865719296-GEQx",
-    "https://in.linkedin.com/in/mukhtar-malla-2285338"
+    "https://www.linkedin.com/company/indinero",
+    "https://www.linkedin.com/posts/salman-ca_what-is-nci-non-controlling-interest-nci-activity-7420443238865719296-GEQx"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ29頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）",
+  "実例": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T03:22:31.042707+00:00"
 }
