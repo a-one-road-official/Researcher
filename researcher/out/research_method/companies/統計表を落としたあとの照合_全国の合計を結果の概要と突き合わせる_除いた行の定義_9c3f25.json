@@ -8,7 +8,7 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-07T15:04:53.148330+00:00",
+ "researched_at": "2026-11-07T20:31:13.384723+00:00",
  "evidence": {
   "実例": [
    {
@@ -97,190 +97,6 @@
    },
    {
     "quote": "いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "国勢調査データのクレンジングを進める6つのSTEP",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP1 利用目的と必要な集計単位の確定",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP2 元データの構造把握とヘッダー・階層の整形",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP3 表記の標準化：全角半角・数値型・文字コード",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP4 欠測・秘匿値・不詳の処理方針の決定",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP5 地域コードによる名寄せと他データとの結合",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "BtoB企業：市場規模推計での按分処理の設計",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "加工が終わったデータは、必ず元の統計表の総数と突き合わせます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証と並んで欠かせないのが、加工履歴の記録です",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します",
-    "url": "https://data-viz-lab.com/census-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます",
     "url": "https://data-viz-lab.com/census-data",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -469,6 +285,190 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国勢調査データのクレンジングを進める6つのSTEP",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP1 利用目的と必要な集計単位の確定",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP2 元データの構造把握とヘッダー・階層の整形",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP3 表記の標準化：全角半角・数値型・文字コード",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP4 欠測・秘匿値・不詳の処理方針の決定",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP5 地域コードによる名寄せと他データとの結合",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "APIを使う場合は、e-Statの利用登録を済ませてアプリケーションIDを発行する手順が入ります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "補完する場合は、補完した旨と方法を必ず記録し、補完前の値を別列で保持してください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP6 総数との突合による検証と加工履歴の記録",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "BtoB企業：市場規模推計での按分処理の設計",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "加工が終わったデータは、必ず元の統計表の総数と突き合わせます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証と並んで欠かせないのが、加工履歴の記録です",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "増減率を計算する前に、対象地域のコードが両年で同一かを機械的に照合する処理を入れます",
+    "url": "https://data-viz-lab.com/census-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
@@ -485,12 +485,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000723697.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
+    "url": "https://sukyojuku.com/joho1-data-seikei/",
     "status": "ok",
     "method": "http"
    },
@@ -500,17 +500,22 @@
     "method": "browser"
    },
    {
+    "url": "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sukyojuku.com/joho1-data-seikei/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
+    "url": "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "status": "ok",
     "method": "http"
    },
@@ -526,11 +531,6 @@
    },
    {
     "url": "https://note.com/iso910/n/n369ec95a7c00",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/koukou_tools/n/n5a0ad435e759",
     "status": "ok",
     "method": "http"
    },
@@ -560,22 +560,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_henshubu_note/n/n6aa0bb5c7bb8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xn--8pr380g.com/ja/blog/excel-data-comparison/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ibm.com/think/topics/data-reconciliation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://workforce.libretexts.org/Bookshelves/Information_Technology/Computer_Applications/Workplace_Software_and_Skills_(OpenStax)/11%3A_Advanced_Excel_Spreadsheets-_Statistical_and_Data_Analysis/11.01%3A_Understanding_Data_Data_Validation_and_Data_Tables",
     "status": "ok",
     "method": "http"
    },
@@ -585,17 +570,22 @@
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Data_validation_and_reconciliation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.datafold.com/blog/data-reconciliation-best-practices/",
+    "url": "https://en.wikipedia.org/wiki/Data_validation_and_reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workforce.libretexts.org/Bookshelves/Information_Technology/Computer_Applications/Workplace_Software_and_Skills_(OpenStax)/11%3A_Advanced_Excel_Spreadsheets-_Statistical_and_Data_Analysis/11.01%3A_Understanding_Data_Data_Validation_and_Data_Tables",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbots.com/glossary/reconciliation-data-validation",
     "status": "ok",
     "method": "http"
    }
@@ -607,75 +597,98 @@
    "results": [
     "https://data-viz-lab.com/census-data",
     "https://www.stat.go.jp/",
-    "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
-    "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
+    "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://sukyojuku.com/joho1-data-seikei/",
+    "https://buralog.jp/excel-20261007-pivot-distinct-count/",
     "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
-    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
+    "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/easy_honest8308/n/n4b5c35ba34b1"
-   ]
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） note",
    "results": [
     "https://data-viz-lab.com/census-data",
-    "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "https://www.stat.go.jp/",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://data-viz-lab.com/excel"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） やり方",
    "results": [
     "https://data-viz-lab.com/census-data",
-    "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "https://www.stat.go.jp/",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://data-viz-lab.com/excel"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） 事例",
    "results": [
     "https://data-viz-lab.com/census-data",
-    "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "https://www.stat.go.jp/",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
-    "https://data-viz-lab.com/excel"
-   ]
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "reconcile downloaded statistical tables with official summary totals data validation",
    "results": [
     "https://www.ibm.com/think/topics/data-reconciliation",
-    "https://workforce.libretexts.org/Bookshelves/Information_Technology/Computer_Applications/Workplace_Software_and_Skills_(OpenStax)/11%3A_Advanced_Excel_Spreadsheets-_Statistical_and_Data_Analysis/11.01%3A_Understanding_Data_Data_Validation_and_Data_Tables",
     "https://dqops.com/docs/categories-of-data-quality-checks/how-to-reconcile-data-and-detect-differences/",
-    "https://en.wikipedia.org/wiki/Data_validation_and_reconciliation",
     "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "https://www.datafold.com/blog/data-reconciliation-best-practices/",
-    "https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html",
-    "https://www.youtube.com/watch?v=6osDRHWZtK8",
+    "https://en.wikipedia.org/wiki/Data_validation_and_reconciliation",
+    "https://workforce.libretexts.org/Bookshelves/Information_Technology/Computer_Applications/Workplace_Software_and_Skills_(OpenStax)/11%3A_Advanced_Excel_Spreadsheets-_Statistical_and_Data_Analysis/11.01%3A_Understanding_Data_Data_Validation_and_Data_Tables",
     "https://www.hyperbots.com/glossary/reconciliation-data-validation",
+    "https://www.datafold.com/blog/data-reconciliation-best-practices/",
+    "https://performalytic.com/blog/data-reconciliation-guide/",
+    "https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html",
     "https://github.com/Kiran-p-Kumar/data-validation-reconciliation-excel"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "site:note.com 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）",
@@ -690,7 +703,12 @@
     "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/s_v_s/n/n9d6328633b83",
     "https://note.com/takumis_room/n/n0616ff6fbfad"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）",
@@ -701,11 +719,16 @@
     "https://x.com/KeroNewsJP",
     "https://x.com/kaikei_ai/status/2080047307937251726",
     "https://x.com/AIProductLabJP/status/2104409511503012259",
+    "https://x.com/grestjapan/status/2112464718170349883",
     "https://x.com/miraiworklabjp/status/2103156950548832626",
     "https://x.com/yamacooooooo/status/2109841807215636976",
-    "https://x.com/grestjapan/status/2112464718170349883",
-    "https://x.com/kouseijyuku/status/2117058631653011707"
-   ]
+    "https://x.com/Freelance_taku/status/2117226466132001145"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
   },
   {
    "query": "site:linkedin.com 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）",
@@ -720,7 +743,12 @@
     "https://mm.linkedin.com/in/th-kobayashi/en",
     "https://jp.linkedin.com/in/%E6%A0%84%E5%A4%9A-%E8%A5%BF-a013b3306",
     "https://jp.linkedin.com/in/keishi-oi-trancom"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）",
@@ -731,60 +759,80 @@
     "https://www.facebook.com/nihonmiraiken/",
     "https://www.facebook.com/61584187930928/posts/%E3%81%95%E3%81%91-vs-%E3%83%9E%E3%82%B0%E3%83%AD-%E5%B9%B4%E9%96%93%E8%B3%BC%E5%85%A5%E6%95%B0%E9%87%8F-vsmap-no024%E5%87%BA%E5%85%B8%E7%B7%8F%E5%8B%99%E7%9C%81%E7%B5%B1%E8%A8%88%E5%B1%80%E5%AE%B6%E8%A8%88%E8%AA%BF%E6%9F%BB%E4%BA%8C%E4%BA%BA%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%B8%96%E5%B8%AF%E5%93%81%E7%9B%AE%E5%88%A5%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%BA%81%E6%89%80%E5%9C%A8%E5%B8%82%E5%8F%8A%E3%81%B3%E6%94%BF%E4%BB%A4%E6%8C%87%E5%AE%9A%E9%83%BD%E5%B8%82%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B02023%E5%B9%B4%E4%BB%A4%E5%92%8C5%E5%B9%B4/122151082635139597/",
     "https://www.facebook.com/61584187930928/posts/%E9%98%AA%E7%A5%9E%E5%84%AA%E5%8B%9D-%E9%96%A2%E5%BF%83%E5%BA%A6google%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E7%9B%B4%E8%BF%911%E9%80%B1%E9%96%93-%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5map-no235%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AFgoogle%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AB9%E6%AE%B5%E9%9A%8E%E3%81%B8%E5%8C%BA%E5%88%86%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%81%AF%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%AE%E7%B7%8F%E6%A4%9C%E7%B4%A2%E6%95%B0%E3%81%AB%E5%8D%A0/122148820659139597/",
-    "https://www.facebook.com/61584187930928/posts/%E3%83%97%E3%83%AD%E9%87%8E%E7%90%8312%E7%90%83%E5%9B%A3%E4%BA%BA%E6%B0%97-%E5%BE%8C%E7%B7%A8google%E6%A4%9C%E7%B4%A2%E5%89%B2%E5%90%88%E7%9B%B4%E8%BF%911%E5%B9%B4-%E5%8B%A2%E5%8A%9B%E5%9B%B3map-no003%E6%9C%AC%E5%8B%95%E7%94%BB%E3%81%AE%E4%BA%BA%E6%B0%97%E3%81%AFgoogle-trends%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%96%A2%E5%BF%83%E5%BA%A6%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E6%AF%94%E8%BC%83%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE/122149712877139597/",
     "https://www.facebook.com/groups/960024861146835/",
+    "https://www.facebook.com/61584187930928/posts/%E3%83%97%E3%83%AD%E9%87%8E%E7%90%8312%E7%90%83%E5%9B%A3%E4%BA%BA%E6%B0%97-%E5%BE%8C%E7%B7%A8google%E6%A4%9C%E7%B4%A2%E5%89%B2%E5%90%88%E7%9B%B4%E8%BF%911%E5%B9%B4-%E5%8B%A2%E5%8A%9B%E5%9B%B3map-no003%E6%9C%AC%E5%8B%95%E7%94%BB%E3%81%AE%E4%BA%BA%E6%B0%97%E3%81%AFgoogle-trends%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%96%A2%E5%BF%83%E5%BA%A6%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E6%AF%94%E8%BC%83%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE/122149712877139597/",
     "https://www.facebook.com/61584187930928/posts/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%87%BA%E8%BA%AB%E5%88%A5-%E3%82%BB%E3%83%AA%E3%83%BC%E3%82%B0%E4%BB%8A%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E6%9C%80%E9%AB%98%E6%89%93%E7%8E%87%E9%81%B8%E6%89%8B-%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%B0%E5%9B%B3map-no0022026%E5%B9%B4%E5%87%BA%E5%85%B8%E6%97%A5%E6%9C%AC%E9%87%8E%E7%90%83%E6%A9%9F%E6%A7%8Bnpb2026%E5%B9%B4%E5%BA%A6-%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%80%8B%E4%BA%BA%E6%89%93%E6%92%83%E6%88%90%E7%B8%BE%E8%A6%8F%E5%AE%9A%E6%89%93%E5%B8%AD%E4%BB%A5/122150238417139597/",
     "https://www.facebook.com/61584187930928/posts/122146308153139597/"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） note 社長",
    "results": [
     "https://data-viz-lab.com/census-data",
-    "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "https://www.stat.go.jp/",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://data-viz-lab.com/excel"
-   ]
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） X 投稿",
    "results": [
     "https://data-viz-lab.com/census-data",
-    "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723626.pdf",
+    "https://www.stat.go.jp/",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
-    "https://www.mext.go.jp/b_menu/toukei/mext_00005.html",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://data-viz-lab.com/excel"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "reconcile downloaded statistical tables with official summary totals data validation site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/shubhanshi98_datanalyst-sql-powerbi-activity-7427982970227109888-01w5",
     "https://www.linkedin.com/posts/sena-adugna-beyene-ph-d-53b48063_data-analysis-hand-book-activity-7408918760155193346-aFDe",
-    "https://www.linkedin.com/top-content/project-management/creating-project-status-reports/ensuring-data-accuracy-in-reports/",
     "https://www.linkedin.com/posts/poornachandra-kongara_a-clean-dashboard-starts-with-messy-data-activity-7509587493403566080-1ROY",
+    "https://www.linkedin.com/top-content/project-management/creating-project-status-reports/ensuring-data-accuracy-in-reports/",
     "https://uk.linkedin.com/company/office-for-national-statistics",
     "https://cm.linkedin.com/in/preciousoben",
     "https://www.linkedin.com/top-content/training-development/sql-skills-for-data-roles/data-quality-management-strategies-in-sql/",
-    "https://www.linkedin.com/in/lia-amelia",
-    "https://www.linkedin.com/pulse/chapter-3-leveraging-excel-scoring-validation-david-dysart-pi05c",
-    "https://in.linkedin.com/in/lokeshwari-bhute-139138213"
-   ]
+    "https://in.linkedin.com/in/varunstats",
+    "https://www.linkedin.com/company/minitab",
+    "https://www.linkedin.com/pulse/chapter-3-leveraging-excel-scoring-validation-david-dysart-pi05c"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T15:02:12.270390+00:00"
 }

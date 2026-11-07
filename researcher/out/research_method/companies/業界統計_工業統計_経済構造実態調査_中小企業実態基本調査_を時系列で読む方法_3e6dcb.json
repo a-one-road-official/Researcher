@@ -8,100 +8,8 @@
  ],
  "context": "凄腕・統計",
  "kind": "market",
- "researched_at": "2026-11-07T15:02:11.773109+00:00",
+ "researched_at": "2026-11-07T20:36:31.859695+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "「諮問第113号の答申 中間年における経済構造統計の整備について」 （平成30年８月",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "28日付け統計委第８号",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「公的統計の整備に関する基本的な計画」（令和２年６月２日閣議決定",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "）では、「中間年経済構造統計については、その有用性の向上や中間年ＳＵ",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "に実施する予定の工業統計調査等を包摂することに向けた検討（以下略） 」を行うことと",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "されており、本件申請では、これに基づき、工業統計調査を包摂し、「製造業事業所調査」",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "項目 工業統計調査（現行） 経済構造実態調査の変更案",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "工業統計調査は、統計法（平成１９",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "工業統計調査は、甲調査及び乙調",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イ 工業統計調査の調査対象の属性的範囲は、標準産業分類に掲げる「大分類Ｅ‐製",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "工業統計調査の母集団情報（準備調査名簿）に基づく",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ウ これについては、工業統計調査と同様に従業者数での裾切りを行った場合、母集",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかしながら、調査対象の裾切りについて、工業統計調査の従業員規模を用いた",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・ 工業統計調査においては準備調査に基づく独自の名簿を母集団名簿としていた",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "象外事業所の推計が困難である「卸売販売額の販売先割合（本支店間移動の割合） 」",
@@ -129,6 +37,74 @@
    },
    {
     "quote": "ｂ 国民経済計算の推計をはじめとした利活用に支障が生じないよう、どのような",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "態調査への包摂に係る検討の中で、母集団ＤＢの年次フレームを調査名簿として用いる",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "方法から、基準年である経済センサス－活動調査結果の産業分類別の出荷額を用い",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イ このうち、報告者の選定方法については、工業統計調査においては、実施に先立",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（４）報告を求めるために用いる方法",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "り行っていたが、本件申請では、製造業事業所調査の調査方法は、郵送又はオンラ",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査方法に関する業務以外の記載があったことを踏まえ、形式的に修正している",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表９ 報告を求めるために用いる方法（製造業事業所調査）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（２）調査方法 ■調査員調査 ■郵送調査 ■オンラ",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ウ これについては、産業横断調査と同様の調査方法に変更するものであり、おおむ",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "○ 調査方法について、調査員調査から郵送調査及びオンライン調査とすることに",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の包摂に係る検討の中で、母集団ＤＢの年次フレームを調査名簿として用いる方向",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -226,69 +202,93 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "態調査への包摂に係る検討の中で、母集団ＤＢの年次フレームを調査名簿として用いる",
+    "quote": "「諮問第113号の答申 中間年における経済構造統計の整備について」 （平成30年８月",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "方法から、基準年である経済センサス－活動調査結果の産業分類別の出荷額を用い",
+    "quote": "28日付け統計委第８号",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "イ このうち、報告者の選定方法については、工業統計調査においては、実施に先立",
+    "quote": "和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（４）報告を求めるために用いる方法",
+    "quote": "「公的統計の整備に関する基本的な計画」（令和２年６月２日閣議決定",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "り行っていたが、本件申請では、製造業事業所調査の調査方法は、郵送又はオンラ",
+    "quote": "）では、「中間年経済構造統計については、その有用性の向上や中間年ＳＵ",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査方法に関する業務以外の記載があったことを踏まえ、形式的に修正している",
+    "quote": "に実施する予定の工業統計調査等を包摂することに向けた検討（以下略） 」を行うことと",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "表９ 報告を求めるために用いる方法（製造業事業所調査）",
+    "quote": "されており、本件申請では、これに基づき、工業統計調査を包摂し、「製造業事業所調査」",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（２）調査方法 ■調査員調査 ■郵送調査 ■オンラ",
+    "quote": "項目 工業統計調査（現行） 経済構造実態調査の変更案",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ウ これについては、産業横断調査と同様の調査方法に変更するものであり、おおむ",
+    "quote": "工業統計調査は、統計法（平成１９",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "○ 調査方法について、調査員調査から郵送調査及びオンライン調査とすることに",
+    "quote": "工業統計調査は、甲調査及び乙調",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "の包摂に係る検討の中で、母集団ＤＢの年次フレームを調査名簿として用いる方向",
+    "quote": "イ 工業統計調査の調査対象の属性的範囲は、標準産業分類に掲げる「大分類Ｅ‐製",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "工業統計調査の母集団情報（準備調査名簿）に基づく",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ウ これについては、工業統計調査と同様に従業者数での裾切りを行った場合、母集",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかしながら、調査対象の裾切りについて、工業統計調査の従業員規模を用いた",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・ 工業統計調査においては準備調査に基づく独自の名簿を母集団名簿としていた",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -299,82 +299,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kagawatomo/n/nfe51c4f0f92a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/epolicy_actvst/n/nca89858e3caf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hirokimiyano/n/nd59c76298f07",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kagawatomo/n/nd985c3959405",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.stat.go.jp/data/kkj/index.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://www.etisa.or.jp/kkj-1.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jagat.or.jp/archives/99010",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nstac.go.jp/support/make-support/enterprisesupport/?doing_wp_cron=1794063777.1826529502868652343750",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
     "status": "ok",
     "method": "http"
    },
@@ -389,21 +319,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result2.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
     "status": "ok",
     "method": "http"
@@ -414,12 +329,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/en/statistics/outline/note/faqlong.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
     "status": "ok",
     "method": "http"
    },
@@ -429,17 +339,27 @@
     "method": "http"
    },
    {
-    "url": "https://dashboard.e-stat.go.jp/en/timeSeries",
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
+    "url": "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ndlsearch.ndl.go.jp/en/rnavi/business/post_102100",
+    "url": "https://www.stat-search.boj.or.jp/index_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en",
     "status": "ok",
     "method": "http"
    }
@@ -448,98 +368,93 @@
  "search_log": [
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 site:note.com",
-   "results": [
-    "https://note.com/kagawatomo/n/nfe51c4f0f92a",
-    "https://note.com/epolicy_actvst/n/nca89858e3caf",
-    "https://note.com/hirokimiyano/n/nd59c76298f07",
-    "https://note.com/kagawatomo/n/nd985c3959405",
-    "https://note.com/jack4manastalk/n/n880406135053",
-    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
-    "https://note.com/mc_motto/n/n13f89168ab01",
-    "https://note.com/techocean_corp/n/na73d93d1c63a",
-    "https://note.com/humble_crane7701/n/n917c11401561",
-    "https://note.com/tskomatani/n/n541e686f42bd"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 note",
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "https://www.jagat.or.jp/archives/99010",
-    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
-    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
-    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
-    "https://www.stat.go.jp/data/kkj/kekka/index.html"
-   ]
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200555",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 やり方",
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "https://www.jagat.or.jp/archives/99010",
-    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
-    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
-    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://www.stat.go.jp/data/kkj/kekka/index.html"
-   ]
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200555",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 事例",
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
-    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "https://www.jagat.or.jp/archives/99010",
-    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://www.stat.go.jp/data/kkj/kekka/index.html"
-   ]
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200555",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "how to read Japanese industrial statistics time series",
    "results": [
-    "https://www.boj.or.jp/en/statistics/outline/note/faqlong.htm",
-    "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
     "https://www.meti.go.jp/english/statistics/index.html",
-    "https://dashboard.e-stat.go.jp/en/timeSeries",
-    "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
-    "https://rnavi.ndl.go.jp/en/post-485394.html",
-    "https://www.ametekmocon.com/solutions/testmethods/jis-test-methods",
-    "https://www.abs.gov.au/websitedbs/d3310114.nsf/home/time+series+analysis:+the+basics",
-    "https://ideagroupvn.com/how-to-read-jis-drawings/",
-    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
-   ]
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
+    "https://www.stat-search.boj.or.jp/index_en.html",
+    "https://www.stat.go.jp/english/",
+    "https://www.e-stat.go.jp/en",
+    "https://www.e-stat.go.jp/en/statistics/00550300"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
    "results": [
-    "https://note.com/kagawatomo/n/nfe51c4f0f92a",
-    "https://note.com/epolicy_actvst/n/nca89858e3caf",
-    "https://note.com/hirokimiyano/n/nd59c76298f07",
-    "https://note.com/kagawatomo/n/nd985c3959405",
-    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
-    "https://note.com/mc_motto/n/n13f89168ab01",
-    "https://note.com/humble_crane7701/n/n917c11401561",
-    "https://note.com/jack4manastalk/n/n880406135053",
-    "https://note.com/umaki11/n/nce9c68a07077",
-    "https://note.com/hirokimiyano/n/n3e7d07356685"
-   ]
+    "https://note.com/satoru_biz/n/n36dd6b3b5a23",
+    "https://note.com/satoru_biz/n/nf6ab3d3dfe26",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/data_analyst_jp/n/n36f6843a9870",
+    "https://note.com/bunseki2531/n/nfb481878207c",
+    "https://note.com/satoru_biz/n/n8989176351e2",
+    "https://note.com/sghr_tkn/n/n3fdd6b4b0a55"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
    "results": [
-    "https://x.com/OgawaSeisakusho",
     "https://x.com/tokei_ibaraki/status/2038550140701851845",
     "https://x.com/isyokenmei/status/1905515817355329587",
     "https://x.com/rika_investor/status/2094287238842794033",
@@ -547,7 +462,11 @@
     "https://x.com/keiridriven/status/2039513111313756336",
     "https://x.com/NDLJP/status/2072515620990554139",
     "https://x.com/meti_chusho"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
@@ -557,14 +476,17 @@
     "https://jp.linkedin.com/pulse/表向きは堅調しかし深刻-製薬業界が抱える二重構造の現実-michio-okazaki-hh3rc",
     "https://www.linkedin.com/pulse/国内製薬業界が今後も衰退し続ける構造的理由-michio-okazaki-qum7c",
     "https://jp.linkedin.com/posts/健一-片山-958614237_2025年度-海外進出日系企業実態調査中国編2026年3月-調査レポート-activity-7438172710993600512-2viu",
-    "https://jp.linkedin.com/posts/daisuke-wakui-labz_日本企業のdx推進実態調査2024速報版足踏みする日本のdxの実態-activity-7223869165965602817-4np6",
-    "https://jp.linkedin.com/posts/kpmg-jp_企業報告-統合報告書-activity-7323964541162135552-YYtt"
-   ]
+    "https://jp.linkedin.com/posts/kpmg-jp_企業報告-統合報告書-activity-7323964541162135552-YYtt",
+    "https://jp.linkedin.com/posts/daisuke-wakui-labz_日本企業のdx推進実態調査2024速報版足踏みする日本のdxの実態-activity-7223869165965602817-4np6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
    "results": [
-    "https://www.facebook.com/100064515737150/?locale=th_TH",
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
     "https://www.facebook.com/smrjpr/",
@@ -572,58 +494,55 @@
     "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
     "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
     "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 note 社長",
-   "results": [
-    "https://www.stat.go.jp/data/kkj/index.html",
-    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.jagat.or.jp/archives/99010",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
-    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
-    "https://www.pref.aomori.lg.jp/soshiki/kenko/kkenkofu/files/20190521betten3.pdf",
-    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
-    "https://www.stat.go.jp/data/kkj/kekka/index.html"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 X 投稿",
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
-    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
-    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
-    "https://www.jagat.or.jp/archives/99010",
-    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
-    "https://www.stat.go.jp/data/kkj/kekka/index.html"
-   ]
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200555",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "how to read Japanese industrial statistics time series site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/poornachandra-kongara_time-series-concepts-every-data-analyst-should-activity-7511031286661033984-QHOA",
-    "https://www.linkedin.com/pulse/how-use-machine-learning-time-series-forecasting-vegard-flovik-phd-1f",
-    "https://www.linkedin.com/pulse/from-historian-databricks-moving-industrial-time-series-indranil-paul-ikaxc",
-    "https://www.linkedin.com/in/morgan-l-frazier",
-    "https://www.linkedin.com/pulse/time-series-health-research-step-guide-beginners-jesca-birungi--u80ye",
-    "https://www.linkedin.com/pulse/modeling-longitudinaltime-seriessequential-data-neo4j-jeff-tallman",
-    "https://www.linkedin.com/in/xingmei-lou",
-    "https://www.linkedin.com/in/jhtao",
     "https://www.linkedin.com/posts/intuition-publication_statistics-time-series-analysiscompilation-activity-7216273633097207808-RfUg",
-    "https://www.linkedin.com/posts/shirley-fernandes-948924134_statistics-time-series-analysiscompilation-activity-7217159643616178177-diia"
-   ]
+    "https://www.linkedin.com/posts/shirley-fernandes-948924134_statistics-time-series-analysiscompilation-activity-7217159643616178177-diia",
+    "https://mx.linkedin.com/in/alejandro-robles",
+    "https://lk.linkedin.com/in/dinera-susiriwardana-485ba7370",
+    "https://au.linkedin.com/in/amali-manchanayake-7b373b123",
+    "https://sa.linkedin.com/in/ahmed-alnemari",
+    "https://il.linkedin.com/in/jaime-kauffman"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ13頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 19,
+ "runs": 20,
  "first_researched_at": "2026-11-05T00:48:20.098134+00:00"
 }

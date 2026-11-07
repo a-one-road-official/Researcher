@@ -8,100 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T15:02:59.203806+00:00",
+ "researched_at": "2026-11-07T20:36:37.297771+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・前年比成長率、CAGR、感度分析の計算方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前回の記事：S05「5 Forces分析の進め方を徹底解説」",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "7．実務手順｜市場規模分析の9ステップ",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP 1｜意思決定を明確にする",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP 2｜市場の定義を固定する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "STEP 3｜一次資料を収集する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
@@ -286,45 +194,93 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "これを3年間ずっと続く確定予測として使うのは誤りです",
+    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "10．市場規模分析でよくある失敗",
+    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
+    "quote": "・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない",
+    "quote": "・前年比成長率、CAGR、感度分析の計算方法",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "失敗④：前年の成長率を将来に機械的に延長する",
+    "quote": "『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
+    "quote": "前回の記事：S05「5 Forces分析の進め方を徹底解説」",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "失敗⑥：市場規模だけで投資を承認しようとする",
+    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "7．実務手順｜市場規模分析の9ステップ",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP 1｜意思決定を明確にする",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP 2｜市場の定義を固定する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "STEP 3｜一次資料を収集する",
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -391,41 +347,55 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これを3年間ずっと続く確定予測として使うのは誤りです",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "10．市場規模分析でよくある失敗",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗④：前年の成長率を将来に機械的に延長する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "失敗⑥：市場規模だけで投資を承認しようとする",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/pingdun/n/nfe1ecc79b94b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ote_walk/n/n84135dbb9b34",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/daikichi_con/n/n7a54ae90a327",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kakizaway/n/n0922fa9c4878",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/bespokepartner/n/n3b0e4b414ebc",
     "status": "ok",
@@ -452,6 +422,11 @@
     "method": "http"
    },
    {
+    "url": "https://asana.com/ja/resources/top-down-approach",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://presenti.ai/jp/blog/market-size-slide/",
     "status": "ok",
     "method": "http"
@@ -463,11 +438,6 @@
    },
    {
     "url": "https://sea.ub-speeda.com/ja/asean-insights/resource-center/market-sizing/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://asana.com/ja/resources/top-down-approach",
     "status": "ok",
     "method": "http"
    },
@@ -487,27 +457,12 @@
     "method": "http"
    },
    {
+    "url": "https://jp.smartsheet.com/content-center/best-practices/change-management/tips-drive-adoption-top-down-versus-bottom-deployments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.hiromaeda.com/2020/02/11/topdownbottomup/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://takakuka.jp/column/organization/top-down-old.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://new-one.co.jp/method/top-down-bottom-up-organization-source-principle/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
     "status": "ok",
     "method": "http"
    },
@@ -515,6 +470,16 @@
     "url": "https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Top-Down-and-Bottom-Up-Market-Sizing-Example.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.hackingthecaseinterview.com/pages/market-sizing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://visible.vc/blog/bottom-up-market-sizing/",
@@ -527,24 +492,18 @@
     "method": "http"
    },
    {
-    "url": "https://hginsights.com/blog/market-sizing-the-complete-guide-to-calculating-tam-sam-som-and-building-a-data-driven-growth-strategy/",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
  "search_log": [
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） site:note.com",
-   "results": [
-    "https://note.com/pingdun/n/nfe1ecc79b94b",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://note.com/daikichi_con/n/n7a54ae90a327",
-    "https://note.com/kakizaway/n/n0922fa9c4878",
-    "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） note",
@@ -554,67 +513,92 @@
     "https://note.com/mbaai/n/ne039da5e0679",
     "https://the-modellerz.com/blog/two-approaches-to-forecasting-revenue",
     "https://note.com/a2c_0523/n/n574ea3b98f3d",
+    "https://asana.com/ja/resources/top-down-approach",
     "https://presenti.ai/jp/blog/market-size-slide/",
     "https://takakuka.jp/column/organization/top-down-old.html",
-    "https://asana.com/ja/resources/top-down-approach",
     "https://www.reloclub.jp/relotimes/article/325",
     "https://note.com/go_go_career/n/ne53c2a53c2cd"
-   ]
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
   },
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） やり方",
    "results": [
+    "https://otemachiprep.com/glossary/bottom-up-vs-top-down-forecasting/",
     "https://note.com/bespokepartner/n/n3b0e4b414ebc",
     "https://presenti.ai/jp/blog/market-size-slide/",
     "https://www.consulnote.com/articles/strategy/market-sizing/",
     "https://sea.ub-speeda.com/ja/asean-insights/resource-center/market-sizing/",
     "https://note.com/mbaai/n/ne039da5e0679",
-    "https://asana.com/ja/resources/top-down-approach",
     "https://coached.jp/column/topdown-bottomup",
-    "https://www.reloclub.jp/relotimes/article/325",
-    "https://sony-acceleration-platform.com/article807.html"
-   ]
+    "https://asana.com/ja/resources/top-down-approach",
+    "https://www.reloclub.jp/relotimes/article/325"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） 事例",
    "results": [
-    "https://note.com/mbaai/n/ne039da5e0679",
-    "https://sony-acceleration-platform.com/article807.html",
-    "https://www.reloclub.jp/relotimes/article/325",
+    "https://otemachiprep.com/glossary/bottom-up-vs-top-down-forecasting/",
     "https://note.com/bespokepartner/n/n3b0e4b414ebc",
-    "https://hiromaeda.com/2020/02/11/topdownbottomup/",
+    "https://www.reloclub.jp/relotimes/article/325",
+    "https://sony-acceleration-platform.com/article807.html",
+    "https://note.com/mbaai/n/ne039da5e0679",
+    "https://jp.smartsheet.com/content-center/best-practices/change-management/tips-drive-adoption-top-down-versus-bottom-deployments",
     "https://asana.com/ja/resources/top-down-approach",
-    "https://takakuka.jp/column/organization/top-down-old.html",
-    "https://new-one.co.jp/method/top-down-bottom-up-organization-source-principle/",
-    "https://note.com/a2c_0523/n/n574ea3b98f3d"
-   ]
+    "https://presenti.ai/jp/blog/market-size-slide/",
+    "https://hiromaeda.com/2020/02/11/topdownbottomup/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "market sizing top-down bottom-up reconcile assumptions table",
    "results": [
-    "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
-    "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
     "https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Top-Down-and-Bottom-Up-Market-Sizing-Example.pdf",
+    "https://www.hackingthecaseinterview.com/pages/market-sizing",
+    "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
     "https://visible.vc/blog/bottom-up-market-sizing/",
     "https://kadence.com/en-us/knowledge/what-is-top-down-market-sizing/",
+    "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc",
     "https://hginsights.com/blog/market-sizing-the-complete-guide-to-calculating-tam-sam-som-and-building-a-data-driven-growth-strategy/",
-    "https://www.linkedin.com/advice/0/what-advantages-disadvantages-using-top-down",
     "https://umbrex.com/resources/market-sizing-playbook/bottom-up-market-sizing-methodology/",
     "https://marketintelligencetools.com/templates/market-sizing/",
-    "https://www.mymarketresearchmethods.com/market-sizing/"
-   ]
+    "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "site:note.com 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）",
    "results": [
     "https://note.com/pingdun/n/nfe1ecc79b94b",
+    "https://note.com/naokichi193/n/n1efa3d6594b2",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "https://note.com/ote_walk/n/n84135dbb9b34",
     "https://note.com/daikichi_con/n/n7a54ae90a327",
     "https://note.com/kakizaway/n/n0922fa9c4878",
     "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60"
-   ]
+    "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "https://note.com/mbaai/n/ne039da5e0679",
+    "https://note.com/ai_soubashi_gin/n/n4a9bce202d4b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "site:x.com 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）",
@@ -622,11 +606,19 @@
     "https://x.com/cma_academy01/status/2096898418384027899",
     "https://x.com/TadokoroMasa/status/1626786694421942272",
     "https://x.com/kurokensu/status/1704410073592942972",
-    "https://x.com/dx_saru/status/2070120572923891787",
+    "https://x.com/homelesstaizo/status/2039651580207907120",
     "https://x.com/sss00000sss0000/status/2045391947289010622",
+    "https://x.com/dx_saru/status/2070120572923891787",
+    "https://x.com/CEO_of_ITPASS/status/2071528763943166372",
     "https://x.com/JTC551CAREER/status/2095509492599521434",
-    "https://x.com/CEO_of_ITPASS/status/2071528763943166372"
-   ]
+    "https://x.com/harada_mso26/status/2098887098124415144",
+    "https://x.com/naoki0311/status/2066725885454241952"
+   ],
+   "engines": [
+    "ddgs:duckduckgo",
+    "ddgs:google"
+   ],
+   "n_hits": 11
   },
   {
    "query": "site:linkedin.com 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）",
@@ -635,10 +627,14 @@
     "https://jp.linkedin.com/pulse/market-sizing-garvit-gulati-dfbuc?tl=ja",
     "https://jp.linkedin.com/pulse/market-sizing-techniques-accurate-business-forecasting-munish-syal-cqgpf?tl=ja",
     "https://jp.linkedin.com/pulse/tam-what-how-size-rob-wilkinson?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-tam-sam-som-foundation-scalable-pablo-cruz-pou?tl=ja",
     "https://jp.linkedin.com/pulse/understanding-financial-analysis-top-down-bottom-up-v-shrinath-6qznc?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-tam-sam-som-foundation-scalable-pablo-cruz-pou?tl=ja",
     "https://jp.linkedin.com/pulse/stop-pitching-market-size-start-execution-prem-chand-vhqve?tl=ja"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）",
@@ -650,54 +646,71 @@
     "https://www.facebook.com/imajinaBR/posts/トップダウンボトムアップの意味違いとは適している組織も紹介企業における方式としてトップダウンボトムアップの2つがありますトップダウンとボトムアップの意味や違いそ/782520216313287/",
     "https://www.facebook.com/PwCJapan/posts/トップダウンとボトムアップの両方から-dx推進-を実現する意味とはpwcあらたは現場を巻き込みdxを推進するためには経営戦略に沿ったトップダウン型の変革だけでな/3697284840307140/",
     "https://www.facebook.com/PwCJapan/posts/4541043472597935/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） note 社長",
    "results": [
     "https://note.com/pingdun/n/nfe1ecc79b94b",
-    "https://otemachiprep.com/glossary/bottom-up-vs-top-down-forecasting/",
     "https://note.com/bespokepartner/n/n3b0e4b414ebc",
-    "https://takakuka.jp/column/organization/top-down-old.html",
     "https://note.com/mbaai/n/ne039da5e0679",
     "https://asana.com/ja/resources/top-down-approach",
     "https://www.mckinsey.com/modules/locations/asia/japan/our-insights/all-insights-grid/change-of-management/ja-JP",
+    "https://takakuka.jp/column/organization/top-down-old.html",
+    "https://sony-acceleration-platform.com/article807.html",
     "https://liskul.com/top-down-164543",
-    "https://sony-acceleration-platform.com/article807.html"
-   ]
+    "https://www.sbbit.jp/article/cont1/29620"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など） X 投稿",
    "results": [
     "https://note.com/bespokepartner/n/n3b0e4b414ebc",
-    "https://asana.com/ja/resources/top-down-approach",
     "https://note.com/a2c_0523/n/n574ea3b98f3d",
     "https://sony-acceleration-platform.com/article807.html",
     "https://jp.smartsheet.com/content-center/best-practices/change-management/tips-drive-adoption-top-down-versus-bottom-deployments",
-    "https://takakuka.jp/column/organization/top-down-old.html",
+    "https://asana.com/ja/resources/top-down-approach",
     "https://www.mckinsey.com/modules/locations/asia/japan/our-insights/all-insights-grid/change-of-management/ja-JP",
-    "https://www.reloclub.jp/relotimes/article/325",
-    "https://hiromaeda.com/2020/02/11/topdownbottomup/"
-   ]
+    "https://takakuka.jp/column/organization/top-down-old.html",
+    "https://hiromaeda.com/2020/02/11/topdownbottomup/",
+    "https://www.reloclub.jp/relotimes/article/325"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "market sizing top-down bottom-up reconcile assumptions table site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/0/what-advantages-disadvantages-using-top-down",
     "https://www.linkedin.com/pulse/tam-sam-som-comprehensive-guide-strategic-market-sizing-mohidul-alam-cjefc",
     "https://www.linkedin.com/pulse/revenue-forecasting-best-practices-saas-software-brandon-pfeffer-cma-hcg0e",
+    "https://www.linkedin.com/posts/marciadwilliams_forecasts-are-not-created-equal-this-infographic-activity-7440369235127676928-CvZy",
     "https://www.linkedin.com/top-content/sales/best-practices-for-sales-forecasting/best-practices-for-forecasting-in-competitive-markets/",
     "https://in.linkedin.com/company/valcore-analytics",
     "https://www.linkedin.com/in/darsei",
-    "https://www.linkedin.com/posts/marciadwilliams_forecasts-are-not-created-equal-this-infographic-activity-7440369235127676928-CvZy",
-    "https://www.linkedin.com/posts/marciadwilliams_the-budget-is-not-the-forecast-arbitrarily-activity-7296508299024162816-C_zM",
-    "https://www.linkedin.com/pulse/file-encryption-software-market-size-revenue-growth-njizf",
+    "https://www.linkedin.com/posts/marciadwilliams_sop-is-not-fpa-financial-planning-analysis-activity-7416466874538024961-i_nG",
+    "https://www.linkedin.com/pulse/etonogestrel-market-size-global-revenue-forecast-q66sf",
+    "https://www.linkedin.com/pulse/japan-bagasse-pulp-market-size-demand-trends-pop6f",
     "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc/"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-07T05:01:36.044173+00:00"
 }

@@ -1344,7 +1344,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -3724,9 +3724,9 @@
   - 「OSINTerへの道 ～入門編～ - NTT docomo Business Engineers' Blog — Dec 19, 2024 · 本記事で紹介した 競合仮説分析（ACH） は、認知バイアスを克服し、客観性を高めるための有効な手法です。 この手法を用いることで、複数の仮説を公平に評価し、最も支持される仮説を導き出すプロセスが体系化されます。」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirmation bias.” Fifty intelligence analysts were randomly assigned to use ACH or not when completing a hypothesis testing task that had probabilistic ground truth.」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
+  - 「競合する仮説の分析 - note（ノート） — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「Analysis of Competing Hypotheses: a step-by-step example — Oct 22, 2026 · How to use ACH, the structured technique that tests every piece of evidence against every explanation, with a worked example and a ready-to-copy matrix.」（https://qbzz.org/osint/analysis-of-competing-hypotheses/）
   - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most 」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
-  - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · What is the Analysis of Competing Hypotheses? The Analysis of Competing Hypotheses (ACH) is a structured analytical technique that helps individuals and teams evaluate multiple possible explanations for an event, trend, or problem – all at the same time. Rather than focusing on finding evidence that supports a single favo」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
-  - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · The intelligence community uses “structured analytic techniques” to help analysts think critically and avoid cognitive bias. However, little evidence exists of how techniques are applied and whether they are effective. We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirm」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
 
 ## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
 - 文脈：失敗・落とし穴
@@ -5084,7 +5084,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -5826,8 +5826,8 @@
   - 「The analyst defines, in advance, observable events that would signal a situation is moving toward one outcome rather than another. Pre-defined indicators guard against rationalizing new information into an existing view, and they turn a static judgment into a monitoring framework.」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「The frameworks above were designed for classified intelligence consumers. The FFTP product is designed for the household practitioner. Both audiences deserve rigorous analytical product; the rules below adjust the discipline to the audience. The first two groups govern how analysis is」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「— a practitioner catalog of the methods summarized here.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「How to Obtain Your Amateur Radio License」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「Communications & Emissions Training Framework」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
 - 突き合わせ・推定：
   - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 一次情報の探し方：
@@ -5840,17 +5840,18 @@
   - 「The central insight is a reversal. Intuitive analysis tends to start with the most plausible explanation and then look for evidence that supports it — a process wide open to confirmation bias. ACH inverts this. Instead of asking which hypothesis has the most evidence」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「FFTP House Rules — Operational and Anti-Bias Discipline」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「Anti-Bias Discipline: Source-Symmetric Skepticism」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「8. The finished analysis is objective and free of bias. ☐」（https://startme-uploaded-files.s3.amazonaws.com/Uploaded-file-7349595-2023-4-27-08464073b7d5a406.pdf）
   - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「. SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「5 Common Mistakes When Using Structured Analytic Techniques」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「Familiarising yourself with your own cognitive biases and critically evaluating your sources.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 実例：
   - 「An analyst deliberately builds the strongest possible case against the prevailing judgment — not to be contrarian for its own sake, but to expose weak evidence and untested assumptions in the consensus view.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「— a sanitized, public worked example of a tiered open-source collection framework.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
   - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
@@ -10476,11 +10477,11 @@
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
@@ -10656,7 +10657,7 @@
   - 「Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had」（https://blog.getaura.ai/headcount-data）
   - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
   - 「Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US)," “Acme Corp UK," “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.」（https://blog.getaura.ai/headcount-data）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
@@ -11871,11 +11872,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証
