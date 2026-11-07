@@ -153,3 +153,5 @@ AIとの対話・生成物を調べ物に使ったときの監査（疑問文が
 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き,revenue per employee headcount vs FTE average headcount false trend,1人あたり売上 期中平均 従業員数 計算;常勤換算 FTE 生産性 比較;労働生産性 分母 従業者 定義 統計,手順
 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合,estimate private company revenue from cost structure break-even accounts receivable days,推定決算書 作り方 財務 フェルミ推定;損益分岐点 売上 逆算 非上場;売掛金 回転日数 売上 推定 決算公告,推定
 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）,decision log review date reversal trigger analysis assumptions,判断記録 見直し 撤回条件 意思決定ログ;投資メモ 撤回条件 キル基準;assumption log review date intelligence analysis,手順
+空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）,diagnosing empty search results retrieval vs extraction failure data journalism data diary,RAG 失敗 切り分け 検索結果 確認;データジャーナリズム データ日誌 再現;site:gijn.org data journalism methodology;site:note.com 調査 失敗 記録 再試験,手法
+法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）,corporate number master key entity resolution Japan check digit gBizINFO,法人番号 名寄せ 主キー;法人番号 チェックデジット 検証;gBizINFO 法人番号 突き合わせ;法人番号 変更履歴 商号 所在地,手法

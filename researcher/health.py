@@ -10,6 +10,20 @@ MAX_RETRY = 3
 # 中小の決算公告は「無いのが普通」なので、3回空でも設定・コードの不具合（要修正）に数えず、別の行に「無いのが普通」として残す
 NORMAL_ABSENT = re.compile(r"(決算公告|官報)")
 
+def layer_of(x):
+    """2026-11-07 METHOD 4-71（AIよろず室「RAG導入でよくある失敗7選」：失敗を層に分けて切り分け、層を見ずに直さない）。
+    3回空の品目を、取得の不具合／検索0件（検索語の層）／検索は当たったが本文から取れない（取得・抜き出しの層）に分ける。"""
+    if x.get("error"):
+        return "取得の不具合"
+    log = x.get("search_log") or []
+    hits = sum(len(e.get("results") or []) for e in log)
+    if not log:
+        return "検索を回していない（仕様の層）"
+    if hits == 0:
+        return "検索0件（検索語の層：別名・英語名・統計名を足す）"
+    return "検索は当たったが本文から取れない（取得・抜き出しの層：表・PDFを直接読む処理を足す）"
+
+
 def main():
     ctl = (yaml.safe_load(open(os.path.join(ROOT, "control.yaml"), encoding="utf-8")) or {}).get("topics") or {}
     lines, bad_total = ["# 点検（空・エラー）", ""], 0
@@ -18,7 +32,7 @@ def main():
         js = glob.glob(os.path.join(d, "companies", "*.json"))
         rp = os.path.join(d, "retries.json")
         retries = json.load(open(rp)) if os.path.exists(rp) else {}
-        empty, gave_up, errs, normal_absent = [], [], {}, []
+        empty, gave_up, errs, normal_absent, layers = [], [], {}, [], {}
         for f in js:
             try:
                 x = json.load(open(f, encoding="utf-8"))
@@ -40,6 +54,7 @@ def main():
                 normal_absent.append(name)
             else:
                 gave_up.append(name)
+                layers[layer_of(x)] = layers.get(layer_of(x), 0) + 1
         if retries:
             json.dump(retries, open(rp, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
         fm = os.path.join(d, "facts.md")
@@ -51,6 +66,7 @@ def main():
             problems.append(f"空・エラーで自動やり直し {len(empty)}件")
         if gave_up:
             problems.append(f"3回やっても空 {len(gave_up)}件（要修正）：" + "、".join(gave_up[:5]))
+            problems.append("空の層（4-71）：" + "、".join(f"{k} {v}件" for k, v in sorted(layers.items(), key=lambda kv: -kv[1])))
         if normal_absent:
             problems.append(f"決算公告の品目で3回空 {len(normal_absent)}件（公告しない会社が大半なので要修正に数えない・4-46）")
         if js and (len(empty) + len(gave_up)) * 2 >= len(js):

@@ -71,13 +71,28 @@ def ddgs_search(query: str, n: int = 10) -> list[dict]:
     return out
 
 
+# 2026-11-07 METHOD 4-71（AIよろず室「RAG導入でよくある失敗7選」：失敗は層に分けて切り分ける。検索の層の失敗を答えの層で直さない）。
+# 品目名に付けた手法の注記（「（市・県の表を使わない・4-30）」など）がそのまま検索語に入り、検索の層で外れていた。
+# 注記の括弧（METHOD の番号・「使わない」「確かめ」などの指示語を含むもの）は検索エンジンに送る前に外す。元の品目名は記録に残す
+import re as _re
+_NOTE = _re.compile(r"[（(][^（）()]*(?:\d-\d{1,3}|使わない|確かめ|確認|取り直|ため|段差|構成変化|同じ年|そろう|原表|原典|要修正)[^（）()]*[）)]")
+
+
+def clean_query(query: str) -> str:
+    q = _NOTE.sub(" ", query)
+    q = _re.sub(r"\s+", " ", q).strip()
+    return q or query
+
+
 def search(query: str, n: int = 10) -> list[dict]:
     seen, merged = set(), []
-    for r in yahoo_japan(query, n) + ddgs_search(query, n):
+    sent = clean_query(query)
+    for r in yahoo_japan(sent, n) + ddgs_search(sent, n):
         key = r["url"].split("#")[0].rstrip("/")
         if key in seen:
             continue
         seen.add(key)
         r["query"] = query
+        r["sent_query"] = sent
         merged.append(r)
     return merged

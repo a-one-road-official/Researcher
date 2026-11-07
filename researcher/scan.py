@@ -678,8 +678,13 @@ KOUGYO_FOCUS = re.compile(r"めっき|金型|機械加工|熱処理|金属プレ
 # （2293 鋳鉄管・2252 可鍛鋳鉄・2171 研磨材・2921 電気溶接機・2411 ブリキ缶・めっき板・2249 表面処理鋼材）も拾い、平均並みの幅の母数と
 # 「幅より上」の一覧を占めていた。比べる母数（幅・製造業計との上下の数・分子分母の型）からは製品の製造業を外す。本文の一覧には残す
 KOUGYO_PRODUCT = re.compile(r"鋳鉄管|可鍛鋳鉄|銑鉄鋳物|鋼鋳鉄|研磨材|研磨布紙|溶接機|ブリキ|めっき板|表面処理鋼材|鋼材|鋳型製造")
+# 2026-11-07 走査で見つかった失敗から（46回目）：「2464 電気めっき業（表面処理鋼材製造業を除く）」が、除く側の括弧の「表面処理鋼材」で
+# 製品の製造業とみなされ、平均並みの幅・分子分母の型の母数から電気めっき（2464）と溶融めっき（2462）が落ちていた。
+# 製品の製造業の判定は「（…を除く）」の括弧を外した名前で行う
+_KEXCL = re.compile(r"[（(][^（）()]*を除く[）)]")
 def _kfocus(name):
-    return bool(KOUGYO_FOCUS.search(name or "")) and not KOUGYO_PRODUCT.search(name or "")
+    n = name or ""
+    return bool(KOUGYO_FOCUS.search(n)) and not KOUGYO_PRODUCT.search(_KEXCL.sub("", n))
 def _kf(x):
     try: return float(str(x).replace(",", "").replace("△", "-").replace("▲", "-"))
     except Exception: return None
@@ -689,6 +694,51 @@ def _cagr(a, b, n):
 # 産業別統計表の従業者規模別のシートから取った行）で、細分類×規模区分ごとに最初と最後の年の1人あたり（付加価値・出荷額）の向きを並べる。
 # 秘匿（X）・注記（***）の付いた行は値にしない（4-26：秘匿を0として扱わない）。全区分で同じ向きのときだけ「構成変化だけでは説明できない」とする。
 # あわせて規模区分ごとの従業者の割合（構成）の最初と最後を出し、構成の移り変わりを見えるようにする（4-35 の配分の効き）
+# 2026-11-07 走査で見つかった失敗から（46回目・4-70・4-71）：品目「工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳」を
+# 検索で取ったら、16件すべてが愛知県の表（www.pref.aichi.jp・年不明）で、全国の細分類の値にならなかった（4-30：市・県の表を使わない）。
+# 全国の内訳は、build_kougyo.py が所管の Excel から既に読んだ kougyo_rows.csv のシート 1200（英語の見出し
+# 「Receipts for production done for others」＝加工賃収入額）にある。検索でなくこの表から、細分類ごとの
+# 賃加工の重さ＝加工賃収入額 ÷（製造品出荷額＋加工賃収入額＋くず・廃物＋その他収入）を同じ行・同じ年の組で出す
+_KC = {"製造品": "Total Value of manufactured goods shipment", "加工賃": "Receipts for production done for oth",
+       "くず": "Shipments for scraps", "その他": "Other Revenue"}
+def kougyo_contract_section(topic):
+    f = os.path.join(OUT, topic, "kougyo_rows.csv")
+    if not os.path.exists(f): return []
+    acc = {}
+    for r in csv.DictReader(open(f, encoding="utf-8-sig")):
+        if str(r.get("sheet")) != "1200" or len(r.get("code") or "") != 4: continue
+        col = r.get("column") or ""
+        if "Value of manufactured goods shipments" not in col: continue
+        k = next((k for k, v in _KC.items() if v in col), None)
+        if not k: continue
+        key = (r["code"], r["year"])
+        d = acc.setdefault(key, {"name": r.get("name", ""), "fy": r.get("file_year") or r["year"], "note": "*" in (r.get("row") or "")})
+        if (r.get("file_year") or r["year"]) < d["fy"]: continue
+        if k not in d: d[k] = _kf(r.get("value"))
+    if not acc: return []
+    ly = max(y for _, y in acc)
+    out = []
+    for (code, y), d in acc.items():
+        if y != ly or any(d.get(k) is None for k in _KC): continue
+        tot = sum(d[k] for k in _KC)
+        if tot <= 0: continue
+        out.append((d["加工賃"] / tot, code, d["name"], d["加工賃"], tot, d["note"]))
+    if not out: return []
+    out.sort(reverse=True)
+    allc = [o for o in out if o[1] != "0000" and o[1][-1:] != "0"]
+    md = ["", f"## 工業統計表 {ly}年実績 産業細分類別 賃加工の重さ（全国・kougyo_rows.csv のシート1200・同じ行・同じ年の組・名目・機械・4-70）",
+          "- 賃加工の重さ＝加工賃収入額 ÷（製造品出荷額＋加工賃収入額＋くず・廃物＋その他収入）。単位は表のまま（百万円）。県の表（愛知県など）は使わない（4-30）",
+          f"- 細分類の数：{len(allc)}業種。賃加工の重さ50%以上：{sum(1 for o in allc if o[0] >= 0.5)}業種、20%未満：{sum(1 for o in allc if o[0] < 0.2)}業種"]
+    tot0 = next((o for o in out if o[1] == "0000"), None)
+    if tot0: md.append(f"- 0000 製造業計：賃加工の重さ {tot0[0]:.1%}（加工賃収入額 {tot0[3]:,.0f}・合計 {tot0[4]:,.0f}）")
+    for o in allc[:25]:
+        md.append(f"- {o[1]} {o[2]}：賃加工の重さ {o[0]:.1%}（加工賃収入額 {o[3]:,.0f}・合計 {o[4]:,.0f}）" + ("・注記つきの行（本文で確かめる）" if o[5] else ""))
+    foc = [o for o in allc if _kfocus(o[2]) and o not in allc[:25]]
+    if foc:
+        md.append("- 注目の細分類で上の25業種に入らないもの：" + "、".join(f"{o[1]} {o[2]} {o[0]:.1%}" for o in foc[:20]))
+    md.append("- 受託の業種どうしの1人あたりの比較は、賃加工の重さが高い業種（加工賃が売上の大半）だけを母数にするのが筋。重さの線（何%以上を受託とみなすか）は scan.md で決めて書く")
+    return md
+
 def kougyo_size_section(topic):
     f = os.path.join(OUT, topic, "kougyo_size.csv")
     if not os.path.exists(f): return []
@@ -857,7 +907,10 @@ def kougyo_decompose(by):
         if gn is None or gd is None: continue
         gp = (1 + gn) / (1 + gd) - 1
         if gp >= 0:
-            why = ("出荷額が伸び、人が減った（両方が上げた）" if gd < 0 else "出荷額が人より速く伸びた" if gn > 0 else "人が出荷額より速く減った（縮みながらの上昇・生き残りを疑う 4-25）")
+            # 2026-11-07 走査で見つかった失敗から（46回目）：出荷額も人も減った業種（2691 金属用金型 出荷額 -0.6%・従業者 -0.9%）が
+            # 「出荷額が伸び、人が減った」と書かれていた。出荷額の向きを先に見る
+            why = ("人が出荷額より速く減った（縮みながらの上昇・生き残りを疑う 4-25）" if gn < 0 else
+                   "出荷額が伸び、人が減った（両方が上げた）" if gd < 0 else "出荷額が人より速く伸びた")
         else:
             why = ("人が出荷額より速く増えた（需要より先に人を増やした型）" if gd > 0 and gn >= 0 else
                    "出荷額が減り、人は増えたか据え置き" if gd >= 0 else "出荷額が人より速く減った")
@@ -995,6 +1048,16 @@ def scan(topic):
     HB = re.compile(r"(?<!\d)\d{13}(?!\d)")
     nhb = [r for r in rows if HB.search(re.sub(r"[\s\-]", "", r["引用"])) and "houjin-bangou.nta.go.jp" not in (r["URL"] or "")]
     if nhb: md.append(f"  - ⚠ 法人番号の出どころが発行元でない数字 {len(nhb)}件（例：{urlparse(nhb[0]['URL']).netloc}）：国税庁の法人番号公表サイトで取り直すまで、同じ会社の判定・名寄せに使わない（4-55）")
+    # 2026-11-07 4-71（SalesRadar note「法人番号を名寄せの主キーに」：法人番号は先頭1桁が検査用の数字の13桁。個人事業主と一部の外資には無い）。
+    # 引用の13桁の数字を国税庁の検査用数字の式（9 − (下位から奇数桁×1・偶数桁×2 の和 mod 9)）で確かめ、合わないものは法人番号でない
+    # （電話番号・注文番号・桁の取り違え）として数え、名寄せのキーに使わない
+    def _hb_ok(n):
+        base = n[1:]
+        t = sum(int(c) * (1 if i % 2 == 0 else 2) for i, c in enumerate(reversed(base)))
+        return int(n[0]) == 9 - (t % 9)
+    _hbs = [m for r in rows for m in HB.findall(re.sub(r"[\s\-]", "", r["引用"]))]
+    _hbad = [m for m in _hbs if not _hb_ok(m)]
+    if _hbs: md.append(f"  - 法人番号の形の点検（4-71）：13桁の数字 {len(_hbs)}件のうち検査用の数字が合わない {len(_hbad)}件。合わないものは法人番号として名寄せに使わない")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
@@ -1652,6 +1715,7 @@ def scan(topic):
     md += ["## 同じ文の中の割り出し（総額÷人数・4-39）", *(sl[:30] or ["（なし）"]), ""]
     md += kougyo_section(topic)
     md += kougyo_size_section(topic)
+    md += kougyo_contract_section(topic)
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     md += ["## 仕様と実行の照合（inputs と結果・4-59）",
