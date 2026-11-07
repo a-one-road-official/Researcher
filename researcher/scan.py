@@ -752,11 +752,14 @@ METHOD_DISC = re.compile(r"(n\s*[=＝]\s*\d|回答(数|者数|企業数|率)|有
 def kougyo_callband(by):
     fld = "従業者1人あたり製造品出荷額等"
     pts = {}
-    for (code, name), rs in by.items():
-        if not KOUGYO_FOCUS.search(name or "") or len(str(code)) != 4: continue
+    # 2026-11-07 走査で見つかった失敗から（44回目）：この幅の母数「35業種」に、42回目に直した上下の数え上げと同じく
+    # 小分類（末尾0の 2410・2440・2460 など）と、子が1つだけで値が同じ番号（2410＝2411、2480＝2481）が入っていた。
+    # 母数は細分類（末尾が0でない番号）だけにし、同じ年に同じ値の番号は1つとして数える
+    for (code, name), rs in sorted(by.items()):
+        if not KOUGYO_FOCUS.search(name or "") or len(str(code)) != 4 or str(code)[-1:] == "0": continue
         for y, r in rs:
             v = _kf(r.get(fld))
-            if v is not None and v > 0: pts.setdefault(y, {})[(code, name)] = v
+            if v is not None and v > 0 and v not in pts.get(y, {}).values(): pts.setdefault(y, {})[(code, name)] = v
     ys = [y for y in sorted(pts) if len(pts[y]) >= 5]
     if not ys: return []
     y = ys[-1]; vals = list(pts[y].values()); n = len(vals)
@@ -1611,6 +1614,22 @@ def scan(topic):
            f"- 仕様にあるがまだ一度も回っていない品目：{len(notrun)}件" + ("（数字0件とは別。次の回を待つ）" if notrun else ""), *(f"  - {n}" for n in notrun[:20]),
            f"- 仕様から外れたのに結果が残る品目：{len(orphan)}件（結論に使うときは、外した理由を先に確かめる）", *(f"  - {n}" for n in orphan[:10]),
            f"- 同じ品目・同じ年に年度と暦年の引用が並ぶ欄：{len(fymix)}件（期間をそろえるまで向き・食い違いを読まない）", *(f"  - {n}" for n in fymix[:15]), ""]
+    # 2026-11-07 4-69（CASRAI「Outcome switching and selective outcome reporting」：登録した評価項目と公表した結果を、抜き取りでなく全件、
+    # 項目ごとに突き合わせる。落とした・足した・主と副を入れ替えた、の3つの型を見る）。inputs の品目のうち数字が取れたのに
+    # 前回の scan.md（Claude の解釈）に名前が出ない品目を「報告から落ちた品目」として数える。都合の悪い品目を黙って落とさないための点検
+    try:
+        import csv as _csv5
+        _inp5 = [r.get("品目", "") for r in _csv5.DictReader(open(os.path.join(os.path.dirname(__file__), "inputs", topic + ".csv"), encoding="utf-8-sig"))]
+        _sp = os.path.join(OUT, topic, "scan.md")
+        if os.path.exists(_sp):
+            _st = re.sub(r"\s", "", unicodedata.normalize("NFKC", open(_sp, encoding="utf-8").read()))
+            _hasn = {r["品目"] for r in rows}
+            _key = lambda n: re.sub(r"\s", "", unicodedata.normalize("NFKC", re.split(r"[（(]", n)[0]))[:12]
+            _miss = [n for n in _inp5 if n in _hasn and _key(n) and _key(n) not in _st]
+            md += ["## 報告からの落とし（4-69）",
+                   f"- 数字が取れたのに scan.md に名前が出ない品目：{len(_miss)}件／数字のある品目 {sum(1 for n in _inp5 if n in _hasn)}件"
+                   + ("。次の scan.md で、採らない理由を1行ずつ書くか結論に入れる" if _miss else ""), *(f"  - {n[:60]}" for n in _miss[:20]), ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
