@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・146品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・149品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3792,11 +3792,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3832,7 +3832,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -4272,8 +4272,10 @@
   - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「politicization, biased reporting, or lack of objectivity in intelligence analysis.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 検索結果の抜粋：
+  - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -7192,6 +7194,8 @@
 ## ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順（fact check explorer how to use verify translated summarized claims against original source）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「歯科ホームページでの差別化方法とは？制作事例からポイントを解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「X（旧Twitter）の企業アカウント運用のコツ！導入フローや成功事例も紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7205,8 +7209,6 @@
   - 「Copilot（コパイロット）の使い方を分かりやすく解説！無料版の始め方からMicrosoft 365での活用事例まで」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「GA4（Googleアナリティクス4）とは？コンバージョン設定方法と基本的な見方をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックのやり方完全ガイド｜基本手順からAI活用まで解説 | iTSCOM for Business」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
-  - 「AI・ツールを活用したファクトチェックの実践方法」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
-  - 「本記事では、ファクトチェックの基本的な考え方から、公的機関や一次情報を用いた確認手順、複数メディアでのクロスチェック方法までを詳しく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7275,6 +7277,7 @@
 ## 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）（reversible entity merge audit log identifier provenance scope entity resolution）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「データ統合技術とは？主要7手法の選び方と導入5ステップを解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/data-integration-technology）
   - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「まずは、そのような制御しやすい使い方から始めたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7289,8 +7292,9 @@
   - 「- 方法クレームの分割実施（divided infringement, Akamai）の可能性がある場合、指揮・管理の関係が」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「3. 規格・認証・型番の手がかり（該当し得る規格名、認証マーク、チップの型番、インタフェース名）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「1. 要件ごとの語彙表（下位概念／業界用語／規格・型番の手がかり／機能の見え方／反対証拠の表現）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 突き合わせ・推定：
+  - 「本当に必要なのは、自社の用途から逆算して手法を組み合わせるための判断軸です」（https://data-viz-lab.com/data-integration-technology）
+  - 「基本プロセス：抽出・マッピング・変換・検証・ロード・同期の流れ」（https://data-viz-lab.com/data-integration-technology）
   - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「2．技術的なポイントは、分解・検索・引用検証の3つ」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7304,9 +7308,14 @@
   - 「- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 一次情報の探し方：
+  - 「対象はSFAや会計システムなどの業務システムに加え、Excelファイル、Webのアクセスログ、外部の統計データまで含まれます」（https://data-viz-lab.com/data-integration-technology）
+  - 「ストリーミングは構築・運用の難易度が7手法の中で最も高いため、秒単位の反応が本当に必要な用途に限定して採用するのが賢明です」（https://data-viz-lab.com/data-integration-technology）
+  - 「採用前に、遅延が発生したときに失われる金額や業務影響を試算してください」（https://data-viz-lab.com/data-integration-technology）
+  - 「画像やPDFなどの非構造化データまで扱うなら、データレイクを併用する構成を検討してください」（https://data-viz-lab.com/data-integration-technology）
+  - 「内製はノウハウが社内に残る一方、採用と育成に1〜2年かかります」（https://data-viz-lab.com/data-integration-technology）
+  - 「1〜2年（採用・育成を含む）」（https://data-viz-lab.com/data-integration-technology）
+  - 「ここでは小売業、製造業、金融・保険業について、統合の対象データ、採用される手法、得られる成果を典型的なパターンとして紹介します」（https://data-viz-lab.com/data-integration-technology）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7315,29 +7324,22 @@
   - 「特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「3. **逐語引用のない判定は採用しない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 失敗・落とし穴：
+  - 「本記事では、データ統合技術の定義と主要7手法の特徴を整理したうえで、選び方の5つの判断軸、導入の5ステップ、陥りやすい失敗パターンまでを実務目線で解説します」（https://data-viz-lab.com/data-integration-technology）
+  - 「データ統合で陥りやすい失敗パターンと回避策」（https://data-viz-lab.com/data-integration-technology）
+  - 「どちらを主目的にするかで必要な予算の規模も変わる点に注意してください」（https://data-viz-lab.com/data-integration-technology）
+  - 「注意点は、ソースシステムの応答速度に全体の性能が左右されることです」（https://data-viz-lab.com/data-integration-technology）
+  - 「ハイブリッド構成で注意したいのは、鮮度の異なるデータを結合したときの整合性です」（https://data-viz-lab.com/data-integration-technology）
+  - 「拡張判断の目安として、稼働後3か月間でジョブの失敗が月1回以下に収まっていれば、拡張に進んでよい状態と判断できます」（https://data-viz-lab.com/data-integration-technology）
+  - 「データ統合プロジェクトの失敗には、業種や規模を問わず共通するパターンがあります」（https://data-viz-lab.com/data-integration-technology）
+  - 「最も多い失敗は、ツールの導入そのものがゴールになり、統合後の活用シーンが決まらないまま構築が進むパターンです」（https://data-viz-lab.com/data-integration-technology）
+  - 「項目定義やコード体系のずれを「統合後に直せばよい」と後回しにするのも、典型的な失敗パターンです」（https://data-viz-lab.com/data-integration-technology）
+  - 「処理の順序を誤り、標準化の前に名寄せを実行してしまう失敗も後を絶ちません」（https://data-viz-lab.com/data-integration-technology）
   - 「これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
   - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -9133,3 +9135,40 @@
   - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
 - 検索結果の抜粋：
   - 「フェルミ推定 の解き方やメリットを解説！活用の注意点は？ — フェルミ推定 の解き方やメリットを解説！活用の注意点は？ クロス・マーケティング https://www.cross-m.co.jp > marketing > mkc20260925」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+
+## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「, so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+- 実例：
+  - 「<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「<li>4) In cell N275, type "Standard Error" and in P275, "=(P274)/(SQRT(P272))". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「<li>5) In cell N276, type "Confidence Int." and in P276, "=CONFIDENCE(0.05,P274,P272)". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of "average" in our sample.</p>」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「, so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+  - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
+- 文脈：一次情報
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）

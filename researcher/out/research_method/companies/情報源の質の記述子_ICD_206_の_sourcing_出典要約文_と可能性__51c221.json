@@ -8,8 +8,36 @@
  ],
  "context": "書き方",
  "kind": "market",
- "researched_at": "2026-11-06T19:56:47.393218+00:00",
+ "researched_at": "2026-11-07T00:17:10.083531+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "(e.g., \"according to ... \") or a specific aspect of analysis (i.e., judgment, assessment, estimate,",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimates), applicable source information shall be retained for the period of the time horizon or",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate, compilation, database, graphic, or interactive publication, created by the analytic",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.",
+    "url": "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "The 2024 update exists because analysts now routinely cite AI-generated outputs, rely on commercial platforms that sit between them and the original data, and work with sources that can disappear overnight. ICS 206-01 tells them how to document all of that so the reader can evaluate it, and these principles should apply wherever intelligence work happens.",
@@ -49,26 +77,6 @@
    },
    {
     "quote": "sources and methods, when disclosure would harm national security. The degree to which",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "(e.g., \"according to ... \") or a specific aspect of analysis (i.e., judgment, assessment, estimate,",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimates), applicable source information shall be retained for the period of the time horizon or",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate, compilation, database, graphic, or interactive publication, created by the analytic",
     "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -141,113 +149,13 @@
     "method": "http"
    },
    {
-    "url": "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jenni.ai/ja/blog/what-is-a-credible-source",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://academy.claude.com/ja/use-cases/legal-research-memo",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/5895",
+    "url": "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.library.osaka-u.ac.jp/doc/ISLIB_017.pdf",
-    "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://concours.toshokan.or.jp/concours/reference",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.chem.tsukuba.ac.jp/junji/lecture/data/reference_instruction.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.kamada-pat.com/blog/?p=235",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
     "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "status": "ok",
     "method": "pdf"
    },
    {
@@ -259,6 +167,16 @@
     "url": "https://www.hsdl.org/document/480352",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/sourcing-for-osint-icd-206-01",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.dni.gov/index.php/what-we-do/ic-related-menus/ic-related-links/intelligence-community-directives",
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -277,59 +195,26 @@
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け note",
-   "results": [
-    "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://jenni.ai/ja/blog/what-is-a-credible-source",
-    "https://academy.claude.com/ja/use-cases/legal-research-memo",
-    "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
-    "https://www.worldoftest.com/ja/print/pdf/node/5895",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.coinex.zone/ja/academy/2882/related-articles"
-   ]
+   "results": []
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け やり方",
-   "results": [
-    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://www.library.osaka-u.ac.jp/doc/ISLIB_017.pdf",
-    "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
-    "https://concours.toshokan.or.jp/concours/reference",
-    "https://www.chem.tsukuba.ac.jp/junji/lecture/data/reference_instruction.pdf",
-    "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "https://isijint.net/jp/guide-to-authors/writing-style-for-references/",
-    "https://library.rikkyo.ac.jp/learning/reportguide/citation/"
-   ]
+   "results": []
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け 事例",
-   "results": [
-    "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://jenni.ai/ja/blog/what-is-a-credible-source",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
-    "https://www.kamada-pat.com/blog/?p=235"
-   ]
+   "results": []
   },
   {
    "query": "ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood",
    "results": [
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf",
     "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
-    "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
-    "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
-    "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
     "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
-    "https://www.hsdl.org/document/480352",
-    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
-    "https://archive.dni.gov/files/documents/ICD/ICS-206-01.pdf",
-    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
+    "https://www.hsdl.org/c/view?docid=480352",
+    "https://pangearesearch.substack.com/p/sourcing-for-osint-icd-206-01",
+    "https://archive.dni.gov/index.php/what-we-do/ic-related-menus/ic-related-links/intelligence-community-directives",
+    "https://irp.fas.org/dni/icd/"
    ]
   },
   {
@@ -347,14 +232,14 @@
   {
    "query": "site:x.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://jf.x.com/images/media-preview/2115719028056682706",
     "https://x.com/okayamamental/status/2064838826275868943",
-    "https://x.com/IcdLab",
+    "https://jf.x.com/images/media-preview/2115719028056682706",
     "https://x.com/aooi_AI/status/2065590127624339574",
     "https://x.com/NagatabiP/status/2092109081796571214",
     "https://x.com/nxqnxp/status/2078156349788348590",
     "https://x.com/GtoDr/status/1769536781123215664",
-    "https://x.com/shonyan/status/2048720447588679863"
+    "https://x.com/shonyan/status/2048720447588679863",
+    "https://x.com/nikkei_kotoba/status/778218941919272960"
    ]
   },
   {
@@ -371,35 +256,23 @@
   },
   {
    "query": "site:facebook.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
-   "results": []
+   "results": [
+    "https://www.facebook.com/jsqsh.anzen2005/",
+    "https://www.facebook.com/japan.icd.org/",
+    "https://www.facebook.com/people/第21回-医療の質安全学会-学術集会/61588115708138/",
+    "https://www.facebook.com/TCROSS.NEWS.JP/posts/26jcs速報-日本人患者におけるicd及びwcdの適応と予後-transition-japan-icdwcd研究transition-japan-icdwcd/1774378210478518/",
+    "https://www.facebook.com/iwamibeer/posts/缶充填の豆知識202缶206缶について最近ほぼ毎日のように問い合わせがあるので再度情報をアップしますアルミ缶には蓋の口径により202缶204缶206缶があります/795790365891631/",
+    "https://www.facebook.com/100067669523711/posts/テキスト正誤表第２版-第11刷用を追加厚生労働省カリキュラム準拠要約筆記者養成テキスト正誤表第２版-第11刷用を追加しましたお手持ちのテキストの版をご確認の上ご/969071825358459/",
+    "https://www.facebook.com/jsqsh.anzen2005/posts/2026年度医療安全管理者養成研修の日程が決まりましたぜひご参加下さい開催日程オンデマンド配信-前半-5月1日金-5月31日日-後半-6月5日金-7月5日日-参/849551297825968/"
+   ]
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け note 社長",
-   "results": [
-    "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://csajc1.sharepoint.com/:b:/s/CSAJapanMaterial/IQBi9i0i-i0xT6nj9IHbB_kBAToMpz1koNFU3CtlPt_DXkQ?e=INtCH8",
-    "https://www.coinex.zone/ja/academy/2882/related-articles",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://www.tmj.jp/column/column_23826/"
-   ]
+   "results": []
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け X 投稿",
-   "results": [
-    "https://www.iadb.org/ja/viewer/EZSHARE-1603335645-4",
-    "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
-    "https://www.jreast.co.jp/th/web_accessibility/2023/01/40/2.4.4.html",
-    "https://hybrid-analysis.com/sample/ea6e09e356c4346e9fff8b145837bdc1a16367ee5f6e9104e7988ca462214fc1/5c6cf2077ca3e1325a6b4334",
-    "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "https://milab.mi-6.co.jp/article/t0004",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.idc.com/jp/client/data-quotation/"
-   ]
+   "results": []
   },
   {
    "query": "ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood site:linkedin.com",
@@ -415,10 +288,19 @@
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "実例": "記載なし（読んだ12頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 9,
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.",
+    "url": "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 10,
  "first_researched_at": "2026-11-05T15:19:45.423228+00:00"
 }

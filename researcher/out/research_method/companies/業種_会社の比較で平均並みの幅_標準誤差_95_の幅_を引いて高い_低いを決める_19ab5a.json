@@ -1,0 +1,512 @@
+{
+ "name": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
+ "en": "data journalism making the call close comparisons standard error confidence interval ranking",
+ "aliases": [
+  "データジャーナリズム 順位 比較 誤差の幅 平均並み",
+  "journalist's resource basic data analysis confidence interval",
+  "ランキング 統計的に差がない 報道"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-06T23:58:00.109403+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<li>4) In cell N275, type \"Standard Error\" and in P275, \"=(P274)/(SQRT(P272))\". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<li>5) In cell N276, type \"Confidence Int.\" and in P276, \"=CONFIDENCE(0.05,P274,P272)\". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of \"average\" in our sample.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/alert_hyssop1862/n/n9a05488f575d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanto_econ/n/n35a707b1cabb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ohpforsme/n/n77200e160aba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jun2024note/n/n15a1d9cf9eaf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/york_date/n/nfc72572728f3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genial_robin6007/n/n0717b4ae52e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/65acc4fde28714c38e918402c2d5c32a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.business-research-lab.com/250704-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://surveroid.jp/mr-journal/statistics/eARCT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/8888.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metricgate.com/blogs/ja/standard-error-vs-margin-of-error/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.customedia.co.jp/marketing/comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/8616.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metricgate.com/blogs/ja/why-95-percent-confidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consulnote.com/articles/data-analysis/confidence-interval/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biostatistics-consult.com/sd-vs-se/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.business-research-lab.com/250501-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stat-lab.jp/standard-deviation-standard-error/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biostats.bepress.com/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1152&context=jhubiostat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/jssam/advance-article/doi/10.1093/jssam/smag025/8776179",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Confidence_interval",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） site:note.com",
+   "results": [
+    "https://note.com/alert_hyssop1862/n/n9a05488f575d",
+    "https://note.com/nanto_econ/n/n35a707b1cabb",
+    "https://note.com/ohpforsme/n/n77200e160aba",
+    "https://note.com/jun2024note/n/n15a1d9cf9eaf",
+    "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
+    "https://note.com/york_date/n/nfc72572728f3",
+    "https://note.com/kudo_reskill_log/n/n462988901903",
+    "https://note.com/yoshi2845/n/n2b3c726ac0b7",
+    "https://note.com/momoen_de/n/nc462d0a34041",
+    "https://note.com/miiichii/n/n1eeeb06d7958"
+   ]
+  },
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） note",
+   "results": [
+    "https://www.youtube.com/watch?v=UIarOPzVi1Q",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "https://note.com/genial_robin6007/n/n0717b4ae52e6",
+    "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/65acc4fde28714c38e918402c2d5c32a.pdf",
+    "https://www.business-research-lab.com/250704-3/",
+    "https://www.youtube.com/watch?v=a4w0pVnivjQ",
+    "https://yukiyanai.github.io/jp/classes/stat2/contents/slides/stat2_slides_topic08_pub.pdf",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff"
+   ]
+  },
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） やり方",
+   "results": [
+    "https://www.youtube.com/watch?v=UIarOPzVi1Q",
+    "https://surveroid.jp/mr-journal/statistics/eARCT",
+    "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://bellcurve.jp/statistics/course/8888.html",
+    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "https://metricgate.com/blogs/ja/standard-error-vs-margin-of-error/",
+    "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/65acc4fde28714c38e918402c2d5c32a.pdf",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff"
+   ]
+  },
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） 事例",
+   "results": [
+    "https://www.youtube.com/watch?v=dAA4jjqbzmQ",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://surveroid.jp/mr-journal/statistics/eARCT",
+    "https://www.youtube.com/watch?v=UIarOPzVi1Q",
+    "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "https://bellcurve.jp/statistics/course/8616.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://metricgate.com/blogs/ja/why-95-percent-confidence/",
+    "https://www.consulnote.com/articles/data-analysis/confidence-interval/",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff"
+   ]
+  },
+  {
+   "query": "data journalism making the call close comparisons standard error confidence interval ranking",
+   "results": [
+    "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+    "https://biostats.bepress.com/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1152&context=jhubiostat",
+    "https://academic.oup.com/jssam/advance-article/doi/10.1093/jssam/smag025/8776179",
+    "https://en.wikipedia.org/wiki/Confidence_interval",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2639348/",
+    "https://directivepublications.org/blog/statistical-reporting-p-values-confidence-intervals",
+    "https://datadrivendetroit.org/blog/2019/12/27/comparing-data-how-to-use-reliability-measures-in-real-life/",
+    "https://www.bls.gov/cps/factsheets/understanding-standard-errors-and-confidence-intervals.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
+   "results": [
+    "https://note.com/jun2024note/n/n15a1d9cf9eaf",
+    "https://note.com/nanto_econ/n/n35a707b1cabb",
+    "https://note.com/york_date/n/nfc72572728f3",
+    "https://note.com/alert_hyssop1862/n/n9a05488f575d",
+    "https://note.com/rd_analytics_hub/n/n710a67cdeba9",
+    "https://note.com/momoen_de/n/nc462d0a34041",
+    "https://note.com/ohpforsme/n/n77200e160aba"
+   ]
+  },
+  {
+   "query": "site:x.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
+   "results": [
+    "https://x.com/AISTATSCH/status/2077174061126533307",
+    "https://x.com/genkuroki/status/1737262861230157872",
+    "https://x.com/marketdata_jp/status/2089494986870120745",
+    "https://x.com/kashin_moneylab/status/2102960682853638232",
+    "https://x.com/aiba_algorithm/status/2034551418057863427",
+    "https://x.com/neco_ug/status/2104925808750145690",
+    "https://x.com/nkinvestigation"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
+   "results": [
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3373097",
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3372084",
+    "https://www.linkedin.com/pulse/why-95-relevance-significance-level-elizabeth-horn-ikbac/",
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3370079",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7497581720553152513/",
+    "https://jp.linkedin.com/pulse/demystifying-training-generalization-error-machine-learning-silwal-9cc8c?tl=ja",
+    "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）",
+   "results": [
+    "https://www.facebook.com/StatsGuild.jp/posts/標準偏差-standard-deviationsdと標準誤差-standard-errorseの使い分け統計初学者の方にとってデータを要約する際例えば論文に掲載/278525528892242/",
+    "https://www.facebook.com/groups/428778194457478/",
+    "https://www.facebook.com/seizoqc/videos/品質管理リーダー必見データ誤差の全知識と対策サンプリング誤差測定誤差を完全攻略httpsseizo-bucom23sq/4236291869969792/",
+    "https://www.facebook.com/gendaibusiness/posts/パッと見では問題なさそうでも経営があやうい会社の業種業界ごとのヤバいパターン/1106355164627919/",
+    "https://www.facebook.com/concord.sheep/videos/台灣砸4000億換來20關稅️️美國劃分盟友等級的標準是什麼這個20關稅對台指期是壞消息嗎/686788843681055/",
+    "https://www.facebook.com/100037504568899/posts/tbs報道特集でデマ流したコネクトエネルギー合同会社もうあちこちで指摘されているけどコンサル業なんだってねそれよりも会社hpのブログおよそ企業のものとは思えない/1604283277498476/",
+    "https://www.facebook.com/story.php/?story_fbid=826628596912275&id=100086954269059"
+   ]
+  },
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=UIarOPzVi1Q",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "https://note.com/genial_robin6007/n/n0717b4ae52e6",
+    "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/65acc4fde28714c38e918402c2d5c32a.pdf",
+    "https://yukiyanai.github.io/jp/classes/stat2/contents/slides/stat2_slides_topic08_pub.pdf",
+    "https://www.youtube.com/watch?v=a4w0pVnivjQ",
+    "https://www.reddit.com/r/labrats/comments/meyld8/for_journal_papers_which_error_bars_are_better/?tl=ja",
+    "https://xpert.link/column/225/",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff"
+   ]
+  },
+  {
+   "query": "業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き） X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=dAA4jjqbzmQ",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=UIarOPzVi1Q",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://surveroid.jp/mr-journal/statistics/eARCT",
+    "https://metricgate.com/blogs/ja/standard-error-vs-margin-of-error/",
+    "https://developer.mamezou-tech.com/blogs/2025/06/10/lets_talk_statistics_shall_we_11/",
+    "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/65acc4fde28714c38e918402c2d5c32a.pdf",
+    "https://yukiyanai.github.io/jp/classes/stat2/contents/slides/stat2_slides_topic08_pub.pdf",
+    "https://qiita.com/Seine_A_Shintani/items/e765030f8a3a991e30ff"
+   ]
+  },
+  {
+   "query": "data journalism making the call close comparisons standard error confidence interval ranking site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/saibysani18_every-data-professional-forgets-which-statistical-activity-7486419311029481472-22M5",
+    "https://www.linkedin.com/posts/natalie-rodrigue_better-reporting-interpretation-activity-7436712450001047552-sPNJ",
+    "https://www.linkedin.com/posts/matthewjrogers29_multiple-comparisons-more-comparisons-more-activity-7511071204418453504-Ph1G",
+    "https://www.linkedin.com/posts/saibysani18_20-statistics-concepts-every-data-professional-activity-7441483832123498496-N4qx",
+    "https://www.linkedin.com/top-content/science/biostatistics-in-research/statistical-interpretation-of-scientific-results/",
+    "https://www.linkedin.com/posts/saibysani18_every-data-professional-forgets-which-statistical-activity-7456704083635175424-g8Mj",
+    "https://www.linkedin.com/pulse/statistics-darshika-srivastava-u8gxc",
+    "https://ca.linkedin.com/in/craigjsilverman",
+    "https://www.linkedin.com/posts/stephen-marrin-53b3b21_hi-all-i-asked-a-question-yesterday-but-activity-7396190023748067328-uSUL",
+    "https://www.linkedin.com/in/simonrogersjournalist"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<li>4) In cell N275, type \"Standard Error\" and in P275, \"=(P274)/(SQRT(P272))\". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<li>5) In cell N276, type \"Confidence Int.\" and in P276, \"=CONFIDENCE(0.05,P274,P272)\". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of \"average\" in our sample.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T23:58:00.109403+00:00"
+}
