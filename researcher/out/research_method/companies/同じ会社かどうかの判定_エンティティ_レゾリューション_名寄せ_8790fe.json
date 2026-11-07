@@ -8,824 +8,8 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T04:51:19.523560+00:00",
+ "researched_at": "2026-11-07T10:20:48.874010+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
-    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "サービス名、店舗名・ブランド名、部署名・拠点名、閉鎖企業、入力誤り、個人事業主、人名、海外法人",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、法人として名寄せできない場合でも、「なぜ非法人と判断されたのか」という背景を推測できるため、単なる失敗ではなく、次の判断につながる情報として扱えるようになります",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInAndy Wong - Quantexa | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data & Publ",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInHitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Head of Entity Data at Intelix.AI — Greater London, England ... Oct 26, 2026 · THE ROLE: Entity master: company names, identifiers (LEI, Fitch ID, CUSIP, ISIN, BIC, tickers), locations, industries; the cross-reference between them and the rules for when two records are one company Entity resolution: matching rules, match confidence, survivorship, deduplication; accuracy measured against a publishe",
-    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInPiu Maji - Barclays HackOHire’26 Finalist | 2nd Runner Up at ...Hitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Dedupli",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "名寄せの定義と計算方法について読みましょう",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 1: ペア",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 2: 類似度",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "💬 手計算 (Step 2) 0.75 と Python 出力が完全一致",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに先へ進むなら： Fellegi-Sunter 型の確率的リンケージを実装した",
-    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務での使い方 — 3つのステップ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1: SFAのアカウントに法人番号フィールドを追加する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "型: テキスト(13桁固定長)",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2: 既存リストに法人番号を付与する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3: 法人番号をキーに複数ソースを統合する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める\"今アプローチすべき企業\"",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もっとも単純な方法は、**完全一致（Exact Match）**です",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deterministic Matchingは、事前に定義したルールに従って照合する方法です",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大規模な確率的Entity Resolutionでは、OSSを利用する方法もあります",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "のような文字列をEmbeddingへ変換し、意味的な類似度から候補を検索する方法です",
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Evaluate a CDP",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致の判定には2つの方法がある",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの仕組み：5つのステップ",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1から4がプロファイルを組み上げ、ステップ5が1年後もそれを信頼できる状態に保つ",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人手や予算が最も不足しがちなのも、このステップ5である",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多くの企業は、最終的に組み合わせ型に落ち着く",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せがなければ、このループは2番目のステップで止まってしまう",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Treasure AI（旧Treasure Data）のような一体型のプラットフォームは、名寄せ、AI意思決定、マルチチャネルのアクティベーションを単一のプラットフォームの中に保つことで、PIIの重複やフィードバックループのレイテンシーを引き起こすハンドオフをなくしている",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CDPのRFPを成功させるための6つのステップ",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Customer Identity Resolution: Methods & CDP Use",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せとは？意味・手順・Excelでのやり方（関数の式つき）・照合キーの決め方｜sento.group",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの6つの手順",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Excelでの名寄せのやり方（関数の式つき）",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入口を閉じる：新しく登録する前に既存の記録を検索する手順を入れる",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "手順5で消す番号を捨てると、過去の請求書から辿れなくなります",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生成AIに似た社名の組を挙げさせる方法もあります",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の入口からの登録、登録前に既存を探さない手順、誰が正の記録を持つかが決まっていないこと、がそのままなら、同じ作業を毎年繰り返します",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登録の流れ図に「登録の前に社名と電話で既存を検索する」という一手を書き込むと、入口を閉じる手順が担当者の交代後も残ります",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一度やったら、登録の前に既存を探す手順を入れます",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客一覧の列名と重複している例を送って、名寄せの進め方を相談する",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How does entity resolution work? Three key steps",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "follows three main steps to connect and unify records across disparate data sources.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A best practice for entity resolution is to combine deterministic and probabilistic methods rather than relying on one alone.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Layer probabilistic methods:",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution techniques include deterministic matching using exact identifiers, fuzzy matching for similar records, and probabilistic methods that calculate match likelihood based on multiple attributes.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is an Entity Resolution Framework?",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A complete enterprise entity resolution framework generally includes the following stages:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Candidate records are compared across relevant attributes. Different fields may require different comparison methods.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Measure Entity Resolution Quality",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Choose the Right Entity Resolution Software",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Discover how to model a knowledge graph, retrieve context with GraphRAG, connect agents with MCP, and build trustworthy AI that reasons over connected data.",
-    "url": "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This method assigns probability scores to potential matches based on how closely different attributes align. It’s more flexible than deterministic matching but requires careful tuning of matching thresholds.",
-    "url": "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "system is quietly changing everything. By the end you’ll know exactly where the major potholes lie, the tools top aggregators deploy, and how to tell if your “single source of truth” is really golden or just gold-plated.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", typically the official state registries, and flows through five critical steps:",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Evaluate a CDP",
-    "url": "https://cdp.com/glossary/entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity Resolution: 7 Steps to Match Records Across Business Systems - Oxensoftwares",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity Resolution: 7 Steps to Match Records Across Business Systems",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This guide explains the matching workflow, common methods, accuracy tradeoffs, privacy controls, and how to plan a safe deployment.",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Probabilistic methods assign weights to agreements and disagreements across attributes. A rare surname plus a matching date of birth may provide stronger evidence than a common surname alone. The system produces a score, and the business sets thresholds for automatic decisions and human review.",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to choose entity resolution software",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to set thresholds with evidence",
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We model records as nodes and matching relationships as edges. Before submission, the adapter should validate the source contract and map accepted fields into the configured GraphQL schema. Our rules can then combine deterministic, fuzzy and probabilistic methods without having to guess what an identifier or missing value means.",
-    "url": "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "UK Government Data Quality Framework",
-    "url": "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、既存データを自動で上書きしない方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：ロールバックの方法と、担当者研修の準備",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution is the process of identifying and matching records across data sources. Tamr’s Entity Resolution Agent automates every step of the process, which includes comparing records, scoring how likely they are to be the same entity, and clustering the matches into a single golden record. Anything it isn’t confident about goes to the",
-    "url": "https://www.tamr.com/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution works by analyzing different records and determining whether they correspond to the same entity. This process involves multiple steps, including data cleaning, standardization, and matching. Organizations apply entity resolution techniques to ensure consistency in their databases and avoid data duplication, which is essential for maintaining high-quality data.",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The first step in entity resolution involves linking records from multiple datasets that may refer to the same entity. This process identifies potential matches based on common attributes such as names, addresses, or unique identifiers.",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Once records are linked, the next task is deduplication—removing redundant entries that refer to the same entity within a single dataset. This step ensures that each entity has a single, clean representation.",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The final step assigns a persistent and unique identifier to each entity, ensuring that future records can be accurately linked and referenced without reprocessing the entire dataset.",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Although these traditional methods were sufficient for small datasets with well-structured information, they became increasingly inadequate in modern data environments. As businesses expanded, data sources multiplied, and unstructured data became more common, traditional entity resolution methods proved inefficient, leading to data fragmentation, duplication, and quality issues.",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Supply chain concentration risk: how to see beyond Tier 1 suppliers",
-    "url": "https://www.semantic-visions.com/insights/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説 - GENIEE's library",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せが必要になる典型的な状況は、SFA・CRM・MA・名刺管理ツールを複数運用している企業で発生します",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「株式会社」と「（株）」の表記統一にはSUBSTITUTE関数で一方に寄せる方法が一般的です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "表記ゆれの種類は多岐にわたるため、まず自社データに多い類型を洗い出してから処理ルールを決めると、作業が効率的に進みます",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "住所の都道府県名を統一する場合は、LEFT関数やIF関数を組み合わせて先頭の文字列を判定する方法が一般的です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングから名寄せまでの実施手順",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全体の流れは5つのステップで構成されます",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各ステップで何を確認し、何を決定するかを把握しておくと、作業の抜け漏れを防ぎやすくなります",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：現状データの調査と対象範囲の確定",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対象範囲を広げすぎると工数が膨らむため、最初は「直近1年以内にアクティブな顧客」など絞り込んだ範囲で着手し、精度を確認してから全件に拡張する進め方が現実的です",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：データ抽出と統合先フォーマットの設計",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：データクレンジングの実施",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前章で説明した4種類のクレンジング処理（表記ゆれの統一・欠損値の補完・フォーマットの正規化・誤データの除去）をこのステップで実施します",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、クレンジング後の件数変化（除去によって何件減ったか）と欠損率の変化を確認することで、次のステップに進む前の品質チェックになります",
-    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP 1｜一致判定",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP 2｜SalesNowスコア",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP 3｜AIリサーチ",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際に検証してみると、驚くほど多くのデータが、STEP2まで（一致判定・SalesNowスコア判定）で名寄せできました",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「自社の営業課題にSalesNowが使えるか知りたい」「今の使い方が合っているか、一度相談したい」",
-    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "顧客マスタ統合、 文献データベース、 公的統計の事業所集計",
@@ -1730,6 +914,32 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInAndy Wong - Quantexa | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data & Publ",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInHitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Head of Entity Data at Intelix.AI — Greater London, England ... Oct 26, 2026 · THE ROLE: Entity master: company names, identifiers (LEI, Fitch ID, CUSIP, ISIN, BIC, tickers), locations, industries; the cross-reference between them and the rules for when two records are one company Entity resolution: matching rules, match confidence, survivorship, deduplication; accuracy measured against a publishe",
+    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInPiu Maji - Barclays HackOHire’26 Finalist | 2nd Runner Up at ...Hitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Dedupli",
+    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "ためには、 以下の観点で検証するのが定番です",
@@ -2139,11 +1349,823 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
+    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービス名、店舗名・ブランド名、部署名・拠点名、閉鎖企業、入力誤り、個人事業主、人名、海外法人",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、法人として名寄せできない場合でも、「なぜ非法人と判断されたのか」という背景を推測できるため、単なる失敗ではなく、次の判断につながる情報として扱えるようになります",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "名寄せの定義と計算方法について読みましょう",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: ペア",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 2: 類似度",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "💬 手計算 (Step 2) 0.75 と Python 出力が完全一致",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに先へ進むなら： Fellegi-Sunter 型の確率的リンケージを実装した",
+    "url": "https://www.matsumotolab.com/stats/glossary/name-resolution.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務での使い方 — 3つのステップ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1: SFAのアカウントに法人番号フィールドを追加する",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "型: テキスト(13桁固定長)",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2: 既存リストに法人番号を付与する",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3: 法人番号をキーに複数ソースを統合する",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める\"今アプローチすべき企業\"",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もっとも単純な方法は、**完全一致（Exact Match）**です",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deterministic Matchingは、事前に定義したルールに従って照合する方法です",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大規模な確率的Entity Resolutionでは、OSSを利用する方法もあります",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "のような文字列をEmbeddingへ変換し、意味的な類似度から候補を検索する方法です",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Evaluate a CDP",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一致の判定には2つの方法がある",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの仕組み：5つのステップ",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1から4がプロファイルを組み上げ、ステップ5が1年後もそれを信頼できる状態に保つ",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人手や予算が最も不足しがちなのも、このステップ5である",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの企業は、最終的に組み合わせ型に落ち着く",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せがなければ、このループは2番目のステップで止まってしまう",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Treasure AI（旧Treasure Data）のような一体型のプラットフォームは、名寄せ、AI意思決定、マルチチャネルのアクティベーションを単一のプラットフォームの中に保つことで、PIIの重複やフィードバックループのレイテンシーを引き起こすハンドオフをなくしている",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CDPのRFPを成功させるための6つのステップ",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Customer Identity Resolution: Methods & CDP Use",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せとは？意味・手順・Excelでのやり方（関数の式つき）・照合キーの決め方｜sento.group",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの6つの手順",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Excelでの名寄せのやり方（関数の式つき）",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入口を閉じる：新しく登録する前に既存の記録を検索する手順を入れる",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順5で消す番号を捨てると、過去の請求書から辿れなくなります",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AIに似た社名の組を挙げさせる方法もあります",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の入口からの登録、登録前に既存を探さない手順、誰が正の記録を持つかが決まっていないこと、がそのままなら、同じ作業を毎年繰り返します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登録の流れ図に「登録の前に社名と電話で既存を検索する」という一手を書き込むと、入口を閉じる手順が担当者の交代後も残ります",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一度やったら、登録の前に既存を探す手順を入れます",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客一覧の列名と重複している例を送って、名寄せの進め方を相談する",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How does entity resolution work? Three key steps",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "follows three main steps to connect and unify records across disparate data sources.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A best practice for entity resolution is to combine deterministic and probabilistic methods rather than relying on one alone.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Layer probabilistic methods:",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution techniques include deterministic matching using exact identifiers, fuzzy matching for similar records, and probabilistic methods that calculate match likelihood based on multiple attributes.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is an Entity Resolution Framework?",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A complete enterprise entity resolution framework generally includes the following stages:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Candidate records are compared across relevant attributes. Different fields may require different comparison methods.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Measure Entity Resolution Quality",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Choose the Right Entity Resolution Software",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Discover how to model a knowledge graph, retrieve context with GraphRAG, connect agents with MCP, and build trustworthy AI that reasons over connected data.",
+    "url": "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This method assigns probability scores to potential matches based on how closely different attributes align. It’s more flexible than deterministic matching but requires careful tuning of matching thresholds.",
+    "url": "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "system is quietly changing everything. By the end you’ll know exactly where the major potholes lie, the tools top aggregators deploy, and how to tell if your “single source of truth” is really golden or just gold-plated.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", typically the official state registries, and flows through five critical steps:",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Evaluate a CDP",
+    "url": "https://cdp.com/glossary/entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution: 7 Steps to Match Records Across Business Systems - Oxensoftwares",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution: 7 Steps to Match Records Across Business Systems",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This guide explains the matching workflow, common methods, accuracy tradeoffs, privacy controls, and how to plan a safe deployment.",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Probabilistic methods assign weights to agreements and disagreements across attributes. A rare surname plus a matching date of birth may provide stronger evidence than a common surname alone. The system produces a score, and the business sets thresholds for automatic decisions and human review.",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to choose entity resolution software",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to set thresholds with evidence",
+    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We model records as nodes and matching relationships as edges. Before submission, the adapter should validate the source contract and map accepted fields into the configured GraphQL schema. Our rules can then combine deterministic, fuzzy and probabilistic methods without having to guess what an identifier or missing value means.",
+    "url": "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UK Government Data Quality Framework",
+    "url": "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、既存データを自動で上書きしない方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：ロールバックの方法と、担当者研修の準備",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution is the process of identifying and matching records across data sources. Tamr’s Entity Resolution Agent automates every step of the process, which includes comparing records, scoring how likely they are to be the same entity, and clustering the matches into a single golden record. Anything it isn’t confident about goes to the",
+    "url": "https://www.tamr.com/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution works by analyzing different records and determining whether they correspond to the same entity. This process involves multiple steps, including data cleaning, standardization, and matching. Organizations apply entity resolution techniques to ensure consistency in their databases and avoid data duplication, which is essential for maintaining high-quality data.",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step in entity resolution involves linking records from multiple datasets that may refer to the same entity. This process identifies potential matches based on common attributes such as names, addresses, or unique identifiers.",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Once records are linked, the next task is deduplication—removing redundant entries that refer to the same entity within a single dataset. This step ensures that each entity has a single, clean representation.",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The final step assigns a persistent and unique identifier to each entity, ensuring that future records can be accurately linked and referenced without reprocessing the entire dataset.",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Although these traditional methods were sufficient for small datasets with well-structured information, they became increasingly inadequate in modern data environments. As businesses expanded, data sources multiplied, and unstructured data became more common, traditional entity resolution methods proved inefficient, leading to data fragmentation, duplication, and quality issues.",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply chain concentration risk: how to see beyond Tier 1 suppliers",
+    "url": "https://www.semantic-visions.com/insights/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せが必要になる典型的な状況は、SFA・CRM・MA・名刺管理ツールを複数運用している企業で発生します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「株式会社」と「（株）」の表記統一にはSUBSTITUTE関数で一方に寄せる方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表記ゆれの種類は多岐にわたるため、まず自社データに多い類型を洗い出してから処理ルールを決めると、作業が効率的に進みます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "住所の都道府県名を統一する場合は、LEFT関数やIF関数を組み合わせて先頭の文字列を判定する方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングから名寄せまでの実施手順",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全体の流れは5つのステップで構成されます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各ステップで何を確認し、何を決定するかを把握しておくと、作業の抜け漏れを防ぎやすくなります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：現状データの調査と対象範囲の確定",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象範囲を広げすぎると工数が膨らむため、最初は「直近1年以内にアクティブな顧客」など絞り込んだ範囲で着手し、精度を確認してから全件に拡張する進め方が現実的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：データ抽出と統合先フォーマットの設計",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：データクレンジングの実施",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前章で説明した4種類のクレンジング処理（表記ゆれの統一・欠損値の補完・フォーマットの正規化・誤データの除去）をこのステップで実施します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、クレンジング後の件数変化（除去によって何件減ったか）と欠損率の変化を確認することで、次のステップに進む前の品質チェックになります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 1｜一致判定",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 2｜SalesNowスコア",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 3｜AIリサーチ",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に検証してみると、驚くほど多くのデータが、STEP2まで（一致判定・SalesNowスコア判定）で名寄せできました",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「自社の営業課題にSalesNowが使えるか知りたい」「今の使い方が合っているか、一度相談したい」",
+    "url": "https://note.com/sn_osamu_araki/n/n4e7a4ca63b8f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "status": "ok",
@@ -2165,22 +2187,27 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "url": "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/rmondo/n/n2477484cf8ea",
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aipicks.jp/glossary/entity-resolution",
+    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://nbridge-osaka.com/posts/kokyaku-list-nayose-ai",
+    "url": "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
     "status": "ok",
     "method": "http"
    },
@@ -2190,17 +2217,17 @@
     "method": "http"
    },
    {
-    "url": "https://analytics-note.jp/blog/2026-04-28-email-identity-resolution-stages/",
+    "url": "https://aipicks.jp/glossary/entity-resolution",
     "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "status": "ok",
     "method": "http"
    },
@@ -2220,12 +2247,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
+    "url": "https://usonar.co.jp/blog/5890.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/newvillage/articles/061c95599f2717",
     "status": "ok",
     "method": "http"
    },
@@ -2235,34 +2272,34 @@
     "method": "http"
    },
    {
-    "url": "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.techsalerator.com/post/entity-resolution-explained-matching-company-records-across-global-registries",
+    "url": "https://cdp.com/glossary/entity-resolution/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tamr.com/entity-resolution",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "url": "https://www.reddit.com/r/dataengineering/comments/1k8dmdp/have_you_ever_used_record_linkage_entity/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dataiku.com/blog/accelerating-entity-resolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -2270,6 +2307,8 @@
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） site:note.com",
    "results": [
+    "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
     "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/ai_scout_jp/n/na264a18ce645",
@@ -2282,54 +2321,68 @@
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） note",
    "results": [
-    "https://aipicks.jp/glossary/entity-resolution",
-    "https://nbridge-osaka.com/posts/kokyaku-list-nayose-ai",
-    "https://cdp.com/ja/glossary/identity-resolution/",
-    "https://analytics-note.jp/blog/2026-04-28-email-identity-resolution-stages/",
-    "https://zenn.dev/newvillage/articles/061c95599f2717",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "https://note.com/tt_biz/n/n2cc5e4bb5ec7"
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "https://note.com/sai_note2222/n/n3455c961f865",
+    "https://aipicks.jp/glossary/entity-resolution"
    ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） やり方",
    "results": [
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://aipicks.jp/glossary/entity-resolution",
-    "https://cherub.jp/notes/entity-resolution/",
-    "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "https://www.sento.group/concepts/nayose",
-    "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
+    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
+    "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "https://cherub.jp/notes/entity-resolution/"
    ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） 事例",
    "results": [
-    "https://aipicks.jp/glossary/entity-resolution",
-    "https://cherub.jp/notes/entity-resolution/",
-    "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
+    "https://usonar.co.jp/blog/5890.html",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "https://aipicks.jp/glossary/entity-resolution"
    ]
   },
   {
    "query": "entity resolution company record matching rules",
    "results": [
-    "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
-    "https://www.techsalerator.com/post/entity-resolution-explained-matching-company-records-across-global-registries",
-    "https://tilores.io/content/entity-resolution-data-contracts-7-rules-before-matching-2026/",
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "https://aws.amazon.com/entity-resolution/",
-    "https://www.tamr.com/entity-resolution",
-    "https://docs.aws.amazon.com/entityresolution/latest/userguide/create-matching-workflow.html",
-    "https://docs.aws.amazon.com/entityresolution/latest/userguide/rule-based-mw-advanced.html"
+    "https://cdp.com/glossary/entity-resolution/",
+    "https://www.reddit.com/r/dataengineering/comments/1k8dmdp/have_you_ever_used_record_linkage_entity/",
+    "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
+    "https://www.dataiku.com/blog/accelerating-entity-resolution",
+    "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "https://www.precisely.com/solution/data-matching-and-entity-resolution-solutions/",
+    "https://www.reltio.com/glossary/data-quality/what-is-entity-resolution/",
+    "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/"
    ]
   },
   {
    "query": "site:note.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
    "results": [
+    "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
     "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/ai_scout_jp/n/na264a18ce645",
@@ -2356,65 +2409,81 @@
    "results": [
     "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
     "https://www.linkedin.com/pulse/googleに本物と認識される方法エンティティという視点のseo-剛-柏崎-f5z0c",
-    "https://in.linkedin.com/in/umangakumawat",
     "https://jp.linkedin.com/pulse/harness-power-entity-resolution-qualytics-qualyticsinc-hwhfe?tl=ja",
+    "https://jp.linkedin.com/pulse/graph-entity-resolution-nathan-walker?tl=ja",
+    "https://jp.linkedin.com/pulse/demystifying-named-entity-recognition-ner-hmms-viterbi-dev-pandey-k5agc?tl=ja",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
-    "https://in.linkedin.com/in/nisa-sehr",
-    "https://jp.linkedin.com/pulse/solving-same-problem-probabilistic-entity-linking-theo-marinos-uouze?tl=ja"
+    "https://jp.linkedin.com/pulse/solving-same-problem-probabilistic-entity-linking-theo-marinos-uouze?tl=ja",
+    "https://in.linkedin.com/in/umangakumawat",
+    "https://in.linkedin.com/in/nisa-sehr"
    ]
   },
   {
    "query": "site:facebook.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
-   "results": [
-    "https://graph.facebook.com/v2.8/3729866427082938/picture/",
-    "https://www.facebook.com/nikkeibusiness/posts/ある中小企業は調査会社の評点などで個別に与信限度額を設定していたが取引先を調査会社のdbと名寄せマッチングした際に旧dbで別会社として認識していた複数の会社が同/5104827656232141/",
-    "https://www.facebook.com/100063523145751/photos/被支配会社大会社連合で会社を設立した場合申告の別表二に株主上位三位を記載し同族会社の判定をしますが被支配会社でない法人という欄があります同族会社の判定よりこの区/1160241347715277/",
-    "https://www.facebook.com/japanex.jp/photos/同族会社の判定をどこよりもわかりやすく解説フローチャート式株主が個人で３人以下ならもう同族会社です️ほとんどの中小企業がstep1で判定が終わるのではないでしょ/1229142162334455/",
-    "https://www.facebook.com/office.sasidesign/videos/経営の次の一手がわかるカードゲーム/2241707230003627/",
-    "https://www.facebook.com/HTTAX/posts/新着税務トピックス株式保有特定会社の判定基準改正へhttpwwwht-taxorjptopics20130502/602795276399563/",
-    "https://www.facebook.com/yukito.ishiwari/posts/合併や会社分割があった場合賃上げ促進税制の判定は単純ではありません給与総額が増えてもそれは賃上げではなく従業員が移ってきただけかもしれない逆に給与総額が減っても/27768125686109104/"
-   ]
+   "results": []
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） note 社長",
    "results": [
-    "https://aipicks.jp/glossary/entity-resolution",
-    "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "https://cherub.jp/notes/entity-resolution/",
-    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
-    "https://note.com/tt_biz/n/n2cc5e4bb5ec7"
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://note.com/sai_note2222/n/n3455c961f865",
+    "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
+    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
+    "https://aipicks.jp/glossary/entity-resolution"
    ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） X 投稿",
-   "results": []
+   "results": [
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
+    "https://github.com/DevRev-JP/tech-blog/blob/main/articles/kg-agent-ontology-design.md",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://www.sunnycloud.jp/column/20230728-01/",
+    "https://www.quantexa.com/ja/platform/entity-resolution-software/"
+   ]
   },
   {
    "query": "entity resolution company record matching rules site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/entity-resolution-scale-probabilistic-matching-techniques-reddy-g934c",
+    "https://www.linkedin.com/pulse/entity-resolution-your-data-has-been-trying-tell-you-something-3nhme",
     "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
-    "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "https://il.linkedin.com/in/elad-eran-45ab5583",
-    "https://in.linkedin.com/in/sushantsaurav",
-    "https://sg.linkedin.com/in/andy-wong-4a613723"
+    "https://www.linkedin.com/posts/modern-data-101_%F0%9D%91%83%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9F-%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A1%F0%9D%91%8E-%F0%9D%91%9E%F0%9D%91%A2%F0%9D%91%8E%F0%9D%91%99%F0%9D%91%96%F0%9D%91%A1%F0%9D%91%A6-%F0%9D%91%9A%F0%9D%91%8E%F0%9D%91%9B%F0%9D%91%96%F0%9D%91%93%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A1%F0%9D%91%A0-activity-7475836368569651200-0buj",
+    "https://www.linkedin.com/pulse/what-entity-resolution-why-its-foundational-dr-gurpinder-s-dhillon-mehfc",
+    "https://www.linkedin.com/company/winpure",
+    "https://www.linkedin.com/posts/deepak-kushwaha818_entity-resolved-knowledge-graphs-a-tutorial-activity-7345732851578847234-6bki",
+    "https://www.linkedin.com/posts/connecteddataworld_creating-customer-360s-using-entity-resolution-activity-7519050032474574848-wvW5",
+    "https://www.linkedin.com/pulse/beyond-string-matching-datacaffes-semantic-ai-true-entity-qgbxc",
+    "https://www.linkedin.com/pulse/rise-semantic-entity-resolution-building-smarter-knowledge-1yxwc",
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+  "失敗・落とし穴": [
    {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInSushant Saurav - Matchbook AI | LinkedInAndy Wong - Quantexa | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Deduplication | Real-World Data & Publ",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "quote": "the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.",
+    "url": "https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 17,
+ "runs": 18,
  "first_researched_at": "2026-11-05T03:02:26.379968+00:00"
 }

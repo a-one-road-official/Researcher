@@ -1800,6 +1800,8 @@
   - 「名寄せにおける統計的なマッチングは、AIという呼び名よりも古い」（https://cdp.com/ja/glossary/identity-resolution/）
   - 「生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します」（https://www.sento.group/concepts/nayose）
 - 失敗・落とし穴：
+  - 「the rule like this: It takes $1 to verify a record as it’s entered, $10 to cleanse and dedupe it and $100 if nothing is done, as the ramifications of the mistakes are felt over and over again.」（https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5）
+  - 「You make one mistake in the matching criteria and the whole data matching would be uprooted. Many true positives can be missed. Understanding how the attributes and records can be said to be the same is a game-changer.」（https://medium.com/data-science/an-introduction-to-entity-resolution-needs-and-challenges-97fba052dde5）
   - 「⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる」（https://note.com/sr_mako/n/n611995af6f74）
@@ -1813,8 +1815,6 @@
   - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
-  - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
-  - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
 - 実例：
   - 「名寄せの結果に元レコード ID と信頼度を残す」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「は個人情報を含まないので、 名寄せに法的制約はほぼないが、 解析結果の解釈には地域別の社会的文脈を尊重する必要がある」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
@@ -1835,6 +1835,7 @@
 ## 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）（company registry verification OpenCorporates EDGAR）
 - 文脈：探し方
 - 手順・やり方：
+  - 「You can also download full datasets based on your selected processing level, format, and delivery method, with prices starting from $1,000.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「方法 1:国税庁 法人番号公表サイトから調べる(おすすめ)」（https://www.ssl-store.jp/houjin-bangou/）
   - 「最も簡単な方法は、国税庁が運営する法人番号公表サイトで法人番号(13 桁)を検索し、先頭 1 桁を除く方法です」（https://www.ssl-store.jp/houjin-bangou/）
   - 「方法 2:登記簿謄本から確認」（https://www.ssl-store.jp/houjin-bangou/）
@@ -1849,10 +1850,11 @@
   - 「は、もうすでに無料ダウンロード済みでしょうか？会社設立による節税の仕組みや節税項目、マイクロ法人の設立方法などがまとまった、充実のガイドです」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「はじめてでも安心！簡単3ステップで会社設立」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「農業の法人化とは？個人農家との違いや年収の目安、法人設立の手順」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「産業医は法人化できる？産業医が法人設立するメリット・デメリットや手順を解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 突き合わせ・推定：
   - 「このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
 - 一次情報の探し方：
+  - 「OpenCorporates provides information like incorporation dates, registered addresses, directors and officers, ultimate beneficial owners, latest company events and filings, and unique identifiers like LEI and UK VAT numbers.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「You can also view original source documents, like PDFs, or get redirected to the exact government website or publication the data came from.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「は、日本の登記所が商業登記・法人登記の記録 1 件ごとに付与している、」（https://www.ssl-store.jp/houjin-bangou/）
   - 「会社法人等番号は、日本の登記所が商業登記・法人登記の記録に対して 1 件ずつ付与している識別番号です」（https://www.ssl-store.jp/houjin-bangou/）
   - 「の形式で表記され、登記所での手続きや、各種公的書類で使用されます」（https://www.ssl-store.jp/houjin-bangou/）
@@ -1866,8 +1868,6 @@
   - 「会社の登記情報を検索する方法は、法務局の窓口へ行く以外に、オンラインでも行うことができます」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「【有料】登記情報提供サービスで詳細情報を確認する」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「登記ねっと（登記・供託オンライン申請システム）を利用する」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「法人登記の検索が必要になる具体的なケースは？」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「登記に必要な書類は「マネーフォワード クラウド会社設立」で自動作成」（https://biz.moneyforward.com/establish/basic/88844/）
 - 失敗・落とし穴：
   - 「法人成りとの違い、向いている事業者のチェックリスト、会社設立時の注意点を公認会計士が解説しています」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「著者・監修書に『一日も早く起業したい人が「やっておくべきこと・知っておくべきこと」』（明日香出版社）、『オールカラー 個人事業の始め方』『オールカラー 一番わかる会社設立と運営のしかた』（ともに西東社）、『相談件数No.1のプロが教える 失敗しない起業 55の法則』（日本能率協会マネジメントセンター）などがある」（https://biz.moneyforward.com/establish/basic/88844/）
@@ -1885,6 +1885,11 @@
   - 「Webマーケティング独立で失敗する原因と回避策とは？AI時代に選ばれるために」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「バーチャルオフィスで東京に法人登記するには？費用や注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 実例：
+  - 「Here is an example of a company profile:」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「You do pay for Veridion, but what you get in return is a far more capable, flexible dataset built for commercial use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「This includes company registration information, trademark data, trade records, and in some cases, sanctions lists.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「Still, monthly updates keep the data quite fresh for most business use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
+  - 「Overall, Success.ai’s data is collected for various use cases, from sales prospecting, lead generation, and account-based marketing to investment research and even supplier vetting.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「検索結果に表示される 13 桁の番号が法人番号です」（https://www.ssl-store.jp/houjin-bangou/）
   - 「法人登記の検索が必要になる具体的なケースは？」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「補助金の概要や各制度の内容に加え、会社設立直後の企業でも使いやすい補助金や実際の活用事例などについてまとめました」（https://biz.moneyforward.com/establish/basic/88844/）
@@ -1895,11 +1900,6 @@
   - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「ビジネスモデルとは？作り方や構成要素、フレームワーク、面白い企業事例まで解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「水ビジネスは本当に儲かる？市場規模や将来性・企業事例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「事前確定届出給与の届出期限はいつまで？出し忘れや支給日のズレによる否認事例も解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「事業譲渡の登記は必要？不要なケースや例外、具体的な手続きの流れを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「特に新規取引を行う際には、相手企業が実在する法人かどうかを確認するために、法人登記番号を照会するケースが少なくありません」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
-  - 「なぜなら、似たような商号を持つ企業が存在するケースがあるためです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
 - 検索結果の抜粋：
   - 「OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p」（https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/）
 
@@ -4824,6 +4824,7 @@
 ## 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）（revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「than the naïve method.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「deliveries or a redefinition of methodological principles. If first estimates of macroeconomic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「5A more detailed methodological description of the working group can be found here: https://www.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「statistikportal.de/de/vgrdl/methoden-und-informationen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -4838,23 +4839,22 @@
   - 「statistikportal.de/de/etr/definitionen-und-methoden#methoden.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「in real-time. More precisely, I apply the methodology by Lehmann and Wikman (2023) and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「model. Second, I introduce the main steps undertaken in the real-time setup. Finally, I」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「(VB) methods as introduced by Gefanget al.(2020). For the German case, Lehmann and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 - 突き合わせ・推定：
-  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「We further argue that first-available official estimates should be used for the left-hand-side variable」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「when estimating the forecasting equation. First-available estimates ought to be used on the」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「growth and early estimates of (say) employment growth will typically be different from that」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「between GDP growth and estimates of employment growth available several years after the fact. It」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「release is an efficient estimate of subsequent releases, meaning that revisions to the initial release」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
-  - 「this additional information is extraneous noise. Even if the government’s initial estimates are not」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「where ( \sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「A significant correlation suggests that initial estimates contain information that predicts later revisions. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「efficient and unbiased estimate」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「, provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「even when preliminary estimates are close to the final values.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「in the preliminary estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「means the accuracy of the preliminary estimates is equal to a」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「suggests the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「indicates the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「for evaluating preliminary estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
 - 一次情報の探し方：
   - 「The vintages are organized in sheets representing single aggregate-state-combinations that」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「statistikportal.de/sites/default/files/2022-09/vgrdl_Qualitaetsbericht_2022.pdf.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -4872,6 +4872,12 @@
   - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
   - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
 - 失敗・落とし穴：
+  - 「The mean revision quantifies systematic bias in the revisions:」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「\text{Bias} = \bar{r} = \frac{1}{N} \sum_{t=1}^{N} r_t^{f}」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「"Bias (robust p-value)"」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「These metrics collectively help evaluate the reliability, predictability, and potential biases in data revisions.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「efficient and unbiased estimate」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「) whether the revisions have a systematic bias.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「data. The study of Aruoba (2008) diagnoses revisions to US national accounts to be biased」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「unbiased, efficientandunpredictable. Itturnsoutthatthefirstestimatesinregionalaccounts」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「the exception of gross fixed capital formation—are unbiased, efficient and accurate.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -4881,13 +4887,10 @@
   - 「together with thep-values from the tests on unbiasedness, efficiency, and predictability.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「and Saarland values for 2009 might possibly be severely biased due to the influence of general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「growth are unbiased, efficient, and the revisions are not predictable (see Table 3). This is」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「consumption, which can severely bias the transition from production to gross value added.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「quarterly employment figures for Germany are biased, inefficient and not optimal. As the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「gether, the first estimates of real gross domestic product growth show no systematic bias.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「National Accounts: accuracy, unbiasedness and efficiency in preliminary figures.Empirical」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
-  - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
 - 実例：
+  - 「. In such cases, the denominator and numerator become equal, leading to」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「Alternatively, we can compare GDP revisions between specific publication dates. In the example below, we analyze revisions from the GDP releases from April and July 2024, using the final release from October 2024 as the benchmark. The grouping of statistics is by default determined by the」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「example, macroeconomic aggregates is missing, whereas this is fairly standard for national-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「aggregates READ-GER contains, for example, real gross domestic product, total domestic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「policies (for example, optimal interest rates) on well grounded information sets. Thus, well-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -4900,9 +4903,6 @@
   - 「Over the years, the working group faced some severe issues, for example, by switching」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「General revisions take place periodically, usually each five years. In my case, the general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「As example, let us take the year 2015. The first update for the year 2015 becomes available」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「references to calculate, for example, labor productivity measured as GDP per employee or」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「affected as their evaluation period does not overlap with a general revision (for example, the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「state is also an interesting case as all first updates in the years 2012 to 2019 underestimate」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
@@ -10032,6 +10032,11 @@
   - 「同様に同じデータを解析するにしても、古典的な統計手法や」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています」（https://construction-dx.com/ict/triangulation）
   - 「正確な数値は国土地理院の一次情報でご確認ください」（https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/）
+  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
+  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
+  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式化する手順書」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
+  - 「本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
+  - 「この測量技術を習得することで、決算発表後の株価の方向性をより高い解像度で予測し、ノイズに惑わされない一貫した投資判断を下すことが可能になります」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
 - 失敗・落とし穴：
   - 「三つ以上の視点からの三角測量での実装上の注意点を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
   - 「次回NAV18では特徴点追跡——KLT光学フロー、FAST/ORBの詳細実装、追跡失敗の検出と回復を解説します」（https://note.com/witty_mango107/n/na39978bdd66e）
@@ -10075,6 +10080,11 @@
   - 「三角測量とは — 基線1本と角度だけで全国の座標を決めた方法と、GNSS... — Aug 16, 2026 · 三角測量とは、距離は基線1本だけを精密に測り、あとは角度で三角形をつないで座標を広げていく方法です。 長い距離を正確に測るのが難しかった時代の発明で、日本の一等三角測量は1883年（明治16年）に始まりました。 ただし網でつ…」（https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/）
   - 「測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である」（https://alivevulnerable.com/basic/land-surveying/）
   - 「三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。」（https://ja.namu.wiki/w/삼각+측량）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
+  - 「【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10分 ロジマジBlogへようこそ ...」（https://note.com/logic_magic/n/nf5651ba8baea）
+  - 「戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。ジョミニは反対に、戦争から反復可能な構造を取り出し、決勝点と作戦線という原則へまとめました。二人は ...」（https://note.com/hidetoshi_h_/m/m40eef6dece29）
+  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。それは、実績（着地）、会社計画（ガイダンス）、そして市場期待（コンセンサス）という3つの頂点を結ぶ「三角 ...」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
+  - 「上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — May 25, 2026 · この連載では、その時々にインフラづくりを主導し、あるいはその発展に寄与することで時代をデザインしてきた「土木人」を一人ずつ紹介します。 今回登場するのは、高精度の3次元測量システムを開発した上谷良吉（1911-1972）です。」（https://note.com/jsce_hyoden/n/naced57b483a7）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
