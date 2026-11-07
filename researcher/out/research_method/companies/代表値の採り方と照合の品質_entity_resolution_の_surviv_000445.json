@@ -8,8 +8,46 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-07T12:45:27.283426+00:00",
+ "researched_at": "2026-11-07T18:05:21.438209+00:00",
  "evidence": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...What Are Survivorship Rules and Why Do They Matter? A Real ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ac",
+    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... 🔍 Mastering Survivorship Rules in Informatica MDM: How a Golden Record Is Created Step by Step One of the most powerful features of Informatica MDM is its ability to apply intelligent Survivorship Rules to consolidate conflicting data from multiple sources into a single, trusted Golden Record. 📊 In the example in the below image, records from M",
+    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · What Are Survivorship Rules? Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different ...",
+    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different values.",
+    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... To determine the most accurate values, Informatica MDM applies survivorship rules in a defined sequence.",
+    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Giriraj Gupta - Grade A Officer at NABARD (Govt of India ...Entity Resolution with Clear Survivorship Rules and ... 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ",
+    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Agentic simulation: when the AI chooses how to simulate",
@@ -440,14 +478,6 @@
    {
     "quote": "What Are Entity Graphs and How to Build One You Can Trust",
     "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "High-consequence identity systems should generally bias toward review when evidence is ambiguous.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1102,6 +1132,56 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "2. Data Profiling and Standardization",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Scalable Data Profiling and Cleansing",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Linking and profiling",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF and DOCX manifestations of one document;",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "techniques to compare attributes and estimate whether records belong to the same entity.",
@@ -1160,90 +1240,10 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "2. Data Profiling and Standardization",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Scalable Data Profiling and Cleansing",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. Linking and profiling",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF and DOCX manifestations of one document;",
+    "quote": "High-consequence identity systems should generally bias toward review when evidence is ambiguous.",
     "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...What Are Survivorship Rules and Why Do They Matter? A Real ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ac",
-    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... 🔍 Mastering Survivorship Rules in Informatica MDM: How a Golden Record Is Created Step by Step One of the most powerful features of Informatica MDM is its ability to apply intelligent Survivorship Rules to consolidate conflicting data from multiple sources into a single, trusted Golden Record. 📊 In the example in the below image, records from M",
-    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · What Are Survivorship Rules? Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different ...",
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different values.",
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... To determine the most accurate values, Informatica MDM applies survivorship rules in a defined sequence.",
-    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Giriraj Gupta - Grade A Officer at NABARD (Govt of India ...Entity Resolution with Clear Survivorship Rules and ... 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ",
-    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1258,7 +1258,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/suhahide/n/n288a3e1ba34a",
+    "url": "https://note.com/tsunobuchi/n/nbd110dd5513a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daikidomon/n/n3a746d0a5c61",
     "status": "ok",
     "method": "http"
    },
@@ -1268,17 +1273,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
+    "url": "https://note.com/gyoza_tencho/n/n83d24cd7720b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nowready/n/nb595718f9b4d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/daikidomon/n/n3a746d0a5c61",
+    "url": "https://note.com/kabumayuge/n/n73afe9d075b9",
     "status": "ok",
     "method": "http"
    },
@@ -1293,9 +1293,9 @@
     "method": "http"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
+    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://lab.ludashi.com/evaluation/article/59",
@@ -1303,9 +1303,9 @@
     "method": "browser"
    },
    {
-    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "url": "https://hybrid-analysis.com/sample/1fedb9661657463686511d8f0fabee5f3608209915717b94308fbcaef6d02b35/6095d4075ba24063c310beb5",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
@@ -1313,9 +1313,9 @@
     "method": "browser"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIDjKiVBcQKl-tJpOz7wZv53NfBjWDV1tG0_7MYdLgt7PQRl0WA",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL_VzRwjTLMOYxCcm586RFb1JQLq13gvHtX_DhEc27LUiN-B0Bd",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
@@ -1358,7 +1358,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/1ea169d2-f704-4f45-894d-e5eb02512444/",
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/eaab2380-032f-4104-8fe9-3db8127ae120/",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -1393,12 +1393,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
     "status": "ok",
     "method": "http"
    }
@@ -1409,36 +1409,46 @@
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） site:note.com",
    "results": [
     "https://note.com/newvillage/n/n116ed3b4c104",
-    "https://note.com/suhahide/n/n288a3e1ba34a",
-    "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
-    "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
-    "https://note.com/nowready/n/nb595718f9b4d",
+    "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "https://note.com/cyber_forest/n/n3e94bbb490ec",
+    "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
+    "https://note.com/gyoza_tencho/n/n83d24cd7720b",
+    "https://note.com/kabumayuge/n/n73afe9d075b9",
+    "https://note.com/nowready/n/nb595718f9b4d",
     "https://note.com/kompas_note_2025/n/n5470c016c292",
-    "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
-    "https://note.com/itso_/n/n6115daec7620"
-   ]
+    "https://note.com/miiichii/n/ncf3bfc130f16",
+    "https://note.com/hiroshi_gomi/n/n4445143e5cbc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） note",
    "results": [
     "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
-    "https://lab.ludashi.com/evaluation/article/59",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://lab.ludashi.com/evaluation/article/59",
+    "https://hybrid-analysis.com/sample/1fedb9661657463686511d8f0fabee5f3608209915717b94308fbcaef6d02b35/6095d4075ba24063c310beb5",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://jpcoar.repo.nii.ac.jp/records/2000489",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2002957",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
-   ]
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2002957",
+    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） やり方",
    "results": [
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vIDjKiVBcQKl-tJpOz7wZv53NfBjWDV1tG0_7MYdLgt7PQRl0WA",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL_VzRwjTLMOYxCcm586RFb1JQLq13gvHtX_DhEc27LUiN-B0Bd",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
     "https://since2020.jp/media/f1-precision-recall/",
     "https://note.com/kikaben/n/nc457443773b7",
@@ -1447,8 +1457,13 @@
     "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://www.nrm.jp/denshi/denshi015",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
-   ]
+    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） 事例",
@@ -1461,9 +1476,14 @@
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191011-00000095-zdn_n-sci&lang=ja",
     "https://www.jiu.ac.jp/files/user/books/pdf/jbrv_no2.pdf",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/1ea169d2-f704-4f45-894d-e5eb02512444/",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
-   ]
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/eaab2380-032f-4104-8fe9-3db8127ae120/",
+    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "entity resolution survivorship rules precision recall human review",
@@ -1472,13 +1492,18 @@
     "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
     "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "https://arxiv.org/html/2607.26298v1",
-    "https://www.puppygraph.com/learn/best-entity-resolution-software",
     "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "https://www.puppygraph.com/learn/best-entity-resolution-software",
     "https://www.dataiku.com/blog/accelerating-entity-resolution",
-    "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "https://flur.ee/solutions/entity-resolution",
-    "https://prolyz.com/blog/master-data-management-entity-resolution"
-   ]
+    "https://www.sanity.io/glossary/entity-resolution",
+    "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "site:note.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
@@ -1487,46 +1512,62 @@
     "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
     "https://note.com/daikidomon/n/n3a746d0a5c61",
     "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
-    "https://note.com/statistics_ai/n/n4467dbe61c30",
-    "https://note.com/a5yai_qtrbsp_x33/n/n7a9c3b0f644e",
-    "https://note.com/kompas_note_2025/n/n5470c016c292"
-   ]
+    "https://note.com/suhahide/n/n288a3e1ba34a",
+    "https://note.com/kabumayuge/n/n73afe9d075b9",
+    "https://note.com/statistics_ai/n/n4467dbe61c30"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
     "https://x.com/awswhatsnew_jp/status/1816564260983701935",
     "https://x.com/PLTR_Dog/status/2087879526164697552",
-    "https://x.com/hiruandon_0/status/2104139240292667471",
     "https://x.com/maes_data/status/2081334657648562333",
+    "https://x.com/hiruandon_0/status/2104139240292667471",
     "https://x.com/chemi384/status/2102520816432726221",
-    "https://x.com/nayuta_office/status/2103016691198222738",
-    "https://x.com/learning1029/status/2108857703754010836"
-   ]
+    "https://x.com/learning1029/status/2108857703754010836",
+    "https://x.com/hashtag/代表値"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
     "https://www.linkedin.com/posts/elia-bloch_entity-resolution-gets-difficult-when-identifiers-activity-7508541017940209664-2xZW",
-    "https://www.linkedin.com/pulse/unlocking-power-golden-records-comprehensive-note-data-nguyen",
-    "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
-    "https://www.linkedin.com/pulse/harness-power-entity-resolution-qualytics-qualyticsinc-hwhfe",
     "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
-    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
-    "https://jp.linkedin.com/pulse/what-entity-resolution-why-its-foundational-dr-gurpinder-s-dhillon-mehfc?tl=ja"
-   ]
+    "https://www.linkedin.com/pulse/data-ai-governance-pillar-13-building-360-degree-view-wesam-fares-jqdse",
+    "https://www.linkedin.com/pulse/mpi-survivorship-rules-probabilistic-matching-strategies-enterprise-gwpqc",
+    "https://www.linkedin.com/pulse/entity-resolution-your-data-has-been-trying-tell-you-something-3nhme",
+    "https://jp.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac?tl=ja",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
     "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
+    "https://www.facebook.com/La-Resolution代表-108988275357407/",
     "https://www.facebook.com/groups/aiacademy.jp/posts/3863641957225309/",
-    "https://www.facebook.com/mastercontroljapan/posts/無限の-データ-を照合し-品質傾向-分析-からより良い結果を得るためにはまず次の3つの重要な質問をすることが必要ですhttpswwwmastercontrolc/2731854490279634/",
+    "https://www.facebook.com/researcherjp/posts/注目プレスリリース未知の合金特性を高精度に予測する新手法を開発aiが計算値と実験値のずれを学習-大阪公立大学/1541354718035665/",
     "https://www.facebook.com/nliresearch/posts/平均-と-代表値-の概念平均や代表値の概念がいくつかあることについてはこれまでも数多くの書籍等で紹介されてきたのでご存じの方も多いと思われるが今回改めてこの話題/4548797478555715/",
-    "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/",
-    "https://www.facebook.com/JMPjpn/videos/品質と工程/1886824991490340/",
-    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-照合機能シーケンサとパソコンにバックアップしている-gxworks3-のプロジェクトが不一致となって困ったことはありませんかその/595314109421130/"
-   ]
+    "https://www.facebook.com/mastercontroljapan/posts/無限の-データ-を照合し-品質傾向-分析-からより良い結果を得るためにはまず次の3つの重要な質問をすることが必要ですhttpswwwmastercontrolc/2731854490279634/",
+    "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） note 社長",
@@ -1537,11 +1578,16 @@
     "https://note.com/zono_data/n/n620b48d2b49f",
     "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
     "https://lab.ludashi.com/evaluation/article/59",
-    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
-   ]
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） X 投稿",
@@ -1549,14 +1595,20 @@
     "https://note.com/kikaben/n/nc457443773b7",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "https://hybrid-analysis.com/sample/d65aac8f3e496adefc1797466544873d781a4cd8329b9f3c7b41025e3ffb04e5/61673c8b815e2e5b7545d502",
     "https://lab.ludashi.com/evaluation/article/54",
+    "https://hybrid-analysis.com/sample/b63d5b8585089b9b5b828eaa356e22e6d772c60ed5f041fb20aa5ecb12701e83/6a1c162eccf95c43a00287f6",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220201-00010002-amweb-ind&lang=ja",
+    "https://jpcoar.repo.nii.ac.jp/records/328",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://recog.works/ja/news/detail/584",
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/"
-   ]
+    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "entity resolution survivorship rules precision recall human review site:linkedin.com",
@@ -1566,16 +1618,21 @@
     "https://ca.linkedin.com/in/megha-sharma-21713080",
     "https://www.linkedin.com/in/somnath-b-959307",
     "https://in.linkedin.com/in/ayushi-rastogi-a60409138",
-    "https://in.linkedin.com/in/anisha-rathi-265932104",
     "https://uk.linkedin.com/in/archit-date-983a2911a",
+    "https://in.linkedin.com/in/anisha-rathi-265932104",
     "https://www.linkedin.com/in/mishrasonal",
     "https://in.linkedin.com/in/tanvi-gupta-369444242",
-    "https://in.linkedin.com/jobs/view/senior-product-manager-data-at-certifyos-4486980155?refId=Bf6AybuHv8vxBqiy7nUVmw%3D%3D&trackingId=45qa4toMSr65gdwSq5JyzA%3D%3D"
-   ]
+    "https://www.linkedin.com/in/elia-bloch"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 18,
+ "runs": 19,
  "first_researched_at": "2026-11-05T04:44:48.784753+00:00"
 }

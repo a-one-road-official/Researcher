@@ -8,11 +8,89 @@
  ],
  "context": "偏り",
  "kind": "market",
- "researched_at": "2026-11-07T12:33:29.952480+00:00",
+ "researched_at": "2026-11-07T18:13:21.602102+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "Anchoring is the pull of the first number, name or explanation you encounter. Later estimates drift towards it, even when it was arbitrary. A client who says \"we think he moved about 200 thousand through those accounts\" has given you an anchor. So has the first search result that names a suspect.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Log raw findings neutrally first and interpret them in a later step.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Put the method into practice",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include \"this account is controlled by the person named in its profile\", \"the photo was taken where the caption says\" and \"the company's registered address is where it operates\".",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Devil's advocacy assigns someone to argue against the prevailing view as strongly as possible. The role works best when it is formal and rotated, so arguing the other side is a job rather than a personal challenge. If you work alone, write the opposing case yourself in a separate note, and try to make it convincing.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assign devil's advocacy, or write the opposing case yourself.",
     "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -85,141 +163,38 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include \"this account is controlled by the person named in its profile\", \"the photo was taken where the caption says\" and \"the company's registered address is where it operates\".",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Devil's advocacy assigns someone to argue against the prevailing view as strongly as possible. The role works best when it is formal and rotated, so arguing the other side is a job rather than a personal challenge. If you work alone, write the opposing case yourself in a separate note, and try to make it convincing.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Assign devil's advocacy, or write the opposing case yourself.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Log raw findings neutrally first and interpret them in a later step.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Put the method into practice",
-    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.elcamy.com/blog/osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.secure-iv.co.jp/blog/20079",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/takatoshi_tokuo/n/n1734c50b3f6a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startday0/n/n0f0f98e158e4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kensho_note/n/n80379e531cfb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mip_takapon/n/nfc1a1983ec22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brisk_hosta7969/n/n43af06092a68",
     "status": "ok",
     "method": "http"
    },
@@ -239,14 +214,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.interviewz.io/blog/bias-questionnaire/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.interviewz.io/blog/bias-questionnaire/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
@@ -254,39 +229,39 @@
     "method": "http"
    },
    {
-    "url": "https://magazine.fancrew.jp/what-is-survey-bias",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ilgdenver.com/2024/01/combatting-cognitive-bias-in-investigations/",
+    "url": "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/pulse/cognitive-bias-workplace-investigation-problems-ben-hutchinson",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://innocenceproject.org/news/what-is-cognitive-bias-how-it-contributes-to-wrongful-conviction/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchgate.net/publication/362336503_Cognitive_bias_in_workplace_investigation_Problems_perspectives_and_proposed_solutions",
+    "url": "https://www.researchgate.net/publication/342349489_Confirmation_Bias_Prevalence_and_Debiasing_Techniques",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.facebook.com/FBIHonolulu/posts/this-months-fbi-law-enforcement-bulletin-takes-a-close-look-at-how-investigative/950843414760743/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.simplypsychology.org/confirmation-bias.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theosintvault.io/osint-handbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12820782/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327036&type=printable",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -294,170 +269,192 @@
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ site:note.com",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.youtube.com/watch?v=23aYNqGwh5w",
-    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "https://www.elcamy.com/blog/osint"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://note.com/startday0/n/n0f0f98e158e4",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/mip_takapon/n/nfc1a1983ec22",
+    "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
+    "https://note.com/brisk_hosta7969/n/n43af06092a68",
+    "https://note.com/yuichy/n/n524d69d9e4f7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ note",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.elcamy.com/blog/osint",
-    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "https://www.secure-iv.co.jp/blog/20079",
-    "https://note.com/takatoshi_tokuo/n/n1734c50b3f6a"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://researto.com/column/market-research-bias/",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://note.com/brisk_hosta7969/n/n43af06092a68"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ やり方",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.youtube.com/watch?v=23aYNqGwh5w",
-    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "https://www.elcamy.com/blog/osint",
-    "https://note.com/iid_hirakawa/n/n9e4144aba441"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://researto.com/column/market-research-bias/",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ 事例",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.youtube.com/watch?v=23aYNqGwh5w",
-    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "https://www.elcamy.com/blog/osint",
-    "https://note.com/iid_hirakawa/n/n9e4144aba441"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://researto.com/column/market-research-bias/",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "cognitive bias investigation workflow disconfirming evidence osintblog",
    "results": [
-    "https://ilgdenver.com/2024/01/combatting-cognitive-bias-in-investigations/",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/",
-    "https://www.linkedin.com/pulse/cognitive-bias-workplace-investigation-problems-ben-hutchinson",
-    "https://innocenceproject.org/news/what-is-cognitive-bias-how-it-contributes-to-wrongful-conviction/",
-    "https://www.researchgate.net/publication/362336503_Cognitive_bias_in_workplace_investigation_Problems_perspectives_and_proposed_solutions",
-    "https://www.facebook.com/FBIHonolulu/posts/this-months-fbi-law-enforcement-bulletin-takes-a-close-look-at-how-investigative/950843414760743/",
-    "https://www.news-medical.net/life-sciences/Forensic-Confirmation-Bias-(Cognitive-Bias-in-Forensics).aspx",
-    "https://www.canadasafetytraining.com/Safety_Blog/cognitive-biases-in-incident-investigations.aspx",
-    "https://marcyphelps.com/top-post-dont-let-cognitive-bias-sidetrack-your-investigations/",
-    "https://www.osintblog.com/blog/cognitive-biases-investigations"
-   ]
+    "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "https://www.researchgate.net/publication/342349489_Confirmation_Bias_Prevalence_and_Debiasing_Techniques",
+    "https://www.simplypsychology.org/confirmation-bias.html",
+    "https://theosintvault.io/osint-handbook",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12820782/",
+    "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327036&type=printable",
+    "https://medium.com/@nemo14398/osint-playbook-a-step-by-step-guide-for-modern-investigators-6bbc9e897bac"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ",
    "results": [
-    "https://note.com/takatoshi_tokuo/n/n1734c50b3f6a",
     "https://note.com/iid_hirakawa/n/n9e4144aba441",
     "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
     "https://note.com/mavelick333/n/nd0c830b925e3",
     "https://note.com/mip_takapon/n/nfc1a1983ec22",
     "https://note.com/startday0/n/n0f0f98e158e4",
-    "https://note.com/haldog/n/n8dc996101185"
-   ]
+    "https://note.com/hamaken777/n/n9eaa3e4b4061",
+    "https://note.com/brisk_hosta7969/n/n43af06092a68"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ",
    "results": [
     "https://x.com/kuchiki_g/status/2044146208525168963",
-    "https://x.com/pongpong2225/status/2089461162534641737",
-    "https://x.com/kogagami17/status/2032311336907260093",
     "https://x.com/akadama_akdm/status/2096070818556256647",
+    "https://x.com/pongpong2225/status/2089461162534641737",
+    "https://x.com/Danbo_kun123/status/2103397109869527293",
+    "https://x.com/kogagami17/status/2032311336907260093",
     "https://x.com/i/status/1765567325712101877",
-    "https://x.com/Toyokeizai/status/1770693580304355339",
-    "https://x.com/Danbo_kun123/status/2103397109869527293"
-   ]
+    "https://x.com/tetsukichi25/status/2098595490837467287"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ",
    "results": [
-    "https://jp.linkedin.com/learning/unconscious-bias-3",
     "https://jp.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai-25330590/4082036",
-    "https://www.linkedin.com/posts/均-上野-a60318267_メタ認知カウンセリングで思考の偏りを修正-経営判断の精度を高める客観視-activity-7310103141855764481-lSHt",
+    "https://jp.linkedin.com/learning/unconscious-bias-3/2916825",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7461419305855778816/",
     "https://www.linkedin.com/posts/piotrfeliksgrzywacz_424夜514昼-開催人事担当者向け認知バイアスに左右される人事プロセス-activity-7195617522488909824-ZAA4",
-    "https://jp.linkedin.com/pulse/cognitive-human-factors-expert-decision-making-six-eight-hutchinson?tl=ja",
-    "https://jp.linkedin.com/pulse/unveiling-bias-signs-youre-making-biased-decisions-outme?tl=ja",
-    "https://jp.linkedin.com/pulse/seven-cognitive-biases-making-you-less-effectiveand-how-soumitri-das?tl=ja"
-   ]
+    "https://jp.linkedin.com/pulse/survey-magic-how-chatgpt-revolutionizing-art-crafting-bashob-nandy-hkgnc?tl=ja",
+    "https://jp.linkedin.com/pulse/title-mitigating-cognitive-biases-ai-assisted-approach-joe-howell?tl=ja",
+    "https://jp.linkedin.com/pulse/how-can-you-create-unbiased-ai-model-ivo-ten-voorde-axg1e?tl=ja",
+    "https://jp.linkedin.com/learning/unconscious-bias-3",
+    "https://www.linkedin.com/posts/均-上野-a60318267_メタ認知カウンセリングで思考の偏りを修正-経営判断の精度を高める客観視-activity-7310103141855764481-lSHt",
+    "https://jp.linkedin.com/pulse/cognitive-human-factors-expert-decision-making-six-eight-hutchinson?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
   },
   {
    "query": "site:facebook.com 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ",
-   "results": [
-    "https://www.facebook.com/saisonkurashidaikenkyu/posts/人の認知を歪ませるバイアスとは何か情報収集の偏りの原因にもなるセゾンのくらし大研究は今あなたにお届けしたい旬な情報を発信しています執筆者正木-伸城-バイアスht/183777957510077/",
-    "https://www.facebook.com/ToyokeizaiOnline/posts/ある特定の状況下で起こる認知の偏りにより脳の判断に影響が出る認知バイアスは活用次第では最強スキルに神岡真司著脳のクセを徹底活用認知バイアス最強心理スキル45で解/420980917144507/",
-    "https://www.facebook.com/cbase.co.jp/photos/人事ブログ公開評価の思い込みが組織をゆがめる確証バイアス無意識の思い込みが公平な判断をゆがめる心理現象その仕組みと組織で防ぐための実践策を解説します-確証バイア/1349468106881601/",
-    "https://www.facebook.com/NewtonScience/posts/ニュートン超図解新書最強に面白い-認知バイアス発売シリーズ第62弾は認知バイアスです認知とは知覚記憶判断といった人間の思考全般にかかわる心のはたらきのことでバイ/1743744340889059/",
-    "https://www.facebook.com/danjokyodosankaku/photos/性別による無意識の思い込みアンコンシャスバイアスの解消等に向けた普及啓発用動画を掲載しました令和３年度に実施した調査研究に基づいて作成した事例集の中で紹介してい/453630866948261/",
-    "https://www.facebook.com/Ridilover/posts/-1分スタディ偏向する高齢者-5偏った情報を信じる心理的要因とは何か不安定な社会への不安優越感に使命感孤独感偽誤情報などを信じてしまう際心の中ではさまざまな感情/652966503531797/",
-    "https://www.facebook.com/vet.shinri/posts/認知バイアスとは試行判断に無意識に影響する偏りのことで偏見を導いてしまう可能性が常にあるものですマダニからウイルスが媒介されるsfts重症熱性血小板減少症候群で/1185889140248267/"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ note 社長",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://www.secure-iv.co.jp/blog/20079",
-    "https://www.elcamy.com/blog/osint",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://note.com/iid_hirakawa/n/n9e4144aba441"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://researto.com/column/market-research-bias/",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ X 投稿",
    "results": [
-    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
-    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd123120.html",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://www.youtube.com/watch?v=23aYNqGwh5w",
-    "https://www.sun-denshi.co.jp/df/shadowdragon-news/shadowdragon-news-968/",
-    "https://www.elcamy.com/blog/osint",
-    "https://note.com/iid_hirakawa/n/n9e4144aba441"
-   ]
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://researto.com/column/market-research-bias/",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://www.interviewz.io/blog/bias-questionnaire/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "cognitive bias investigation workflow disconfirming evidence osintblog site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/veritrace-intelligence_ethics-osint-compliance-activity-7491018289293320192-odjW",
-    "https://www.linkedin.com/pulse/5-cognitive-biases-could-affect-your-osint-investigations-",
-    "https://pe.linkedin.com/posts/maltego_3-most-common-cognitive-biases-investigators-activity-7023364104828461056-oIcY",
+    "https://www.linkedin.com/pulse/theory-change-tested-seeking-disconfirming-evidence-design-rogowski-dglqc",
     "https://pr.linkedin.com/posts/alessandro-panettieri_avoiding-cognitive-bias-in-your-investigations-activity-7001281860999753728-VC-c",
-    "https://cf.linkedin.com/posts/teresatorres_confirmation-bias-and-the-power-of-disconfirming-activity-6976589019136626689-Kh9f",
     "https://fr.linkedin.com/pulse/fraud-tip-fridaynavigating-cognitive-bias-forensic-marks-cpa-mba-rr4xe?tl=fr",
+    "https://cf.linkedin.com/posts/teresatorres_confirmation-bias-and-the-power-of-disconfirming-activity-6976589019136626689-Kh9f",
+    "https://pe.linkedin.com/posts/maltego_3-most-common-cognitive-biases-investigators-activity-7023364104828461056-oIcY",
     "https://de.linkedin.com/pulse/thinking-just-tooling-multi-disciplinary-approach-osint-patibandha-pb3rf?tl=de"
-   ]
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T13:20:55.228704+00:00"
 }

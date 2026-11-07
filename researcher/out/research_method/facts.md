@@ -1213,6 +1213,7 @@
 - 文脈：凄腕・型
 - 手順・やり方：
   - 「JANコードのチェックデジット計算｜12桁から末尾1桁を求める手順」（https://renue.co.jp/posts/consulting-strategy-department-guide）
+  - 「オフィス移転で什器を「移設・処分・売却」に分ける｜写真台帳で総務が判定する手順」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「境界型防御とゼロトラストの違い｜認証・認可と移行・運用の確認点」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「DevExとは？DORAの5指標・DX Core 4で開発者体験を測定・改善する方法」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -1226,7 +1227,6 @@
   - 「：会議の結論とアクションアイテムを明確にし、次のステップを確定」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「中国拠点コンサルティング活用では、個人情報保護法（PIPL 2021年11月施行）・データセキュリティ法（2021年9月施行）・データ越境規制（2024年3月公布・施行の「促進和規範数据跨境流动规定」）・網信弁「生成式人工智能服务管理暂行办法」（2023年8月15日施行）の大模型備案要件・反外国制裁法・技術輸出管理条例が論点化します」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 - 突き合わせ・推定：
   - 「● 2. 仮説構築の「たたき台」」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -3144,11 +3144,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -10295,11 +10295,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ8頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ8頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ8頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ8頁・検索12回）
-- 実例：記載なし（読んだ8頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
