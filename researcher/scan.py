@@ -1346,6 +1346,36 @@ def scan(topic):
         if str(r.get("値", "")).strip(): _byit.setdefault(r["品目"], set()).add((urlparse(r["URL"]).netloc if r["URL"] else "", r["取得日"] or ""))
     nsat = [k for k, v in _byit.items() if len({h for h, _ in v}) == 1 and len({d for _, d in v}) == 1]
     if nsat: md.append(f"  - ⚠ 値が1か所・1回の取得だけの品目 {len(nsat)}件／{len(_byit)}品目（例：{nsat[0][:40]}）：最初に見つけた出どころで止まった疑い（満足化）。2か所目を探す品目として inputs に戻す（4-86）")
+    # 2026-11-08 4-87（アスマーク「社会調査の回収率」：答えた人と答えなかった人で属性・意識が違う非回答バイアス。n は1回の調査の人数で、回収率と両方そろって読める）。
+    # ⑪アンケート・調査の割合（%）の引用で、n・回答数・回収率のどれも書かれていないものを数える（母数と偏りが分からない割合）
+    _SURV = re.compile(r"(アンケート|調査|回答)"); _PCT = re.compile(r"\d+(\.\d+)?\s*[%％]")
+    _NBASE = re.compile(r"([nｎＮN]\s*[=＝]\s*[\d,，]+|回答数|有効回答|回収率|回答率|[\d,，]+\s*(社|人|件|事業所)が回答|[\d,，]+\s*(社|人|件)から回答)")
+    nsv = [r for r in rows if _SURV.search(r["引用"]) and _PCT.search(r["引用"])]
+    nsv_nb = [r for r in nsv if not _NBASE.search(r["引用"])]
+    if nsv: md.append(f"  - 調査の割合（%）の引用 {len(nsv)}件のうち、n・回答数・回収率が書かれていないもの {len(nsv_nb)}件" + (f"（例：{nsv_nb[0]['品目']}）" if nsv_nb else "") + "：答えた会社の中の割合としか書かない。主題に関心のある先ほど答える偏り（人手不足の調査なら困っている先が多めに答える）の向きを添える（4-87）")
+    # 2026-11-08 4-87（電子決算公告ドットコム「官報の決算公告記載例」：合計の行は明細の切り捨て後の和でなく合計額を改めて単位変換する。0円の科目は省く）。
+    # ⑫決算公告・貸借対照表の引用で「未満切り捨て」の宣言があるものを数える（明細の和と合計が単位1つ分×明細の数までずれてよい。0円科目の省略を欠けに数えない）
+    _TRUNC = re.compile(r"(未満(を)?切(り)?捨て|未満四捨五入|単位未満)")
+    ntr = [r for r in rows if _TRUNC.search(r["引用"]) and _BSCTX.search(r["引用"])]
+    if ntr: md.append(f"  - 決算公告の引用で端数処理（未満切り捨てなど）の宣言があるもの {len(ntr)}件（例：{ntr[0]['品目']}）：明細の和と合計は単位の端数だけずれてよい。載っていない科目は0円で省いた可能性があり、「記載なし」に数えない（4-87）")
+    # 2026-11-08 4-87（Project OSINT「OSINT Chinese Companies」：持分の割合を出どころどうしで照らすと、食い違いが隠れた層を示す。集約サイトの名の照合は誤るので原本の届出で確かめる）。
+    # ⑬同じ品目で出資比率・持株比率の引用が2つ以上の違う割合を示すものを数える
+    _OWN = re.compile(r"(出資比率|持株比率|議決権(比率|の)?|株式の?\s*\d+(\.\d+)?\s*[%％]\s*を?(保有|取得))[^\d]{0,12}(\d+(\.\d+)?)\s*[%％]")
+    _own = {}
+    for r in rows:
+        for m in _OWN.finditer(r["引用"]): _own.setdefault(r["品目"], set()).add(m.group(5))
+    nown = [k for k, v in _own.items() if len(v) >= 2]
+    if _own: md.append(f"  - 出資・持株の割合の引用がある品目 {len(_own)}件のうち、違う割合が並ぶもの {len(nown)}件" + (f"（例：{nown[0][:40]}）" if nown else "") + "：時点の違いか、間に別の会社（中間の持株会社）が挟まる疑い。登記・有報・本国の届出で持分の連なりを確かめるまで支配の向きを書かない（4-87）")
+    # ⑭同じ品目に企業データの集約サイトと届出の原本（EDINET・TDnet・法人番号・官報）が並ぶ件数（食い違えば届出を採り、時点と範囲を書く）
+    _AGG = re.compile(r"(baseconnect|salesnow|ullet|buffett-code|nikkei-compass|tsr-net|tdb\.co\.jp|musubu|alarmbox|kaisharesearch|houjin\.info|crunchbase|zoominfo|rocketreach)", re.I)
+    _FIL = re.compile(r"(disclosure2?\.edinet-fsa|edinet-fsa\.go\.jp|release\.tdnet|tdnet|houjin-bangou\.nta\.go\.jp|kanpo\.go\.jp|sec\.gov|companieshouse|find-and-update\.company-information)", re.I)
+    _af = {}
+    for r in rows:
+        h = urlparse(r["URL"]).netloc if r["URL"] else ""
+        if _AGG.search(h): _af.setdefault(r["品目"], [0, 0])[0] += 1
+        elif _FIL.search(h): _af.setdefault(r["品目"], [0, 0])[1] += 1
+    nboth = [k for k, (a, f) in _af.items() if a and f]; nagg_only = [k for k, (a, f) in _af.items() if a and not f]
+    if _af: md.append(f"  - 集約サイトと届出の原本が並ぶ品目 {len(nboth)}件／集約サイトだけの品目 {len(nagg_only)}件" + (f"（例：{nagg_only[0][:40]}）" if nagg_only else "") + "：集約サイトだけの値は名の照合違いがありうる。届出の原本で取り直すまで【一次で確認】にしない（4-87）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
