@@ -4346,11 +4346,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -4521,37 +4521,37 @@
 ## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
 - 文脈：清掃
 - 手順・やり方：
-  - 「データクレンジングの基本と落とし穴｜対症療法から抜け出すデータ活用基盤の構築方法 | ワークフロー総研」（https://www.atled.jp/wfl/article/73568/）
-  - 「データクレンジングの基本から具体的な手順・方法・ツール、そして「クレンジングに追われる状態」から脱却するための根本対策」（https://www.atled.jp/wfl/article/73568/）
-  - 「データクレンジングの具体的な手順【5ステップ】」（https://www.atled.jp/wfl/article/73568/）
-  - 「経済産業省とIPA（独立行政法人情報処理推進機構）が2026年4月に改訂・公表した「デジタルスキル標準（DSS）」のバージョン2.0では、昨今のAXの進展やそれに伴うデータ活用の重要性などを鑑み、新たにデータマネジメント類型が設けられました」（https://www.atled.jp/wfl/article/73568/）
-  - 「データクレンジングの手順を学ぶ前に、まず」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step1 データの現状把握・棚卸し」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step2 クレンジングルールの設計」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step3 重複・欠損・表記ゆれの修正」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step2で設計したルールに従って統一します」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step5 定期メンテナンス体制の構築」（https://www.atled.jp/wfl/article/73568/）
-  - 「データクレンジングの方法は大きく3つに分かれます」（https://www.atled.jp/wfl/article/73568/）
-  - 「「あの人しかやり方を知らない」という状態は、データ管理のリスクそのものです」（https://www.atled.jp/wfl/article/73568/）
-  - 「手順書を整備することである程度は対応できますが、ルールの解釈や判断の積み重ねは文書化しきれないことが多く、属人化の根本解決は簡単ではありません」（https://www.atled.jp/wfl/article/73568/）
-  - 「入力フォームの設計でデータ品質を担保する方法」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクリーニングの具体的なやり方とは？処理別の手法・操作手順・判断基準を実践解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「データクリーニングの具体的なやり方とは？処理別の手法・操作手順・判断基準を実践解説」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「本記事では、処理の種類ごとに具体的なやり方と操作手順を整理し、実務でそのまま使えるレベルまで落とし込んで解説していきます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「自社のデータと体制に合うやり方を見つける手がかりとして、ぜひ最後までお読みください」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「重複データの統合：名寄せ・キー突合のやり方」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「データ形式の変換：型・単位・日付フォーマットの統一」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「Python（pandas）を使ったやり方」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「定型ルールをスクリプト・クエリで再利用する」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「ここからは代表的な5つの処理を取り上げ、どのような場面でどの手法が適しているのかを、具体的なやり方とともに見ていきます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「同じ顧客や商品が複数のレコードに分かれて存在する状態は、集計時に件数や金額を水増しする典型的な原因になります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「まずは顧客IDやメールアドレスなど、一意に識別できるキーでの突合を優先し、それで拾えないものだけをあいまい一致に回すのが効率的な進め方です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「データ統合とは？統合の目的や初心者向けの進め方を解説」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「そのため補完を行う際は、どの列をどの方法で埋めたかをログとして残し、元の欠損状態を復元できるようにしておくことを推奨します」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「検出には四分位範囲を使った箱ひげ図や、平均から標準偏差の何倍離れているかを見る方法が広く使われています」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「箱ひげ図とは？外れ値の見方やExcelでの作成方法まで徹底解説」（https://data-viz-lab.com/how-to-data-cleaning）
 - 突き合わせ・推定：
+  - 「条件分岐や外部データとの照合など、ExcelやSQLでは表現しづらい込み入った処理も柔軟に書ける点が魅力です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「同一性の基準は、データを何に使うかという目的から逆算して決めるのが原則です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「担当者の感覚に依存した判定は再現性を欠き、後から検証できなくなるためです」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「ここでは、処理漏れや過剰処理を見つけるための3つの検証方法を紹介します」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「最も基本的な検証は、処理の前後で件数を比べることです」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「違和感を放置せず原因までさかのぼって確認する習慣が、検証の質を大きく左右します」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「検証をより客観的にするには、データ品質を数値で測る指標を用いるのが有効です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「欠損や重複、外れ値の扱いに迷ったときは、データの利用目的から逆算して判断の軸を定めるのが原則でした」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「そして、処理して終わりにせず件数や品質指標で検証し、繰り返す作業はテンプレート化・コード化・パイプライン化へと段階的に育てていく」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
   - 「その後、ルールに沿って重複・欠損・表記ゆれを修正して結果を検証し、最後に定期的なメンテナンス体制を構築します」（https://www.atled.jp/wfl/article/73568/）
   - 「このような重複データを照合し、同一と判断して統合する処理が名寄せです」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「検索・照合の精度を上げるための“土台作り”となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「氏名・住所・電話番号などを照合し、1つのデータに統合します」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「Step4｜変換を実行し元データと突き合わせて検証する」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「取引先マスタと品目マスタのどちらを先に着手するか、過去何年分を対象にするかといった判断は、用途から逆算して決めます」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「実行後は、元データと突き合わせて検証します」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「あいまい一致が使えるのは2つの表を突き合わせるマージ操作のテキスト列に限られ、どこまでを同じとみなすかのしきい値は人が判断する」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「画面をまたぐ定型的な転記や突き合わせの自動化」（https://www.nomura-system.co.jp/contents/data-crensing/）
 - 一次情報の探し方：
   - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
@@ -4569,6 +4569,13 @@
   - 「一部のデータをサンプリングして目視で確認したり、クレンジング前後のデータの統計量を比較したりすることも有効です」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
   - 「欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
 - 失敗・落とし穴：
+  - 「は、入力ミスのような明らかな誤りである場合と、実際に起きた重要な事象である場合の両方が考えられます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「桁を一つ多く入力したような誤りであれば修正・除外の対象になりますが、繁忙期の突出した売上のように実態を反映した値であれば、安易に除外すべきではありません」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「一方で、コードを書くスキルが前提となるため、扱える人が限られるとブラックボックス化しやすい点には注意が必要です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「外れ値の扱いは、その値が「誤りなのか実態なのか」によって判断が分かれます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「ここで見つかった誤りは、個別に直すだけでなく処理ルール自体の見直しにつなげることが肝心です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「一件の誤りの裏には、同種の誤りが数十件潜んでいると考えて対処しましょう」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「ただし、自動で動く仕組みほど、異常が起きたときに気づきにくいという落とし穴があります」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「データクレンジングの基本と落とし穴｜対症療法から抜け出すデータ活用基盤の構築方法 | ワークフロー総研」（https://www.atled.jp/wfl/article/73568/）
   - 「データクレンジングとは、データベースやファイルに蓄積されたデータの誤り・重複・欠損・表記ゆれなどを検出・修正し、データ品質を整える作業」（https://www.atled.jp/wfl/article/73568/）
   - 「ERPに登録された顧客マスタや商品マスタに誤りがあると、受発注・請求・在庫管理など業務全体に誤りが波及します」（https://www.atled.jp/wfl/article/73568/）
@@ -4577,29 +4584,22 @@
   - 「「修正したつもりが、別の誤りを生んでいた」というケースも起きやすいため、第三者によるレビューを挟むことが理想的です」（https://www.atled.jp/wfl/article/73568/）
   - 「プルダウンや入力制限で新規入力時の誤りを防ぐ」（https://www.atled.jp/wfl/article/73568/）
   - 「正しい入力形式を入力者に伝え、誤りを予防する」（https://www.atled.jp/wfl/article/73568/）
-  - 「A. データベース等に蓄積されたデータの誤りや重複、欠損、表記ゆれなどを検出・修正し、データ品質を整える作業のことです」（https://www.atled.jp/wfl/article/73568/）
-  - 「データ活用に不可欠な「データマネジメント」とは？よくある失敗と成功の秘訣」（https://www.atled.jp/wfl/article/73568/）
-  - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
 - 実例：
+  - 「収集したデータをそのまま分析に回すと、重複や欠損、表記の揺れが原因で結果が大きく歪んでしまいます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「判定基準を緩めすぎると別人を同一視し、厳しくしすぎると同一人物を分離してしまうため、サンプルで結果を確認しながらしきい値を調整します」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「欠損が全体のごく一部にとどまり、かつランダムに散らばっている場合は、行を除外しても分析結果への影響は限定的です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「判断に迷う場合は、外れ値を含めた集計と除いた集計の両方を出し、結果がどう変わるかを比較すると意思決定がしやすくなります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「日付は内部的なシリアル値と表示形式が食い違うことがあり、単位についても「円」と「千円」が混在したまま合算すると、桁が三つずれた集計結果が生まれてしまいます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「変換の際は、元の値を上書きするのではなく新しい列に変換結果を出力し、両者を見比べて妥当性を確認してから置き換えると安全です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「SQLの利点は、同じクエリを実行すれば誰がやっても同じ結果が得られる再現性の高さにあります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「ただし、元のテーブルを直接書き換える処理は取り返しがつかないため、まずはSELECT文で結果を確認し、問題がないと判断してから更新系の処理に進むのが鉄則です」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「氏名は同じでも住所が微妙に異なる場合、それを同一人物とみなすかどうかで結果が変わります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「全体の傾向を平均的に捉えたいのであれば極端な値が結果を引っ張るため除外を検討し、異常やリスクの発見が目的であれば、その外れ値こそが分析の主役になります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「クリーニングは元データを変える行為である以上、「何を・なぜ・どう変えたか」を残しておかないと、後から結果の妥当性を説明できなくなります」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「手作業に頼らずコード化を進めることが、結果として履歴を残す手間を減らすことにもつながるのです」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「手作業では避けられない「今日は急いでいたから確認を飛ばした」といったブレが起きず、いつ実行しても同じ結果が得られます」（https://data-viz-lab.com/how-to-data-cleaning）
+  - 「処理が想定外のデータで止まったり、おかしな結果を出したりした際に検知できるよう、件数や品質指標のチェックを流れの中に組み込んでおくことが、安定運用の鍵になります」（https://data-viz-lab.com/how-to-data-cleaning）
   - 「DXやAI導入を進めようとしても、「データが構造化されていない・汚い」という根本的な問題が足かせになるケースは少なくありません」（https://www.atled.jp/wfl/article/73568/）
-  - 「ワークフローシステムによるデータ活用基盤の設計事例」（https://www.atled.jp/wfl/article/73568/）
-  - 「郵便番号の「-」あり・なし、日付の「2024/01/01」と「2024-01-01」と「2024年1月1日」の混在なども、よく見られるケースです」（https://www.atled.jp/wfl/article/73568/）
-  - 「こうした不整合は発見が難しく、気づいたころにはデータが大量に汚染されているケースもあります」（https://www.atled.jp/wfl/article/73568/）
-  - 「「どの状態を正とするか」を決めなければ、担当者によって修正結果がバラバラになります」（https://www.atled.jp/wfl/article/73568/）
-  - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
-  - 「件数の変化・サンプルチェック・集計結果の整合性確認などを行います」（https://www.atled.jp/wfl/article/73568/）
-  - 「「修正したつもりが、別の誤りを生んでいた」というケースも起きやすいため、第三者によるレビューを挟むことが理想的です」（https://www.atled.jp/wfl/article/73568/）
-  - 「ここでは、「AgileWorks」を活用してデータ基盤を設計した事例をご紹介します」（https://www.atled.jp/wfl/article/73568/）
-  - 「その後、ルールに沿って重複・欠損・表記ゆれを修正して結果を検証し、最後に定期的なメンテナンス体制を構築します」（https://www.atled.jp/wfl/article/73568/）
-  - 「研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「情シス支援サービス「ION」（イオン） 事例紹介」（https://www.cm-net.co.jp/blog/data-cleansing/）
 
 ## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
 - 文脈：推定
@@ -6317,7 +6317,7 @@
 - 実例：
   - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
   - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6475,6 +6475,7 @@
 - 実例：
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6487,7 +6488,6 @@
   - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 検索結果の抜粋：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -7885,7 +7885,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ

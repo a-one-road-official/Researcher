@@ -1,0 +1,644 @@
+{
+ "name": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+ "en": "Japan kanpo balance sheet summary net income plating die press company",
+ "aliases": [
+  "決算公告 貸借対照表の要旨 当期純利益 めっき 株式会社",
+  "電子公告 貸借対照表 当期純利益 金型 株式会社",
+  "官報 決算公告 熱処理 株式会社 当期純利益"
+ ],
+ "context": "会社・決算",
+ "kind": "market",
+ "researched_at": "2026-11-07T18:40:45.682935+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shiodome.co.jp/js/blog/13590",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tochigi09.com/explain/904exp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/exchange/everything-you-need-to-know-about-exchange-backups---part-1/600223",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daysoftheweek.org/what-day-is-it-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://time.is/Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timeanddate.com/worldclock/japan/tokyo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://time.is/Tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldstandardtime.com/state-japan-tokyo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://timeintokyo.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Wiretapping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/h9zdev/WireTapper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m.imdb.com/title/tt0049957/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.blog.brightcoding.dev/2026/02/08/wiretapper-transform-radio-signals-into-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m.imdb.com/title/tt0049957/fullcredits/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pypi.org/project/wiretapper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xhamster.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xhamster.com/categories/mature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xmasterfitness.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xhamster19.com/categories/indian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xhamster3.com/best/weekly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xhamster.desi/best/daily",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stryker.com/us/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stryker.com/ca/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.stryker.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.stryker.com/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patients.stryker.com/surgeons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patients.stryker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-gb/contactus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/Events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Inferno_(Dante_Pertuz)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marvel.fandom.com/wiki/Dante_Pertuz_(Earth-616)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marvel.com/characters/inferno-dante-pertuz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marvel.fandom.com/wiki/Dante_Pertuz_(Earth-17037)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://marvelanimateduniverse.fandom.com/wiki/Dante_Pertuz",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Inferno_(Dante_Pertuz)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://account.microsoft.com/account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://myaccount.microsoft.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://account.microsoft.com/account-checkup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.favfamilyrecipes.com/mulligatawny-soup/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 人手不足 受注 断る",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://catr.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 受注残 人手不足",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://www.microsoft.com/en-us/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 人手不足 損失 億円",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://daysoftheweek.org/what-day-is-it-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://en.m.wikipedia.org/wiki/Wiretapping"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 推移",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://xhamster.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 統計 PDF",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://www.stryker.com/us/en/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://www.microsoft.com/en-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 従業者規模別",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://en.wikipedia.org/wiki/Inferno_(Dante_Pertuz)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 1人当たり 万円",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） 2015 2025",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://music.youtube.com/search?q=christian"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "Japan kanpo balance sheet summary net income plating die press company Japan statistics",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1109604/000119312508202577/dex994.htm",
+    "https://www.imes.boj.or.jp/research/papers/english/24-E-07.pdf",
+    "https://www.stlouisfed.org/on-the-economy/2024/oct/japans-consolidated-balance-sheet-challenges-monetary-policy",
+    "https://www.nber.org/system/files/chapters/c15418/revisions/c15418.rev0.pdf",
+    "https://www.imf.org/en/publications/wp/issues/2019/10/04/japan-s-public-sector-balance-sheet-48687",
+    "https://www.gmo.com/americas/research-library/japan-the-land-of-the-rising-profits_whitepaper/",
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.nippon-shinyaku.co.jp/english/ir/financial/consolidated_financial_statements/balance_sheet.php",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-03.html",
+    "https://en.wikipedia.org/wiki/Japan"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+   "results": [
+    "https://www.adobe.com/in/express/create/wallpaper/diwali",
+    "https://zsky.ai/ai-diwali-art-generator",
+    "https://creator.nightcafe.studio/gallery/diwali-wallpaper",
+    "https://imagegpt.com/tools/diwali-photo-generator-ai",
+    "https://wavespeed.ai/landing/generator/diwali",
+    "https://www.template.net/edit-online/453989/diwali-wallpaper",
+    "https://morphic.com/resources/images/diwali-wallpaper",
+    "https://www.myaiart.io/features/ai-diwali-generator/",
+    "https://morphic.com/resources/images/diwali-background",
+    "https://kaze.ai/ai-diwali-generator"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+   "results": [
+    "https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-10.0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:linkedin.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86）",
+   "results": [
+    "https://en.wikipedia.org/wiki/I'm_So_Paid",
+    "https://www.azlyrics.com/lyrics/akon/imsopaid.html",
+    "https://www.youtube.com/watch?v=tnAbKuGss4Y",
+    "https://genius.com/Akon-im-so-paid-lyrics",
+    "https://www.youtube.com/watch?v=cdmH1u8XLTg",
+    "https://music.youtube.com/watch?v=tnAbKuGss4Y&list=OLAK5uy_mTVXqR9wxjdRwyirQS-WvpBy34kfMIRWw",
+    "https://music.youtube.com/watch?v=tnAbKuGss4Y&list=PL5Rb-gk46yRGOJLZQ_RI4AQejxSosT04f",
+    "https://soundcloud.com/akon/im-so-paid-2",
+    "https://www.lyricsmania.com/im_so_paid_lyrics_akon.html",
+    "https://music.apple.com/us/music-video/im-so-paid/1445864391"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） note 社長",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://www.microsoft.com/en-us/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "受託4業種（めっき・熱処理・金属プレス・金型）の会社の官報・電子公告の貸借対照表の要旨に付記された当期純利益・決算期・表示単位（千円・百万円）（売上の無い公告でも利益の手がかり・旧様式の当期未処分利益と分ける・4-86） X 投稿",
+   "results": [
+    "https://kanpo-ad.com/kaisya-kamoku1.html",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/",
+    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/",
+    "https://www.densan-kikaku.co.jp/houteikoukoku-manual/archives/240/",
+    "https://www.tochigi09.com/explain/904exp.html",
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://www.tokyo-kansho.co.jp/koukoku/article/1",
+    "https://translate.google.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Japan kanpo balance sheet summary net income plating die press company site:linkedin.com",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://www.japan.travel/en/",
+    "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "https://www.britannica.com/place/Japan",
+    "https://www.japan-guide.com/",
+    "https://www.japan.go.jp/japan/",
+    "https://www.worldatlas.com/maps/japan"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}
