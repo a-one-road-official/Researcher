@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T10:34:51.792412+00:00",
+ "researched_at": "2026-11-07T15:37:29.541114+00:00",
  "evidence": {
   "実例": [
    {
@@ -220,6 +220,486 @@
     "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
     "pass": 3,
     "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate Potential Impact and Population Attributable Fractions",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Heterogeneous Effects in Factorial Experiments Using",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Pollinator Body Size and Co-Varying Ecological Traits",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Genetic Sex from Expression Counts",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Mapping Smoothed Effect Estimates from Individual-Level Data",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Constrained Delaunay Triangulation Meshes for Spatial 'SPDE'",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Conconi Estimate of Anaerobic Threshold from a TCX File",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Inverse Probability Weights",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Simulate and Estimate Close-Kin Dispersal Kernels",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate 3D Orientations from 2D Landmarks",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimating the Distribution of True Effects from Noisy Estimates",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Sleep from 'Accelerometry' Data",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Constrained Delaunay Triangulation with Refinement",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate Survival from Common Data Model Cohorts",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates and Plots Single-Level and Multilevel Latent Class",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Estimate Std. Error t value Pr(>|t|)",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", then estimate the revision system on the corresponding panel of releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Parameter Estimate Std.Error",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimates too much, while they are much more open to revise GDP expenditure components over time. More",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We postulate that SAs consider the initial GDP growth estimates to be accurate enough and they internalise the",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "initial GDP estimates, but it changes other GDP sub -components on the expenditure side which then cancel each",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- (2012): “Improving real-time estimates of output gaps and inflation trends with multiple -vintage VAR models,”",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mork, K. A. (1987): “Ain’t Behavin’: Forecast Errors and Measurement Errors in Early GNP Estimates, ” Journal of",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Estimate Std. Error t value Pr(>|t|)",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", then estimate the revision system on the corresponding panel of releases.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Parameter Estimate Std.Error",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Feature Stores for the 'diseasy' Framework",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Functional Machine Learning Framework",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Branch-Level Inference Framework for Recognizing Optimal Shifts",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Specification Curve Analysis for Synthetic Control Methods",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimation and Inference Methods for Sorted Causal Effects and",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Various Methods for the Goodness-of-Fit Problem in D>1",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Statistical Methods for Auditing",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A Robust Deterministic Data Splitting Method",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Various Methods for the Two Sample Problem in D>1 Dimensions",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minimalist Async Evaluation Framework for R",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Graph Community Detection Methods into Systematic Conservation",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Steve's Toy Data for Teaching About a Variety of Methodological,",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Comprehensive ARDL: Panel, Bootstrap and Fourier Methods",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bayesian Quantitative Decision-Making Framework for Binary,",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Still others come from methodological changes or benchmark updates.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Still others come from methodological changes or benchmark updates.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Simply Beautiful PDF Letters from Markdown",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digitally Sign and Verify PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Tools for Easy Use of the 'e-Stat' API",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Transcription Elongation Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ],
   "失敗・落とし穴": [
@@ -481,486 +961,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simply Beautiful PDF Letters from Markdown",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digitally Sign and Verify PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Tools for Easy Use of the 'e-Stat' API",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Transcription Elongation Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Feature Stores for the 'diseasy' Framework",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Functional Machine Learning Framework",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Branch-Level Inference Framework for Recognizing Optimal Shifts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Specification Curve Analysis for Synthetic Control Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimation and Inference Methods for Sorted Causal Effects and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Various Methods for the Goodness-of-Fit Problem in D>1",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Statistical Methods for Auditing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A Robust Deterministic Data Splitting Method",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Various Methods for the Two Sample Problem in D>1 Dimensions",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minimalist Async Evaluation Framework for R",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graph Community Detection Methods into Systematic Conservation",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Steve's Toy Data for Teaching About a Variety of Methodological,",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Comprehensive ARDL: Panel, Bootstrap and Fourier Methods",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bayesian Quantitative Decision-Making Framework for Binary,",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Still others come from methodological changes or benchmark updates.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this euro area example, the efficient-release step selects",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Still others come from methodological changes or benchmark updates.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this euro area example, the efficient-release step selects",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate Potential Impact and Population Attributable Fractions",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Heterogeneous Effects in Factorial Experiments Using",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Pollinator Body Size and Co-Varying Ecological Traits",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Genetic Sex from Expression Counts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Mapping Smoothed Effect Estimates from Individual-Level Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Constrained Delaunay Triangulation Meshes for Spatial 'SPDE'",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Conconi Estimate of Anaerobic Threshold from a TCX File",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Inverse Probability Weights",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simulate and Estimate Close-Kin Dispersal Kernels",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate 3D Orientations from 2D Landmarks",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimating the Distribution of True Effects from Noisy Estimates",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Sleep from 'Accelerometry' Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Constrained Delaunay Triangulation with Refinement",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimate Survival from Common Data Model Cohorts",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimates and Plots Single-Level and Multilevel Latent Class",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Estimate Std. Error t value Pr(>|t|)",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", then estimate the revision system on the corresponding panel of releases.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Parameter Estimate Std.Error",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimates too much, while they are much more open to revise GDP expenditure components over time. More",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We postulate that SAs consider the initial GDP growth estimates to be accurate enough and they internalise the",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "initial GDP estimates, but it changes other GDP sub -components on the expenditure side which then cancel each",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- (2012): “Improving real-time estimates of output gaps and inflation trends with multiple -vintage VAR models,”",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mork, K. A. (1987): “Ain’t Behavin’: Forecast Errors and Measurement Errors in Early GNP Estimates, ” Journal of",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Estimate Std. Error t value Pr(>|t|)",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", then estimate the revision system on the corresponding panel of releases.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Parameter Estimate Std.Error",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
-    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -982,17 +982,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
+    "url": "https://note.com/arima_planning/n/n8257c129345e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kiyo_ai_note/n/n585dd695c8bc",
+    "url": "https://note.com/marthay/n/n6a5a3633cd40",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/futaro_/n/ne92955415538",
+    "url": "https://note.com/tnishimaki/n/nff97c41334d6",
     "status": "ok",
     "method": "http"
    },
@@ -1002,9 +1002,9 @@
     "method": "browser"
    },
    {
-    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
+    "url": "https://note.com/nekoai_lab/n/n5a81ebd5c600",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
@@ -1012,17 +1012,17 @@
     "method": "browser"
    },
    {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nekoai_lab/n/n5a81ebd5c600",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "url": "https://www.jmir.org/2022/11/e41566/PDF",
     "status": "ok",
     "method": "browser"
    },
@@ -1037,9 +1037,9 @@
     "method": "browser"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000945550.pdf",
@@ -1047,12 +1047,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/data/database",
+    "url": "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
     "status": "ok",
     "method": "http"
    },
@@ -1077,14 +1077,14 @@
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/",
+    "url": "https://ec.europa.eu/eurostat/data/database",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "url": "https://ec.europa.eu/eurostat/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
@@ -1125,27 +1125,24 @@
     "https://note.com/doiwa/n/n0397da719f07",
     "https://note.com/e_dao/n/n1d4439bbbc9a",
     "https://note.com/yamaaki_07/n/n974447a24c5e",
-    "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
-    "https://note.com/kiyo_ai_note/n/n585dd695c8bc",
-    "https://note.com/futaro_/n/ne92955415538",
+    "https://note.com/arima_planning/n/n8257c129345e",
     "https://note.com/marthay/n/n6a5a3633cd40",
-    "https://note.com/medomedo/n/nf5e10f52defb",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/asahi_ictrad/n/nc78e25837f39"
+    "https://note.com/tnishimaki/n/nff97c41334d6",
+    "https://note.com/novel_yeflo/n/n650b3a7c5f2b"
    ]
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note",
    "results": [
     "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/nekoai_lab/n/n5a81ebd5c600",
-    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.jmir.org/2022/11/e41566/PDF",
+    "https://www.zentsuken.net/journal/file/144_5.html",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
-    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
     "https://ec.europa.eu/eurostat/data/database"
    ]
   },
@@ -1186,11 +1183,11 @@
     "https://ec.europa.eu/eurostat/data/data-revision-policy",
     "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
     "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
-    "https://www.youtube.com/watch?v=sPmLhZSEeH8",
     "https://www.ine.es/art/ree/178_2.pdf",
     "https://www.ajs.or.at/index.php/ajs/article/view/1468/794",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618392",
-    "https://www.restud.com/wp-content/uploads/2023/01/MS30764manuscript.pdf",
+    "https://www.youtube.com/watch?v=JvtJloNsm6M",
+    "https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250158/aacus250158.html",
+    "https://www.aeaweb.org/content/file?id=15847",
     "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/"
    ]
   },
@@ -1198,22 +1195,22 @@
    "query": "site:note.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://note.com/doiwa/n/n0397da719f07",
-    "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
-    "https://note.com/garuru11/n/n7c5cfc770b72",
+    "https://note.com/noe_official/n/n336306f3c427",
     "https://note.com/statistics_ai/n/n5c3557fcb50a",
     "https://note.com/e_dao/n/n1d4439bbbc9a",
-    "https://note.com/marthay/n/n6a5a3633cd40",
-    "https://note.com/data_pn/n/n3a33a9120a47"
+    "https://note.com/kenxxxken/n/nce7762dcec30",
+    "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
+    "https://note.com/super_guppy179/n/n275140ebfdfd"
    ]
   },
   {
    "query": "site:x.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://jf.x.com/images/media-preview/2113759896936370264",
-    "https://jf.x.com/images/media-preview/2100404370546303364",
-    "https://jf.x.com/images/media-preview/2089344058112217298",
-    "https://jf.x.com/images/media-preview/2096811175669584046",
-    "https://jf.x.com/images/media-preview/2099346487994147068",
+    "https://jf.x.com/images/media-preview/2103455884366188544",
+    "https://jf.x.com/images/media-preview/2104204905997308126",
+    "https://jf.x.com/images/media-preview/2088452663784673731",
+    "https://jf.x.com/images/media-preview/2097324757926736086",
     "https://x.com/jaeho38line/status/2089126729071911030",
     "https://x.com/smo_yutohisano/status/2075165578747342927"
    ]
@@ -1222,24 +1219,25 @@
    "query": "site:linkedin.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://www.linkedin.com/posts/zahra-kharazian_scania-component-x-dataset-a-real-world-activity-7312774232524963841-_VBt",
-    "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
     "https://ca.linkedin.com/company/axiom-real-time-metrics",
+    "https://in.linkedin.com/company/qualitykiosk-technologies",
+    "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
+    "https://www.linkedin.com/pulse/technology-behind-linkedins-fight-against-ai-slop-tim-jurka-7ojbc",
     "https://jp.linkedin.com/pulse/demystifying-project-management-iron-triangle-scope-dvhpf?tl=ja",
-    "https://jp.linkedin.com/pulse/data-quality-validation-python-dataframes-miguel-cabrera?tl=ja",
-    "https://jp.linkedin.com/pulse/handbook-anomaly-detection-python-outlier-3-ecod-kuo-ph-d-cpcu?tl=ja",
-    "https://jp.linkedin.com/pulse/issue-209-steve-jobs-signal-to-noise-ratio-forgotten-half-scott-mautz-rwwlc?tl=ja"
+    "https://jp.linkedin.com/pulse/handbook-anomaly-detection-python-outlier-3-ecod-kuo-ph-d-cpcu?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
+    "https://graph.facebook.com/v2.8/10157238489260205/picture/",
     "https://www.facebook.com/buzzbuzzne/posts/頭の体操三角形は何個ある解答はコメント欄に答え合わせはコチラ/3232076147114905/",
-    "https://www.facebook.com/Isuzugtime/videos/astronネクスターnexter品番hab003j価格297000-税込新開発のデュアルタイムクロノグラフがレギュラーモデルとして登場三角形で構築された幾何学/1016528547728478/",
+    "https://www.facebook.com/weathertimejnet/",
     "https://www.facebook.com/reel/801382729299547/",
-    "https://www.facebook.com/marketplace/item/39079823494950476/",
-    "https://www.facebook.com/CSISut/posts/共同研究利用システムjorasに実人流データセット東京都2024年5月2025年5月が追加されました携帯端末位置情報に基づいたリアル人流データですぜひご利用くだ/1368827928373937/",
     "https://www.facebook.com/adachi.hanga/posts/浮世絵の初版しょはんと後版あとはんとは-アダチの初版へのこだわり-先日ご紹介した広重の猿若町夜の景この作品の満月にかかるあてなしぼかしで摺られた一筋の黒い雲は初/1709043655914249/",
-    "https://www.facebook.com/JCA1948/videos/オンラインセミナーコンクール課題曲集オンラインセミナー開講中sample公開f4定点観測第32回朝日作曲賞受賞者宮本正太郎さんによる自作解説です三角みず紀さんの/1008110706543171/"
+    "https://www.facebook.com/JCA1948/videos/オンラインセミナーコンクール課題曲集オンラインセミナー開講中sample公開f4定点観測第32回朝日作曲賞受賞者宮本正太郎さんによる自作解説です三角みず紀さんの/1008110706543171/",
+    "https://www.facebook.com/BrainMusicWindband/videos/フレキシブル楽譜シリーズ紹介アンサンブルフレキシブル改訂作品アンサンブルの名作が様々な編成オーケストレーションで演奏できるフレキシブル編成にオリジナルの編成響き/1791964545450948/",
+    "https://www.facebook.com/business/help/750785952855662/"
    ]
   },
   {
@@ -1247,13 +1245,13 @@
    "results": [
     "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
     "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.soumu.go.jp/main_content/000945550.pdf",
     "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
-    "https://lab.ndl.go.jp/dl/book/1312003?page=1",
+    "https://note.com/mediologic/n/n0430d581ac94",
     "https://ec.europa.eu/eurostat/data/database"
    ]
   },
@@ -1261,11 +1259,11 @@
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） X 投稿",
    "results": [
     "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
     "https://www.soumu.go.jp/main_content/000945550.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-025-66748-y&domain=pdf",
     "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20210801-00010003-jij-eurp&lang=ja",
     "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2024/data/html/program/pdf/E-024.pdf",
@@ -1283,13 +1281,13 @@
     "https://uk.linkedin.com/in/teraallas",
     "https://www.linkedin.com/posts/antonymartini_luxembourg-ranks-fifth-lowest-at-43-fossil-activity-7503707100271820802-UGI1",
     "https://www.linkedin.com/posts/giacomo-romanini-1ba60a63_productionnetworks-monetarypolicy-champ-activity-7518330205011243008-HR5z",
-    "https://www.linkedin.com/in/casey-a-weston",
-    "https://uk.linkedin.com/in/yu-jinghui-sage"
+    "https://uk.linkedin.com/in/yu-jinghui-sage",
+    "https://www.linkedin.com/posts/martinkongsvik_another-record-year-for-eu-tourism-in-2025-activity-7447553829048467456-8jjV"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-06T07:05:14.243850+00:00"
 }

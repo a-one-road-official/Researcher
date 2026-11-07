@@ -3806,11 +3806,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4893,6 +4893,7 @@
   - 「. In such cases, the denominator and numerator become equal, leading to」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「Alternatively, we can compare GDP revisions between specific publication dates. In the example below, we analyze revisions from the GDP releases from April and July 2024, using the final release from October 2024 as the benchmark. The grouping of statistics is by default determined by the」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
   - 「example, macroeconomic aggregates is missing, whereas this is fairly standard for national-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「aggregates READ-GER contains, for example, real gross domestic product, total domestic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「policies (for example, optimal interest rates) on well grounded information sets. Thus, well-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
@@ -4904,7 +4905,6 @@
   - 「the calculation base. For example, the March 2005 vintage is based on information from」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「Over the years, the working group faced some severe issues, for example, by switching」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「General revisions take place periodically, usually each five years. In my case, the general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「As example, let us take the year 2015. The first update for the year 2015 becomes available」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
@@ -6184,21 +6184,21 @@
 ## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
 - 文脈：抽出
 - 手順・やり方：
-  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
-  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Annotation Methodology」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-  - 「approaches. Heuristic methods, used in tools like Readability」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「learning methods, such as those in Boilerpipe [4] and BoilerNet」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「Bevendorff et al. show that while no single method outperforms」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「Modern methods in natural language processing and information retrieval are heavily dependent on large collections of text. The World Wide Web is an inexhaustible source of content for such applications. However, a common problem is that Web pages include not only main content, but also ads, hyperlink lists, navigation, previews of other articles, banners,」（https://arxiv.org/html/1801.02607v3）
+  - 「. The effectiveness of our method is demonstrated on standard benchmarking datasets.」（https://arxiv.org/html/1801.02607v3）
+  - 「empirically demonstrates the merit of our method on several benchmark datasets for content extraction and document retrieval.」（https://arxiv.org/html/1801.02607v3）
+  - 「Early approaches to HTML boilerplate removal use a range of heuristics and rule-based methods. Finn」（https://arxiv.org/html/1801.02607v3）
+  - 「. The problem with these early methods is that they make intensive use of the fact that pages used to be partitioned into sections by」（https://arxiv.org/html/1801.02607v3）
+  - 「. These methods are very suitable for detecting template content that is present in all pages of a website, but have poor performance on websites that consist of a single Web page only. In this paper we focus on single-page content extraction without exploiting the context of other pages from the same site.」（https://arxiv.org/html/1801.02607v3）
+  - 「Machine learning methods offer a convenient way to combine various indicators of “contentness”, automatically weighting hand-crafted features according to their relative importance. The FIASCO system by Bauer」（https://arxiv.org/html/1801.02607v3）
+  - 「extend this approach by reformulating the classification problem as a case of sequence labeling where all blocks are jointly tagged. They use conditional random fields to take advantage of correlations between the labels of neighboring content blocks. This method was the most successful in the CleanEval competition」（https://arxiv.org/html/1801.02607v3）
+  - 「. In the following, we discuss the various steps of our method. The complete pipeline is also illustrated in Figure」（https://arxiv.org/html/1801.02607v3）
+  - 「To our knowledge, the existing corpora (including CleanEval) for boilerplate detection pose an additional difficulty. These datasets consist only of pairs of Web pages and corresponding cleaned text (manually extracted). As a consequence, the alignment between the source text and cleaned text, as well as block labeling, have to be recovered. Some methods (」（https://arxiv.org/html/1801.02607v3）
+  - 「) rely on expensive manual block annotations. One of our contributions is the following automatic recovery procedure of the aligned (block, label) pairs from the original (Web page, clean text) pairs. This allows us to leverage more training data compared to previous methods.」（https://arxiv.org/html/1801.02607v3）
+  - 「We first linearly scan the cleaned text of a Web page using windows of 10 consecutive characters. Each such snippet is checked for uniqueness in the original Web page (after spaces trimming). If such a unique match is found, then it can be used to divide both the cleaned text and the original Web page in two parts on which the same matching method can be applied recursively in a」（https://arxiv.org/html/1801.02607v3）
+  - 「9-text-block long Web page excerpts. We perform early stopping, observing no improvements after this number of steps. We then pick the model corresponding to the lowest error on the validation set.」（https://arxiv.org/html/1801.02607v3）
+  - 「We compare Web2Text to a range of methods described in the literature or deployed in popular libraries. BTE」（https://arxiv.org/html/1801.02607v3）
+  - 「are heuristic methods.」（https://arxiv.org/html/1801.02607v3）
 - 突き合わせ・推定：
   - 「ただし、この研究では多言語抽出を検証していません」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
   - 「失敗のしかたはページ形状によって変わるので、選んだ既定値は自分のコーパスで検証してください」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
@@ -6236,22 +6236,24 @@
   - 「extraction profile tuning, the held-out test set was never used during development and provides an unbiased」（https://arxiv.org/pdf/2605.21097）
   - 「systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like」（https://arxiv.org/pdf/2605.21097）
 - 実例：
+  - 「extend this approach by reformulating the classification problem as a case of sequence labeling where all blocks are jointly tagged. They use conditional random fields to take advantage of correlations between the labels of neighboring content blocks. This method was the most successful in the CleanEval competition」（https://arxiv.org/html/1801.02607v3）
+  - 「Collapsed DOM procedure example.」（https://arxiv.org/html/1801.02607v3）
+  - 「nodes) as the blocks of our sequence. A potential disadvantage of this approach is that a hyperlink in a text paragraph can receive a different label than its neighboring text. Under this scheme, an empirical evaluation of Web2Text shows no cases where parts of a textual paragraph are wrongly labeled as」（https://arxiv.org/html/1801.02607v3）
+  - 「We assign unary potentials to each text block to be labeled and pairwise potentials to each pair of neighboring text blocks. In our case, potentials are probabilities as explained below. The unary potentials」（https://arxiv.org/html/1801.02607v3）
+  - 「fashion. After all unique snippets are processed, we use dynamic programming to align the remaining splitted parts of the clean text with the corresponding splitted parts of the original Web page blocks. In the end, in the rare case that the content of a block is only partially matched with the cleaned text, we mark it as」（https://arxiv.org/html/1801.02607v3）
+  - 「this approach by reformulating the classiﬁcation problem as a case of sequence」（https://health-nlp.com/files/pubs/ecir18a.pdf）
+  - 「an empirical evaluation shows no cases where parts of a paragraph are wrongly」（https://health-nlp.com/files/pubs/ecir18a.pdf）
+  - 「combination thereof. Examples are the number of characters in the node, number」（https://health-nlp.com/files/pubs/ecir18a.pdf）
+  - 「examples use the following binary features:」（https://health-nlp.com/files/pubs/ecir18a.pdf）
   - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
   - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
   - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
   - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
   - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-  - 「最長の段落が151文字の文書でスイープした結果がこちらです」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
-  - 「どれも「ページには主となる散文が1つある」という前提で作られており、商品一覧、検索結果ページ、ダッシュボードはその前提を崩します」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
-  - 「リストだけの記事、短い段落、プロモーションの兄弟要素、ほぼ空のページ、そして「何も返さないほうがまし」なケースを含めます」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
-  - 「記事ではないページ――商品一覧、検索結果、ダッシュボード――も未対象です」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
-  - 「結果は 1 回の呼び出しで」（https://thunderbit.com/ja/blog/trafilatura-review）
 - 検索結果の抜粋：
+  - 「WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · The dominant approach treats extraction as a single task: given an HTML document, identify and return the main content while discarding navigation menus, advertisements, sidebars, cookie banners, footers, and other boilerplate elements.」（https://arxiv.org/pdf/2605.21097）
+  - 「GitHub - Murrough-Foley/web-content-extraction-benchmark ... — Jan 12, 2026 · Unlike existing benchmarks that focus exclusively on news articles, WCXB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
   - 「WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · Abstract Web content extraction — isolating a page's main content from surrounding boilerplate — is a prerequisite for search indexing, retrieval-augmented generation, NLP dataset construction, and large language model training. Progress in this area has been constrained by the limitations of existing evaluation benchmarks, which」（https://arxiv.org/pdf/2605.21097）
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
@@ -9478,9 +9480,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -11161,8 +11163,8 @@
 
 ## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
