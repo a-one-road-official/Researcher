@@ -106,6 +106,13 @@ CONTEXT = [("体積・重さ・時間あたりの単価", re.compile(r"(c㎥|cm3
 # 2026-11-05 4-11：会社の見通し・計画・目標の数字は、年が過去でも予測扱い（有報の将来見通しの注意書きと同じ扱い）
 OUTLOOK = re.compile(r"(見込み|見込む|見通し|計画|予定|目標|目指す|予想|予測|forecast|expected to|target)", re.I)
 
+# 2026-11-08 4-90：欄の種類ごとの基準の出どころ（指標ごとに1つ決め、他をそれと比べる）。人数は日本年金機構の被保険者数（4-85）、
+# 事業所数・統計の金額・1人あたりは所管の統計（4-41）、売上は決算公告・開示（4-85）
+BENCH = [("社員数", ("日本年金機構の適用事業所検索・開示の従業員数", re.compile(r"(nenkin\.go\.jp|disclosure|edinet|/ir/)", re.I))),
+         ("事業所数", ("所管の統計表（経産省・総務省・e-Stat）", re.compile(r"(meti\.go\.jp|stat\.go\.jp|e-stat\.go\.jp|soumu\.go\.jp)", re.I))),
+         ("1人あたり", ("所管の統計表（経産省・総務省・e-Stat）", re.compile(r"(meti\.go\.jp|stat\.go\.jp|e-stat\.go\.jp|soumu\.go\.jp|chusho\.meti)", re.I))),
+         ("売上", ("決算公告・開示（官報・電子公告・EDINET）", re.compile(r"(kanpo|kessan|koukoku|edinet|disclosure)", re.I)))]
+
 def context_of(q):
     for name, rx in CONTEXT:
         if rx.search(q): return name
@@ -1181,6 +1188,13 @@ def scan(topic):
     # 2026-11-05 4-19：出どころの記録（URL・取得日）が欠けた数字を数える。0件でなければ HEALTH と同じく直す対象
     nprov = sum(1 for r in rows if not r["URL"] or not r["取得日"])
     md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）"]
+    # 2026-11-08 4-90（SCB・米国センサス局「Response rates in business surveys」：件数の回答率は、少数の大きな先が総額を占める調査では質を映さない。
+    # 量で見た率（総額のうち回答・同等の出どころで埋まった割合）を並べる）。ここでは引用の件数で見た一次の割合と、品目で見た一次の割合を並べ、
+    # 一次の引用が少数の品目に偏っていないかを見る
+    _it_all = {r["品目"] for r in rows}; _it_p = {r["品目"] for r in rows if r["一次"] == "一次"}
+    _np = sum(1 for r in rows if r["一次"] == "一次")
+    md += [f"- 一次の割合（4-90）：引用の件数で {_np}/{len(rows)}（{_np / len(rows):.0%}）／品目で {len(_it_p)}/{len(_it_all)}（{len(_it_p) / len(_it_all):.0%}）"
+           + ("。⚠ 品目で見た割合が件数の半分未満：一次は少数の品目に偏る。一次の無い品目の結論は【未確認】のまま" if _np and len(_it_p) / len(_it_all) < 0.5 * _np / len(rows) else "")]
     # 2026-11-05 4-21：機械で決めきれず人（Claude の走査）の確認が要る件数（Data Ladder：保留の件数を品質の指標にする）。文脈不明か年が無い数字
     nhold = sum(1 for r in rows if r["文脈"] == "不明" or not r["年"])
     md += [f"- 桁の感覚の外れで外した人数（1,000万人超・4-31）：{OUTLIERS.get(topic, 0)}件"]
@@ -1666,6 +1680,30 @@ def scan(topic):
             pmid = statistics.median([v for v in vals if v > 0] or [0])
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
+            # 2026-11-08 4-90（Grokipedia「Marketing data reconciliation」：指標ごとに基準の出どころを1つ決めて他をそれと比べる。
+            # 許容の幅は指標の種類で変え、金額は小さい差、件数・成果は大きめの差が普通）。欄の種類ごとの基準の出どころから値が1件も無ければ印す
+            _bk = next((b for p, b in BENCH if cat.startswith(p)), None)
+            if _bk and not any(_bk[1].search(r["URL"]) for r in g):
+                md.append(f"  - 基準の出どころ0件（4-90）：この欄の基準は{_bk[0]}。基準で取り直すまで、他の出どころの一致を水準の確定にしない")
+            _ph = {}
+            for r in prim:
+                if r["値"] > 0: _ph.setdefault(src_key(r), []).append(r["値"])
+            if ctx in ("売上・決算", "統計の総額") and len(_ph) >= 2:
+                _pv = sorted(statistics.median(v) for v in _ph.values())
+                if _pv[0] > 0 and 1.1 < _pv[-1] / _pv[0] <= 3:
+                    md.append(f"  - ⚠ 一次どうしの金額が{_pv[-1] / _pv[0]:.2f}倍ずれる（4-90）：届出・統計の金額は普通は小さい差しか出ない。1割を超えるずれは定義（単体・連結、税込み・抜き、事業所・企業）か時点の違いを先に疑う")
+            # 2026-11-08 4-90（ONS「GDP revisions in Blue Book」：直しの大きさは最初の値の大きさと並べて読む＝相対の平均絶対改訂）。
+            # 同じ年に速報と確報・改定が両方ある欄で、直しの割合と、隣の年との変化の割合を並べる。直しが変化以上なら速報の向きは使えない
+            _rv = []
+            for y in sorted(fin_years):
+                if not y: continue
+                _s = [r["値"] for r in g if r["年"] == y and r.get("版") == "速報" and r["値"] > 0]
+                _f = [r["値"] for r in g if r["年"] == y and r.get("版") in ("確報", "改定") and r["値"] > 0]
+                if _s and _f: _rv.append((int(y), statistics.median(_f) / statistics.median(_s) - 1))
+            for y, rv in _rv[:3]:
+                _prev = med.get(y - 1)
+                _chg = (med[y] / _prev - 1) if _prev and med.get(y) else None
+                md.append(f"  - 速報→確報の直し（4-90）：{y}年 {rv:+.1%}" + (f"／前年からの変化 {_chg:+.1%}" + ("。⚠ 直しが変化以上：速報の値で向きを書かない" if abs(rv) >= abs(_chg) else "") if _chg is not None else ""))
             fse = {}
             for r in g: fse[fse_of(r)] = fse.get(fse_of(r), 0) + 1
             # 2026-11-07 4-68（HR Fraternity「conflicting market research」：方法・標本数・利害を開示しない推計は注意して扱う）。
