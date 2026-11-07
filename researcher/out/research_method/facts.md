@@ -1039,6 +1039,13 @@
 - 文脈：凄腕・推定
 - 手順・やり方：
   - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「A. 企業情報や業界情報はさまざまな方法で収集できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「『全国大型小売店総覧』（週刊東洋経済. 臨時増刊）東洋経済新報社（年刊）」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「（1）データベースへアクセスする方法」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「非上場企業の企業情報や財務情報は、以下の方法で確認できる場合があります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1046,13 +1053,6 @@
   - 「数字ひとつで決めず、組み合わせて“桁”で捉えるのがコツです」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告は英語で何という?公式訳と関連用語の使い方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「How To Estimate A Private Company's Revenue (2026)」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
-  - 「How to Estimate a Private Company’s Revenue: A Practical Guide」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
-  - 「How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
@@ -1070,21 +1070,21 @@
   - 「８．固定資産を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
 - 一次情報の探し方：
-  - 「本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「Export to PowerPoint, Google Slides or PDF · No watermark on free tier」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「この2つは目的も採用側の見方も根本的に異なります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
-  - 「ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「号外の「会社決算公告」で財務情報や倒産情報が掲載されることが」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「『世界自動車統計年報』日本自動車工業会（年刊） ※2019 で刊行終了」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「また、関連する統計情報とその出典が明記されています」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「業種別社数、業種別資本金規模などの統計データも収録されています」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「市場シェアや関連団体の情報などは、業界団体が出版している年鑑や年報類に掲載されています」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「日本国内の有価証券報告書のデータベースです」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「「企業情報」機能で最近の決算データや企業プロファイルを見ることができ」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「北米地域の企業の古い営業報告書（1844-2008 年）のデータを PDF で」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「有価証券報告書（「有報」と略します）は、上場企業および一部非上場企業が金融庁への提出を義務付け」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「企業のホームページ上で「IR 情報」や「決算報告」などとして公開されている場合があります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「企業の決算情報は官報の号外・会社決算公告に掲載されることがあります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「図書館にある原紙の官報のほか、データベースでも閲覧できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「・「官報」（無料一般公開版）（PDF）https://www.kanpo.go.jp/」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「令和 7 年 4 月 1 日以降の官報情報（本紙、号外、政府調達等）を無料で閲覧できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
+  - 「その他 収録内容：平成 15 年 7 月 15 日以降の法律、政令等の官報情報」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
 - 失敗・落とし穴：
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
@@ -1103,6 +1103,8 @@
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「例えば業種別の「通信業」では、」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1115,8 +1117,6 @@
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 - 検索結果の抜粋：
   - 「How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl」（https://derrick-app.com/business-data/find-revenue）
 
@@ -5762,24 +5762,33 @@
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「How to Obtain Your Amateur Radio License」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Communications & Emissions Training Framework」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「How to Conduct a Daily Threat Analysis Using OSINT」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「How To Begin Prepping」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「The rules that govern every Fortune Favors the Prepared analytical product, and a plain-language explainer of the intelligence-community frameworks they rest on. Operational discipline, anti-bias discipline, and tradecraft standards — what they are, and why they hold.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「This document does two things. First, it explains the discipline in plain language — what analytic tradecraft is, and what the intelligence-community frameworks behind it actually say. Second, it records the FFTP house rules in three groups:」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a summary of the news. It is concerned less with what an analyst concludes than with」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「are the structured methods an analyst uses to meet those standards — competing-hypotheses analysis, key-assumptions checks, indicators and warning, and others. Standards tell you what good looks like. Techniques are how you get there. The rest of this page walks through both, and then sets out the FFTP house rules that extend them.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「The Primer catalogs the named, repeatable methods analysts use to meet the standards in ICD 203.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Structured analytic techniques are step-by-step methods that externalize and discipline reasoning. They make thinking visible — to the analyst, to a reviewer, and to the reader — and they create friction against cognitive bias. They are usually grouped by what they do.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「The analyst defines, in advance, observable events that would signal a situation is moving toward one outcome rather than another. Pre-defined indicators guard against rationalizing new information into an existing view, and they turn a static judgment into a monitoring framework.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「The frameworks above were designed for classified intelligence consumers. The FFTP product is designed for the household practitioner. Both audiences deserve rigorous analytical product; the rules below adjust the discipline to the audience. The first two groups govern how analysis is」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「— a practitioner catalog of the methods summarized here.」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce,」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce, Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community. Santa Monica, CA: RAND Corporation, 2016. https://www.rand.org/pubs/research_reports/RR1408.html.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Intelligence Analysis in Theater Joint Intelligence Centers: An Experiment in Applying Structured Methods」（https://www.hsdl.org/document/20945）
-  - 「, familiarity with these techniques will help you make sense of incomplete or contradictory information, generate hypotheses, and manage uncertainty. This guide will go through why structured analytic techniques are important for intelligence analysts, how to select SATs that are useful for you, and some resources on SATs, many of which are free.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Source Verification Framework」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Procedure (10–15 assumption step):」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 突き合わせ・推定：
   - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+- 一次情報の探し方：
+  - 「Every cycle requires a fresh read of primary sources before claims that depend on them. The cited timestamp is explicit in the sweep manifest. No carryover claims without re-verification. Authoritative sources (SPC, CISA KEV, WASDE, SWPC, USDA, EIA, IEA, BLS, Federal Reserve, FDA) are read at source rather than via aggregator.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Primary Sources & Further Reading」（https://fortunefavorstheprepared.com/analytical-standards/）
 - 失敗・落とし穴：
+  - 「The rules that govern every Fortune Favors the Prepared analytical product, and a plain-language explainer of the intelligence-community frameworks they rest on. Operational discipline, anti-bias discipline, and tradecraft standards — what they are, and why they hold.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Fortune Favors the Prepared analytical products follow a defined set of operational, anti-bias, and tradecraft rules. The standards on this page govern every published product. They are not aspirational. The pre-delivery verification stack enforces them, the operator reviews them, and the reader can evaluate compliance directly from the product.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Structured analytic techniques are step-by-step methods that externalize and discipline reasoning. They make thinking visible — to the analyst, to a reviewer, and to the reader — and they create friction against cognitive bias. They are usually grouped by what they do.」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「The central insight is a reversal. Intuitive analysis tends to start with the most plausible explanation and then look for evidence that supports it — a process wide open to confirmation bias. ACH inverts this. Instead of asking which hypothesis has the most evidence」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「FFTP House Rules — Operational and Anti-Bias Discipline」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「Anti-Bias Discipline: Source-Symmetric Skepticism」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「. SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
@@ -5789,13 +5798,8 @@
   - 「Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「Familiarising yourself with your own cognitive biases and critically evaluating your sources.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「, making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「§ Confirmation Bias and」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
-  - 「Hypothesis-set selection bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 実例：
+  - 「An analyst deliberately builds the strongest possible case against the prevailing judgment — not to be contrarian for its own sake, but to expose weak evidence and untested assumptions in the consensus view.」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
@@ -5808,7 +5812,6 @@
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
 - 検索結果の抜粋：
   - 「Structured Analytic Techniques Primer | PDF | Intelligence ...A Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their analysis. It introduces techniques to challenge as」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
@@ -7108,11 +7111,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -8535,11 +8538,11 @@
   - 「そのうえで、私が現場でよく見る失敗を挙げておきます」（https://timewell.jp/columns/market-sizing-tam-sam-som）
   - 「(3) 二重計上、桁間違い、購入頻度の掛け忘れの疑い」（https://timewell.jp/columns/market-sizing-tam-sam-som）
   - 「個人情報保護委員会の注意喚起（令和5年6月2日）に沿った実務仕様で、入力してはいけない情報や出力の取扱いを条文化」（https://timewell.jp/columns/market-sizing-tam-sam-som）
-  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「もう一つの落とし穴は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=98e5c3101aaf1482aec4762f791c7ffe）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=98e5c3101aaf1482aec4762f791c7ffe）
+  - 「主な原因は誤りではなく、定義です」（https://dataimpulse.com/ja-jp/blog/market-research-data-sources/）
+  - 「ある市場から集めた件数を世界全体の数値として示すことは、この手法が避けるために存在するまさにその誤りであるため、これは重要です」（https://dataimpulse.com/ja-jp/blog/market-research-data-sources/）
+  - 「次に業界団体ですが、会員が一部に限られると総額が下方に偏るという注意点があります」（https://dataimpulse.com/ja-jp/blog/market-research-data-sources/）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
@@ -8679,30 +8682,30 @@
   - 「本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「3. 【要注意】公告義務がない会社もある？」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
+  - 「【注意点】 5年間掲載し続ける義務？電子公告の期間とサーバー選びの注意点」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「Q6: 決算公告を行う際の注意点は何ですか？」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「決算公告を行う際には、以下の点に注意が必要です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「以下のとおり手続きを行う必要がありますので注意しましょう」（https://www.kigyou-houmu.com/secret-4/）
-  - 「また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です」（https://keiridriven.mjs.co.jp/171979/）
-  - 「官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう」（https://keiridriven.mjs.co.jp/171979/）
 - 実例：
   - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
   - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
+  - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「一方で大会社に該当しないケースでは、貸借対照表のみの公告となります（同上）」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「決算公告の義務や例外的に不要となるケースについて説明します」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「定款の規定がないケースでは、官報による公告を行います（同法第939条4項）」（https://biz.moneyforward.com/erp/basic/2193/）
+  - 「【罰則】 決算公告を怠るとどうなる？過料（100万円以下）のリスクと実例」（https://secure.kakaro.jp/kessan-koukoku-law-guide/）
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「株式会社の決算公告義務とは？幸田町・岡崎市・蒲郡市の事例を詳しく解説｜神谷佳希｜人生について考え続け、その歩みに寄り添う人」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「株式会社の決算公告義務とは？幸田町・岡崎市・蒲郡市の事例を詳しく解説」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「特に、幸田町・岡崎市・蒲郡市など地域密着型の中小企業においては、この義務に対する認識不足や手続きの煩雑さが原因で、公告を怠ってしまうケースも少なくありません」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「これらの企業の中には、決算公告の必要性を十分に認識していなかったり、手続きの詳細が分からないために対応が後回しになるケースがあります」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「：特に非公開会社や中小企業では、決算公告の必要性が十分に理解されていないケースが多いと考えられます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「Q3: 実際に過料が科された事例はありますか？」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「実務上、決算公告を行わなかったことに対して過料が科された事例は非常に稀です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「例えば、コストを重視する企業には電子公告の活用を提案し、その手続きも代行可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「例えば、地元での公告手段の選択や、商工会議所との連携など、地域性を考慮したアプローチが可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「例えば、地元紙への公告を検討する場合や、商工会議所との連携を図る際に、有用な情報を提供してくれます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
-  - 「例えば、電子公告を選択する場合、官報や新聞公告に比べて費用を抑えることができます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告はいつまでに｜方法の選択と電子公告決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ... — Oct 17, 2026 · 株式会社は、定時株主総会の終結後、遅滞なく貸借対照表（大会社は損益計算書も）を公告する義務があります。官報や日刊新聞紙で公告する場合は要旨で足り、ホームページに5年間掲載する方法も選べます。公告の内容、公告方法の定め、怠った場合の100万円以下の過料を会社法の条文で ...」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
@@ -8711,6 +8714,8 @@
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告はいつまでに｜方法の選択と電子公告日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告 - Wikipedia決算公告はいつまでに｜方法の選択と電子公告 — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法令によって義務づけられている」（https://www.kigyou-houmu.com/secret-4/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しか」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否に...決算公告 - Wikipedia — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決算公告は法」（https://www.kigyou-houmu.com/secret-4/）
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務｜株式会社が定時株主総会のあとに公告する内容と方法 ...決算公告はいつまでに｜方法の選択と電子公告会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 しかし、決」（https://www.kigyou-houmu.com/secret-4/）
 
 ## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
 - 文脈：裏取り
@@ -10511,7 +10516,7 @@
   - 「Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had」（https://blog.getaura.ai/headcount-data）
   - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
   - 「Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US)," “Acme Corp UK," “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.」（https://blog.getaura.ai/headcount-data）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ

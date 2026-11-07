@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T09:59:34.994576+00:00",
+ "researched_at": "2026-11-07T14:44:54.015824+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,17 +24,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/miiichii/n/nec5d67c0ed4c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/tsukurugawa/n/n456538c94e06",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/misaki_ai_work/n/nb9f874144146",
     "status": "ok",
     "method": "http"
    },
@@ -44,12 +34,27 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/miiichii/n/nec5d67c0ed4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trex_ai/n/n07754c86c926",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/ano_insight/n/na9f7f797af18",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsubasatada/n/nb40bd358d2bf",
+    "url": "https://note.com/jrdoctor/n/n58cc583542d7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aiarchaeologist/n/nca3a9342737f",
     "status": "ok",
     "method": "http"
    },
@@ -59,9 +64,9 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hi_yutaha/n/nb3b37f41b48e",
+    "url": "https://lab.ludashi.com/evaluation/article/59",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/lively_swan2582/n/n915bf36ed75c",
@@ -69,17 +74,12 @@
     "method": "http"
    },
    {
-    "url": "https://lab.ludashi.com/evaluation/article/59",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.pangram.com/ja/blog/how-does-ai-detection-work",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vLjlNk2DJPfnqnONpHZGoVcbvzIdi54j887QHhOHIDBKsBS4RFt",
+    "url": "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vIHLZacfjXB8AcLW8iz8SVfM1_yPMEK-CmgmMUsBLSrnFVO7d0c",
     "status": "ok",
     "method": "browser"
    },
@@ -94,13 +94,13 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/masayamori/n/na0e691da56b8",
-    "status": "ok",
+    "url": "https://www.issoh.co.jp/column/details/2319/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.issoh.co.jp/column/details/2319/",
-    "status": "http_403",
+    "url": "https://note.com/masayamori/n/na0e691da56b8",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -119,12 +119,12 @@
     "method": "http"
    },
    {
-    "url": "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vJZGxum036-IBiQ-WGHLNWWDu4fhMsQTG-qh_d1g3F82c6LEoNy",
+    "url": "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vL26qbnxt9TLUD6D3qaIk9PP_3SOuAxJSLpOOWZb5UjvrNmkWwh",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://ascii.jp/elem/000/004/430/4430133/",
+    "url": "https://gri.jp/media/entry/37209",
     "status": "ok",
     "method": "http"
    },
@@ -134,7 +134,7 @@
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2606.29270v1",
+    "url": "https://arxiv.org/html/2610.14029",
     "status": "ok",
     "method": "http"
    },
@@ -144,12 +144,7 @@
     "method": "http"
    },
    {
-    "url": "https://manuelgarcia.info/guides/research/guide/majority-voting-multiple-ai-models",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.eac.gov/sites/default/files/document_library/files/Voluntary_Voting_System_Guidelines_Version_2_0.pdf",
+    "url": "https://www.eac.gov/sites/default/files/TestingCertification/Voluntary_Voting_System_Guidelines_Version_2_0.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -162,6 +157,11 @@
     "url": "https://arxiv.org/pdf/2608.04415",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.congress.gov/118/chrg/CHRG-118hhrg58784/generated/CHRG-118hhrg58784.htm",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -171,28 +171,26 @@
    "results": [
     "https://note.com/jack4manastalk/n/n23f349d009fb",
     "https://note.com/digital_otasuke/n/n7cd10f3d02f8",
-    "https://note.com/miiichii/n/nec5d67c0ed4c",
     "https://note.com/tsukurugawa/n/n456538c94e06",
-    "https://note.com/misaki_ai_work/n/nb9f874144146",
     "https://note.com/kento_iida/n/nc143a51e8682",
-    "https://note.com/ict_english_cat/n/n455693cd4d84",
-    "https://note.com/kamo6798/n/n298dace691c4",
-    "https://note.com/dreamy_chives898/n/n962e383e1941",
-    "https://note.com/ram2/n/n59fc4ec1d7b6"
+    "https://note.com/miiichii/n/nec5d67c0ed4c",
+    "https://note.com/trex_ai/n/n07754c86c926",
+    "https://note.com/misaki_ai_work/n/nb9f874144146",
+    "https://note.com/nakaba_ai/n/n144f953b8a7e"
    ]
   },
   {
    "query": "複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け note",
    "results": [
     "https://note.com/ano_insight/n/na9f7f797af18",
-    "https://note.com/tsubasatada/n/nb40bd358d2bf",
-    "https://qiita.com/engchina/items/e0049b71d34a6c53d3d5",
-    "https://note.com/hi_yutaha/n/nb3b37f41b48e",
-    "https://note.com/lively_swan2582/n/n915bf36ed75c",
-    "https://lab.ludashi.com/evaluation/article/59",
+    "https://note.com/jrdoctor/n/n58cc583542d7",
     "https://note.com/aiarchaeologist/n/nca3a9342737f",
+    "https://qiita.com/engchina/items/e0049b71d34a6c53d3d5",
+    "https://lab.ludashi.com/evaluation/article/59",
+    "https://note.com/lively_swan2582/n/n915bf36ed75c",
+    "https://note.com/tsubasatada/n/nb40bd358d2bf",
     "https://ai-compass.weeybrid.co.jp/learning/ensemble-learning-boosting-prediction-accuracy-2/",
-    "https://aismiley.co.jp/ai_news/nomura-multi-view-analysis/",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
     "https://x3d.jp/knowledge/aix-lab/ai-bias-sabetsu-taiou"
    ]
   },
@@ -201,13 +199,14 @@
    "results": [
     "https://www.pangram.com/ja/blog/how-does-ai-detection-work",
     "https://qiita.com/engchina/items/e0049b71d34a6c53d3d5",
-    "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vLjlNk2DJPfnqnONpHZGoVcbvzIdi54j887QHhOHIDBKsBS4RFt",
+    "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vIHLZacfjXB8AcLW8iz8SVfM1_yPMEK-CmgmMUsBLSrnFVO7d0c",
     "https://lab.ludashi.com/evaluation/article/59",
     "https://www.brains-tech.co.jp/impulse/blog/anomaly-detection-basics/",
     "https://techsword.co.jp/column/how-to-evaluate-ai",
-    "https://note.com/masayamori/n/na0e691da56b8",
     "https://www.issoh.co.jp/column/details/2319/",
-    "https://dev.classmethod.jp/articles/fact-check-for-ai/"
+    "https://note.com/masayamori/n/na0e691da56b8",
+    "https://dev.classmethod.jp/articles/fact-check-for-ai/",
+    "https://x3d.jp/knowledge/aix-lab/ai-bias-sabetsu-taiou"
    ]
   },
   {
@@ -219,24 +218,24 @@
     "https://www.joho-gakushu.or.jp/ai-advisor/sample.php",
     "https://note.com/masayamori/n/na0e691da56b8",
     "https://www.uis-inf.co.jp/products/dins/column/column_success.html",
-    "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vJZGxum036-IBiQ-WGHLNWWDu4fhMsQTG-qh_d1g3F82c6LEoNy",
+    "https://zero2one.jp/ai-word/how-to-deal-with-data/?srsltid=AYCX9vL26qbnxt9TLUD6D3qaIk9PP_3SOuAxJSLpOOWZb5UjvrNmkWwh",
+    "https://gri.jp/media/entry/37209",
     "https://techsword.co.jp/column/how-to-evaluate-ai",
-    "https://ascii.jp/elem/000/004/430/4430133/",
     "https://x3d.jp/knowledge/aix-lab/ai-bias-sabetsu-taiou"
    ]
   },
   {
    "query": "multi-source cross-check shared bias role swap majority voting vs any-alarm rule",
    "results": [
-    "https://arxiv.org/html/2606.29270v1",
+    "https://arxiv.org/html/2610.14029",
     "https://www.nature.com/articles/s41746-026-03443-2",
-    "https://manuelgarcia.info/guides/research/guide/majority-voting-multiple-ai-models",
-    "https://www.eac.gov/sites/default/files/document_library/files/Voluntary_Voting_System_Guidelines_Version_2_0.pdf",
+    "https://www.eac.gov/sites/default/files/TestingCertification/Voluntary_Voting_System_Guidelines_Version_2_0.pdf",
     "https://aclanthology.org/events/aacl-2026/",
     "https://arxiv.org/pdf/2608.04415",
     "https://congress.gov/118/chrg/CHRG-118hhrg58784/generated/CHRG-118hhrg58784.htm",
-    "https://www.federalregister.gov/documents/2024/05/22/2024-10674/safeguarding-and-securing-the-open-internet-restoring-internet-freedom",
     "https://www.brennancenter.org/media/325/download",
+    "https://www.govinfo.gov/content/pkg/CRECB-2008-pt16/html/CRECB-2008-pt16-issue-2008-09-25.htm",
+    "https://www.financialresearch.gov/working-papers/files/OFRwp0001_BisiasFloodLoValavanis_ASurveyOfSystemicRiskAnalytics.pdf",
     "https://www.sec.gov/Archives/edgar/data/1718728/000119312526376166/ck0001718728-20260831.htm"
    ]
   },
@@ -245,23 +244,23 @@
    "results": [
     "https://note.com/deltaailog/n/nc1bf0862757b",
     "https://note.com/digital_otasuke/n/n7cd10f3d02f8",
-    "https://note.com/kento_iida/n/nc143a51e8682",
     "https://note.com/tsukurugawa/n/n456538c94e06",
+    "https://note.com/kento_iida/n/nc143a51e8682",
     "https://note.com/fresh_quoll8905/n/n6911aacd9239",
-    "https://note.com/miiichii/n/nec5d67c0ed4c",
+    "https://note.com/nakaba_ai/n/n144f953b8a7e",
     "https://note.com/ict_english_cat/n/n455693cd4d84"
    ]
   },
   {
    "query": "site:x.com 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け",
    "results": [
-    "https://x.com/gembashift_jp/status/2117225255714644094",
     "https://x.com/itarutomy/status/2116032353642721685",
+    "https://x.com/gembashift_jp/status/2117225255714644094",
     "https://x.com/noa_reverseage/status/2114732115376119935",
     "https://x.com/fujitech_ai/status/2067908253070340459",
+    "https://x.com/ai_database/status/2105921480542544278",
     "https://x.com/cattleya_lab/status/2117815185360707677",
-    "https://x.com/KosukeMasui/status/2089128823153381515",
-    "https://x.com/i/status/2115692105498566933"
+    "https://x.com/KosukeMasui/status/2089128823153381515"
    ]
   },
   {
@@ -269,30 +268,30 @@
    "results": [
     "https://www.linkedin.com/pulse/足りないのはプロンプトではなくオンボーディングでしたaiの文章が同じ顔になる理由-駿介-原-dtgmc/",
     "https://jp.linkedin.com/pulse/hidden-bias-ai-what-recent-studies-reveal-why-matters-dinesh-racha-koigc?tl=ja",
-    "https://jp.linkedin.com/pulse/pioneering-path-unbiased-ai-insights-from-ntt-research-chris-shaw-s9q5c?tl=ja",
     "https://jp.linkedin.com/pulse/crucial-role-data-cleansing-balanced-training-building-pareek-6cvbc?tl=ja",
+    "https://jp.linkedin.com/pulse/pioneering-path-unbiased-ai-insights-from-ntt-research-chris-shaw-s9q5c?tl=ja",
     "https://jp.linkedin.com/posts/sakana-ai_sakana-aiは防衛装備庁-防衛イノベーション科学技術研究所より複数ai技術-activity-7438027514436022272-1fUy",
-    "https://jp.linkedin.com/pulse/how-can-we-build-unbiased-ai-overcoming-illusion-objectivity-2tunf?tl=ja",
-    "https://jp.linkedin.com/pulse/your-ai-feature-isnt-neutral-how-product-decisions-bias-okpala-phd-rbzae?tl=ja"
+    "https://jp.linkedin.com/pulse/your-ai-feature-isnt-neutral-how-product-decisions-bias-okpala-phd-rbzae?tl=ja",
+    "https://jp.linkedin.com/pulse/how-can-we-build-unbiased-ai-overcoming-illusion-objectivity-2tunf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け",
    "results": [
-    "https://www.facebook.com/IBMJapan/videos/blogart_lunarfm_4x5_1920mp4/961755793633088/",
     "https://www.facebook.com/PolyWorks-Japan株式会社-539727276375964/videos/ピース変更の反映/399754907594931/",
+    "https://www.facebook.com/IBMJapan/videos/blogart_lunarfm_4x5_1920mp4/961755793633088/",
     "https://www.facebook.com/100048889824064/posts/youtubeとか見ていてaiのナレーションが方を-ほうと読むのが大嫌いで気になってしょうがないのでchatgptきいてみたとても良いご指摘です方という漢字は文/1231068861866096/",
+    "https://www.facebook.com/microsoftjp/videos/これからの-ai-活用で意識したいデバイスの-aiのポイントai-時代を見据えたデバイスを使っていますかこれから-ai-を活用していく上で重要となるデバイス選び/946498048181193/",
     "https://www.facebook.com/KAKEAI/videos/人のことだけ見えない/1617116300074951/",
-    "https://www.facebook.com/masumi.ishiitoyama/videos/aiすら間違えた臣の書き順正しく書ける周りから囲んで書いたリズムに合わせてみんなも指で画面をなぞってみてね最後の副大臣もお見逃しなく漢字-書き順-小学生ママ-家/2411375186345741/",
-    "https://www.facebook.com/adobeacrobat/videos/資料の分析からアイデア化までaiで/1198051135785044/",
-    "https://www.facebook.com/wstandardjournal/videos/wsj_07228_ai覇権_書き出しmp4/1020584740950732/"
+    "https://www.facebook.com/hidezero/videos/手作業をaiに任せる7つのコツ毎日の作業を全部自分で抱えるよりaiに任せやすい部分だけ切り分けると進めやすくなります大切なのは用途に合わせて使うaiを変えること/1596240298646799/",
+    "https://www.facebook.com/61572787577677/videos/2030087381026059/"
    ]
   },
   {
    "query": "複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け note 社長",
    "results": [
-    "https://note.com/takumi_hidari/n/nfe668481a0cd",
     "https://note.com/ano_insight/n/na9f7f797af18",
+    "https://note.com/takumi_hidari/n/nfe668481a0cd",
     "https://note.com/tsubasatada/n/nb40bd358d2bf",
     "https://lab.ludashi.com/evaluation/article/54",
     "https://qiita.com/engchina/items/e0049b71d34a6c53d3d5",
@@ -310,26 +309,19 @@
     "https://qiita.com/engchina/items/e0049b71d34a6c53d3d5",
     "https://lab.ludashi.com/evaluation/article/59",
     "https://x.com/i/article/2109029643449934100",
-    "https://www.cc.u-tokyo.ac.jp/events/lectures/283/",
     "https://adv.tokyo-np.co.jp/prtimes/article199097/",
     "https://hackernoon.com/lang/ja/your-language-changes-who-ai-search-cites",
-    "https://business.ntt-east.co.jp/content/cloudsolution/column-668.html",
+    "https://www.cc.u-tokyo.ac.jp/events/lectures/283/",
+    "https://aismiley.co.jp/ai_news/nomura-multi-view-analysis/",
     "https://x3d.jp/knowledge/aix-lab/ai-bias-sabetsu-taiou",
-    "https://qiita.com/ABC-KeisukeKashio/items/da529b2191b6504e6c42"
+    "https://note.com/digital_otasuke/n/n7cd10f3d02f8"
    ]
   },
   {
    "query": "multi-source cross-check shared bias role swap majority voting vs any-alarm rule site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/kevinchristopher",
-    "https://pk.linkedin.com/in/naeem-khan95",
-    "https://www.linkedin.com/top-content/workplace-trends/understanding-workplace-bias/problems-with-majority-voting-in-biased-groups/",
-    "https://www.linkedin.com/posts/navdeep-singh-sidana_llmevaluation-mlops-activity-7495119056363110400-kpgj",
-    "https://in.linkedin.com/company/linkedin",
-    "https://in.linkedin.com/company/linkedin/jobs",
-    "https://ie.linkedin.com/company/linkedin",
-    "https://www.linkedin.com/pulse/beyond-majority-rule-inclusive-decision-making-models-ip0hf/",
-    "https://gb.linkedin.com/"
+    "https://pk.linkedin.com/in/naeem-khan95"
    ]
   }
  ],
@@ -341,6 +333,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-07T09:59:34.994576+00:00"
 }
