@@ -6,31 +6,31 @@
   - ［記事］2026-11-06「法人であれば、「単純回収が7年か8年か」より、「停電時に操業停止損失を減らせるか」「稟議資料で説明しやすいか」が重要」https://www.enegaeru.com/japan-battery-market-outlook-2026-2030
   - ［記事］2026-11-06「同社の受注残高は約49億ドルに達しており、その高い需要を示しています」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
   - ［記事］2026-11-06「蓄電池の購入判断は、補助の有無に加えて自家消費・売電の機会損失・維持費を確認します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
-- 顧客（金を払う側）（98件）：
+- 顧客（金を払う側）（78件）：
   - ［一次］2026-11-06「3. 導入拡大見通しの推計」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 国内の事業環境や市場動向を調査し、定置用蓄電システムの中長期的な導入拡大に向け」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 再エネの更なる導入拡大への貢献、EV普及も踏まえた定置用蓄電システムの役割、定置用蓄電システム」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 蓄電システムメーカー等の事業の予見性を高めるため、目標価格と共に今後の定置用蓄電システムの」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 顧客の顧客（発注元が求めること）（75件）：
+- 顧客の顧客（発注元が求めること）（65件）：
   - ［一次］2026-11-06「て提供されており、既築住宅向け蓄電システムは卸・商社、OEM/ODM生産、その他の3つの主要流通経路」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※ OEM：Original Equipment Manufacturer、ODM：Original Designed Manufacturerの略で、いずれも委託を受けた企業のブランドで生産を行うこと」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「電池への要求性能が異なることから、車載用とは別に定置用向けの電池」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「既築住宅における課題  適切な設置場所、配線ルートが確保できない場合、追加工事が必要  PVの有無、PCSリプレースの有無によって要求される設置工数や技術水準が変化するため、対応可能な事業者が限られる 内装への配慮、隠ぺい配線を好む需要家が多く、工数が増加」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 顧客の競合（奪いに来る側）（69件）：
+- 顧客の競合（奪いに来る側）（67件）：
   - ［一次］2026-11-06「 家庭用蓄電システムは、日本、ドイツ、豪州、米国CA州において比較的導入が拡大している」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「＜市場シェア＞2018年時点で家庭用市場の約20%を占める」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「＜市場シェア＞2018年時点で家庭用市場の約80％を占める」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「米国CA州における家庭用蓄電システムの価格水準」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 米国において最も市場シェアの高いTeslaのPowerwall（13.5kWh）は本体6,500USD、付属品（Gateway）」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 自社の競合（商社・代理店・仲介）（13件）：
+- 自社の競合（商社・代理店・仲介）（6件）：
   - ［一次］2026-11-06「て提供されており、既築住宅向け蓄電システムは卸・商社、OEM/ODM生産、その他の3つの主要流通経路」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「うち、「卸・商社」及び「OEM/ODM」流通がそれぞれ約30%」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※2次卸・商社へ販売する事例もある」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-  - ［記事］2026-11-06「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/2026gridstoragebatterybusinessfeasibilitysimulation2030marketforecast
-  - ［記事］2026-11-06「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030
-- 政治（法・予算・規制）（91件）：
+  - ［記事］2026-11-06「設備と必要工事の総額を150万円、別途の手数料を2万円、条件を満たして受け取る補助を20万円と仮定します」https://www.enegaeru.com/smartintroductionofhomeenergystoragesystems-zeh
+  - ［記事］2026-11-05「【メーカー・商社経営層必見】産業用太陽光・蓄電池販売革命：エネがえるBizで実現する10分ROI診断と市場シェア拡大戦略」https://www.enegaeru.com/biz-lib-strategyidea
+- 政治（法・予算・規制）（86件）：
   - ［一次］2026-11-06「1. 定置用蓄電システムの普及拡大に関する政府の取組」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「費補助金」の申請データに基づき、工事費を含む蓄電システム価格の相場を推計したところ、18.7万円」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「出所）SII「災害時に活用可能な家庭用蓄電システム導入促進事業費補助金」等データより三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
@@ -42,13 +42,13 @@
   - ［一次］2026-11-06「 2030年時点で蓄電システムから得られるユーザの利益を考慮の上、目標価格を設定してはどうか」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「国内家庭用蓄電システムの価格水準（2019年度）(1/2)」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「格の総額は14.0万円/kWh程度となった」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
-- 社会（人・担い手）（23件）：
+- 社会（人・担い手）（21件）：
   - ［一次］2026-11-06「関西蓄電池人材育成等コンソーシアムについて」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「同コンソーシアムでは、バッテリー人材の育成・確保に向けた人材育成プログラムの方向性及び2023年度」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「◼ 関西近辺においては、蓄電池関連の企業で、今後5年間で合計約1万人の雇用が見込まれており、産学官」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「が連携して、 2024年度よりバッテリー人材育成・確保の取組を本格的に実施していく」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
   - ［一次］2026-11-06「「バッテリー人材育成の方向性」(2023年3月)に関する主な進捗等」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/sankou6.pdf
-- 技術（新しい技術・実証）（88件）：
+- 技術（新しい技術・実証）（73件）：
   - ［一次］2026-11-06「https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_003_04_00.pdf より三菱総研作成」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「 本回を含む計４回の検討会の結果は、2月開催予定の再生可能エネルギー大量導入・次世代電力ネット」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf
   - ［一次］2026-11-06「※3：「その他」には製造・検査費用や開発費用等が含まれているが、工事費は含まれない」https://www.meti.go.jp/shingikai/energy_environment/storage_system/pdf/004_04_00.pdf

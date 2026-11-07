@@ -208,6 +208,10 @@ def parse_sheet(year: int, sheet: str, rows: list[list[str]]) -> list[dict]:
         size, skip = "", -1
         # 左端の欄が番号だけの数字（"2464" や "2464.0"）で、名前が隣のセルにある表
         lead = next((i for i, x in enumerate(r) if x), -1)
+        # 2026-11-07 4-73（Quartz「bad data guide」：表計算は番号を数字とみなして先頭の0を落とす）。製造業の食料品は 09xx なので、
+        # 数字のセルに入った番号は "911" になり、4桁の判定で黙って落ちていた。911〜999 の3桁は先頭に0を戻して 4桁の番号として読む
+        if lead >= 0 and lead <= 1 and re.fullmatch(r"9[1-9]\d(\.0)?", r[lead]):
+            r[lead] = "0" + r[lead]
         if lead >= 0 and lead <= 1 and re.fullmatch(r"\d{4}(\.0)?", r[lead]):
             code, cname, skip = r[lead][:4], (texts[0][1] if texts else ""), lead
             size = " ".join(x for _, x in texts[1:])

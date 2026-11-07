@@ -93,10 +93,38 @@ def off_topic_title(q: str, name: str) -> bool:
     return bool(keys) and not any(k in q for k in keys)
 
 
+# 2026-11-07 4-73 走査の失敗から：36kr.jp の3つの別の記事に同じ「ショートドラマ量産の舞台裏」の題名が出て、人型ロボットの「経済」の事実になった
+# （同じサイトの関連記事の枠）。worldinsight.com の日本語の記事からは、英語の別記事（AIエージェントの記憶の費用）の文が「自社の競合」に入った。
+# 同じホストの2つ以上のURLに同じ文が出たらサイト共通の枠として外す。英字が6割を超える文で、品目の名前（日本語3字・英語4字以上の語）を含まないものは別記事として外す
+def site_common(rec: dict) -> set:
+    seen: dict = {}
+    for v in (rec.get("evidence") or {}).values():
+        for i in v or []:
+            q = re.sub(r"\s+", "", i.get("quote", ""))[:60]
+            if q: seen.setdefault((urlparse(i.get("url", "")).netloc, q), set()).add(i.get("url", ""))
+    return {k for k, u in seen.items() if len(u) >= 2}
+
+
+def off_topic_latin(q: str, name: str, en: str = "", url: str = "") -> bool:
+    q = re.sub(r"\s+", " ", q or "").strip()
+    # 日本語のページ（パスに /japanese/・/ja/・/jp/ か、日本語の文字を含む）の英語の文だけを見る。英語の原典（REI の英語版など）は外さない
+    if not q or not re.search(r"(/japanese/|/ja/|/jp/|%E3%)", url or "", re.I): return False
+    lat = sum(1 for c in q if c.isascii() and c.isalpha())
+    if lat / max(1, len(q.replace(" ", ""))) <= 0.6: return False
+    words = [w.lower() for w in re.findall(r"[A-Za-z]{4,}", (en or "") + " " + (name or ""))]
+    return not any(w in q.lower() for w in words)
+
+
+def keep(i: dict, rec: dict, common: set) -> bool:
+    q, nm = i.get("quote", ""), rec.get("name", "")
+    if junk(q) or off_topic_title(q, nm) or off_topic_latin(q, nm, rec.get("en", ""), i.get("url", "")): return False
+    return (urlparse(i.get("url", "")).netloc, re.sub(r"\s+", "", q)[:60]) not in common
+
+
 def box_lines(rec: dict, cats: list[str], own_host: str = "") -> list[str]:
     ev, lines = rec.get("evidence", {}), []
-    nm = rec.get("name", "")
-    ev = {k: [i for i in (v or []) if not junk(i.get("quote", "")) and not off_topic_title(i.get("quote", ""), nm)] for k, v in ev.items()}
+    common = site_common(rec)
+    ev = {k: [i for i in (v or []) if keep(i, rec, common)] for k, v in ev.items()}
     extra = [k for k in ev if k.startswith("SNS・note") or k == "検索結果の抜粋"]
     for c in cats + extra:
         items = ev.get(c, [])
@@ -140,7 +168,7 @@ def main() -> int:
             sec.append(f"- 取得：{r.get('researched_at', '')[:16]}・調査{r.get('runs', 1)}回目・読んだ頁{len(r.get('checked', {}).get('pass3', []))}")
             sec += box_lines(r, cats)
             for cat, items in (r.get("new_this_run") or {}).items():
-                for i in [i for i in items if not junk(i.get("quote", ""))][:3]:
+                for i in [i for i in items if keep(i, r, site_common(r))][:3]:
                     if i.get("first_seen", "") >= since:
                         changes.append(f"- {f}｜{label}｜{c['name']}｜{cat}：「{re.sub(r'\s+', ' ', i['quote'])[:120]}」{i['url']}")
     for (f, short, label), sec in by_field.items():
@@ -167,7 +195,7 @@ def main() -> int:
                     lines.append(f"- {k}：" + (" ／ ".join(f"{i['value'][:120]}（{i['url']}）" for i in v[:2]) if v else "未完"))
                 lines += box_lines(r, cats, own)
                 for cat, items in (r.get("new_this_run") or {}).items():
-                    for i in [i for i in items if not junk(i.get("quote", ""))][:3]:
+                    for i in [i for i in items if keep(i, r, site_common(r))][:3]:
                         if i.get("first_seen", "") >= since:
                             changes.append(f"- 顧客｜{c['name']}｜{cat}：「{re.sub(r'\s+', ' ', i['quote'])[:120]}」{i['url']}")
             (OUT / name).write_text("\n".join(lines) + "\n", encoding="utf-8")

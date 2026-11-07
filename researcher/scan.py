@@ -798,6 +798,23 @@ def kougyo_size_section(topic):
             else: verdict.append("全区分に共通する年が2つ未満：同じ年どうしの向きは出せない")
         md.append(f"- {code} {name}：" + "／".join(verdict or ["比べられる区分なし"]))
         md += [f"  - {o}" for o in out]
+    # 2026-11-07 48回目の走査から（4-32 の代わりの仮説「規模の構成で業種の平均が下がっているだけ」を見分ける）：
+    # 業種をまたいで同じ規模区分・同じ年どうしで1人あたり付加価値額を並べる。業種の平均が低くても、同じ規模の中で中ほどなら構成の効き
+    md.append("### 同じ規模区分・同じ年どうしの業種の並び（1人あたり付加価値額・万円・名目・秘匿と注記の行を除く）")
+    bandvals = {}
+    for (code, name), bands in by.items():
+        for band, ys in bands.items():
+            if band == "計": continue
+            for y, (r, fl) in ys.items():
+                v = _kf(r.get("従業者1人あたり付加価値額_万円"))
+                if not fl and v and v > 0: bandvals.setdefault((band, y), []).append((v, code, name))
+    latest = {}
+    for (band, y), lst in bandvals.items():
+        if len(lst) >= 4 and y >= latest.get(band, (0, []))[0]: latest[band] = (y, lst)
+    for band, (y, lst) in sorted(latest.items()):
+        lst = sorted(lst, reverse=True); n = len(lst)
+        rk = "、".join(f"{c} {nm[:10]} {v:,.1f}（{i + 1}/{n}位）" for i, (v, c, nm) in enumerate(lst) if c in ("2461", "2462", "2464", "2465", "2469", "2691", "2692", "2446", "2452"))
+        md.append(f"- {band}・{y}年（{n}業種・中央の値 {lst[n // 2][0]:,.1f}）：{rk or '注目の業種なし'}")
     md.append("")
     return md
 
@@ -1065,6 +1082,24 @@ def scan(topic):
     _TOPP = re.compile(r"^/?(index\.(html?|php|aspx?))?$", re.I)
     ntop = [r for r in rows if r["URL"] and _TOPP.match(urlparse(r["URL"]).path or "")]
     if ntop: md.append(f"  - ⚠ 出典がサイトの入口（トップページ）の数字 {len(ntop)}件（例：{urlparse(ntop[0]['URL']).netloc}）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）")
+    # 2026-11-07 4-73（Quartz「The Quartz guide to bad data」：空の代わりに入れた決まった値、表計算の行数の上限、型の上限は、
+    # 本物の値ではなく「欠け・切れ」の指紋）。値がこの型（65535・65536・1048576・32767・2147483647・99999・999999・9999999）なら数え、採る値・裏付けにしない
+    _SENT = {65535, 65536, 1048576, 1048575, 32767, 32768, 2147483647, 99999, 999999, 9999999, 99999999}
+    def _num(v):
+        try: return float(str(v).replace(",", ""))
+        except Exception: return None
+    nsen = [r for r in rows if _num(r.get("値")) in _SENT]
+    if nsen: md.append(f"  - ⚠ 欠け・切れの指紋の値（65535・1048576・99999 など）{len(nsen)}件（例：{nsen[0]['品目']}）：空の代わりの値か表の行数の上限で、本物の値にしない（4-73）")
+    # 同（Quartz：工学の外で小数第3位より細かく測るものはまず無い。細かすぎる桁は計算や推計の出力の指紋）。
+    # 引用の原文の数字に小数4桁以上があれば「偽りの精度」として数え、測った値でなく推計・計算の値として【推定】側で読む
+    _FP = re.compile(r"\d\.\d{4,}")
+    nfp = [r for r in rows if _FP.search(str(r.get("原文の数字") or ""))]
+    if nfp: md.append(f"  - ⚠ 小数4桁以上の数字 {len(nfp)}件（例：{nfp[0]['品目']}）：測った値でなく推計・計算の出力の疑い。【推定】側で読み、出どころの算出方法を確かめる（4-73）")
+    # 同（Quartz：表計算が先頭の0を落とし、番号が数字に化ける）。産業分類（製造業の食料品は09で始まる）・市区町村コード・郵便番号が
+    # 3桁・5桁などの数字だけで出てきたら先頭の0が落ちた疑い。build_kougyo.py の番号は文字として読む
+    _Z = re.compile(r"(産業分類|分類番号|産業番号|市区町村コード|団体コード|郵便番号)\D{0,6}(\d{3}|\d{5}|\d{6})(?!\d)")
+    nz = [r for r in rows if _Z.search(r["引用"])]
+    if nz: md.append(f"  - ⚠ 番号の先頭の0が落ちた疑い {len(nz)}件（例：{nz[0]['品目']}）：番号は文字として照合し、数字として突き合わせない（4-73）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
