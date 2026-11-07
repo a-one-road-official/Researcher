@@ -1,0 +1,1473 @@
+{
+ "name": "Ledge.ai",
+ "aliases": [
+  "Ledge.ai",
+  "レッジ",
+  "株式会社レッジ"
+ ],
+ "context": "AI系メディア",
+ "researched_at": "2026-11-07T02:55:38.585210+00:00",
+ "official_url": "https://ledge.ai",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門一丁目17番1号\n虎ノ門ヒルズ ビジネスタワー 28F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区南青山2-27-25ヒューリック南青山ビル3F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "山口拓己",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "山口 拓己",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2005年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "【参加募集】AIを使った表現をどう受け止めるか 制作現場の実践を語る「GENEX ー Creative Series #1」11月17日開催",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "【注目ツール紹介】複数モデルが自律的に動いて業務を行う？協働エージェント「Genspark」とは",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのウェビナー視聴やイベントの申し込みがボタン一つで完結します",
+    "url": "https://ledge.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介 | Ledge.ai",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメント",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "AIエージェントで攻撃者は「眠らなくなる」――ExaSecurity代表が語る、AI時代のセキュリティ",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "pass": 1
+   },
+   {
+    "quote": "Ledge.aiの会員になることで、すべてのウェビナー視聴やイベントの申し込みがボタン一つで完結します",
+    "url": "https://ledge.ai/mypage/register",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメント | Ledge.ai",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメント",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "pass": 1
+   },
+   {
+    "quote": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "EXPO2025",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "各種SNSでも最新情報をお届けしております",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "Ledge.ai Creative x Al会場開催イベント",
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GENEX_600_500_9b46ee9eb0/GENEX_600_500_9b46ee9eb0.png",
+    "pass": 2
+   },
+   {
+    "quote": "https://www.facebook.com/ledgeai/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ledge.aiの会員になることで、",
+    "url": "https://ledge.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "防災の現場から探る生成AIの可能性――NTT東日本 独占インタビュー",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビュー",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "pass": 1
+   },
+   {
+    "quote": "Ledge.aiの会員になることで、すべてのウェビナー視聴やイベントの申し込みがボタン一つで完結します",
+    "url": "https://ledge.ai/mypage/register",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録の前に、Ledge.aiの",
+    "url": "https://ledge.ai/mypage/register",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "pass": 1
+   },
+   {
+    "quote": "防災の現場から探る生成AIの可能性――NTT東日本 独占インタビュー | Ledge.ai",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "防災の現場から探る生成AIの可能性――NTT東日本 独占インタビュー",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "pass": 1
+   },
+   {
+    "quote": "編集部おすすめの厳選記事や有用情報を定期的にお届け",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "2007年4月のサービス開始より、報道機関向けの発表資料（プレスリリース）をメディア記者向けに配信する機能と、「PR TIMES」およびパートナーメディアに掲載する機能をセットで提供してまいりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディア記者1万",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "大企業からスタートアップ、地方自治体まで導入・継続しやすいプランと、広報発表と同時に生活者にも閲覧・シェアしてもらえるコンテンツ表現力を支持いただき、成長を続けています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・記者会見の情報など様々な特記情報を閲覧できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画 | Ledge.ai",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "pass": 1
+   },
+   {
+    "quote": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作 | Ledge.ai",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へ",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIメディア「Ledge.ai」へ「PR TIMES」掲載開始 | 株式会社PR TIMESのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "‐ AI、人工知能に関するプレスリリースを掲載 ‐",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース配信サービス「PR TIMES」を運営する株式会社PR TIMES（東京都港区、代表取締役：山口拓己、東証一部：3922、以下：PR TIMES）は2018年12月14日（金）より、「PR TIMES」に掲載するAI・人工知能に関するプレスリリースを、株式会社レッジ （本社：東京都品川区、代表者：橋本和樹）が運営するAI特化型Webメディア「Ledge.ai（レッジエーアイ）」に提供・掲載を開始したことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESより配信されたAI関連のプレスリリース URL：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "■プレスリリース配信サービス「PR TIMES」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後もPR TIMESでは、より広範なステークホルダーへ企業情報を見やすくストレートに伝えるルートの開拓、さらには企業情報がニュースとして記事化される機会の最大化を目指し、外部メディアと連携しながらプレスリリースの情報価値を高める活動を行ってまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース配信サービス「PR TIMES」概要】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年4月のサービス開始より、報道機関向けの発表資料（プレスリリース）をメディア記者向けに配信する機能と、「PR TIMES」およびパートナーメディアに掲載する機能をセットで提供してまいりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立 ： 2005年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ： -プレスリリース配信サービス「PR TIMES」（",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリースには、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "📌 今後のイベント情報や新機能リリース情報は、公式WEBサイト、公式SNS（X、Facebook）で随時発信していきます",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "📌 今後のイベント情報や新機能リリース情報は、公式WEBサイト、公式SNS（X、Facebook）で随時発信していきます",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へ",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外",
+    "url": "https://ledge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "「自然と生成AIの活用を加速させる データインフラ統合型生成AIのすすめ」",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "・社内文書を活用できるデータインフラ統合型生成AIとは？",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」｜DirectCloud【公式】",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "「自然と生成AIの活用を加速させる データインフラ統合型生成AIのすすめ",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "」は、まさにデータインフラ統合型AIで、以下の特長を備えています",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "登録者500名超、管理職比率40% — 国内最大級の AI メディア ... — 登録者500名超、管理職比率40% — 国内最大級の AI メディア ... Ledge.ai https://ledge.ai > ledgeai-expo-2025-summer-sponsor",
+    "url": "https://ledge.ai/articles/ledgeai-expo-2025-summer-sponsor",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai ｜日本最大級のAI特化型ニュースメディア — Ledge . ai ｜日本最大級のAI特化型ニュースメディア Ledge.ai https://ledge.ai",
+    "url": "https://ledge.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "広告掲載に関するお問い合わせ - Ledge.ai — 広告掲載に関するお問い合わせ - Ledge.ai Ledge.ai https://ledge.ai > contact > ad-form",
+    "url": "https://ledge.ai/contact/ad-form",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - Ledge.ai — お問い合わせ - Ledge.ai Ledge.ai https://ledge.ai > contact",
+    "url": "https://ledge.ai/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Data Strategy | 株式会社レッジ | Ledge . ai Brand & Solution — Data Strategy | 株式会社レッジ | Ledge . ai Brand & Solution Ledge.ai https://ledge.ai > brand > ledge-datastrategy",
+    "url": "https://ledge.ai/brand_solution/brand/ledge-datastrategy",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの週間アクティブユーザー数が4億人を突破 - Ledge.ai — ChatGPTの週間アクティブユーザー数が4億人を突破 - Ledge.ai Ledge.ai https://ledge.ai > articles",
+    "url": "https://ledge.ai/articles/chatgpt_400m_wau_growth",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入研修 | 株式会社レッジ | Ledge . ai Brand & Solution — 生成AI導入研修 | 株式会社レッジ | Ledge . ai Brand & Solution Ledge.ai https://ledge.ai > solutions > ledge-datastrategy-education",
+    "url": "https://ledge.ai/brand_solution/solutions/ledge-datastrategy-education",
+    "pass": 3
+   },
+   {
+    "quote": "AIメディア「 Ledge . ai 」へ「PR TIMES」掲載開始 — AIメディア「 Ledge . ai 」へ「PR TIMES」掲載開始 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI、 AI モデルのアクティブユーザー 10億人超に ビジネス ... — OpenAI、 AI モデルのアクティブユーザー 10億人超に ビジネス ... Ledge.ai https://ledge.ai > openai_active_users_business_customers",
+    "url": "https://ledge.ai/articles/openai_active_users_business_customers",
+    "pass": 3
+   },
+   {
+    "quote": "変わらないまま生き抜けるか？ 大局と現場から読み解く — 変わらないまま生き抜けるか？ 大局と現場から読み解く Ledge.ai https://ledge.ai > articles",
+    "url": "https://ledge.ai/articles/theai-3rd-ledge",
+    "pass": 3
+   },
+   {
+    "quote": "AI 前提の組織設計――VALANCE独占 インタビュー 「 AI 駆動型 ... — AI 前提の組織設計――VALANCE独占 インタビュー 「 AI 駆動型 ... Ledge.ai https://ledge.ai > articles > valance_interview_20260724",
+    "url": "https://ledge.ai/articles/valance_interview_20260724",
+    "pass": 3
+   },
+   {
+    "quote": "仕事の売り方が変わる。ARIが「 AI ネイティブ化」で直面した ... — 仕事の売り方が変わる。ARIが「 AI ネイティブ化」で直面した ... Ledge.ai https://ledge.ai > articles > ari_interview_ai_native",
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "pass": 3
+   },
+   {
+    "quote": "「1人で月100本」の時代、クリエイターは不要になるのか “ AI ... — 「1人で月100本」の時代、クリエイターは不要になるのか “ AI ... Ledge.ai https://ledge.ai > articles > megli-interview",
+    "url": "https://ledge.ai/articles/megli-interview",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai に「Rist Adviser Service」についての インタビュー ... — Ledge . ai に「Rist Adviser Service」についての インタビュー ... 株式会社Rist https://www.rist.co.jp > ...",
+    "url": "https://www.rist.co.jp/202104272890/",
+    "pass": 3
+   },
+   {
+    "quote": "今押さえるべきAIの全体像と最前線を3日間で掴む Ledge . ai ... — 今押さえるべきAIの全体像と最前線を3日間で掴む Ledge . ai ... Ledge.ai https://ledge.ai > articles > ledgeai-webinarsp-sponsor",
+    "url": "https://ledge.ai/articles/ledgeai-webinarsp-sponsor",
+    "pass": 3
+   },
+   {
+    "quote": "Google、生成 AI 検索の最適化ガイド公開 AI Overviews・ AI ... — Google、生成 AI 検索の最適化ガイド公開 AI Overviews・ AI ... Ledge.ai https://ledge.ai > articles > google_generative_ai_search_o...",
+    "url": "https://ledge.ai/articles/google_generative_ai_search_optimization_guide",
+    "pass": 3
+   },
+   {
+    "quote": "生成 AI でビジネスを加速させる！始め方から拡大・管理まで — 生成 AI でビジネスを加速させる！始め方から拡大・管理まで Ledge.ai https://ledge.ai > videos",
+    "url": "https://ledge.ai/videos/dataiku-archive-23to24webinar",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai 出張所［2ページ目］ | Web担当者Forum — Ledge . ai 出張所［2ページ目］ | Web担当者Forum Web担当者Forum https://webtan.impress.co.jp > 解説記事 > 特選記事",
+    "url": "https://webtan.impress.co.jp/corner/11202?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "【無料ウェビナー】今からでも間に合う生成 AI の基礎と 3つの ... — 【無料ウェビナー】今からでも間に合う生成 AI の基礎と 3つの ... Ledge.ai https://ledge.ai > articles > generative-ai-webinar",
+    "url": "https://ledge.ai/articles/generative-ai-webinar",
+    "pass": 3
+   },
+   {
+    "quote": "AI モデルランキングサイト「Arena」、 売上 ペースを年換算で ... — AI モデルランキングサイト「Arena」、 売上 ペースを年換算で ... Ledge.ai https://ledge.ai > articles",
+    "url": "https://ledge.ai/articles/arena_ai_evaluation_100m_revenue",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA 純利益 9倍・ 売上 高 2倍で過去最高 生成 AI 需要増で 第 ... — NVIDIA 純利益 9倍・ 売上 高 2倍で過去最高 生成 AI 需要増で 第 ... Ledge.ai https://ledge.ai > articles > nvidia_settlement",
+    "url": "https://ledge.ai/articles/nvidia_settlement",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス - Ledge.ai — ビジネス - Ledge.ai Ledge.ai https://ledge.ai > categories > business",
+    "url": "https://ledge.ai/categories/business",
+    "pass": 3
+   },
+   {
+    "quote": "about - Ledge.ai — about - Ledge.ai Ledge.ai https://ledge.ai > about",
+    "url": "https://ledge.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai | AIトレンドの鉱脈 (@ledgeai) / X — Ledge . ai | AIトレンドの鉱脈 (@ledgeai) / X X https://x.com > ledgeai",
+    "url": "https://x.com/ledgeai",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAIが2社 買収 で企業向けAIサービス強化目指す - Ledge.ai — OpenAIが2社 買収 で企業向けAIサービス強化目指す - Ledge.ai Ledge.ai https://ledge.ai > openai_acquires_rockset_and_multi",
+    "url": "https://ledge.ai/articles/openai_acquires_rockset_and_multi",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入支援サービス | Ledge . ai Brand & Solution — AI導入支援サービス | Ledge . ai Brand & Solution Ledge.ai https://ledge.ai > solutions > ledge-datastrategy-consulting",
+    "url": "https://ledge.ai/brand_solution/solutions/ledge-datastrategy-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai 利用規約 — Ledge . ai 利用規約 Ledge.ai https://ledge.ai > terms-of-service",
+    "url": "https://ledge.ai/terms-of-service",
+    "pass": 3
+   },
+   {
+    "quote": "【事例公開】「AI社員」が回す会社の作り方と働き方 - Ledge.ai — 【事例公開】「AI社員」が回す会社の作り方と働き方 - Ledge.ai Ledge.ai https://ledge.ai > articles > webinar-vol70",
+    "url": "https://ledge.ai/articles/webinar-vol70",
+    "pass": 3
+   },
+   {
+    "quote": "＜中小企業向け＞ AI 導入を行う際のロードマップ作成方法を解説 — ＜中小企業向け＞ AI 導入を行う際のロードマップ作成方法を解説 Ledge.ai https://ledge.ai > webinar-ai-implementation-roadmap",
+    "url": "https://ledge.ai/videos/webinar-ai-implementation-roadmap",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の AI ニュース 振り返り と押さえておくべき 2024年の ... — 2023年の AI ニュース 振り返り と押さえておくべき 2024年の ... Ledge.ai https://ledge.ai > articles > ledgeai23to24",
+    "url": "https://ledge.ai/articles/ledgeai23to24",
+    "pass": 3
+   },
+   {
+    "quote": "AI初心者から開発経験者まで必見！ Ledge . ai 年末年始特集 ... — AI初心者から開発経験者まで必見！ Ledge . ai 年末年始特集 ... Ledge.ai https://ledge.ai > articles > ledgeai24to25-announce",
+    "url": "https://ledge.ai/articles/ledgeai24to25-announce",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の AI ニュース 振り返り と、 AI 提唱70周年となる2026年 ... — 2025年の AI ニュース 振り返り と、 AI 提唱70周年となる2026年 ... Ledge.ai https://ledge.ai > articles > ledgeai25to26",
+    "url": "https://ledge.ai/articles/ledgeai25to26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【登壇告知】「 Ledge . ai Webinar SP」に登壇します！ - note 【登壇告知】「 Ledge . ai Webinar SP」に登壇します！ - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇レポート】 Ledge . ai Webinar SP登壇「生成AI活用を ... 【登壇レポート】 Ledge . ai Webinar SP登壇「生成AI活用を ... note https://note.com > DirectCloud【公式】",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "My article has been published on Ledge . ai !!｜芥川 公文 - note My article has been published on Ledge . ai !!｜芥川 公文 - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【登壇告知】「Ledge.ai Webinar SP」に登壇します！｜DirectCloud【公式】",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇告知】「Ledge.ai Webinar SP」に登壇します！",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けクラウドストレージの「DirectCloud」です。",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、AI特化メディア「Ledge.ai」様主催のオンラインイベント",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "「Ledge.ai Webinar SP」",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "に、ダイレクトクラウドが登壇することになりました！",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "【当社登壇日時】9月25日（木）13：50～14：30",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用の最前線を3日間で学べるオンラインイベント",
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」｜DirectCloud【公式】",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けクラウドストレージの「DirectCloud」です。",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月25日（木）にLedge.ai主催の「Ledge.ai Webinar SP」に登壇し、",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "「自然と生成AIの活用を加速させる データインフラ統合型生成AIのすすめ",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、当日の登壇内容をダイジェストでご紹介します。",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの活用が急速に進む中、企業にとって重要なのは",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "正確で安全な情報を、いかに効率よく活用できるか",
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "pass": 3
+   },
+   {
+    "quote": "My article has been published on Ledge.ai!!｜芥川 公文",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My article has been published on Ledge.ai!!",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This will sound a bit like a PR announcement, but I am writing to report that an article I wrote during my time in the U.S.",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has been published on Ledge.ai.",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am planning a three-part series, so there will be more contributed articles coming up.",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That concludes my PR announcement.",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At Brycen, where I work, we support AI training data design, annotation, quality control, and data engineering, focusing primarily on the manufacturing, automotive, and AD/ADAS sectors.",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Brycen's data engineering/annotation services can be found here:",
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ledge . ai | AIトレンドの鉱脈 (@ledgeai) / X Ledge . ai | AIトレンドの鉱脈 (@ledgeai) / X X https://x.com > ledgeai",
+    "url": "https://x.com/ledgeai",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社レッジ (@ledge_inc) / X 株式会社レッジ (@ledge_inc) / X X https://x.com > ledge_inc",
+    "url": "https://x.com/ledge_inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai | AIトレンドの鉱脈 on X: \"社内AIも無条件に信頼 ... Ledge . ai | AIトレンドの鉱脈 on X: \"社内AIも無条件に信頼 ... X https://x.com > @ledgeai",
+    "url": "https://x.com/ledgeai/status/2114156308983419042",
+    "pass": 3
+   },
+   {
+    "quote": "Ledge . ai | AIトレンドの鉱脈 on X: \"AI同士が言葉を介さず ... Ledge . ai | AIトレンドの鉱脈 on X: \"AI同士が言葉を介さず ... X https://x.com > @ledgeai",
+    "url": "https://x.com/ledgeai/status/2116727894248722731",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ledge . ai (@ledgeai) - Facebook Ledge . ai (@ledgeai) - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/ledgeai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI特化型ニュースメディア「 ledge . ai 」に、ARI取締役執行 ... AI特化型ニュースメディア「 ledge . ai 」に、ARI取締役執行 ... Facebook https://www.facebook.com > posts > ai特化型ニュースメ...",
+    "url": "https://www.facebook.com/ARadvancedtechnologyInc/posts/ai%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2ledgeai%E3%81%ABari%E5%8F%96%E7%B7%A0%E5%BD%B9%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1-%E5%B1%B1%E5%B2%A1-%E6%8A%9E%E5%93%89%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Fai%E6%B4%BB%E7%94%A8%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E4%B8%AD%E3%81%A7%E7%9B%B4%E9%9D%A2%E3%81%97%E3%81%9F%E6%83%B3%E5%AE%9A%E5%A4%96%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%84ai%E3%83%8D%E3%82%A4%E3%83%86/1796349888518340/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ledge.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/mypage/register",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/ari_interview_ai_native",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/ollo-interview-202610",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ledge.ai/articles/megli-interview",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kddi_iret_193bcc276e/kddi_iret_193bcc276e.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GENEX_600_500_9b46ee9eb0/GENEX_600_500_9b46ee9eb0.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/C7_P6_S_Gks_400x400_c0281f2ebf/C7_P6_S_Gks_400x400_c0281f2ebf.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_8fcc647aa2/_8fcc647aa2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_8_86dfc6d48a/AI_8_86dfc6d48a.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ledge_2_300x600_v2_4_df2a179eb5/ledge_2_300x600_v2_4_df2a179eb5.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ledge.co/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rist.co.jp/202104272890/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://webtan.impress.co.jp/corner/11202?page=1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ledgeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://webtan.impress.co.jp/corner/11202?page=1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/directcloud/n/n2513b280ae4f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/directcloud/n/nea0243ecde2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ledgeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ledge_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ledgeai/status/2114156308983419042",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ledgeai/status/2116727894248722731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ledgeai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ARadvancedtechnologyInc/posts/ai%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2ledgeai%E3%81%ABari%E5%8F%96%E7%B7%A0%E5%BD%B9%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1-%E5%B1%B1%E5%B2%A1-%E6%8A%9E%E5%93%89%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Fai%E6%B4%BB%E7%94%A8%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E4%B8%AD%E3%81%A7%E7%9B%B4%E9%9D%A2%E3%81%97%E3%81%9F%E6%83%B3%E5%AE%9A%E5%A4%96%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%84ai%E3%83%8D%E3%82%A4%E3%83%86/1796349888518340/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ledgeai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ledge.ai 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://ledge.ai/articles/ledgeai-expo-2025-summer-sponsor",
+    "https://ledge.ai/",
+    "https://ledge.ai/contact/ad-form",
+    "https://ledge.ai/contact",
+    "https://www.ledge.co/pricing",
+    "https://webtan.impress.co.jp/corner/11202",
+    "https://ledge.ai/terms-of-service",
+    "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "https://ledge.ai/brand_solution/brand/ledge-datastrategy",
+    "https://www.ledge.co/"
+   ]
+  },
+  {
+   "query": "Ledge.ai PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://ledge.ai/brand_solution/brand/ledge-datastrategy",
+    "https://ledge.ai/articles/chatgpt_400m_wau_growth",
+    "https://ledge.ai/brand_solution/solutions/ledge-datastrategy-education",
+    "https://prtimes.jp/main/html/rd/p/000000903.000000112.html",
+    "https://ledge.ai/articles/openai_active_users_business_customers",
+    "https://ledge.co.jp/news/u6c0ef4omz/",
+    "https://test-expo.dev-ledge.com/",
+    "https://ledge.ai/brand_solution/solutions/ledge-datastrategy-consulting",
+    "https://www.wantedly.com/companies/ledge/about",
+    "https://ja.wikipedia.org/wiki/登録者数の多いYouTubeチャンネルの一覧"
+   ]
+  },
+  {
+   "query": "Ledge.ai 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://ledge.ai/articles/theai-3rd-ledge",
+    "https://ledge.ai/articles/valance_interview_20260724",
+    "https://ledge.ai/articles/ari_interview_ai_native",
+    "https://ledge.ai/articles/megli-interview",
+    "https://www.rist.co.jp/202104272890/",
+    "https://ledge.ai/categories/coverstory/ledgeai23to24-Special",
+    "https://www.wantedly.com/companies/ledge/stories",
+    "https://ledge.ai/",
+    "https://toyokeizai.net/list/author/3334",
+    "https://ja.wikipedia.org/wiki/サイバーエージェント"
+   ]
+  },
+  {
+   "query": "Ledge.ai 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://ledge.ai/articles/ledgeai-webinarsp-sponsor",
+    "https://ledge.ai/articles/google_generative_ai_search_optimization_guide",
+    "https://ledge.ai/videos/dataiku-archive-23to24webinar",
+    "https://webtan.impress.co.jp/corner/11202?page=1",
+    "https://ledge.ai/articles/generative-ai-webinar",
+    "https://plus.itc.or.jp/event/seminar2026/a13/",
+    "https://www.youtube.com/watch?v=wTNlTA74wF0",
+    "https://mieru-ca.com/blog/seo_seminar/",
+    "https://www.optic.or.jp/event/event_detail/index/12741.html",
+    "https://sync-g.co.jp/ownedmedia/web-it/ledge-ai/"
+   ]
+  },
+  {
+   "query": "Ledge.ai 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://ledge.ai/",
+    "https://ledge.ai/articles/arena_ai_evaluation_100m_revenue",
+    "https://ledge.ai/articles/nvidia_settlement",
+    "https://ledge.ai/videos/dataiku-archive-23to24webinar",
+    "https://ledge.ai/categories/business",
+    "https://ledge.ai/categories/coverstory/ledgeai25to26-specialfeature",
+    "https://ledge.ai/articles/microsoft_settlement",
+    "https://www.macnica.co.jp/business/ai/blog/145172/",
+    "https://ledge.ai/about",
+    "https://ja.wikipedia.org/wiki/レクサス・LC"
+   ]
+  },
+  {
+   "query": "Ledge.ai 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://ledge.ai/",
+    "https://ledge.ai/about",
+    "https://ledge.ai/categories/business",
+    "https://x.com/ledgeai",
+    "https://ledge.ai/articles/openai_acquires_rockset_and_multi",
+    "https://ledge.ai/articles/nvidia_hugging_face_acquisition",
+    "https://ledge.co.jp/about/",
+    "https://ledge.ai/articles/databricks_mosaicml",
+    "https://www.macnica.co.jp/business/ai/blog/145172/",
+    "https://ja.wikipedia.org/wiki/Meta_(企業)"
+   ]
+  },
+  {
+   "query": "Ledge.ai 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://ledge.ai/",
+    "https://ledge.ai/brand_solution/solutions/ledge-datastrategy-consulting",
+    "https://ledge.ai/terms-of-service",
+    "https://ledge.ai/articles/webinar-vol70",
+    "https://webtan.impress.co.jp/corner/11202?page=1",
+    "https://ledge.ai/categories/business",
+    "https://ledge.ai/contact/ad-form",
+    "https://www.brainpad.co.jp/media/2021/01/09/13964",
+    "https://www.propagateinc.com/post/performance-based-reward-lead-get-service"
+   ]
+  },
+  {
+   "query": "Ledge.ai note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://ledge.ai/",
+    "https://ledge.ai/videos/webinar-ai-implementation-roadmap",
+    "https://ledge.ai/articles/ledgeai23to24",
+    "https://ledge.ai/articles/ledgeai24to25-announce",
+    "https://ledge.ai/articles/ledgeai25to26",
+    "https://ledge.ai/articles/ledgeai24to25-prompt",
+    "https://www.youtube.com/watch?v=cm6SPhz8TJY",
+    "https://prtimes.jp/main/html/rd/p/000000064.000030320.html",
+    "https://note.com/aikotukotudayori/n/ne55f0dc0472f",
+    "https://ameblo.jp/kagulunch/"
+   ]
+  },
+  {
+   "query": "site:note.com Ledge.ai",
+   "results": [
+    "https://note.com/directcloud/n/n2513b280ae4f",
+    "https://note.com/directcloud/n/nea0243ecde2b",
+    "https://note.com/akutagawa_masa/n/n419f759babdb?hl=en",
+    "https://note.com/masanorikudo/n/n8a81fb4b4af9?hl=en",
+    "https://note.com/asahi_ictrad/n/n94d955a02262?hl=en",
+    "https://note.com/bunsekiya_tech/n/n8151e4929b8f?hl=en",
+    "https://note.com/masanorikudo/n/nb77d12cf4325?hl=en",
+    "https://note.com/masanorikudo/n/nba28b46e71ee?hl=en",
+    "https://note.com/elith/n/n6cadfdb75dae",
+    "https://note.com/akutagawa_masa/n/n419f759babdb"
+   ]
+  },
+  {
+   "query": "site:x.com Ledge.ai",
+   "results": [
+    "https://x.com/ledgeai",
+    "https://x.com/ledge_inc",
+    "https://x.com/ledgeai/status/2114156308983419042",
+    "https://x.com/ledgeai/status/2116727894248722731",
+    "https://x.com/ledgeai/reposts",
+    "https://x.com/ledgeai/status/2116507972088340660",
+    "https://x.com/cloudacerecruit",
+    "https://x.com/i/trending/2044729449472577848",
+    "https://x.com/ledgeai/status/2115584316696920508",
+    "https://x.com/ledgeai/status/2115583891419639872"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Ledge.ai",
+   "results": [
+    "https://www.linkedin.com/company/ledge-finance",
+    "https://www.linkedin.com/posts/ledge-finance_were-so-excited-to-be-announcing-this-activity-7379866568371122176-TYof",
+    "https://www.linkedin.com/in/michael-feeney-00940317",
+    "https://il.linkedin.com/in/omerlh",
+    "https://il.linkedin.com/in/lihikles",
+    "https://www.linkedin.com/in/anna-dalton-733b8992",
+    "https://www.linkedin.com/posts/ledge-finance_ai-accounting-in-2026-separating-progress-activity-7483132018084446208-v-wn",
+    "https://il.linkedin.com/in/danna-ofek",
+    "https://il.linkedin.com/in/imrihe",
+    "https://il.linkedin.com/company/ledge-finance"
+   ]
+  },
+  {
+   "query": "site:facebook.com Ledge.ai",
+   "results": [
+    "https://www.facebook.com/ledgeai/",
+    "https://www.facebook.com/ledgequality/",
+    "https://www.facebook.com/ARadvancedtechnologyInc/posts/ai%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2ledgeai%E3%81%ABari%E5%8F%96%E7%B7%A0%E5%BD%B9%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1-%E5%B1%B1%E5%B2%A1-%E6%8A%9E%E5%93%89%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Fai%E6%B4%BB%E7%94%A8%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E4%B8%AD%E3%81%A7%E7%9B%B4%E9%9D%A2%E3%81%97%E3%81%9F%E6%83%B3%E5%AE%9A%E5%A4%96%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%84ai%E3%83%8D%E3%82%A4%E3%83%86/1796349888518340/",
+    "https://www.facebook.com/ledgeai/posts/-ledge-expo-2022-%E6%98%A5%E3%81%8C631%E3%81%BE%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%ADai%E3%82%84iot%E3%82%92%E3%81%AF%E3%81%98%E3%82%81dx%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%84%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8C%81%E3%81%A4%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E9%96%B2%E8%A6%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%BB%E3%81%8B%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%B5/1905663329624897/",
+    "https://www.facebook.com/ExaWizards/posts/ledgeai%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F9%E6%9C%8817%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%9F%E5%87%BA%E7%89%88%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%9B%B8%E7%B1%8D%E9%87%91%E8%9E%8Dax%E6%88%A6%E7%95%A5%E8%AA%9E%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%9F%E8%B7%B5%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%82%B9%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%81%8B%E3%82%89%E9%9D%A2%E3%81%AEax%E3%81%B8%E7%B5%8C%E5%96%B6%E3%81%AE%E9%96%A2%E4%B8%8E%E3%81%8C%E5%A4%89%E9%9D%A9%E3%81%AE%E5%87%BA%E7%99%BA%E7%82%B9/1584767303666727/",
+    "https://www.facebook.com/ledgeai/posts/%E5%8B%95%E7%94%BB%E7%94%9F%E6%88%90ai%E3%81%8C%E5%8B%95%E7%94%BB%E5%88%B6%E4%BD%9C%E6%A5%AD%E7%95%8C%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%BE%E3%81%A0%E5%B0%9A%E6%97%A9%E3%81%8B%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E7%94%A3%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%94%9F%E6%88%90ai%E6%B4%BB%E7%94%A8%E3%81%AE%E9%99%90%E7%95%8C/1123489739538636/",
+    "https://www.facebook.com/Saisontechnology/posts/94%E9%87%91-1200%E9%85%8D%E4%BF%A1ai%E3%82%92%E5%80%8B%E4%BA%BA%E5%88%A9%E7%94%A8%E3%81%8B%E3%82%89%E7%B5%84%E7%B9%94%E6%9C%80%E9%81%A9%E3%81%B8%E3%82%BB%E3%82%BE%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%83%A8%E9%95%B7-%E5%B7%9D%E7%94%B0%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%97%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%9E%8Bai%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA%E3%82%84%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AA%E3%81%A9%E6%A5%AD%E5%8B%99%E5%9F%BA%E7%9B%A4%E5%8C%96/1523736629554172/",
+    "https://www.facebook.com/DadSaysJokes/posts/turns-out-claude-was-short-for-clawed-your-way-up-the-wrong-mountain-%EF%B8%8Fthe-16-yea/1541045408062550/",
+    "https://www.facebook.com/ARadvancedtechnologyInc/",
+    "https://www.facebook.com/ledgeph.Inc/posts/-happening-now-in-davao-city-empowering-government-professionals-through-knowled/122186439608825570/"
+   ]
+  },
+  {
+   "query": "Ledge.ai note 社長",
+   "results": [
+    "https://ledge.ai/articles/note_ai_creative",
+    "https://ledge.ai/",
+    "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session",
+    "https://feeder.co/discover/c8ef965c64/ledge-ai",
+    "https://x.com/ledgeai",
+    "https://www.facebook.com/ledgeai/",
+    "https://ledge.ai/articles/note_gemini3pro_ai_assistant_update",
+    "https://laboro.ai/activity/news/media/n4043/",
+    "https://webtan.impress.co.jp/corner/11202",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "Ledge.ai X 投稿",
+   "results": [
+    "https://x.com/ledgeai",
+    "https://ledge.ai/",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://ledge.ai/articles/x_api_reply_restriction_ai_spam_countermeasure",
+    "https://ledge.ai/expo",
+    "https://ledge.ai/articles/ledgeai24to25-announce",
+    "https://webtan.impress.co.jp/author/50509",
+    "https://ledge.ai/categories/business",
+    "https://ledge.ai/contact/ad-form",
+    "https://app.ledge.io/campaigns"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）",
+  "誰が払うか・単価": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）",
+  "規模": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）",
+  "船井型の段階": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）"
+ }
+}

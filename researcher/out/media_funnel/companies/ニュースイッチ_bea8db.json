@@ -1,0 +1,1527 @@
+{
+ "name": "ニュースイッチ",
+ "aliases": [
+  "ニュースイッチ",
+  "日刊工業新聞"
+ ],
+ "context": "業界紙のウェブ版",
+ "researched_at": "2026-11-07T03:02:46.958997+00:00",
+ "official_url": "https://newswitch.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "開設",
+    "value": "開設：2015年4月",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "積み上がって阻むもの": [
+   {
+    "quote": "星神社に記す若き日の誓い 【三菱ブランドの血脈－広報が受け継ぐ彌太郎の志＃2】",
+    "url": "https://newswitch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界や技術に精通した記者や専門家が制作したPRコンテンツをまとめました",
+    "url": "https://newswitch.jp/ads",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/register",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチでは会員向けに日々の情報収集に役立つ機能やサービスをご提供します",
+    "url": "https://newswitch.jp/register",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチの会員登録には日刊工IDでのログインが必要となります",
+    "url": "https://newswitch.jp/register",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工IDをまだお持ちでない方は先に日刊工IDに新規登録いただいたあと、ニュースイッチの会員登録にお進みください",
+    "url": "https://newswitch.jp/register",
+    "pass": 1
+   },
+   {
+    "quote": "【第二製品開発本部 第二製品開発部 第一プロジェクト統括グループ 車両開発主管 山本哲也氏】",
+    "url": "https://newswitch.jp/p/50196",
+    "pass": 1
+   },
+   {
+    "quote": "最先端ロボットの動きや話題の現場を伝える動画、記者がニュースを音声解説する動画などを配信しています",
+    "url": "https://newswitch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "最新の記事や「クルマ」「半導体」などテーマに沿った編集部おすすめ記事を紹介",
+    "url": "https://newswitch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "・会員向けに限定情報やクーポン、イベント優先受付など、",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "「登録者」とは、本サービスを利用するために当社に日刊工IDの登録を申し込み、当社が登録を認めた個人をいい、本サービス上で「日刊工ID会員」と呼ぶことがあります",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "「登録情報」とは、日刊工ID会員が当社に対して届け出た個人情報等をいいます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "「知的財産権等」とは、著作権（本サービスおよび本サービスに関連して使用されているすべてのソフトウェアに関する著作権を含みます）、特許権、実用新案権、意匠権、商標権、ドメイン名およびその他の知的財産権ならびにこれらの出願または登録に関する権利等の知的財産権その他一切の権利をいいます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第２章 日刊工ID会員登録",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "会員規約に同意して、",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "迷惑メール対策によりメールが受信できない場合がございますので、@nikkan.techのドメインからメールを受信できるようにご確認ください",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "国内No.1の広告媒体資料・マーケティング資料のポータルサイト",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界や技術に詳しい記者や専門家が広告記事を執筆および編集し、企業、業界団体、自治体などのブランディングやサービス、イベントを分かりやすく紹介しています",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体資料のダウンロードやセミナー申込に必要な無料会員登録です",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、ニュースイッチ編集部です",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "【ニュースイッチラジオ】では、経済産業のニュースをもっと身近に感じてもらうために、記事を執筆した記者に直接解説をしてもらいます",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "本日は田中明夫記者(編集局経済部)が執筆した記事、",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃 | 広報会議",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "月刊『工場管理』編集部、『機械設計』編集部を経て、新事業推進プロジェクトにて「ニュースイッチ」を立ち上げる",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "「ニュースイッチ」は、ファシリテーターと呼ばれる日刊工業新聞の記者や、外部の専門家がテーマごとに気になる記事を日刊工業新聞本紙より選別、もしくはオリジナルコンテンツを作成し、一言コメントを加えて配信しています",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？｜クロフィー編集部",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "自分の興味関心を大切にして仕事をすることが今の仕事に繋がったと葭本さんは語るが、住宅不動産業界誌の記者を経験後、どうして産業新聞の記者になったのか",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "貫いてきた記者としての思い、ウェブメディアの課題や今後などに迫った",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "ーー大学は建築学科で、自宅は中古マンションを買ってフルリノベーションもされたことがあるそうですが、どうして産業専門である日刊工業新聞社の記者になったのでしょうか",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "記者職に興味を持ったきっかけは、大学時代から本をよく読むようになり、活字媒体への憧れが生まれたことです",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、新聞に掲載している情報だけでなくウェブの読者を意識したオリジナルコンテンツづくりの強化などが必要になったことから、2018年に私が今所属しているデジタルメディア局編集部ができました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "新しいことを知ることはとても楽しいし、自分で取材先を見つけたり人に話を聞いたりすることもＲＰＧゲームのようでとても楽しいので、記者の仕事を困難に思うことはないなと思っています",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "物事に対する疑問やその裏側を知りたいという思いが記者の仕事をしている理由でしたが、担当の業界がある紙媒体にいたときは自分の興味関心で動ける時間は限られていて、自分で企画して取材をしたいとずっと思っていました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "――逆に記者として変えないようにしていることや共通点などはありますか？",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "記者としては一貫して「誠実でありたい」と思っています",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "取材内容を鵜呑みにしてしまうことがありますが、ただの広報ではなく記者として、例え企業にとってネガティブな情報だったとしても、読者が本当に知りたいことを聞き出せているか、きちんと伝えられているかを考えるようにしてます",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "ーー記者として自分を客観的に見つめるということは難しいことだと思いますが、具体的に工夫していることはありますか",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "それは、記者の仕事を経験する中でできるようになったのでしょうか",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "例えば4月に、GAFA(Google・Apple・Facebook・Amazon)が個人情報を独占して勝手に使用しているといったニュースを基に、個人データについて連載企画を立てました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞社 デジタルメディア局編集部ニュースイッチ編集長",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "住宅や不動産業界の専門誌の記者を経て、2014年に日刊工業新聞社に入社",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューを終えて：今まで産業新聞にはあまり馴染みがありませんでしたが、記者の方から人や生活の裏側に興味や関心があったことが原点であるというお話を聞き、より身近な存在に感じられました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "葭本さんが記者という仕事を楽しまれていることが内容からも話し方からも伝わり、終始楽しくお話を聞かせて頂きました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "京セラ、通期見通し上方修正…売上高最高の要因",
+    "url": "https://newswitch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京セラ、通期見通し上方修正…売上高最高の要因",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "キオクシアの4-12月期見通し、営業利益19倍…「明らかにスーパーサイクルに入っている」",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "売上高4.7兆円…キヤノン、通期下方修正のワケ",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "ファナック、初の売上高1兆円超…通期上方修正の要因",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "ニデックの前3月期、当期赤字5646億円…減損損失6321億円の内訳は?",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "米戸建ての市場低迷…積水ハウス、通期売上高を下方修正した要因",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由（ニュースイッチ）｜ｄメニューニュース（NTTドコモ）",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械向けの需要が底堅く推移するほか、為替の円安も追い風となり、全社が通期の売上高を上方修正した",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "日本精工は２７年３月期の売上高を７月公表比１００億円増の１兆５００億円、営業利益を同６０億円増の５６０億円に上方修正した",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は同２・６％増の４３６０億円、営業利益は同１５・４％増の３７５億円に上振れる",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率１０％台を目標に、下期は国内の構造改革に着手する",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "自動車事業は売上高を同０・５％減の４０３０億円、営業利益を同２・８％減の１７５億円に下方修正した",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "構造改革とコスト改善を推進し、営業利益率５％を目指す",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "２７年３月期の売上高を５月公表比１５０億円増の８２５０億円に上方修正した",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイテクトの軸受事業は欧州のニードルローラーベアリング事業を譲渡した影響による減収分はあるものの「市況は戻ってきており、伸びている業種向けの受注、売り上げは拡大していく見込み」（神谷和幸経営役員最高財務責任者〈ＣＦＯ〉）",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック、初の売上高1兆円超…通期上方修正の要因",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "コマツ・日立建機の通期見通し、売上高上方修正…DC建設需要が顕著",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   }
+  ],
+  "人がどこから来るか": [
+   {
+    "quote": "ニュースイッチでは、企業や業界団体、自治体などのブランディングやサービス・イベントを分かりやすく紹介するメニューを展開しています",
+    "url": "https://newswitch.jp/ads",
+    "pass": 1
+   },
+   {
+    "quote": "SUVの王道を極める…マツダ「CX－5」、開発者は語る",
+    "url": "https://newswitch.jp/p/50196",
+    "pass": 1
+   },
+   {
+    "quote": "話題のテーマを専門家に学べる有料ウェビナーなどを定期で開催しています",
+    "url": "https://newswitch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "最新の記事や「クルマ」「半導体」などテーマに沿った編集部おすすめ記事を紹介",
+    "url": "https://newswitch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに公開した3万本以上の記事を検索できます",
+    "url": "https://newswitch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "https://corp.nikkan.co.jp/p/privacy/index",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "電話、FAX、電子メール、郵送等による連絡がとれない場合",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞社（以下、当社）では新聞発行をはじめ、展示会やシンポジウムの開催、書籍や雑誌の発行、電子媒体による情報提供など幅広い事業を展開しています",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "新聞、書籍、雑誌、定期刊行物、電子メール配信サービスなどのご案内、ご購入の確認、お届けをするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "展示会やシンポジウム、セミナーなどのご案内、お申し込みの確認、入場券などをお届けするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "業界や技術に詳しい記者や専門家が広告記事を執筆および編集し、企業、業界団体、自治体などのブランディングやサービス、イベントを分かりやすく紹介しています",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "VTuber（バーチャルYouTuber）",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/channel/UCqdw...",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "www.facebook.com/newswitchpage",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアの現場の方々を若い目線で紹介していく「学生が迫る、メディアの担い手の素顔」シリーズ",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "例えば4月に、GAFA(Google・Apple・Facebook・Amazon)が個人情報を独占して勝手に使用しているといったニュースを基に、個人データについて連載企画を立てました",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブメディアはコメント欄があれば感想を直接見ることができますが、ニュースイッチにはないので、反響を確認するのはTwitterやFacebookなどでのエゴサーチです",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイト構築～運営、SEO対策、広告運用、SNS、ウェビナー企画～運営管理、メルマガ、顧客管理など",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "インサイドセールス: なぜ今、注目されているのか? ポイントをご紹介",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "インサイドセールスの導入: 成功につなげるポイントを紹介",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェビナーとは？ 初心者にもわかりやすくウェビナーを解説",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoom ウェビナー を開催する手順や使い方を詳しく解説",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェビナーの集客: 無料の告知から有料広告までの集客方法をご紹介",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマージャーニーマップ テンプレート & 海外事例の紹介",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "DX推進やAI活用を検討している経営層の方、お気軽にご相談ください",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "広告アーカイブ一覧｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/ads",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスにおいて広告または宣伝を行っている広告主との取引は、登録者と当該広告主の責任において行っていただきます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "つまり、商品等の代金の支払い、発送、契約条件の決定、保証、担保責任等は、すべて、登録者と広告主が当事者として責任を負うことになります",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本サービスにおいて掲載されている広告等によって行われる取引に起因する損害および広告等が掲載されたこと自体に起因する損害については一切責任を負いません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "報道・事業活動の一環としてアンケート調査やプレゼント応募などを行い、購読者や顧客の皆様から、氏名、年齢、電話番号、勤務先、住所、メールアドレス、金融機関の口座番号などをお聞きすることがあります",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "ウェブサイト上の広告配信状況の確認、広告効果の分析、行動ターゲティング広告の表示",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社のウェブサイトとリンクしている第三者のリンク先や、広告主のウェブサイトで行われている個人情報の収集・利用・取り扱いについては一切責任を負いません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではクッキーを利用し入手した情報について、コンテンツや広告の配信、特定のサービスにおける確認等で使用することはありますが、不正に使用することは一切ありません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社では購読者や顧客の皆様から取得した個人情報を、特定の個人と識別できないように加工し、復元もできないようにした匿名加工情報を作成しています",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "この匿名加工情報は、サービスの改善や新サービスの企画・開発、その他、購読者や顧客の皆様に有益な目的のために作成しています",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "国内No.1の広告媒体資料・マーケティング資料のポータルサイト",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "NEWSWITCH 媒体資料 2026年8-11月",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界や技術に詳しい記者や専門家が広告記事を執筆および編集し、企業、業界団体、自治体などのブランディングやサービス、イベントを分かりやすく紹介しています",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体資料のダウンロードやセミナー申込に必要な無料会員登録です",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドネットワーク、DSP広告、SSP広告",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告、採用管理",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定のキーワードやカテゴリ別に媒体資料を網羅的に探せます",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆広告料金と原稿サイズ（広告料金には別途消費税が加算されます",
+    "url": "https://www.dainichiad.co.jp/html/baitai/1002.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大日広告社(http://www.dainichiad.co.jp/)",
+    "url": "https://www.dainichiad.co.jp/html/baitai/1002.php",
+    "pass": 3
+   },
+   {
+    "quote": "ログインすると、定期購読しているメディアの",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "フラッとニュースイッチを読んだ人を新聞の購読につなげられるのでは、という考えもあったのですが、これが結構大変です",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "PV数が何百万と多くても有料ではないので収益は決して多くない広告費だけですし、今無料で展開しているサイトを有料にしてもうまくいかないと思うので、別のサービスか付加価値を提供して別の収益モデルを作れればいいなと思っています",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイト構築～運営、SEO対策、広告運用、SNS、ウェビナー企画～運営管理、メルマガ、顧客管理など",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェビナーの集客: 無料の告知から有料広告までの集客方法をご紹介",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "前席は１２・３インチサイズの画面を二つ並べた統合型インターフェースで、先進さを演出するとともに視界を確保した",
+    "url": "https://newswitch.jp/p/50196",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡益514億円計上へ…JDIの茂原工場、新光電気に売却",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "日立、日立建機の株式すべて売却…特別利益1799億円計上",
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "pass": 1
+   },
+   {
+    "quote": "登録者が、本サービスの利用を終了する場合は、当社所定の方法により登録者自身が退会（利用契約の解約）の手続きをするものとし、当社が確認したことをもって登録者が退会したものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "破産、民事再生開始、会社更生開始もしくは特別清算開始の申立てがあったとき、または信用状態に重大な不安が生じた場合",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第２１条 当社による事業譲渡",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＴＮは２６年４―９月期に欧米での自動車の量産案件終了が影響した一方、産機向けの物量が増加",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   },
+   {
+    "quote": "日本精工との経営統合関連費用として４４億円を見込むが、産機向けの販売規模増加で吸収できると見る",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "「登録者」とは、本サービスを利用するために当社に日刊工IDの登録を申し込み、当社が登録を認めた個人をいい、本サービス上で「日刊工ID会員」と呼ぶことがあります",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "「利用契約」とは、当社と登録者との間に成立する、本サービスの利用に関する契約をいいます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "「認証情報」とは、当社が登録者に発行した本サービスにログインするためのＩＤおよびパスワードをいいます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "本規約の変更が、登録者の一般の利益に適合するとき",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、登録者に対する本サービスの提供に関して必要となる業務の全部または一部を提携先に委託することができます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、当社に届け出た内容に変更が生じた場合には、速やかに所定の方法で変更の届出をするものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "前項の届出がなかったことで登録者に不利益を被ったとしても、当社はその一切の責任を負いません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は本サービスを利用するために必要な設備（パソコン、スマートフォン、タブレット等の携帯型通信端末、ソフトウェア、高速インターネットへの接続環境等）を、自己の費用と責任で準備するものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、登録者が準備した設備が当社の示す利用環境に適合していないために、本サービスの利用ができない場合があることを了承します",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "また、登録者固有の利用環境、コンピュータの設定等によって本サービスの利用ができない場合があることを了承します",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第９条 登録者の制限",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、当社が利用を認めた本人のみ本サービスを利用できます",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、１人で複数のメールアドレスを使用して複数の日刊工IDを申し込むことはできません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本サービスの利用があった場合、登録者本人が利用したものとして扱うことができ、当該利用によって生じた結果ならびにそれに伴う一切の責任については、登録者本人に帰属するものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、自身の認証情報を管理する一切の責任を負うものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第４章 登録者へのサポート",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第１２条 登録者への通知",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社から登録者への通知は、本サービス上での掲示または電子メール等、当社が最適と判断した方法により行います",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "当社から登録者に対する通知に際し、電子メールの未配信、文字化け、同一電子メールの複数回配信等が発生しても、当社は電子メール未配信等に係る一切の責任を負わないものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、当社から登録者への通知を随時確認する義務を負うものとし、登録者が当該確認を怠ったことにより発生した登録者の損害に関して当社は一切責任を負いません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者が登録したメールアドレスを変更した場合、当該変更が有効となるのに数日間要する場合があることを登録者は承諾し、未配信メールがある場合にも、当社に対し再配信の要求を行わないものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "第５章 登録者の責務",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、本規約上のすべての権利を第三者に譲渡できません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、本サービスの利用に関して、以下の行為を行わないものとします",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "登録者は、本サービスのコンテンツおよびその内容について、その全部または一部を問わず、本規約で定めた利用条件および著作権法で認められている「私的使用目的のための複製」の範囲を超えて、無断で使用、複製、複写、蓄積、再生、販売することはできません",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチチャンネルの登録者数も増えるといいなぁ",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "PV数が何百万と多くても有料ではないので収益は決して多くない広告費だけですし、今無料で展開しているサイトを有料にしてもうまくいかないと思うので、別のサービスか付加価値を提供して別の収益モデルを作れればいいなと思っています",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "電話、FAX、電子メール、郵送等による連絡がとれない場合",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞社（以下、当社）では新聞発行をはじめ、展示会やシンポジウムの開催、書籍や雑誌の発行、電子媒体による情報提供など幅広い事業を展開しています",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "新聞、書籍、雑誌、定期刊行物、電子メール配信サービスなどのご案内、ご購入の確認、お届けをするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "第２１条 当社による事業譲渡",
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI 子会社2社で683億円減損損失",
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "初期費用なしで資料・セミナー情報を掲載いただけます",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃 | 広報会議",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "月刊『工場管理』編集部、『機械設計』編集部を経て、新事業推進プロジェクトにて「ニュースイッチ」を立ち上げる",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "機械や自動車、ITなどすべての産業・行政の情報を扱う総合産業紙「日刊工業新聞」の創刊100周年にあわせて立ち上がったメディアです",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？｜クロフィー編集部",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "広告掲載ガイド - 日刊工業新聞社 — 広告掲載ガイド - 日刊工業新聞社 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > adguide",
+    "url": "https://corp.nikkan.co.jp/p/adguide",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ - NEWSWITCH - メディアレーダー — ニュースイッチ - NEWSWITCH - メディアレーダー メディアレーダー https://media-radar.jp > 媒体資料を探す",
+    "url": "https://media-radar.jp/detail3584.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日刊工業新聞社 Copyright 2026 NIKKAN KOGYO ... — 株式会社日刊工業新聞社 Copyright 2026 NIKKAN KOGYO ... 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...",
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202604-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞 -広告掲載・ 料金表 ・ターゲティングデータ、特徴 — 日刊工業新聞 -広告掲載・ 料金表 ・ターゲティングデータ、特徴 大日広告社 https://www.dainichiad.co.jp > html > baitai",
+    "url": "https://www.dainichiad.co.jp/html/baitai/1002.php",
+    "pass": 3
+   },
+   {
+    "quote": "2025.08～ 2025.11 - 日刊工業新聞社 — 2025.08～ 2025.11 - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...",
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202508-11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動画一覧｜ ニュースイッチ by 日刊工業新聞社 — 動画一覧｜ ニュースイッチ by 日刊工業新聞社 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > movie",
+    "url": "https://newswitch.jp/movie",
+    "pass": 3
+   },
+   {
+    "quote": "【 ニュースイッチ ラジオ】#90 最高値更新も視野、「銅」相場 ... — 【 ニュースイッチ ラジオ】#90 最高値更新も視野、「銅」相場 ... YouTube Music https://music.youtube.com > podcast",
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "pass": 3
+   },
+   {
+    "quote": "2025.04～ 2025.07 - 日刊工業新聞社 — 2025.04～ 2025.07 - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...",
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202504-07.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "届けた情報への反応が可視化される面白さはウェブ媒体ならでは — 届けた情報への反応が可視化される面白さはウェブ媒体ならでは 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > recruit > topics > interview",
+    "url": "https://corp.nikkan.co.jp/recruit/topics/interview/05.html",
+    "pass": 3
+   },
+   {
+    "quote": "記者・編集者｜ ニュースイッチ by 日刊工業新聞社 — 記者・編集者｜ ニュースイッチ by 日刊工業新聞社 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > editors",
+    "url": "https://newswitch.jp/editors",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞のメディア「 ニュースイッチ 」編集部へ突撃 — 日刊工業新聞のメディア「 ニュースイッチ 」編集部へ突撃 宣伝会議 https://www.sendenkaigi.com > media > kouhoukaigi",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "昆梓紗@ ニュースイッチ (日刊工業新聞社) (@NikkanNSkon) / X — 昆梓紗@ ニュースイッチ (日刊工業新聞社) (@NikkanNSkon) / X X https://x.com > NikkanNSkon",
+    "url": "https://x.com/NikkanNSkon",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ | AI×人間中心マーケティング — ニュースイッチ | AI×人間中心マーケティング ビジネスファイターズ https://bizfighters.com > tag > ニュースイッチ",
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "通期下方修正のワケ ニュースイッチ by 日刊工業新聞社 - X — 通期下方修正のワケ ニュースイッチ by 日刊工業新聞社 - X X https://x.com > @newswitch_",
+    "url": "https://x.com/newswitch_/status/2115556497815916880",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ Newswitch by 日刊工業新聞社 — ニュースイッチ Newswitch by 日刊工業新聞社 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp",
+    "url": "https://newswitch.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ ＠日刊工業新聞 on X: \"ジェイテクト・日本精工 ... — ニュースイッチ ＠日刊工業新聞 on X: \"ジェイテクト・日本精工 ... X https://x.com > @newswitch_",
+    "url": "https://x.com/newswitch_/status/2117992824708690396",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック、初の 売上 高1兆円超…通期上方修正の要因 — ファナック、初の 売上 高1兆円超…通期上方修正の要因 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/50631",
+    "pass": 3
+   },
+   {
+    "quote": "M＆A（合併・ 買収 ）のニュース一覧 - ニュースイッチ — M＆A（合併・ 買収 ）のニュース一覧 - ニュースイッチ ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > keyword > detail",
+    "url": "https://newswitch.jp/keyword/detail/61272?page=18",
+    "pass": 3
+   },
+   {
+    "quote": "メモリー「一番のポジションを取り戻したい」…キオクシア — メモリー「一番のポジションを取り戻したい」…キオクシア ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/49580",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃 | 広報会議",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "機械や自動車、ITなどすべての産業・行政の情報を扱う総合産業紙「日刊工業新聞」の創刊100周年にあわせて立ち上がったメディアです",
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？｜クロフィー編集部",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？",
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 (@newswitch_) / X 日刊工業新聞社@Nikkan_BizLineのニュースサイト 「ニュースイッチ」の公式Twitter。カタそうな機械や自動車、電機、部品などの産業ニュースはこんなに面白い。書籍や生活ニュースもあります。ビジネスパーソンの皆さん仕事の合間に読んで、世界を広げてみませんか？（フォロバ、個別の記事へ ...",
+    "url": "https://x.com/newswitch_",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"村田製作所、1兆円投資でMLCC増... ニュースイッチ＠日刊工業新聞 @newswitch_ Show translation 村田製作所、1兆円投資でMLCC増産…「幅広い市場への供給能力を強化する」 ニュースイッチ by 日刊工業新聞社",
+    "url": "https://x.com/newswitch_/status/2117809879393907014",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"三菱重工、ガスタービン増産…工... 三菱重工、ガスタービン増産…工場拡張に770億円 ニュースイッチ by 日刊工業新聞社 https://t.co/GogalWMLHZ",
+    "url": "https://x.com/newswitch_/status/2117830194736083358",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"人型ロボットの多指ハンドなど... 人型ロボットの多指ハンドなどに提案…大阪大学、ワイヤ1本で流体供給 ニュースイッチ by 日刊工業新聞社 | #ニュースイッチ newswitch.jp/p/50167?utm_te…",
+    "url": "https://x.com/newswitch_/status/2095355465316069811",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 (@newswitch_) / X Apr 7, 2015 · 日刊工業新聞社@Nikkan_BizLineのニュースサイト 「ニュースイッチ」の公式Twitter。カタそうな機械や自動車、電機、部品などの産業ニュースはこんなに面白い。書籍や生活ニュースもあります。ビジネスパーソンの皆さん仕事の合間に読んで、世界を広げてみませんか？（フォロバ、個別の記事へ ...",
+    "url": "https://x.com/newswitch_",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"軽EV向け、国内生産視野…AESCが... Oct 9, 2026 · 軽EV向け、国内生産視野…AESCが提案する「次世代リン酸鉄リチウムイオン電池」の性能 ニュースイッチ by 日刊工業新聞社 ...",
+    "url": "https://x.com/newswitch_/status/2108512844245336183",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "トリチウム除去で新手法、放射能汚染水を電気分解 ニュースイッチ by ... トリチウム除去で新手法、放射能汚染水を電気分解 ニュースイッチ by 日刊工業新聞社 newswitch.jp 1 4 Comments 1,729 followers 1,794 Posts",
+    "url": "https://www.linkedin.com/posts/mitsu-kurashina-03a53872_トリチウム除去で新手法放射能汚染水を電気分解-ニュースイッチ-by-日刊工業新聞社-activity-7096340064883920896-uaP-",
+    "pass": 3
+   },
+   {
+    "quote": "住宅の庭に地域に根差した樹木を植えると…積水ハウス、科学的に実証し... ｜ニュースイッチ by 日刊工業新聞社 https://lnkd.in/gC-CgWv4 住宅の庭に地域に根差した樹木を植えると…積水ハウス、科学的に実証した効果とは？ ニュースイッチ by 日刊工業新聞社 newswitch.jp",
+    "url": "https://jp.linkedin.com/posts/katsuyuki-takechi-682a5b1b0_住宅の庭に地域に根差した樹木を植えると積水ハウス科学的に実証した効果とは-ニュースイッチ-activity-7523753404695986177--m_a",
+    "pass": 3
+   },
+   {
+    "quote": "三菱商事が4500人勤務の本店ビル刷新、対話エリア拡充で価値共創 ニュ... 2y https://lnkd.in/gjBFfJ2e 三菱商事が4500人勤務の本店ビル刷新、対話エリア拡充で価値共創 ニュースイッチ by 日刊工業新聞社 newswitch.jp 5 3,449 followers ...",
+    "url": "https://www.linkedin.com/posts/katsuyoshi-sano-b1a9a467_三菱商事が4500人勤務の本店ビル刷新対話エリア拡充で価値共創-ニュースイッチ-activity-7140161304459165696-fF_H",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ニュースイッチ - Facebookニュースイッチ - 「発明から生まれる 未来のかたち」―中小・中堅企業...ニュースイッチ - ニュースイッチは音声メディア「ニュースイッチラジ...ニュースイッチ - 以前ニュースイッチで話題になった「ソニー創業者・...SDGsトピックスfromニュースイッチ - Facebook大学のニュースのNews！ - 【発信元：ニュースイッチ Newswitch】...大学のニュースのNews！ - 【発信元：ニュースイッチ Newswitch】... Apr 20, 2023 · ニュースイッチは音声メディア「ニュースイッチラジ オ」を配信しています。 記者やデスクが取材・執筆し た記事を5－10分で解説します。 第196回目は、3/30- 4/5にニュースイッチで話題になった記事ランキング& 編集部の気になる記事を紹介します。 Jul 22, 2026",
+    "url": "https://www.facebook.com/newswitchpage/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ - 「発明から生まれる 未来のかたち」―中小・中堅企業... Jul 22, 2026 · 投資額は55億円。 新会社に全 額出資する広州生産子会社の売上高を5年後に1・5 倍にする。 NEWSWITCH.JP 中国にEV電池部品の新工場、J―MAXが55億円投資 ニュースイッチ by 日刊工業新聞社",
+    "url": "https://www.facebook.com/newswitchpage/posts/発明から生まれる-未来のかたち中小中堅企業の発明応募受付中/1634440924779078/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ - ニュースイッチは音声メディア「ニュースイッチラジ... Apr 4, 2022 · ニュースイッチは音声メディア「ニュースイッチラジオ」を配信しています。記者やデスクが取材・執筆した記事を5－10分で解説します。第98回目は、「シェアリングやNFTの導入で注目高まるアート市場」について昆梓紗記者(ニュースイッチ編集部)が解説します。ぜひお聞き下さい。",
+    "url": "https://www.facebook.com/newswitchpage/posts/5401643926525791/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースイッチ - 以前ニュースイッチで話題になった「ソニー創業者・... 以前ニュースイッチで話題になった「ソニー創業者・井深大が2400人の幹部に発したパラダイムシフトという遺言」。 1992年の伝説のマネジメント会同に出席していた現役ソニー社員はもういないが、その場にいた元役員の原直史氏がその会場の高揚感を語ってくれた。",
+    "url": "https://www.facebook.com/newswitchpage/posts/以前ニュースイッチで話題になったソニー創業者井深大が２４００人の幹部に発したパラダイムシフトという遺言１９９２年の伝説のマネジメント会同に出席していた現役ソニー/1144723548884538/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://newswitch.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/ads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/register",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/50196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/50708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/keyword/detail/53488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://newswitch.jp/images/about-5.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://newswitch.jp/images/about-5.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://corp.nikkan.co.jp/p/adguide",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://media-radar.jp/detail3584.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202604-07.pdf",
+    "status": "http_405",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dainichiad.co.jp/html/baitai/1002.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrks.jp/ad/mediadata/ippan-monthly/switch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202508-11.pdf",
+    "status": "http_405",
+    "method": "pdf"
+   },
+   {
+    "url": "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202504-07.pdf",
+    "status": "http_405",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media-radar.jp/detail3584.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.nikkan.co.jp/recruit/topics/interview/05.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NikkanNSkon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=yy7cn12tDRs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/seminar/seminar-34607",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.web-planners.net/seminar/webplanners_semi_fukususite.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2115556497815916880",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2117992824708690396",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://release.nikkei.co.jp/detail.cfm?relID=257342&lindID=3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cmp.co.jp/library/pdf/f_report/2019_f-report_2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oneissue.jp/jobseeker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lreach.jp/media/article017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/recruitment-cpa-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pontoro.hatenablog.com/entry/2026/03/31/120258",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinoko1629/n/n5a76f0febd8b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.sonynetwork.co.jp/n/nd6d046df5620?gs=cde5a3681da8005bd0602fb56dabc557",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xserver.ne.jp/blog/introduction-of-note-and-difference-blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/newswitch_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2117809879393907014",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2117830194736083358",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2095355465316069811",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mitsu-kurashina-03a53872_トリチウム除去で新手法放射能汚染水を電気分解-ニュースイッチ-by-日刊工業新聞社-activity-7096340064883920896-uaP-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/katsuyuki-takechi-682a5b1b0_住宅の庭に地域に根差した樹木を植えると積水ハウス科学的に実証した効果とは-ニュースイッチ-activity-7523753404695986177--m_a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/katsuyoshi-sano-b1a9a467_三菱商事が4500人勤務の本店ビル刷新対話エリア拡充で価値共創-ニュースイッチ-activity-7140161304459165696-fF_H",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/newswitchpage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/newswitchpage/posts/発明から生まれる-未来のかたち中小中堅企業の発明応募受付中/1634440924779078/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/newswitchpage/posts/5401643926525791/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/newswitchpage/posts/以前ニュースイッチで話題になったソニー創業者井深大が２４００人の幹部に発したパラダイムシフトという遺言１９９２年の伝説のマネジメント会同に出席していた現役ソニー/1144723548884538/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newswitch_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2108512844245336183",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニュースイッチ 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://corp.nikkan.co.jp/p/adguide",
+    "https://media-radar.jp/detail3584.html",
+    "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202604-07.pdf",
+    "https://www.dainichiad.co.jp/html/baitai/1002.php",
+    "https://www.hrks.jp/ad/mediadata/ippan-monthly/switch/",
+    "https://www.switch-store.net/hpgen/HPB/entries/402.html",
+    "https://www.zasshi-ad.com/media/man/lifestyle/switch.html",
+    "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202508-11.pdf",
+    "https://www.decn.co.jp/inc/jigyo_data/%E6%96%99%E9%87%91%E8%A1%A82603%E6%94%B9%E8%A8%82.pdf"
+   ]
+  },
+  {
+   "query": "ニュースイッチ PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202508-11.pdf",
+    "https://newswitch.jp/movie",
+    "https://music.youtube.com/podcast/S4pa__CtdyE",
+    "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202504-07.pdf",
+    "https://media-radar.jp/detail3584.html",
+    "https://www.facebook.com/newswitchpage/?locale=ja_JP",
+    "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "https://www.youtube.com/watch?v=S1CbhpKC6SE",
+    "https://hondana-storage.s3.amazonaws.com/1046/files/ad_kikaku/2027%E5%B9%B4%E7%89%88%20%E3%82%B8%E3%83%A7%E3%83%96%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0_%E4%BC%81%E7%94%BB%E6%9B%B8%2020251031.pdf"
+   ]
+  },
+  {
+   "query": "ニュースイッチ 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://corp.nikkan.co.jp/recruit/topics/interview/05.html",
+    "https://newswitch.jp/editors",
+    "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/",
+    "https://x.com/NikkanNSkon",
+    "https://note.com/chrophy/n/n4aad0c8d4e7a",
+    "https://www.youtube.com/watch?v=tzaJPqdqmGI",
+    "https://www.1101.com/n/s/14editors/toshinori_arai",
+    "https://www.youtube.com/watch?v=hnpfUOVytAg",
+    "https://www.ebagency.jp/news/9435/"
+   ]
+  },
+  {
+   "query": "ニュースイッチ 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://bizfighters.com/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "https://www.youtube.com/watch?v=yy7cn12tDRs",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://n-works.link/seminar/seminar-34607",
+    "https://www.web-planners.net/seminar/webplanners_semi_fukususite.html",
+    "https://www.youtube.com/watch?v=DwG0rFTr_UA",
+    "https://www.seohacks.net/seminar/",
+    "https://learningedge.jp/column/how-to-attract-customers-with-seo/",
+    "https://techplay.jp/event/923389",
+    "https://growth-partners-japan.co.jp/blog/2025/12/26/marketing-seo-mechanism/"
+   ]
+  },
+  {
+   "query": "ニュースイッチ 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://x.com/newswitch_/status/2115556497815916880",
+    "https://newswitch.jp/",
+    "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701",
+    "https://x.com/newswitch_/status/2117992824708690396",
+    "https://newswitch.jp/p/50631",
+    "https://www.nintendo.co.jp/ir/finance/hard_soft/index.html",
+    "https://www.youtube.com/watch?v=t0s0k_IwatA",
+    "https://topics.smt.docomo.ne.jp/publishers/newswitch/business",
+    "https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202504-07.pdf",
+    "https://topics.smt.docomo.ne.jp/publishers/newswitch/all"
+   ]
+  },
+  {
+   "query": "ニュースイッチ 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://newswitch.jp/",
+    "https://newswitch.jp/keyword/detail/61272?page=18",
+    "https://newswitch.jp/p/49580",
+    "http://release.nikkei.co.jp/detail.cfm?relID=257342&lindID=3",
+    "https://www.cmp.co.jp/ir/news/ir_news/20181112.html",
+    "https://www.smd-am.co.jp/market/daily/focus/2020/focus200107jp.pdf",
+    "https://www.sonylife.co.jp/company/news/2022/files/220720_release.pdf",
+    "https://www.shiftinc.jp/news/announcement-regarding-the-acquisition-of-nisseicom-limited-and-its-conversion-into-a-consolidated-subsidiary-through-a-subsidiary-shift-growth-capital-inc/"
+   ]
+  },
+  {
+   "query": "ニュースイッチ 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service/",
+    "https://oneissue.jp/jobseeker",
+    "https://lreach.jp/media/article017",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/recruitment-cpa-rising/",
+    "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "https://www.recruitment-db.com/job-seeker-referral/",
+    "https://www.revive.gift/news/2025/07/28/784/",
+    "https://partner.growthdesign-spo.co.jp/guide/billing-models/",
+    "https://lreach.jp/media/article051",
+    "https://ja.wikipedia.org/wiki/成功報酬"
+   ]
+  },
+  {
+   "query": "ニュースイッチ note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://pontoro.hatenablog.com/entry/2026/03/31/120258",
+    "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "https://note.com/kinoko1629/n/n5a76f0febd8b",
+    "https://note.sonynetwork.co.jp/n/nd6d046df5620",
+    "https://www.xserver.ne.jp/blog/introduction-of-note-and-difference-blog/",
+    "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "https://note.com/tag/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A",
+    "https://newswitch.jp/p/20088",
+    "https://www.help-note.com/hc/ja/articles/360019412153-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEnote%E3%82%AC%E3%82%A4%E3%83%89",
+    "https://ja.wikipedia.org/wiki/宮崎奈穂子"
+   ]
+  },
+  {
+   "query": "site:note.com ニュースイッチ",
+   "results": []
+  },
+  {
+   "query": "site:x.com ニュースイッチ",
+   "results": [
+    "https://x.com/newswitch_",
+    "https://x.com/newswitch_/status/2117809879393907014",
+    "https://x.com/newswitch_/status/2117830194736083358",
+    "https://x.com/newswitch_/status/2095355465316069811",
+    "https://x.com/newswitch_/status/2118861025525080200",
+    "https://x.com/newswitch_/status/2108512844245336183",
+    "https://x.com/newswitch_/status/2118714439406931982"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ニュースイッチ",
+   "results": [
+    "https://www.linkedin.com/posts/mitsu-kurashina-03a53872_トリチウム除去で新手法放射能汚染水を電気分解-ニュースイッチ-by-日刊工業新聞社-activity-7096340064883920896-uaP-",
+    "https://jp.linkedin.com/posts/katsuyuki-takechi-682a5b1b0_住宅の庭に地域に根差した樹木を植えると積水ハウス科学的に実証した効果とは-ニュースイッチ-activity-7523753404695986177--m_a",
+    "https://www.linkedin.com/posts/katsuyoshi-sano-b1a9a467_三菱商事が4500人勤務の本店ビル刷新対話エリア拡充で価値共創-ニュースイッチ-activity-7140161304459165696-fF_H",
+    "https://id.linkedin.com/in/i-gede-satyananda-gautama-3429052ba",
+    "https://uk.linkedin.com/in/marie-ebert",
+    "https://cn.linkedin.com/in/岳志-鈴木-59054a230",
+    "https://jp.linkedin.com/posts/jake-suwazono-68084255_トヨタ日産ホンダが減少乗用車メーカー8社26年度上期世界生産の全容ニュースイッチ-activity-7523545420355223552-w6-h"
+   ]
+  },
+  {
+   "query": "site:facebook.com ニュースイッチ",
+   "results": [
+    "https://www.facebook.com/newswitchpage/",
+    "https://www.facebook.com/newswitchpage/posts/発明から生まれる-未来のかたち中小中堅企業の発明応募受付中/1634440924779078/",
+    "https://www.facebook.com/newswitchpage/posts/5401643926525791/",
+    "https://www.facebook.com/newswitchpage/posts/以前ニュースイッチで話題になったソニー創業者井深大が２４００人の幹部に発したパラダイムシフトという遺言１９９２年の伝説のマネジメント会同に出席していた現役ソニー/1144723548884538/",
+    "https://www.facebook.com/p/SDGsトピックスfromニュースイッチ-100063579337543/",
+    "https://www.facebook.com/university.news/posts/発信元ニュースイッチ-newswitch東大がデータサイエンスａｉ教材を他大学や高専に無償提供する理由httpsnewswitchjpp27767/3970295396340852/",
+    "https://www.facebook.com/university.news/posts/4027305893973135/"
+   ]
+  },
+  {
+   "query": "ニュースイッチ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50444"
+   ]
+  },
+  {
+   "query": "ニュースイッチ X 投稿",
+   "results": [
+    "https://x.com/newswitch_",
+    "https://x.com/newswitch_/status/2108512844245336183",
+    "https://newswitch.jp/",
+    "https://splatoonnews.com/switch-x-post/",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://soraeblog.com/switch-photo-share/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）",
+  "代表者": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）"
+ }
+}

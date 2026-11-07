@@ -1,0 +1,2562 @@
+{
+ "name": "AIsmiley",
+ "aliases": [
+  "AIsmiley",
+  "アイスマイリー"
+ ],
+ "context": "AI系メディア＋製品比較・資料請求（送客型）",
+ "researched_at": "2026-11-07T02:55:37.470555+00:00",
+ "official_url": "https://aismiley.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "板羽 晃司",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "板羽 晃司",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 　板羽 晃司",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "label": "（渋谷区、代表取締役",
+    "value": "板羽 晃司）とMMD研究所（中央区、所長：吉本 浩司）は共同で、予備調査では20歳～69歳の会社員15,161人、本調査では勤務先でAIが組織的に導入されており、かつ自身がその導入や活用に関わった400人を対象に2026年7月10日～7月14日の期間で「2026年企業のAI導入・活用に関する調査」を実施いたしました",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "板羽 晃司",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "伊藤　志麻",
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "板羽 晃司",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 板羽 晃司",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区恵比寿西1-9-6",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 　東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西１-20−2 西武信用金庫恵比寿ビル 9F",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西１-20−2 西武信用金庫恵比寿ビル 9F",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西１-20−2 西武信用金庫恵比寿ビル 9F",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150－0022",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0021 東京都渋谷区恵比寿西１-20−2 西武信用金庫恵比寿ビル 9F",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018年3月9日",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2002年4月",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2023年2月",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2006年3月15日",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年3月9日",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年3月9日",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016/10",
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年3月9日",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "40名　※社員の半数以上がAI資格「G検定」「生成AI」を保有",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "150名",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "20名（業務委託を含む）",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "26名 ※社員の半数以上がAI資格「G検定」を保有 JDLA Deep Learning for GENERAL",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VC不明",
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "pass": 3
+   },
+   {
+    "label": "運営会社",
+    "value": "会社概要",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DX関連のイベント（展示会・セミナー・講演会）をご紹介します",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NexTech Week 2026",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan DX & AX Week【関西】2026",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIsmileyは、AI製品やサービスの比較・検索サイトです",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたのDX課題を解決できるAIサービスを、",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メルマガ登録やSNSアカウントのフォローで、最新のAIトレンド情報をいち早くキャッチできます",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業務の課題解決に繋がる最新DX・AI関連情報をお届けいたします",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "TDSEが提供する「データ分析/AI開発/コンサルティング」は、生成AI・データ分析・需要予測などを活用し、企業のDX推進や業務効率化を支援するサービスです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO特化型のAI自動記事生成ツール Creative Drive",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社chipperが提供する「SEO特化型のAI自動記事生成ツール Creative Drive」は最新のAIテクノロジーと独自のSEOノウハウを掛け合わせることで、“誰でも”、 “簡単”にWeb記事の執筆によるコンテンツマーケティングを可能にします",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社wevnalが提供する「BOTCHAN for LP」は、ユーザーがFacebook広告をクリックすると「Messenger」にチャットボットが出現して、商品やサービス内容に関するユーザーからの質問に対して、メッセージ形式でリアルタイムに会話をさせることができる「対話型広告」を導入いたします",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "Search Engine Optimization の略称で、検索エンジンの最適化を指します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "AIが24時間Webページの監視・解析を行ったり、外部からのWeb集客を自動化するために被リンクを自動生成するなどの技術があります",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイスマイリーが運営するAIポータルメディア「AIsmiley」は、AIの専門家によるコンテンツ配信とプロダクト紹介を行うWebメディアです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "・Youtubeのチャンネル登録もお願いいたします",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "SNSツール（LINE等）を用いた顧客問合せ対応",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "業務の課題解決に繋がる最新DX・AI関連情報をお届けいたします",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・アドテクノロジーのAI導入活用事例- | AI製品・サービスの比較・検索・資料請求サイト",
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "DXを推進するAIポータルメディア「AIsmiley」｜ AI製品・サービスの比較・検索サイト",
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "業務の課題解決に繋がる最新DX・AI関連情報をお届けいたします",
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "11/11（水）から3日間、「NexTech Week 2026【秋】/ AI・人工知能EXPO」にブース出展",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "10/21（水）から3日間、「Japan DX & AX Week 秋 2026」にブース出展",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "日テレNEWS NNNで「AI博覧会 Summer 2026」が紹介されました",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【11/6開催ウェビナー】音声対話AIで進化するコンタクトセンター！自動化成功のカギとは？ ～ボイスボットで実現する問い合わせ対応の自動化・顧客満足度向上の秘訣に迫る～",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【10/30開催ウェビナー】「使われない生成AI」をゼロにする！プロセス再設計×人材育成で実現する全社定着 ～人とAIの役割分担から、現場業務への組み込み、研修・エージェント活用事例まで一挙公開～",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは来たるべきDX時代の到来に向けて、今こそ従来のライフスタイルや仕事観を大きく変革する時期に来ています",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "すべての企業にAIを広めるDX推進支援事業",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AIプロダクトを開発して売りたい企業と、AIを導入してDXを実現したい企業",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用した最新のDX事例・プロダクト情報をご紹介",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの導入事例や活用事例を参考に、自社に最適なAIプロダクトを紹介する国内最大級のポータルメディアを運営しています",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "■AI製品の資料請求 ■DX推進の事例紹介",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "■AI導入の相談受付 ■AI搭載の最新プロダクトを厳選して紹介",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在募集中の職種や、アイスマイリー社員の紹介については下記リンクよりご参照ください",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AI製品・ソリューションの掲載を希望される企業様へ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "AIsmileyの強みである検索順位により、AIプロダクト・ソリューションの導入を検討しているユーザー企業からの相談を獲得できます",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "メディアが費やすプロモーション費用・広告費用・検索順位対策費用は、全て弊社負担で対応してまいります",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "国内で唯一のAIプロダクト紹介メディアだからこそ、導入意欲のある企業からお問い合わせをいただくことが可能です",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載して終わりではなく、イベントやメルマガで定期的な情報を発信してくれる",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "他の比較サイトや資料ダウンロードサイトと比較すると、資料請求者への接続率が高い",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/inquire/",
+    "pass": 1
+   },
+   {
+    "quote": "DXを推進するAIポータルメディア「AIsmiley」｜ AI製品・サービスの比較・検索サイト",
+    "url": "https://aismiley.co.jp/inquire/",
+    "pass": 1
+   },
+   {
+    "quote": "AI受託開発｜AI駆動の低価格開発｜株式会社ライトアップ｜AI受託開発｜AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/inquire/?c=true&all=true&cp=4849",
+    "pass": 1
+   },
+   {
+    "quote": "DXを推進するAIポータルメディア「AIsmiley」｜ AI製品・サービスの比較・検索サイト",
+    "url": "https://aismiley.co.jp/inquire/?c=true&all=true&cp=4849",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発｜株式会社Omluc｜広告・クリエイティブ｜AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "情報の鮮度や検索適合性を最適化したデータベースにより、嘘のない、実務で使える回答を実現します",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "広告媒体： Google Ads, Meta(Facebook/Instagram), X(Twitter), LINE Ads, TikTok Ads",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "（インターネットSNS広告会社 / 従業員数100名）",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "hachidori LINE広告 | hachidori株式会社 | 広告・クリエイティブ | AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "DXを推進するAIポータルメディア「AIsmiley」｜ AI製品・サービスの比較・検索サイト",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "友達追加時にのみ課金のため、無駄な費用を掛けずにLINEに集客",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント様自社集客時の10倍のユーザー数を1人100円で達成実績",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "また、自然な流入により関心度が高い友達獲得が見込めます",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エフ・コードは、創業以来十数年に渡って蓄えたCX領域のデータ解析・ノウハウをコアとして、広範なデジタルサービスを展開することでお客様のDXを実現します",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO特化型のAI自動記事生成ツール Creative Drive",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "比較表・カオスマップ・事例ガイド等を資料請求いただけます",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人工知能を搭載した製品・サービスを探し資料請求することができます",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "気になるAIプロダクトの資料請求(無料)により、詳細な機能や料金などをご確認いただけます",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・クリエイティブ﻿のサービス比較と企業一覧｜AIsmiley",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "一括資料請求なら、導入の比較検討が",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・クリエイティブを全て無料で資料請求する",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル化の時代、広告はマスからone to oneコミュニケーションへと移り変わっています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに昨今では、AIを活用して広告の効果をより高める事例も出ています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "1カ月限定トライアル ※トライアル終了後は自動課金",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "CATS株式会社が提供する「CATS」は、ワンタグ方式で多岐に渡る広告を一元管理",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "CAPIを用いて広告効果を正確に測定することで、工数削減＆費用対効果最大化を同時に実現する広告プラットフォームです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "動画・映像・広告において消費者の「集中力」や「興味の度合い」「視線」を解析することで、コンテンツがどのように見られているかを知ることができます",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社wevnalが提供する「BOTCHAN for LP」は、ユーザーがFacebook広告をクリックすると「Messenger」にチャットボットが出現して、商品やサービス内容に関するユーザーからの質問に対して、メッセージ形式でリアルタイムに会話をさせることができる「対話型広告」を導入いたします",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "国内で数社しか存在しない LINE社による2つの認定パートナーのLINE広告",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告主が広告出稿の費用対効果の最適化を行うためのプラットフォームです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "LINEに広告出稿するための運用型広告配信プラットフォームです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・アドテクノロジーのAI導入活用事例- | AI製品・サービスの比較・検索・資料請求サイト",
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・アドテクノロジーのAI導入活用事例 ／ 1件",
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "■AI製品の資料請求 ■DX推進の事例紹介",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AI製品・ソリューションの掲載を希望される企業様へ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "AIsmileyは、AIプロダクトの比較・資料請求ができる「国内最大級のAIポータルメディア」です",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求からリード（見込顧客）の開拓ができます",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "メディアが費やすプロモーション費用・広告費用・検索順位対策費用は、全て弊社負担で対応してまいります",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬の条件につきましては右側の掲載登録フォーム完了後、弊社AIsmileyの担当から、ご連絡させていただきます",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "他の比較サイトや資料ダウンロードサイトと比較すると、資料請求者への接続率が高い",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "最初のお問い合わせや資料請求の時点で「AIを使ってどんなことをしたいか？」という具体的なイメージを持たれているお客様が多いので、比較的スムーズにお話を進めやすいという印象がありますね",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/inquire/",
+    "pass": 1
+   },
+   {
+    "quote": "※競合調査・いたずらでの資料請求はご遠慮ください",
+    "url": "https://aismiley.co.jp/inquire/",
+    "pass": 1
+   },
+   {
+    "quote": "AI受託開発｜AI駆動の低価格開発｜株式会社ライトアップ｜AI受託開発｜AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | AIsmiley - AI製品・サービスの比較・検索・資料請求メディア",
+    "url": "https://aismiley.co.jp/inquire/?c=true&all=true&cp=4849",
+    "pass": 1
+   },
+   {
+    "quote": "※競合調査・いたずらでの資料請求はご遠慮ください",
+    "url": "https://aismiley.co.jp/inquire/?c=true&all=true&cp=4849",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発｜株式会社Omluc｜広告・クリエイティブ｜AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告・SNS施策立案/レポーティング自動化AIエージェント開発",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "広告媒体： Google Ads, Meta(Facebook/Instagram), X(Twitter), LINE Ads, TikTok Ads",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "（インターネットSNS広告会社 / 従業員数100名）",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "hachidori LINE広告 | hachidori株式会社 | 広告・クリエイティブ | AI製品・サービスの比較・検索・資料請求メディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "友達追加時にのみ課金のため、無駄な費用を掛けずにLINEに集客",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "広告代理店、事業会社で経験を積んだ専属マーケターチームが運用を担当",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "CPF(Cost Per Friends)とは、LINE広告を通じてLINE公式アカウントの友達を獲得する広告商品です",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "他の媒体には存在しない、友達追加時にのみ課金が発生するため、 無駄な費用を掛けずに友達数を増やすことが出来ます",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "CPF以外のLINE広告も取り扱い可能です",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "広告の対象となるユーザーの属性や興味を推測し、ターゲティングすることでアクションをしやすいユーザーに広告を 表示するため費用対効果の高い配信が見込めます",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "マス広告からone to oneコミュニケーションへ！AI活用した広告の事例 | DXを推進するAIポータルメディア「AIsmiley」",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "マス広告からone to oneコミュニケーションへ！AI活用した広告の事例",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル化の時代、広告はマスからone to oneコミュニケーションへと移り変わっています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに昨今では、AIを活用して広告の効果をより高める事例も出ています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、AIの活用によって変わりつつある広告業界についてまとめました",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型の広告手法とAIでのデータ分析を組み合わせてより効果向上",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・マーケティング業界では、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "さらにAIは広告のクリエイティブ面にもその能力を及ぼし始めています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "実は、「クリエイティブな仕事のほうがAIに置き換えやすい」という言説もあるほどで、広告制作などもAIが請け負うケースが出始めているのです",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "電通が開発したAIコピーライター「AICO」は、電通のコピーライターが考えた無数の広告コピーを学習し、新たなコピーをひねり出すAIです",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "また、電通では広告クリエイティブ（バナー画像などの広告素材）をAIで自動生成する取り組みも始めています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "（参照：ITmedia AIがバナー広告を自動生成、電通が開発）",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "広告の効果測定やターゲット配信に感情認識AIを活用",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカではすでに、ターゲットとなる層に広告を見せ、",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "プレスリリースアワード2026発表",
+    "url": "https://aismiley.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エフ・コードは、創業以来十数年に渡って蓄えたCX領域のデータ解析・ノウハウをコアとして、広範なデジタルサービスを展開することでお客様のDXを実現します",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "「AI博覧会 Spring 2026」カンファレンス第3弾スピーカーを発表！創業220年の老舗…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "Managetechが「MFAChecker」をリリース",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニ、AIが広告効果の高いBGMを自動生成する「Odd-AI Sound」リリース",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "PIXTA、新たにアノテーション部門を設立 画像教師データの作成を一括サポート",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "二ベル、AIチャットによるサポート付きのWeb制作特化型クラウドソーシングサービスをリリース",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "は、2017年に日本法人が設立され、ここ数年で国内企業での採用が急増しているRPAツールです",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年の設立以来、AIプロダクトの開発企業と導入希望企業を繋ぐ架け橋として急成長を遂げてきた『AIsmiley』",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年の設立以来、国内最大級のAIメディアへと急成長を遂げた『AIsmiley』",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "問い合わせ対応、AI博覧会の告知記事・プレスリリースの原稿チェック",
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-01/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年には「女子高生AIりんな」をリリースしました",
+    "url": "https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/",
+    "pass": 1
+   },
+   {
+    "quote": "アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践コミュニティ 「AIsmiley Community」を開設",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践コミュニティ 「AIsmiley Community」を開設 | 株式会社アイスマイリー",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "創業3年で国内シェアトップへ",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践コミュニティ「AIsmiley Community」を開設 - ジョルダンニュース",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   },
+   {
+    "quote": "※本資料はプレスリリースや製品サイト、導入実績などの公開情報を基にAIsmiley編集部が独自の視点で取りまとめたもので、網羅性や正確性を完全に担保するものではありません",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "【12/23開催】予測AI特化！売上が向上した成功事例紹介ウェビナー ～蓄積したデータを活用し、データドリブンな経営を実現します～ - 株式会社アイスマイリーのプレスリリース",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの投稿はプレスリリースではありません",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "応援すると、このプレスリリースがランキングで上位表示され、記者から閲覧されやすくなります",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "FacebookやTwitterでシェア(応援)すると、このプレスリリースがランキングで上位表示され、",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "フォローすると、フォローした企業がプレスリリースを配信した際に、メールで受信することができます",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "※本資料はプレスリリースや製品サイト、導入実績などの公開情報を基にAIsmiley編集部が独自の視点で取りまとめたもので、網羅性や正確性を完全に担保するものではありません",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日：2018年3月9日",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   },
+   {
+    "quote": "創立8年を迎え、さまざまな経験や知識を持つ優秀なメンバーが集まっています",
+    "url": "https://www.wantedly.com/companies/aismiley",
+    "pass": 3
+   },
+   {
+    "quote": "2018/3 に設立",
+    "url": "https://www.wantedly.com/companies/aismiley",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "顧客データ、ブランド知、施策結果を学び続けるAIエージェントが、分析・企画・制作・配信・改善を連携",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "法人会員（年額）8万円",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "15万社の顧客データベースと代理店網を活用し、売るところまで支援します",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用的なAIツールとは異なり、貴社独自の「運用ナレッジデータベース」を構築します",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "情報の鮮度や検索適合性を最適化したデータベースにより、嘘のない、実務で使える回答を実現します",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "RAGの開発やチューニングに関する実績はありますか？",
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント様自社集客時の10倍のユーザー数を1人100円で達成実績",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/ai_news/recently-popular-chatbot-ads/",
+    "pass": 1
+   },
+   {
+    "quote": "AIsmiley Communityとは、AIを「みんなで実践する」かたちで実務のヒントをシェアしあう共創コミュニティです",
+    "url": "https://aismiley.co.jp/company_news/business-fair-26th/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ、ブランド知、施策結果を学び続けるAIエージェントが、分析・企画・制作・配信・改善を連携",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "法人会員（年額）8万円",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "イレブンラボ、ユニバーサル ミュージック グループと戦略的提携に合意",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "動画生成AIの「可能性と限界」に挑戦した港区SFコメディ「サヨナラ港区」がDMMで独占配信",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット広告事業拡大を推進 プレイド、アジト株式会社をグループ化",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】リードジャパンのブランドを捨て、RX Japanとして新たに創造する展示会～A…",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "RPA導入成功事例5選！業界・業種別の課題や業務効率化の実績を解説",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、特定の業務を長年同じ人が独占して行っていると、不正の温床になりやすくなります",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "取引実績114社、BPA(業務自動化)・RPAでの自動化業務2,200以上、累計削減作業時間数10万時間以上と実績豊富で、コンサル・SIer対比で10-20%の稼働単価低減を実現する高いコストパフォーマンスが魅力です",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "専門家のサポートのもと、最新情報や現場の知見をシェアし合える実践的な学びの場を提供しています",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "社内旅行年1回（過去実績：沖縄）",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "未経験から入社2年目でリーダーへ昇格した実績もあり、高いモチベーションを維持して働ける環境です",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/",
+    "pass": 1
+   },
+   {
+    "quote": "アポ率60%の実績アリ！一括資料請求じゃなく、貴社のサービスが気になるリードを獲得！営業効率の高いリード獲得ならキャククル！",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの開催で累計5万7千人以上が来場",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "※回答者の属性は会員登録後に無料レポートよりご確認いただけます",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月決済・金融サービスの利用シェアトップ",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録をすると、",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "主回線と副回線で異なるブランドの組み合わせは、「楽天モバイル×povo」が最多",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "※申し込み終了※9/7（月）・9/9（水）MMDセミナー 「競合と比べて見つける『自社サービスが勝てる理由』～通信サービス8ブランドから学ぶ、広告・PRで使える「強み」の見つけ方～」",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "・会員同士の「お悩み解決・共創スペース」 ：コミュニティプラットフォーム上で、いつでもリーダー陣や仲間に質問できるQ&Aの場や、活用事例を共有し合う場を用意します",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "社員主導で試行錯誤を繰り返した結果、直近のイベントでは約1万2000人、累計で5万人もの方にご来場いただいています",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "その根底には、「地方に集積する日本の製造業とAIをかけ合わせ、かつて「Japan as No.1」と呼ばれ世界を席巻した日本の産業を再び高めたい」という思いがあります",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "AIブーム到来前の2018年に同社のグループ会社である株式会社アイスマイリーの代表取締役に就任し、AI特化型のポータルメディア「AIsmiley」を立ち上げた",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "2024年より主催する「AI博覧会」は、東京・大阪など各地で開催し、累計5万人の来場者を記録",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "創業3年で国内シェアトップへ",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "- 会員同士の「お悩み解決・共創スペース」 ：コミュニティプラットフォーム上で、いつでもリーダー陣や仲間に質問できるQ&Aの場や、活用事例を共有し合う場を用意します",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "こうした中、担当者の経験や勘に頼っていた発注や計画策定を見直し、過去の実績や市場データ、天候などの外部データを活用して将来の需要を予測する「需要予測AI」の活用が広がっています",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績や来客数、天候、商圏データなどをもとに、商品の販売数や売上、来客数を予測し、販売計画や店舗運営に活用",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績や需要動向などから将来の需要量を予測し、適正在庫の維持や発注量の算出・判断",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "受注実績や販売動向などをもとに製品需要や生産量を予測し、生産計画や資材調達の策定",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "出荷実績や需要データなどから将来の出荷量や物量を予測し、人員配置や物流計画の策定",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績や市場データ、価格動向などをもとに、需要や価格、市況の変化を予測し、価格設定や市場分析",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "気象データや過去の使用実績などから電力やガスの需要量を予測し、需給管理や運用計画の策定",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "※本資料はプレスリリースや製品サイト、導入実績などの公開情報を基にAIsmiley編集部が独自の視点で取りまとめたもので、網羅性や正確性を完全に担保するものではありません",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "今回のウェビナーでは、予測AIで実績のある3社より予測AIの成功事例についてご紹介します",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "応援すると、このプレスリリースがランキングで上位表示され、記者から閲覧されやすくなります",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "また、FacebookやTwitterでシェアすることによって、より多くの記者・一般ユーザー・業界関係者の目に留まる手助けができます",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "FacebookやTwitterでシェア(応援)すると、このプレスリリースがランキングで上位表示され、",
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "pass": 3
+   },
+   {
+    "quote": "※本資料はプレスリリースや製品サイト、導入実績などの公開情報を基にAIsmiley編集部が独自の視点で取りまとめたもので、網羅性や正確性を完全に担保するものではありません",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "利用料金・初期費用・無料プラン・トライアルの有無などを、一覧で比較・確認できるページです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "最初のお問い合わせや資料請求の時点で「AIを使ってどんなことをしたいか？」という具体的なイメージを持たれているお客様が多いので、比較的スムーズにお話を進めやすいという印象がありますね",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 1
+   },
+   {
+    "quote": "自社でも事業をつくり続けてきた当事者として、企画から立ち上げまで並んで進めます",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エフ・コードは、創業以来十数年に渡って蓄えたCX領域のデータ解析・ノウハウをコアとして、広範なデジタルサービスを展開することでお客様のDXを実現します",
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "pass": 1
+   },
+   {
+    "quote": "知識ゼロからスタートして6年目、自分の「やりたい」をすべてマルチなカタチにして楽しんでいます",
+    "url": "https://aismiley.co.jp/company/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "利用料金・初期費用・無料プラン・トライアルの有無などを、一覧で比較・確認できるページです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "「AI博覧会 Spring 2026」カンファレンス第3弾スピーカーを発表！創業220年の老舗…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "それは「入力条件から初期値を設定する」「図面から必要な部材を抽出する」など、人の判断や意思決定がどうしても必要な作業個所があり、一連の作業をRPAだけで全て自動化することが困難だからです",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "知識ゼロからスタートして6年目、自分の「やりたい」をすべてマルチなカタチにして楽しんでいます",
+    "url": "https://aismiley.co.jp/company/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自の3ヶ月間の初期研修プログラム『AIブースト90』をはじめ、",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "最初の1週間：座学研修",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "知識ゼロから挑戦する不安や楽しさがわかる先輩ばかりなので、",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "「ここで自分の価値を上げたい」知識ゼロから飛び込んだ新卒1社目",
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-01/",
+    "pass": 1
+   },
+   {
+    "quote": "最初は上司と2人でブースに向かったのですが、実際に出展社の方に話しかけるのは1人で最初はとても緊張しました",
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-02/",
+    "pass": 1
+   },
+   {
+    "quote": "そして将来的には、既存の枠組みに留まらず、会社に対して新しい何かを作れる人材になりたいと思っており、新規事業の立ち上げなどにも積極的に挑戦していきたいと考えています",
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-02/",
+    "pass": 1
+   },
+   {
+    "quote": "入社最初の3ヶ月間は研修期間となっており、まずはAIのサービスをカテゴリ別にしっかりと学びます",
+    "url": "https://aismiley.co.jp/company/recruit/interview/op-01/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載を検討する場合は、初期費用、月額費用、成果報酬、最低契約期間、リード単価の考え方を資料で確認しましょう",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS選定、業務整理、初期設定、システム連携、運用定着、情シス代行、SalesforceやERP...",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、リアルな出会いの場を創出するため、2024年に展示会イベント「AI博覧会」を立ち上げたのです",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "今後は「AIポータルメディア」を確固たる中核としながら、リアルな出会いを創出する「AI博覧会」、そしてこれから新たに立ち上げる実践型AIコミュニティ「AIsmiley Community」という3本柱で、事業を多角的に拡大していく段階に入ります",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "AIブーム到来前の2018年に同社のグループ会社である株式会社アイスマイリーの代表取締役に就任し、AI特化型のポータルメディア「AIsmiley」を立ち上げた",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "国内外合わせて230施設以上の直営会議室を運営する、グロース上場企業",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "創業3年で国内シェアトップへ",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "Sales VP、アライアンスG立ち上げ、エンタープライズGの立ち上げに従事",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・マーケティング業界では、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "動画生成AIの「可能性と限界」に挑戦した港区SFコメディ「サヨナラ港区」がDMMで独占配信",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて「BPA2」は、FAXや紙帳票の仕分け作業をAI-OCRとRPAを組み合わせて自動化してくれるソリューションです",
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "pass": 1
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "「全国、全ての中小企業を黒字にする」をビジョンに掲げています",
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "pass": 1
+   },
+   {
+    "quote": "これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、CRM（顧客管理）システムの大手、米国のセールスフォースが提供するAIエンジン「Salesforce Einstein（セールスフォース・アインシュタイン）」は見込み客のセグメント分析を通じて、コンバージョン（成約率）の向上を支援します",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、one to oneコミュニケーションを目指す広告業界では、さまざまなセグメントでAIを活用する試みが行われています",
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "現在、約300社・500以上のプロダクトを掲載する国内最大級のメディアへと成長し、2年連続で160%の増収を達成するなど業績は極めて好調です",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "2年連続で160%の増収を達成するなど業績は極めて好調です",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "AIの力で日本の産業を再興し、5〜7兆円といわれる巨額のデジタル赤字を解消したい",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "AIの力で国内の企業を再興し、5〜7兆円といわれるデジタル赤字を解消できればと考えています",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "単に海外のサービスを消費する日本にとどまるのではなく、「自国のデジタルプラットフォームで世界と戦い、日本のデジタル赤字を解消する」という目標",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "1カ月限定トライアル ※トライアル終了後は自動課金",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "pass": 1
+   },
+   {
+    "quote": "1カ月限定トライアル ※トライアル終了後は自動課金",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します",
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "pass": 1
+   },
+   {
+    "quote": "研修終了から独り立ちまでは1ヶ月半〜2ヶ月程を想定しています",
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "※デモアカウントのご案内は予告なく終了する場合があります",
+    "url": "https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/",
+    "pass": 1
+   },
+   {
+    "quote": "※申し込み終了※9/7（月）・9/9（水）MMDセミナー 「競合と比べて見つける『自社サービスが勝てる理由』～通信サービス8ブランドから学ぶ、広告・PRで使える「強み」の見つけ方～」",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "【インタビュー】出展社数1,100社！関西最大級の製造業展示会「第29回 ものづくり ワールド…",
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】出展社数630社！中部最大級の製造業展示会「ものづくり ワールド [名古屋]」…",
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】出展社数400社！九州最大級のものづくり展示会 ものづくり ワールド [福岡]…",
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】出展社数1,100社！西日本最大の製造業展示会 ものづくり ワールド [大阪]…",
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】出展社数1,800社！第37回 ものづくり ワールド [東京] ～製造業に特化…",
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "pass": 1
+   },
+   {
+    "quote": "「AI博覧会 Nagoya 2026」の来場者数が目標の倍となる6,453名を記録！名古屋・東…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "【開催報告】「AI博覧会 Spring 2026」来場者数12,154名で過去最高を記録！フィ…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "【開催報告】AI博覧会Osaka2026、来場者数が昨年の倍となる8,106名を記録！関西のA…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "【インタビュー】出展社数1,800社！第37回 ものづくり ワールド [東京] ～製造業に特化…",
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートニュースとUUUM、業務提携に向けた基本合意を締結",
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載希望企業向けページでは、月間アクセス数300万PV、AIプロダクト掲載数500製品以上と案内されています",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmiley ( アイスマイリー )は月間300万以上のPVがあり、国内最大級のAIポータルメディアとして、500製品以上のAIプロダクトを比較・検索することができます",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "quote": "「AIsmiley」は、月間300万PV・掲載製品数500以上を誇る国内最大級のAIポータルメディアです",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "このほか、ChatGPT、Claude、Geminiなど主要な生成AIサービスのビジネス活用を学び、参加者同士が交流できる実践型AIコミュニティ「AIsmiley Community」も展開しています",
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたビジネス現場の課題は、先日開催された「AI博覧会 Nagoya 2026」の当社ブースにおける来場者アンケート調査（「現在使っている生成AIとその活用度」のシール投票）でも、よりリアルな事実として浮き彫りとなりました",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、多くの来場者からは「複数のツールをどう実務に組み込めばいいか分からない」「自社に最適なツールの選定やガイドライン作りを相談できる相手がいない」という切実な声も多く寄せられました",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "本コミュニティは、こうした「現場のリアルな課題」をダイレクトに解決し、受け身の学習にとどまらず、参加者が自ら手を動かし、現場のノウハウを共有し合える「実践と共創の場」として設計されています",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "・ビジネス直結の最新AIトレンドの解説：月間数百万人PVを誇る「AIsmiley」の情報収集力を活かし、膨大なAIニュースから重要なトピックを厳選",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の強みは、圧倒的な集客力を持ち、月間300万PVのAIポータルメディア「AIsmiley」を運営していることです",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "メディア掲載用の撮影やアンケート収集などを外部に丸投げする手法は取らず、社員自らが会場に立って、来場者の生の声を直接拾い上げています",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "2024年より主催する「AI博覧会」は、東京・大阪など各地で開催し、累計5万人の来場者を記録",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたビジネス現場の課題は、先日開催された「AI博覧会 Nagoya 2026」の当社ブースにおける来場者アンケート調査（「現在使っている生成AIとその活用度」のシール投票）でも、よりリアルな事実として浮き彫りとなりました",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、多くの来場者からは「複数のツールをどう実務に組み込めばいいか分からない」「自社に最適なツールの選定やガイドライン作りを相談できる相手がいない」という切実な声も多く寄せられました",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "本コミュニティは、こうした「現場のリアルな課題」をダイレクトに解決し、受け身の学習にとどまらず、参加者が自ら手を動かし、現場のノウハウを共有し合える「実践と共創の場」として設計されています",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "- ビジネス直結の最新AIトレンドの解説：月間数百万人PVを誇る「AIsmiley」の情報収集力を活かし、膨大なAIニュースから重要なトピックを厳選",
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmileyは、月間300万PV・掲載製品数500以上を誇る国内最大級のAIポータルメディアです",
+    "url": "https://newscast.jp/news/9061044",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmileyは、月間300万PV・掲載製品数500以上を誇る国内最大級のAIポータルメディアです",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmileyは、月間300万PV・掲載製品数500以上を誇る国内最大級のAIポータルメディアです",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIsmiley の広告掲載方法と料金 掲載費用・媒体特徴・評判を解説 — AIsmiley の広告掲載方法と料金 掲載費用・媒体特徴・評判を解説 キャククル https://www.shopowner-support.net > saas > aismiley",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "pass": 3
+   },
+   {
+    "quote": "AI製品・ソリューションの掲載を希望される企業様へ - AIsmiley — AI製品・ソリューションの掲載を希望される企業様へ - AIsmiley AIsmiley https://aismiley.co.jp > tocompany",
+    "url": "https://aismiley.co.jp/tocompany/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイスマイリー | Innovation LABパートナー紹介 — 株式会社アイスマイリー | Innovation LABパートナー紹介 NTTPCコミュニケーションズ https://www.nttpc.co.jp > partners > aismiley",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... — アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... アットプレス https://www.atpress.ne.jp > ... > 株式会社アイスマイリー",
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社アイスマイリー 代表取締役 板羽 晃司 — 業界毎特集記事－株式会社アイスマイリー 代表取締役 板羽 晃司 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "【新連載】AIサービス導入企業への インタビュー 記事の配信を ... — 【新連載】AIサービス導入企業への インタビュー 記事の配信を ... AIsmiley https://aismiley.co.jp > ニュース",
+    "url": "https://aismiley.co.jp/ai_news/impression-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... — アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... ジョルダン http://news.jorudan.co.jp > docs > news > detail",
+    "url": "http://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "pass": 3
+   },
+   {
+    "quote": "SGEとは？検索体験・ SEO に与える影響と担当者が取るべき対策 — SGEとは？検索体験・ SEO に与える影響と担当者が取るべき対策 AIsmiley https://aismiley.co.jp > ニュース",
+    "url": "https://aismiley.co.jp/ai_news/what-is-sge/",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmiley - AI製品・サービスの比較・検索・資料請求メディア — AIsmiley - AI製品・サービスの比較・検索・資料請求メディア AIsmiley https://aismiley.co.jp",
+    "url": "https://aismiley.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、需要予測AIカオスマップを公開！– 売上 予測 ... — アイスマイリー、需要予測AIカオスマップを公開！– 売上 予測 ... アットプレス https://www.atpress.ne.jp > ... > 株式会社アイスマイリー",
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイスマイリー - スピーダ スタートアップ情報リサーチ — 株式会社アイスマイリー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-FQNNQ",
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "pass": 3
+   },
+   {
+    "quote": "アイスマイリー、「営業部門向けAI活用ガイド」を ... - 東京新聞 — アイスマイリー、「営業部門向けAI活用ガイド」を ... - 東京新聞 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article165714",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アイスマイリー｜AIポータルメディア 運営会社 — 株式 会社アイスマイリー｜AIポータルメディア 運営会社 AIsmiley https://aismiley.co.jp > company",
+    "url": "https://aismiley.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アイスマイリー | Innovation LABパートナー紹介 — 株式 会社アイスマイリー | Innovation LABパートナー紹介 NTTPCコミュニケーションズ https://www.nttpc.co.jp > partners > aismiley",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アイスマイリーの会社情報 - Wantedly — 株式 会社アイスマイリーの会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > aismiley",
+    "url": "https://www.wantedly.com/companies/aismiley",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アイスマイリー - スピーダ スタートアップ情報リサーチ — 株式 会社アイスマイリー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-FQNNQ",
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "pass": 3
+   },
+   {
+    "quote": "AIsmiley - AI製品・サービスの比較・検索・ 資料請求 メディア — AIsmiley - AI製品・サービスの比較・検索・ 資料請求 メディア AIsmiley https://aismiley.co.jp",
+    "url": "https://aismiley.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで ブログ を書くメリット5選｜質の高い記事を作るポイント ... — AIで ブログ を書くメリット5選｜質の高い記事を作るポイント ... AIsmiley https://aismiley.co.jp > ニュース",
+    "url": "https://aismiley.co.jp/ai_news/ai-blog/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "AIという成長市場の中で、今後は将来起業を目指す20代の若手に、圧倒的な成長環境と新規事業の責任者や子会社社長といった選択肢を惜しみなく提供していきます",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   },
+   {
+    "quote": "そこに向け、20代の若手社員に新規事業の責任者や子会社社長といった挑戦のフィールドを惜しみなく提供していく同社のあり方は、これからのAI産業に関わるすべての人々に大きなワクワク感と希望を与えてくれるだろう",
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "OfficeBotが「 AIsmiley AI PRODUCTS NEXT AI TREND 2026 ... OfficeBotが「 AIsmiley AI PRODUCTS NEXT AI TREND 2026 ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "An Event to Share Generative AI Information #RPALT # AIsmiley An Event to Share Generative AI Information #RPALT # AIsmiley note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "OfficeBotが「AIsmiley AI PRODUCTS NEXT AI TREND 2026」チャットボット部門グランプリを受賞しました！｜【公式】OfficeAI社員®マーケティング担当",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "OfficeBotが「AIsmiley AI PRODUCTS NEXT AI TREND 2026」チャットボット部門グランプリを受賞しました！",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】OfficeAI社員®マーケティング担当",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！OfficeBot マーケティング担当です。",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のAIポータルメディアAIsmiley様が主催する『AI PRODUCTS NEXT AI TREND 2026』にて、OfficeBotがチャットボット部門のグランプリを受賞いたしました！",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "同アワードでの受賞は、今回でなんと4回目です。",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "長きにわたりOfficeBotの歩みを認め続けていただけたことは、我々にとっても大きな励みとなりました。",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "「運用しやすい高精度RAG」が受賞の決め手",
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "pass": 3
+   },
+   {
+    "quote": "[Lightning Report] The First Step to AI Adoption Seen Through \"Generative AI Use Cases by Department\" | An Event to Share Generative AI Information #RPALT #AIsmiley｜keita",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Lightning Report] The First Step to AI Adoption Seen Through \"Generative AI Use Cases by Department\" | An Event to Share Generative AI Information #RPALT #AIsmiley",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today (December 8, 2025), the RPACommunity Generative AI Chapter held an online event titled \"The First Step to AI Adoption Seen Through 'Generative AI Use Cases by Department' | An Event to Share Generative AI Information.\" This event also serves as a pre-event for the \"AI Agent Expo\" starting on December 11. I will participate right away and write a report.",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The opening began with an introduction to the event and community by the organizer, Mitz. This is the fifth event for the Generative AI Chapter and the first time AIsmiley has taken the stage.",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction of AIsmiley",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From there, the survey results from the registration showed that almost everyone is using generative AI. This event is also for those who are not yet using it to gather information.",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's registration survey",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first step to AI adoption, seen through \"Generative AI use cases by department\"",
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 (@AIsmiley_inc) / X AIポータルメディア「 AIsmiley 」 (@AIsmiley_inc) / X X https://x.com > AIsmiley_inc",
+    "url": "https://x.com/AIsmiley_inc",
+    "pass": 3
+   },
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 on X AIポータルメディア「 AIsmiley 」 on X X https://x.com > @AIsmiley_inc",
+    "url": "https://x.com/AIsmiley_inc/status/2117830073910784413",
+    "pass": 3
+   },
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 - X AIポータルメディア「 AIsmiley 」 - X X https://x.com > @AIsmiley_inc",
+    "url": "https://x.com/AIsmiley_inc/status/2115990154737307825",
+    "pass": 3
+   },
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 - X AIポータルメディア「 AIsmiley 」 - X X https://x.com > @AIsmiley_inc",
+    "url": "https://x.com/AIsmiley_inc/status/2117067934086410425",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社アイスマイリー - LinkedIn 株式会社アイスマイリー - LinkedIn LinkedIn https://jp.linkedin.com > company > aismiley",
+    "url": "https://jp.linkedin.com/company/aismiley",
+    "pass": 3
+   },
+   {
+    "quote": "Yeonji Lim - Sales Account Manager at Aismiley - LinkedIn Yeonji Lim - Sales Account Manager at Aismiley - LinkedIn LinkedIn https://jp.linkedin.com > yeonjilim",
+    "url": "https://jp.linkedin.com/in/yeonjilim",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 - Facebook AIポータルメディア「 AIsmiley 」 - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/AIsmiley.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "AIポータルメディア「 AIsmiley 」 - Facebook AIポータルメディア「 AIsmiley 」 - Facebook Facebook https://www.facebook.com > AIsmiley.inc > mentions",
+    "url": "https://www.facebook.com/AIsmiley.inc/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan DX & AX Week【関西】2026」にブース出展 Japan DX & AX Week【関西】2026」にブース出展 Facebook https://www.facebook.com > AIsmiley.inc > posts > aismil...",
+    "url": "https://www.facebook.com/AIsmiley.inc/posts/aismiley%E3%81%A8aismiley-community%E3%81%AF11%E6%9C%8818%E6%97%A5%E6%B0%B411%E6%9C%8820%E6%97%A5%E9%87%91%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%AEjapan-dx-ax-week%E9%96%A2%E8%A5%BF2026%E3%81%AB%E3%83%96/1759198769546482/",
+    "pass": 3
+   },
+   {
+    "quote": "必見！ AIsmiley ブースへの行き方動画   ただいま【AI World ... 必見！ AIsmiley ブースへの行き方動画   ただいま【AI World ... Facebook https://www.facebook.com > AIsmiley.inc > posts > 必見a...",
+    "url": "https://www.facebook.com/AIsmiley.inc/posts/%E5%BF%85%E8%A6%8Baismiley%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%AE%E8%A1%8C%E3%81%8D%E6%96%B9%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BEai-world-2026-%E7%A7%8B-%E6%9D%B1%E4%BA%AC-%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%EF%B8%8F%E3%83%96%E3%83%BC%E3%82%B9%E7%95%AA%E5%8F%B7a24-38%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B2%B4%E7%A4%BE%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%90%88%E3%82%8F/1761748402624852/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://aismiley.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/case_ex_category/advertisement-adtechnology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/tocompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/inquire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/product/writeup_compeprice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/inquire/?c=true&all=true&cp=4849",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/product/omluc_web/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/product/hachidori-line/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/recently-popular-chatbot-ads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company_news/business-fair-26th/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/inquire/?pid=241125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/advertisement-creative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/inquire/?pid=198582",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai-news_category/ai-interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai-news_category/exhibition-seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-creative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/about-rpa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/interview/sa-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/interview/op-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/company/recruit/interview/op-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nankai.news/ad/digital/rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mmdlabo.jp/investigation/detail_2547.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7483389",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5957",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/interview/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newscast.jp/news/9061044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=lcVTg_BT4I4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mieru-ca.com/blog/seo_seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.symmetric.co.jp/seminar/lp-seo-vol4-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seohacks.net/seminar/marketing/31138/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3254000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.value-press.com/pressrelease/309276",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/aismiley",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-FQNNQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lreach.jp/media/article017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aikotukotudayori/n/ne55f0dc0472f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nealle-dev.hatenablog.com/entry/2025/04/30/152806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/officebot/n/n69c9e6f653b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AIsmiley_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AIsmiley_inc/status/2117830073910784413",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AIsmiley_inc/status/2115990154737307825",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AIsmiley_inc/status/2117067934086410425",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/aismiley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yeonjilim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AIsmiley.inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AIsmiley.inc/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AIsmiley.inc/posts/aismiley%E3%81%A8aismiley-community%E3%81%AF11%E6%9C%8818%E6%97%A5%E6%B0%B411%E6%9C%8820%E6%97%A5%E9%87%91%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%AEjapan-dx-ax-week%E9%96%A2%E8%A5%BF2026%E3%81%AB%E3%83%96/1759198769546482/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AIsmiley.inc/posts/%E5%BF%85%E8%A6%8Baismiley%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%AE%E8%A1%8C%E3%81%8D%E6%96%B9%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BEai-world-2026-%E7%A7%8B-%E6%9D%B1%E4%BA%AC-%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%EF%B8%8F%E3%83%96%E3%83%BC%E3%82%B9%E7%95%AA%E5%8F%B7a24-38%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B2%B4%E7%A4%BE%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%90%88%E3%82%8F/1761748402624852/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AIsmiley_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AIsmiley.inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AIsmiley 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "https://aismiley.co.jp/tocompany/",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "https://nankai.news/ad/digital/rate/",
+    "https://media-radar.jp/contents/meditsubu/columns6-ad-market-price/",
+    "https://www.pressnet.or.jp/data/advertisement/advertisement01.php",
+    "https://adv.chunichi.co.jp/guide/simulator/",
+    "https://newscast.jp/news/5766647",
+    "https://marketing.nikkei.com/media/newspaper/prices/nikkei_morning/"
+   ]
+  },
+  {
+   "query": "AIsmiley PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://aismiley.co.jp/tocompany/",
+    "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "https://mmdlabo.jp/investigation/detail_2547.html",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "https://www.atpress.ne.jp/news/7483389",
+    "https://shachomeikan.jp/industry_article/5957",
+    "https://note.com/mmdlabo_note/n/n8ab565ba85c5?hl=en",
+    "https://prtimes.jp/main/html/rd/p/000000819.000053344.html",
+    "https://aismiley.co.jp/company/recruit/number/",
+    "https://bloomeria.jp/blog/japanese-streamers-top100-may2026"
+   ]
+  },
+  {
+   "query": "AIsmiley 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5957",
+    "https://aismiley.co.jp/ai_news/impression-interview/",
+    "http://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344",
+    "https://japan.cnet.com/interview/",
+    "https://newscast.jp/news/9061044",
+    "https://www.wantedly.com/companies/aismiley/stories/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2",
+    "https://tokyonew.metro.tokyo.lg.jp/story/02.html",
+    "https://www.youtube.com/watch?v=T4rBRHVCJi4",
+    "https://news.nicovideo.jp/watch/nw19901073",
+    "https://ja.wikipedia.org/wiki/吉松徹郎"
+   ]
+  },
+  {
+   "query": "AIsmiley 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://www.youtube.com/watch?v=lcVTg_BT4I4",
+    "https://mieru-ca.com/blog/seo_seminar/",
+    "https://www.symmetric.co.jp/seminar/lp-seo-vol4-seminar",
+    "https://www.seohacks.net/seminar/marketing/31138/",
+    "https://aismiley.co.jp/ai_news/what-is-sge/",
+    "https://weble.tokyo/news/information/7157/",
+    "https://service.plan-b.co.jp/event/89919/",
+    "https://bizle.jp/blog/8948/ai-search-era-seo-course/",
+    "https://www.web-planners.net/seminar/webplanners_semi_fukususite.html",
+    "https://aismiley.co.jp/"
+   ]
+  },
+  {
+   "query": "AIsmiley 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://aismiley.co.jp/",
+    "https://www.atpress.ne.jp/news/3254000",
+    "https://initial.inc/companies/A-FQNNQ",
+    "https://www.value-press.com/pressrelease/309276",
+    "https://adv.tokyo-np.co.jp/prtimes/article165714/",
+    "https://prtimes.jp/main/html/rd/p/000000427.000053344.html",
+    "https://www.fundely.co.jp/ir/financial/segment",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=38"
+   ]
+  },
+  {
+   "query": "AIsmiley 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://aismiley.co.jp/company/",
+    "https://www.nttpc.co.jp/innovationlab/partners/aismiley.html",
+    "https://www.wantedly.com/companies/aismiley",
+    "https://initial.inc/companies/A-FQNNQ",
+    "https://aismiley.co.jp/",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "https://www.youtube.com/watch?v=E2R4SjGmiXM",
+    "https://www.dreamnews.jp/press/0000243720",
+    "https://ja.wikipedia.org/wiki/親会社",
+    "https://ja.wikipedia.org/wiki/M&A"
+   ]
+  },
+  {
+   "query": "AIsmiley 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service-hikaku/",
+    "https://lreach.jp/media/article017",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "https://aismiley.co.jp/",
+    "https://partner.growthdesign-spo.co.jp/guide/billing-models/",
+    "https://getempro.jp/articles",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/",
+    "https://lreach.jp/media/article011",
+    "https://oshi-job.com/articles/seika-hoshu-toha"
+   ]
+  },
+  {
+   "query": "AIsmiley note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://aismiley.co.jp/ai_news/ai-blog/",
+    "https://note.com/aikotukotudayori/n/ne55f0dc0472f",
+    "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "https://nealle-dev.hatenablog.com/entry/2025/04/30/152806",
+    "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "https://note.com/suga_journal/n/n35d43c036575",
+    "https://note.com/yaoyoroztech/n/n87cc8af7df47",
+    "https://www.softbank.jp/biz/blog/cloud-technology/articles/202512/micro-reflection/",
+    "https://tech-direction.jp/news/blog/1116/",
+    "https://aismiley.co.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com AIsmiley",
+   "results": [
+    "https://note.com/keitafukui/n/ndc36eb04e4fe?hl=en",
+    "https://note.com/officebot/n/n69c9e6f653b0",
+    "https://note.com/keitafukui/n/n1c3d89518d7e",
+    "https://note.com/keitafukui/n/n5097c44bb1bf?hl=en",
+    "https://note.com/officebot/n/n69c9e6f653b0?hl=ko",
+    "https://note.com/weel_media/n/nc921895831ff?hl=en",
+    "https://note.com/explaza_inc/n/nbdad50420b32",
+    "https://note.com/kerdy/n/n0632a3c853ec",
+    "https://note.com/keitafukui/n/n6487e55cb5ec?hl=en",
+    "https://note.com/mmdlabo_note/n/ne1e7d02ab55a?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com AIsmiley",
+   "results": [
+    "https://x.com/AIsmiley_inc",
+    "https://x.com/AIsmiley_inc/status/2117830073910784413",
+    "https://x.com/AIsmiley_inc/status/2115990154737307825",
+    "https://x.com/AIsmiley_inc/status/2117067934086410425",
+    "https://x.com/AIsmiley_inc/status/2117830073910784413/video/1",
+    "https://x.com/AIsmiley_inc/status/2115269889057300690",
+    "https://x.com/AIsmiley_inc/status/2115292511237185919",
+    "https://x.com/AIsmiley_inc/status/2117466801902690468",
+    "https://x.com/AIsmiley_inc/status/2112755022043767282",
+    "https://x.com/AIsmiley_inc/status/2090710567849710062"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AIsmiley",
+   "results": [
+    "https://jp.linkedin.com/company/aismiley",
+    "https://jp.linkedin.com/in/yeonjilim",
+    "https://jp.linkedin.com/posts/kei-eto-470463146_%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%82%AB%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97-%E4%BC%81%E6%A5%AD%E3%81%AEdx%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%99%E3%82%8B%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AEai%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2-activity-7066372891226869761-zS0X",
+    "https://jp.linkedin.com/posts/apto-inc_web%E9%9B%91%E8%AA%8Cai%E5%8D%9A%E8%A6%A7%E4%BC%9A-summer-2026-%E7%89%B9%E9%9B%86%E5%8F%B7-%E6%B3%A8%E7%9B%AE%E3%81%AE%E5%87%BA%E5%B1%95%E4%BC%81%E6%A5%AD6%E7%A4%BE%E3%82%92%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97-activity-7513167069291413504-brMj",
+    "https://jp.linkedin.com/posts/kzktkhs_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6explaza-%E7%94%9F%E6%88%90ai-partner%E3%81%8Caismiley-activity-7185438433404715008-3W8s",
+    "https://jp.linkedin.com/in/miyu-takai-6561a3217",
+    "https://www.linkedin.com/posts/sidprobstein_27swirl-corporationceo-sid-probstein%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-activity-7309672797734121473-bz_Y",
+    "https://jp.linkedin.com/posts/koki-inoue_ai%E5%8D%9A%E8%A6%A7%E4%BC%9A%E7%AC%AC6%E5%BC%BE%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%92%E7%99%BA%E8%A1%A8elith-%E4%BA%95%E4%B8%8A%E6%B0%8F%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E9%87%91%E4%BA%95%E6%B0%8F-activity-7165253043909804032-prE7",
+    "https://www.linkedin.com/posts/kentaro-oda_pksha%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E6%94%AF%E6%8F%B4%E3%81%AE%E3%82%82%E3%81%A8%E6%96%B0%E3%81%9F%E3%81%AAllm%E3%82%92%E9%96%8B%E7%99%BA%E5%BE%93%E6%9D%A5%E3%81%AE3%E5%80%8D%E3%81%AE%E9%80%9F%E5%BA%A6%E3%81%A7%E5%9B%9E%E7%AD%94%E7%94%9F%E6%88%90-activity-7179273699374612480-Amj4",
+    "https://www.linkedin.com/company/aismiley"
+   ]
+  },
+  {
+   "query": "site:facebook.com AIsmiley",
+   "results": [
+    "https://www.facebook.com/AIsmiley.inc/",
+    "https://www.facebook.com/AIsmiley.inc/mentions/",
+    "https://www.facebook.com/AIsmiley.inc/posts/aismiley%E3%81%A8aismiley-community%E3%81%AF11%E6%9C%8818%E6%97%A5%E6%B0%B411%E6%9C%8820%E6%97%A5%E9%87%91%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%AEjapan-dx-ax-week%E9%96%A2%E8%A5%BF2026%E3%81%AB%E3%83%96/1759198769546482/",
+    "https://www.facebook.com/AIsmiley.inc/posts/%E5%BF%85%E8%A6%8Baismiley%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%AE%E8%A1%8C%E3%81%8D%E6%96%B9%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BEai-world-2026-%E7%A7%8B-%E6%9D%B1%E4%BA%AC-%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%EF%B8%8F%E3%83%96%E3%83%BC%E3%82%B9%E7%95%AA%E5%8F%B7a24-38%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B2%B4%E7%A4%BE%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%90%88%E3%82%8F/1761748402624852/",
+    "https://www.facebook.com/AIsmiley.inc/posts/%E5%BF%85%E8%A6%8Baismiley%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%AE%E8%A1%8C%E3%81%8D%E6%96%B9%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BEjapan-dxax-week%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%EF%B8%8F%E3%83%96%E3%83%BC%E3%82%B9%E7%95%AA%E5%8F%B7a39-20ai%E6%A5%AD%E5%8B%99%E8%87%AA%E5%8B%95%E5%8C%96-%E5%B1%95%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B2%B4%E7%A4%BE%E3%81%AE/1745327857600240/",
+    "https://www.facebook.com/AIsmiley.inc/videos/1516086160565302/",
+    "https://www.facebook.com/groups/vrsensei/posts/2305245096925770/",
+    "https://www.facebook.com/AIsmiley.inc/posts/aismiley%E3%81%A8aismiley-community%E3%81%AF2026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B413%E6%97%A5%E9%87%91%E3%81%AB%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%AEnextech-week-2026%E7%A7%8B-ai%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/1750659720400387/",
+    "https://www.facebook.com/AIsmiley.inc/videos/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA_20261007mp4/1444839901085582/",
+    "https://www.facebook.com/AIsmiley.inc/posts/ai博覧会-spring-2026-ついに開場しましたｖai博覧会-spring-2026-がついに開幕朝から多くの来場者で賑わっております各社のai活用事例や/1551963380270023/"
+   ]
+  },
+  {
+   "query": "AIsmiley note 社長",
+   "results": [
+    "https://note.com/tag/AI%E7%A4%BE%E9%95%B7",
+    "https://note.com/ai_shacho",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://aismiley.co.jp/company/",
+    "https://shachomeikan.jp/industry_article/5957",
+    "https://note.com/popbits",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.youtube.com/watch?v=PYg-Cgzuz1I",
+    "https://note.com/ai_shacho/m/m90f0299a5c9e",
+    "https://note.com/gmomedia_ir/n/ndcb71023f708"
+   ]
+  },
+  {
+   "query": "AIsmiley X 投稿",
+   "results": [
+    "https://x.com/AIsmiley_inc",
+    "https://www.youtube.com/channel/UCZWuLcBid3ivg9lq8IgpIHA",
+    "https://www.facebook.com/AIsmiley.inc/",
+    "https://aismiley.co.jp/",
+    "https://aicross.co.jp/aix-lab/news/20221021/",
+    "https://techplay.jp/community/ai-products",
+    "https://x.com/AIsmiley_inc/status/2112755022043767282",
+    "https://feeder.co/ja/discover/6e3ae53a46/aismiley-co-jp",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1221800.html",
+    "https://x.com/AIsmiley_inc/all"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部45頁・検索14回）"
+ }
+}

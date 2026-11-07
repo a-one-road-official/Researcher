@@ -1,0 +1,2607 @@
+{
+ "name": "Freemelt",
+ "aliases": [
+  "Freemelt AB",
+  "Freemelt ONE",
+  "Freemelt eMELT",
+  "フリーメルト"
+ ],
+ "context": "電子ビームPBF装置（スウェーデン）。核融合・医療・防衛向け。A1と商談中（2026-11-05 再販に前向きの返信）",
+ "researched_at": "2026-11-07T02:59:36.746136+00:00",
+ "official_url": "https://freemelt.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "顧客・導入先": [
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE is designed to make materials not yet known to mankind. Materials that engineers dream about. Materials that give us lighter, stronger and more efficient products.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt awarded SEK 28 million order from ESS to manufacture tungsten components",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense company in Sweden",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives Freemelt ONE order from Intalus and joins Purdue’s PCAM consortium",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives additional machine order from Jiuli",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures an order from TAE Technologies within fusion",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a follow-on order from a leading Swedish defense company",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt expands into China with first order from Jiuli",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enters into agreement with leading Chinese industrial company",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enters strategic partnership with the contract manufacturer, Scanfil",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives the first machine order from Asia",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs contract with Fusion for Energy to lead study in the field of tungsten tiles manufacturing",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives machine order from the Dutch technology hub 3D Makers Zone",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives additional order from Saab",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Oxford Sigma for tungsten trial components",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives order from UKAEA for proof-of-concept of production scalability of tungsten tiles for future fusion energy power plants",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt makes breakthrough in Asia by order from a customer in Singapore",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enters strategic agreement with leading global orthopedic implant OEM",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from a customer in the United Kingdom for tungsten manufacturing",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt makes breakthrough in serial production of orthopedic implants by an order from global orthopedic implant OEM",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from an industrial customer in North America",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Nuclear AMRC",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from a North American customer – Accelerating the commercialization of Fusion Energy",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt in strategic collaboration with 3DMZ – Accelerating the industrialization of Additive Manufacturing for the European market",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a new order from United Kingdom Atomic Energy Authority (UKAEA )",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has established collaborations with Saab Dynamics, Linköping University, and U.S defense companies.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt collaborates with trusted partners to extend our impact and support customers from development to full-scale production. Together, we combine groundbreaking technology with local expertise to enable innovation at scale.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling up and industrializing new technologies and ideas through collaboration between industry and academia",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "As already experienced users of electron beam printers, we are very excited about how Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE is because the 3D printer is specially designed and adapted for research and development of new materials. We look forward to the new improved research opportunities.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt User Forum & Innovation Days – Highlights February 2026",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt User Forum_240213",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an initial step in the qualification of advanced tungsten components for future ITER applications. The order value amounts to SEK 3,3 million, with final delivery scheduled for the first quarter of 2027.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt builds Europe’s industrial platform for advanced metal components. Through a combination of advanced E-PBF technology (Electron Beam Powder Bed Fusion), materials expertise and industrial manufacturing capacity, Freemelt supports customers within MedTech, defense, fusion and other advanced industrial verticals.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt would like to thank Fusion for Energy and its partners for the recognition and for the continued collaboration.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "The net proceeds from the Rights Issue will be used to scale Freemelt’s Manufacturing and Production Systems businesses, supporting capacity expansion, customer project execution, working capital, and the development of a more scalable recurring revenue base.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants. Backed by strategic investors, Freemelt is well-positioned for continued growth as it advances into the next phase of commercialization.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt holds a strong #2 position in the E-PBF market, a segment outgrowing the broader metal AM industry, driven by the e-MELT system designed for industrialization and serial production.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense company in Sweden - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense company in Sweden",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense company with operations in Sweden as part of an agreement to conduct a feasibility study. The study concerns additive manufacturing of refractory metal components for defense applications and includes the production of several geometries for testing and evaluation.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a follow-on order from a leading Swedish defense company - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-a-follow-on-order-from-a-leading-swedish-defense-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a follow-on order from a leading Swedish defense company",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-a-follow-on-order-from-a-leading-swedish-defense-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a follow-on order from a leading Swedish defense company for continued development and prototype manufacturing of components for the defense industry.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-a-follow-on-order-from-a-leading-swedish-defense-company/",
+    "pass": 1
+   },
+   {
+    "quote": "“The fact that the project is now entering proof-of-concept is an important step towards our goal of serial production of components for the defense industry, and proof that Freemelt’s technology meets the customer’s high demands. We look forward to continuing to support the customer in the next step of the development,” says Daniel Gidlund, CEO of Freemelt.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-a-follow-on-order-from-a-leading-swedish-defense-company/",
+    "pass": 1
+   },
+   {
+    "quote": "The project will validate Freemelt’s technology through a demonstrator specifically designed for Saab Dynamics applications, underscoring Freemelt’s leadership in additive manufacturing and E-PBF. The goal is to establish additive manufacturing for defense applications with high performance and sustainability, while also creating shorter, more secure supply chains for critical materials.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-saab-and-linkoping-university-strengthen-additive-manufacturing-for-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "“This collaboration is an exciting step forward in making manufacturing more resilient and sustainable. Freemelt’s advanced E-PBF technology will play a key role in strengthening Sweden’s defense industry to meet future challenges,” says Daniel Gidlund, CEO of Freemelt.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-saab-and-linkoping-university-strengthen-additive-manufacturing-for-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt-Americas, Inc. has entered a strategic agreement with HAMR Industries LCC to establish Freemelt’s first application center in North America, to support the commercialization of the industrial machine, eMELT.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-establish-its-first-north-american-application-center-with-hamr-industries-lcc/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Saab Dynamics targeting defense applications - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-saab-dynamics-targeting-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Saab Dynamics targeting defense applications",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-saab-dynamics-targeting-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "Nasdaq First North-listed Freemelt – a deep-tech, green-tech company whose groundbreaking solutions create new conditions for rapid growth in 3D printing has received an order from Saab Dynamics for a feasibility study targeting material process development of complex materials intended for new innovative solutions within the defense industry.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-saab-dynamics-targeting-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "“Freemelt with its unique technology and products will have an important and active role in strengthening the competitiveness of the Swedish industries. We are eager to start this collaboration and will do our utmost for a long and fruitful collaboration between Freemelt and Saab.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-saab-dynamics-targeting-defense-applications/",
+    "pass": 1
+   },
+   {
+    "quote": "which are designed for both product development and full-scale serial production. This shift is expected to drive volume sales, with multiple units likely to be sold in each order. Freemelt can also provide the service as a subcontractor to manufacture tungsten parts based on customer requests.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer three 3D printers based on E-PBF technology, where two printers are designed for industrial production (e",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "To maximize customer flexibility, we use an",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic focus is to collaborate with research institutes and universities to drive innovation, while engaging directly with industrial manufacturers to meet production demands. These collaborations help advance applications from concept to serial production, where larger order volumes and revenue opportunities exist.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   }
+  ],
+  "用途・分野": [
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE is designed to make materials not yet known to mankind. Materials that engineers dream about. Materials that give us lighter, stronger and more efficient products.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt offers a complete product portfolio supporting you from early material and process development through application development, into a seamless transition to serial production within industries such as medtech, orthopedic implants, energy, defense, and beyond.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The implant workhorse",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Titanium alloy is a key material in orthopedic implants due to its strength, lightness, biocompatibility, and corrosion resistance. Freemelt’s E-PBF technology enhances titanium implant production by enabling complex geometries like solid cores with porous surfaces, and efficient stacking to boost productivity.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten’s heat resistance and density are vital for Fusion Energy, Defense, and medical X-ray equipment. Freemelt’s E-PBF technology overcomes the challenges of tungsten’s high melting point and brittleness, producing dense, crack-free parts with minimal oxygen uptake, opening new possibilities.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt awarded SEK 28 million order from ESS to manufacture tungsten components",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense company in Sweden",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives F4E order with a base value of SEK 55 million to manufacture fusion components",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enters into an MoU with Proxima Fusion and joins the Alpha Alliance",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt granted Vinnova funding for two projects with Saab Dynamics and Hitachi Energy in critical materials",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures an order from TAE Technologies within fusion",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a follow-on order from a leading Swedish defense company",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt supplying key technology for UKAEA’s fusion research",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt takes further steps in its long-term fusion strategy",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives order for Freemelt ONE from the Swedish defense industry",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs contract with Fusion for Energy to lead study in the field of tungsten tiles manufacturing",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Oxford Sigma for tungsten trial components",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives order from UKAEA for proof-of-concept of production scalability of tungsten tiles for future fusion energy power plants",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enters strategic agreement with leading global orthopedic implant OEM",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt, Saab, and Linköping University Strengthen Additive Manufacturing for Defense Applications",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from a customer in the United Kingdom for tungsten manufacturing",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt makes breakthrough in serial production of orthopedic implants by an order from global orthopedic implant OEM",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Nuclear AMRC",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from a North American customer – Accelerating the commercialization of Fusion Energy",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a new order from United Kingdom Atomic Energy Authority (UKAEA )",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order from Saab Dynamics targeting defense applications",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt in new agreement with IHI Europe for Freemelt ONE, targeting Titanium Aluminide Aeroengine applications",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives an order of Freemelt ONE from Hungarian nuclear research institute",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives fusion research order",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The defense industry operates under extreme conditions, requiring materials with superior strength, heat resistance, and durability. Additive manufacturing (AM) offers valuable advantages to the defense industry by enabling innovative and distributed manufacturing of demanding materials and complex designs, reducing reliance on foreign supply chains, and minimizing geopolitical risks.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The value additive manufacturing brings to the defense industry",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The value Freemelt’s E-PBF technology brings to the defense industry",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "High-beam power and a process temperature above 1200°C ensure superior strength, durability, and dense tungsten parts suitable for the most demanding defense applications.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The ultra-clean vacuum environment prevents oxygen contamination and purifies tungsten during processing, achieving oxygen levels as low as single ppm, enabling superior material quality.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense applications printed in Freemelt’s machines",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten rocket nozzle",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt – Your partner for innovative defense applications",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "From hypersonics to drones, Freemelt’s E-PBF technology provides the defense industry with the agility to develop and manufacture critical components faster and more efficiently than ever before. With extensive expertise in E-PBF technology, Freemelt is at the forefront of advancing additive manufacturing for defense applications.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevating tungsten manufacturing, six reasons to use e¯MELT",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has established collaborations with Saab Dynamics, Linköping University, and U.S defense companies.",
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2017 by seven engineers from Arcam, Freemelt’s strong technical foundation drives our innovation and product development. Combining deep expertise with strong financial leadership, our team is well-equipped to execute on Freemelt’s growth strategy.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Mohsen Taheri Andani, incoming assistant professor of mechanical engineering",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Wenda Tan, Assistant Professor of Mechanical Engineering",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts modulära printers, designade för industriella applikationer, stödjer komplexa geometrier och högpresterande material, såsom volfram för applikationer inom försvar och energi samt titan för medicinska implantat. Med stöd från strategiska investerare är Freemelt väl positionerat för fortsatt tillväxt när företaget går in i nästa kommersialiseringsfas.",
+    "url": "https://freemelt.com/investerare/freemelt_som_investering/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Redeye Defense Event 251106",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Podcast Episode 1: Unlocking the potential of cost-efficient, chemically reduced tungsten powder",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt_Backscatter detector_Tungsten honeycomb build_231206",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an initial step in the qualification of advanced tungsten components for future ITER applications. The order value amounts to SEK 3,3 million, with final delivery scheduled for the first quarter of 2027.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten is a critical material for future fusion reactors due to its ability to withstand extreme temperatures and demanding operating environments. Following ITER’s decision to transition from beryllium to tungsten in plasma-facing applications, a number of qualification activities are underway to evaluate advanced tungsten materials and components for future reactor systems.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "“This project represents an important milestone in the ongoing qualification of tungsten for fusion energy applications. Being selected to contribute to one of the first ITER-related qualification programmes validates both our materials expertise and our capability to manufacture advanced tungsten components for demanding industrial applications,”",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt builds Europe’s industrial platform for advanced metal components. Through a combination of advanced E-PBF technology (Electron Beam Powder Bed Fusion), materials expertise and industrial manufacturing capacity, Freemelt supports customers within MedTech, defense, fusion and other advanced industrial verticals.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to ITER.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "The award was presented on October 29, 2026 and recognizes outstanding contributions to Europe’s fusion supply chain. F4E works with more than 3,000 companies across 23 European countries in support of ITER and other fusion-related initiatives.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "F4E recognized Freemelt for its additive manufacturing technology based on electron-beam powder bed fusion route for tungsten plasma-facing components. The route exceeded F4E’s requirements and led to an F4E contract for more than 30,000 tiles and monoblocks for JT-60SA.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   }
+  ],
+  "政府・研究機関の契約": [
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt granted Vinnova funding for two projects with Saab Dynamics and Hitachi Energy in critical materials",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt supplying key technology for UKAEA’s fusion research",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs contract with Fusion for Energy to lead study in the field of tungsten tiles manufacturing",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt delivers the industrial machine, eMELT to UKAEA",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives order from UKAEA for proof-of-concept of production scalability of tungsten tiles for future fusion energy power plants",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt receives a new order from United Kingdom Atomic Energy Authority (UKAEA )",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt is granted a patent in Japan for cathode technology",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt granted additional US patent",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt granted patent for ProHeat™",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt granted patents in the US and Europe",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received its first granted patent",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an initial step in the qualification of advanced tungsten components for future ITER applications. The order value amounts to SEK 3,3 million, with final delivery scheduled for the first quarter of 2027.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten is a critical material for future fusion reactors due to its ability to withstand extreme temperatures and demanding operating environments. Following ITER’s decision to transition from beryllium to tungsten in plasma-facing applications, a number of qualification activities are underway to evaluate advanced tungsten materials and components for future reactor systems.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "“This project represents an important milestone in the ongoing qualification of tungsten for fusion energy applications. Being selected to contribute to one of the first ITER-related qualification programmes validates both our materials expertise and our capability to manufacture advanced tungsten components for demanding industrial applications,”",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to ITER.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "The award was presented on October 29, 2026 and recognizes outstanding contributions to Europe’s fusion supply chain. F4E works with more than 3,000 companies across 23 European countries in support of ITER and other fusion-related initiatives.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "“To be recognized by Fusion for Energy is a great honour. Fusion projects represent some of the most demanding industrial and technological environments, and this award is a testament to the competence, commitment and hard work of our team,”",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion energy has the potential to play an important role in the future energy mix, and Europe has established a leading position through ITER and related programmes. Through its technologies and expertise within advanced metal additive manufacturing, Freemelt contributes to the development of capabilities supporting these initiatives.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt would like to thank Fusion for Energy and its partners for the recognition and for the continued collaboration.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt får order från Alsymex på kvalificeringsprojekt kopplat till ITER",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt levererar kritisk teknologi till UKAEA:s fusionsforskning",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt tecknar avtal med Fusion for Energy för att leda en förstudie avseende produktion av volframkomponenter",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt levererar industrimaskinen eMELT till UKAEA",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt erhåller order från UKAEA för proof-of-concept av skalbar tillverkning av volframplattor till fusionsreaktorer",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt erhåller en ny order från UKAEA – Accelererar utvecklingen av fusionskraft",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Second, the use of additive manufacturing in industrial machine production meets the need for flexibility in an industry that is constantly evolving. Producing metallic prototypes of machine parts using additive manufacturing allows iterations, concepts, and manufacturing methods to be tested in a cost-effective way before scaling to full serial production.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "pass": 1
+   },
+   {
+    "quote": ". Addressing modern security challenges will require not only increased funding but also the development of advanced technologies that enable faster and more efficient production. At the same time, the EU has launched an initiative to mobilize up to USD 870 billion in investments over four years to bolster Europe’s defense industry and military capabilities",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "pass": 1
+   },
+   {
+    "quote": ". The US Department of Defense is expected to invest approximately USD 414 million in research for additive manufacturing in 2025",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "pass": 1
+   },
+   {
+    "quote": "8. US Department of Defense, Under Secretary of Defense for Research and Engineering, Business Sweden Analysis. www.defense.gov.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "pass": 1
+   },
+   {
+    "quote": "Sedan strategin breddades har Freemelt erhållit två större tillverkningsorder från Fusion for Energy (F4E) och European Spallation Source (ESS) med ett sammanlagt initialt ordervärde om 83 MSEK. Ordrarna ger tydlig kommersiell validering av den breddade strategin och visar Freemelts förflyttning från teknikutveckling till industriell tillverkning och leverans av kvalificerade komponenter.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-beslutar-om-en-fullt-garanterad-foretradesemission-om-cirka-152-msek/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt levererar kritisk teknologi till UKAEA:s fusionsforskning - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-levererar-kritisk-teknologi-till-ukaeas-fusionsforskning/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt levererar kritisk teknologi till UKAEA:s fusionsforskning",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-levererar-kritisk-teknologi-till-ukaeas-fusionsforskning/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "”Vårt långsiktiga fokus på fusion har gett oss en stark position inom området, och det fortsatta förtroendet från UKAEA bekräftar att vi är en nyckelaktör i utvecklingen av nästa generations material och tillverkningsprocesser. Det nya projektet visar att vi levererar det värde som fusionsekosystemet efterfrågar”, säger Daniel Gidlund, VD Freemelt.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-levererar-kritisk-teknologi-till-ukaeas-fusionsforskning/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt har byggt upp en framskjuten position inom fusion och är högst delaktig i det europeiska fusionsekosystemet kring ITER. Bolaget leder nu en förstudie för Fusion for Energy (F4E), EU:s organisation med ansvar för Europas bidrag till ITER, med avsikt att kvalificera volfram som material och genomföra applikationstester för fusionstillämpningar.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tar-ytterligare-steg-i-sin-langsiktiga-fusionssatsning/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Redan 2023 inledde Freemelt ett samarbete med United Kingdom Atomic Energy Authority (UKAEA), som efter framgångsrika projekt inom materialstudier samt applikationsutveckling förvärvat Freemelts industrimaskin eMELT för fortsatt utvecklingsarbete av volframkomponenter. Arbetet är en del av Freemelts långsiktiga satsning på att möjliggöra avancerad tillverkning för framtidens energisystem.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tar-ytterligare-steg-i-sin-langsiktiga-fusionssatsning/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "”Freemelt har en unik produkt med en spännande teknologi som passar Scanfils erbjudande på ett mycket bra sätt. Vi på Scanfil är mycket glada över att Freemelt valt oss som partner på den kommande resan och vi ser fram emot ett starkt och lyckosamt samarbete”, säger Andreas Hjorth, VD för Scanfil Åtvidaberg AB.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-ingar-strategiskt-partnerskap-med-kontraktstillverkaren-scanfil/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt tecknar avtal med Fusion for Energy för att leda en förstudie avseende produktion av volframkomponenter - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tecknar-avtal-med-fusion-for-energy-for-att-leda-en-forstudie-avseende-produktion-av-volframkomponenter/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt tecknar avtal med Fusion for Energy för att leda en förstudie avseende produktion av volframkomponenter",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tecknar-avtal-med-fusion-for-energy-for-att-leda-en-forstudie-avseende-produktion-av-volframkomponenter/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "”Att vi får förtroendet att leda detta projekt befäster vår position inom energisektorn samtidigt som vi blir en än tydligare aktör i det gigantiska forskningsprojektet ITER, som kommer att kräva en enorm mängd avancerat material under de kommande decennierna,” säger Daniel Gidlund, VD Freemelt.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tecknar-avtal-med-fusion-for-energy-for-att-leda-en-forstudie-avseende-produktion-av-volframkomponenter/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "US Army breaks ground on substantial Fort Bliss 3D printed barracks extension Construction 3D Printing",
+    "url": "https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "US Army breaks ground on substantial Fort Bliss 3D printed…",
+    "url": "https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Nuclear AMRC is part of the UK’s High-value Manufacturing Catapult, which is funding this project. The Nuclear AMRC helps UK companies win work for large-scale, high-precision manufacturing across the nuclear industry.",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Powderloop joins ESA-backed initiative to develop metal AM powders for space applications",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials at the Extreme: Rapidly Characterising AM Tungsten with UKAEA",
+    "url": "https://www.plastometrex.com/resources/case-study/materials-at-the-extreme-rapidly-characterising-am-tungsten",
+    "pass": 3
+   },
+   {
+    "quote": "The Swedish EB-PBF specialist will develop plasma-facing tungsten components for Alpha, a week after Proxima Fusion closed a €411 million funding round",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt’s addition follows Proxima Fusion’s €411 million ($468 million) financing round, closed July 7, 2026, which valued the company at €2.4 billion ($2.7 billion) and pushed its total funding past €650 million ($740 million) in under three years, led by XTX Ventures and East X Ventures with RWE and Google as strategic investors.",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt received a large volume order from Fusion for Energy",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "Swedish manufacturer secures an order from Fusion for Energy for Japan's JT-60SA tokamak",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "has received an order from Fusion for Energy (F4E), the European organization responsible for Europe’s contribution to the International Thermonuclear Experimental Reactor (ITER) and to fusion energy development,",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "In September, Freemelt received a major volume order from Fusion for Energy for tungsten components",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   }
+  ],
+  "規模・受注残": [
+   {
+    "quote": "Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, or…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, orderbook, net sales, operating result (EBIT), cash flow and cash position for the third quarter of 2026. The full interim report for the period July–September 2026 will be published on 16 November 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-announces-preliminary-financial-information-for-the-third-quarter-of-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, or…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "The net proceeds from the Rights Issue will be used to scale Freemelt’s Manufacturing and Production Systems businesses, supporting capacity expansion, customer project execution, working capital, and the development of a more scalable recurring revenue base.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "With 172% growth in 2025 and an installed base of >40 systems, Freemelt is well-positioned to achieve its ambitious growth targets in a rapidly expanding metal AM market.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 1
+   },
+   {
+    "quote": "To date, our revenues have come from R&D printers, sold at a lower price point, which have been instrumental in proving the concept of our technology while also contributing to cash flow during our development phase. As we transition, our focus is shifting to industrial printers, e",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic focus is to collaborate with research institutes and universities to drive innovation, while engaging directly with industrial manufacturers to meet production demands. These collaborations help advance applications from concept to serial production, where larger order volumes and revenue opportunities exist.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": ". This provides us with dual tracks for growth, ensuring both traction and revenue stability in the near term.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "supplier in additive manufacturing (AM) using E-PBF technology, targeting SEK 1 billion in revenue by",
+    "url": "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt generates revenue primarily through the sale of advanced 3D printers at fixed prices,",
+    "url": "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "revenue by 2030.",
+    "url": "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt tripled net sales last year, part of which was driven by another F4E order",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt (Q3 Preview): Building the order backlog",
+    "url": "https://storage.mfn.se/732c63b8-5015-460b-b038-ba14e5e9595c/freemelt-q3-preview-building-the-order-backlog.pdf",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 Nove…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s largest shareholders, together with the Board and management, intend to exercise their warrants",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 Nove…",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 November 2026 at 12:30 at the Company’s head office at Fiskhamnsgatan 6A, 414 51 Gothenburg. Registration for the meeting will begin at 12:00.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "The right to receive subscription rights shall vest in those who, on the record date of 24 November 2026, are registered as shareholders in the share register maintained by Euroclear Nordics AB.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "The purpose of the authorisation and the reason for the deviation from the shareholders’ preferential rights is to enable a new issue of shares as guarantee compensation to the Guarantors. The total number of shares that may be issued pursuant to the authorisation shall not exceed the number of shares corresponding to the agreed guarantee compensation payable by the Company to the Guarantors.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "A valid resolution under item 8 on the agenda requires that the proposal is supported by shareholders representing at least two-thirds of both the votes cast and the shares represented at the meeting.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "The Company’s shareholders have preferential rights to subscribe for shares in the Rights Issue, whereby each existing share entitles the holder to one (1) subscription right, and 3 subscription rights entitle the holder to subscribe for 2 new shares.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "DNB Bank ASA is the parent company of DNB Carnegie Investment Bank AB (publ) (“",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Board of Directors’ resolution regarding the Rights Issue is subject to approval by the extraordinary general meeting to be held on 20 November 2026. Shareholders representing approximately 45.2 per cent of the shares and votes in the Company have undertaken or expressed their intention to vote in favour of the Rights Issue.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Information to investors in accordance with the FDI Act",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "”). This means that investors who attain a certain level of influence in the Company may need to notify investments in the Company to, and obtain approval from, the Swedish Inspectorate of Strategic Products (“",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants. Backed by strategic investors, Freemelt is well-positioned for continued growth as it advances into the next phase of commercialization.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 1
+   },
+   {
+    "quote": "A capital light setup backed by strong institutional owners provides long-term stability and capacity to scale.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna, Chairman of Freemelt Holding AB, has through his company Palmstiernainvest AB increased his ownership in Freemelt Holding AB by 1461 shares. The share price was 10 SEK, and the size of the investment was around 15 kSEK. The transaction was completed on March 8, 2022.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna is independent in relation to the company, the company’s management, and the company’s major shareholders.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB's Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna, Chairman of Freemelt Holding AB, has through his company Palmstiernainvest AB increased his ownership in Freemelt Holding AB by a total of 11 563 shares.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna is independent in relation to the company, the company’s management, and the company’s major shareholders.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB's Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna, Chairman of Freemelt Holding AB, has through his company Palmstiernainvest AB increased his ownership in Freemelt Holding AB by 7271 shares. The share price was 9.98 SEK, and the size of the investment was around 73 kSEK. The transaction was completed on February 23, 2022.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna is independent in relation to the company, the company’s management, and the company’s major shareholders.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB's Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna, Chairman of Freemelt Holding AB, has through his company Palmstiernainvest AB increased his ownership in Freemelt Holding AB by 30 858 shares. The share price was 9.77 SEK, and the size of the investment was around 300 kSEK. The transaction was completed on February 22, 2022.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna is independent in relation to the company, the company’s management, and the company’s major shareholders.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelts Holding AB's Chairman, Carl Palmstierna, has expanded his ownership in the company",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Palmstierna is independent in relation to the company, the company’s management, and the company’s major shareholders.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-holding-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s addition follows Proxima Fusion’s €411 million ($468 million) financing round, closed July 7, 2026, which valued the company at €2.4 billion ($2.7 billion) and pushed its total funding past €650 million ($740 million) in under three years, led by XTX Ventures and East X Ventures with RWE and Google as strategic investors.",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   }
+  ],
+  "黒字・資金": [
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt announces outcome in the exercise of warrants of series TO1",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The last day of trading with the warrants of series TO1",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The exercise price for the warrants of series TO1 in Freemelt has been determined to SEK 0.90 and the subscription period commences on 2 June 2026",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt announces the final outcome of the company’s rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt announces preliminary outcome of the company’s rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt publishes prospectus in connection with the rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The board of directors in Freemelt has resolved on a rights issue of units of approximately SEK 105 million",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Financial guidance ahead of the upcoming rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt intends to resolve on a rights issue of units of approximately SEK 100 million and enters bridge loan of SEK 5 million",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt announces outcome of the fully guaranteed rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt publishes prospectus in connection with the fully guaranteed rights issue",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The Board of Directors of Freemelt resolves on a fully guaranteed rights issue of approximately SEK 66 million",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, orderbook, net sales, operating result (EBIT), cash flow and cash position for the third quarter of 2026. The full interim report for the period July–September 2026 will be published on 16 November 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-announces-preliminary-financial-information-for-the-third-quarter-of-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt CEO interview Rights issue Redeye 240403",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million",
+    "url": "https://freemelt.com/media/",
+    "pass": 1
+   },
+   {
+    "quote": "Rights Issue 2025",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolution on approval of the board of directors’ resolution on a rights issue of shares",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "Item 7. Resolution on approval of the board of directors’ resolution on a rights issue of shares",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscription for new shares with the support of subscription rights shall take place by way of cash payment during the period from and including 26 November 2026 up to and including 10 December 2026.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscription for new shares without the support of subscription rights shall take place on a separate subscription list during the period from and including 26 November 2026 up to and including 10 December 2026. Payment for shares subscribed for without the support of subscription rights shall be made in cash no later than the second banking day after notice of allotment of shares.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "The new shares shall carry the right to profit distributions for the first time on the first record date for dividends that occurs after the shares have been registered with the Swedish Companies Registration Office and entered into the share register maintained by Euroclear Nordics AB.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "When the authorisation is exercised, the subscription price for the newly issued shares shall correspond to the subscription price per share in the rights issue.",
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million - Freemelt",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rights Issue in Brief",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Company’s shareholders have preferential rights to subscribe for shares in the Rights Issue, whereby each existing share entitles the holder to one (1) subscription right, and 3 subscription rights entitle the holder to subscribe for 2 new shares.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The record date for participation in the Rights Issue is 24 November 2026. The last day of trading in the Company’s shares including the right to participate in the Rights Issue is 20 November 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The subscription period in the Rights Issue will run from 26 November to 10 December 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rights Issue is fully covered, up to 100 per cent, by subscription commitments, intentions to enter into subscription commitments and underwriting undertakings.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rights Issue is subject to approval by an extraordinary general meeting to be held on 20 November 2026. Notice of the extraordinary general meeting will be published through a separate press release.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The net proceeds from the Rights Issue will be used to scale Freemelt’s Manufacturing and Production Systems businesses, supporting capacity expansion, customer project execution, working capital, and the development of a more scalable recurring revenue base.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "No prospectus will be prepared in connection with the Rights Issue. The Company will prepare and publish an information document (the “",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Background and rationale for the Rights Issue",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rights Issue is expected to fund Freemelt through to positive cash flow, which is expected to be achieved in 2029.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Terms and conditions of the Rights Issue",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Preliminary timetable for the Rights Issue",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Announcement of the outcome of the Rights Issue",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "”), which acts as Sole Global Coordinator and Sole Bookrunner in connection with the Rights Issue.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "The Board of Directors’ resolution regarding the Rights Issue is subject to approval by the extraordinary general meeting to be held on 20 November 2026. Shareholders representing approximately 45.2 per cent of the shares and votes in the Company have undertaken or expressed their intention to vote in favour of the Rights Issue.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Full terms of the Rights Issue and certain information about the Company will be presented in the Information Document, which will be prepared in accordance with Annex IX to the Prospectus Regulation and is expected to be published on or around 25 November 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "DNB Carnegie is the Sole Global Coordinator and Sole Bookrunner in connection with the Rights Issue. Advokatfirman Schjødt is legal counsel to the Company in connection with the Rights Issue.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "”), and has not been approved by any regulatory authority in any jurisdiction. No prospectus will be prepared in connection with the Rights Issue. Freemelt will prepare and publish an information document in the form prescribed in Annex IX to the Prospectus Regulation on or around 25 November 2026.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "pass": 1
+   },
+   {
+    "quote": "Rights Issue 2025",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-holding-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rights Issue 2025",
+    "url": "https://freemelt.com/investors/governance/company-description/",
+    "pass": 1
+   },
+   {
+    "quote": "To date, our revenues have come from R&D printers, sold at a lower price point, which have been instrumental in proving the concept of our technology while also contributing to cash flow during our development phase. As we transition, our focus is shifting to industrial printers, e",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "We aim at a gross margin of 60%, driven by the growth in aftermarket services, despite potential price pressure on 3D printers. As we scale, we will continue to evaluate and optimize this model, ensuring sustainable growth and long-term profitability.",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 1
+   },
+   {
+    "quote": "Rights Issue 2025",
+    "url": "https://freemelt.com/investors/governance/board-of-directors/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt is expanding its strategy by adding a new business area Manufacturing, where the company has already announced its first order. In parallel, Freemelt has updated its financial ambitions, aiming for break-even EBITDA by 2028. CEO Daniel Gidlund participates in an interview to comment on these developments.",
+    "url": "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "pass": 3
+   },
+   {
+    "quote": "The Swedish EB-PBF specialist will develop plasma-facing tungsten components for Alpha, a week after Proxima Fusion closed a €411 million funding round",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Its machines range from the open-architecture Freemelt ONE, used widely in materials research, to the industrial eMELT series. In 2023 the company launched the eMELT-iD, designed to take development work through to serial production on the eMELT-iM. Freemelt systems are already working on tungsten for fusion.",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "series from 3D Printing Industry, featuring perspectives from CEOs, engineers, and industry leaders on the",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems donates MultiJet 3D printer to nonprofit for production of customised dentures",
+    "url": "https://www.tctmagazine.com/freemelt-two-orders-of-electron-beam-powder-bed-fusion-technology/",
+    "pass": 3
+   }
+  ],
+  "日本との接点": [
+   {
+    "quote": "Freemelt is granted a patent in Japan for cathode technology",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs agreement with TTA, additional reseller in the US",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs agreement with Tech-Labs, its first US reseller",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt expands and appoints new agent in Turkey",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Among our partners, Jiuli plays an important role as a reseller, expanding access to Freemelt’s solutions in new markets.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt tecknar agentavtal med ledande kinesiskt industribolag",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt beviljas patent i Japan för katodteknologi – hjärtat i bolagets teknik",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt expanderar och utser agent i Turkiet",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Ordern från F4E har ett basvärde om 55 MSEK och ett potentiellt totalt värde om upp till 84 MSEK. Leveranserna förväntas ske över två år till och med 2028, med huvuddelen av leveranserna planerade till 2027. Komponenterna ska levereras till JT-60SA, ett europeisk-japanskt fusionsprogram och världens största supraledande tokamak, belägen i Naka, Japan.",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-erhaller-order-fran-f4e-med-ett-basvarde-om-55-msek-for-tillverkning-av-fusionskomponenter/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Global trends show increased government interest in fusion energy where the US, Japan, Germany, and the UK have announced programmes to support the commercialisation of the technology. According to the Fusion Industry Association, it is expected that the first fusion energy power plant will deliver electricity to the grid before 2035.",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Swedish manufacturer secures an order from Fusion for Energy for Japan's JT-60SA tokamak",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": ". The parts are destined for JT-60SA, a European-Japanese fusion program and the world’s largest superconducting tokamak, located in Naka, Japan.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "pass": 3
+   },
+   {
+    "quote": "＜アジア最大の市場調査レポート販売代理店＞",
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "pass": 3
+   },
+   {
+    "quote": "冬の日本海を愛で、山陰松葉蟹を味わう、大人の隠れ家という贅",
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "pass": 3
+   },
+   {
+    "quote": "Freemeltによれば、世界的な傾向として、各国政府がこの技術への関心を強めていることが示されており、米国、日本、ドイツ、英国は核融合エネルギーの商業化を支援するプログラムを発表している",
+    "url": "https://idarts.co.jp/3dp/nuclear-amrc-freemelt-3d-printed-tungsten-parts/?srsltid=AYCX9vKLoF4_962LctH-ahenxRiYGsT9HeqLA2conL4CFtVrkzxfDHQ5",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt社が粉末床予熱技術「ProHeat」を発表 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2020/d20201006_02.html",
+    "pass": 3
+   }
+  ],
+  "販売の仕組み": [
+   {
+    "quote": "Freemelt signs agreement with TTA, additional reseller in the US",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt signs agreement with Tech-Labs, its first US reseller",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt expands and appoints new agent in Turkey",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Among our partners, Jiuli plays an important role as a reseller, expanding access to Freemelt’s solutions in new markets.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt tecknar agentavtal med ledande kinesiskt industribolag",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt expanderar och utser agent i Turkiet",
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "pass": 3
+   },
+   {
+    "quote": "＜アジア最大の市場調査レポート販売代理店＞",
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Founded in 2017 by seven engineers from Arcam, Freemelt’s strong technical foundation drives our innovation and product development. Combining deep expertise with strong financial leadership, our team is well-equipped to execute on Freemelt’s growth strategy.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt was founded in 2017 and is listed on Nasdaq First North Growth Market. Read more at",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "pass": 1
+   },
+   {
+    "quote": "Chairman of the Board of Freemelt Holding AB since 2021.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chairman of the Board of Freemelt Holding AB since 2021.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Chairman of the Board of Freemelt Holding AB since 2021.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "pass": 1
+   },
+   {
+    "quote": "Chairman of the Board of Freemelt Holding AB since 2021.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "pass": 1
+   },
+   {
+    "quote": "Chairman of the Board of Freemelt Holding AB since 2021.",
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-holding-in-the-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2017, Freemelt has expanded its product portfolio to include three printer models, with",
+    "url": "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Freemelt receives order for two eMELT machines from US ... — Freemelt receives order for two eMELT machines from US ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-order-for-two-emelt-machines-from-us-based-intalus/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt receives F4E order with a base value of SEK 55 ... — Freemelt receives F4E order with a base value of SEK 55 ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Receives Third Order from the US Additive ... - FacFox — Freemelt Receives Third Order from the US Additive ... - FacFox FacFox https://facfox.com > news > freemelt-...",
+    "url": "https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt has received a prototype order from a defense ... — Freemelt has received a prototype order from a defense ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube — Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "pass": 3
+   },
+   {
+    "quote": "Hidden Gem Deep Dive: Freemelt — The Tungsten Printing ... — Hidden Gem Deep Dive: Freemelt — The Tungsten Printing ... Substack https://eurohiddengemstocks.substack.com > ...",
+    "url": "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "pass": 3
+   },
+   {
+    "quote": "Design of Experiments in Freemelt ONE — Design of Experiments in Freemelt ONE Freemelt https://freemelt.com > knowledge > d...",
+    "url": "https://freemelt.com/knowledge/design-of-experiments-in-freemelt-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt to additively manufacture tungsten parts for Nuclear ... — Freemelt to additively manufacture tungsten parts for Nuclear ... The European Powder Metallurgy Association https://www.epma.com > freemelt-ab",
+    "url": "https://www.epma.com/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt enters into an MoU with Proxima Fusion and joins ... — Freemelt enters into an MoU with Proxima Fusion and joins ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-enters-into-an-mou-with-proxima-fusion-and-joins-the-alpha-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt , Sandvik, and Mid Sweden University join forces to ... — Freemelt , Sandvik, and Mid Sweden University join forces to ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-sandvik-and-mid-sweden-university-join-forces-to-accelerate-the-development-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt to Outsource Production to Scanfil — Freemelt to Outsource Production to Scanfil Scanfil https://www.scanfil.com > press_release",
+    "url": "https://www.scanfil.com/newsroom/press_release/freemelt-to-outsource-production-to-scanfil",
+    "pass": 3
+   },
+   {
+    "quote": "Sandvik, Freemelt , and Mid Sweden University to advance ... — Sandvik, Freemelt , and Mid Sweden University to advance ... VoxelMatters https://www.voxelmatters.com > sand...",
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt signs new contract with F4E to advance tungsten ... — Freemelt signs new contract with F4E to advance tungsten ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-signs-new-contract-with-f4e-to-advance-tungsten-manufacturing-knowhow/",
+    "pass": 3
+   },
+   {
+    "quote": "7,000 parts for a neutron machine: Freemelt wins ESS ... — 7,000 parts for a neutron machine: Freemelt wins ESS ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Secures €300,000 F4E Contract for Tungsten ... — Freemelt Secures €300,000 F4E Contract for Tungsten ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/metalpowdertechnology_additivemanufacturing-3dprinting-energy-activity-7511379530306191360-pZCO",
+    "pass": 3
+   },
+   {
+    "quote": "Media - Freemelt — Media - Freemelt Freemelt https://freemelt.com > media",
+    "url": "https://freemelt.com/media/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt to supply tungsten components for world's largest ... — Freemelt to supply tungsten components for world's largest ... VoxelMatters https://www.voxelmatters.com > free...",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt receives prototype order for refractory metal defense ... — Freemelt receives prototype order for refractory metal defense ... VoxelMatters https://www.voxelmatters.com > free...",
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt reports two orders of Electron Beam Powder Bed ... — Freemelt reports two orders of Electron Beam Powder Bed ... TCT Magazine https://www.tctmagazine.com > freem...",
+    "url": "https://www.tctmagazine.com/freemelt-two-orders-of-electron-beam-powder-bed-fusion-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt 、中国3Dプリント分野への市場参入でJiuliと提携 — Freemelt 、中国3Dプリント分野への市場参入でJiuliと提携 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) publishes the 2025 Annual Report — Freemelt Holding AB (publ) publishes the 2025 Annual Report Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-holding-ab-publ-publishes-the-2025-annual-report/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Reports - Freemelt — Financial Reports - Freemelt Freemelt https://freemelt.com > Investors",
+    "url": "https://freemelt.com/investors/financial-reports/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Q2 2026 orders hit record as sales fall - Investing.com — Freemelt Q2 2026 orders hit record as sales fall - Investing.com Investing.com https://www.investing.com > transcripts",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freemelt-q2-2026-orders-hit-record-as-sales-fall-93CH-4851093",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt (Q3 Preview): Building the order backlog - MFN.se — Freemelt (Q3 Preview): Building the order backlog - MFN.se MFN PDF https://storage.mfn.se > freemelt-q3-preview-buildin...",
+    "url": "https://storage.mfn.se/732c63b8-5015-460b-b038-ba14e5e9595c/freemelt-q3-preview-building-the-order-backlog.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt as Investment — Freemelt as Investment Freemelt https://freemelt.com > Investors",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "pass": 3
+   },
+   {
+    "quote": "We are freemelt — We are freemelt Freemelt https://freemelt.com > we-are-freemelt",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 3
+   },
+   {
+    "quote": "Press Releases - Freemelt — Press Releases - Freemelt Freemelt https://freemelt.com > Investors",
+    "url": "https://freemelt.com/investors/press-releases/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt 社が粉末床予熱技術「ProHeat」を発表 — Freemelt 社が粉末床予熱技術「ProHeat」を発表 CAD Japan.com https://www.cadjapan.com > ニュース > 2020年",
+    "url": "https://www.cadjapan.com/news/2020/d20201006_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "英国原子力公社、FreemeltのeMelt金属AMシステムを導入 — Mar 28, 2025 · 英国原子力公社がFreemeltのeMeltを導入。タングステンタイルの3Dプリント試験を加速し、核融合発電の商業化に向けた開発を推進する。",
+    "url": "https://www.kinzokufocus.com/2025/03/freemeltemeltam.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Placera on X: \" Freemelt fyller kassan efter orderlyftet https://t ... Placera on X: \" Freemelt fyller kassan efter orderlyftet https://t ... X https://x.com > @placerase",
+    "url": "https://x.com/placerase/status/2117954848872104228",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Freemelt AB - LinkedIn Freemelt AB - LinkedIn LinkedIn https://www.linkedin.com > freemelt-ab",
+    "url": "https://www.linkedin.com/company/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt enters Chapter 3: From technology to industrial ... Freemelt enters Chapter 3: From technology to industrial ... LinkedIn https://www.linkedin.com > pulse > fr...",
+    "url": "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt AB's Post - LinkedIn Freemelt AB's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > fr...",
+    "url": "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Manufacturing Operations - Freemelt | Daniel Gidlund Head of Manufacturing Operations - Freemelt | Daniel Gidlund LinkedIn https://www.linkedin.com > posts > d...",
+    "url": "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Bogo free melt offer at melty 2026 - Facebook Bogo free melt offer at melty 2026 - Facebook Facebook https://www.facebook.com > lovemelty > posts",
+    "url": "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963682305477/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Melt the Ice finger hat pattern on Ravelry - Facebook Free Melt the Ice finger hat pattern on Ravelry - Facebook Facebook https://www.facebook.com > ... > Ravelry | Facebook",
+    "url": "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "pass": 3
+   },
+   {
+    "quote": "Get a BOGO free melt ! Experience our unique melt ... - Facebook Get a BOGO free melt ! Experience our unique melt ... - Facebook Facebook https://www.facebook.com > lovemelty > posts",
+    "url": "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970572304788/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://freemelt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/press-releases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-announces-preliminary-financial-information-for-the-third-quarter-of-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/industrial-verticals/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investerare/freemelt_som_investering/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-innovation-pioneer-award/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-a-follow-on-order-from-a-leading-swedish-defense-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-saab-and-linkoping-university-strengthen-additive-manufacturing-for-defense-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-establish-its-first-north-american-application-center-with-hamr-industries-lcc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-saab-dynamics-targeting-defense-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-holding-in-the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/financial-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/governance/company-description/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-additional-order-from-saab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investerare/pressreleaser/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/governance/board-of-directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-beslutar-om-en-fullt-garanterad-foretradesemission-om-cirka-152-msek/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-erhaller-order-pa-freemelt-one-fran-intalus-och-blir-medlem-i-purdues-pcam-konsortium/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-erhaller-order-fran-f4e-med-ett-basvarde-om-55-msek-for-tillverkning-av-fusionskomponenter/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-har-tecknat-en-avsiktsforklaring-med-proxima-fusion-och-gar-med-i-alpha-alliance/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-erhaller-order-fran-tae-technologies-inom-fusion/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-erhaller-order-pa-freemelt-one-fran-belgiska-sirris/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-levererar-kritisk-teknologi-till-ukaeas-fusionsforskning/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tar-ytterligare-steg-i-sin-langsiktiga-fusionssatsning/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-ingar-strategiskt-partnerskap-med-kontraktstillverkaren-scanfil/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/mfn_news_en/freemelt-tecknar-avtal-med-fusion-for-energy-for-att-leda-en-forstudie-avseende-produktion-av-volframkomponenter/?lang=sv",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://freemelt.com/app/uploads/menu_customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freemelt.com/app/uploads/customer-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freemelt.com/app/uploads/customer-2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freemelt.com/app/uploads/customer-3-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freemelt.com/app/uploads/customer-4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freemelt.com/app/uploads/customer-5.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.epma.com/freemelt-ab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plastometrex.com/resources/case-study/materials-at-the-extreme-rapidly-characterising-am-tungsten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/arunramanathanb_the-wise-alumni-spotlight-arun-ramanathan-activity-7508814482933067776-xJcN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielgidlund_fusionenergy-tungsten-advancedmanufacturing-activity-7510711285848862720-iJXA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scanfil.com/newsroom/press_release/freemelt-to-outsource-production-to-scanfil",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/freemelt-ab_freemelt-industrialization-additivemanufacturing-activity-7442111515106652160-RsSk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/metalpowdertechnology_additivemanufacturing-3dprinting-energy-activity-7511379530306191360-pZCO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/freemelt-two-orders-of-electron-beam-powder-bed-fusion-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-fusion-activity-7504146867677622272-YFtD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%BC%E3%83%90%E3%83%A0-3d-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91-pulsepoint-research-zd3me",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9155293",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japanese_honorifics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japanese_language",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freemelt-q2-2026-orders-hit-record-as-sales-fall-93CH-4851093",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://storage.mfn.se/732c63b8-5015-460b-b038-ba14e5e9595c/freemelt-q3-preview-building-the-order-backlog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketscreener.com/news/freemelt-s-order-intake-surged-according-to-preliminary-third-quarter-figures-ce785fd9dc8ff424",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltpressuresensor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigsciencesweden.se/suppliers-partners/divisoft-ab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/nuclear-amrc-freemelt-3d-printed-tungsten-parts/?srsltid=AYCX9vKLoF4_962LctH-ahenxRiYGsT9HeqLA2conL4CFtVrkzxfDHQ5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2020/d20201006_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.kinzokufocus.com/2025/03/freemeltemeltam.html&q=EgSGiiEGGKmqutcGIi2xbQ49XGBaUstYXHjZrn7HWupiMfFf6kfrAwCPOIpmtfgpvvIATyzioE74qCAyAnJSWgFDYNuuq_Tdg8f_5AE",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://technical.yanmar.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-order-management/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/placerase/status/2117954848872104228",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/freemelt-ab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963682305477/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970572304788/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Freemelt customer OR order OR \"received an order\"",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-receives-order-for-two-emelt-machines-from-us-based-intalus/",
+    "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/",
+    "https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/",
+    "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf",
+    "https://freemelt.com/mfn_news_en/freemelt-receives-order-for-freemelt-one-from-printit-sweden/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://freemelt.com/investors/press-releases/",
+    "https://www.voxelmatters.com/freemelt-wins-2-9-million-order-from-ess-for-tungsten-components/"
+   ]
+  },
+  {
+   "query": "Freemelt case study OR \"success story\"",
+   "results": [
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://freemelt.com/knowledge/design-of-experiments-in-freemelt-one/",
+    "https://www.epma.com/freemelt-ab/",
+    "https://www.plastometrex.com/resources/case-study/materials-at-the-extreme-rapidly-characterising-am-tungsten",
+    "https://www.linkedin.com/posts/arunramanathanb_the-wise-alumni-spotlight-arun-ramanathan-activity-7508814482933067776-xJcN",
+    "https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/",
+    "https://ntrs.nasa.gov/api/citations/20210026538/downloads/AM%20for%20Spaceflight_SPIE-Webinar_1-13-2022.pdf",
+    "https://www.metal-am.com/chemically-reduced-tungsten-powder-achieves-99-9-density-in-pbf-eb/",
+    "https://mechanicaladvantageai.com/",
+    "https://www.sprinklr.com/stories/"
+   ]
+  },
+  {
+   "query": "Freemelt partnership OR collaboration OR \"joint development\"",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-enters-into-an-mou-with-proxima-fusion-and-joins-the-alpha-alliance/",
+    "https://www.linkedin.com/posts/danielgidlund_fusionenergy-tungsten-advancedmanufacturing-activity-7510711285848862720-iJXA",
+    "https://freemelt.com/mfn_news_en/freemelt-sandvik-and-mid-sweden-university-join-forces-to-accelerate-the-development-of-additive-manufacturing/",
+    "https://www.scanfil.com/newsroom/press_release/freemelt-to-outsource-production-to-scanfil",
+    "https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-industrialization-additivemanufacturing-activity-7442111515106652160-RsSk",
+    "https://www.metal-am.com/freemelt-one-ordered-for-purdue-university-as-freemelt-joins-pcam-consortium/",
+    "https://3druck.com/en/industry-2/freemelt-brings-tungsten-3d-printing-to-proxima-fusions-stellarator-project-alpha-03160480/",
+    "https://tracxn.com/d/companies/freemelt/__8K851evb8z04yZQG6gPf5FFN2nFWNFz-1e9wOqjatOc",
+    "https://en.wikipedia.org/wiki/Collaborative_partnership"
+   ]
+  },
+  {
+   "query": "Freemelt defense OR navy OR \"Department of Defense\" contract",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-signs-new-contract-with-f4e-to-advance-tungsten-manufacturing-knowhow/",
+    "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "https://www.linkedin.com/posts/metalpowdertechnology_additivemanufacturing-3dprinting-energy-activity-7511379530306191360-pZCO",
+    "https://freemelt.com/media/",
+    "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/",
+    "https://3dprintingindustry.com/defense/",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7518334526989991936-4ikm",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://primerfp.com/intel/agency/department-of-defense"
+   ]
+  },
+  {
+   "query": "Freemelt fusion OR medical OR aerospace customer",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/",
+    "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://www.voxelmatters.com/freemelt-receives-prototype-order-for-refractory-metal-defense-study/",
+    "https://www.tctmagazine.com/freemelt-two-orders-of-electron-beam-powder-bed-fusion-technology/",
+    "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-fusion-activity-7504146867677622272-YFtD",
+    "https://www.metal-am.com/freemelt-receives-order-for-33000-fusion-components/",
+    "https://freemelt.com/",
+    "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/",
+    "https://freemelt.com/mfn_news_en/freemelt-supplying-key-technology-for-ukaeas-fusion-research/"
+   ]
+  },
+  {
+   "query": "Freemelt Japan OR Japanese OR 日本 代理店",
+   "results": [
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%BC%E3%83%90%E3%83%A0-3d-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91-pulsepoint-research-zd3me",
+    "https://www.atpress.ne.jp/news/9155293",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://en.wikipedia.org/wiki/Japanese_honorifics",
+    "https://en.wikipedia.org/wiki/Japanese_language",
+    "https://www.japandict.com/",
+    "https://jpdb.io/",
+    "https://www.nihongomaster.com/japanese/dictionary",
+    "https://www.branah.com/japanese"
+   ]
+  },
+  {
+   "query": "Freemelt annual report customers order backlog",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-holding-ab-publ-publishes-the-2025-annual-report/",
+    "https://freemelt.com/investors/financial-reports/",
+    "https://www.investing.com/news/transcripts/earnings-call-transcript-freemelt-q2-2026-orders-hit-record-as-sales-fall-93CH-4851093",
+    "https://storage.mfn.se/732c63b8-5015-460b-b038-ba14e5e9595c/freemelt-q3-preview-building-the-order-backlog.pdf",
+    "https://freemelt.com/investors/freemelt_as_an_investment/",
+    "https://www.marketscreener.com/news/freemelt-s-order-intake-surged-according-to-preliminary-third-quarter-figures-ce785fd9dc8ff424",
+    "https://www.tradingview.com/news/tradingview:cdc563730732c:0-freemelt-holding-ab-publ-freem-reports-sek-60-5m-in-q3-orders-sek-33-4m-cash/",
+    "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://addithive.com/2026/07/31/freemelt-fusion-defense-orders-industrial-scale-2026/"
+   ]
+  },
+  {
+   "query": "Freemelt distributor OR reseller OR \"sales partner\"",
+   "results": [
+    "https://freemelt.com/we-are-freemelt/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://freemelt.com/investors/press-releases/",
+    "https://www.voxelmatters.com/analysis/",
+    "https://meltpressuresensor.com/",
+    "https://www.bigsciencesweden.se/suppliers-partners/divisoft-ab/",
+    "https://www.metal-am.com/vbn-components-names-farcco-tecnologia-as-brazilian-distributor/",
+    "https://www.stephensonpersonalcare.com/product-categories/melt-and-pour",
+    "https://www.rensafiltration.com/company/aeolus-filter-corp",
+    "https://www.cleverwholesale.com/blog/wholesale-suppliers-for-resellers-usa-2026-guide"
+   ]
+  },
+  {
+   "query": "Freemelt 導入 OR 納入 OR 受注",
+   "results": [
+    "https://idarts.co.jp/3dp/nuclear-amrc-freemelt-3d-printed-tungsten-parts/?srsltid=AYCX9vKLoF4_962LctH-ahenxRiYGsT9HeqLA2conL4CFtVrkzxfDHQ5",
+    "https://www.cadjapan.com/news/2020/d20201006_02.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://www.kinzokufocus.com/2025/03/freemeltemeltam.html",
+    "https://technical.yanmar.com/",
+    "https://www.salesforce.com/jp/blog/jp-order-management/",
+    "https://ukiyo.co.jp/media/order-management-guide/",
+    "https://www.global.toshiba/jp/news/energy/2026/06/news-20260629-01.html",
+    "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "https://it-trend.jp/receiving_orders/article/374-0007"
+   ]
+  },
+  {
+   "query": "site:note.com Freemelt",
+   "results": [
+    "https://note.com/melt964/n/n3ebafc9569de?hl=en",
+    "https://note.com/ryucloudwater/n/nabeb586135d1?hl=en",
+    "https://note.com/tm_dogma/n/n3963ffea800c?hl=en",
+    "https://note.com/maecheck/n/ne089f3bd06dc",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/novasolver/n/nab98fb6a5fb8?hl=en",
+    "https://note.com/kirik/n/n8d03dc1ce205",
+    "https://note.com/kurashi_bouei/n/n6bcf6aecdfe3",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ]
+  },
+  {
+   "query": "site:x.com Freemelt",
+   "results": [
+    "https://x.com/Redeye_/status/2118716506200571942",
+    "https://x.com/Redeye_/status/2117547943712731633",
+    "https://x.com/fabbing",
+    "https://x.com/placerase/status/2117954848872104228",
+    "https://x.com/nittinpatil",
+    "https://x.com/Nyemissioner/status/2117363004383613186",
+    "https://x.com/AFV_magasin/status/2118249792044171756",
+    "https://x.com/AFV_magasin/status/2117931863830311326",
+    "https://x.com/StockpickerAB",
+    "https://x.com/napoleon21st"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Freemelt",
+   "results": [
+    "https://www.linkedin.com/company/freemelt-ab/",
+    "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "https://www.linkedin.com/posts/freemelt-ab_opensource-ai-freemelt-activity-7445092646768906240-jhBi",
+    "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-pbfeb-activity-7506728778098946049-0-q9",
+    "https://www.linkedin.com/posts/jonathan-wright-96507054_huge-news-for-freemelt-and-e-pbf-tungsten-activity-7503374498864377856-XnOv",
+    "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-energy-activity-7511741869467410432-G0nZ",
+    "https://www.linkedin.com/posts/big-science-sweden_congratulations-to-freemelt-ab-on-your-sek-activity-7504066456901353472-Z3n6",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7524371673429766144-hEHy"
+   ]
+  },
+  {
+   "query": "site:facebook.com Freemelt",
+   "results": [
+    "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963682305477/",
+    "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970572304788/",
+    "https://www.facebook.com/groups/LasVegasFoodScene/posts/4437036976513543/",
+    "https://www.facebook.com/Soundbiteburgersph/posts/thursdays-must-be-our-favorite-day-of-the-week-buy-any-2-burger-meals-and-well-t/122127705615213047/",
+    "https://www.facebook.com/LowCalDelightsRecipes/posts/sugar-free-melt-in-your-mouth-cake-wonderful-polish-cakea-delicate-two-layer-cak/122175938168612084/",
+    "https://www.facebook.com/groups/107315198354/posts/10163220244513355/",
+    "https://www.facebook.com/groups/longbeachfoodscene/posts/27899136913053585/",
+    "https://www.facebook.com/ministryofcurry/videos/who-needs-a-healthy-chocolate-fix-these-glorious-gluten-free-melt-in-your-mouth-/348074577359390/",
+    "https://www.facebook.com/groups/greaterpittsburghceliacsupport/posts/3534039440132331/"
+   ]
+  },
+  {
+   "query": "Freemelt note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://freemelt.com/investors/governance/company-description/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "Freemelt X 投稿",
+   "results": [
+    "https://freemelt.com/",
+    "https://www.youtube.com/@freemelt",
+    "https://freemelt.com/e%C2%AF-melt-id/",
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://www.voxelmatters.com/freemelt-receives-second-order-from-the-us/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/",
+    "https://www.fabbaloo.com/news/freemelts-unusual-new-metal-3d-printer-features",
+    "https://x.com/gewuerleo/status/2117925294342365326",
+    "https://freemelt.com/open-source/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）",
+  "代表者": "記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）"
+ }
+}

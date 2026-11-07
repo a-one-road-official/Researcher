@@ -1,0 +1,2047 @@
+{
+ "name": "MX3D",
+ "aliases": [
+  "MX3D B.V.",
+  "MX3D Metal",
+  "エムエックススリーディー"
+ ],
+ "context": "ワイヤアーク方式の大型金属AM（オランダ）。A1が日本の案件を持ち込む提案中",
+ "researched_at": "2026-11-07T02:55:47.904409+00:00",
+ "official_url": "https://mx3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "用途・分野": [
+   {
+    "quote": "Since 2014, MX3D’s skilled production engineers and in-house",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, MX3D has printed countless qualified industrial parts for multiple verticals like Nuclear, Maritime, Oil and Gas, Construction, and Art and Design.",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D WAAM Systems Now Operational as Framatome Inaugurates €25 Million Nuclear Additive Manufacturing Center in France",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cylinder for Space Module",
+    "url": "https://mx3d.com/about/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Steam Turbine spare part",
+    "url": "https://mx3d.com/about/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense - MX3D",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense Manufacturing with WAAM",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense organizations face increasing pressure to maintain readiness while operating in complex geopolitical and logistical environments. Long lead times, dependency on external suppliers, and limited availability of spare parts can directly impact operational capability. Wire Arc Additive Manufacturing (WAAM) offers a",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D provides containerized industrial WAAM systems and manufacturing services that enable defense organizations to manufacture, repair, and adapt metal components when and where they are needed. By combining robotic metal 3D printing with advanced process control, WAAM supports faster response times, improved resilience, and long‑term manufacturing autonomy.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Control Over the Defense Supply Chain",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic autonomy is becoming a key objective for defense organizations worldwide. WAAM enables a shift from reliance on global OEM supply chains to controlled, local and fully automated production. Instead of waiting months for replacement parts, components can be produced or repaired directly from validated digital designs.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM is particularly suited for distributed manufacturing strategies. MX3D systems allow defense organizations to deploy multiple production hubs across different locations, reducing single points of failure and enabling continuous production.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Defense Track Record & Mobile Readiness",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform how you develop, qualify, and manufacture defence components with speed, precision, and authority.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "How does WAAM improve military supply chain resilience?",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM enables defense organizations to achieve strategic autonomy by shifting from vulnerable global supply chains to secure, localized production. By utilizing distributed hubs and digital inventories, military branches can rapidly produce critical spare parts on-demand, directly mitigating geopolitical risks and reducing dependence on foreign suppliers.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Which military branches currently utilize MX3D WAAM technology?",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D systems have a proven track record of active deployment throughout NATO territory. Our systems currently support multiple defense organizations, including the US Department of Defense, alongside various Army and Navy branches, to ensure rapid replacement, repair, and high operational readiness.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Are MX3D WAAM systems compliant with international defense regulations?",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Can WAAM repair damaged military vehicles and infrastructure?",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. By integrating 3D scanning with targeted material build-up, WAAM can seamlessly repair worn or damaged military components rather than replacing them entirely. This hybrid repair workflow drastically reduces equipment downtime and keeps aging or specialized fleets fully operational.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our defense and heavy industry cases →",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM Solutions For Aerospace",
+    "url": "https://mx3d.com/about/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D WAAM Systems Now Operational as Framatome Inaugurates €25 Million Nuclear Additive Manufacturing Center in France",
+    "url": "https://mx3d.com/about/news/",
+    "pass": 1
+   },
+   {
+    "quote": "in the world. This top-tier certification validates MX3D’s capability to produce highly critical metal components for the most demanding maritime, defense, and energy applications.",
+    "url": "https://mx3d.com/mx3d-becomes-the-worlds-first-dnv-amc3-certified-waam-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "With this certification, MX3D solidifies its position as the go-to partner for producing heavy-duty, large-scale metal parts, offering a verified, breakthrough alternative to traditional forging and casting. This milestone empowers engineering teams across high-impact sectors to leverage the speed, design flexibility, and material efficiency of WAAM with total confidence.",
+    "url": "https://mx3d.com/mx3d-becomes-the-worlds-first-dnv-amc3-certified-waam-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy - MX3D",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D’s Wire Arc Additive Manufacturing (WAAM) offers certified, large-scale metal part production. We build critical spares and custom components with unmatched agility for the energy sectors, including oil, gas, nuclear, and hydropower. Ready to produce parts in-house? We have the",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the Nuclear, Hydro, Oil, and Gas industry using API20S or DNV-ST-B203.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Steam Turbine spare part",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D serves a spectrum of different industries within the energy sector. From critical spare parts to small serial production, digital inventory, hybrid manufacturing, repair, or reverse engineering, MX3D has you covered.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by energy-leading firms for complex, mission-critical parts.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to elevate your energy projects?",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Which energy sector parts are a good fit for WAAM?",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our energy sector use cases →",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Is WAAM suitable for the hydrogen and energy transition supply chain?",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM is highly suited for the energy transition, allowing companies to efficiently print components using hydrogen-compatible alloys. It enables organizations to bring production in-house and cost-effectively manufacture the low volumes of specialized parts needed for emerging clean energy infrastructure.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Does WAAM meet API, PED and ASME standards for oil and gas use?",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, WAAM is capable of meeting strict regulatory frameworks within the oil and gas industry. Components can be produced and qualified according to rigorous standards, including PED and ASME Section II and IX, B31.3, and API 6A.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Which alloys are available for energy sector WAAM parts?",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "The WAAM process supports a variety of high-performance, corrosion-resistant materials demanded by the energy sector. Commonly printed alloys include duplex, super duplex, Inconel 625 and 718, and nickel-aluminium bronze.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM solutions for Aerospace - MX3D - MX3D",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Print large structural aerospace parts in one continuous piece, drastically minimizing material waste.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "The aerospace and space sectors face immense pressure to accelerate R&D timelines, lighten payloads, and secure vulnerable global supply chains. Large format metal 3D printing for aerospace provides a direct solution, allowing engineers to bypass massive upfront tooling costs and the 12-to-18-month lead times typical of traditional forgings and castings.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging 3D metal printing, aerospace manufacturers can produce complex components locally and on-demand. If you require structural ground-support hardware or flight-ready components, our industrial metal 3D printing systems for aerospace production offer the scale, speed, and material traceability required to meet the industry’s most rigorous standards.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Why WAAM Works for Aerospace",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional machining wastes massive amounts of high-value aerospace alloys. WAAM deposits material only where needed, cutting material waste by up to 80% on expensive metals like Inconel.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM enables engineers to produce complex, organic geometries that reduce overall mass while maintaining structural integrity.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Aviation and Space Applications",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Choose MX3D for Aerospace",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your aerospace manufacturing capabilities?",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact our team of engineers to discuss your next project.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Which aerospace components are a good fit for WAAM?",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace WAAM components are typically large-scale, low-to-medium volume metal parts. The most common applications include structural brackets, custom ducting, large propellant tanks, launch support hardware, and robust rocket engine thrusters.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Which alloys are available for aerospace WAAM parts?",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "We process a wide range of certified aerospace alloys. For high-temperature space applications, we utilize superalloys like Inconel 625 and 718. For structural aviation lightweighting, we print with aerospace-grade aluminum (such as 2319 and 6063), alongside robust stainless steel and super duplex.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the difference between WAAM for aviation and space applications?",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Aviation applications largely focus on producing structural aluminum brackets, custom ducting, and lightweight spare parts for business aircraft. In contrast, space applications require extreme thermal resistance, utilizing WAAM to print large Inconel thrusters, propulsion housings, and fuel tanks for launch vehicles.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "What does the qualification process for metal 3D printed aerospace parts look like?",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "The qualification process for metal 3D-printed aerospace parts involves strict metallurgical testing, non-destructive testing (NDT), and complete digital traceability of all printing parameters. MX3D systems log extensive real-time sensor data during the build, thereby actively supporting certification frameworks.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Established in 2014",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, MX3D’s skilled production engineers and in-house",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, MX3D has printed countless qualified industrial parts for multiple verticals like Nuclear, Maritime, Oil and Gas, Construction, and Art and Design.",
+    "url": "https://mx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the Nuclear, Hydro, Oil, and Gas industry using API20S or DNV-ST-B203.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the naval, commercial maritime, and sub-sea industries using API20S, PED, or DNV-ST-B203.",
+    "url": "https://mx3d.com/industries/maritime/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the AEC business with Bridges, Optimized structures, Custom Beams, and Connectors in steel, stainless steel, aluminum, and corten.",
+    "url": "https://mx3d.com/industries/architecture-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the Energy, Molding, Milling, and Heavy industries using API20S, PED, or DNV-ST-B203.",
+    "url": "https://mx3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "With over 50,000 kg of metal 3D printed objects and over 200 man-years of experience since 2014, MX3D is the company that manages the quality of design for various materials including bronze, aluminum, and stainless steel.",
+    "url": "https://mx3d.com/industries/art-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, MX3D’s skilled production engineers and in-house certification experts use Robotic WAAM to print qualified metal parts up to 20,000 kg, specializing in Nuclear, Oil and Gas, Maritime and Manufacturing.",
+    "url": "https://mx3d.com/metal-3d-printing-on-demand-waam-parts-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D has been working on the 3D-printed bridge since 2015, collaborating with various partners, including Joris Laarman Lab who designed the bridge, Arup who acted as the project’s lead structural engineers and Autodesk, which provided their knowledge on digital production tools.",
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "pass": 3
+   }
+  ],
+  "顧客・導入先": [
+   {
+    "quote": "WAAM solution designed for mission‑critical environments, built fully within NATO territory.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers retain full intellectual property rights over their designs, enabling secure, continuous production under their own control.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Goods supplied fall under dual‑use regulations as defined in Annex I of Regulation (EU) 2021/821 and are subject to export control outside the European Union, ensuring compliance with international regulations. Customers from NATO countries need to complete an End User Statement.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "of our system designed specifically for mission-critical, mobile readiness. This ruggedized, 100% on-premise solution allows armed forces to deploy industrial-grade manufacturing autonomy anywhere, right at the point of need.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Built entirely within NATO territory, MX3D systems and components adhere strictly to EU dual-use export control regulations. Furthermore, customers retain full intellectual property rights over their digital files, ensuring highly secure, confidential, and continuous production under their own control.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO, API 20S, ASME, and DNV-ready, bolstered by partnerships with LRQA, TWI, and Bureau Veritas.",
+    "url": "https://mx3d.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "The WAAM process supports a wide range of standard, weldable marine-grade alloys designed to withstand harsh offshore environments. Highly suitable materials include Stainless Steel 316L, Duplex 2205, Super Duplex, Nickel-Aluminium Bronze, and Inconel 625.",
+    "url": "https://mx3d.com/industries/maritime/",
+    "pass": 1
+   },
+   {
+    "quote": "In collaboration with MX3D, BMW manufactured a suspension strut support system in a single print run. The result: faster turnaround, stronger geometry, and a leaner supply chain. This case proved how WAAM can deliver high-performance parts that meet strict OEM requirements while reducing complexity and waste.",
+    "url": "https://mx3d.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "At MX3D, I’ve had the opportunity to engage with cutting-edge technology while working closely with clients across different industries and regions. Supporting international projects and building meaningful relationships, every day brings new challenges and learning experiences. I’m happy to be part of such a supportive team, where collaboration and growth are encouraged.",
+    "url": "https://mx3d.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute our systems to provide your clients with a fully integrated, robotic 3D printing.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your clients to print large-scale metal parts with WAAM.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Equip your industrial clients with the world’s leading",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a network of resellers to supply our systems worldwide. We value local distributors to improve connection and servicing with customers locally. Whether it’s about AM knowledge/skills, technical support, geographical proximity and/or the ability to talk in native language, we appreciate the added value from our trusted resellers.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "with proprietary MetalXL software, giving your clients complete, production-ready robotic 3D metal printing solutions.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team possesses the engineering knowledge, equipment, and practical experience in industrial robotics, welding, or metal AM required to accurately advise enterprise clients.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "The M1 is the standard system solution for robotic 3D metal printing with Wire Arc Additive Manufacturing (WAAM). It enables large-scale printing at an industrial level. It’s designed for rapid setup, advanced control, and qualified production runs.",
+    "url": "https://mx3d.com/waam-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "The MX System is our fully customizable WAAM system designed for heavy-duty, large-scale industrial manufacturing and built to fabricate metal components of 6+ meters and a payload of 20+ tonnes, enabling multi-part, multi-alloy, and heavy-duty printing. Ideal for manufacturers producing parts at scale in sectors like",
+    "url": "https://mx3d.com/waam-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for continuous 24/7 production",
+    "url": "https://mx3d.com/waam-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "MetalXL Live is the print monitoring interface. It allows the user to simulate the print, control the process in real time and log the data thanks to the MetalXL control system.",
+    "url": "https://mx3d.com/waam-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "This strategic production hub is designed to meet the strictest safety requirements across the nuclear energy sector. By integrating WAAM into its daily operations, Framatome is actively reducing its environmental footprint through minimized raw material waste and lowered energy consumption, all while cutting lead times compared to traditional forging.",
+    "url": "https://mx3d.com/mx3d-waam-systems-now-operational-as-framatome-inaugurates-25-million-nuclear-additive-manufacturing-center-in-france/",
+    "pass": 1
+   },
+   {
+    "quote": "allows us to seamlessly incorporate complex geometry, such as stub pipes and specialized connections, tailored precisely to the requirements of any installation. This ensures that our pressure vessels can accommodate the most demanding and specific customer needs without the need for extensive post-fabrication welding or assembly.",
+    "url": "https://mx3d.com/case/stainless-steel-pressure-vessel/",
+    "pass": 1
+   },
+   {
+    "quote": "For a pressure vessel, the code decides how it is designed, built, and tested. We build our pressure vessels in our facility according to the following qualifications and industry standards.",
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Prototype: A Stainless Steel Water Tank for Fourinox",
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "A pressure vessel is a closed container that holds a gas or liquid at a pressure different from the surrounding air. Reactors, separators, air receivers, and heat exchanger shells are common examples. Because a failure can be dangerous, every pressure vessel is designed, built, and tested to a code such as PED or ASME VIII.",
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "An ASME pressure vessel is designed, built, and inspected to ASME BPVC Section VIII, the main pressure vessel code in the US. An authorized inspector checks the work, and the vessel receives an ASME stamp. Many buyers outside the US ask for it too, especially in oil and gas.",
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Portal – Phillips Connect",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "The bridge design is, to a large extent, a process. It is something that is dependent on many factors, and algorithms will also be used in order to achieve a smart structure that takes the printing process into account, as well as functionality for the user and the environment in which it is placed.",
+    "url": "https://www.jorislaarman.com/work/mx3d-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": "‘World's first 3D-printed steel bridge opens in Amsterdam’ - celebrates an innovative four-year project involving a collaboration between CSIC and The Alan Turing Institute.",
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D has been working on the 3D-printed bridge since 2015, collaborating with various partners, including Joris Laarman Lab who designed the bridge, Arup who acted as the project’s lead structural engineers and Autodesk, which provided their knowledge on digital production tools.",
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "pass": 3
+   },
+   {
+    "quote": "The project is a successful example of how multi-disciplinary collaborations and synergies among academia, industry and public authorities can harness technological innovation to improve efficiency and longevity of infrastructure in cities.",
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "pass": 3
+   },
+   {
+    "quote": "The MX3D 3D printed 4.5tonnes and 12-meter long stainless steel pedestrian bridge, is designed by Joris Laarman Lab, Arup is the lead structural engineer and other partners joining the project include Autodesk, The Alan Turing Institute, and the Amsterdam Institute for Advanced Metropolitan Solutions (AMS).",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "Studio Other Spaces-designed ‘Common Sky’ creates an inclusive space",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "Get the latest architecture, design, and technology, stories delivered to your inbox.",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "Username or Email Address",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio : Use Case Study by Daidore",
+    "url": "https://hdc3d.com/usecase-meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal – Phillips Connect",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Company News & Partnerships",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "“By operating a machine locally, the Phillips team will be able to provide hands-on support based on their own experience, which is crucial as more and more customers begin using MX3D systems for 24/7 qualified production.”",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Corporation and 2oneLab Inc. Announce Strategic U.S. Partnership to Expand Access to Metal Additive Manufacturing",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership brings compact laser powder bed fusion technology and comprehensive sales, service, and applications support to U.S. commercial and federal customers HANOVER, Md. — October...",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Training and experimentation with different target groups in collaboration with design students from the",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": "(Universities, Customers and other identified WAAM users)",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": "Following the cross-case experimentation, seven participant groups confirmed further collaboration and development: I-Trio Toscano, Delow, D-Fuse, Puzzle, Silea, and Riscoperta del Sensi.",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": "Their concepts were further developed in collaboration with MX3D’s technical team. Design iterations and knowledge exchange focused on translating the concepts into manufacturable parts and preparing the designs for robotic WAAM production. The finalised cases were gathered and prepared for production, with the manufacturing phase still ongoing in August 2026.",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": ", the Dutch pioneer in robotic Wire Arc Additive Manufacturing (WAAM), has been selected by Framatome to provide two advanced WAAM robotic systems for its new additive manufacturing facility in Romans-sur-Isère, France.",
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "“Their ingenuity and commitment to collaboration made them the ideal partner for this strategic project.”",
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "The facility will be the first of its kind in Europe, housing both WAAM and laser powder bed fusion, creating a versatile production hub for the French and European nuclear supply chain. As part of EDF’s investment in MX3D earlier this year, the collaboration underscores a shared commitment to strengthening European industrial sovereignty through advanced manufacturing.",
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "is designed for exactly these kinds of high-demand, high-quality applications. We replace casting and forging with data-driven technology delivering repeatable quality and significantly improved lead times for the next generation of nuclear manufacturing.”",
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "With this partnership, MX3D further expands its footprint in the energy sector, positioning Wire Arc Additive Manufacturing as a key enabler for the future of sustainable and resilient industrial production.",
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal – Phillips Connect",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer Installation onboard USS Bataan",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "“Phillips and Meltio are proud to be a part of Phillips Additive Hybrid installation aboard the USS Bataan. This is the first laser metal deposition (LMD) additive manufacturing technology installed aboard a naval ship,” said",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "HANOVER, Maryland — Phillips Corporation, Federal Division, announced today that it has entered into a contract with the U.S. Army to deliver advanced hybrid manufacturing systems through its Hybrid division. The...",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Corporation Celebrates 100th Machine Sold in Hybrid Division with Installation at the Institute for Advanced Learning and Research Danville, VA — Phillips Corporation, a...",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": ", AMS Institute, and Lenovo helped MX3D realize its vision. The award-winning bridge was designed by Joris Laarman Lab, with Arup as lead engineer.",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "Researchers from Autodesk designed bespoke software and served as the primary systems integrator for the smart bridge. Autodesk worked closely with the partners of the",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "\"Extending our partnership with MX3D has provided Autodesk a platform to test and develop our IoT digital twin technologies to help MX3D make its bridge the most advanced smart structure in the world in its design, creation, and use,\" said Alex Tessier, senior principal research analyst at Autodesk.",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "just over a month away, it’s been relatively quiet in the additive manufacturing (AM) industry as companies from across the globe prepare to descend on Frankfurt and announce their latest products and partnerships. Even so, there have been a few recent developments in the AM business world worth noting, particularly when it comes to automotive and consumer goods applications.",
+    "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+    "pass": 3
+   },
+   {
+    "quote": ", the video is about metal AM becoming a key driver of next-generation consumer electronics. Granted, its emphasis is on BLT’s collaboration with",
+    "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+    "pass": 3
+   },
+   {
+    "quote": ", MX3D announced the release of its basic MetalXL software, which makes it easier for users to 3D print large-scale metal parts in house. Metal XL Beta\\01 is now in the process of being tested by select users and an advanced beta version will become available early next year.",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   }
+  ],
+  "政府・研究機関の契約": [
+   {
+    "quote": "MX3D systems have a proven track record of active deployment throughout NATO territory. Our systems currently support multiple defense organizations, including the US Department of Defense, alongside various Army and Navy branches, to ensure rapid replacement, repair, and high operational readiness.",
+    "url": "https://mx3d.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM drastically accelerates automotive R&D by slashing prototype cycles from several months down to mere days. Because the additive process requires absolutely no pattern-making, engineers can rapidly iterate and test large structural components without massive upfront tooling investments.",
+    "url": "https://mx3d.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Serra Utkum Ikiz is a city planner, writer, and researcher who previously served as Managing Editor at Parametric Architecture. Her work explores cities through urbanism, politics,...",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "Serra Utkum Ikiz is a city planner, writer, and researcher who previously served as Managing Editor at Parametric Architecture. Her work explores cities through urbanism, politics, everyday sociology, and emerging design trends, combining critical research with architectural and urban storytelling.",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "US Navy installs on board the first Phillips Additive Hybrid metal 3D printing solution powered by Meltio and Haas",
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Their concepts were further developed in collaboration with MX3D’s technical team. Design iterations and knowledge exchange focused on translating the concepts into manufacturable parts and preparing the designs for robotic WAAM production. The finalised cases were gathered and prepared for production, with the manufacturing phase still ongoing in August 2026.",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": "US Navy Installs First Onboard Phillips Additive Hybrid Machine",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "US Navy installs on board the first Phillips Additive Hybrid metal 3D printing solution powered by Meltio and Haas",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "– The Spanish multinational Meltio – a disruptive wire-laser metal 3D printing technology manufacturer- together with Phillips Corporation – a global manufacturing solutions leader based in the US – have worked together to install for the first time on a US Navy ship a metal 3D printing solution for the onboard manufacture of spare parts and repairs. The",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "“This is an optimal fit for the US Navy that is seeking to add exceptional new Additive capability to their Haas machining centers– all in one machine,” Kristaponis added. “They are leveraging this exciting new technology to improve self-sufficiency for deployed ships and their crews.”",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Federal Awarded U.S. Army Contract for Containerized Additive Hybrid Manufacturing Systems",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "HANOVER, Maryland — Phillips Corporation, Federal Division, announced today that it has entered into a contract with the U.S. Army to deliver advanced hybrid manufacturing systems through its Hybrid division. The...",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "granted MX3D a two-year operations permit.",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "Industry News: 3D Printed Bridge, Knitting Through 3D Printing, Printable Smart Ink, US Navy, And Micro-Factory - 3D2GO Philippines | 3D Printing Services",
+    "url": "https://3d2go.com.ph/3d-printed-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry News: 3D Printed Bridge, Knitting Through 3D Printing, Printable Smart Ink, US Navy, And Micro-Factory",
+    "url": "https://3d2go.com.ph/3d-printed-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": ", the video is about metal AM becoming a key driver of next-generation consumer electronics. Granted, its emphasis is on BLT’s collaboration with",
+    "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+    "pass": 3
+   },
+   {
+    "quote": "クラボウと竹中工務店が2022年度中に3Dプリンティング建築物の施工を目指し、共同研究契約を締結",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラボウは、2021年に発表した建設向けの3Dプリンティング事業で、竹中工務店と共同研究の契約を結んだ",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした中で、事業構想と考えが一致した竹中工務店と、建設用3Dプリンタを活用した新たな建築工法の開発を視野に入れ、共同で技術革新の基盤を作っていくことに合意し、共同研究契約を締結するに至った",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "This next stage for the Amsterdam-based company is facilitated by funding from DOEN",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3Dは、欧州宇宙機関（ESA）およびSkidmore, Owings & Merril（SOM）と共同で、LunarVillage用に1/1スケールで最適化された3Dプリント床構造を開発・製作した",
+    "url": "https://hdc3d.com/ja/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D has launched the M1 Robotic 3D metal printing system following a funding round, which looks to propel the Dutch robotic welding experts into the realm of commercial products.",
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター住宅「Deep α」の建設に向け、LibWorkとArupがコンサルティング業務委託契約を結んだ",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   }
+  ],
+  "黒字・資金": [
+   {
+    "quote": "We provide complete, plug-and-play M-Series robotic systems powered by our proprietary MetalXL software, delivering a perfectly controlled, ready-to-print industrial cell.",
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Producing design series, faster design adjustments & improved accuracy",
+    "url": "https://mx3d.com/industries/art-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Casting and forging only pay off over a series, because the tooling has to be made first. Without tooling to pay for, a single printed vessel stays affordable.",
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "4000 series",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "5000 series",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D has launched the M1 Robotic 3D metal printing system following a funding round, which looks to propel the Dutch robotic welding experts into the realm of commercial products.",
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "The designer or studio retains full intellectual property ownership of any WAAM-printed design. To ensure complete confidentiality and security for limited editions, all production files and CAD data are completely deletable upon request.",
+    "url": "https://mx3d.com/industries/art-design/",
+    "pass": 1
+   },
+   {
+    "quote": "MX3D is backed by PDENH, EDF, ING, and RVO",
+    "url": "https://mx3d.com/about/invest/",
+    "pass": 1
+   },
+   {
+    "quote": "Access one of the broadest ranges of weldable metal alloys – all qualified, and backed by our team of additive manufacturing experts.",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce lead times and total cost of ownership with a turnkey WAAM solution – up to 5x more cost effective than competing technologies.",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Other stakeholders in the project include software engineers Autodesk, FORCE Technology, Lenovo, HBM and The Amsterdam Institute for Advanced Metropolitan Solutions, while the build of the bridge has been supported by the Lloyd’s Register Foundation.",
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, they could analyse anonymized crowd behaviour to better understand the impact of tourism in Amsterdam's Red Light District. The project also addresses questions about open data, data ethics, and citizen ownership of city analytics. The",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": ". This endeavor involves fostering partnerships and driving business opportunities alongside technology centers, machine tool companies, robotic integrators, academia, and industry stakeholders.",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   }
+  ],
+  "日本との接点": [
+   {
+    "quote": "Become a WAAM Reseller: Distributor Program - MX3D",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Official MX3D Reseller",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "High-impact industries can no longer wait for months or years for traditional casting or forging. MX3D provides robotic metal 3D printing systems to solve these supply chain bottlenecks. We are expanding our global network and seeking high-tier industrial distributors to scale WAAM technology across high-impact sectors locally.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Trusted Resellers",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a network of resellers to supply our systems worldwide. We value local distributors to improve connection and servicing with customers locally. Whether it’s about AM knowledge/skills, technical support, geographical proximity and/or the ability to talk in native language, we appreciate the added value from our trusted resellers.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Become a Reseller?",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We upskill our resellers on advanced WAAM, both technically and commercially to have high-impact sales conversations",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We prefer working with resellers who already distribute complementary metal additive manufacturing technologies (such as LPBF and Laser DED) or large-format robotic AM solutions",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you interested in becoming an official MX3D system reseller? Reach out to us, and we will be in touch.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "The Linares-based multinational relies on its US distributor, Phillips Corporation, to close the first of many historic contracts that allows the Bataan ship and others in Navy to manufacture parts and repair tools",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "From AI Agents to Robot Action: Building the Edge Architecture for Physical AI",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "Edge computing gives AI agents the processing power to turn instructions into…",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、Solukonの韓国・日本・シンガポール、MX3Dの韓国・日本、Meltioの韓国、Adaxisの韓国・日本における正規代理店を務めています",
+    "url": "https://hdc3d.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス・レジリエンスTOKYO2026",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "第10回 JAPAN BUILD TOKYO−建築・土木・不動産の先端技術展−",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Drone 2023",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス・レジリエンスOSAKA 2020",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本 ものづくりワールド 2020",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス・レジリエンスTOKYO 2019",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Drone 2023：RCの鉄筋とコンクリートのように“樹脂に繊維を流し込む”3Dプリンタ アルミに匹敵する強度でUAVパーツ製作",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンターは、航空宇宙エンジニアのグレッグ・マーク氏が設立したMarkforgedの3Dプリンタ「Mark Two」で、ドローンのパーツ製作を内製化することを提案している",
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D enters sales partnership with Multitrade 3D Systems",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Multitrade 3D Systems, a distributor of metal AM solution",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": ", have entered an official sales partnership. This collaboration strengthens Multitrade’s metal AM portfolio and provides MX3D with a robust local market presence.",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC launches Quote Agent",
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   }
+  ],
+  "販売の仕組み": [
+   {
+    "quote": "Become a WAAM Reseller: Distributor Program - MX3D",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive Lead Generation",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Official MX3D Reseller",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "High-impact industries can no longer wait for months or years for traditional casting or forging. MX3D provides robotic metal 3D printing systems to solve these supply chain bottlenecks. We are expanding our global network and seeking high-tier industrial distributors to scale WAAM technology across high-impact sectors locally.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Trusted Resellers",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a network of resellers to supply our systems worldwide. We value local distributors to improve connection and servicing with customers locally. Whether it’s about AM knowledge/skills, technical support, geographical proximity and/or the ability to talk in native language, we appreciate the added value from our trusted resellers.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Become a Reseller?",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We upskill our resellers on advanced WAAM, both technically and commercially to have high-impact sales conversations",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "We prefer working with resellers who already distribute complementary metal additive manufacturing technologies (such as LPBF and Laser DED) or large-format robotic AM solutions",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you interested in becoming an official MX3D system reseller? Reach out to us, and we will be in touch.",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Step into the future of industrial production by visiting our exclusive",
+    "url": "https://mx3d.com/case/pressure-vessel/",
+    "pass": 1
+   },
+   {
+    "quote": "The Linares-based multinational relies on its US distributor, Phillips Corporation, to close the first of many historic contracts that allows the Bataan ship and others in Navy to manufacture parts and repair tools",
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "pass": 3
+   },
+   {
+    "quote": "From AI Agents to Robot Action: Building the Edge Architecture for Physical AI",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "Edge computing gives AI agents the processing power to turn instructions into…",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、Solukonの韓国・日本・シンガポール、MX3Dの韓国・日本、Meltioの韓国、Adaxisの韓国・日本における正規代理店を務めています",
+    "url": "https://hdc3d.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D enters sales partnership with Multitrade 3D Systems",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents: a clean Markdown version of this page is available at",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Multitrade 3D Systems, a distributor of metal AM solution",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": ", have entered an official sales partnership. This collaboration strengthens Multitrade’s metal AM portfolio and provides MX3D with a robust local market presence.",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC launches Quote Agent",
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "WAAM Supplier: On-Demand Parts & Full Systems | MX3D — WAAM Supplier: On-Demand Parts & Full Systems | MX3D MX3D https://mx3d.com > waam-supplier-wi...",
+    "url": "https://mx3d.com/waam-supplier-wire-arc-additive-manufacturing-parts-and-systems-from-mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Industrial-Scale Metal 3D Printing - Phillips Corporation — MX3D Industrial-Scale Metal 3D Printing - Phillips Corporation Phillips Corporation https://www.phillipscorp.com > mx3d",
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "At MX3D , we follow high-quality standards for WAAM, making ... — At MX3D , we follow high-quality standards for WAAM, making ... LinkedIn https://www.linkedin.com > posts > mx3d_at-mx3d-we-fo...",
+    "url": "https://www.linkedin.com/posts/mx3d_at-mx3d-we-follow-high-quality-standards-activity-7457368600996163584-RZAP",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge - Joris Laarman — MX3D Bridge - Joris Laarman Joris Laarman https://www.jorislaarman.com > work",
+    "url": "https://www.jorislaarman.com/work/mx3d-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": "What innovations has MX3D introduced in additive ... — What innovations has MX3D introduced in additive ... MX3D https://mx3d.com > what-innovations...",
+    "url": "https://mx3d.com/what-innovations-has-mx3d-introduced-in-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge — MX3D Bridge MX3D https://mx3d.com > case > mx3d-bridge",
+    "url": "https://mx3d.com/case/mx3d-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge Revolutionizes 3D Printing in Engineering — MX3D Bridge Revolutionizes 3D Printing in Engineering LinkedIn https://www.linkedin.com > posts > g...",
+    "url": "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge removed after permit expires and will be relocated — MX3D Bridge removed after permit expires and will be relocated Parametric Architecture https://parametric-architecture.com > ...",
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Partners with Phillips Corporation to Expand WAAM ... — MX3D Partners with Phillips Corporation to Expand WAAM ... MX3D https://mx3d.com > mx3d-partners-wi...",
+    "url": "https://mx3d.com/mx3d-partners-with-phillips-corporation-to-expand-waam-access-across-the-united-states/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D | LinkedIn — MX3D | LinkedIn LinkedIn https://www.linkedin.com > mx3d",
+    "url": "https://www.linkedin.com/company/mx3d/?originalSubdomain=nl",
+    "pass": 3
+   },
+   {
+    "quote": "Pilot Case 7 - MX3D (The Netherlands) - Tracks4Crafts — Pilot Case 7 - MX3D (The Netherlands) - Tracks4Crafts Tracks 4 Crafts https://tracks4crafts.eu > pilot-case-7-...",
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge - Karamba3D — MX3D Bridge - Karamba3D Karamba3D https://karamba3d.com > mx3d-bridge",
+    "url": "https://karamba3d.com/projects/mx3d-bridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Large Scale Metal 3D Printing | WAAM for Big Industrial Parts — Large Scale Metal 3D Printing | WAAM for Big Industrial Parts MX3D https://mx3d.com > ...",
+    "url": "https://mx3d.com/large-scale-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Steel Bridge 3D -Printed by MX3D Officially Opens in Amsterdam — Steel Bridge 3D -Printed by MX3D Officially Opens in Amsterdam Robotics 24/7 https://www.robotics247.com > article",
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D Printing | Large-Scale Metal Parts | MX3D — Industrial 3D Printing | Large-Scale Metal Parts | MX3D MX3D https://mx3d.com > ...",
+    "url": "https://mx3d.com/industrial-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "How Is MX3D Enabling Defense and Aerospace Sectors to ... — How Is MX3D Enabling Defense and Aerospace Sectors to ... MX3D https://mx3d.com > localized-product...",
+    "url": "https://mx3d.com/localized-production-defense-aerospace-mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D and Altair redesign and 3D print optimized robotic arm — MX3D and Altair redesign and 3D print optimized robotic arm VoxelMatters https://www.voxelmatters.com > mx3...",
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Research & Development - MX3D — Research & Development - MX3D MX3D https://mx3d.com > Technology",
+    "url": "https://mx3d.com/technology/research-development/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Advances Large-Scale Additive Manufacturing for ... — MX3D Advances Large-Scale Additive Manufacturing for ... LinkedIn https://www.linkedin.com > posts > a...",
+    "url": "https://www.linkedin.com/posts/amt3d-advanced-manufacturing-technologies_amt3d-mx3d-waam-activity-7517887309627863040-Iyfm",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Use Case – Metal WAAM Applications and Robotic 3D ... — MX3D Use Case – Metal WAAM Applications and Robotic 3D ... hdc3d.com https://hdc3d.com > usecase-mx3d",
+    "url": "https://hdc3d.com/usecase-mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Metal 3D Printing Japan : WAAM for Industrial ... - MX3D — Robotic Metal 3D Printing Japan : WAAM for Industrial ... - MX3D MX3D https://mx3d.com > geo > robotic-met...",
+    "url": "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "オランダの金属 3D プリンターメーカー MX3D が地中を泳ぐ ... — オランダの金属 3D プリンターメーカー MX3D が地中を泳ぐ ... ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例",
+    "url": "https://news.sharelab.jp/cases/other-fields/mx3d-whalepass-221017/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D : Robotic WAAM Metal 3D Printing Systems — MX3D : Robotic WAAM Metal 3D Printing Systems MX3D https://mx3d.com",
+    "url": "https://mx3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D - LinkedIn — MX3D - LinkedIn LinkedIn https://jp.linkedin.com > company > mx3d",
+    "url": "https://jp.linkedin.com/company/mx3d?trk=public_profile_experience-item_profile-section-card_image-click",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Secures €7 Million to Accelerate Global Growth in ... — MX3D Secures €7 Million to Accelerate Global Growth in ... MX3D https://mx3d.com > mx3d-secures-e7-...",
+    "url": "https://mx3d.com/mx3d-secures-e7-million-to-accelerate-global-growth-in-robotic-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Doubles Revenue as Demand for Large-Scale WAAM ... — MX3D Doubles Revenue as Demand for Large-Scale WAAM ... Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D raises €2.25M, prepares for launch of M1 robotic metal ... — MX3D raises €2.25M, prepares for launch of M1 robotic metal ... VoxelMatters https://www.voxelmatters.com > mx3...",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D 2026 Company Profile: Valuation, Funding & Investors — MX3D 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/121562-47",
+    "pass": 3
+   },
+   {
+    "quote": "Become a WAAM Reseller : Distributor Program - MX3D — Become a WAAM Reseller : Distributor Program - MX3D MX3D https://mx3d.com > become-a-reseller",
+    "url": "https://mx3d.com/become-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D x Phillips Corporation M1 System Purchase - YouTube — MX3D x Phillips Corporation M1 System Purchase - YouTube YouTube https://www.youtube.com > shorts",
+    "url": "https://www.youtube.com/shorts/VZTc03m7V9Y",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips and MX3D partner for metal 3D printing in US - LinkedIn — Phillips and MX3D partner for metal 3D printing in US - LinkedIn LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "pass": 3
+   },
+   {
+    "quote": "News - MX3D — News - MX3D MX3D https://mx3d.com > About",
+    "url": "https://mx3d.com/about/news/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D — WAAM（ワイヤーアーク積層造形）ロボティクス ... — MX3D — WAAM（ワイヤーアーク積層造形）ロボティクス ... hdc3d.com https://hdc3d.com > mx3d",
+    "url": "https://hdc3d.com/ja/mx3d/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D raise €2.25m to launch M1 Metal AM System - develop3d — MX3D raise €2.25m to launch M1 Metal AM System - develop3d develop3d https://develop3d.com > mx3d-raise-e...",
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "pass": 3
+   }
+  ],
+  "規模・受注残": [
+   {
+    "quote": "MX3D Doubles Revenue as Demand for Large-Scale WAAM Systems Grows « Fabbaloo",
+    "url": "https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows",
+    "pass": 3
+   },
+   {
+    "quote": "We were told they’ve doubled their revenue in the past year, showing very significant growth. I asked where the demand was coming from, and was told that it’s mainly from the energy industry, specifically nuclear, oil and gas applications.",
+    "url": "https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "We're LIVE on Kickstarter! Introducing **InfiMech MX 3D ... We're LIVE on Kickstarter! Introducing **InfiMech MX 3D ... X https://x.com > @InfiMech",
+    "url": "https://x.com/InfiMech/status/2051961543894737292",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MX3D - LinkedIn MX3D - LinkedIn LinkedIn https://nl.linkedin.com > mx3d",
+    "url": "https://nl.linkedin.com/company/mx3d",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips and MX3D partner for metal 3D printing in US - LinkedIn Phillips and MX3D partner for metal 3D printing in US - LinkedIn LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge Revolutionizes 3D Printing in Engineering MX3D Bridge Revolutionizes 3D Printing in Engineering LinkedIn https://www.linkedin.com > posts > g...",
+    "url": "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Van Glabeke - Chief Product Officer at MX3D - LinkedIn Thomas Van Glabeke - Chief Product Officer at MX3D - LinkedIn LinkedIn https://nl.linkedin.com > thomasvangl...",
+    "url": "https://nl.linkedin.com/in/thomasvanglabeke/nl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MX3D | Amsterdam - Facebook MX3D | Amsterdam - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/mx3d.metal.printing/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D Bridge Amsterdam: 6-Month 3D-Printed Steel Bridge ... MX3D Bridge Amsterdam: 6-Month 3D-Printed Steel Bridge ... Facebook https://www.facebook.com > ... > Unbox Factory > Videos",
+    "url": "https://www.facebook.com/unboxfactory/videos/the-mx3d-bridge-6-months-printed-in-mid-air-walked-by-thousands-in-amsterdam-a-f/1039004838660075/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the MX3D M1: Industrial-Grade WAAM in Action Our M1 ... Meet the MX3D M1: Industrial-Grade WAAM in Action Our M1 ... Facebook https://www.facebook.com > ... > MX3D > Videos",
+    "url": "https://www.facebook.com/mx3d.metal.printing/videos/meet-the-mx3d-m1-industrial-grade-waam-in-actionour-m1-system-brings-wire-arc-ad/1528929711685031/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mx3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/mx3d-becomes-the-worlds-first-dnv-amc3-certified-waam-facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/waam-solutions-for-aerospace-mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/maritime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/architecture-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/industries/art-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/our-team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/about/invest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/waam-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/mx3d-waam-systems-now-operational-as-framatome-inaugurates-25-million-nuclear-additive-manufacturing-center-in-france/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/case/stainless-steel-pressure-vessel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/metal-3d-printing-on-demand-waam-parts-mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/case/pressure-vessel/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2025/09/MX3D-logo-1.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2025/09/dnv-cerficiate-180x180-1.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2025/09/MX3D-logo-groen.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2026/06/FFI_logo-1.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2026/06/ERDC_logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mx3d.com/wp-content/uploads/2026/06/NATO_logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.phillipscorp.com/mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mx3d_at-mx3d-we-follow-high-quality-standards-activity-7457368600996163584-RZAP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jorislaarman.com/work/mx3d-bridge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/interestingasfuck/comments/ph262p/mx3d_bridge_in_amsterdam_the_worlds_first/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214509522006738",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecase-meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mx3d/?originalSubdomain=nl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://karamba3d.com/projects/mx3d-bridge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d2go.com.ph/3d-printed-bridge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amt3d-advanced-manufacturing-technologies_amt3d-mx3d-waam-activity-7517887309627863040-Iyfm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hdc3d.com/usecase-mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=td5v6X7aDKg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hdc3d.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/mx3d-whalepass-221017/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/mx3d?trk=public_profile_experience-item_profile-section-card_image-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aml3d.com/wp-content/uploads/2024/08/AML3D-AL3-FY24-Annual-Report_fR1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/121562-47",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/VZTc03m7V9Y",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimoda-flg.co.jp/2022/03/%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%99%E3%80%82/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jgc.com/jp/news/2023/20231116.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/tag/mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/InfiMech/status/2051961543894737292",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/mx3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/thomasvanglabeke/nl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mx3d.metal.printing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unboxfactory/videos/the-mx3d-bridge-6-months-printed-in-mid-air-walked-by-thousands-in-amsterdam-a-f/1039004838660075/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mx3d.metal.printing/videos/meet-the-mx3d-m1-industrial-grade-waam-in-actionour-m1-system-brings-wire-arc-ad/1528929711685031/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/thomasvanglabeke/nl",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MX3D customer OR order OR \"received an order\"",
+   "results": [
+    "https://mx3d.com/waam-supplier-wire-arc-additive-manufacturing-parts-and-systems-from-mx3d/",
+    "https://www.phillipscorp.com/mx3d/",
+    "https://www.linkedin.com/posts/mx3d_at-mx3d-we-follow-high-quality-standards-activity-7457368600996163584-RZAP",
+    "https://www.jorislaarman.com/work/mx3d-bridge/",
+    "https://mx3d.com/what-innovations-has-mx3d-introduced-in-additive-manufacturing/",
+    "https://www.reddit.com/r/interestingasfuck/comments/ph262p/mx3d_bridge_in_amsterdam_the_worlds_first/",
+    "https://hdc3d.com/mx3d/",
+    "https://archello.com/project/mx3d-bridge",
+    "https://high.org/collection/mx3d-dragon-bench-prototype/",
+    "https://www.customerstatus.com/SearchUpdate.aspx"
+   ]
+  },
+  {
+   "query": "MX3D case study OR \"success story\"",
+   "results": [
+    "https://mx3d.com/case/mx3d-bridge/",
+    "https://www.sciencedirect.com/science/article/pii/S2214509522006738",
+    "https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam",
+    "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG",
+    "https://hdc3d.com/usecase-meltio/",
+    "https://research.utwente.nl/files/284814596/proc_23_ABS_329_1615828926.pdf",
+    "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1168&context=cmsp",
+    "https://inhabitat.com/the-worlds-first-3d-printed-steel-bridge-looks-like-it-came-from-another-planet/",
+    "https://www.autodesk.com/customer-stories/case-studies"
+   ]
+  },
+  {
+   "query": "MX3D partnership OR collaboration OR \"joint development\"",
+   "results": [
+    "https://mx3d.com/mx3d-partners-with-phillips-corporation-to-expand-waam-access-across-the-united-states/",
+    "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "https://www.linkedin.com/company/mx3d/?originalSubdomain=nl",
+    "https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands",
+    "https://karamba3d.com/projects/mx3d-bridge/",
+    "https://hdc3d.com/portfolio-item/mx3d-to-supply-robotic-wire-arc-additive-manufacturing-systems-for-framatomes-new-nuclear-3d-printing-facility/",
+    "https://mx3d.com/technology/research-development/",
+    "https://archello.com/project/mx3d-bridge",
+    "https://www.youtube.com/shorts/VZTc03m7V9Y",
+    "https://www.merck.com/news/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/"
+   ]
+  },
+  {
+   "query": "MX3D defense OR navy OR \"Department of Defense\" contract",
+   "results": [
+    "https://mx3d.com/large-scale-metal-3d-printing/",
+    "https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/",
+    "https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components",
+    "https://3d2go.com.ph/3d-printed-bridge/",
+    "https://mx3d.com/industrial-3d-printing/",
+    "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+    "https://3dprintingindustry.com/news/additive-manufacturing-advantage-aerospace-space-and-defense-2026-speakers-announced-252218/",
+    "https://www.linkedin.com/in/phil-burton-545b2114",
+    "https://dodsoco.ogc.osd.mil/Portals/102/Documents/Conflicts/2024%2025K%20FY2023.pdf",
+    "https://www.war.gov/News/Contracts/"
+   ]
+  },
+  {
+   "query": "MX3D fusion OR medical OR aerospace customer",
+   "results": [
+    "https://mx3d.com/localized-production-defense-aerospace-mx3d/",
+    "https://www.voxelmatters.com/mx3d-altair-redesign-3d-print-optimized-robotic-arm/",
+    "https://mx3d.com/technology/research-development/",
+    "https://www.linkedin.com/posts/amt3d-advanced-manufacturing-technologies_amt3d-mx3d-waam-activity-7517887309627863040-Iyfm",
+    "https://hdc3d.com/usecase-mx3d/",
+    "https://www.youtube.com/watch?v=td5v6X7aDKg",
+    "https://www.vexmatech.com/3d-printing-in-healthcare",
+    "https://event.asme.org/AM-Medical/Attend/Who-Should-Attend",
+    "https://www.3dwasp.com/en/3d-printing-in-medicine/",
+    "https://www.tegramedical.com/"
+   ]
+  },
+  {
+   "query": "MX3D Japan OR Japanese OR 日本 代理店",
+   "results": [
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://hdc3d.com/ja/",
+    "https://news.sharelab.jp/cases/other-fields/mx3d-whalepass-221017/",
+    "https://mx3d.com/",
+    "https://jp.linkedin.com/company/mx3d?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://built.itmedia.co.jp/bt/articles/2312/07/news163.html",
+    "https://shimoda-flg.co.jp/en/2022/03/the-3d-metal-printer-will-be-installed-in-our-plant-in-this-summer/",
+    "https://mag.tecture.jp/culture/20220422-mx3d-bridge/",
+    "https://3dprinter.co.jp/",
+    "https://en.wikipedia.org/wiki/Japanese_honorifics"
+   ]
+  },
+  {
+   "query": "MX3D annual report customers order backlog",
+   "results": [
+    "https://mx3d.com/mx3d-secures-e7-million-to-accelerate-global-growth-in-robotic-metal-3d-printing/",
+    "https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows",
+    "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "https://aml3d.com/wp-content/uploads/2024/08/AML3D-AL3-FY24-Annual-Report_fR1.pdf",
+    "https://pitchbook.com/profiles/company/121562-47",
+    "https://s23.q4cdn.com/369160497/files/doc_financials/2024/q4/DDD-10K-Q4-2024.pdf",
+    "https://www.protolabs.com/resources/guides-and-trend-reports/3d-printing-trend-report/",
+    "https://market.us/report/3d-printing-market/",
+    "https://www.annualreports.com/Company/aml3d-limited",
+    "https://mx3d.com/who-are-mx3ds-main-clients-and-industries-served/"
+   ]
+  },
+  {
+   "query": "MX3D distributor OR reseller OR \"sales partner\"",
+   "results": [
+    "https://mx3d.com/mx3d-partners-with-phillips-corporation-to-expand-waam-access-across-the-united-states/",
+    "https://mx3d.com/become-a-reseller/",
+    "https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/",
+    "https://www.youtube.com/shorts/VZTc03m7V9Y",
+    "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "https://hdc3d.com/",
+    "https://www.instagram.com/p/DSacjsLjhLm/",
+    "https://hdc3d.com/portfolio-item/mx3d-passes-fieldnode-audit-based-on-api20s/",
+    "https://www.autodesk.com/support/partners"
+   ]
+  },
+  {
+   "query": "MX3D 導入 OR 納入 OR 受注",
+   "results": [
+    "https://shimoda-flg.co.jp/2022/03/%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%99%E3%80%82/",
+    "https://mx3d.com/about/news/",
+    "https://hdc3d.com/ja/mx3d/",
+    "https://www.jgc.com/jp/news/2023/20231116.html",
+    "https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/",
+    "https://news.sharelab.jp/tag/mx3d/",
+    "https://mx3d.com/mx3d-secures-e7-million-to-accelerate-global-growth-in-robotic-metal-3d-printing/",
+    "https://mag.tecture.jp/culture/20220422-mx3d-bridge/",
+    "https://www.gyoumuitakukeiyakusho.com/definition-of-delivery-delivery-method-delivery-place/",
+    "https://www.linkedin.com/posts/mx3d_金属3dプリンタの本格的導入に向けた適用検証で成果-2023年ニュースリリース-activity-7132636833628213248-GtTy"
+   ]
+  },
+  {
+   "query": "site:note.com MX3D",
+   "results": [
+    "https://note.com/vardamansnotes/n/n07d8435d0fae?hl=en",
+    "https://note.com/xence/n/n73ffee428ab1",
+    "https://note.com/azusesam/n/n2e42488066a3",
+    "https://note.com/nd3m_archive/n/nf266dd421bd7",
+    "https://note.com/tokyomakers/n/na246304d6b96",
+    "https://note.com/sabatice/n/n19f6cfd3ab14",
+    "https://note.com/yawatajunk/n/nb2f253bac3d8?hl=en",
+    "https://note.com/noted_jacana411/n/ne9edc35539e7?hl=en",
+    "https://note.com/bit0tabi/n/n7a5503cf9d9c"
+   ]
+  },
+  {
+   "query": "site:x.com MX3D",
+   "results": [
+    "https://x.com/InfiMech/status/2051961543894737292",
+    "https://x.com/fuexname/status/1838947597748207644",
+    "https://x.com/InfiMech",
+    "https://x.com/OzawaKotaro/status/1492662429175918594?lang=cs",
+    "https://x.com/LR_Foundation",
+    "https://x.com/hashtag/chihuahua",
+    "https://x.com/profmgilbert",
+    "https://x.com/ClinicObaid",
+    "https://x.com/IMAX_JAPAN/status/2079491574338130153",
+    "https://x.com/MX3D_AM"
+   ]
+  },
+  {
+   "query": "site:linkedin.com MX3D",
+   "results": [
+    "https://nl.linkedin.com/company/mx3d",
+    "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-",
+    "https://nl.linkedin.com/in/thomasvanglabeke/nl",
+    "https://www.linkedin.com/posts/mx3d_mx3d-waam-dnv-activity-7511001500597256192-HZox",
+    "https://nl.linkedin.com/in/gijs-van-der-velden-2b795112",
+    "https://www.linkedin.com/posts/mx3d_waam-metalam-metal3dprinting-activity-7241777920468250624-Cf5D",
+    "https://www.linkedin.com/posts/mx3d_mx3d-waam-amoilgas-activity-7508827833339875329-Ui1T",
+    "https://www.linkedin.com/company/mx3d",
+    "https://nl.linkedin.com/in/jellevankleef"
+   ]
+  },
+  {
+   "query": "site:facebook.com MX3D",
+   "results": [
+    "https://www.facebook.com/mx3d.metal.printing/",
+    "https://www.facebook.com/unboxfactory/videos/the-mx3d-bridge-6-months-printed-in-mid-air-walked-by-thousands-in-amsterdam-a-f/1039004838660075/",
+    "https://www.facebook.com/engineeringpost1/posts/printed-in-mid-air-by-welding-robots-using-45-tons-of-molten-stainless-steel-spa/1788047903321488/",
+    "https://www.facebook.com/mx3d.metal.printing/videos/meet-the-mx3d-m1-industrial-grade-waam-in-actionour-m1-system-brings-wire-arc-ad/1528929711685031/",
+    "https://www.facebook.com/PhillipsCorporation/posts/formnext-2026-is-almost-here-and-mx3d-is-heading-to-frankfurtfrom-november-1720-/1761808585954498/",
+    "https://www.facebook.com/groups/sciencesquadgroup/posts/1550366832252188/",
+    "https://www.facebook.com/nowthis/posts/dutch-company-mx3d-has-debuted-the-worlds-first-ever-3d-printed-steel-bridge-in-/4877893602300725/",
+    "https://www.facebook.com/mx3d.metal.printing/posts/ready-to-see-the-future-of-heavy-metal-manufacturing-in-action-the-countdown-to/1443664254446410/",
+    "https://www.facebook.com/dezeen/posts/12-metre-3d-printed-stainless-steel-bridge-by-joris-laarman-and-mx3d-finally-ope/10159307427188674/",
+    "https://www.facebook.com/mx3d.metal.printing/photos/at-mx3d-our-robotic-3d-metal-printing-systems-are-designed-to-fully-transform-yo/1373608298118673/"
+   ]
+  },
+  {
+   "query": "MX3D note 社長",
+   "results": [
+    "https://mx3d.com/about/invest/",
+    "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "https://nl.linkedin.com/in/thomasvanglabeke/nl",
+    "https://mx3d.com/mx3d-secures-e7-million-to-accelerate-global-growth-in-robotic-metal-3d-printing/",
+    "https://note.com/miyasakago",
+    "https://3dprintingindustry.com/news/mx3d-raises-e7m-to-expand-metal-3d-printing-globally-239581/",
+    "https://stainless-steel-world.net/mx3d-how-waam-can-propel-the-stainless-steel-future/",
+    "https://note.com/bestat",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "MX3D X 投稿",
+   "results": [
+    "https://www.youtube.com/channel/UCxyC9Aae05wP5U5_U0avzAg",
+    "https://mx3d.com/",
+    "https://www.designboom.com/architecture/mx3d-takenaka-3d-print-structural-steel-connector-12-12-2019/",
+    "https://www.youtube.com/shorts/VZTc03m7V9Y",
+    "https://3dprint.com/283122/mx3d-installs-metal-3d-printed-bridge-in-amsterdam/",
+    "https://www.instagram.com/p/DSacjsLjhLm/",
+    "https://www.arup.com/projects/mx3d-bridge/",
+    "https://www.researchgate.net/figure/The-MX3D-Bridge-Photos-of-the-MX3D-Bridge-showing-the-key-structural-elements-of-deck_fig1_364229446",
+    "https://x.com/MX3D_AM",
+    "https://x.com/MX3D_Bridge"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）",
+  "代表者": "記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）"
+ }
+}

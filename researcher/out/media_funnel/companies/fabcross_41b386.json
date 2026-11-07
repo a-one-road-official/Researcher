@@ -1,0 +1,2364 @@
+{
+ "name": "fabcross",
+ "aliases": [
+  "fabcross",
+  "ファブクロス",
+  "メイテック"
+ ],
+ "context": "製造業メディア（親会社が技術者派遣）",
+ "researched_at": "2026-11-07T02:59:29.948572+00:00",
+ "official_url": "https://www.meitec.co.jp/",
+ "identified_by": "search:yahoo_jp:fabcross",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1974年7月17日",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2023年4月3日 ※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は こちら )",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1974年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　関口 晃介",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "代表電話",
+    "value": "Tel 050-3000-5820（代）（受付時間：平日9:00〜18:00） 営業のお電話はお取次ぎできませんので、以下フォームよりお願いいたします 【採用・その他全般】お問い合わせフォーム",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "関口晃介",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京本社／〒110-0005　東京都台東区上野1丁目1-10 オリックス上野1丁目ビル MAP → 「当社サービス」に関するお問い合わせは、以下のフォームよりお問い合わせください 【サービス】お問い合わせフォーム",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都台東区上野1丁目1-10 \nオリックス上野1丁目ビル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "956億82百万円（2026年3月期） グループ連結：1,376億86百万円（2026年3月期）",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "8,202名（2026年3月31日現在） グループ連結：13,190名（2026年3月31日現在）",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "【ご注意ください】あたかも当社が在宅業務参加者を募っているかのような不審な紹介について",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロのエンジニアとして働くメイテックの社員をご紹介します",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロのエンジニアとして働きながら現役エンジニアとして60歳以上でも第一線で活躍する、メイテックの生涯プロエンジニアをご紹介します",
+    "url": "https://www.meitec.co.jp/advantage/interview/procareer.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術分野ごとの仕事内容と設計開発の事例をご紹介します",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(1) 求職者とのやりとりにおいて、社員個人の私用端末や私的なSNSを通じた連絡は禁止とする",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックがエンジニアリングソリューション事業を推進するうえで、常に遵守している「労働者派遣法」について、ご紹介いたします",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは「エンジニアリングソリューション事業」と「エンジニア紹介事業」の2つの領域で事業を行ってまいります",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3000-5820 FAX: 03-6778-5070",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-7398 FAX: 022-711-5823",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9225 FAX: 028-341-7021",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9221 FAX: 027-327-6375",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：050-3101-5409 FAX ：04-8545-2262",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-7394 FAX: 048-647-7520",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-6227 FAX: 029-227-6384",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：050-3131-9223 FAX：029-856-7822",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4095 FAX: 043-380-9397",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4080 FAX:03-3862-0792",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4076 FAX:03-6858-2831",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4075 FAX:03-6858-0050",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4077 FAX:03-5822-6653",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4862 FAX:03-5822-6653",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8553 FAX: 042-529-7878",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8555 FAX: 042-510-0065",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9229 FAX: 045-323-3470",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9503 FAX: 045-276-6575",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-5405 FAX: 044-380-7289",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4089 FAX: 046-401-1790",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9574 FAX: 046-401-1791",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8551 FAX: 0466-26-3810",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-6226 FAX: 055-981-1704",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8549 FAX: 054-283-6535",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4866 FAX: 053-455-2466",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お気に入りの記事をアーカイブ系サービスに保管したという投稿をXやFacebookでいくつか見ました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "「誰が書いたか覚えていないけど…」という場合は、私宛に連絡を頂ければご紹介します（だいたい誰が書いたかはわかります）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "今回のサイト終了にあたって「電子工作メディア」として紹介されるケースが多々ありました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "当初は某有名企業が提案した「電子工作SNS（開発はすべて外注）」という企画だったのですが、「そんなの絶対続くわけ無いじゃん」と危機感を抱いた結果、力技でWebメディアに方向転換",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "そこで関係者が公私にわたるツテを最大限に活用し、編集者やライターを紹介してもらうとともに、メディア運営のサイクルやギャラの相場、取材における作法などを手当たり次第に吸収しました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "文字通り靴底をすり減らし、あらゆるイベントに足を運んでは名刺を配って、自己紹介する日々が続きました（退職するまで）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "また、メイカースペース（ファブ施設）を紹介する企画では、全国各地の施設を調査・取材し、その情報をまとめた記事を掲載しました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス数が現在の水準に近づくにつれ、記事広告の依頼が直接または紹介経由で舞い込むようになります",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "左から現在はJAXAベンチャー天地人CEOの櫻庭さん（当時はライター）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "JAXAベンチャーのCEOとして大活躍中の人",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "最近ではメディアの記事がSNSで共有されなくなり、Webメディアの中心はテキストから動画へ移行し、ライターを志す人は減る一方だと同業者から聞きます",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの人材派遣を手がけるメイテックが「新しいものづくりがわかるメディア」として立ち上げ、デジタルファブリケーションやIoT、ロボティクスからスタートアップまで、個人が主役となる新しい時代のテクノロジーを紹介してきました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "Webメディア冬の時代も乗り越えてきましたが、2025年3月末に突如閉鎖となり、突然の出来事にSNSでは別れを惜しむ声が溢れました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "ライターも周りにいなかったので、いろんな人に紹介してもらいました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子工作用のマイコンボードも最初はArduinoくらいしかなかったけど、2018年ごろからRaspberryPiが登場して、業務レベルで使えるようになってきたせいか、流入もすごく増えましたね",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "今は岩谷技研というスタートアップをやっている岩谷さんとご縁ができて、動画もニコニコ動画やYouTubeにアップしたら、あらゆる方面でバズって",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossで新人ライターが増えてきたときに、みんなで企画を出したり、相談しあったりできる場があればとFacebookでグループを作ったんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップやYouTuberとのネットワークも、全然作りきれなかったし",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "閉鎖発表のとき、SNSでたくさんの声が集まりましたよね",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "SNSやブログ、動画の発信先は増えたけど、やっぱり「ちゃんと見てもらう」のってすごく難しい",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "展示会で未来を変える技術に初めて触れたときの驚き",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "編集部でチェックし、掲載に値すると判断した内容は記事として紹介します",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "よろしければ、SNSアカウント（X、Facebook）のフォローもよろしくお願いします！",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "@FabSceneJp(X/Twitter)",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.facebook.com/fabscenejp",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "fabsceneの更新情報はXで配信中です",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "スマホと約790円のレンズで動き回れるVRを作るアプリ「CardboardXR」",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "【ご注意ください】あたかも当社が在宅業務参加者を募っているかのような不審な紹介について",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用活動において一切のハラスメント行為を許容しておらず、応募者、インターンシップ参加者、内定者を含むすべての求職者の皆さまが安心して求職活動に臨める環境づくりに努め、公正かつ誠実な採用活動を実施します",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信した記事数は約13,000件にも及びます",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "ローンチから半年が経ちサイトのPVは少しずつ伸びてきたのですが、いかんせん企画当初の目標には到達していません",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "北海道での打ち上げや機体製作費、ロケ費用など、通常の記事数本分に相当する予算を投じる一大プロジェクトだったため、「これが滑ったらもう後がない」という思いで北海道に飛び、記事を書きました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には兄弟サイトの「fabcross for エンジニア」と合算で100万PV/月まで成長しました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "「このままじゃヤバい、何か結果につながることをやらなきゃ！」という焦りもあって、当時の記事数本分くらいの予算をかけて北海道まで取材に行ったんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "12年間に渡ってサイト運営に従事し、月間100万PV規模に成長させる",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたビジュアル的にもインパクトのあるものづくりや工作企画が人気を集め、fabcrossは「あの記事が載っているメディアね！」と認知されるようになり、読者数が大きく広がりました",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "月間10万PVを超えましたーー2025年8月の人気記事まとめ",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Six months after the launch, the site's PV had gradually increased, but it had not reached the goals set at the beginning of the project.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks to the buzz, once our monthly PV exceeded 100,000, we gained recognition within the industry, and requests for interviews and introductions of pre-release products began to increase. I finally felt that we had become a \"media-like\" presence. In the end, we grew to 1 million PV/month combined with our sister site, \"fabcross for Engineers.\"",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "メイテックグループ 2027年3月期 第2四半期決算短信〔日本基準〕（連結）を掲載しました",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループ 2027年3月期 第2四半期決算説明資料を掲載しました",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループ 2027年3月期9月度の稼働率を公開しました",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特別損失の計上並びに2027年3月期第2四半期（累計）業績予想の修正に関するお知らせを掲載しました",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要なお知らせ】当社グループ会社の代表者名を騙った不審なメールについて",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "持株会社体制への移行により「株式会社メイテック」から「 株式会社メイテックグループホールディングス」へ商号変更",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年 新卒入社（グループ会社）",
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「メイテックグループ人権方針」に基づき、すべての求職者の皆さまの人格と人権を尊重し、公正で安心して参加いただける採用活動の実現に取り組んでいます",
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ連結：1,376億86百万円（2026年3月期）",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ連結：13,190名（2026年3月31日現在）",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員一人一人、そしてグループで技術の核心（The Core）を切り開いていくエンジニア集団（Engineering Firm）",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループの本質｜メイテック ～エンジニアリングソリューション 研究開発・設計プロのエンジニア～",
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループの社員一人ひとりが「自立と支え合い」の精神でお互いを高め合い、成長し続けるエンジニアのプロフェッショナル集団であること",
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点として、5つの価値を持続的に向上させます",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは、事業を通じて直接的にサービスを提供している「エンジニア」と「お客さま」に対し、上記2つのことを実現していきます",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは「エンジニアリングソリューション事業」と「エンジニア紹介事業」の2つの領域で事業を行ってまいります",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社｜メイテック ～エンジニアリングソリューション 研究開発・設計プロのエンジニア～",
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社メイテックグループホールディングス",
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "記事内の、大卒理工系採用ランキング（2027年春計画）にて当社グループが2位で掲載されました",
+    "url": "https://www.meitec.co.jp/news/20260527_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "4月17日の日本経済新聞25面にて、日本経済新聞がリサーチしました各社の「26新卒採用計画調査」について、当社グループが掲載されています",
+    "url": "https://www.meitec.co.jp/news/20250417.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが22位で掲載",
+    "url": "https://www.meitec.co.jp/news/20250417.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループホールディングスのサイトはこちら",
+    "url": "https://www.meitec.co.jp/company/base/region/hiroshima.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信した記事数は約13,000件にも及びます",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "そんなコンテンツを提供してきた編集部は今月で解散します",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "なお、以下は私個人の振り返りで、編集部公式見解ではありません",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "当時、メイテックネクストという子会社にいた私は、グループで唯一のデジタルマーケティング専業担当として、親会社の新規事業プロジェクトに参加しました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "北海道での打ち上げや機体製作費、ロケ費用など、通常の記事数本分に相当する予算を投じる一大プロジェクトだったため、「これが滑ったらもう後がない」という思いで北海道に飛び、記事を書きました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、事業としての成長を目指すマネタイズ重視モードから、企業ブランドの確立を重視しつつ「そこそこの成長で十分」という方向へシフトすることが決まりました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "「このままじゃヤバい、何か結果につながることをやらなきゃ！」という焦りもあって、当時の記事数本分くらいの予算をかけて北海道まで取材に行ったんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "その編集の大先輩が「昔は学生がアルバイトで編集部に入って、ゼロから育成できたけど、今はなかなかそうもいかない」って言ってたのが、ずっと記憶に残ってて",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossで新人ライターが増えてきたときに、みんなで企画を出したり、相談しあったりできる場があればとFacebookでグループを作ったんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイトも最後まで発展途上だったと思うし、行きたかった取材も、リソースの関係で行けなかった記者発表会もいっぱいありました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "編集部でチェックし、掲載に値すると判断した内容は記事として紹介します",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "さらなるメディアの継続と発展を願い、編集部による10年間の振り返りを行いました",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "これまでfabcrossに掲載された記事の数は、2023年11月までの累計で1万1295本",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "そして、2014年度には編集部内で「これがなかったら、きっとfabcrossは続いていない」と呼ばれるほどの大ヒット記事が登場",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "編集部が振り返る、メディアとラボと教育と",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "座談会に参加した編集部の面々（撮影：桜庭康人）",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、現役編集部のメンバーが、それぞれの専門分野からこの10年の変化や、思い出深い記事と共に振り返ります",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "編集部による振り返りと座談会は、なんと半日にも及びました",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "振り返ればキリがない10年間でしたが、編集部やライター・フォトグラファー陣はもちろん、読者や取材に協力してくれる皆さんの力なくしては、決してここまでたどり着けなかったでしょう",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "【座談会】2025年のFabScene編集部を振り返る - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "【座談会】2025年のFabScene編集部を振り返る",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "編集部でディスカッションした結果、ほぼ満場一致で「工作記録帳」氏の「音を『見る』！」プロジェクトに決定しました",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "「FabScene編集部の皆様、この度の選出、本当にありがとうございます！",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "デザインブランド「130」、3Dプリント製作品「Orbit of Calm」をDESIGNART TOKYO 2025で展示",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員技術者の派遣を中心にサービスを提供するメイテックグループ（本社：東京都港区、グループＣＥＯ 西本甲介）は、エンジニアが “ものづくり” で “つながる”新ＷＥＢメディアサイト「fabcross」（ファブクロス）を、10月1日より公開いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "この流れを受け、メイテックグループでは、世の中のエンジニアや、ものづくりに興味・関心のある方々への情報提供と、エンジニア間のつながりを作るメディアとして「fabcross」を開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ワークショップ、イベント、交流会の開催案内（会員向け）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "メイテックグループは、エンジニアのキャリアを支援することを事業コンセプトに、設計・開発から、解析・評価、設計補助まで、幅広い業務領域に対応した技術者派遣サービスを中心として、エンジニアに関わるサービスを提供しております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループで、約7,000名の正社員エンジニアが働いており、取引先は大手製造業を中心に、常時1,000社以上、延べ4,000社以上の取引実績があります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "メイテックグループでは、世の中のエンジニア同士が「ものづくり」でつながり合う、支え合うサービスを通して、今後も、世の中のエンジニアを応援してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "今年、FabScene編集部として活動してくれた淺野さん、後藤さん",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、取材の打診やプレスリリース、記者発表会のご案内など、さまざまな形で関わってくださった各社の皆さんにも御礼申し上げます",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社ドメイン内でオウンドメディアを立ち上げたいという企業との商談で、編集・ライティング業務としてできることや金額感をお伝えしたところ、「まずはPlaud Noteで社員同士でインタビューさせて、文字起こししたものを公開してみます」と言われたこともありました",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "米田さんのように深掘った開発Tipsを書けるライターさんは、経験の浅い編集部のにおいて大変貴重な存在でした",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "2017年にフリーランスになった際、自分のブログで立ち上げからの経緯をまとめたことがありました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げ当初でほとんど誰にも見られていないメディアに力を注いでくださった方々のご協力がなければ、メディアは早々に頓挫していたと思います",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "奥でカメラを構えているのはfabcross初期から支えてくれた名カメラマン加藤甫さん",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "サイトを立ち上げて1年も経たないうちに自分でも書くことになった",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossは立ち上げ当初から、真面目なインタビューやニュース記事と、やや遊び心のある工作ネタを意図的に混在させる編集方針を貫いてきました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "さらに公開したデータやグラフを、企業が立ち上げるメイカースペースの参考資料として使っていただけることも増えました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げからコロナ禍に突入する2018年まではMaker Faire Tokyoにも毎年出展してました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には立ち上げ当初から関わってきたK君が転職し、最初から最後までfabcrossの企画・編集に関わったのは私ともう一人の編集者Nさんだけになりましたが、多様性あふれるチームが解散するのはやはり寂しいですね",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロからものづくりを始めようを思い立ったとき、エンジニア宇田さんのことを知ったのも、製造元のジェネシス社のことを知ったのも、かんぷれで協業することになるM5Stack社のことを知ったのも…",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの人材派遣を手がけるメイテックが「新しいものづくりがわかるメディア」として立ち上げ、デジタルファブリケーションやIoT、ロボティクスからスタートアップまで、個人が主役となる新しい時代のテクノロジーを紹介してきました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用や広報に繋げようとなったのは、立ち上げから数年経ってからなんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "最初のころは、個人のMakerやスタートアップが町工場に行っても門前払いされたり、メールしても返事が来ないことが当然でした",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "僕も最初は編集やライティングの経験がなかったので、立ち上げ当初からベテランの編集さんに入ってもらって、がっつり育ててもらいました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "その編集の大先輩が「昔は学生がアルバイトで編集部に入って、ゼロから育成できたけど、今はなかなかそうもいかない」って言ってたのが、ずっと記憶に残ってて",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業や他メディアとのコラボレーションも、広告記事枠のあった初期には多かったですよね",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "運営が厳しい初期に、本社で開催したイベントに100人くらい集まってくれたときにも、ようやく「これはイケるかも」と手ごたえを感じました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "その声を受けて、新しいメディアを立ち上げようと決意したわけですし",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"現場\"を離れるわけにはいかないーー新しいWebメディア「FabScene」を立ち上げます",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "改めて立ち上げるに当たっては「2周目の特権」みたいな要素もあります",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・開発から解析、設計補助まで、設計開発領域でエンジニアリングソリューションを提供するメイテックの「世の中のエンジニアやものづくりに携わる人たち、またエンジニアという職業を視野に入れているすべての理系人材に役立つ情報を提供したい」という思いから、Webメディアの立ち上げが決まり、2012年の夏頃から準備が始まります",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "まずは雑誌やWebニュースなどの編集に多数携わり、fabcrossの立ち上げ前から関わっていた",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "2023年8月には自身のファブ施設「京島共同凸工所」を墨田区で立ち上げ、試行錯誤の毎日を送っています",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossの立ち上げメンバーであり、ハードウェアスタートアップの取材を多く手がける",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "今年は自分たちの話から始めると、3月にfabcross※が終わって、そこからFabSceneを立ち上げたのが大きかった",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の1秒で惹きつけて30秒見てもらうみたいな",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "#000 ひのきの棒からどうのつるぎへ──FabScene立ち上げの裏側と、新しいことを始めるコツ",
+    "url": "https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの知識ゼロから13年前にWebメディアを立ち上げた越智と、浪人時代にひたすらWebサイトを読んでいた浅野が、それぞれの原点とFabSceneの立ち上げ経緯を語ります",
+    "url": "https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space",
+    "pass": 3
+   },
+   {
+    "quote": "オープンから今日に至るまで、FabSceneが自分の人生の中心になり、fabcrossを立ち上げた1〜2年目の頃に戻ったような気持ちがあります",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社ドメイン内でオウンドメディアを立ち上げたいという企業との商談で、編集・ライティング業務としてできることや金額感をお伝えしたところ、「まずはPlaud Noteで社員同士でインタビューさせて、文字起こししたものを公開してみます」と言われたこともありました",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "デイリーポータルZやセメダインスタイルに寄稿している工作ライター斎藤さんは、後期のfabcrossを支えてくれた1人です",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロからものづくりを始めようを思い立ったとき、エンジニア宇田さんのことを知ったのも、製造元のジェネシス社のことを知ったのも、かんぷれで協業することになるM5Stack社のことを知ったのも…",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "2026.10.29 / ニュースリリース",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026.10.14 / ニュースリリース",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026.10.05 / ニュースリリース",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026.09.29 / ニュースリリース",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています",
+    "url": "https://www.meitec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（1985年に株式会社ジエクスに社名変更）を設立",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア向けものづくり支援サイト「fabcross」を開設",
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は",
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にWebメディア「fabcross」の設立に参画",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年当時に所属していた会社でwebメディア「fabcross」の設立に参画",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に独立、2021年にシンツウシン株式会社を設立",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にFabSceneを設立",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "リリース直後、Webメディア運営のノウハウもない中、さまざまな試行錯誤が行われます",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、この企画に協力してくれた岩谷圭介さんは、その後テレビ番組「情熱大陸」でも取り上げられ、気球を用いた有人宇宙飛行を目指す岩谷技研を設立し、スタートアップとして事業に取り組んでいます（参考：",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "情報提供したことは、設立時には想定もしていなかった成果の一つといえるでしょう",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアが“ものづくり” で “つながる”新ＷＥＢメディアサイト『ｆａｂｃｒｏｓｓ（ファブクロス）』 | 株式会社メイテックのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、取材の打診やプレスリリース、記者発表会のご案内など、さまざまな形で関わってくださった各社の皆さんにも御礼申し上げます",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます",
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "4) 株主価値",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的な価値向上に基づく「健全な利益」を創出し、中長期的に株主還元を最大化します",
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "pass": 1
+   },
+   {
+    "quote": "当時、メイテックネクストという子会社にいた私は、グループで唯一のデジタルマーケティング専業担当として、親会社の新規事業プロジェクトに参加しました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "僕はメイテックの子会社でデジタルマーケティングを専業していて、石川さんが関わっているWebメディア「デイリーポータルZ」に広告記事を出したりしていたんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "取材のイロハもわからなくて、最初に泣きついたのが子会社の別のお仕事でお世話になったデイリーポータルZの石川さんでした",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "資本比率 株式会社メイテックの100％子会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "TEL: 050-3000-5820 FAX: 03-6778-5070",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-7398 FAX: 022-711-5823",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9225 FAX: 028-341-7021",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9221 FAX: 027-327-6375",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：050-3101-5409 FAX ：04-8545-2262",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-7394 FAX: 048-647-7520",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-6227 FAX: 029-227-6384",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：050-3131-9223 FAX：029-856-7822",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4095 FAX: 043-380-9397",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4080 FAX:03-3862-0792",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4076 FAX:03-6858-2831",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4075 FAX:03-6858-0050",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4077 FAX:03-5822-6653",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:050-3101-4862 FAX:03-5822-6653",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8553 FAX: 042-529-7878",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8555 FAX: 042-510-0065",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9229 FAX: 045-323-3470",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9503 FAX: 045-276-6575",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-5405 FAX: 044-380-7289",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4089 FAX: 046-401-1790",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3131-9574 FAX: 046-401-1791",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8551 FAX: 0466-26-3810",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-6226 FAX: 055-981-1704",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-8549 FAX: 054-283-6535",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "TEL: 050-3101-4866 FAX: 053-455-2466",
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "pass": 1
+   },
+   {
+    "quote": "私自身も独立後、数年間DMM.make AKIBAの運営を手伝ったことがあります",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "DMM.makeの3Dプリントサービスも馴染み深いものになりました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子工作に特化したSNSなどのプランもあった中、方向性を決定づけたのはクリス・アンダーソンによる書籍『MAKERS —21世紀の産業革命が始まる』（2012年、NHK出版）でした",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、2023年10月にオライリー・ジャパンから発刊された書籍『雑に作る—電子工作で好きなものを作る近道集』の構想は、このイベントの際の雑談から生まれていたそう",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：03-5413-2633 FAX：03-5413-2622 E-mail：kouhou@meitec.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "pass": 3
+   },
+   {
+    "quote": "Looking back at the old and new faces, it was an editorial and writing team that was too unique. More than half of them owned 3D printers, and some of them were involved in running makerspaces themselves. I myself helped run DMM.make AKIBA for several years after becoming independent.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If it had been operated by a large corporation or a venture capital firm skilled in IT investment, they might have given up on it much sooner. Most services launched by other companies in similar fields around the time fabcross started have since withdrawn (notably Recruit's MakersHub and the web media for DMM.make AKIBA).",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に書籍を出版したのですが、その紹介をしていただきました",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "本書籍ではfabcrossで文章を書く経験も活きました",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス数が現在の水準に近づくにつれ、記事広告の依頼が直接または紹介経由で舞い込むようになります",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "広告ビジネスも大きく様変わりする中、テキスト主体のメディア運営のあり方も10年前とは大きく変わったと感じています",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "僕はメイテックの子会社でデジタルマーケティングを専業していて、石川さんが関わっているWebメディア「デイリーポータルZ」に広告記事を出したりしていたんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業や他メディアとのコラボレーションも、広告記事枠のあった初期には多かったですよね",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜか2回目には当時の東急ハンズさんもスポンサーになってくれたし",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "越智さんはご自身のnoteで「広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず1年目からスポンサーが2社もつくことなんてあり得ないし、いろんな企業から取材のオファーもいただけるし",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "#001 3Dプリンター歴史記事はなぜ読まれたのか──Google広告パニック事件、歴史シリーズの裏側、AIにまとめさせたら使えなかった話",
+    "url": "https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space",
+    "pass": 3
+   },
+   {
+    "quote": "また、オープン初日に広告のお問い合わせをくださり、以降も出稿を続けてくださっているseeed Japanの坪井さん、松岡さん",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "オープン前から取材先のアレンジに加え、広告主としても出稿いただいているビット・トレード・ワンの阿部さん",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "ChatPGT、gemini、claudeに課金していますし、全ての取材やMTGの文字起こしにAI文字起こし系のサービスも使っています",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "最初は新規事業として「黒字化しよう」とやっていたけど、数千億規模の業績を誇るメイテックに大きく貢献するのは難しくて",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "I think it is a miracle that it lasted for 12 years as a media outlet with almost no advertising and a non-profit nature. I have nothing but gratitude for our readers and all the people involved in its operation.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As access numbers approached current levels, requests for advertorials began to pour in, either directly or through referrals. We accepted these projects as much as possible to secure revenue for the media. Since we were operating as a business at the time, sales were one of our KPIs.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "fabcrossの閉鎖に寄せて｜越智 岳人",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "2013年から運営していたwebメディア「fabcross」が2025年3月31日をもって閉鎖されることになりました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "今回のサイト終了にあたって「電子工作メディア」として紹介されるケースが多々ありました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "状況によっては「事業の成長性なし」と判断し、撤退する可能性もありましたが、一定の規模に成長したことを評価され、会社のブランディングツールとして存続することになったのです",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "それだけに、今回の終了は非常に残念です",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "閉鎖を発表してからの2週間、さまざまな暖かい言葉をかけられました",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "【fabcross閉鎖】fabcrossがなければ InstaChord社は生まれていなかったと言っても過言ではありません",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "Webメディア冬の時代も乗り越えてきましたが、2025年3月末に突如閉鎖となり、突然の出来事にSNSでは別れを惜しむ声が溢れました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossが突然閉鎖になると聞いたときは驚きました",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "越智：僕も自分のnoteで閉鎖について書いたのですが（",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "そしてコミュニティが広がってきたタイミングで、突然の閉鎖発表",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "閉鎖発表のとき、SNSでたくさんの声が集まりましたよね",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossの閉鎖を惜しむ声が多かったけど、それだけじゃなくて「この連載が好きだった」「この記事が役に立った」と具体的な記事の感想をもらえたのが本当に嬉しかったんです",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル、AIとデータセンターの需要で2月に決めた炭素材事業の撤退を撤回",
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は2025年3月末に閉鎖したWebメディア「fabcross」に掲載されていた原稿を、執筆を担当した筆者がアーカイブ目的で転載したものです",
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル、AIとデータセンターの需要で2月に決めた炭素材事業の撤退を撤回",
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月に惜しまれながら閉鎖された株式会社メイテックによるものづくり応援webメディア「fabcross」",
+    "url": "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "pass": 3
+   },
+   {
+    "quote": "2019年から閉鎖されるまでの6年間、毎年、スイッチサイエンス年間売り上げランキングベスト100について、インタビュー記事を掲載してくださっていました",
+    "url": "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "pass": 3
+   },
+   {
+    "quote": "「fabcross」閉鎖の際、社内外よりなんとかまた読めるようにできないかとの声が多くありました",
+    "url": "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossの閉鎖とFabSceneの誕生",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "今年最も大きな出来事は、fabcrossの閉鎖と、FabSceneの開始でした",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossの閉鎖を知ったときは、「いよいよこの日が来たかー」という気持ちでした",
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "pass": 3
+   },
+   {
+    "quote": "これはfabcross終了時に、運営会社であるメイテックが「個人ブログなど非商用に限り転載OK」と判断したものによります",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "【fabcross閉鎖】fabcrossがなければ InstaChord社は生まれていなかったと言っても過言ではありません",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら2025年3月31日をもって、ものづくりWebメディア「fabcross」が閉鎖されることが決まりました",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "fabcross の閉鎖に寄せて｜越智 岳人 - note — fabcross の閉鎖に寄せて｜越智 岳人 - note note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりメディアは続くよどこまでも。「 fabcross 」を ... — ものづくりメディアは続くよどこまでも。「 fabcross 」を ... セメダイン株式会社 https://www.cemedine.co.jp > fabcrosszadannkai2025",
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "明和電機共同開発の 自動手書きマシン「オートマ・テ」の — 明和電機共同開発の 自動手書きマシン「オートマ・テ」の meitec.co.jp PDF https://www.meitec.co.jp > news > fabcross_20140722",
+    "url": "https://www.meitec.co.jp/news/2014/en18hs0000001rsb-att/fabcross_20140722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross による年間 売上 ランキングインタビュー記事を ... — fabcross による年間 売上 ランキングインタビュー記事を ... スイッチサイエンス https://www.switch-science.com > blogs > magazine > fab...",
+    "url": "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック — fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック meitec.co.jp https://www.meitec.co.jp > fabcross",
+    "url": "https://www.meitec.co.jp/fabcross.html",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross のアーカイブ＆ 振り返り 記事まとめ｜越智 岳人 - note — fabcross のアーカイブ＆ 振り返り 記事まとめ｜越智 岳人 - note note https://note.com > DIY > DIY全般",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "On the Closure of fabcross ｜越智 岳人 - note On the Closure of fabcross ｜越智 岳人 - note note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross のアーカイブ＆振り返り記事まとめ｜越智 岳人 - note fabcross のアーカイブ＆振り返り記事まとめ｜越智 岳人 - note note https://note.com > DIY > DIY全般",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross への感謝と振り返り ー 記事で辿るものづくりの軌跡 fabcross への感謝と振り返り ー 記事で辿るものづくりの軌跡 note https://note.com > DIY > 電子工作",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross の閉鎖に寄せて｜越智 岳人 - note fabcross の閉鎖に寄せて｜越智 岳人 - note note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "On the Closure of fabcross｜越智 岳人",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the Closure of fabcross",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The web media \"fabcross,\" which had been in operation since 2013, will be closed as of March 31, 2025.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was honestly surprised that it was picked up by ITmedia and Internet Watch.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am writing this note to express my gratitude to all the readers who have supported us over the years.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Normally, something like this should be posted on fabcross, but since the cloud server used by fabcross will also be canceled at the end of March (meaning all articles will become inaccessible), I have uploaded it here instead.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross was launched in 2013 as a new business by Meitec, an engineer staffing company, and after many twists and turns, it was later operated as an advertising tool for branding and employee recruitment.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While it was in a form close to what is known as an owned media, we operated it with a policy of conveying information neutrally, updating it every weekday, and maintaining a structure no different from a general web media. We maintained careful content creation from the beginning, which is rare for recent web media, such as having a proofreader separate from the editorial staff.",
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossのアーカイブ＆振り返り記事まとめ｜越智 岳人",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossのアーカイブ＆振り返り記事まとめ",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、FabScene編集長&元fabcross編集の越智です。サイトのローンチから一週間が経とうとしている一方で、fabcrossの元ライター陣が自身のブログに過去記事を公開しています。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "これはfabcross終了時に、運営会社であるメイテックが「個人ブログなど非商用に限り転載OK」と判断したものによります。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、ライター毎に過去のアーカイブを紹介します。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "なお、既に何度か問い合わせが来ているのですが、上記の要件から外れることもありFabSceneでfabcrossの記事が転載されることはありません。悪しからずご了承ください。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "淺野さんは過去に執筆した記事15本がnoteで公開中です。個人的なオススメは以下の通り。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "この2本は僕も取材同行したこともあって、懐かしい気分で読み返しました。",
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossへの感謝と振り返り ー 記事で辿るものづくりの軌跡｜小林竜太",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossへの感謝と振り返り ー 記事で辿るものづくりの軌跡",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら2025年3月31日をもって、ものづくりWebメディア「fabcross」が閉鎖されることが決まりました。詳細は",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "私は2021年から工作ライターとして、電子工作に関するさまざまな記事を執筆してきました。この場を借りて、fabcrossという素晴らしいプラットフォームで執筆できたことに心から感謝を申し上げます。ものづくりに対する情熱を共有し、学びを深めることができた貴重な経験でした。",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、これまでの執筆記事を振り返り、まとめたいと思います。",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "洗濯をスマートに！ 乾き具合を確認できるIoT洗濯バサミを作ろう",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "https://fabcross.jp/category/make/mobility/20210312_iot_device.html",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "記念すべき、私が初めてfabcrossで執筆した工作記事です。洗濯物の乾き具合を測定できる、洗濯バサミ型のIoTデバイスです。Ambientとのデータ連携など、初回ながらなかなか完成度が高く仕上がってたなと感じています。",
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossの閉鎖に寄せて｜越智 岳人",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "2013年から運営していたwebメディア「fabcross」が2025年3月31日をもって閉鎖されることになりました。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "ITmediaやInternet Watchにも取り上げられた事には、正直驚きました。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "これまでご愛読いただいた読者のみなさまに感謝をお伝えしたいと思い、このnoteを書いています。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "こういったことは本来であればfabcrossに載せたほうがいいのですが、fabcrossが利用しているクラウドサーバも3月末で解約（＝すべての記事が閲覧不可になる）とのことで、こちらにアップした次第です。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆるオウンドメディア的な立ち位置に近い形態ではありましたが、フラットに情報を伝える方針のもと、ウィークデーは毎日更新し、一般的なWebメディアと変わらない体制で運営。編集とは別に校正を置くなど、最近のWebメディアには珍しく丁寧なコンテンツ作りを当初から維持していました。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   },
+   {
+    "quote": "取り上げる内容は国内外のデジタルファブリケーション関連やRaspberry Piなどのマイコンボード、ハードウェアスタートアップ、面白い個人作品など。配信した記事数は約13,000件にも及びます。尖ったテーマでありながら、しっかりとした量を届けてきたという自負があります。",
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "fabcross (@fabcrossjp) / X fabcross (@fabcrossjp) / X X https://x.com > fabcrossjp",
+    "url": "https://x.com/fabcrossjp",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross for エンジニア (@fabcross4engr) / X fabcross for エンジニア (@fabcross4engr) / X X https://x.com > fabcross4engr",
+    "url": "https://x.com/fabcross4engr",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross ）をご愛顧いただき、誠にありがとうございます ... - X fabcross ）をご愛顧いただき、誠にありがとうございます ... - X X https://x.com > @fabcrossjp",
+    "url": "https://x.com/fabcrossjp/status/1901854315406586280",
+    "pass": 3
+   },
+   {
+    "quote": "インスタコード_誰でも弾ける新しい楽器 on X: \"【 fabcross ... インスタコード_誰でも弾ける新しい楽器 on X: \"【 fabcross ... X https://x.com > @insta_chord",
+    "url": "https://x.com/insta_chord/status/1901899703098446188",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "深圳で気づいたMaker文化の重要性｜ fabcross | M5Stack 深圳で気づいたMaker文化の重要性｜ fabcross | M5Stack LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/m5stack_%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F%E3%81%AB%E6%B7%B1%E5%9C%B3%E3%81%A7%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9Fmaker%E6%96%87%E5%8C%96%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7-activity-6988802439294435328-rrfg",
+    "pass": 3
+   },
+   {
+    "quote": "手回し式靴下編み機を作って靴下を編んでみた｜ fabcross 手回し式靴下編み機を作って靴下を編んでみた｜ fabcross LinkedIn https://jp.linkedin.com > posts > kyamauchi1989_手回し...",
+    "url": "https://jp.linkedin.com/posts/kyamauchi1989_%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E9%9D%B4%E4%B8%8B%E7%B7%A8%E3%81%BF%E6%A9%9F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E9%9D%B4%E4%B8%8B%E3%82%92%E7%B7%A8%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9Ffabcross-activity-7044439097578328064-j6fH",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "fabcross for エンジニア (@fabcross4engineer) - Facebook fabcross for エンジニア (@fabcross4engineer) - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/fabcross4engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "fabcross (@fabcrossjp) - Facebook fabcross (@fabcrossjp) - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/fabcrossjp/",
+    "pass": 3
+   },
+   {
+    "quote": "しゃかいか！ナイト Vol.2 fabcross さんに聞く“Web メディア ... しゃかいか！ナイト Vol.2 fabcross さんに聞く“Web メディア ... Facebook https://www.facebook.com > events > editory-神保町 > し...",
+    "url": "https://www.facebook.com/events/editory-%E7%A5%9E%E4%BF%9D%E7%94%BA/%E3%81%97%E3%82%83%E3%81%8B%E3%81%84%E3%81%8B%E3%83%8A%E3%82%A4%E3%83%88-vol2-fabcross-%E3%81%95%E3%82%93%E3%81%AB%E8%81%9E%E3%81%8Fweb-%E3%83%A1%E3%83%86%E3%82%99%E3%82%A3%E3%82%A2%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-whill-%E3%82%82%E8%A9%A6%E4%B9%97%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E3%82%88/1461319260843546/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.meitec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/overview/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/advantage/interview/casestudy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/advantage/interview/procareer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/principal/en18hs0000007bln.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/principal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/base.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/group.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/news/20260527_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/news/20250417.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/outsorcing/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meitec.co.jp/company/base/region/hiroshima.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.nikkan.co.jp/images/media-sheet/media-sheet.pdf",
+    "status": "http_405",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nankai.news/ad/digital/rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/contents/meditsubu/columns6-ad-market-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.kyoto-np.jp/ad/admenu/fuka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/seo/seo-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mieru-ca.com/blog/seminar_tag/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.web-planners.net/seminar/semi_localseo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdk.co.jp/ir/finance/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/event/presentation/main/011111114/teaserItems1/00/linkList/00/link/FY26_Forecast_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dic-global.com/ja/ir/finance/segment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/infomation/helloworld/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.well-done.co.jp/service/ufo/incentive_fee_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001824028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eigyoh.com/column/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article79",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.value-fax.com/blog/archives/1262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/n358c759ca1a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asanoqm/n/nce884bc183f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_5884/n/n21daf87618bf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fabcrossjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fabcross4engr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fabcrossjp/status/1901854315406586280",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/insta_chord/status/1901899703098446188",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/m5stack_%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F%E3%81%AB%E6%B7%B1%E5%9C%B3%E3%81%A7%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9Fmaker%E6%96%87%E5%8C%96%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7-activity-6988802439294435328-rrfg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/kyamauchi1989_%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E9%9D%B4%E4%B8%8B%E7%B7%A8%E3%81%BF%E6%A9%9F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E9%9D%B4%E4%B8%8B%E3%82%92%E7%B7%A8%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9Ffabcross-activity-7044439097578328064-j6fH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fabcross4engineer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fabcrossjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/events/editory-%E7%A5%9E%E4%BF%9D%E7%94%BA/%E3%81%97%E3%82%83%E3%81%8B%E3%81%84%E3%81%8B%E3%83%8A%E3%82%A4%E3%83%88-vol2-fabcross-%E3%81%95%E3%82%93%E3%81%AB%E8%81%9E%E3%81%8Fweb-%E3%83%A1%E3%83%86%E3%82%99%E3%82%A3%E3%82%A2%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-whill-%E3%82%82%E8%A9%A6%E4%B9%97%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E3%82%88/1461319260843546/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gkt/n/n010abd941806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fabcrossjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gkt/n/nf0799e8a303d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "fabcross",
+   "results": [
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://www.meitec.co.jp/fabcross.html",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://fabscene.com/new/infomation/helloworld/",
+    "https://x.com/fabcrossjp",
+    "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vJ6wyvtNPWDqxDPoxjyWCfKiRnC6mOCymfFtA1yIT86mlY0fAQC",
+    "https://www.instagram.com/fabcrossjp/",
+    "https://www.itmedia.co.jp/news/article/2503/18/1250318175/",
+    "https://note.com/gkt/n/n010abd941806?hl=en",
+    "https://htby.github.io/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/"
+   ]
+  },
+  {
+   "query": "fabcross 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "https://corp.nikkan.co.jp/images/media-sheet/media-sheet.pdf",
+    "https://nankai.news/ad/digital/rate/",
+    "https://media-radar.jp/contents/meditsubu/columns6-ad-market-price/",
+    "https://pr.kyoto-np.jp/ad/admenu/fuka.html",
+    "https://adv.sankei.com/pdf/sankei_priselist260619.pdf",
+    "https://www.pressnet.or.jp/data/advertisement/advertisement01.php",
+    "https://www.decn.co.jp/inc/jigyo_data/%E6%96%99%E9%87%91%E8%A1%A82603%E6%94%B9%E8%A8%82.pdf",
+    "https://www.gentosha-mc.com/column/dertail265/",
+    "https://adinfo.diamond.jp/dw/menu-3/"
+   ]
+  },
+  {
+   "query": "fabcross PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://fabscene.com/new/infomation/helloworld/",
+    "https://www.meitec.co.jp/news/2014/en18hs0000001rsb-att/fabcross_20140722.pdf",
+    "https://note.com/asanoqm/n/nce884bc183f5",
+    "https://nanao.hatenablog.com/entry/2017/11/01/%E7%B4%A0%E4%BA%BA%E3%81%8Cweb%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A64%E5%B9%B4%E3%81%8C%E7%B5%8C%E3%81%A3%E3%81%9F%E7%B5%90%E6%9E%9C%E3%80%81%E9%80%80",
+    "https://fabscene.com/new/infomation/2025-august-summary/",
+    "https://imse-pr.com/2021/07/14/nikkei-xtech/",
+    "https://battles.jp/design/201812_1/",
+    "https://snowman-information.com/johnnys-fc/"
+   ]
+  },
+  {
+   "query": "fabcross 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/",
+    "https://note.com/asanoqm/n/nce884bc183f5",
+    "https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://www.youtube.com/watch?v=5Jrw_F0AbpQ",
+    "https://www.famitsu.com/news/202006/26200976.html",
+    "https://gamemo.confidence-media.jp/672",
+    "https://www.neweconomy.jp/authors",
+    "https://ja.wikipedia.org/wiki/南場智子"
+   ]
+  },
+  {
+   "query": "fabcross 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://n-works.link/blog/seo/seo-seminar",
+    "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "https://mieru-ca.com/blog/seminar_tag/seo/",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://www.web-planners.net/seminar/semi_localseo.html",
+    "https://snabi-biz.jp/seminars/103",
+    "https://ferret-plus.com/2292",
+    "https://lead-x.co.jp/webinar/",
+    "https://corp.ei-o.com/seo-customer-attraction/",
+    "https://www.rakubo.co.jp/2026/04/27/webinar-shukyaku-houhou-2026/"
+   ]
+  },
+  {
+   "query": "fabcross 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://www.fdk.co.jp/ir/finance/segment/",
+    "https://www.ajinomoto.co.jp/company/jp/ir/event/presentation/main/011111114/teaserItems1/00/linkList/00/link/FY26_Forecast_J.pdf",
+    "https://www.dic-global.com/ja/ir/finance/segment.html",
+    "https://corporate.murata.com/ja-jp/ir/financial/segment",
+    "https://www.youtube.com/watch?v=zAroxEOug1c",
+    "https://www.shinetsu.co.jp/jp/ir/highlight/",
+    "https://www.capcom.co.jp/ir/finance/benchmark_02.html",
+    "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100"
+   ]
+  },
+  {
+   "query": "fabcross 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://www.meitec.co.jp/fabcross.html",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://fabscene.com/new/infomation/helloworld/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000001214.html",
+    "https://note.com/gkt/n/n010abd941806",
+    "https://www.furukawakk.co.jp/info/2024/20240712_2_14.html",
+    "https://www.meitecgroup-holdings.com/ja/company/history.html",
+    "http://release.nikkei.co.jp/detail.cfm?relID=257342&lindID=3",
+    "https://ja.wikipedia.org/wiki/M&A"
+   ]
+  },
+  {
+   "query": "fabcross 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://www.well-done.co.jp/service/ufo/incentive_fee_plan/",
+    "https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001824028",
+    "https://www.eigyoh.com/column/10",
+    "https://mizusaki-inc.com/knowledge/article79",
+    "https://web.value-fax.com/blog/archives/1262",
+    "https://www.jaic-g.com/service/adoption/performance-reward-recruitment-service/",
+    "https://levtech.jp/partner/guide/article/detail/118/",
+    "https://tenshoku.mynavi.jp/publish_inquire/knowhow/02_placement-fees",
+    "https://www.saiyo-doda.jp/service/recruitment/column/cost-recruitment",
+    "https://bow-now.jp/media/column/sales-outsourcing/"
+   ]
+  },
+  {
+   "query": "fabcross note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://note.com/gkt/n/n358c759ca1a1",
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://note.com/asanoqm/n/nce884bc183f5",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://note.com/gkt/n/n010abd941806",
+    "https://open.spotify.com/episode/58Q9cLGHH8zgvQleUPANfT",
+    "https://note.com/gkt/n/nfb250d3df97c",
+    "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "https://www.meitec.co.jp/fabcross.html",
+    "https://note.com/asanoqm/m/m3887e4a18e68"
+   ]
+  },
+  {
+   "query": "site:note.com fabcross",
+   "results": [
+    "https://note.com/gkt/n/nf0799e8a303d?hl=en",
+    "https://note.com/gkt/n/n010abd941806",
+    "https://note.com/_5884/n/n21daf87618bf",
+    "https://note.com/gkt/n/nfb250d3df97c?hl=en",
+    "https://note.com/asanoqm/n/nce884bc183f5",
+    "https://note.com/asanoqm/m/m3887e4a18e68",
+    "https://note.com/kumin/m/m8635d3cf5989/hashtag/%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AF%E3%83%B3",
+    "https://note.com/gkt/n/n358c759ca1a1",
+    "https://note.com/kibidango_/n/nac88046fb356",
+    "https://note.com/gkt/n/nf0799e8a303d"
+   ]
+  },
+  {
+   "query": "site:x.com fabcross",
+   "results": [
+    "https://x.com/fabcrossjp",
+    "https://x.com/fabcross4engr",
+    "https://x.com/fabcrossjp/status/1901854315406586280",
+    "https://x.com/insta_chord/status/1901899703098446188",
+    "https://x.com/mochisw/status/1901934360544366708",
+    "https://x.com/meitec_group/status/1835878058877964530",
+    "https://x.com/fabcross4engr/status/1530018740863389696",
+    "https://x.com/fabcross4engr/status/1867394696819212535",
+    "https://x.com/fabcrossjp/status/1795631389662204187"
+   ]
+  },
+  {
+   "query": "site:linkedin.com fabcross",
+   "results": [
+    "https://www.linkedin.com/posts/m5stack_%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F%E3%81%AB%E6%B7%B1%E5%9C%B3%E3%81%A7%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9Fmaker%E6%96%87%E5%8C%96%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7-activity-6988802439294435328-rrfg",
+    "https://www.linkedin.com/posts/shunsuke-kobayashi-06b29a69_formlabs%E5%85%89%E9%80%A0%E5%BD%A23d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCform-4%E3%82%92%E7%99%BA%E8%A1%A8%E9%80%A0%E5%BD%A2%E9%80%9F%E5%BA%A635%E5%80%8D-activity-7186685139052126208-jov2",
+    "https://jp.linkedin.com/posts/%E9%9A%86%E5%BF%97-%E7%AD%A7-492665309_%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E7%B7%A8%E6%B1%82%E4%BA%BA%E3%83%8B%E3%83%BC%E3%82%BA%E6%80%A5%E9%A8%B0%E4%B8%AD%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E5%93%81%E3%81%AE%E7%94%9F%E7%94%A3%E5%B7%A5%E7%A8%8B%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-activity-7311366216986607616-T1K9",
+    "https://jp.linkedin.com/posts/kyamauchi1989_%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E9%9D%B4%E4%B8%8B%E7%B7%A8%E3%81%BF%E6%A9%9F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E9%9D%B4%E4%B8%8B%E3%82%92%E7%B7%A8%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9Ffabcross-activity-7044439097578328064-j6fH",
+    "https://www.linkedin.com/posts/keisuke-sudo-07321611b_3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%88%E3%82%8A14%E5%80%8D%E9%AB%98%E9%80%9F%E3%81%AB%E9%80%A0%E5%BD%A2%E5%86%8D%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%A720%E5%88%86%E4%BB%A5%E5%86%85%E3%81%AB%E9%87%91%E5%9E%8B%E3%82%92%E5%A4%89%E5%BD%A2%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80%E8%A1%93%E3%82%92-activity-7240113282798264320-AVNX",
+    "https://jp.linkedin.com/posts/%E5%AD%9D%E5%85%B8-%E9%88%B4%E6%9C%A8-4a79a0171_%E5%A4%A7%E9%9D%A2%E7%A9%8D%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%81%A7%E6%9F%94%E8%BB%9F%E3%81%AA%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E7%A1%AB%E9%BB%84%E9%9B%BB%E6%B1%A0%E3%82%92%E9%96%8B%E7%99%BA100%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BE%8C%E3%81%AB85%E3%81%AE%E6%AE%8B%E5%AE%B9%E9%87%8F-activity-7299975646988972032-0QM0",
+    "https://www.linkedin.com/posts/hidetaka-endo-dba-68022511b_%E6%B0%B4%E7%B4%A0%E5%8F%96%E5%BC%95%E3%81%A7%E3%81%AE%E6%B8%A9%E5%AE%A4%E5%8A%B9%E6%9E%9C%E3%82%AC%E3%82%B9%E6%8E%92%E5%87%BA%E9%87%8F%E3%82%92%E7%AE%97%E5%AE%9A%E3%81%99%E3%82%8B%E6%B0%B4%E7%B4%A0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5-activity-7297246646034149376-XWzS",
+    "https://jp.linkedin.com/posts/%E5%AD%9D%E5%85%B8-%E9%88%B4%E6%9C%A8-4a79a0171_%E9%9F%93%E5%9B%BD%E3%81%AE%E7%A0%94%E7%A9%B6%E3%83%81%E3%83%BC%E3%83%A0%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0%E3%81%AE%E6%80%A7%E8%83%BD%E3%81%A8%E8%80%90%E4%B9%85%E6%80%A7%E3%82%92%E5%90%91%E4%B8%8A%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%AE%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%82%92%E7%99%BA%E8%A1%A8-activity-7181819805182676993-EZTn",
+    "https://jp.linkedin.com/posts/%E5%AD%9D%E5%85%B8-%E9%88%B4%E6%9C%A8-4a79a0171_%E8%B2%A0%E6%A5%B5%E3%82%92%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E3%82%A2%E3%83%8E%E3%83%BC%E3%83%89%E3%83%95%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0%E3%82%92%E9%96%8B%E7%99%BA-activity-7226763250233720833-8ppd",
+    "https://uk.linkedin.com/in/reece-cross-95068a147"
+   ]
+  },
+  {
+   "query": "site:facebook.com fabcross",
+   "results": [
+    "https://www.facebook.com/fabcross4engineer/",
+    "https://www.facebook.com/fabcrossjp/",
+    "https://www.facebook.com/meitec.group/posts/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%99%E3%82%8Bfabcross-for-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8B%E3%82%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%AD%E9%87%8E%E3%81%95%E3%82%93%E3%81%AF%E8%87%AA%E5%8B%95/469986795074560/",
+    "https://www.facebook.com/events/editory-%E7%A5%9E%E4%BF%9D%E7%94%BA/%E3%81%97%E3%82%83%E3%81%8B%E3%81%84%E3%81%8B%E3%83%8A%E3%82%A4%E3%83%88-vol2-fabcross-%E3%81%95%E3%82%93%E3%81%AB%E8%81%9E%E3%81%8Fweb-%E3%83%A1%E3%83%86%E3%82%99%E3%82%A3%E3%82%A2%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-whill-%E3%82%82%E8%A9%A6%E4%B9%97%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E3%82%88/1461319260843546/",
+    "https://www.facebook.com/meitec.group/posts/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1%E3%82%92%E7%99%BA%E4%BF%A1%E3%81%99%E3%82%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2fabcross%E4%BB%8A%E5%9B%9E%E3%81%AF1500%E5%86%86%E3%81%AE%E3%83%8B%E3%82%BBairpods%E3%82%92%E5%88%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E4%B8%AD%E5%9B%BD%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A3%E6%A5%AD%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%83%BC%E3%83%9E%E8%A8%98%E4%BA%8B%E3%81%A7%E3%81%99%E4%B8%AD%E5%9B%BD%E3%81%AE%E6%B7%B1%E5%9C%B3/443956857677554/",
+    "https://www.facebook.com/media/set/?set=a.501670760011299.1073741843.432782343566808&type=3",
+    "https://www.facebook.com/fab3d.org/",
+    "https://www.facebook.com/monozukurivc/posts/monozukuri-hardware-cup-2019%E3%81%AE%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Ffabcross%E3%81%95%E3%82%93%E3%81%AB%E3%81%A6%E5%A4%A7%E9%98%AA%E3%81%A713%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F-global-innovat/2340969136138924/",
+    "https://www.facebook.com/sayumi.higo/posts/%E8%A8%98%E4%BA%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%83%BC%EF%BE%9F%EF%BE%9F%E4%BA%BA%EF%BE%9F%EF%BE%9F/1676612159067791/",
+    "https://www.facebook.com/100094097966548/mentions/"
+   ]
+  },
+  {
+   "query": "fabcross note 社長",
+   "results": [
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://note.com/gkt/n/n358c759ca1a1",
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://note.com/gkt/n/n010abd941806",
+    "https://note.com/gkt/n/nfb250d3df97c",
+    "https://note.com/_5884/n/n21daf87618bf",
+    "https://www.meitec.co.jp/fabcross.html",
+    "https://x.com/fabcrossjp",
+    "https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLT_bAcVpDBqoE5o3BJuasIYgxoC32G1rtVRrvZfkMxJ8EM_T50",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "fabcross X 投稿",
+   "results": [
+    "https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html",
+    "https://x.com/fabcrossjp",
+    "https://note.com/gkt/n/nf0799e8a303d",
+    "https://fabscene.com/new/infomation/helloworld/",
+    "https://www.instagram.com/fabcrossjp/",
+    "https://www.itmedia.co.jp/news/article/2503/18/1250318175/",
+    "https://www.meitec.co.jp/fabcross.html",
+    "https://www.facebook.com/fabcrossjp/?locale=ja_JP",
+    "https://x.com/fabcrossjp/status/1638442342884728832",
+    "https://www.facebook.com/fabcross.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部54頁・検索15回）"
+ }
+}

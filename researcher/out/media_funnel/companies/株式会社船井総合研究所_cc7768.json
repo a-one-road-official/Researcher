@@ -1,0 +1,4088 @@
+{
+ "name": "株式会社船井総合研究所",
+ "aliases": [
+  "船井総研",
+  "船井総合研究所",
+  "船井総研ホールディングス",
+  "Funai Soken"
+ ],
+ "context": "船井型の集客回路（無料セミナー・本・経営研究会→月次支援）の本家",
+ "researched_at": "2026-11-07T02:55:49.516329+00:00",
+ "official_url": "https://www.funaisoken.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "代表取締役社長 　真貝　大介",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "代表電話",
+    "value": "TEL. 03-4356-0271（代表）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 真貝 大介",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "橋本 直行",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長グループCEO 中谷貴之",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1970年3月6日（現、船井総研ホールディングス） 設立：2013年11月28日 （2014年7月に持株会社体制に移行）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年11月28日",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "創立/設立年",
+    "value": "創立/設立年：2013年設立",
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年11月28日",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1970年（昭和45年）3月6日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2000年1月",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,235名（2025年12月31日時点）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約1,240名（2025年12月31日時点）",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "113名（2026年4月1日時点）",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：1,535名（2024年12月末時点）",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京本社 〒104-0028 東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー 35階 大阪本社 〒530-0001 大阪府大阪市北区梅田三丁目2番 123号 イノゲート大阪 21階・22階",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "【大阪本社】大阪府大阪市北浜4-4-10 【東京本社】東京都千代田区丸の内1-6-6 日本生命丸の内ビル21F",
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京本社：東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー35階／大阪本社：大阪府大阪市北区梅田三丁目2番123号 イノゲート大阪21階・22階",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "東京本社",
+    "value": "東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー35階／大阪本社：大阪府大阪市北区梅田三丁目2番123号 イノゲート大阪21階・22階",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー 35階",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 東京本社 〒 104-0028 東京都 中央区 八重洲 二丁目2番1号 八重洲セントラルタワー35階 大阪本社 〒 530-0001 大阪府 大阪市 北区 北浜 梅田 三丁目2番123号 イノゲート大阪 21階・22階",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "label": "本店 所在地",
+    "value": "〒 104-0028 東京都中央区八重洲二丁目2番1号",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "- 最終処分場運営会社 -",
+    "value": "最終処分場として取組むことができるサーキュラーエコノミーの可能性を見出したい ✓埋立てられるものからの資源回収やバイオガスを用いた発電事業者への販売などの事業プランの策定を支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-circular_economy_703_S043",
+    "pass": 1
+   },
+   {
+    "label": "親会社",
+    "value": "株式会社船井総研ホールディングス（東証プライム市場・証券コード9757）",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "label": "主要 株主",
+    "value": "船井本社 10.52% 三井住友銀行 3.61% 舩井和子 2.97% 日本生命保険 1.97% 舩井勝仁 1.96% （2015年12月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "label": "主要 子会社",
+    "value": "「 #グループ会社 」参照",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "282億3877万円（2023年12月31日時点） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見込み顧客獲得からリード獲得への再構築まで、トータルでWebマーケティングを経験豊富な専門コンサルタントが支援します",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティングで重要視されるSNSの運用にも対応可能です",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CX・コールセンター業務を改善したい企業向けのコンサルティングサービスを提供いたします",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの企業にとって、DXはより業績向上効果の高い方法ですばやく展開することが重要になります",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様事例】BtoB製造業の営業基盤をDXで再構築",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "高校訪問の効率化、オンライン説明会の導入、採用管理システムの活用など、高卒採用のDX化を進めたい",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用支援コンサルティングは、国内採用市場の縮小やDXの台頭といった経営環境の変化に対応し、企業の成長を支える人材の確保を経営戦略の中で重要な位置づけとして、新卒採用経験ゼロの企業から採用人数100名を超える企業まで幅広く支援するサービスです",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内の経営環境は、国内採用市場の縮小、労働力人口の減少、DXの台頭による産業構造の変化等、日々変化しており、成長を支える人材の確保は経営戦略の中でますます重要な位置づけとなってきております",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "最新の新卒採用サービスのトレンドを踏まえて、柔軟に連携する採用サービス媒体(マイナビやofferbox等)を増やす事で、採用手段に固執せずに貴社の採用目標達成に導きます",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "採用サイトでの集客により3名のエンジニアを採用",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "専門学校開拓をして、専門学校から10名以上の紹介採用獲得",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Instagram・Youtubeを中心としたSNS採用戦略を立案・実行",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "SNS経由で0円で5名の保育士新卒採用を実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用支援コンサルティングは、採用媒体や紹介会社頼みの採用活動から脱却し、高止まりする採用コストの削減と応募者増の両立を実現するサービスであり、「事業戦略を実現できる人材の採用」と「理想とする組織の実現」を目的としています",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "採用媒体・人材紹介会社にかけるコストが膨大になっている",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "国内採用マーケットの縮小、労働力人口の減少、DXの台頭による産業構造の変化等、国内の経営環境は日々変化しています",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "脱採用媒体・人材紹介をキーワードに自社メディア主体の採用に切り替え（採用コストを半年以下に）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "SNS採用にて新しい手法で５名の採用を実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "自社採用情報サイトやSNSを活用した採用に切り替えて、3年間採用コストは0円で50名採用を実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "ターゲット別の採用戦略を策定後、スタッフ採用は求人特化型検索エンジンを活用し、責任者はスカウト型採用を活用して採用実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "パート・アルバイト採用はターゲットを明確にした求人広告の選定＆活用や、SNSや口コミを活用した採用手法の導入、",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "求人掲載や紹介手数料の負担を軽減しつつ、効果的な採用を実現する方法を模索したい",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "（求人検索エンジン、ハローワーク、SNS活用など）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "特にSNSや口コミを活用することで、企業の魅力を伝え、より多くの応募を獲得する",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "─脱媒体・人材紹介をキーワードに自社メディア主体の採用に切り替え（採用コストを半年以下に）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "─SNS採用にて新しい手法で５名の採用を実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "─自社採用サイトやSNSを活用した採用に切り替えて、３年間採用コストは０円で５０名採用を実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "─ターゲット別の採用戦略を策定後、スタッフ採用は求人特化型検索エンジンを活用し、責任者はスカウト型採用を活用して採用実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "その3：漠然とした啓発ではなく、すぐ使える実践的ノウハウをセミナーで紹介",
+    "url": "https://www.funaisoken.co.jp/seminar",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/seminar",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "『100億企業のつくり方』（2025年）プレジデント社、 『データ・生成AI活用で業界平均の3～5倍の収益性を実現するCRMカンパニー』（2024年）『地域コングロマリット経営』（2023年）同文舘出版、『士業の業績革新マニュアル』（2015年）ダイヤモンド社等、多数の書籍を執筆",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "専門分野は「生産財流通」「生産財マーケティング」「営業DX」「SFA導入」「マーケティング・オートメーション導入」",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "主な著書に「技術のある会社がなぜか儲からない本当の理由」（KADOKAWA）、「なぜこの会社には1ヶ月で700件の引き合いがあったのか？」（KADAKAWA）、「必ず売れる！生産財営業の法則100」（同文舘出版）、他、著作は優に10冊を超える",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "現在はDX支援本部にてこれまでの経験を活かしてITコンサルティングを行っている",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所入社後は、デジタル変革（DX）のコンサルティングを専門とし、CRM・SFA・MAおよび基幹システムの導入・運用に従事",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "OMO(Online merges with Offline)を“いつでもどこでも企業と顧客が繋がり続けること”と定義するなど、DX戦略を分かりやすく解説し、概念の提示で終わらず具体的なアクションに繋げる提案に定評がある",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "最近では、国内と越境を融合させた越境オムニチャネル戦略を提唱し、訪日外国人の集客を起点とした越境ECなどのビジネスモデルに関するコンサルティングを展開している",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "業界は製造・卸売・小売・サービス・建設等、テーマも経営戦略からマーケティング・マネジメント、さらにはAI・IoT・DX・ロボット化と多様に経験",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "更には今後の事業展開や新規事業の立ち上げ、DX（デジタルトランスフォーメーション）導入についても、日々のコンサルティングに基づく具体的内容をお伝えします",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "前編【経営者・品質管理者向け】品質管理DX 品質向上を実現するデータ活用手法",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "中堅・100億企業創出セミナー “NEXT STAGE VISIONARY'S CLUB”",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "【11/5共催ウェビナー】ナレッジ管理の新手法「KCS」を担うシステムの理想形～CRM＆FAQ連携の実践とは～",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "第2回 東京ミニッシュ紹介セミナー及び企業説明会",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "当フォームは弊社のコンサルティング・商品・サービス・DM・メルマガ等をご利用いただいているお客様専用のフォームです",
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "「新規事業開発・M&A、資金調達・補助金、ガバナンス・IPO、DX・人的資本経営」",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業への成長を加速するための成長戦略として、属人的なマネジメントの変革や業務効率化・データ活用など、様々な経営課題の解決策となるDXの必要性と具体的な変革の道筋が掴めます",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "時流②：DXからAX（AIトランスフォーメーション）へ",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "具体的に取り組むべき内容の事例を簡潔にご紹介",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "時流②：DXからAX（AIトランスフォーメーション）へ",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "具体的に取り組むべき内容の事例を簡潔にご紹介",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "100億企業化 DX戦略",
+    "url": "https://www.funaisoken.co.jp/seminar/category",
+    "pass": 1
+   },
+   {
+    "quote": "経営者様に役立つ実践的なノウハウや成功事例をセミナーでご紹介しています",
+    "url": "https://www.funaisoken.co.jp/seminar/category",
+    "pass": 1
+   },
+   {
+    "quote": "本ソリューションでは、自家消費型太陽光・NonFITの野立て発電所の販売を実施するために、法人需要家を集客するための仕組みづくりをお手伝いしております",
+    "url": "https://www.funaisoken.co.jp/industry_theme/environment",
+    "pass": 1
+   },
+   {
+    "quote": "本ソリューションでは、土地を1件でも多く仕込むために、営業・集客方法を全てパッケージ化して展開させていただきます",
+    "url": "https://www.funaisoken.co.jp/industry_theme/environment",
+    "pass": 1
+   },
+   {
+    "quote": "1、FIP制度の概要/2、FIP転が注目されている理由/3、FIP転の集客につい…",
+    "url": "https://www.funaisoken.co.jp/industry_theme/environment",
+    "pass": 1
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "の業種・テーマ別経営研究会が主宰され、",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは業種・業態ごとの深い専門知見を活かし、事業戦略と連動した人材採用コンセプトの設計、求職者ジャーニーマップの設計、そして具体的な求人票策定や各種採用オウンドメディアのディレクション、求人広告運用代行（indeed等）など、戦略の立案に留まらず人事機能の代行まで企業の事業加速成長を総合的に支援します",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "その後WEB広告で詳細のターゲティングを実施して採用年齢層を１０歳ほど下げることを実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "パート・アルバイト採用はターゲットを明確にした求人広告の選定＆活用や、SNSや口コミを活用した採用手法の導入、",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "求人掲載や紹介手数料の負担を軽減しつつ、効果的な採用を実現する方法を模索したい",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "─ターゲットに最適な求人媒体を選定し、求人広告の内容を最適化",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "その後WEB広告で詳細のターゲティングを実施して年齢層を１０歳ほど下げることを実現",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数7,286名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを962名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "（１）ウェブ広告運用代行及びコンテンツ制作・ウェブサイト運営",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は、広告・印刷業界のコンサルタントとして、 クライアントのブランディング、商品企画～営業強化にいたるまで 幅広い領域をサポートしてきた",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "その経験を活かし、持続的成長に向けた課題を見える化する「ビジネスモデル診断」の開発、高収益なビジネスモデル作りを目的とした経営者研究会「企業価値向上益経営フォーラム」を主宰している",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、現場コンサルティング活動や経営研究会などで、常に最新の時流情報を得ています",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを900名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "※会員価格は、各種経営研究会・経営フォーラム、および社長onlineプレミアムプラン（旧：FUNAIメンバーズPlus）にご入会中のお客様のお申込みに適用となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "※受講票は、弊社にて受講料のお支払いが確認でき次第のご案内となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "即時決済のため、お申し込みのお手続き完了と同時に受講料のお支払いも完了となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "尚、ご返金手続きに伴う振込手数料はお客様負担となりますので、予めご了承ください",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "※弊社にて、受講料のお支払いが確認でき次第のご案内となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを900名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "WEB広告運用代行コンサルティング｜船井総合研究所",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "WEB広告運用代行コンサルティングは、単なる広告管理にとどまらず、中小企業の経営戦略に直結した集客最大化を狙う成果コミット型サービスです",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "WEB広告のブラックボックス化やノウハウ不足に悩む経営者に対し、各業界のビジネスモデルに最適な広告戦略をご提案します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "WEB・SNS広告運用代行コンサルティングとは",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告市場で多くの企業が悩む「広告費の無駄遣い」や「コンバージョン率の低迷」といった課題を解決し、費用対効果の最大化を実現するサービスです",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "単なる広告運用代行に留まらず、広告主様の売上向上と利益最大化にこだわり、KPIやカスタマージャーニーの策定、Webサイト分析・改善提案、クリエイティブ制作、そして運用までをワンストップで提供し、企業のビジネス目標達成を総合的にサポートします",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "WEB・SNS広告にとどまらず、一気通貫の集客サポートを提供しております",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研では事業の目標に合わせて最適な方法を、Web広告の運用はもちろん、それ以外の範囲も含めて目標達成をサポートさせていただいております",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "代理店から「広告効果は良い」と言われていますが、実際の売上は上がらず困っています",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "Web広告で成果を創出するためには、下記10個のポイントを網羅的に実施することが重要です",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "目標と過去実績のギャップを元に今後の広告戦略の方針を作ります",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "費用対効果が高い広告媒体に予算を重点的に使い効果的な運用を実現します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "過去データ、顧客理解をもとに広告を届ける対象を仕分けします",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "広告以外の成功事例を参考にさらなる成果改善を目指します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "効果的な広告チャネルに追加投資、新媒体挑戦でビジネスの成長を促進します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "WEB広告の課題を正しく捉えて、解決を実現すると共に業績アップのご提案を行います",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研は単なる「Web広告代理店」「制作会社」ではありません",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "広告主様の利益最大化を重視し、総合的に提案する「Webマーケター」としてサポートします",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "各広告のCPAだけを見て良し悪しを判断するのではなく、「全体売上」や「KGI」指標も加味した分析・改善提案をおこないます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "約1,700の広告アカウントを毎月運用・管理しており、業界は住宅不動産や士業、医療、自動車、製造業などToC向け、ToB向け問わず多岐にわたります",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "それらの実績をもとに反響の出やすい広告配信を実現します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "広告運用から、サイト、LP制作も可能です",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "広告運用フェーズで実施した3C分析や、成果に繋がったデータも踏まえてWebサイトやLPを作成します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "リスティング、ディスプレイ、動画、SNS広告を活用し、あらゆるタッチポイントでの顧客とのコミュニケーション戦略を作り売上",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "広告のコスト配分を見直し店舗誘導数を増やすご提案とともに、Google広告のAIをフル活用しランドセルの店舗誘導数を昨対比",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "経営研究会(業種別テーマ別勉強会) 一覧｜船井総合研究所",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "【業種別・テーマ別経営者勉強会】経営研究会 新着一覧",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "経営者5,000名以上が集まる研究会全国大会（経営戦略セミナー）",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "【初回限定】ほぼ全ての研究会にて無料お試し参加が可能です",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "10億企業化経営研究会",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "社労士事務所経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "公的制度支援経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "障害年金経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング実績と特徴",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング実績と特徴",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "1．各種会員制サービスの登録の確認やサービスを提供する為",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "─採用実績や立地を考慮し、重学校を決めて訪問する",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用支援コンサルティングご支援実績（一例）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研では業種・業態・規模問わず、様々な新卒採用支援コンサルティングの実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "リブランディングに伴い採用ツールを一新し、昨対200%以上の実績",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用支援コンサルティングご支援実績（一例）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用コンサルティングでは業種・業態・規模問わず、様々な実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研では業種・業態・規模問わず、様々なハイクラス採用支援の実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/vi-highclass-recruitment_705_S010",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研では業種・業態・規模問わず、様々なパートアルバイト採用支援の実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/seminar",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,236社（2025年実績）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数7,286名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "（2025年実績）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "法律事務所向けのコンサルティングに従事し、業界を代表する事務所・士業グループを多数輩出",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "メガバンクシンクタンクにて、全社戦略、グループ組織構造改革他のコンサルティングプロジェクトに従事",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "また、同社経営戦略グループ（戦略コンサルタント30名超）の統括責任者としてプロジェクト推進・品質管理他も行う",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "2022年に船井総研に入社し、事業イノベーション支援部にて主に中堅企業へのコンサルティング提案を実施しており、組織再編、内部統制・ガバナンスの知見を活かした、グループ経営に係る事業・組織構造の改革支援を得意とする",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所に入社以来、様々な業種・規模のクライアントに対し、経営戦略/中経営計画の策定、ビジネスモデルの再構築、新規事業開発をサポートし、これまでの累計担当社数は300を超える",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業から大手企業まで各種コンサルティングに従事した後、船井総研のノウハウを活かした戦略構築から実行までを通して支援する特別部署「地域ブランド創造チーム」を創設し、現在は「パブリックセクター支援室」の責任者を務める",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "パブリックセクター関連事業はオールラウンドで対応可能であるが、最も得意とするのは5万人以下の中小自治体地域のブランド化支援及び中央省庁のPMO事業",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "入社以来、市場調査、HD化、ビジネスデューデリジェンス、新規事業開発など多岐に渡るテーマのコンサルティングに従事し、累計担当PJ数は100社以上にのぼる",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研グループの基幹システム開発プロジェクト、船井総研デジタルの管理会計制度設計、リスクマネジメント業務に携わる",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "実績を評価され2022年からZohoプレミアムパートナーに認定を受ける",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "財務コンサルタントとして支援先のキャッシュフロー改善、資金調達枠拡大、支援実績多数有する",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、ファシリテーターが複数名必要になるグループワーク研修などの場合は、参加人数が増えれば、料金が高くなることがあります",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング実績と特徴",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "1．各種会員制サービスの登録の確認やサービスを提供する為",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング実績と特徴",
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "した、船井総研が推し進める100億企業化®プロジェクトの活動実績を元に",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "貴社の事業ドメイン拡張に向けた新たな視点を提供します",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・会員価格：36,000円（税込 39,600円）/1名様",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・会員価格：40,000円（税込 44,000円）/1名様",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "※会員価格は、各種経営研究会・経営フォーラム、および社長onlineプレミアムプラン（旧：FUNAIメンバーズPlus）にご入会中のお客様のお申込みに適用となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/seminar/category",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング実績と特徴",
+    "url": "https://www.funaisoken.co.jp/seminar/category",
+    "pass": 1
+   },
+   {
+    "quote": "目標と過去実績のギャップを元に今後の広告戦略の方針を作ります",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "それらの実績をもとに反響の出やすい広告配信を実現します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研では業種・業態・規模問わず、幅広いサポート実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "複数の広告媒体での運用に加え、商圏人口が少ないエリアでのWEBシェアを安定的に獲得",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、歯科クリニック様でリスティング・動画広告を活用し「コミュニケーション戦略」を再設計したことで売上が200%UPした事例や、法律事務所様でWeb経由の問合せが160%UPした実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "総合園芸業界での事例では、商品選定と適切な広告配信を行うことで、広告費に対する売上効果（ROAS）1,000%を安定的にクリアした実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物処理業に対する長年のコンサルティング実績を基に、サーキュラーエコノミーへの参入を支援できるということが私たちの特長となります",
+    "url": "https://www.funaisoken.co.jp/solution/vi-circular_economy_703_S043",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "(※）グループ総計2025年12月時点",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "100を超える経営研究会、5,000人を超える会員企業の経営者が一堂に会する「研究会全国大会」として開催しています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本セミナーは研究会会員ではない経営者の皆様にもご参加いただけます",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/record",
+    "pass": 1
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "TOKYO PRO Marketの新規上場がグロース市場の2倍に―「100億円時代」に経営者が選ぶべきIPOルートとは",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用専任の担当者がおらず社長自ら採用活動を行っている企業様であっても、各種採用ツールの制作や採用イベントの企画、採用選考フローの立案を代行させていただく事で、ゼロからの採用体制構築～採用目標達成～次年度引継ぎまでを徹底フォローいたします",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "長期インターンシップを立ち上げて学生時代から雇用する体制を構築",
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "2021年より業種横断型の総合コンサルティングを担うアカウントパートナー室にて中堅・大手企業向けソリューションの立ち上げを行い、現在の100億企業化プロジェクトと地域コングロマリット経営の礎を築く",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "法律部門責任者経て「中堅企業向けコンサルティングサービス部門」の立ち上げに参画し、現在、100億企業化プロジェクト責任者",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所では弁護士、会計士、社労士、司法書士といった士業向けコンサルティングの立ち上げメンバーとして参画",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業の「サステナグロース」の実現に向けて日々コンサルティングを実施中",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "新卒で入社以来、10年以上にわたり経営コンサルティングに注力し全国で新規事業立ち上げや業績アップ支援を実施",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "自らが現場の中に入り込み、その実状に適した企業活性化や組織強化を得意としており、経営改善、事業計画、資本政策、財務改善、営業強化、現業強化、管理強化、人材強化、採用、育成、Ｍ＆Ａ、新事業立ち上げまで幅広い領域をカバー",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "更には今後の事業展開や新規事業の立ち上げ、DX（デジタルトランスフォーメーション）導入についても、日々のコンサルティングに基づく具体的内容をお伝えします",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "「100億企業化プロジェクト」を立ち上げ、",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業の具体的な立ち上げ方、100億企業を目指す「地域コングロマリット経営®」の全容と多角化のパターンを理解できます",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "サステナグローススクエア TOKYO(八重洲)",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "初期設定からターゲット選定、成約率の改善、運用調整まで一貫支援し、最小限の投資で効果的な集客と持続的な売上向上を目指します",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ（EC）を立ち上げましたが、なかなか売上が伸びません",
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 舩井幸雄が始めた船井総合研究所の伝統的なイベントです",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "いかなる状況下でも業績を伸ばし、持続的に向上できる「強さ」と、より広範なステークホルダーを思いやれる「優しさ」を兼ね備えた企業を「サステナグロースカンパニー」と定義しています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "2014年7月に持株会社体制に移行）は、創業56年の経験と、様々な業種や経営課題に対して専門性を持つ1,000名（※）を超えるコンサルタントによって、個社に合わせた戦略の策定と実行を支援します",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所は創業来、経営者に寄り添うことに重きを置き、中核的価値観の1つに「Empathy～経営者に伴走しよう～」を掲げ、クライアント企業の業績向上・価値向上と、経営者の想いや期待に応えることを心がけています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略セミナーは創業者である舩井幸雄がスタートし、開催90回を超える船井総合研究所を代表する伝統的なイベントです",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "サステナグロースカンパニーアワードは船井総研ホールディングスが主催する企業表彰です",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "これは、創業者・故船井幸雄の遺志を継ぎ、社会に著しい貢献が期待できる法人や団体、および個人の健全な発展を支援し、社会の進展に寄与することを目指すものです",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "企業視察を手掛ける船井総合研究所の中でも特別な視察が「サステナグロースカンパニー視察セミナー」です",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "•採用活動の初期段階で、学生との接点を増やすためにも、Instagramは有効なツールです",
+    "url": "https://www.funaisoken.co.jp/solution/insta-hire_702_S010",
+    "pass": 1
+   },
+   {
+    "quote": "当社は最初のヒアリングから実際の補助金の受給まで一気通貫してサポートを行います",
+    "url": "https://hojokin.funaisoken.co.jp/pages/price",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、将来的な「売上30億円・100名体制」そして「事業会社化（分社化）」や海外拠点立ち上げを見据えた、いわば【第二創業期のコアメンバー】の増員募集です",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "現在、当部門は売上30億円・100名体制に向けた「第2創業期・事業会社化」のフェーズにあります",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "早期にチームマネジメントや新規事業の立ち上げを経験できるポストが豊富にあります",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "「サステナグロースカンパニーをもっと」というパーパスのもと、約25名チームで構成されています",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "【広告運用MGR】AI検索最適化支援を実現する広告サービスの立ち上げ",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロから自社で試行錯誤するよりも、業界内の成功事例をショートカットで取り入れられる点は間違いなく価値があります",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "この評判は主に、創業者の船井幸雄氏が晩年にスピリチュアルな活動に傾倒したことに起因しています",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "組織も300名を超え、グロース上場を経験",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "グループの創業は1970年3月で、株式会社日本マーケティングセンターとして始まりました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には、DXコンサルティングに特化したDX支援本部を立ち上げました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ創業50周年を機に見直され、ADVENTURESHIP、EMPATHY、INTEGRITYにまとめられました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "その最初の立ち上がりを支えるのが、中途入社者向けのオンボーディングです",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研（船井総合研究所）は、1970年創業の歴史を持ち、東証プライム市場へ上場している国内でも知名度の高い経営コンサルティンググループです",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルティングを軸に創業から50年以上にわたり事業を広げてきた実績に加えて、現在では、人材、サプライチェーン、FAS、海外展開支援などへ領域を広げています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "として創業以来、累計10000人以上の転職支援実績があります",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業50年以上の実績を誇る、東証プライム上場の経営コンサルティンググループ",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研は、1970年創業の歴史を持つ、国内でも知名度の高い経営コンサルティンググループです",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場で得た知見を全社的に共有しやすいため、独力でゼロから積み上げるだけでなく、組織知を活かして成長しやすい環境です",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社ムービンは、1996年に日本初のコンサル業界特化型転職エージェントとして創業以来、累計10000人以上の転職支援実績があり、また毎年大手コンサル各社の年間入社支援実績数No.1を誇っています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年12月25日（創業：1996年）",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所 グロース市場(421A)",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "1996年創業、転職支援実績No.1、圧倒的にコンサル転職に強いエージェント「ムービン」が選ばれる理由",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在はAX・DXコンサルティングの拡大やM&Aを通じた専門ファーム連合体の構築に取り組み、顧客企業のサステナグロースカンパニー化を推進しています",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "1970年創業",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初は株式会社日本マーケティングセンターとして設立され、日本独自の経営「者」コンサルティングの提供を開始しました",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、時代の変化とともに業態を進化させながら、経営者の熱い想いに寄り添う実践的なコ...",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長グループCEOの中谷貴之氏は、成長性と収益性に加え持続性を兼ね備えた「サステナグロースカンパニー」を増やし日本を元気にする覚悟を示しています",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "■サステナグロースカンパニーアワード（SGCA）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "グループパーパスにある「サステナグロースカンパニー」と呼べる優良中堅企業を選定・表彰する制度で、2010年に開始した「グレートカンパニーアワード」を名称変更したものです",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "社長online事業とは？事業立ち上げの経緯",
+    "url": "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "pass": 3
+   },
+   {
+    "quote": "事業立ち上げ前と立ち上げ後、そして今グロースさせているタイミングで、それぞれ業務は変わってきています",
+    "url": "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げに至るまでのキャリアについて",
+    "url": "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "の業種・テーマ別経営研究会が主宰され、",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます",
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,236社（2025年実績）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数7,286名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを962名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "月次支援コンサルティング（ソリューションコンサルティング）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "月次支援は、経営者が考えるミッション・経営戦略の達成や確実な成果に結びつけるための、現場主義を主軸とした顧問契約型の実行支援の経営コンサルティングサービスです",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "『100億企業のつくり方』（2025年）プレジデント社、 『データ・生成AI活用で業界平均の3～5倍の収益性を実現するCRMカンパニー』（2024年）『地域コングロマリット経営』（2023年）同文舘出版、『士業の業績革新マニュアル』（2015年）ダイヤモンド社等、多数の書籍を執筆",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "その経験を活かし、持続的成長に向けた課題を見える化する「ビジネスモデル診断」の開発、高収益なビジネスモデル作りを目的とした経営者研究会「企業価値向上益経営フォーラム」を主宰している",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "現に、お客様主催の海外視察セミナーに、講師として同行し、現地およびバス内での解説を担当することもございます",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、現場コンサルティング活動や経営研究会などで、常に最新の時流情報を得ています",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます",
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "当フォームは弊社のコンサルティング・商品・サービス・DM・メルマガ等をご利用いただいているお客様専用のフォームです",
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを900名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "※会員価格は、各種経営研究会・経営フォーラム、および社長onlineプレミアムプラン（旧：FUNAIメンバーズPlus）にご入会中のお客様のお申込みに適用となります",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "キャンセル期日以降の有料セミナーのお取り消しの場合はご",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「ＤＸ（デジタルトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・全体で205の経営研究会が主宰され、入会者数6,944名と国内最大級のコンサルティング実績を誇る",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・各業種・テーマに精通した専門コンサルタントを900名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "経営研究会(業種別テーマ別勉強会) 一覧｜船井総合研究所",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "【業種別・テーマ別経営者勉強会】経営研究会 新着一覧",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "経営者5,000名以上が集まる研究会全国大会（経営戦略セミナー）",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "【初回限定】ほぼ全ての研究会にて無料お試し参加が可能です",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "10億企業化経営研究会",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "社労士事務所経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "公的制度支援経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "障害年金経営研究会《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "士業向け国際業務経営研究会 《無料お試し参加受付中》",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "100を超える経営研究会、5,000人を超える会員企業の経営者が一堂に会する「研究会全国大会」として開催しています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本セミナーは研究会会員ではない経営者の皆様にもご参加いただけます",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "企業視察を手掛ける船井総合研究所の中でも特別な視察が「サステナグロースカンパニー視察セミナー」です",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所の企業視察のエキスパートたちが経営者の皆様に、未来を知りビジョンを高めていただくために、今訪れるべき企業・組織を世界中から厳選しています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "また、海外視察セミナーは日本の同業種の視察とは根本的に見方が異なります",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "言語も文化も異なる海外での視察は、一つ一つの細かいポイントを「見る」ことも重要ですが、参加者である経営者自身が「感じた」ものを理解～整理し、これから3～10年先自社がどういう方向を目指すのか、そのヒントやひらめきを得るための貴重な機会となっています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "成長企業が顧問税理士を変えるべきタイミング ～セミナー特選講演録～",
+    "url": "https://www.funaisoken.co.jp/record",
+    "pass": 1
+   },
+   {
+    "quote": "お付き合いの主なスタイルとしましては、毎月ご訪問させていただく「月次支援型」と一定期間内で調査・分析からご提案までを行う「プロジェクト型」の2種類がございます",
+    "url": "https://www.funaisoken.co.jp/form/consulting?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "・中堅企業のニーズに対応したテーマ型研究会の拡充",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "月次支援型の料金（月額30万円〜）",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研の主力サービスは、コンサルタントが月1回〜数回訪問し、経営課題に対するアドバイスを行う月次支援型です",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "月次支援型では、担当コンサルタントが1人アサインされ、月に1回1〜2時間程度の訪問で経営指標の確認、改善施策の提案、実行のモニタリングを行います",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研が全国規模で展開する「経営研究会」は、同業種の経営者が集まり、ベストプラクティスを共有する勉強会型のサービスです",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "料金は月額3,000円〜15,000円程度で、月次支援と比べると圧倒的に安価です",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "研究会では、業界動向のレポート、成功企業の事例共有、参加企業同士の情報交換が行われます",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "同業者のリアルな数字や打ち手を知れる点は価値がありますが、自社の個別課題に対する具体的なアドバイスは研究会だけでは得られません",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研のビジネスモデル上、研究会はコンサルティング契約への導線として位置づけられている側面もあります",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "参加後に月次支援型の提案を受けるケースは多く、この構造自体は悪いことではありませんが、理解した上で参加する方が冷静な判断ができます",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "無料のものから数万円の有料セミナーまで幅があります",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "無料セミナーは業界トレンドや成功事例の紹介が中心で、参加者リストの獲得を目的としたマーケティング施策としての性質が強いです",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "有料セミナーは特定のテーマに絞った実務的な内容が多く、1回あたり数千円〜5万円程度で提供されています",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研の月次支援は、月1回1〜2時間の訪問が標準です",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研の月次支援型は、月1回の訪問で改善策を提案し、翌月に進捗を確認するサイクルです",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "研究会は同業者の成功事例やベンチマークデータを低コストで入手できる場として一定の価値があります",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、研究会で得た情報を自社の施策に落とし込み、実行する主体は自社です",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "情報収集の手段としては有効ですが、自社の個別課題への具体的な解決策を求めるなら、月次支援型か他の形態を検討すべきです",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.eyez.jp/admlp/",
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "法人及び事業の売却・買収のコンサルティングを提供いたします",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "親会社は、東証プライム市場に上場する船井総研ホールディングスです",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "銀行や会計事務所といった出資母体を持たない独立系である点も、同社の特色です",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業を対象とする日本最大級の経営コンサルティング会社で、親会社は東証プライム市場に上場する船井総研ホールディングスです",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "持株会社体制への移行のため、株式会社船井総合研究所分割準備会社（現連結子会社",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研ロジ株式会社（現株式会社船井総研サプライチェーンコンサルティング）を完全子会社化（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社プロシードを完全子会社化（2026年１月に株式会社船井総合研究所と吸収合併）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＨＲ Ｆｏｒｃｅを設立（2026年１月に株式会社船井総研ヒューマンキャピタルコンサルティングに商号変更）(現連結子会社)",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "新和コンピュータサービス株式会社を完全子会社化（2022年７月に株式会社船井総研コーポレートリレーションズと吸収合併）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総合研究所が成長戦略株式会社を完全子会社化（2025年４月に株式会社船井総合研究所と吸収合併）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総研ＦＡＳ分割準備会社（現連結子会社",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "アルマ・クリエイション株式会社を完全子会社化（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アパレルウェブを完全子会社化（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、同社子会社であるＡＷＳＧ Ｐｔｅ．Ｌｔｄ．を完全子会社化（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＭＩコンサルティングを完全子会社化（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "Funai Consulting India Private Limitedを設立（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "３ 特定子会社であります",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度中に新たに連結子会社となりました",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "中国（上海）に船井（上海）商務信息咨詢有限公司を設立（現:連結子会社）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新和コンピュータサービス(株)を完全子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)船井総合研究所が成長戦略(株)を完全子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルマ・クリエイション(株)を完全子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "pass": 3
+   },
+   {
+    "quote": "、株主還元として",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "6月29日：新和コンピュータサービスを完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "、アルマ・クリエイションを完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "7月：MIコンサルティングを完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所(9757)、船井総研ロジを子会社化へ",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD(9757)、コンサルティング業のプロシードを子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aニュース 船井総研ホールディングスが新和コンピュータサービスを子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD、アルマ・クリエイションを買収へ",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD、子会社の船井総合研究所と孫会社の成長戦略を合併｜M&Aニュース｜M&A･事業承継なら日本M&Aセンター",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD、子会社の船井総合研究所と孫会社の成長戦略を合併",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "子会社である株式会社船井総合研究所（東京都中央区）と、船井総研HDの孫会社であり、船井総合研究所の連結子会社である成長戦略株式会社（東京都中央区）の",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "トライアルホールディングス、子会社のRetail AIから会社分割により事業の承継などを発表",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "うかいが恵比寿のフレンチレストラン「マッシュルーム」運営の山岡商事を子会社化へ",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD、デジタルマーケティング事業などのアパレルウェブを買収",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総研ホールディングス（9757、以下：船井総研HD）は、株式会社アパレルウェブ（東京都中央区）の株式を取得し、4月30日付で完全子会社化することとした",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD、アルマ・クリエイションを買収へ",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研ホールディングス、連結子会社間で吸収合併へ",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総研ホールディングス（9757）は、連結子会社である株式会社船井総合研究所（大阪府大阪市）と株式会社船井総研デジタル（大阪府大阪市）、株式会社船井総研ITソリューションズ（東京都千代田区）の3社を合併する方針を決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "合併とは？買収との違い、種類、メリット、デメリット、手続き、注意点を解説",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "買収とは？合併やM&Aとの違い、種類、プロセスを解説",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "買収は、企業の成長や事業承継の手法として広く活用されています",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、買収と合併、M&Aの違いをはじめ、買収の種類やプロセスをわかりやすく解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のポイント買収とは、対象企業の事業や経営権を取得することで、「事業買収」と「企業買収」に分けられる",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "買収には「友好的買収」と「同意なき買収」があり、一般的に中小",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、代表的なM&Aスキームである株式譲渡や会社分割、事業譲渡、株式交換のほか、第三者割当増資、合併について解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "主な手続きは取締役会の決議、合併契約の締結、債権者保護手続き、株主総会の決議などが含まれる",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aは大きく分けて「合併」と「買収」の2種類に分けられますが、新設合併は、組織再編を目的とする合併手法のひとつです",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "大日本印刷が完全子会社のDNPデジタルソリューションズを吸収…",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイテクトが完全子会社のジェイテクトエンジニアリングを吸収…",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "大日本印刷が子会社DNPプランニングネットワークの営業部門を…",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "大日本塗料が神東塗料を株式交換で完全子会社化へ",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "4 株主還元",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "無形固定資産 661 727 +66 グループインした子会社ののれんが増加",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）株主還元方針",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "クライアントの売上高100億円に向けた最速ロードマップを提案し、まるで経営者の一員のように実行・急成長をリードします",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研は、中小企業の売上高100億円超えを支援する「100億企業化プロジェクト」を推進し、過去5年で売上高100億を達成する企業が300社を突破しました",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "企業の持続的な成長には、高い成長性（対前年売上高成長率）と収益性（営業利益率）を維持し続けることが重要です",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "S396 L 平均営業利益",
+    "url": "https://www.funaisoken.co.jp/images/original/img-chart2025.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "中小企業を中堅企業へ育てる100億企業化の支援では、売上高100億円に向けたロードマップの策定から実現までを担います",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所の経営コンサルティング業務は、持株会社の2025年12月期決算では経営コンサルティング事業のセグメントに含まれます",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントの売上高は244億7,100万円で前期比9.4%増、営業利益は83億6,900万円で同11.5%増となりました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "同じセグメントには、中国の現地法人や船井総研あがたFASなど、グループ会社の業績も含まれます",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、住宅不動産業界向けと医療介護福祉業界向けのコンサルティング部門が売上高を伸ばしました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、神戸大学大学院経営学研究科とは、売上高100億円企業への成長を左右する要因を探る共同研究を行いました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "同期の連結業績は売上高333.3億円（前期比8.8％増）、営業利益88.1億円（同5.9％増）と",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "主力の経営コンサルティング事業でも、月次支援の契約単価の上昇や経営研究会の会員数の増加によって増収増益となり、人的資本の強化に向けた人財投資も積極的に進められています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2028年度に売上高460億円",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "・2028年度に営業利益115億円",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "・2028年度に従業員1人あたり売上高23百万円",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "(注)１ 主要な事業の内容欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "９ ㈱船井総合研究所については、売上高（連結会社相互間の内部売上高を除く",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "）の連結売上高に占める割合が10％を超えております",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "については、売上高（連結会社相互間の内部売上高を除く",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上高比率8割超",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "quote": "山本：当社は中堅・中小企業向けのコンサルティングを中心に展開してきましたが、そうした企業の売上高100億円超えを支援する「100億企業化プロジェクト」に注力しています",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の営業利益",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "pass": 3
+   },
+   {
+    "quote": "【数値計画】売上高460億円、ROE30%への挑戦",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "売上高460億円、営業利益115億円",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "事業はグループ売上高200",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "※売上、営業利益、従業員数、ROE、総還元性向は2025年12月末時点",
+    "url": "https://hd.funaisoken.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 売上高・営業利益とも第1四半期の過去最高業績を達成",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 主力の経営コンサルティング事業およびロジスティクス事業が売上高・利益とも2桁成長",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 四半期純利益の減少は、五反田オフィス売却に伴う特別損失によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ コンサルタント数は前年同期比3.5%増、従業員1人当たり売上高は前年同期比12.3％増",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 過去最高業績の更新となる売上高330億円、営業利益89億円を計画",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高および営業利益は、経営コンサルティング事業およびロジスティクス事業が好調に推移し、ともに２桁成長",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "四半期純利益の減少は、五反田オフィス売却に伴う特別損失2,155百万円を計上したこと等によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 6,970 100.0 7,775 100.0 +11.6",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益 2,076 29.8 2,307 29.7 +11.1",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 2,069 29.7 2,321 29.9 +12.2",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "四半期純利益 1,501 21.5 79 1.0 -94.7",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※四半期純利益の減少は、五反田オフィス売却に伴う特別損失によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※四半期純利益の減少は、五反田オフィス売却に伴う特別損",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり売上高（千円）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり営業利益（千円）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1人当たり売上高・営業利益の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルティング事業は、月次支援と経営研究会が好調に推移し増収増益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）セグメント別経営成績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※数値は船井総合研究所のDXコンサルティング売上高",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グロースクラウドZoho導入企業数（累計）DXコンサルティング売上高の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "‐下請け型の受託案件の縮小に伴い減収するものの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業セグメントに区分予定2024 1Q 2025 1Q",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、一部大型クライアントの広告予算縮小に伴い減収",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高い収益性は維持しつつ、2025年はグループ売上高330億円、営業利益89億円を計画",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■2023年～2025年度 売上高及び営業利益の実績と計画",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の船井総研ホールディングス連結では、売上333.3億円、営業利益88.1億円、営業利益率26.4%",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研ホールディングスの2025年連結営業利益率は26.4%で、営業キャッシュフローは79.0億円でした",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "一方、営業利益率は29.20%から28.15%へ低下し、販管費は前年同期比で約34.8%増えています",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを提供した後に残る粗利が改善しても、採用、教育、管理、組織統合、ITなどの費用がそれ以上に増えれば、最終的な営業利益率は下がります",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研グループは、中堅・中小企業の各種経営課題（売上高拡大、新規事業開発、出店戦略など）の解決を支援するコンサルティング企業グループです",
+    "url": "https://workspace.google.com/blog/ja/customer-stories/funai-soken-maximizes-the-value-of-consulting-services-with-ai",
+    "pass": 3
+   },
+   {
+    "quote": "２ 全社(共通)は、特定のセグメントに区分できない従業員であります",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総研ホールディングスを解剖する｜売上333億円・5期連続増収増益",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "法人及び事業の売却・買収のコンサルティングを提供いたします",
+    "url": "https://www.funaisoken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成功事例からは、異業種M&Aによる事業多角化ノウハウ、M&A後の企業文化統合や人材採用への相乗効果まで具体的に学べます",
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "pass": 1
+   },
+   {
+    "quote": "日本で磨いたビジネスモデルを世界へ！目標から逆算し、出店・組織・財務を統合した海外進出の成長ロードマップを解説",
+    "url": "https://www.funaisoken.co.jp/lp/overseas-reports?media=news",
+    "pass": 1
+   },
+   {
+    "quote": "船井総研グループ 統合レポート2026",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "採用マーケティングツール「Recruiting Cloud」を刷新した次世代プラットフォームで、広告手数料の撤廃や採用・定着データの統合によるLTV最大化を目指すサービスです",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研ロジ株式会社（現株式会社船井総研サプライチェーンコンサルティング）の株式一部売却により連結の範囲から除外",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所及び大阪証券取引所市場第一部に指定される（2013年７月 現物市場統合に伴い大阪証券取引所市場第一部は東京証券取引所市場第一部に統合）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "業務終了時には、その日の振り返りやフィードバックをし、終業しています",
+    "url": "https://www.wantedly.com/companies/fsdg/post_articles/894865",
+    "pass": 3
+   },
+   {
+    "quote": "インターン開始直後と終了する時で、",
+    "url": "https://www.wantedly.com/companies/fsdg/post_articles/894865",
+    "pass": 3
+   },
+   {
+    "quote": "オフィス統合を機にグループシナジーを育みたい",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、成功する合併には戦略的な計画と文化の統合が欠かせません",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のポイント企業の合併は、2つ以上の企業が統合し新しい法人を形成することを指す",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、代表的なM&Aスキームである株式譲渡や会社分割、事業譲渡、株式交換のほか、第三者割当増資、合併について解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 四半期純利益の減少は、五反田オフィス売却に伴う特別損失によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "四半期純利益の減少は、五反田オフィス売却に伴う特別損失2,155百万円を計上したこと等によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※四半期純利益の減少は、五反田オフィス売却に伴う特別損失によるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期において淀屋橋オフィス売却による特別利益3,155百万円の計上等を見込んでおります",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※四半期純利益の減少は、五反田オフィス売却に伴う特別損",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期において淀屋橋オフィス売却による",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産 6,507 4,438 ▲2,068 五反田オフィス売却により、土地と建物及び構築物が減少",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "五反田オフィスの売却により、有形固定資産が減少",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティングのノウハウを統合することで、経営戦略策定から高度",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは予告なく公開終了となる場合がございます",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「船井総研グループ 統合レポート 2024」",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを提供した後に残る粗利が改善しても、採用、教育、管理、組織統合、ITなどの費用がそれ以上に増えれば、最終的な営業利益率は下がります",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "作業員がタブレットから作業の開始 / 終了ボタンを押すだけで、作業工程ごとの時間（工数）がデータで保存されるしくみです",
+    "url": "https://workspace.google.com/blog/ja/customer-stories/funai-soken-maximizes-the-value-of-consulting-services-with-ai",
+    "pass": 3
+   },
+   {
+    "quote": "例えば一旦ご契約期間が終了したとしても、何か困ったことが起きたときに、必ず連絡をしていただけます",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "・年間コンサルティング契約社数：6,236社（2025年実績）",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "・年間セミナー開催数1,500件超、セミナー参加者は25,000名超",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所に入社以来、様々な業種・規模のクライアントに対し、経営戦略/中経営計画の策定、ビジネスモデルの再構築、新規事業開発をサポートし、これまでの累計担当社数は300を超える",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "手掛けたコンサルティング社数は、優に400社を超える",
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "・年間セミナー開催数1,500件超、セミナー参加者は30,000名超",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "pass": 1
+   },
+   {
+    "quote": "セミナーのお申込み内容を変更したい（参加者変更／人数変更／支払方法の変更）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・年間コンサルティング契約社数：6,286社（2024年実績）",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "・年間セミナー開催数1,500件超、セミナー参加者は30,000名超",
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "pass": 1
+   },
+   {
+    "quote": "参加者が自らの体験や事例を語り、共有し、お互いを高めあう【師と友づくり】の場として、リアルもしくはオンラインで全国から多くの経営者にご参加いただいています",
+    "url": "https://www.funaisoken.co.jp/industry_theme/environment",
+    "pass": 1
+   },
+   {
+    "quote": "参加者にとっては生の声を聞くことで、最新の成功事例をキャッチアップし、今後の取り組みのヒントを得る機会となります",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "100を超える経営研究会、5,000人を超える会員企業の経営者が一堂に会する「研究会全国大会」として開催しています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "言語も文化も異なる海外での視察は、一つ一つの細かいポイントを「見る」ことも重要ですが、参加者である経営者自身が「感じた」ものを理解～整理し、これから3～10年先自社がどういう方向を目指すのか、そのヒントやひらめきを得るための貴重な機会となっています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "無料セミナーは業界トレンドや成功事例の紹介が中心で、参加者リストの獲得を目的としたマーケティング施策としての性質が強いです",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント個人の収入を最大化するインセンティブは「担当社数を増やすこと」に向かいます",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研グループの経営研究会は、日本最大級の会員数を誇ります",
+    "url": "https://recruit.funaisoken.co.jp/pages/about-data",
+    "pass": 3
+   },
+   {
+    "quote": "【動画】人的資本経営コンサルティングPV 【船井総研】 - YouTube",
+    "url": "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "pass": 3
+   },
+   {
+    "quote": "【動画】人的資本経営コンサルティングPV 【船井総研】",
+    "url": "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 2030人",
+    "url": "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "pass": 3
+   },
+   {
+    "quote": "支援は月次支援と経営研究会を両輪に組み立てており、年間のコンサルティング契約社数は2025年実績で6,236社に上ります",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネスの中核である経営研究会は、会員数が過去最高を更新しました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "業種・テーマ別の専門コンサルタントが月次支援と経営研究会を両輪で動かし、2025年の年間コンサルティング契約社数は6,236社でした",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の経営コンサルティング事業でも、月次支援の契約単価の上昇や経営研究会の会員数の増加によって増収増益となり、人的資本の強化に向けた人財投資も積極的に進められています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間コンサルティング契約社数は6,286社（2024年実績）",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、年間コンサルティング契約社数は6,286社にのぼり、豊富な支援実績をもとに提案できる点も大きな魅力の1つといえます",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "「中堅・中堅企業化・ライジングスター企業を中心とした総合Xコンサルティンググループ」を目指し、AX・DXコンサルティングの拡大や経営研究会の会員数10,000会員達成を重点施策として推進します",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "・2028年度に経営研究会会員数10,000会員",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "Funai Consulting India Pvt. Ltd.（注）２、５",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 5.99万人",
+    "url": "https://www.youtube.com/watch?v=Vbw7eYz4dB8",
+    "pass": 3
+   },
+   {
+    "quote": "後日、録画視聴用のURLを参加者限定で配布予定です",
+    "url": "https://www.iflag.co.jp/business_seikotsu/funai/seminar",
+    "pass": 3
+   },
+   {
+    "quote": "■ 経営研究会は会員数・月単価ともに過去最高を更新、前年同期比23.0％増",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 月次支援は社数・単価ともに順調に伸長、前年同期比9.1%増",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営セミナー 開催件数および参加者数の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※グループ全社の有料経営セミナー開催数および参加者数実績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※グループ全社の経営研究会会員数および研究会数実績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2）経営コンサルティング事業における業績動向 ＝コンサルティング社数＝",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※数値は、経営コンサルティング事業（船井総合研究所、プロシード、船井（上海）、成長戦略、船井総研あがたFAS、アルマ・クリエイション）における月別コンサルティング社数実績（延べ社数・グループ内取引除く）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グロースクラウドZoho導入企業数（累計）DXコンサルティング売上高の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※数値はグループ全体のグロースクラウド（Zohoプロダクト）累計導入企業数",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・物流企業向けコンサルティングは、経営研究会会員数も",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2025年3月末時点経営研究会会員数：374会員",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "研究会数：213",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員数 ：7,512名",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加者数：27,521名「経営者」との直接接点から生み出される価値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は年間コンサルティング顧客6,236社、経営研究会会員7,286名、セミナー1,500回超、参加者2.5万人超とされています",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "最大の売上源である月次支援で、一人のコンサルタントがより多くの顧客状況を把握し、判断の質を保ったまま支援できる社数を増やせるか",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、提案候補が実際に使われ、品質を保ったまま一人が支援できる社数や、顧客の実行速度が改善するかを見ます",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "年間のクライアント社数は5,678社（2019年度実績）",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "参加者が自らの体験や事例を語り、共有し、",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "として、全国から多くの会員企業の経営者にご参加いただいています",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "設立：2013年11月28日",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 舩井幸雄が始めた船井総合研究所の伝統的なイベントです",
+    "url": "https://www.funaisoken.co.jp/study",
+    "pass": 1
+   },
+   {
+    "quote": "2014年7月に持株会社体制に移行）は、創業56年の経験と、様々な業種や経営課題に対して専門性を持つ1,000名（※）を超えるコンサルタントによって、個社に合わせた戦略の策定と実行を支援します",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "船井総合研究所は創業来、経営者に寄り添うことに重きを置き、中核的価値観の1つに「Empathy～経営者に伴走しよう～」を掲げ、クライアント企業の業績向上・価値向上と、経営者の想いや期待に応えることを心がけています",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "経営戦略セミナーは創業者である舩井幸雄がスタートし、開催90回を超える船井総合研究所を代表する伝統的なイベントです",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "これは、創業者・故船井幸雄の遺志を継ぎ、社会に著しい貢献が期待できる法人や団体、および個人の健全な発展を支援し、社会の進展に寄与することを目指すものです",
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "pass": 1
+   },
+   {
+    "quote": "本レポートでは、船井総合研究所が新たにリリースしたAIエージェント・プラットフォーム「PRIME」の全貌と、業績に直結する活用例を大公開します",
+    "url": "https://www.funaisoken.co.jp/lp/primedl?oshirase-area",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、将来的な「売上30億円・100名体制」そして「事業会社化（分社化）」や海外拠点立ち上げを見据えた、いわば【第二創業期のコアメンバー】の増員募集です",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "現在、当部門は売上30億円・100名体制に向けた「第2創業期・事業会社化」のフェーズにあります",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "この評判は主に、創業者の船井幸雄氏が晩年にスピリチュアルな活動に傾倒したことに起因しています",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "2013年設立",
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "pass": 3
+   },
+   {
+    "quote": "表の設立日は、いまの船井総合研究所という法人のものです",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "グループの創業は1970年3月で、株式会社日本マーケティングセンターとして始まりました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ創業50周年を機に見直され、ADVENTURESHIP、EMPATHY、INTEGRITYにまとめられました",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研（船井総合研究所）は、1970年創業の歴史を持ち、東証プライム市場へ上場している国内でも知名度の高い経営コンサルティンググループです",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルティングを軸に創業から50年以上にわたり事業を広げてきた実績に加えて、現在では、人材、サプライチェーン、FAS、海外展開支援などへ領域を広げています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "として創業以来、累計10000人以上の転職支援実績があります",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業50年以上の実績を誇る、東証プライム上場の経営コンサルティンググループ",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研は、1970年創業の歴史を持つ、国内でも知名度の高い経営コンサルティンググループです",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社ムービンは、1996年に日本初のコンサル業界特化型転職エージェントとして創業以来、累計10000人以上の転職支援実績があり、また毎年大手コンサル各社の年間入社支援実績数No.1を誇っています",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年12月25日（創業：1996年）",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "1996年創業、転職支援実績No.1、圧倒的にコンサル転職に強いエージェント「ムービン」が選ばれる理由",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "1970年創業",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初は株式会社日本マーケティングセンターとして設立され、日本独自の経営「者」コンサルティングの提供を開始しました",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研グループは、1970年3月6日に舩井幸雄氏が株式会社日本マーケティングセンターを設立したことに始まります",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、時代の変化とともに業態を進化させながら、経営者の熱い想いに寄り添う実践的なコ...",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "インドに設立したGCCである船井総研インディアを開発核とし、最先端のAI技術と...",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営の総合診断を主業務として株式会社日本マーケティングセンター(現株式会社船井総研ホールディングス 資本金1,000千円)を設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "経営者のための経営戦略研究会として会員制組織コスモスクラブ設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "関東地区の業務拡張のため東京事務所(東京都港区)を開設",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋、福岡等の各主要都市に地域の経営者のための経営研究会として地域フナイクラブ設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井ファイナンス株式会社(船井キャピタル株式会社)を設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井情報システムズを設立(2014年７月に株式会社船井総研ＩＴソリューションズに商号変更)",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研ロジ株式会社を設立（2026年１月に株式会社船井総研サプライチェーンコンサルティングに商号変更）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "2022年７月に新和コンピュータサービス株式会社を吸収合併し、株式会社船井総研デジタルに商号変更）を設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＨＲ Ｆｏｒｃｅを設立（2026年１月に株式会社船井総研ヒューマンキャピタルコンサルティングに商号変更）(現連結子会社)",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "2025年１月にあがたグローバルコンサルティング株式会社と合弁会社化により、株式会社船井総研あがたＦＡＳに商号変更）を設立",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "Funai Consulting India Private Limitedを設立（現連結子会社）",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジー×リノベーションで創業者が描く中古住宅業界の変革絵図",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総研ホールディングス（HD）は、船井幸雄氏によって1970年に創業された日本の中小企業コンサルティングの草分け的存在です",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "山本：創業者が残した考え方の一つに「力相応一番主義」があります",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "これは創業者の教えで、手書きのお手紙を書くこと、さらには便箋や切手の選び方などに手間や時間をかけることが相手に対する思いやりだという発想です",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "また、創業者の書籍や手書き原稿を展示する「ファウンダールーム」も設けました",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "三幸製菓が渋谷オフィス「Canvas」を開設、新拠点から加速する共創と挑戦",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "中国（上海）に船井（上海）商務信息咨詢有限公司を設立（現:連結子会社）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1970年に株式会社船井総合研究所として創業して以来、中堅・中小企業の業績向上にコミットする経営コンサルティングを中心に事業を拡大してきました",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "創業者・舩井幸雄が大切にしてきた顧客第一のスピリットや現場主義は、現在のパーパスやこの『Funai Way』という理念体系へと脈々と受け継がれています",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "9月：経営者のための経営戦略研究会として会員制組織「コスモスクラブ」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2月：船井情報システムズ（後の船井総研ITソリューションズ）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2012年1月：中国に船井（上海）商務信息咨詢有限公司を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2月：HR Forceを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "1月：あがたグローバルコンサルティングと合弁で船井総研あがたFASを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "11月：Funai Consulting India Private Limitedを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 HD、あがたグローバル経営グループと合弁会社設立を基本合意",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "』（PDF）（プレスリリース）船井総研ホールディングス、2024年11月25日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "』（PDF）（プレスリリース）船井総研ホールディングス、2025年7月31日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "1970年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のポイント新設合併は、複数の企業が合併し新たな法人を設立する手法で、コスト削減や生産性向上を目的とする",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HDとJAIC、ファンド事業を行うキャピタル会社を合弁で設立することに合意",
+    "url": "https://hd.funaisoken.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、創業以来「良い会社とは何か」を考え、追求してきました",
+    "url": "https://hd.funaisoken.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "料金表 - 船井総合研究所 補助金サポートPRO — 料金表 - 船井総合研究所 補助金サポートPRO 船井総合研究所 https://hojokin.funaisoken.co.jp > pages > price",
+    "url": "https://hojokin.funaisoken.co.jp/pages/price",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 ｜アカウントプランナー（広告代理店事業） — 船井総研 ｜アカウントプランナー（広告代理店事業） OpenWork https://www.openwork.jp > recruit",
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 のコンサル料と評判は？料金・費用対効果を専門家が ... — 船井総研 のコンサル料と評判は？料金・費用対効果を専門家が ... マネディク https://service.manadic.com > column",
+    "url": "https://service.manadic.com/column/131",
+    "pass": 3
+   },
+   {
+    "quote": "広告費に頼らない「紹介・リピート経営」への転換戦略 — 広告費に頼らない「紹介・リピート経営」への転換戦略 船井総合研究所 https://www.funaisoken.co.jp > 経営セミナー一覧",
+    "url": "https://www.funaisoken.co.jp/seminar/143258",
+    "pass": 3
+   },
+   {
+    "quote": "SNS広告代理店「株式会社 船井総合研究所 」とは — SNS広告代理店「株式会社 船井総合研究所 」とは sns-ad-navi.com https://www.sns-ad-navi.com > ad-agency > funaisoken",
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で知る 船井総研 — 数字で知る 船井総研 船井総合研究所 https://recruit.funaisoken.co.jp > 船井総研を知る",
+    "url": "https://recruit.funaisoken.co.jp/pages/about-data",
+    "pass": 3
+   },
+   {
+    "quote": "【動画】人的資本経営コンサルティング PV 【 船井総研 】 — 【動画】人的資本経営コンサルティング PV 【 船井総研 】 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 とは？転職前に知りたい事業内容・働き方 ... — 船井総合研究所 とは？転職前に知りたい事業内容・働き方 ... ステラキャリアズ https://stellar-careers.com > Industry knowledge",
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 （ 船井総研 ）とはどんな会社？特徴・年収・評判 — 船井総合研究所 （ 船井総研 ）とはどんな会社？特徴・年収・評判 movin.co.jp https://www.movin.co.jp > firmlist > funai > description",
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 ホールディングス【9757】のストーリー・沿革 — 船井総研 ホールディングス【9757】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/9757/story",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 の新規事業！社長onlineの事業責任者に インタビュー — 船井総研 の新規事業！社長onlineの事業責任者に インタビュー 船井総合研究所 https://recruit.funaisoken.co.jp > リクシップ",
+    "url": "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 船井総合研究所 | インタビュー | 注目企業紹介 — 株式会社 船井総合研究所 | インタビュー | 注目企業紹介 axc.ne.jp https://www.axc.ne.jp > interview > funaisoken",
+    "url": "https://www.axc.ne.jp/introduction/interview/funaisoken/001/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 船井総研 サプライチェーン ... — 業界毎特集記事－株式会社 船井総研 サプライチェーン ... 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 HD「サステナグローススクエア TOKYO」に見る ... — 船井総研 HD「サステナグローススクエア TOKYO」に見る ... HOWHERE https://howhere.jp > articles > funaisoken",
+    "url": "https://howhere.jp/articles/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "AI検索時代にやっておくべき SEO 対策・LLMO対策 - 船井総研 — AI検索時代にやっておくべき SEO 対策・LLMO対策 - 船井総研 船井総合研究所 https://www.funaisoken.co.jp > vi-seo-llmo_709_S099",
+    "url": "https://www.funaisoken.co.jp/solution/vi-seo-llmo_709_S099",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 の WEB 集客セミナー に参加してきた - YouTube — 船井総研 の WEB 集客セミナー に参加してきた - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Vbw7eYz4dB8",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 登壇｜整骨院向けAI時代のWEB 集客セミナー 【無料】 — 船井総研 登壇｜整骨院向けAI時代のWEB 集客セミナー 【無料】 株式会社アイフラッグ https://www.iflag.co.jp > EPARK接骨・鍼灸 > 船井総研",
+    "url": "https://www.iflag.co.jp/business_seikotsu/funai/seminar",
+    "pass": 3
+   },
+   {
+    "quote": "財務・業績ハイライト - 船井総研ホールディングス — 財務・業績ハイライト - 船井総研ホールディングス Funai Soken Holdings https://hd.funaisoken.co.jp > IR情報",
+    "url": "https://hd.funaisoken.co.jp/pages/ir-highlight",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 船井総研 ホールディングスの会社概要 | マイナビ2028 — (株) 船井総研 ホールディングスの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp285519 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 船井総研 ホールディングス】[9757]決算発表や業務・財務情報 — 【 船井総研 ホールディングス】[9757]決算発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 ホールディングスとは何の会社？事業内容・グループ ... — 船井総研 ホールディングスとは何の会社？事業内容・グループ ... funaima.com https://funaima.com > 会社を知る[Company]",
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ 船井総合研究所 — 会社概要｜ 船井総合研究所 船井総合研究所 https://www.funaisoken.co.jp > info > company",
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 ホールディングス - Wikipedia — 船井総研 ホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 船井総研ホールディングス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "子会社の 船井総合研究所 と孫会社の成長戦略を合併 — 子会社の 船井総合研究所 と孫会社の成長戦略を合併 日本M&Aセンター https://www.nihon-ma.co.jp > ... > M&Aニュース",
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 ホールディングス | Funai Soken Holdings — 船井総研 ホールディングス | Funai Soken Holdings Funai Soken Holdings https://hd.funaisoken.co.jp",
+    "url": "https://hd.funaisoken.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "客 単価 1000万円の大規模リフォームと建て替えが売れる！ — 客 単価 1000万円の大規模リフォームと建て替えが売れる！ 船井総合研究所 https://www.funaisoken.co.jp > 経営セミナー一覧",
+    "url": "https://www.funaisoken.co.jp/seminar/131157",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 はなぜ高収益なのか？研究会と月次支援が回す ... — 船井総合研究所 はなぜ高収益なのか？研究会と月次支援が回す ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "pass": 3
+   },
+   {
+    "quote": "【失敗しない】あなたの会社に合う事業の選び方 - 船井総研 — 【失敗しない】あなたの会社に合う事業の選び方 - 船井総研 船井総合研究所 https://www.funaisoken.co.jp > 動画一覧",
+    "url": "https://www.funaisoken.co.jp/video/newbusiness-6eHxyMpTF7w",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 グループ: 社内の 97% が Gemini を活用 — 船井総研 グループ: 社内の 97% が Gemini を活用 Google Workspace https://workspace.google.com > blog > customer-stories",
+    "url": "https://workspace.google.com/blog/ja/customer-stories/funai-soken-maximizes-the-value-of-consulting-services-with-ai",
+    "pass": 3
+   },
+   {
+    "quote": "【無料】新規事業最前線レポート特集｜ 船井総合研究所 — 【無料】新規事業最前線レポート特集｜ 船井総合研究所 船井総合研究所 https://www.funaisoken.co.jp > newbusiness-frontline",
+    "url": "https://www.funaisoken.co.jp/lp/newbusiness-frontline",
+    "pass": 3
+   },
+   {
+    "quote": "外資コンサルとベンチャーを経て、私が6年ぶりに 船井総研 へ ... — 外資コンサルとベンチャーを経て、私が6年ぶりに 船井総研 へ ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/funai_recruit271/n/n5882d6611417",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "船井総研 とは（ 船井総合研究所 とは）｜社長online編集 ... - note 船井総研 とは（ 船井総合研究所 とは）｜社長online編集 ... - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 _採用アカウント - note 船井総合研究所 _採用アカウント - note note https://note.com > funai_recruit271",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 の人気・新着記事まとめ - note 船井総研 の人気・新着記事まとめ - note note https://note.com > tag > 船井総研",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "【公式データで解説】数字で見る 船井総研 グループ - note 【公式データで解説】数字で見る 船井総研 グループ - note note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "社長 online編集部＠ 船井総研 - note 社長 online編集部＠ 船井総研 - note note https://note.com > shacho_online",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "船井総研とは（船井総合研究所とは）｜社長online編集部＠船井総研",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向けビジネス情報を発信するメディア「社長Online」の運営母体は、東証一部上場の船井総研グループの経営コンサルティング事業会社である株式会社船井総合研究所（略称 船井総研）です。この記事では「社長Online」の運営母体である船井総研について解説してまいります。",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総合研究所（略称：船井総研）とは",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社船井総合研究所（ふないそうごうけんきゅうしょ）（略称は船井総研（ふないそうけん））は、大阪府大阪市中央区の",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "創業者は舩井幸雄。2005年に東証一部に上場。2014年7月に持株会社体制に移行した。2020年3月に6代目社長の真貝大介が就任。",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "年間のクライアント社数は5,678社（2019年度実績）。国内の中小・中堅企業を中心に、業種・テーマごとに特化したコンサルティングを展開している。",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの成長実行・人材開発・価値向上・デジタル化を現場に寄り添いながら、具体的に提案し、実行支援することが強み",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "である。クライアント企業の業種属性は、BtoCビジネスからBtoBビジネスまで幅広く「住宅・不動産」、「医療・介護・福祉」「士業」、「モビリティ」、「人材ビジネス」、「環境・エネルギー」、「AI・ロボット」、「飲食」「サービス」など、多岐にわたる。",
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】船井総研 中途採用ホームページはこちら",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "「売上を作れば給料は上がる？」船井総研の評価・昇格制度を人事の視点で語る",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "「経営経験のない自分が、社長に相談される理由」船井総研の若手が経営者から選ばれる3つの秘密",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "【DX人財】船井総研のDXコンサルティングとは？～SlerやSE・ITコンサルとの違い～",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "【中途採用担当人事インタビュー】船井総研の中途採用に聞く「船井総研の魅力と求める人物像」",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "【公式データで解説】数字で見る船井総研グループ",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル未経験でも活躍できる？異業種出身者が船井総研で飛躍できる5つの理由",
+    "url": "https://note.com/funai_recruit271",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのコンサルティングや経営哲学、独自のビジネスモデルを軸とした事業展開が特徴です。",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報や投資家による株主優待の報告、現場での実践的な知見に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのコンサルティングや経営哲学、独自のビジネスモデルを軸とした事業…",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "【投資実験】テクニカル分析 順張り実験3万円の投資、8週間で＋97.5円。次は「迷わず判断できるルール」へ",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研HD 株主優待変更 QUOカード終わり",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "丸三証券から優待をいただきました ありがとうございました 購入しようと思っていた銘柄があったけど",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】船井総合研究所 ケース面接対策100選｜中小・中堅企業の業績向上・業種別経営戦略・M&Aケースを徹底解説",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "🦎【9757】船井総研HDを優待改悪の直後に試しに買ってみた",
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "【公式データで解説】数字で見る船井総研グループ｜船井総合研究所_採用アカウント",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "【公式データで解説】数字で見る船井総研グループ",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！船井総研の中途採用チームです。",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "「コンサルティング業界に興味はあるけれど、実際の年収や労働環境はどうなのだろう？」",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "「船井総研グループって、中途採用で入社して本当に活躍できるの？」",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアの選択において、イメージではなく「客観的な事実（データ）」を知ることは非常に重要です。",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、船井総研グループが公式に開示している最新のデータ（2025年12月期決算および2026年3月時点のESGデータなど）をもとに、年収・働き方・成長性のリアルを数字で解剖します。",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "※グループ全体（一部船井総合研究所単体）の数字です",
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "pass": 3
+   },
+   {
+    "quote": "社長online編集部＠船井総研｜note",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   },
+   {
+    "quote": "社長onlineとは「日本全国のオーナー企業の、業績アップに貢献するメディア」",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の中途採用 注意すべき５つのポイントを動画で説明",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   },
+   {
+    "quote": "「日本一人口の少ない、売れない鳥取県」で毎年130％成長「狭い商圏で勝つ方法」",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   },
+   {
+    "quote": "９割が迷走するDX成功の鍵は「ボトルネックの解消」だ！",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   },
+   {
+    "quote": "成功するM&A、失敗するM&A３つのポイント",
+    "url": "https://note.com/shacho_online",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】 船井総合研究所 ｜中小企業の経営ノウハウ - X 【公式】 船井総合研究所 ｜中小企業の経営ノウハウ - X X https://x.com > funai_koho",
+    "url": "https://x.com/funai_koho",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 新卒採用 (@funai_recruit) / X 船井総合研究所 新卒採用 (@funai_recruit) / X X https://x.com > funai_recruit",
+    "url": "https://x.com/funai_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントコラム／船井総合研究研（ 船井総研 ） - X コンサルタントコラム／船井総合研究研（ 船井総研 ） - X X https://x.com > funai_seminar",
+    "url": "https://x.com/funai_seminar",
+    "pass": 3
+   },
+   {
+    "quote": "# 船井総合研究所 - Search / X # 船井総合研究所 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 船井総合研究所 - LinkedIn 株式会社 船井総合研究所 - LinkedIn LinkedIn https://jp.linkedin.com > company > funaisoken",
+    "url": "https://jp.linkedin.com/company/funaisoken",
+    "pass": 3
+   },
+   {
+    "quote": "吉田 創 - 株式会社 船井総合研究所 マネージングディレクター ... 吉田 創 - 株式会社 船井総合研究所 マネージングディレクター ... LinkedIn https://jp.linkedin.com > 創-吉田-8007b943",
+    "url": "https://jp.linkedin.com/in/%E5%89%B5-%E5%90%89%E7%94%B0-8007b943",
+    "pass": 3
+   },
+   {
+    "quote": "DAIKI IMAMURA - 株式会社 船井総合研究所 - LinkedIn DAIKI IMAMURA - 株式会社 船井総合研究所 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/daiki-imamura-89b93297",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "船井総合研究所 （ 船井総研 ） (@funaisoken) - Facebook 船井総合研究所 （ 船井総研 ） (@funaisoken) - Facebook Facebook https://www.facebook.com > funaisoken",
+    "url": "https://www.facebook.com/funaisoken/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研 寺院経営研究会 | Chuo-ku Tokyo - Facebook 船井総研 寺院経営研究会 | Chuo-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/temple.funai/",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所 （ 船井総研 ） 保険代理店経営研究会 - Facebook 船井総合研究所 （ 船井総研 ） 保険代理店経営研究会 - Facebook Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/hoken.keiei/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.funaisoken.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment_703_S010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-new-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-career-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-highclass-recruitment_705_S010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/info/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/request?media=hamburger",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/form/study_qa?media=top-telnumber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/official-enquire?media=top-telnumber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/seminar/category",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/industry_theme/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/dc-online-advertising_705_S099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-circular_economy_703_S043",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/info/first-time",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/record",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/primedl?oshirase-area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/overseas-reports?media=news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/form/consulting?media=hamburger",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/dl-contents/zeirishi-samurai271__00001783_S058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/solution-lp-dl?report=%E3%80%8E%E9%81%B8%E3%81%B0%E3%82%8C%E3%81%AA%E3%81%84%E4%BA%8B%E5%8B%99%E6%89%80%E3%80%8F%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%81%99%E3%82%8B%EF%BC%81%20%E7%A8%8E%E7%90%86%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%20%E6%8E%A1%E7%94%A8%EF%BC%86%E5%AE%9A%E7%9D%80%E6%88%A6%E7%95%A5&pdfurl=https://asset.funaisoken.ne.jp/official/dl-contents/zeirishi-samurai271/zeirishi-samurai271__00001783_S058.pdf&viewer=https://www.funaisoken.co.jp/report-viewer/zeirishi-samurai271__00001783_S058&siteno=S058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/insta-hire_702_S010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/lp/solution-lp-dl?report=%E3%80%90%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E3%80%91%E6%99%82%E6%B5%81%E4%BA%88%E6%B8%AC%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882025%EF%BD%9E%E5%85%A8%E6%A5%AD%E7%A8%AE%E5%90%91%E3%81%91%E3%80%80%E6%9C%80%E6%96%B0%E6%8E%A1%E7%94%A8%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%EF%BD%9E&pdfurl=https://asset.funaisoken.ne.jp/official/cw/jiryuyosoku-2025/hrd/enhance/jy-career-recruit_S010.pdf&viewer=https://www.funaisoken.co.jp/report-viewer/2025jy-career-recruit_S010&studyno=099215&siteno=S010",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.funaisoken.co.jp/images/original/vi-highclass-recruitment_705_S099_point1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/images/original/img-chart2025.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/images/original/alliance-dl_right.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/images/original/2026jy-realestate-intermediary_S104-lp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.funaisoken.co.jp/?storagekey=/images/instagram-ad_web-marketing_708_S099_mv/original_instagram-ad_web-marketing_708_S099_mv.jpg&w=400",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://asset.funaisoken.ne.jp/official/lp/media/shachoonline-animation.gif",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://hojokin.funaisoken.co.jp/pages/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.manadic.com/column/131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.funaisoken.co.jp/pages/about-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/9757/story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/fsdg/post_articles/894865",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axc.ne.jp/introduction/interview/funaisoken/001/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/6216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://howhere.jp/articles/funaisoken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Vbw7eYz4dB8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iflag.co.jp/business_seikotsu/funai/seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shacho_online/n/ne984987d4d97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/0731117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.funaisoken.co.jp/pages/about-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hd.funaisoken.co.jp/pages/ir-highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funaima.com/entry/company_about_funai-soken-hd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellar-careers.com/industry-knowledge/funai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hd.funaisoken.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lreach.jp/media/article011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gtminami/n/n3c4f7f261560",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workspace.google.com/blog/ja/customer-stories/funai-soken-maximizes-the-value-of-consulting-services-with-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/funai_recruit271/n/n5882d6611417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/funai_recruit271",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/funai_koho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/funai_recruit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/funai_seminar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/funaisoken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%89%B5-%E5%90%89%E7%94%B0-8007b943",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/daiki-imamura-89b93297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/funaisoken/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/temple.funai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hoken.keiei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shacho_online",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/funai_recruit271",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/funai_koho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/funaisoken/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "船井総合研究所 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://hojokin.funaisoken.co.jp/pages/price",
+    "https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516",
+    "https://service.manadic.com/column/131",
+    "https://www.funaisoken.co.jp/seminar/143258",
+    "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "https://www.funaisoken.co.jp/video/ec-P0lQYcu0p88",
+    "https://prtimes.jp/main/html/rd/p/000000104.000054075.html",
+    "https://it-trend.jp/dx_support/21486/price",
+    "https://ad-repo.com/blog/web_agent_price/",
+    "https://ja.wikipedia.org/wiki/船井総合研究所"
+   ]
+  },
+  {
+   "query": "船井総合研究所 PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://recruit.funaisoken.co.jp/pages/about-data",
+    "https://www.youtube.com/watch?v=cAmccnTqKeM",
+    "https://stellar-careers.com/industry-knowledge/funai/",
+    "https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html",
+    "https://kitaishihon.com/company/9757/story",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001r2pfB&qco=9",
+    "https://www.youtube.com/playlist?list=PL8VHNdHoeIsuhptmAwKI2K0BAgt6U66DW",
+    "https://www.wantedly.com/companies/fsdg/stories",
+    "https://funaima.com/entry/company_about_group-by-numbers",
+    "https://ja.wikipedia.org/wiki/船井総合研究所"
+   ]
+  },
+  {
+   "query": "船井総合研究所 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192",
+    "https://www.wantedly.com/companies/fsdg/post_articles/894865",
+    "https://www.axc.ne.jp/introduction/interview/funaisoken/001/index.html",
+    "https://shachomeikan.jp/industry_article/6216",
+    "https://howhere.jp/articles/funaisoken",
+    "https://www.movin.co.jp/firm/interview/interviewFunai1001.html",
+    "https://www.business-plus.net/special/1007/149301.shtml",
+    "https://www.youtube.com/watch?v=EiaLA69Lnlw",
+    "https://www.instagram.com/reel/DeSiG7hjTon/",
+    "https://ja.wikipedia.org/wiki/船井総合研究所"
+   ]
+  },
+  {
+   "query": "船井総合研究所 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://www.funaisoken.co.jp/solution/vi-seo-llmo_709_S099",
+    "https://www.youtube.com/watch?v=Vbw7eYz4dB8",
+    "https://www.iflag.co.jp/business_seikotsu/funai/seminar",
+    "https://note.com/shacho_online/n/ne984987d4d97",
+    "https://newscast.jp/news/0731117",
+    "https://www.funaisoken.co.jp/seminar/141552",
+    "https://www.sns-ad-navi.com/ad-agency/funaisoken.html",
+    "https://www.funaisoken.co.jp/video/ec-ANa10FQ2Wfg",
+    "https://www.youtube.com/watch?v=MxzDxHqK-B8",
+    "https://www.funaisoken.co.jp/seminar/067895"
+   ]
+  },
+  {
+   "query": "船井総合研究所 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://recruit.funaisoken.co.jp/pages/about-data",
+    "https://hd.funaisoken.co.jp/pages/ir-highlight",
+    "https://job.mynavi.jp/28/pc/search/corp285519/outline.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9757",
+    "https://funaima.com/entry/company_about_funai-soken-hd",
+    "https://my-vision.co.jp/consultant/general/firms/funai",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "https://kitaishihon.com/company/9757/story",
+    "https://gurafu.net/jpn/funai-soken-holdings",
+    "https://disclosure.catr.jp/companies/87a05/50235/tdnet/b56a4/662377"
+   ]
+  },
+  {
+   "query": "船井総合研究所 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://www.funaisoken.co.jp/info/company",
+    "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nihon-ma.co.jp/news/20241125_9757-6/",
+    "https://stellar-careers.com/industry-knowledge/funai/",
+    "https://hd.funaisoken.co.jp/",
+    "https://funaima.com/entry/company_about_funai-soken-hd",
+    "https://initial.inc/investors/V18105",
+    "https://www.first-time-ma.com/list/ma-funaisoken.html",
+    "https://www.wantedly.com/companies/company_1467267",
+    "https://ja.wikipedia.org/wiki/船井総合研究所"
+   ]
+  },
+  {
+   "query": "船井総合研究所 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://www.funaisoken.co.jp/seminar/131157",
+    "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250509536837.pdf",
+    "https://lreach.jp/media/article011",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0D&q_no=2",
+    "https://proseed.co.jp/documents/",
+    "https://en-hyouban.com/company/10200093257/kyujin/",
+    "https://my-vision.co.jp/consultant/general/firms/funai"
+   ]
+  },
+  {
+   "query": "船井総合研究所 note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://note.com/gtminami/n/n3c4f7f261560",
+    "https://www.funaisoken.co.jp/video/newbusiness-6eHxyMpTF7w",
+    "https://workspace.google.com/blog/ja/customer-stories/funai-soken-maximizes-the-value-of-consulting-services-with-ai",
+    "https://www.funaisoken.co.jp/lp/newbusiness-frontline",
+    "https://note.com/funai_recruit271/n/n5882d6611417",
+    "https://note.com/shacho_online/n/n179be9031937",
+    "https://shiningmaru.hatenablog.com/entry/2019/04/10/065658",
+    "https://tenshoku-base.com/funai-features/",
+    "https://www.wantedly.com/companies/fsdg/stories",
+    "https://teammanabe.hatenablog.com/entry/2023/12/31/063410"
+   ]
+  },
+  {
+   "query": "site:note.com 船井総合研究所",
+   "results": [
+    "https://note.com/shacho_online/n/n3c6a5b4e6de4",
+    "https://note.com/funai_recruit271",
+    "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "https://note.com/funai_recruit271/n/n74822ba625b0",
+    "https://note.com/funai_recruit271/n/n208c9cbc8d5b",
+    "https://note.com/hansoku_enquete/n/nf7258013dc0b",
+    "https://note.com/funai_recruit271/n/neebb30b83dfa",
+    "https://note.com/funai_recruit271/n/na7555ec1b967",
+    "https://note.com/tenshokunote24/n/n3322eac330c8",
+    "https://note.com/fond_dunlin7336/n/n9be5700d328a"
+   ]
+  },
+  {
+   "query": "site:x.com 船井総合研究所",
+   "results": [
+    "https://x.com/funai_koho",
+    "https://x.com/funai_recruit",
+    "https://x.com/funai_seminar",
+    "https://x.com/hashtag/%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://x.com/funai_koho/status/2028402433836360071",
+    "https://x.com/funai_koho/status/1996090868265361645",
+    "https://x.com/funai_koho/status/1936627705836867656",
+    "https://x.com/funai_koho/status/2113450337382342808",
+    "https://x.com/funai_koho/status/1994215945242648582",
+    "https://x.com/funaimonozukuri"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 船井総合研究所",
+   "results": [
+    "https://jp.linkedin.com/company/funaisoken",
+    "https://www.linkedin.com/company/funai-consulting",
+    "https://jp.linkedin.com/in/%E5%89%B5-%E5%90%89%E7%94%B0-8007b943",
+    "https://jp.linkedin.com/in/daiki-imamura-89b93297",
+    "https://jp.linkedin.com/company/funaisokenhd",
+    "https://jp.linkedin.com/in/%E7%A7%80%E5%8D%93-%E5%AE%AE%E4%BA%95-6195b341",
+    "https://jp.linkedin.com/posts/funaisoken_%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%A8%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E5%A5%B3%E6%80%A7%E6%B4%BB%E8%BA%8D%E6%8E%A8%E9%80%B2%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%88%E3%82%8B%E3%81%BC%E3%81%97%E8%AA%8D%E5%AE%9A%E6%9C%80%E9%AB%98%E4%BD%8D-activity-7389223289333772288-qzLQ",
+    "https://jp.linkedin.com/company/funai-hcc",
+    "https://jp.linkedin.com/in/%E5%BB%BA%E4%BA%BA-%E6%9E%97-5b998a233",
+    "https://jp.linkedin.com/in/大介-真貝-b93469134"
+   ]
+  },
+  {
+   "query": "site:facebook.com 船井総合研究所",
+   "results": [
+    "https://www.facebook.com/funaisoken/?locale=ja_JP",
+    "https://www.facebook.com/temple.funai/",
+    "https://www.facebook.com/funaidental/?locale=ja_JP",
+    "https://www.facebook.com/hoken.keiei/",
+    "https://www.facebook.com/funai.recruite.newgraduate/",
+    "https://www.facebook.com/shinkinken/",
+    "https://www.facebook.com/funaiinshoku/",
+    "https://www.facebook.com/animalhospitalmarketing/",
+    "https://www.facebook.com/funaisoken/posts/%E5%A4%A7%E9%98%AA%E6%9C%AC%E7%A4%BE%E7%A7%BB%E8%BB%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%8A%E3%82%88%E3%81%B3%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AF2026%E5%B9%B41%E6%9C%887%E6%97%A5%E6%B0%B4%E3%82%88%E3%82%8A%E5%A4%A7%E9%98%AA%E6%9C%AC%E7%A4%BE%E3%82%92jr%E5%A4%A7%E9%98%AA%E9%A7%85%E8%A5%BF%E5%8F%A3%E7%9B%B4%E7%B5%90%E3%81%AE%E3%82%A4%E3%83%8E%E3%82%B2%E3%83%BC%E3%83%88%E5%A4%A7%E9%98%AA%E3%81%B8%E7%A7%BB%E8%BB%A2%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/1460935089376028/",
+    "https://www.facebook.com/funai.syaroushi/"
+   ]
+  },
+  {
+   "query": "船井総合研究所 note 社長",
+   "results": [
+    "https://note.com/tag/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94",
+    "https://note.com/shacho_online",
+    "https://note.com/funai_recruit271",
+    "https://www.instagram.com/p/DbaOvwdGK4r/",
+    "https://note.com/fhc_pr/m/m57e16f68b632",
+    "https://note.com/shacho_online/m/m08df20c1a267/hashtag/3776",
+    "https://note.com/funaisoken",
+    "https://www.funaisoken.co.jp/",
+    "https://note.com/shacho_online/n/n6233157414b6",
+    "https://ja.wikipedia.org/wiki/中谷貴之"
+   ]
+  },
+  {
+   "query": "船井総合研究所 X 投稿",
+   "results": [
+    "https://x.com/funai_koho",
+    "https://hd.funaisoken.co.jp/",
+    "https://www.funaisoken.co.jp/video/new-career-recruitment-K-x-ZSh5nhU",
+    "https://www.facebook.com/funaisoken/?locale=ja_JP",
+    "https://syukatsu-kaigi.jp/companies/48689/experiences/entry_sheet",
+    "https://funaisoken.snar.jp/login.aspx",
+    "https://prtimes.jp/main/html/searchrlp/company_id/54075",
+    "https://freestyles.jp/%E8%88%B9%E4%BA%95%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AB%E4%BB%A3%E8%A1%A8%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE/",
+    "https://x.com/funai_koho/status/2118855961737646271",
+    "https://www.instagram.com/funai_soken/"
+   ]
+  }
+ ],
+ "missing": {}
+}

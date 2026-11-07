@@ -1,0 +1,1316 @@
+{
+ "name": "AINOW",
+ "aliases": [
+  "AINOW",
+  "ディップ"
+ ],
+ "context": "AI系メディア（親会社が人材）",
+ "researched_at": "2026-11-07T02:55:40.840943+00:00",
+ "official_url": "https://ainow.ai",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都文京区本郷6丁目25番14号",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都港区六本木3-2-1 六本木グランドタワー31F",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 佐藤 傑",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "label": "代表",
+    "value": "代表取締役社長 兼 CEO 冨田 英揮",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2024年2月",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1997年3月",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,967名（2019年4月1日現在の正社員）※契約・アルバイト･派遣社員除く",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "【2025年】無料AIイラスト作成アプリ・サイト6種を徹底比較！画像から生成するツールやアニメ風ツールもご紹介！",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Perplexityが「Pages」を発表 – 最強のAI記事ジェネレーター",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "GPT-4oはクレイジーだ―思わず言葉を失うような（信じられない）6つの使用例を紹介",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "DX（デジタルトランスフォーメーション）とは？ 定義・スキル・事例を解説",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "DX（デジタルトランスフォーメーション）特集",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "DXの目的を知ろう《初心者必読》｜IT化との違いから推進ステップまで解説",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "DXに必要な4つのスキル｜ DX人材の採用方法や書籍を紹介！",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIとUXデザインの融合｜エクスペリエンスデザイナーが描く未来のユーザー体験",
+    "url": "https://ainow.ai/category/ainoweditor/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模言語モデルでライターの頭の中を言語化する？｜ライティング支援ツール「Xaris」の挑戦",
+    "url": "https://ainow.ai/category/ainoweditor/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "DX推進や情シスの担当者ほど、候補選びで手が止まりやすいでしょう",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事では、おすすめの17ツールを汎用型・業務システム搭載型・業務特化型・ノーコード型・開発支援型に分けて紹介し、社内で使っているシステム別の早見表と、無料トライアルで見極める手順を解説します",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Copilot：Word・Excel・PowerPointで作業を代行する",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI Codex：ChatGPTのプランでコーディングを任せられる",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事で紹介する17ツールを、",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "統合後の画面は個人向けのPro・Maxプランから順に提供されています",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Word・Excel・PowerPointの中で複数ステップの作業を代行する",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月にWord・Excel・PowerPointのエージェント機能が正式提供となり、資料の下書きから表の分析、スライドの作成までをアプリ内で任せられます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentforceユーザーライセンスは1ユーザー月600円で、別途Flex Credits（10万クレジットで6万円、1アクションあたり20クレジット）が必要です",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "LayerXのバクラクは、",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "LLMアプリ、エージェント、ワークフロー、社内文書を検索して回答するRAGを画面上で組み立てられます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "無料のSandboxプランに加え、オープンソース版を自社サーバーで動かす方法もあります",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI Codexは、",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月に料金体系が刷新され、現在はFree・Pro（月20ドル）・Max（月200ドル）・Teams・Enterpriseの5つです",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Copilotなら、社員が毎日使うWord・Excel・PowerPointの中でエージェントを呼び出せます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "MicrosoftのCopilotは、質問に答えるチャット機能に加えて、Word・Excel・PowerPointで複数ステップの作業を実行するエージェント機能を備えています",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "開発向けにはOpenAI Codexも同じプランで使えます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアだけではなく、ビジネスパーソンもAIやDXの理解を深められるように、1300本以上のコラム記事やインタビュー記事を通し、基礎的な情報からテクニカルな情報まで幅広く発信しています",
+    "url": "https://www.wantedly.com/portfolio/projects/64805",
+    "pass": 3
+   },
+   {
+    "quote": "登録者数828万人を誇る元女子高生AI「りんな」がマイクロソフトから独立！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW YOUTUBE 780回視聴 6 年前",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "Relaxing Screensavers",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "TV Screensaver | Misty Autumn Pathway: 3 Hours of Relaxing Art for Fall Ambience",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "安野貴博の自由研究、勝間和代が徹底的にマニアックな話をするYouTube",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、対象読者別に厳選した7つのAI専門メディアを紹介し、それぞれの特徴や強みを詳しく解説します",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "AINOWは、AI/DXプロジェクトに関わる幅広い層向けに情報を発信しています",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "単なる技術紹介に留まらず、実際のビジネス活用時のコストや工数、効果まで踏み込んだ分析が特徴です",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "単なる紹介記事ではなく、実際のセットアップ手順、コード例、トラブルシューティングまで含んだ「すぐに使える」情報が特徴です",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "2. RSSフィードやニュースレターの活用",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "多くのメディアでは、RSSフィードやメールニュースレターを提供しています",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "TwitterやLinkedInで、各メディアの公式アカウントや編集者をフォローすることで、記事の公開と同時に情報を受け取れます",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "この記事で紹介した各メディアの情報は2025年8月時点のものです",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "第二弾「AINOW編集長おざけんさんインタビュー企画」～AIは脳でRPAは脊髄？？～ - YouTube",
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "pass": 3
+   },
+   {
+    "quote": "【絶対作るべき】AI猛者が自作している最強Skillsを5つご紹介させていただきます",
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "pass": 3
+   },
+   {
+    "quote": "｜亀田 重幸 | 長野でAIを活用してDXを推進する人",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "亀田 重幸 | 長野でAIを活用してDXを推進する人",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "そんなAI未経験の私を支えてリレーションを作ってくれた方をご紹介して感謝の気持ちを述べさせて頂きたいと思います",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "スクエニ本社の1階のタリーズでゲーム×AIの活用性について、雑談させて頂いたところからFINAL FANTASY XVの取材、CEDECやゲームAIに関する情報をたくさん共有頂きました、本当にありがとうございます",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "そして、現在何をしているかと言うと、営業のデジタルトランスフォーメーション（DX）推進をしています",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "の3事業を柱に、企業のAI活用を支援していることを紹介しています",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIで業務効率化するコツとしては、Claudeを活用した資料作成や図解生成ツール「Napkin AI」の併用、SlackとDifyやCozeを連携させた情報収集の自動化、そして「堅苦しく考えすぎず、思考回数を増やすこと」の重要性を紹介",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、従業員の心理的な抵抗感、地方・中小企業へのDXの浸透、海外製AIツールの導入障壁といった、AI導入における日本企業特有の課題についても詳しくお話ししています",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "、Codex 個別指導は",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、アルバイト・パート求人情報サイト「バイトル」、正社員・契約社員求人情報サイト「バイトルNEXT」、総合求人情報サイト「はたらこねっと」、看護師人材紹介サービス「ナースではたらこ」を通じ、求職者と求人企業双方にとって利便性の高いサービスを提供することで社会を改善する存在となる事を目指しています",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：求人情報サイト「バイトル」「バイトルNEXT」「はたらこねっと」などの運営、看護師転職支援サービス、FAST RPA「コボット」の開発・提供、他",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "集客コボット for SNS Booster",
+    "url": "https://www.dip-net.co.jp/service/ainow",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "DXに必要な4つのスキル｜ DX人材の採用方法や書籍を紹介！",
+    "url": "https://ainow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "研修は、1〜2時間で受講者が自社業務に使えるGPTs（カスタムチャットボット）を作れるレベルへの到達を目指す実践型であること、受託開発ではAIコーディングツールを活用して開発期間の短縮を図っていること、AI顧問サービスでは研修後の継続的なサポートやプロンプトの最適化支援を行っていることにも触れています",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "博報堂ＤＹグループの挑戦｜Human-Centered AI Institute が問うAIと人間の新しい関係性",
+    "url": "https://ainow.ai/category/ainoweditor/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "管理部門で成果が出れば、その実績を根拠に営業や開発など他部署への展開も提案しやすくなります",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "「外で有名になるのも大事だけど、実績がないと大人になって誇れるモノ無いよ」",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "それにプロダクトを作ることが好きでしょ？それなら、ほとんど成功していない営業ドメインでアナログをデジタルに変える挑戦してみたら？」",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "メディアの実績も大事だけど、確かにその通りだなと思いました",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能が収集する記事数は 1 万、人が執筆する独自取材記事も 100 を超え、特に業界各位の協力を得て作成する「AI サービスマップ」、「AI 研究室マップ」等の「業界地図レポート」が好評です",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "記者が AI 開発の現場や学界に直接取材",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "また、独自に企業やイベントを取材、記事化しており、掲載記事数は3万件を超えています",
+    "url": "https://www.dip-net.co.jp/service/ainow",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "AIエージェントの課金方式は、1ユーザーあたりの定額、使った分だけのクレジット課金、ワークフローの実行回数課金などに分かれます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub Copilotは2026年6月に全プランが従量課金へ移行するなど、課金方式そのものが変わる例もあります",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "課金単位を把握しておけば、稟議書に「月額の上限」と「超過時の扱い」をセットで書けるため、経理や上長からの質問にもすぐ答えられます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "気になるツールを見つけたら、次の種類別の解説で課金の仕組みまで確認してください",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterpriseは1席月20ドルに、API料金での従量課金が加わります（年払い・最低20席）",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月から全プランが従量課金に移行し、利用量はGitHub AI Credits（1クレジット0.01ドル）で計算されます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub Copilotが全プラン従量課金へ移行",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoftも、2026年12月からCSP経由で新規契約するCopilot Businessで従量課金が既定でオンになり、既定の上限は1ユーザーあたり月4,000クレジットと案内しています",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "導入時は、学習利用の初期設定、エージェントの権限、従量課金の上限を必ず確認してください",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "記事の質が高く、読み応えのある内容が多いことから、企業の記事広告メディアとしても活用されています",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "国産の業務システムでも、マネーフォワード クラウド会計Plusは入力データの学習利用を設定で切り替えられ、初期値は「許可する」です",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub Copilotは含まれるクレジットを超えた分も初期設定で利用できるため、上限を決めないと月末に想定外の請求が届きます",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "導入時は、学習利用の初期設定、エージェントの権限、従量課金の上限を必ず確認してください",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "ディップではビックデータ開発がお世辞にもうまくいっている訳ではなかったので、この状態でもAIを使えば解決するかもしれない！？という期待の基、様々なデータを集めてプロジェクトを立ち上げていました",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "AINOWはAIのキュレーションサイトとして、最小コスト、最速で始めるディップの新規事業らしい立ち上げ方を取りました",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "「AINOW」の立ち上げを支えてくれた4人の偉大な有識者",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "メディアを立ち上げた後はひたすら足を使って取材することを必死にやっていました",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "石井さんはサイト立ち上げの翌日にお問い合わせから、一緒に何か出来ないかと、相談頂いたのが出会いの始まりでした",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "AIについての行動力が半端なく、自分でイベントを立ち上げたり、全脳アーキテクチャへ参加して、著名な先生方とのコネクション形成など、尊敬するところしかありません",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "そして、既に立ち上げが出来ていたので、私のポジションでやる仕事ではないと判断し、隠居して、新たな挑戦と成長の場になるので新卒のおざけんに託しました",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本における少子高齢化に伴う労働力不足の深刻化とAI・RPA市場の拡大を受け、2019年4月、新たにAI・RPA事業部を立ち上げ、2019年9月には“誰でも・手軽に・すぐに”導入できることをコンセプトとしたFAST RPA「コボット」を開発・提供を開始しました",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "もともと「Claude Cowork」という名称で提供されていた機能で、2026年9月にClaude本体へ統合されました",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "統合後の画面は個人向けのPro・Maxプランから順に提供されています",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "社内に散らばる顧客データを統合し、商談準備をチャットで支援する",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   },
+   {
+    "quote": "Claude CoworkがClaude本体へ統合",
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "pass": 1
+   }
+  ],
+  "規模": [
+   {
+    "quote": "登録者数828万人を誇る元女子高生AI「りんな」がマイクロソフトから独立！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "登録者数828万人を誇る元女子高生AI「りんな」がマイクロソフトから独立！",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 508人",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 19.4万人",
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "pass": 3
+   },
+   {
+    "quote": "大澤くんと出会い、若手の会の広報をやりながら、参加者の皆さんとコネクションが深くなっていったのが印象深いです",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能が収集する記事数は 1 万、人が執筆する独自取材記事も 100 を超え、特に業界各位の協力を得て作成する「AI サービスマップ」、「AI 研究室マップ」等の「業界地図レポート」が好評です",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "2. 情報掲載数は 1 万件以上",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "また、独自に企業やイベントを取材、記事化しており、掲載記事数は3万件を超えています",
+    "url": "https://www.dip-net.co.jp/service/ainow",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "マイクロソフトから「りんな」が独立 ーrinna株式会社が設立",
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "pass": 3
+   },
+   {
+    "quote": "ITmedia AI+は、2024年3月に開設された比較的新しいメディアですが、アイティメディアの各専門メディア（@IT、EE Times Japanなど）との連携により、技術基盤からビジネス応用まで多面的な情報を提供しています",
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースは7月頭くらいに出したと思うけど、実際にサイトが完成したのは、顕彰旅行のハワイのホテルでした（笑）",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2024年2月",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "「人工知能をわかりやすく伝える」AINOW、開設1 周年 サイト名もAINOW「エーアイナウ」に、わかりやすく進化します！ | ディップ株式会社",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "「人工知能をわかりやすく伝える」AINOW、開設1 周年 サイト名もAINOW「エーアイナウ」に、わかりやすく進化します！",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ株式会社(本社:東京都港区、代表取締役社長 兼CEO:冨田英揮)は、人工知能キュレーションメディアの『AINOW』(http://ainow.ai/) の開設 1 周年を記念してサイト名を「アイノウ」から「エーアイナウ」に変更します",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "2016年には「dip AI.Lab」を設立",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "設立：1997年3月",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本最大級のAIメディアでライティングスキルとAIの知識を身 ... — 日本最大級のAIメディアでライティングスキルとAIの知識を身 ... AINOW https://ainow.ai > AINOW編集部",
+    "url": "https://ainow.ai/2022/01/28/255830/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初のAI専門メディア「 AINOW 」 - Wantedly — 日本初のAI専門メディア「 AINOW 」 - Wantedly Wantedly https://www.wantedly.com > portfolio > projects",
+    "url": "https://www.wantedly.com/portfolio/projects/64805",
+    "pass": 3
+   },
+   {
+    "quote": "第二弾「 AINOW編集長 おざけんさん インタビュー 企画」～AI ... — 第二弾「 AINOW編集長 おざけんさん インタビュー 企画」～AI ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "pass": 3
+   },
+   {
+    "quote": "予算1万円で始めたAIメディア「 AINOW 」の 編集長 を退任しま ... — 予算1万円で始めたAIメディア「 AINOW 」の 編集長 を退任しま ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW 副 編集長 が語るAIテクノロジー社会とメディアの役割 — AINOW 副 編集長 が語るAIテクノロジー社会とメディアの役割 AINOW https://ainow.ai > AINOW編集部 > インタビュー",
+    "url": "https://ainow.ai/2022/02/09/263111/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初のAI専門メディア「 AINOW 」は どのようにAIの変化を ... — 日本初のAI専門メディア「 AINOW 」は どのようにAIの変化を ... 映像情報メディア学会 PDF https://www.ite.or.jp > contents > venture",
+    "url": "https://www.ite.or.jp/contents/venture/2203venture.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI専門メディア「 AINOW 」にて代表・佐藤の インタビュー ... — AI専門メディア「 AINOW 」にて代表・佐藤の インタビュー ... 株式会社Uravation https://uravation.com > ニュース",
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル | AI専門ニュースメディア AINOW — コンサル | AI専門ニュースメディア AINOW AINOW https://ainow.ai > tag > consulting",
+    "url": "https://ainow.ai/tag/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "「人工知能をわかりやすく伝える」 AINOW 、開設1 周年 ... — 「人工知能をわかりやすく伝える」 AINOW 、開設1 周年 ... ディップ株式会社 https://www.dip-net.co.jp > ニュース",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW | ディップ 株式 会社 — AINOW | ディップ 株式 会社 ディップ株式会社 https://www.dip-net.co.jp > サービス",
+    "url": "https://www.dip-net.co.jp/service/ainow",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW - エーアイナウ (@dipainow) - Facebook — AINOW - エーアイナウ (@dipainow) - Facebook Facebook https://www.facebook.com > ... > ブランド > ウェブサイト",
+    "url": "https://www.facebook.com/dipainow/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "世界大手企業が目をつけた！AI企業 買収 リスト【Apple、IBM — 世界大手企業が目をつけた！AI企業 買収 リスト【Apple、IBM AINOW https://ainow.ai > AINOW編集部 > コラム",
+    "url": "https://ainow.ai/2017/11/06/125173/",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ AINOW 編集長・小澤健祐氏 生成AI導入 成長の循環に — ディップ AINOW 編集長・小澤健祐氏 生成AI導入 成長の循環に 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/693673",
+    "pass": 3
+   },
+   {
+    "quote": "【 AINOW 】「to B向け人工知能業界マップ2017 」掲載 — 【 AINOW 】「to B向け人工知能業界マップ2017 」掲載 Cogmo Enterprise 生成AI https://cogmo.iact.co.jp > news",
+    "url": "https://cogmo.iact.co.jp/news/1192504_2687",
+    "pass": 3
+   },
+   {
+    "quote": "AIが高 単価 な時代は終わり ｜150万円で提供できる時代へ — AIが高 単価 な時代は終わり ｜150万円で提供できる時代へ AINOW https://ainow.ai > AINOW編集部 > インタビュー",
+    "url": "https://ainow.ai/2021/05/18/255229/",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "【AI失業】黒字リストラ80%超え！1年前は影響を受けていなかった職種までも、、チームみらいが政府へ緊急提言【安野貴博/チームみらい】",
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月期売上高421億円",
+    "url": "https://www.dip-net.co.jp/news/387",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "予算1万円で始めたAIメディア「 AINOW 」の編集長を退任しま ... 予算1万円で始めたAIメディア「 AINOW 」の編集長を退任しま ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "予算1万円で始めたAIメディア「AINOW」の編集長を退任しました。｜亀田 重幸 | 長野でAIを活用してDXを推進する人",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "予算1万円で始めたAIメディア「AINOW」の編集長を退任しました。",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "亀田 重幸 | 長野でAIを活用してDXを推進する人",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "に編集長を譲って、過去の事を振り返るいい機会なので、当時外には出していなかった想いをまとめておきます。",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "（就任記事もあっさりしすぎてたので、ここでいい話を書きます笑）",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "https://ainow.ai/2019/10/25/180300/",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "AI研究や開発は未経験、とにかく情報が欲しかった",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   },
+   {
+    "quote": "AIに携わり始めたのは2015年、ワトソンやディープラーニングという言葉が流行り始めており、人工知能（AI）が使えそうだぞという事で社内で挑戦している次期でした。",
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】 AINOW / 日本初のAI専門メディア (@AINOW_ai) / X 【公式】 AINOW / 日本初のAI専門メディア (@AINOW_ai) / X X https://x.com > AINOW_ai",
+    "url": "https://x.com/AINOW_ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI Now Institute (@AINowInstitute) / X AI Now Institute (@AINowInstitute) / X X https://x.com > AINowInstitute",
+    "url": "https://x.com/AINowInstitute",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 AINOW / 日本初のAI専門メディア - X 【公式】 AINOW / 日本初のAI専門メディア - X X https://x.com > @AINOW_ai",
+    "url": "https://x.com/AINOW_ai/status/854628785085218817",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 AINOW / 日本初のAI専門メディア - X 【公式】 AINOW / 日本初のAI専門メディア - X X https://x.com > @AINOW_ai",
+    "url": "https://x.com/AINOW_ai/status/1491311142580649987",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AINOW | LinkedIn AINOW | LinkedIn LinkedIn https://www.linkedin.com > ainow-llc",
+    "url": "https://www.linkedin.com/company/ainow-llc",
+    "pass": 3
+   },
+   {
+    "quote": "AI Now Institute - LinkedIn AI Now Institute - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/ai-now-institute",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW AI Literacy Platform v0.95 Released - LinkedIn AINOW AI Literacy Platform v0.95 Released - LinkedIn LinkedIn https://www.linkedin.com > posts > ai...",
+    "url": "https://www.linkedin.com/posts/ainowmk_ainow-ai-literacy-v095-introduces-dev-activity-7520618811390353408-eGkJ",
+    "pass": 3
+   },
+   {
+    "quote": "AI Now Agency - LinkedIn AI Now Agency - LinkedIn LinkedIn https://uk.linkedin.com > company",
+    "url": "https://uk.linkedin.com/company/ai-now-agency",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ainow society joins ElevenLabs impact program - Facebook Ainow society joins ElevenLabs impact program - Facebook Facebook https://www.facebook.com > ainow.mk > posts > were-ple...",
+    "url": "https://www.facebook.com/ainow.mk/posts/were-pleased-to-announce-that-ainow-society-has-joined-the-elevenlabs-impact-pro/122173257746691664/",
+    "pass": 3
+   },
+   {
+    "quote": "AI NOW (@ ainow .ge) - Facebook AI NOW (@ ainow .ge) - Facebook Facebook https://www.facebook.com > ainow",
+    "url": "https://www.facebook.com/ainow.ge/",
+    "pass": 3
+   },
+   {
+    "quote": "AINOW - エーアイナウ (@dipainow) - Facebook AINOW - エーアイナウ (@dipainow) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Website",
+    "url": "https://www.facebook.com/dipainow/",
+    "pass": 3
+   },
+   {
+    "quote": "Check out the AI NOW Bootcamp program tracks and courses ... Check out the AI NOW Bootcamp program tracks and courses ... Facebook https://www.facebook.com > theincubatorng > posts > che...",
+    "url": "https://www.facebook.com/theincubatorng/posts/check-out-the-ai-now-bootcamp-program-tracks-and-courses-to-elevate-your-skills-/857914599924736/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ainow.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainow.ai/category/ainoweditor/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainow.ai/2026/10/20/278446/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nankai.news/ad/digital/rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pressnet.or.jp/data/advertisement/advertisement01.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ad-chugoku.com/adrate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/portfolio/projects/64805",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shota7180/status/1788385904907985017?lang=bn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ite.or.jp/contents/venture/2203venture.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/seo/seo-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://valueagent.co.jp/seminar/chatgpt-mark",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aeon.info/ir/finance/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.aoki-hd.co.jp/ja/ir/finance/segment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/news/387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/service/ainow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/dipainow/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/693673",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cogmo.iact.co.jp/news/1192504_2687",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.propagateinc.com/post/high-priced-product-lead-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.value-fax.com/blog/archives/1262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eigyoh.com/column/seikahousyu-salesagency-368",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a8468/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miho-ailab.com/ai-blog-first-month-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academy.crowdworks.jp/articles/ai-blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gast_kaffee0409/n/na34ff42fc1d6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build-log.com/month-1-ai-blog-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamechi/n/ne5aac3c77320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AINOW_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AINowInstitute",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AINOW_ai/status/854628785085218817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AINOW_ai/status/1491311142580649987",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ainow-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ai-now-institute",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ainowmk_ainow-ai-literacy-v095-introduces-dev-activity-7520618811390353408-eGkJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/ai-now-agency",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ainow.mk/posts/were-pleased-to-announce-that-ainow-society-has-joined-the-elevenlabs-impact-pro/122173257746691664/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ainow.ge/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dipainow/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theincubatorng/posts/check-out-the-ai-now-bootcamp-program-tracks-and-courses-to-elevate-your-skills-/857914599924736/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AINOW_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AINOW 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "https://nankai.news/ad/digital/rate/",
+    "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "https://www.pressnet.or.jp/data/advertisement/advertisement01.php",
+    "https://www.ad-chugoku.com/adrate/",
+    "https://dentsu-ho.com/articles/9205",
+    "https://media-radar.jp/contents/meditsubu/columns6-ad-market-price/",
+    "https://ainow.ai/dxnow-sample/dxnow-service-140/",
+    "http://www.mainichi-books.com/newsknow/adrs.html",
+    "https://www.canva.com/ja_jp/templates/s/ryoukinhyou/"
+   ]
+  },
+  {
+   "query": "AINOW PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://ainow.ai/2022/01/28/255830/",
+    "https://www.wantedly.com/portfolio/projects/64805",
+    "https://www.youtube.com/watch?v=1H1Nn5mAPdE",
+    "https://note.com/vivid_mint3156/n/nec15689c40e7",
+    "https://x.com/shota7180/status/1788385904907985017?lang=bn",
+    "https://ainow.ai/aiax2017-12-02/",
+    "https://future-tech-association.connpass.com/event/150743/",
+    "https://note.exawizards.com/n/n3d35520f69b3",
+    "https://aismiley.co.jp/ai_news/ai_hakurankai_2024_spring_conference-vol-5/",
+    "https://www.dip-net.co.jp/service/ainow"
+   ]
+  },
+  {
+   "query": "AINOW 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://www.youtube.com/watch?v=RFATJHceWMQ",
+    "https://note.com/kamechi/n/ne5aac3c77320",
+    "https://ainow.ai/2022/02/09/263111/",
+    "https://www.ite.or.jp/contents/venture/2203venture.pdf",
+    "https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/",
+    "https://www.nikkan.co.jp/articles/view/693673",
+    "https://kazaneya.com/3882b33d102845f199814d201acf74f7",
+    "https://u-29.com/2021/03/11/kensuke-ozawa/",
+    "https://www.dip-net.co.jp/news/1938"
+   ]
+  },
+  {
+   "query": "AINOW 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://n-works.link/blog/seo/seo-seminar",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://valueagent.co.jp/seminar/chatgpt-mark",
+    "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "https://mieru-ca.com/blog/seo_seminar/",
+    "https://www.axis-corp.com/quest/ai-marketing-aio-seo",
+    "https://detail-cc.com/seminar/seo_20250402/",
+    "https://www.seohacks.net/seminar/",
+    "https://gmotech.jp/semlabo/seo/seminar/20251209-tech-seminar/"
+   ]
+  },
+  {
+   "query": "AINOW 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://www.aeon.info/ir/finance/segment/",
+    "https://ainow.ai/tag/consulting/",
+    "https://ir.aoki-hd.co.jp/ja/ir/finance/segment.html",
+    "https://www.dip-net.co.jp/news/387",
+    "https://www.aiholdings.co.jp/ir/highlight/",
+    "https://wevnal.io/news/758",
+    "https://irbank.net/E04273/segment",
+    "https://prtimes.jp/main/html/rd/p/000000012.000130646.html",
+    "https://www.advertimes.com/tags/ainow/",
+    "https://www.7andi.com/ir/financial/segment.html"
+   ]
+  },
+  {
+   "query": "AINOW 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://www.dip-net.co.jp/service/ainow",
+    "https://www.facebook.com/dipainow/?locale=ja_JP",
+    "https://ainow.ai/2017/11/06/125173/",
+    "https://www.nikkan.co.jp/articles/view/693673",
+    "https://cogmo.iact.co.jp/news/1192504_2687",
+    "https://www2.jpx.co.jp/disc/23790/140120171116419935.pdf",
+    "https://ainow.ai/2020/06/24/224241/",
+    "https://www.wantedly.com/companies/dip/posts/52784",
+    "https://www.cmp.co.jp/ir/news/ir_news/20211227_3.html",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "AINOW 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://ainow.ai/2021/05/18/255229/",
+    "https://www.propagateinc.com/post/high-priced-product-lead-generation",
+    "https://web.value-fax.com/blog/archives/1262",
+    "https://www.eigyoh.com/column/seikahousyu-salesagency-368",
+    "https://boxil.jp/mag/a8468/",
+    "https://tenshoku.mynavi.jp/publish_inquire/knowhow/02_placement-fees",
+    "https://nahato.co.jp/knowledge/influencer-marketing-achievement-reward/",
+    "https://www.itreview.jp/labo/archives/8905",
+    "https://www.r-agent.com/business/knowhow/article/28954/"
+   ]
+  },
+  {
+   "query": "AINOW note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "https://miho-ailab.com/ai-blog-first-month-checklist/",
+    "https://academy.crowdworks.jp/articles/ai-blog",
+    "https://note.com/gast_kaffee0409/n/na34ff42fc1d6",
+    "https://ai-build-log.com/month-1-ai-blog-report/",
+    "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "https://ainow.ai/2017/07/03/116358/",
+    "https://note.com/yaoyoroztech/n/n87cc8af7df47",
+    "https://naonyan-0510.hatenablog.com/entry/2026/10/16/172907",
+    "https://note.com/ainowjp/all"
+   ]
+  },
+  {
+   "query": "site:note.com AINOW",
+   "results": [
+    "https://note.com/kamechi/n/ne5aac3c77320",
+    "https://note.com/kazu_t/n/n892b6abc2510",
+    "https://note.com/kazu_t/n/ne29e990204e9",
+    "https://note.com/ai_futurestudy/n/n5197747c5ecf",
+    "https://note.com/kazu_t/n/nbc72cba42159",
+    "https://note.com/ai_curator/n/n344ea8b5b067",
+    "https://note.com/got/n/n92f49938e594?hl=en",
+    "https://note.com/dngri/n/n5d337b7624c4?hl=en",
+    "https://note.com/lightblue_tech/n/n95aa0efe2b39",
+    "https://note.com/kamechi/n/ne5aac3c77320?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com AINOW",
+   "results": [
+    "https://x.com/AINOW_ai",
+    "https://x.com/AINowInstitute",
+    "https://x.com/AINOW_ai/status/854628785085218817",
+    "https://x.com/AINOW_ai/status/1491311142580649987",
+    "https://x.com/bighead11111/status/2109126403547701710/photo/1",
+    "https://x.com/Dr_nemonemo/status/2114299766645645313",
+    "https://x.com/Dr_nemonemo/status/1989262691261981156",
+    "https://x.com/shota7180/status/1788385904907985017?lang=bn",
+    "https://x.com/ozaken_AI/status/1076326507448983553",
+    "https://x.com/solutionsAINOW"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AINOW",
+   "results": [
+    "https://www.linkedin.com/company/ainow-llc",
+    "https://www.linkedin.com/company/ai-now-institute",
+    "https://www.linkedin.com/posts/ainowmk_ainow-ai-literacy-v095-introduces-dev-activity-7520618811390353408-eGkJ",
+    "https://uk.linkedin.com/company/ai-now-agency",
+    "https://www.linkedin.com/posts/commencis_commencis-ainow-ai-activity-7523662653597356032-R_0s",
+    "https://mk.linkedin.com/company/ainowmk",
+    "https://www.linkedin.com/in/cheryl-dopp",
+    "https://ca.linkedin.com/in/anthonybernard",
+    "https://www.linkedin.com/posts/anthonybernard_enterpriseai-agenticai-artificialintelligence-activity-7502894560143052800-vsv2"
+   ]
+  },
+  {
+   "query": "site:facebook.com AINOW",
+   "results": [
+    "https://www.facebook.com/ainow.mk/posts/were-pleased-to-announce-that-ainow-society-has-joined-the-elevenlabs-impact-pro/122173257746691664/",
+    "https://www.facebook.com/ainow.ge/",
+    "https://www.facebook.com/dipainow/",
+    "https://www.facebook.com/theincubatorng/posts/check-out-the-ai-now-bootcamp-program-tracks-and-courses-to-elevate-your-skills-/857914599924736/",
+    "https://www.facebook.com/groups/texansunitedagainstdatacenters/posts/2762302604166332/",
+    "https://www.facebook.com/groups/3518705494819617/posts/29221198480810299/",
+    "https://www.facebook.com/ainow.mk/posts/%D0%BA%D0%B0%D0%BA%D0%BE-%D0%B4%D0%B0-%D0%BA%D1%80%D0%B5%D0%B8%D1%80%D0%B0%D1%88-%D1%82%D0%B2%D0%BE%D1%98-%D0%B0%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82-%D0%BD%D0%B0-claude/122162370410691664/",
+    "https://www.facebook.com/ainow.mk/",
+    "https://www.facebook.com/p/AINOW-Solutions-61593601866149/",
+    "https://secure.facebook.com/"
+   ]
+  },
+  {
+   "query": "AINOW note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://note.com/tag/AI%E7%A4%BE%E9%95%B7",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "AINOW X 投稿",
+   "results": [
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://x.com/AINOW_ai",
+    "https://boostx-inc.com/blog/x-twitter-ai-btob-posting/",
+    "https://www.youtube.com/watch?v=Mj1KCmSAwgE",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://note.com/ai_shikumi_lab/n/ne7c45896a490",
+    "https://lifrell-tech.com/950/",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-create-ai-content-and-post-to-x-twitter-25w22",
+    "https://x.com/AINOW_ai/status/1035404534858706946"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）",
+  "株主構成": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）"
+ }
+}

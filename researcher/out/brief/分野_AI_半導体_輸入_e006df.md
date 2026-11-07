@@ -93,85 +93,88 @@
   - ［SNS］2026-11-05「Artem Sokolov - Founder of Humanoid | AI & Robotics ... Founded in May 2024, Humanoid develops humanoid robots powered by a proprietary AI model for real-world deployment across logistics, retail, and industrial environm」https://uk.linkedin.com/in/artem-sokolov-s
   - ［SNS］2026-11-05「Humanoid - LinkedIn The development of a functional humanoid robot underpins an era of abundance and well-being where poverty will disappear, and people will be able to choose what they want to do.」https://uk.linkedin.com/company/humanoidai
 ### 海外→日本（輸入）｜エッジAIチップ（edge AI chip）
-- 取得：2026-11-06T02:49・調査3回目・読んだ頁69
-- 痛み・損（深さの印）（2件）：
+- 取得：2026-11-07T02:55・調査4回目・読んだ頁70
+- 痛み・損（深さの印）（4件）：
+  - ［記事］2026-11-07「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―US chip growth at risk from 67K too few skilled workers (7月25日付け BNN Bloomberg (Canada))」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+  - ［記事］2026-11-07「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―Based on graduation rates, many jobs could be hard to fill―Biden administration is trying to foster domestic chipmaking (7月25日付け Bloomberg)」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
   - ［記事］2026-11-06「【化学15社】倒産危険度ランキング2027最新版！13位DIC、前回5位のUBEは何位に？」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
   - ［記事］2026-11-06「受注残増大や生産能力制約、サプライチェーン、セキュリティ、データ主権の課題に対し、AIでどう対応すべきかを示す調査レポート」https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/semiconductors-ai-race
-- 顧客（金を払う側）（126件）：
-  - ［記事］2026-11-06「また、AMDがSamsungのファウンドリでHBMベースダイの調達を開始する動きや、Appleが研究開発費を457億6500万ドルまで引き上げAI投資を強化するなど、主要プレイヤーによる技術競争は激化の一途をたどっています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「さらに、シーメンスとNVIDIAの協業による3D IC設計の自動化や、中国企業によるAI SoCの技術革新など、ハードウェアとソフトウェアの融合が次世代コンピューティングの鍵を握っています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「Samsung Foundryに追い風、AMDが次世代HBMベースダイを建設中のTaylor 2工場から調達へ」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「建設中のTaylor 2工場を活用することで、Samsungは先端ノードにおけるシェア拡大と、ファウンドリ事業の立て直しを図る重要な一歩を踏み出しました」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「中国のチップパッケージ企業、AI需要と値上げを追い風にするも、投資益と設備投資が利益構図を曇らせる」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 顧客の顧客（発注元が求めること）（66件）：
+- 顧客（金を払う側）（152件）：
+  - ［記事］2026-11-07「しかし近年、先進的なエッジAI開発においては、あえてその「現実的じゃない」とされてきた選択肢であるHBM採用に踏み切るケースが増加傾向にあります」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「HBM採用を検討している開発チームが、技術的な落とし穴を未然に回避し、要件に合った最適なアーキテクチャを選択するためのロードマップとして活用してください」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「HBMを採用するということは、従来の基板上での実装（2D実装）から、シリコンインターポーザを介した2.5D実装へと足を踏み入れることを意味します」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「導入成果：処理性能3倍、消費電力20%減の衝撃」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「「性能を上げれば、大きく、熱く、高くなる」という常識を覆し、「高性能かつコンパクトで省エネ」を実現できるのが、HBM採用の大きな成果と言えます」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+- 顧客の顧客（発注元が求めること）（77件）：
   - ［一次］2026-11-06「全産業における製造業のCO2排出量の割合は約25%と大きく、 世界が脱炭素社会を目指す中で、」https://semicon.jeita.or.jp/news/docs/20260521_JEITA-JSIA_teigensyo.pdf
-  - ［記事］2026-11-06「韓国に対し、チップ工場支援を国内サプライヤーと連動させるよう要請」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「日本、L4・L5自動運転車の統一認証基準を策定へ 無人運転車の量産を後押し」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」https://xtech.nikkei.com/atcl/nxt/column/18/02995/102900003/?P=2
-  - ［記事］2026-11-06「日本の自動車メーカーや部品サプライヤーにとっては、車載ソフトウェアと半導体の協調設計を強化し、車両全体の開発効率と安全性能を高めることが戦略的課題となります」https://www.atpress.ne.jp/news/4178412
-- 顧客の競合（奪いに来る側）（113件）：
-  - ［記事］2026-11-06「さらに、シーメンスとNVIDIAの協業による3D IC設計の自動化や、中国企業によるAI SoCの技術革新など、ハードウェアとソフトウェアの融合が次世代コンピューティングの鍵を握っています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「建設中のTaylor 2工場を活用することで、Samsungは先端ノードにおけるシェア拡大と、ファウンドリ事業の立て直しを図る重要な一歩を踏み出しました」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「愛芯元智AX8860 AI SoCが中国チップ・優秀技術革新製品賞を受賞」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「中国の愛芯元智が開発したAI SoC「AX8860」が、第21回「中国芯」優秀製品賞を受賞しました」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「クラウドへの依存を減らし、低遅延かつセキュアなAI処理を実現する技術として、中国国内の半導体技術革新の象徴的な成果と評価されています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 自社の競合（商社・代理店・仲介）（40件）：
+  - ［記事］2026-11-07「2.5D/3D実装技術の専門性が要求される」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「メモリ帯域幅要求が300GB/sを超える場合:」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「→＊アップルとNvidia向けの韓国サプライヤーは、ストレージを大量に消費するAIアプリケーションを強化するため、同社のハイエンドDRAMチップの売上が今年2倍以上になると予想している旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+  - ［記事］2026-11-07「該中国のハイテク企業は3年前、米国の技術とグローバル・サプライヤーへのアクセスを失った旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+- 顧客の競合（奪いに来る側）（128件）：
+  - ［記事］2026-11-07「一見十分に見える数値でも、8K画像の読み込みと推論時の中間データの書き込みが競合し、実効帯域は理論値を大きく下回ってしまいます」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「競合にはソニーによるエッジAIカメラ、米NVIDIAの組込AIソリューション、大手電機メーカーやイスラエルのスタートアップが存在するが、Tokyo Artisan Intelligenceは現場実装力やオーダーメイド型の提案、国内外大手インフラ事業者との協業実績を強みとしている」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-07「TSMCやラピダス、キオクシアなどのメーカーの動向や供給不足、シェア推移など関連業界や市場の最新ニュース・解説をタイムリーに発信します」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+  - ［記事］2026-11-07「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
+  - ［記事］2026-11-07「もう1つ、半導体新工場への取り組みが各国で行われる中、米国・Semiconductor Industry Association(SIA)が人材不足の問題の警鐘を鳴らす報告書を発表、2030年までに半導体業界で6万7000人不足するとして、関係方面に波紋を呼んでいる」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+- 自社の競合（商社・代理店・仲介）（41件）：
   - ［一次］2026-11-06「・ Beyond 5G 研究開発促進事業 https://www.nict.go.jp/collabo/commission/B5Gsokushin.html」https://semicon.jeita.or.jp/news/docs/20260521_JEITA-JSIA_teigensyo.pdf
   - ［一次］2026-11-04「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」https://www.hakuto.co.jp/news/260820.pdf
+  - ［記事］2026-11-07「開発初期段階から半導体商社だけでなく、メモリベンダーの技術部門とコンタクトを取り、長期的なフォーキャスト（需要予測）を提示することで、優先的な供給枠を確保する交渉を戦略的に行うことが重要です」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
   - ［記事］2026-11-06「DDR5価格が2倍に高騰、日本のディストリビューターが新規顧客を断る」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
   - ［記事］2026-11-06「Japanese distributor turns away new customers as DDR5 prices double」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「Agileo Automation appoints Semitorr – CTW Solutions as North American distributor」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 政治（法・予算・規制）（91件）：
+- 政治（法・予算・規制）（114件）：
   - ［一次］2026-11-06「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
   - ［一次］2026-11-06「BISは、バイデン前政権下の2023年11月から、輸出管理規則（EAR）上の国別グループ「D:5」に指定された国（注1）またはマカオに本社（または最終的親会社）がある企業に対し、特定の先端コンピューティング関連製品を輸出などする際には許可取得を求める暫定最終規則（IFR）を施行している（」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
   - ［一次］2026-11-06「しかし、トランプ政権発足後の2025年5月、AI拡散ルールは「米国のイノベーションを阻害し、企業に過度の規制負担を課す」として、執行しない方針を発表した（」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
   - ［一次］2026-11-06「こうした経緯を背景に、BISに対して、2023年11月から施行した「D:5」またはマカオに親会社がある企業向けの輸出規制は現時点でも有効か、との質問が相次いでいた」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
   - ［一次］2026-11-06「バイデン前政権下の商務省で重要・新興技術顧問を務めていたサイフ・カーン氏によれば、規制上の混乱により、輸出許可なしに、中国に本社を置く企業へ最先端の米国製AI半導体の大規模な出荷が再開されていることは、「公然の秘密」だったという」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
-- 経済（規模・価格・為替）（142件）：
-  - ［記事］2026-11-06「OnsemiのAIデータセンター収入が175%増、2026年第3四半期の利益が売上高を上回る」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「Onsemi’s AI data center revenue surges 175% as 3Q26 earnings outpace sales growth」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「メモリ価格の急騰がスマートフォンに打撃、2026年のモバイルSoC出荷が約20%減」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「DDR5価格が2倍に高騰、日本のディストリビューターが新規顧客を断る」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「DDR2・DDR3供給逼迫で、ESMTは2026年第4四半期の平均販売単価上昇を見込む」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 社会（人・担い手）（30件）：
+- 経済（規模・価格・為替）（165件）：
+  - ［記事］2026-11-07「HBMの単価はGDDR6の数倍とも言われます」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「エッジAIで現場課題に挑むTokyo Artisan Intelligence、11.1億円調達──再構成可能AIチップの開発に本格着手 - Startup News | KEPPLE（ケップル）」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-07「エッジAIで現場課題に挑むTokyo Artisan Intelligence、11.1億円調達──再構成可能AIチップの開発に本格着手」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-07「が、シリーズB+ラウンドにて約11.1億円の資金調達を実施した」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-07「EdgeCortixが累計150億円調達、次世代エッジAI半導体の量産と開発を加速」https://kepple.co.jp/articles/vh_svobtf62p
+- 社会（人・担い手）（48件）：
   - ［一次］2026-11-06「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
   - ［一次］2026-11-06「10 年間で 4.3 万人強不足とされる半導体人材の確保や」https://semicon.jeita.or.jp/news/docs/20260521_JEITA-JSIA_teigensyo.pdf
   - ［一次］2026-11-06「人材では質は優秀だが量は出生率が 1 以下である」https://semicon.jeita.or.jp/news/docs/20260521_JEITA-JSIA_teigensyo.pdf
   - ［一次］2026-11-06「５）半導体の人材育成と獲得」https://semicon.jeita.or.jp/news/docs/20260521_JEITA-JSIA_teigensyo.pdf
-  - ［記事］2026-11-06「SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 技術（新しい技術・実証）（138件）：
-  - ［記事］2026-11-06「メモリ大手5社がHBM4やデータセンター向けSSDの好調により最高益圏に達する一方、Samsung Electronicsが2030年までに8インチファウンドリ事業からの撤退を表明するなど、成熟プロセスから先端AI向けへの戦略転換が加速しています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「また、AMDがSamsungのファウンドリでHBMベースダイの調達を開始する動きや、Appleが研究開発費を457億6500万ドルまで引き上げAI投資を強化するなど、主要プレイヤーによる技術競争は激化の一途をたどっています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「さらに、シーメンスとNVIDIAの協業による3D IC設計の自動化や、中国企業によるAI SoCの技術革新など、ハードウェアとソフトウェアの融合が次世代コンピューティングの鍵を握っています」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「AIの進化に伴う倫理的課題や、エッジAIの社会実装といった新たな論点も浮上しており、業界は今、かつてない技術革新と構造再編の渦中にあります」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-  - ［記事］2026-11-06「AIでメモリ大手5社が最高益圏へ、HBM4とデータセンターSSDが変える市場構造」https://amiko.consulting/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-20261104/
-- 検索結果の抜粋（26件）：
-  - ［一次］2026-11-06「エッジAI 半導体を開発するPebble-Square, Inc.が東京都に 日本 ... — エッジAI 半導体を開発するPebble-Square, Inc.が東京都に 日本 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > 対日投資 > お知らせ > 2025年」https://www.jetro.go.jp/invest/newsroom/2025/7bbc0bd961f9bc2b.html
-  - ［一次］2026-11-06「AI 半導体デザイン分野で 日本 とマレーシアの企業が協業の契約 ... — AI 半導体デザイン分野で 日本 とマレーシアの企業が協業の契約 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/06」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
-  - ［一次］2026-11-04「米議会中国特別委、中国の AI 半導体は米国に依存し一層の 規制 ... — 米議会中国特別委、中国の AI 半導体は米国に依存し一層の 規制 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/04」https://www.jetro.go.jp/biznews/2026/04/4786bb32e4abefff.html
-  - ［記事］2026-11-06「エッジAIチップ 市場、2033年に9兆台湾ドル突破へ — エッジAIチップ 市場、2033年に9兆台湾ドル突破へ BigGo ファイナンス https://finance.biggo.jp > news」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-06「エッジ 用途向け AIチップ 2026 -2036年：技術、市場、予測 — エッジ 用途向け AIチップ 2026 -2036年：技術、市場、予測 IDTechEx https://www.idtechex.com > ai-chips-for-edge-applications」https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148
-- SNS・note（X・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-06「Axera Unveils AX8860 Edge AI Chip Series With 256 TOPS ... Axera Unveils AX8860 Edge AI Chip Series With 256 TOPS ... X https://x.com > @thePandaily」https://x.com/thePandaily/status/2111281667449233656
-  - ［SNS］2026-11-04「エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ X https://x.com > @AnalogDevicesJP」https://x.com/AnalogDevicesJP/status/2100445960891736181
+  - ［記事］2026-11-07「スタートアップ専門のキャリアアドバイザーや会計士、アナリストなど経験豊富なプロフェッショナルによるハイクラスな人材の採用支援サービスなどを提供」https://kepple.co.jp/articles/vh_svobtf62p
+- 技術（新しい技術・実証）（163件）：
+  - ［記事］2026-11-07「エッジAIのメモリ帯域不足をHBMで突破した現場の記録：コストと熱の壁を越える実装ロジック」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「HBMによるエッジAIのメモリ帯域不足解消と性能向上」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「エッジAI開発者が直面する「メモリの壁」とHBMという選択肢」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「最新のエッジAIチップを搭載し、理論上は十分なTOPS（Trillions of Operations Per Second）値を叩き出しているはずの次世代機が、実稼働テストで期待通りのスループットを出せないという課題は珍しくありません」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+  - ［記事］2026-11-07「産業用ロボット、ドローン、高度な監視カメラなど、エッジデバイスで扱うAIモデルの主流が、従来のCNN（畳み込みニューラルネットワーク）からVision Transformerのような大規模モデルへと急速に進化しています」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
+- SNS・note（Facebook・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-07「New 80 mhz ai chip enables efficient edge ai inference New 80 mhz ai chip enables efficient edge ai inference Facebook https://www.facebook.com > dennis.c.hayes > posts > the-...」https://www.facebook.com/dennis.c.hayes/posts/the-80-mhz-ai-chip-that-could-put-intelligence-everywherethe-article-that-sparke/27055943914016880/
+  - ［SNS］2026-11-04「Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Facebook https://www.facebook.com > VVDNJapan > posts > akida-...」https://www.facebook.com/VVDNJapan/posts/akida-edge-ai-box-%E3%81%A7brainchip%E3%81%AEakd1000-ai%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%A7%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF/593091243245014/
 - SNS・note（note・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-06「エッジAI ソリューションとAI半導体 チップ を開発するTokyo ... エッジAI ソリューションとAI半導体 チップ を開発するTokyo ... note.com https://note.com > startuplog」https://note.com/startuplog/n/n9123f81347ce
   - ［SNS］2026-11-06「世代を超えたワンチームで挑む、次世代 AI 半導体開発の裏側 ... 世代を超えたワンチームで挑む、次世代 AI 半導体開発の裏側 ... note https://note.com > インタビュー・対談 > 対談・座談会」https://note.com/tai_official/n/n15c561739df7
   - ［SNS］2026-11-06「日本の AI 半導体はここまで来ていた――EdgeCortix「RAIDEN ... 日本の AI 半導体はここまで来ていた――EdgeCortix「RAIDEN ... note https://note.com > 科学・テクノロジー > AI・機械学習」https://note.com/kagawatomo/n/n0e318c8eef77
-- SNS・note（Facebook・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Facebook https://www.facebook.com > VVDNJapan > posts > akida-...」https://www.facebook.com/VVDNJapan/posts/akida-edge-ai-box-%E3%81%A7brainchip%E3%81%AEakd1000-ai%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%A7%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF/593091243245014/
-- SNS・note（LinkedIn・検索結果の抜粋）（7件）：
-  - ［SNS］2026-11-06「Edge AI Chips vs Cloud AI Chips : Which One Powers the ... Edge AI Chips vs Cloud AI Chips : Which One Powers the ... LinkedIn https://www.linkedin.com > pulse > e...」https://www.linkedin.com/pulse/edge-ai-chips-vs-cloud-which-one-powers-future-chipxpertofficial-aghcf
-  - ［SNS］2026-11-05「Edge AI Chips for Everyday Devices - LinkedIn Edge AI Chips for Everyday Devices - LinkedIn LinkedIn https://www.linkedin.com > posts > ac...」https://www.linkedin.com/posts/actions-technology-co-ltd_empowering-ai-anywhere-anytime-through-intelligent-activity-7520292374137184256-L0ee
-  - ［SNS］2026-11-04「エッジAI システムオン チップ - LinkedIn エッジAI システムオン チップ - LinkedIn LinkedIn https://jp.linkedin.com > pulse > edge-ai-system-on-chip-s...」https://jp.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc?tl=ja
-  - ［SNS］2026-11-04「DEEPX's Edge AI Chip Lineup — What You Need to Know DEEPX's Edge AI Chip Lineup — What You Need to Know LinkedIn https://www.linkedin.com > pulse > d...」https://www.linkedin.com/pulse/deepxs-edge-ai-chip-lineup-what-you-need-know-md-faruk-alam-shync
-  - ［SNS］2026-11-04「Edge AI System-on- Chip (SoC) Solutions and Their ... - LinkedIn Edge AI System-on- Chip (SoC) Solutions and Their ... - LinkedIn LinkedIn https://www.linkedin.com > pulse > e...」https://www.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc
 - SNS・note（note・本文）（18件）：
   - ［記事］2026-11-06「エッジAIソリューションとAI半導体チップを開発するTokyo Artisan Intelligence株式会社がシリーズCラウンド ファーストクローズで総額12.7億円の資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
   - ［記事］2026-11-06「エッジAIソリューションとAI半導体チップを開発するTokyo Artisan Intelligence株式会社がシリーズCラウンド ファーストクローズで総額12.7億円の資金調達を実施」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
   - ［記事］2026-11-06「住所：神奈川県横浜市港北区新横浜2丁目3-19 プライム新横浜ビル5階」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
   - ［記事］2026-11-06「事業内容：東北大学発のAI・半導体研究を基盤に、深層学習アルゴリズムの研究開発、エッジAIプロダクトの開発・販売、AIエキスパート・エンジニアの育成を手がけ、鉄道・インフラ・製造分野などの現場向けにリアルタイム性と低消費電力を両立するAIソリューションを提供するとともに、独自のAI半導体チップ「Manta Ray」の研究開発を推進する。」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
   - ［SNS］2026-11-06「世代を超えたワンチームで挑む、次世代AI半導体開発の裏側。ーテストチップの完成、そして量産フェーズへ」https://note.com/tai_official/n/n15c561739df7
+- 検索結果の抜粋（27件）：
+  - ［一次］2026-11-06「エッジAI 半導体を開発するPebble-Square, Inc.が東京都に 日本 ... — エッジAI 半導体を開発するPebble-Square, Inc.が東京都に 日本 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > 対日投資 > お知らせ > 2025年」https://www.jetro.go.jp/invest/newsroom/2025/7bbc0bd961f9bc2b.html
+  - ［一次］2026-11-06「AI 半導体デザイン分野で 日本 とマレーシアの企業が協業の契約 ... — AI 半導体デザイン分野で 日本 とマレーシアの企業が協業の契約 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/06」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
+  - ［一次］2026-11-04「米議会中国特別委、中国の AI 半導体は米国に依存し一層の 規制 ... — 米議会中国特別委、中国の AI 半導体は米国に依存し一層の 規制 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/04」https://www.jetro.go.jp/biznews/2026/04/4786bb32e4abefff.html
+  - ［記事］2026-11-07「エッジAIチップ 市場、2031年に115億ドル規模へ — エッジAIチップ 市場、2031年に115億ドル規模へ オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/03」https://blogs.itmedia.co.jp/business20/2026/03/ai2031_1.html
+  - ［記事］2026-11-06「エッジAIチップ 市場、2033年に9兆台湾ドル突破へ — エッジAIチップ 市場、2033年に9兆台湾ドル突破へ BigGo ファイナンス https://finance.biggo.jp > news」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
+- SNS・note（X・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-06「Axera Unveils AX8860 Edge AI Chip Series With 256 TOPS ... Axera Unveils AX8860 Edge AI Chip Series With 256 TOPS ... X https://x.com > @thePandaily」https://x.com/thePandaily/status/2111281667449233656
+  - ［SNS］2026-11-04「エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ X https://x.com > @AnalogDevicesJP」https://x.com/AnalogDevicesJP/status/2100445960891736181
+- SNS・note（LinkedIn・検索結果の抜粋）（8件）：
+  - ［SNS］2026-11-07「エッジ AI チップ 関連企業トップ10一覧 - LinkedIn エッジ AI チップ 関連企業トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > エッジ-ai-チップ関連企業...」https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%83%81%E3%83%83%E3%83%97%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-polytrack-market-analytics-mcx4e
+  - ［SNS］2026-11-06「Edge AI Chips vs Cloud AI Chips : Which One Powers the ... Edge AI Chips vs Cloud AI Chips : Which One Powers the ... LinkedIn https://www.linkedin.com > pulse > e...」https://www.linkedin.com/pulse/edge-ai-chips-vs-cloud-which-one-powers-future-chipxpertofficial-aghcf
+  - ［SNS］2026-11-05「Edge AI Chips for Everyday Devices - LinkedIn Edge AI Chips for Everyday Devices - LinkedIn LinkedIn https://www.linkedin.com > posts > ac...」https://www.linkedin.com/posts/actions-technology-co-ltd_empowering-ai-anywhere-anytime-through-intelligent-activity-7520292374137184256-L0ee
+  - ［SNS］2026-11-04「エッジAI システムオン チップ - LinkedIn エッジAI システムオン チップ - LinkedIn LinkedIn https://jp.linkedin.com > pulse > edge-ai-system-on-chip-s...」https://jp.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc?tl=ja
+  - ［SNS］2026-11-04「DEEPX's Edge AI Chip Lineup — What You Need to Know DEEPX's Edge AI Chip Lineup — What You Need to Know LinkedIn https://www.linkedin.com > pulse > d...」https://www.linkedin.com/pulse/deepxs-edge-ai-chip-lineup-what-you-need-know-md-faruk-alam-shync
 ### 海外→日本（輸入）｜生成AI半導体（AI accelerator chip）
 - 取得：2026-11-06T03:10・調査3回目・読んだ頁68
 - 痛み・損（深さの印）（7件）：

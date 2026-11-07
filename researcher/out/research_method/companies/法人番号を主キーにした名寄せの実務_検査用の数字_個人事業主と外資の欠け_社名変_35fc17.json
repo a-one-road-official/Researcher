@@ -1,0 +1,1134 @@
+{
+ "name": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）",
+ "en": "corporate number master key entity resolution Japan check digit gBizINFO",
+ "aliases": [
+  "法人番号 名寄せ 主キー",
+  "法人番号 チェックデジット 検証",
+  "gBizINFO 法人番号 突き合わせ",
+  "法人番号 変更履歴 商号 所在地"
+ ],
+ "context": "手法",
+ "kind": "market",
+ "researched_at": "2026-11-07T02:59:34.355683+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "法人番号システムWeb‑API機能の検証環境における設定変更について（６月20日）",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数千件の個別照合や差分の自動取り込みはAPI向きです",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "）及びその前に付された一桁の検査用数字（法人番号を電子計算機に入力するときに誤りのないことを確認することを",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "検索の結果、表示される内容は次のとおりです",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、ISO/IEC15459-2において、法人番号7000012050002のコードは、「TAJ7000012050002」と表します",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、検索結果は「英語版法人番号公表サイト」の画面が表示されます",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "丁目番地等の検索に当たって、例えば「三丁目」を検索する場合には「三」を算用数字の「３」に、「１番１号」を検索する場合には「１番１号」を「１－１」に置き換えて入力してください",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Start with NTA Corporate Number full files, daily changes and Web API, then add gBizINFO API and EDINET where the business case and terms justify it.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "方法で、手続を行っていただく必要があります",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人等番号とも異なるものとなるように、財務省令で定める方法により国税庁長官が定めるものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同意を得た後）、速やかに、インターネットを利用して公衆の閲覧に供する方法により行うものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "更後のこれらの事項を前項に規定する方法により公表するものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "が当該事由が生じたことを知った年月日）を第一項に規定する方法により公表するものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第三条 令第三十五条第三項に規定する財務省令で定める方法は、他のいずれの法人番号を構成する同条第一項に規定する基",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これら以外の者を区分して識別することができるような十二桁の番号を電子計算機及びプログラムを用いて算出する方法と",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ご利用方法（検索・閲覧、ダウンロード機能）について",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業リストの入手方法は3つある",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順は5つ——小さく作って一巡させる",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ファイル形式と規模、列名のないCSVの読み方、差分データの使い方は",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順は​5つ——​小さく​作って​一巡させる",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順そのものより、運用が本体です",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手元の営業リストに混ざった閉鎖・移転・重複を洗い直す手順は",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まず、狙う1業種・1都道府県を決めて、上の5ステップを一度通してみてください",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DX認定企業の一覧をCSVで取る方法と活用法",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "設立登記法人への指定･･････････････････････････････ ５",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指定･･････ ６",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人の基礎番号は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等番号）です",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人以外の者の基礎番号は、他のいずれの法人番号の基礎番号や、いずれの会社法人等番号とも異なるよう定められ",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登記所コード(４桁)",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "に基づく指定 会社法その他の法令の規定により設立の登記をした法人",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "（外国法人は、設立登記法人ではありません",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "○ 会社法その他の法令の規定により設立の登記をした法人（設立登記法人）に対して、法人番号を指定します",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "○ 国税庁長官は、法人番号の指定のため、法務大臣から登記情報の提供を求めることができます",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国税庁では、提供を受けた登記情報を基に、法人番号を指定しています",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※１ 外国法人や有限責任事業組合、投資事業有限責任組合は、設立登記法人ではありません",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人の法人番号（13桁）は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指 定",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指定",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人、人格のない社団等であって、所定の税法上の届出書（※１）を提出することとされている",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登記記録の閉鎖等が生じた法人を検索対象に含める",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社・法人の変更登記について（法務省からのお知らせ）",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Corporate Number data is the core identifier layer, but it does not contain every commercial-register extract, director field, financial filing or private contact. gBizINFO enriches profiles but is not a replacement for legal registration evidence. EDINET covers securities-disclosure filers, not all companies. J-PlatPat covers IP records. GLEIF covers only entities with LEIs.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Core Corporate Registry, Entity Lookup & Statutory Filings",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For one company, start with NTA Corporate Number search, then check gBizINFO and any specialist source that fits the company type: EDINET for securities filings, J-PlatPat for IP, p-portal for procurement and GLEIF for LEI-bearing entities.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Corporate Number data should not be described as complete free bulk access to every legal-register filing or natural-person field.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Add filings and regulated layers:",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. Corporate Number data is a powerful official identifier layer, but it is not every commercial-register filing, legal extract, officer detail, securities document or contact field.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. EDINET is a securities-disclosure source for filing-obligated entities. It is valuable for listed-company and financial-document enrichment, but not complete market coverage.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regbase.jp/en/guides/gbizinfo-japanese-company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otwarteapi.pl/en/gbizinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codigital.co.jp/en/posts/how-to-search-company-registry-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometiam.com/guides/japan-company-data-api",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） site:note.com",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html",
+    "https://kamakurakanzeikai.net/images/info_hojinnum.pdf",
+    "https://www.tkc.jp/consolidate/tkc_express/2025/11/202511_13030",
+    "https://www.customs.go.jp/tetsuzuki/c-answer/sonota/9704_jr.htm",
+    "https://note.com/sr_mako/n/ne44063d1ab57"
+   ]
+  },
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） note",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://gomumari.com/knowledge/koukou-data-list/",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html"
+   ]
+  },
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） やり方",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://gomumari.com/knowledge/koukou-data-list/",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html"
+   ]
+  },
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） 事例",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://gomumari.com/knowledge/koukou-data-list/",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html"
+   ]
+  },
+  {
+   "query": "corporate number master key entity resolution Japan check digit gBizINFO",
+   "results": [
+    "https://regbase.jp/en/guides/gbizinfo-japanese-company-profile",
+    "https://companiesdata.cloud/open-company-data-japan.html",
+    "https://otwarteapi.pl/en/gbizinfo",
+    "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
+    "https://codigital.co.jp/en/posts/how-to-search-company-registry-in-japan",
+    "https://www.prometiam.com/guides/japan-company-data-api",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://lookuptax.com/validate/japan/corporate-number",
+    "https://www.digital.go.jp/en/policies/mynumber_faq_08",
+    "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026"
+   ]
+  },
+  {
+   "query": "site:note.com 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）",
+   "results": [
+    "https://note.com/sr_mako/n/ne44063d1ab57",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/qkw_dgn_mtr/n/ne8b8359be4be",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://note.com/sn_osamu_araki/n/n60125c16f961",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/appgroup/n/naf97c025ca28"
+   ]
+  },
+  {
+   "query": "site:x.com 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）",
+   "results": [
+    "https://x.com/fudosandb/status/2047247117199220980",
+    "https://x.com/WorkX0927/status/2104330241959174443",
+    "https://x.com/motoy0shi/status/2031920298438885427",
+    "https://x.com/srdb_inomata/status/2054375301812273292",
+    "https://x.com/matsuura_AI_oji/status/2078055480996565233",
+    "https://x.com/maes_data/status/2031874296919060907",
+    "https://x.com/xTECH_Active/status/2100691388254089389"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）",
+   "results": [
+    "https://jp.linkedin.com/company/houjin-bangou",
+    "https://www.linkedin.com/company/greek-reporter",
+    "https://in.linkedin.com/in/kaustubh0211",
+    "https://jp.linkedin.com/posts/finatexthd_ナウキャスト法人データを名寄せして外部データと統合し営業活動や与信管理を高度化-activity-7423985894946316288-w0j5",
+    "https://jp.linkedin.com/posts/makoto-hattori_o3すごい-企業名住所だけのリストを渡して-法人番号-企業概要-を調査してという-activity-7321403477140692993-TNvN",
+    "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
+    "https://www.linkedin.com/pulse/法人番号検索ツールをchatgpt無料版で修正してみた-shinichiro-yamashita-cwa0c"
+   ]
+  },
+  {
+   "query": "site:facebook.com 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）",
+   "results": [
+    "https://www.facebook.com/TechableJp/posts/法人営業部のデータ管理作業を自動化するツール登場リスト購入属性情報追加名寄せまで完結/647754967396070/",
+    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/",
+    "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
+    "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/deiryuken/videos/技術標準化の視点物流2024年問題を解決するカギは自動化と標準化-自動化技術の導入トレンドamr自律走行搬送ロボットgtpgoods-to-person認識予測/1855442031705545/",
+    "https://www.facebook.com/everyones.club/posts/674870096373328/"
+   ]
+  },
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） note 社長",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://gomumari.com/knowledge/koukou-data-list/",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html"
+   ]
+  },
+  {
+   "query": "法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ） X 投稿",
+   "results": [
+    "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
+    "https://www.moj.go.jp/MINJI/minji06_00087.html",
+    "https://www.houjin-bangou.nta.go.jp/tetsuzuki/henko/index.html",
+    "https://shinsei.e-gov.go.jp/contents/news/2026-01-22t1619190900_1691.html",
+    "https://kamakurakanzeikai.net/images/info_hojinnum.pdf",
+    "https://www.tkc.jp/consolidate/tkc_express/2025/11/202511_13030",
+    "https://www.customs.go.jp/tetsuzuki/c-answer/sonota/9704_jr.htm"
+   ]
+  },
+  {
+   "query": "corporate number master key entity resolution Japan check digit gBizINFO site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/legal-structures-foreign-businesses-japan-kk-vs-gk-explained-xmi8e",
+    "https://www.linkedin.com/pulse/whats-inside-japanese-company-understanding-corporate-waka-someno-ohg4c",
+    "https://sg.linkedin.com/company/jcai-ltd",
+    "https://www.linkedin.com/posts/shoko-kuge_march-is-approaching-which-in-japan-quietly-activity-7433033891780837376-yhRT",
+    "https://www.linkedin.com/posts/know-your-customer_your-kyb-workflow-flags-a-japanese-counterparty-activity-7496030771145523200-VhKb",
+    "https://www.linkedin.com/pulse/kabushiki-kaisha-godo-what-google-amazon-apples-choice-6c0qc",
+    "https://www.linkedin.com/posts/uni-management-co_kabushiki-kaisha-or-godo-kaisha-what-google-activity-7501086811599929344-G1oj"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "法人番号システムWeb‑API機能の検証環境における設定変更について（６月20日）",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数千件の個別照合や差分の自動取り込みはAPI向きです",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "）及びその前に付された一桁の検査用数字（法人番号を電子計算機に入力するときに誤りのないことを確認することを",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "検索の結果、表示される内容は次のとおりです",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、ISO/IEC15459-2において、法人番号7000012050002のコードは、「TAJ7000012050002」と表します",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、検索結果は「英語版法人番号公表サイト」の画面が表示されます",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "丁目番地等の検索に当たって、例えば「三丁目」を検索する場合には「三」を算用数字の「３」に、「１番１号」を検索する場合には「１番１号」を「１－１」に置き換えて入力してください",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Start with NTA Corporate Number full files, daily changes and Web API, then add gBizINFO API and EDINET where the business case and terms justify it.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "方法で、手続を行っていただく必要があります",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人等番号とも異なるものとなるように、財務省令で定める方法により国税庁長官が定めるものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同意を得た後）、速やかに、インターネットを利用して公衆の閲覧に供する方法により行うものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "更後のこれらの事項を前項に規定する方法により公表するものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "が当該事由が生じたことを知った年月日）を第一項に規定する方法により公表するものとする",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第三条 令第三十五条第三項に規定する財務省令で定める方法は、他のいずれの法人番号を構成する同条第一項に規定する基",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これら以外の者を区分して識別することができるような十二桁の番号を電子計算機及びプログラムを用いて算出する方法と",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ご利用方法（検索・閲覧、ダウンロード機能）について",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業リストの入手方法は3つある",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順は5つ——小さく作って一巡させる",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ファイル形式と規模、列名のないCSVの読み方、差分データの使い方は",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順は​5つ——​小さく​作って​一巡させる",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順そのものより、運用が本体です",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手元の営業リストに混ざった閉鎖・移転・重複を洗い直す手順は",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まず、狙う1業種・1都道府県を決めて、上の5ステップを一度通してみてください",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DX認定企業の一覧をCSVで取る方法と活用法",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "設立登記法人への指定･･････････････････････････････ ５",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指定･･････ ６",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人の基礎番号は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等番号）です",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人以外の者の基礎番号は、他のいずれの法人番号の基礎番号や、いずれの会社法人等番号とも異なるよう定められ",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登記所コード(４桁)",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "に基づく指定 会社法その他の法令の規定により設立の登記をした法人",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "（外国法人は、設立登記法人ではありません",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "○ 会社法その他の法令の規定により設立の登記をした法人（設立登記法人）に対して、法人番号を指定します",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "○ 国税庁長官は、法人番号の指定のため、法務大臣から登記情報の提供を求めることができます",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国税庁では、提供を受けた登記情報を基に、法人番号を指定しています",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "※１ 外国法人や有限責任事業組合、投資事業有限責任組合は、設立登記法人ではありません",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記法人の法人番号（13桁）は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指 定",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人と人格のない社団等への指定",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "設立登記のない法人、人格のない社団等であって、所定の税法上の届出書（※１）を提出することとされている",
+    "url": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "登記記録の閉鎖等が生じた法人を検索対象に含める",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社・法人の変更登記について（法務省からのお知らせ）",
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資本金・従業員数・届出/認定・財務・特許・補助金など",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "経済産業省が「500万社以上」の政府保有法人データを提供するサイトで、法人番号をキーに資本金・従業員数などの法人基本情報から届出/認定・財務・特許・調達・補助金・職場情報までを引けます",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有価証券報告書等の開示書類は、サイトでの閲覧・取得なら登録不要で、APIによる機械取得にはAPIキー（登録制）が必要です（キーなしのリクエストは拒否されます）",
+    "url": "https://gomumari.com/knowledge/koukou-data-list/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Corporate Number data is the core identifier layer, but it does not contain every commercial-register extract, director field, financial filing or private contact. gBizINFO enriches profiles but is not a replacement for legal registration evidence. EDINET covers securities-disclosure filers, not all companies. J-PlatPat covers IP records. GLEIF covers only entities with LEIs.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Core Corporate Registry, Entity Lookup & Statutory Filings",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For one company, start with NTA Corporate Number search, then check gBizINFO and any specialist source that fits the company type: EDINET for securities filings, J-PlatPat for IP, p-portal for procurement and GLEIF for LEI-bearing entities.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Corporate Number data should not be described as complete free bulk access to every legal-register filing or natural-person field.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Add filings and regulated layers:",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. Corporate Number data is a powerful official identifier layer, but it is not every commercial-register filing, legal extract, officer detail, securities document or contact field.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. EDINET is a securities-disclosure source for filing-obligated entities. It is valuable for listed-company and financial-document enrichment, but not complete market coverage.",
+    "url": "https://companiesdata.cloud/open-company-data-japan.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-07T02:59:34.355683+00:00"
+}

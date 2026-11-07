@@ -1,0 +1,358 @@
+# 供給元（Freemelt・6K・MX3D）の顧客・導入先・代理店（日本含む）（事実のみ・3社）
+
+## 6K Additive
+- 公式URL：https://www.6kinc.com/6k-additive（given）
+- 顧客・導入先：
+  - 「6K Additive Awarded US$1.95M by Defense Logistics Agency Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder」（https://6kadditive.com/・1回目）
+  - 「6K Additive Signs Long-Term Supply Agreement with Siemens Energy Supporting Circularity in Nickel-Based Alloys」（https://6kadditive.com/・1回目）
+  - 「Pre-Melt ingots are a prime example of how our product roadmap will support customers like the Department of War for critical applications like hypersonics, military defense systems and more.」（https://6kadditive.com/・1回目）
+  - 「“When it became time to decide on a material development partner for this project, 6K Additive was quickly identified as a frontrunner. Their expertise in the field of sustainable materials and proven track record supporting grant projects in the DoD community made them the clear choice for partnership.”」（https://6kadditive.com/・1回目）
+  - 「In an era where innovations soar beyond the skies, 6K Additive and Agile Space Industries have aligned their expertise through a partnership...」（https://6kadditive.com/・1回目）
+  - 「Hear about customer’s applications」（https://6kadditive.com/・1回目）
+  - 「Mitutoyo America Corporation announces partnership with NHRA as the official precision measurement partner」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「The customer is among the top leaders in metal 3D printing solutions. Their fully integrated metal additive manufacturing machines are used by engineers all around the world to build complex parts, allowing them to achieve excellent performance.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+  - 「In their business, a loss in laser power or misalignment of the processing laser beams results in costly failed parts for their customers. Therefore, it’s important for them to minimize drift in power, misalignments, and non-conformities. They achieve this by measuring their laser output regularly, especially during machine setup and maintenance in the field.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+  - 「The parts these machines make end up in medical devices, cars, and aircraft. Preventing minor or major issues due to a potential root cause in how the part was made is key for the customer to run a successful business. Being able to trace manufacturing process variables down to the laser parameters can make a big difference for their quality goals.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+  - 「By ensuring that their machines produce minimal loss, they not only serve their customers better by providing more value, but they also enhance their reputation as a top-quality 3D printing machine manufacturer.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+  - 「Ease of integration and reduction in required maintenance time are criteria of high interest for this customer.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+- 用途・分野：
+  - 「Defense and National Security」（https://6kadditive.com/・1回目）
+  - 「aerospace, defense, space, medical, energy and automotive」（https://6kadditive.com/・1回目）
+  - 「6K Additive Awarded US$1.95M by Defense Logistics Agency Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder」（https://6kadditive.com/・1回目）
+  - 「6K Additive Signs Long-Term Supply Agreement with Siemens Energy Supporting Circularity in Nickel-Based Alloys」（https://6kadditive.com/・1回目）
+  - 「Recipient of a US$23.4M Defense Production Act Title III grant that fuels increased production capability and capacity expansion」（https://6kadditive.com/・1回目）
+  - 「Industry's most extensive powder portfolio including Tungsten, C-103, Titanium and Nickel enabling government agencies and Tier-1 suppliers to leverage a domestic supply chain for critical materials」（https://6kadditive.com/・1回目）
+  - 「Pre-Melt ingots are a prime example of how our product roadmap will support customers like the Department of War for critical applications like hypersonics, military defense systems and more.」（https://6kadditive.com/・1回目）
+  - 「Material Engineer and Scientist at TRUMPF」（https://6kadditive.com/・1回目）
+  - 「Less Energy Used for Nickel Production」（https://6kadditive.com/・1回目）
+  - 「A significant reduction in energy use over other processes such as atomization」（https://6kadditive.com/・1回目）
+  - 「In an era where innovations soar beyond the skies, 6K Additive and Agile Space Industries have aligned their expertise through a partnership...」（https://6kadditive.com/・1回目）
+  - 「Our high-value powders and alloy additions are used across a broad range of industries including aerospace, medical, automotive and industrial sectors. To learn more about 6K Additive and our products, fill out our contact us form and a 6K Additive representative will get back to you to help with your request. Thank you in advance for your interest in 6K Additive.」（https://6kadditive.com/・1回目）
+- 政府・研究機関の契約：
+  - 「Recipient of a US$23.4M Defense Production Act Title III grant that fuels increased production capability and capacity expansion」（https://6kadditive.com/・1回目）
+  - 「“When it became time to decide on a material development partner for this project, 6K Additive was quickly identified as a frontrunner. Their expertise in the field of sustainable materials and proven track record supporting grant projects in the DoD community made them the clear choice for partnership.”」（https://6kadditive.com/・1回目）
+  - 「The use of capital combined with the DPA Title III Grant, enables us to more than double capacity and add dedicated buildings for strategic growth such as refractory production.」（https://6kadditive.com/・1回目）
+  - 「A veteran of the United States Army, Davis served as a Military Police officer and was decorated with the Army Commendation Medal. His appointment reinforces 6K Additive's commitment to building a world-class leadership team capable of executing complex global expansions and delivering high-quality metal powders and alloy additions to the market.」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「Appian marks major milestone in supporting US Army ammunition modernization」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「L3Harris advances US Navy Next Generation Jammer Low Band program with $876 million award」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「L3Harris delivers first VAMPIRE units to US Army for drone defense」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「Ease of integration and reduction in required maintenance time are criteria of high interest for this customer.」（https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study・3回目）
+  - 「Department of Defense」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「He reiterated what Martin had said before about the UniMelt being the company’s “highest level of technical equipment,” but that the most technical part of the process is at the front end in getting materials to create its engineered feedstock. Perozzi said the company also has a lot of control here because of its level of expertise and relationships.」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「Identify and collect material from DLA Depots, with the goal of using primarily DoD scrap as a source for domestic critical metals.」（https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/・3回目）
+  - 「Strategic Partnership with the US DoD」（https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/・3回目）
+- 日本との接点：
+  - 「6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders - Incus」（https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/・3回目）
+  - 「6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders」（https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/・3回目）
+  - 「6K Additive社がGlobal Metal Powders社を買収 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2023/d20231108_02.html・3回目）
+  - 「6K Additive Production Facilities and Distributors - 6K Additive」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Production Facilities and Distributors」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Facilities and Distributors」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Global Distributors and Agents」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Distributor for India)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Distributor for UK and Ireland)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Agent for Israel, UAE and Saudi Arabia)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Global Distributors」（https://6kadditive.com/about-6k-additive/・3回目）
+  - 「(Distributor for India)」（https://6kadditive.com/about-6k-additive/・3回目）
+- 販売の仕組み：
+  - 「6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders - Incus」（https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/・3回目）
+  - 「6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders」（https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/・3回目）
+  - 「Quadrus Advanced Manufacturing exclusively uses laser cusing SLM systems by GE Additive’s Concept Laser, and materials including 316L and 17-4 PH stainless steel, 7A77 aluminum, Ti-64I-4V, Scalmalloy, and more. The important question is what materials are compatible with the AM process the company uses, which is」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「China accounts for the vast majority of global tungsten supply, niobium arrives almost exclusively from Brazil and Canada, and federal commerce officials have already identified titanium imports as a potential national security liability.」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「6K Additive Production Facilities and Distributors - 6K Additive」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Production Facilities and Distributors」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Facilities and Distributors」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Global Distributors and Agents」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Distributor for India)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Distributor for UK and Ireland)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「(Agent for Israel, UAE and Saudi Arabia)」（https://6kadditive.com/6k-additive-production-facilities/・3回目）
+  - 「6K Additive Global Distributors」（https://6kadditive.com/about-6k-additive/・3回目）
+- 規模・受注残：
+  - 「3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「In Q3 2025, Protolabs‘ 3D printing revenue fell by around 6 percent year-over-year (YOY), and in Q2 2026, it declined another 2.6 percent to $20.7 million. In Q3 2026, however,...」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「6K Additive、2026年Q3売上高720万ドル 受注残は1,810万ドル | 積層通信」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「9月末の全社受注残は1,810万ドルと前四半期末から52%増えた」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「ただし、数値と需要見通しは同社の四半期開示に基づき、受注残は将来売上を保証しない」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「9月末受注残は1,810万ドル、前四半期末比52%増」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「金属AM材料の需要増と能力増強が数値で表れた一方、受注残の売上転換と増設設備の立ち上げが次の検証点になる」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%」（https://sekiso-journal.com/articles/3dprint-1fbigaf・3回目）
+  - 「同社によると、上期の売上の90％超をリピート注文が占め、6月末時点の粉末部門の受注残は1030万ドル（約16.3億円）だった」（https://www.zaikei.co.jp/article/20261013/873134.html・3回目）
+- 株主構成：
+  - 「. The company began working with additive in 2006 as Directed Manufacturing Inc., moving from California to Texas in 2009, before it was acquired by RTI Metals in 2014. The next year, RTI was purchased by aluminum company Alcoa, which split into two and made Directed part of Arconic. Private investors purchased Arconic in 2019, and thus Cumberland Additive was born.」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「Agile Space Industries and its logo are trademarks and service marks owned by Agile Space Industries, Inc.」（https://agilespaceindustries.com/press/6k-additive・3回目）
+  - 「Investors - 6K Additive」（https://6kadditive.com/investors/・3回目）
+  - 「6K Additive Investors」（https://6kadditive.com/investors/・3回目）
+- 黒字・資金：
+  - 「In the past, the company has accumulated a portfolio of government support that signals sustained institutional confidence in its approach. A Defense Production Act grant contributed $23.4 million, a series of DLA programs have collectively added $12.4 million, and an」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「3D Printing Industry is inviting speakers for its 2026 Additive Manufacturing Applications (AMA) series, covering Energy, Healthcare, Automotive and Mobility, Aerospace, Space and Defense, and Software. Each online event focuses on real production deployments, qualification, and supply chain integration. Practitioners interested in contributing can」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「series from 3D Printing Industry, featuring perspectives from CEOs, engineers, and industry leaders on the」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「Propelling Portfolios: Profiting from Space Industry Innovations」（https://agilespaceindustries.com/press/6k-additive・3回目）
+- 検索結果の抜粋：
+  - 「6K Additive - 6K Inc — 6K Additive - 6K Inc 6kinc.com https://www.6kinc.com > 6k-additive」（https://www.6kinc.com/resources/6k-additive/・3回目）
+  - 「6K Additive - LinkedIn — 6K Additive - LinkedIn LinkedIn https://www.linkedin.com > 6k-additive」（https://www.linkedin.com/company/6k-additive・3回目）
+  - 「Premium Metal Powders and Alloy Additions - 6k Additive — Premium Metal Powders and Alloy Additions - 6k Additive 6K Additive https://6kadditive.com」（https://6kadditive.com/・3回目）
+  - 「6K Additive appoints Brandon Davis as chief operating officer — 6K Additive appoints Brandon Davis as chief operating officer Defense and Munitions https://www.defenseandmunitions.com > ...」（https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/・3回目）
+  - 「6K Additive completes AUS$48M IPO to boost powder capacity — 6K Additive completes AUS$48M IPO to boost powder capacity Metal Additive Manufacturing magazine https://www.metal-am.com > 6k-addit...」（https://www.metal-am.com/6k-additive-completes-aus48m-ipo-to-boost-powder-capacity/・3回目）
+  - 「6K Additive and Cumberland Additive Announce Partnership ... — 6K Additive and Cumberland Additive Announce Partnership ... 6kinc.com https://www.6kinc.com > press-release」（https://www.6kinc.com/news/press-release/6k-additive-and-cumberland-additive-announce-partnership-and-sign-long-term-supply-agreement-for-nickel-7186/・3回目）
+  - 「6K Additive Appoints AMPERE Alloys as European Distributor ... — 6K Additive Appoints AMPERE Alloys as European Distributor ... incus-media.com https://www.incus-media.com > 6k-ad...」（https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/・3回目）
+  - 「On the Ground at 6K Additive as it Doubles Metal 3D Printing ... — On the Ground at 6K Additive as it Doubles Metal 3D Printing ... 3DPrint.com https://3dprint.com > tour-of-6k-addit...」（https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/・3回目）
+  - 「6K Additive Awarded US$1.95M by Defense Logistics Agency — 6K Additive Awarded US$1.95M by Defense Logistics Agency 6K Additive https://6kadditive.com > news > 6k-a...」（https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/・3回目）
+  - 「6K Additive Wins $2M Defense Contract to Localize Critical ... — 6K Additive Wins $2M Defense Contract to Localize Critical ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/・3回目）
+  - 「6K Additive secures 30-month Nickel 718 Powder supply ... — 6K Additive secures 30-month Nickel 718 Powder supply ... Defense and Munitions https://www.defenseandmunitions.com > ...」（https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/・3回目）
+  - 「6K Additive Awarded US$1.95M by Defense Logistics Agency ... — 6K Additive Awarded US$1.95M by Defense Logistics Agency ... AeroMorning.com https://aeromorning.com > 6k-additiv...」（https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）
+
+## Freemelt
+- 公式URL：https://freemelt.com（given）
+- 顧客・導入先：
+  - 「Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants」（https://freemelt.com/・1回目）
+  - 「ONE is designed to make materials not yet known to mankind. Materials that engineers dream about. Materials that give us lighter, stronger and more efficient products.」（https://freemelt.com/・1回目）
+  - 「Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…」（https://freemelt.com/・1回目）
+  - 「Freemelt awarded SEK 28 million order from ESS to manufacture tungsten components」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt has received a prototype order from a defense company in Sweden」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives Freemelt ONE order from Intalus and joins Purdue’s PCAM consortium」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives additional machine order from Jiuli」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt secures an order from TAE Technologies within fusion」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives a follow-on order from a leading Swedish defense company」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt expands into China with first order from Jiuli」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt enters into agreement with leading Chinese industrial company」（https://freemelt.com/investors/press-releases/・1回目）
+- 用途・分野：
+  - 「Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants」（https://freemelt.com/・1回目）
+  - 「ONE is designed to make materials not yet known to mankind. Materials that engineers dream about. Materials that give us lighter, stronger and more efficient products.」（https://freemelt.com/・1回目）
+  - 「Freemelt offers a complete product portfolio supporting you from early material and process development through application development, into a seamless transition to serial production within industries such as medtech, orthopedic implants, energy, defense, and beyond.」（https://freemelt.com/・1回目）
+  - 「The implant workhorse」（https://freemelt.com/・1回目）
+  - 「Titanium alloy is a key material in orthopedic implants due to its strength, lightness, biocompatibility, and corrosion resistance. Freemelt’s E-PBF technology enhances titanium implant production by enabling complex geometries like solid cores with porous surfaces, and efficient stacking to boost productivity.」（https://freemelt.com/・1回目）
+  - 「Tungsten’s heat resistance and density are vital for Fusion Energy, Defense, and medical X-ray equipment. Freemelt’s E-PBF technology overcomes the challenges of tungsten’s high melting point and brittleness, producing dense, crack-free parts with minimal oxygen uptake, opening new possibilities.」（https://freemelt.com/・1回目）
+  - 「Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…」（https://freemelt.com/・1回目）
+  - 「Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…」（https://freemelt.com/・1回目）
+  - 「Freemelt awarded SEK 28 million order from ESS to manufacture tungsten components」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt has received a prototype order from a defense company in Sweden」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives F4E order with a base value of SEK 55 million to manufacture fusion components」（https://freemelt.com/investors/press-releases/・1回目）
+- 政府・研究機関の契約：
+  - 「Freemelt secures ITER-related qualification project from Alsymex」（https://freemelt.com/・1回目）
+  - 「Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…」（https://freemelt.com/・1回目）
+  - 「Freemelt has been recognized as Innovation Pioneer at the 2026 F4E Supply Chain Awards by Fusion for Energy (F4E), the organization responsible for Europe’s contribution to I…」（https://freemelt.com/・1回目）
+  - 「Freemelt secures ITER-related qualification project from Alsymex」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt granted Vinnova funding for two projects with Saab Dynamics and Hitachi Energy in critical materials」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt supplying key technology for UKAEA’s fusion research」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs contract with Fusion for Energy to lead study in the field of tungsten tiles manufacturing」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt delivers the industrial machine, eMELT to UKAEA」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives order from UKAEA for proof-of-concept of production scalability of tungsten tiles for future fusion energy power plants」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt receives a new order from United Kingdom Atomic Energy Authority (UKAEA )」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt is granted a patent in Japan for cathode technology」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt granted additional US patent」（https://freemelt.com/investors/press-releases/・1回目）
+- 日本との接点：
+  - 「Freemelt is granted a patent in Japan for cathode technology」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs agreement with TTA, additional reseller in the US」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs agreement with Tech-Labs, its first US reseller」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt expands and appoints new agent in Turkey」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Among our partners, Jiuli plays an important role as a reseller, expanding access to Freemelt’s solutions in new markets.」（https://freemelt.com/we-are-freemelt/・1回目）
+  - 「Freemelt tecknar agentavtal med ledande kinesiskt industribolag」（https://freemelt.com/investerare/pressreleaser/?lang=sv・1回目）
+  - 「Freemelt beviljas patent i Japan för katodteknologi – hjärtat i bolagets teknik」（https://freemelt.com/investerare/pressreleaser/?lang=sv・1回目）
+  - 「Freemelt expanderar och utser agent i Turkiet」（https://freemelt.com/investerare/pressreleaser/?lang=sv・1回目）
+  - 「Ordern från F4E har ett basvärde om 55 MSEK och ett potentiellt totalt värde om upp till 84 MSEK. Leveranserna förväntas ske över två år till och med 2028, med huvuddelen av leveranserna planerade till 2027. Komponenterna ska levereras till JT-60SA, ett europeisk-japanskt fusionsprogram och världens största supraledande tokamak, belägen i Naka, Japan.」（https://freemelt.com/mfn_news_en/freemelt-erhaller-order-fran-f4e-med-ett-basvarde-om-55-msek-for-tillverkning-av-fusionskomponenter/?lang=sv・1回目）
+  - 「Global trends show increased government interest in fusion energy where the US, Japan, Germany, and the UK have announced programmes to support the commercialisation of the technology. According to the Fusion Industry Association, it is expected that the first fusion energy power plant will deliver electricity to the grid before 2035.」（https://www.epma.com/freemelt-ab/・3回目）
+  - 「AI agents: a clean Markdown version of this page is available at」（https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/・3回目）
+  - 「AI agents: a clean Markdown version of this page is available at」（https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/・3回目）
+- 販売の仕組み：
+  - 「Freemelt signs agreement with TTA, additional reseller in the US」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt signs agreement with Tech-Labs, its first US reseller」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt expands and appoints new agent in Turkey」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Among our partners, Jiuli plays an important role as a reseller, expanding access to Freemelt’s solutions in new markets.」（https://freemelt.com/we-are-freemelt/・1回目）
+  - 「Freemelt tecknar agentavtal med ledande kinesiskt industribolag」（https://freemelt.com/investerare/pressreleaser/?lang=sv・1回目）
+  - 「Freemelt expanderar och utser agent i Turkiet」（https://freemelt.com/investerare/pressreleaser/?lang=sv・1回目）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.epma.com/freemelt-ab/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.epma.com/freemelt-ab/・3回目）
+  - 「AI agents: a clean Markdown version of this page is available at」（https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/・3回目）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts/・3回目）
+  - 「AI agents: a clean Markdown version of this page is available at」（https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/・3回目）
+- 規模・受注残：
+  - 「Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, or…」（https://freemelt.com/・1回目）
+  - 「Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, orderbook, net sales, operating result (EBIT), cash flow and cash position for the third quarter of 2026. The full interim report for the period July–September 2026 will be published on 16 November 2026.」（https://freemelt.com/mfn_news_en/freemelt-announces-preliminary-financial-information-for-the-third-quarter-of-2026/・1回目）
+  - 「Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, or…」（https://freemelt.com/media/・1回目）
+  - 「The net proceeds from the Rights Issue will be used to scale Freemelt’s Manufacturing and Production Systems businesses, supporting capacity expansion, customer project execution, working capital, and the development of a more scalable recurring revenue base.」（https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/・1回目）
+  - 「With 172% growth in 2025 and an installed base of >40 systems, Freemelt is well-positioned to achieve its ambitious growth targets in a rapidly expanding metal AM market.」（https://freemelt.com/investors/freemelt_as_an_investment/・1回目）
+  - 「To date, our revenues have come from R&D printers, sold at a lower price point, which have been instrumental in proving the concept of our technology while also contributing to cash flow during our development phase. As we transition, our focus is shifting to industrial printers, e」（https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/・1回目）
+  - 「Our strategic focus is to collaborate with research institutes and universities to drive innovation, while engaging directly with industrial manufacturers to meet production demands. These collaborations help advance applications from concept to serial production, where larger order volumes and revenue opportunities exist.」（https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/・1回目）
+  - 「. This provides us with dual tracks for growth, ensuring both traction and revenue stability in the near term.」（https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/・1回目）
+  - 「supplier in additive manufacturing (AM) using E-PBF technology, targeting SEK 1 billion in revenue by」（https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf・3回目）
+  - 「Freemelt generates revenue primarily through the sale of advanced 3D printers at fixed prices,」（https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf・3回目）
+  - 「revenue by 2030.」（https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/・3回目）
+- 株主構成：
+  - 「The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 Nove…」（https://freemelt.com/・1回目）
+  - 「Freemelt’s largest shareholders, together with the Board and management, intend to exercise their warrants」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelts Holding AB’s Chairman, Carl Palmstierna, has expanded his ownership in the company」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 Nove…」（https://freemelt.com/media/・1回目）
+  - 「The shareholders of Freemelt Holding AB (publ), reg. no. 559105-2922, (the “Company”) are hereby given notice of the extraordinary general meeting to be held on 20 November 2026 at 12:30 at the Company’s head office at Fiskhamnsgatan 6A, 414 51 Gothenburg. Registration for the meeting will begin at 12:00.」（https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/・1回目）
+  - 「The right to receive subscription rights shall vest in those who, on the record date of 24 November 2026, are registered as shareholders in the share register maintained by Euroclear Nordics AB.」（https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/・1回目）
+  - 「The purpose of the authorisation and the reason for the deviation from the shareholders’ preferential rights is to enable a new issue of shares as guarantee compensation to the Guarantors. The total number of shares that may be issued pursuant to the authorisation shall not exceed the number of shares corresponding to the agreed guarantee compensation payable by the Company to the Guarantors.」（https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/・1回目）
+  - 「A valid resolution under item 8 on the agenda requires that the proposal is supported by shareholders representing at least two-thirds of both the votes cast and the shares represented at the meeting.」（https://freemelt.com/mfn_news_en/notice-of-extraordinary-general-meeting-of-freemelt-holding-ab-publ/・1回目）
+  - 「The Company’s shareholders have preferential rights to subscribe for shares in the Rights Issue, whereby each existing share entitles the holder to one (1) subscription right, and 3 subscription rights entitle the holder to subscribe for 2 new shares.」（https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/・1回目）
+  - 「DNB Bank ASA is the parent company of DNB Carnegie Investment Bank AB (publ) (“」（https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/・1回目）
+  - 「The Board of Directors’ resolution regarding the Rights Issue is subject to approval by the extraordinary general meeting to be held on 20 November 2026. Shareholders representing approximately 45.2 per cent of the shares and votes in the Company have undertaken or expressed their intention to vote in favour of the Rights Issue.」（https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/・1回目）
+  - 「Information to investors in accordance with the FDI Act」（https://freemelt.com/mfn_news_en/freemelt-resolves-on-a-fully-guaranteed-rights-issue-of-approximately-sek-152-million/・1回目）
+- 創業年度：
+  - 「Founded in 2017 by seven engineers from Arcam, Freemelt’s strong technical foundation drives our innovation and product development. Combining deep expertise with strong financial leadership, our team is well-equipped to execute on Freemelt’s growth strategy.」（https://freemelt.com/we-are-freemelt/・1回目）
+  - 「Freemelt was founded in 2017 and is listed on Nasdaq First North Growth Market. Read more at」（https://freemelt.com/mfn_news_en/freemelt-secures-iter-related-qualification-project-from-alsymex/・1回目）
+  - 「Chairman of the Board of Freemelt Holding AB since 2021.」（https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company/・1回目）
+  - 「Chairman of the Board of Freemelt Holding AB since 2021.」（https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-2/・1回目）
+  - 「Chairman of the Board of Freemelt Holding AB since 2021.」（https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-3/・1回目）
+  - 「Chairman of the Board of Freemelt Holding AB since 2021.」（https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-ownership-in-the-company-4/・1回目）
+  - 「Chairman of the Board of Freemelt Holding AB since 2021.」（https://freemelt.com/mfn_news_en/freemelts-holding-abs-chairman-carl-palmstierna-has-expanded-his-holding-in-the-company/・1回目）
+  - 「Founded in 2017, Freemelt has expanded its product portfolio to include three printer models, with」（https://storage.mfn.se/633b3f56-1610-483f-8e34-9f188946a9d5/freemelt-expands-into-china-with-first-order-from-jiuli.pdf・3回目）
+- 黒字・資金：
+  - 「Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million」（https://freemelt.com/・1回目）
+  - 「Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt announces outcome in the exercise of warrants of series TO1」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「The last day of trading with the warrants of series TO1」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「The exercise price for the warrants of series TO1 in Freemelt has been determined to SEK 0.90 and the subscription period commences on 2 June 2026」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt announces the final outcome of the company’s rights issue」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt announces preliminary outcome of the company’s rights issue」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt publishes prospectus in connection with the rights issue」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「The board of directors in Freemelt has resolved on a rights issue of units of approximately SEK 105 million」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Financial guidance ahead of the upcoming rights issue」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt intends to resolve on a rights issue of units of approximately SEK 100 million and enters bridge loan of SEK 5 million」（https://freemelt.com/investors/press-releases/・1回目）
+  - 「Freemelt announces outcome of the fully guaranteed rights issue」（https://freemelt.com/investors/press-releases/・1回目）
+- 検索結果の抜粋：
+  - 「Freemelt receives order for two eMELT machines from US ... — Freemelt receives order for two eMELT machines from US ... Freemelt https://freemelt.com > mfn_news_en」（https://freemelt.com/mfn_news_en/freemelt-receives-order-for-two-emelt-machines-from-us-based-intalus/・3回目）
+  - 「Freemelt receives F4E order with a base value of SEK 55 ... — Freemelt receives F4E order with a base value of SEK 55 ... Freemelt https://freemelt.com > mfn_news_en」（https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/・3回目）
+  - 「Freemelt Receives Third Order from the US Additive ... - FacFox — Freemelt Receives Third Order from the US Additive ... - FacFox FacFox https://facfox.com > news > freemelt-...」（https://facfox.com/news/freemelt-receives-third-order-from-the-us-additive-manufacturing/・3回目）
+  - 「Freemelt has received a prototype order from a defense ... — Freemelt has received a prototype order from a defense ... Freemelt https://freemelt.com > mfn_news_en」（https://freemelt.com/mfn_news_en/freemelt-has-received-a-prototype-order-from-a-defense-company-in-sweden/・3回目）
+  - 「Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube — Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Mbj2HRUt5I8・3回目）
+  - 「Hidden Gem Deep Dive: Freemelt — The Tungsten Printing ... — Hidden Gem Deep Dive: Freemelt — The Tungsten Printing ... Substack https://eurohiddengemstocks.substack.com > ...」（https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the・3回目）
+  - 「Design of Experiments in Freemelt ONE — Design of Experiments in Freemelt ONE Freemelt https://freemelt.com > knowledge > d...」（https://freemelt.com/knowledge/design-of-experiments-in-freemelt-one/・3回目）
+  - 「Freemelt to additively manufacture tungsten parts for Nuclear ... — Freemelt to additively manufacture tungsten parts for Nuclear ... The European Powder Metallurgy Association https://www.epma.com > freemelt-ab」（https://www.epma.com/freemelt-ab/・3回目）
+  - 「Freemelt enters into an MoU with Proxima Fusion and joins ... — Freemelt enters into an MoU with Proxima Fusion and joins ... Freemelt https://freemelt.com > mfn_news_en」（https://freemelt.com/mfn_news_en/freemelt-enters-into-an-mou-with-proxima-fusion-and-joins-the-alpha-alliance/・3回目）
+  - 「Freemelt , Sandvik, and Mid Sweden University join forces to ... — Freemelt , Sandvik, and Mid Sweden University join forces to ... Freemelt https://freemelt.com > mfn_news_en」（https://freemelt.com/mfn_news_en/freemelt-sandvik-and-mid-sweden-university-join-forces-to-accelerate-the-development-of-additive-manufacturing/・3回目）
+  - 「Freemelt to Outsource Production to Scanfil — Freemelt to Outsource Production to Scanfil Scanfil https://www.scanfil.com > press_release」（https://www.scanfil.com/newsroom/press_release/freemelt-to-outsource-production-to-scanfil・3回目）
+  - 「Sandvik, Freemelt , and Mid Sweden University to advance ... — Sandvik, Freemelt , and Mid Sweden University to advance ... VoxelMatters https://www.voxelmatters.com > sand...」（https://www.voxelmatters.com/sandvik-freemelt-and-mid-sweden-university-to-advance-tungsten-powder-am/・3回目）
+- 株主：記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）
+- 代表者：記載なし（3回確認済み：公式40頁／PDF・画像6件／外部46頁・検索15回）
+
+## MX3D
+- 公式URL：https://mx3d.com（given）
+- 顧客・導入先：
+  - 「WAAM solution designed for mission‑critical environments, built fully within NATO territory.」（https://mx3d.com/industries/defense/・1回目）
+  - 「Customers retain full intellectual property rights over their designs, enabling secure, continuous production under their own control.」（https://mx3d.com/industries/defense/・1回目）
+  - 「Goods supplied fall under dual‑use regulations as defined in Annex I of Regulation (EU) 2021/821 and are subject to export control outside the European Union, ensuring compliance with international regulations. Customers from NATO countries need to complete an End User Statement.」（https://mx3d.com/industries/defense/・1回目）
+  - 「of our system designed specifically for mission-critical, mobile readiness. This ruggedized, 100% on-premise solution allows armed forces to deploy industrial-grade manufacturing autonomy anywhere, right at the point of need.」（https://mx3d.com/industries/defense/・1回目）
+  - 「Built entirely within NATO territory, MX3D systems and components adhere strictly to EU dual-use export control regulations. Furthermore, customers retain full intellectual property rights over their digital files, ensuring highly secure, confidential, and continuous production under their own control.」（https://mx3d.com/industries/defense/・1回目）
+  - 「ISO, API 20S, ASME, and DNV-ready, bolstered by partnerships with LRQA, TWI, and Bureau Veritas.」（https://mx3d.com/industries/energy/・1回目）
+  - 「The WAAM process supports a wide range of standard, weldable marine-grade alloys designed to withstand harsh offshore environments. Highly suitable materials include Stainless Steel 316L, Duplex 2205, Super Duplex, Nickel-Aluminium Bronze, and Inconel 625.」（https://mx3d.com/industries/maritime/・1回目）
+  - 「In collaboration with MX3D, BMW manufactured a suspension strut support system in a single print run. The result: faster turnaround, stronger geometry, and a leaner supply chain. This case proved how WAAM can deliver high-performance parts that meet strict OEM requirements while reducing complexity and waste.」（https://mx3d.com/industries/automotive/・1回目）
+  - 「At MX3D, I’ve had the opportunity to engage with cutting-edge technology while working closely with clients across different industries and regions. Supporting international projects and building meaningful relationships, every day brings new challenges and learning experiences. I’m happy to be part of such a supportive team, where collaboration and growth are encouraged.」（https://mx3d.com/about/careers/・1回目）
+  - 「Distribute our systems to provide your clients with a fully integrated, robotic 3D printing.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Empower your clients to print large-scale metal parts with WAAM.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Equip your industrial clients with the world’s leading」（https://mx3d.com/become-a-reseller/・1回目）
+- 用途・分野：
+  - 「Since 2014, MX3D’s skilled production engineers and in-house」（https://mx3d.com/・1回目）
+  - 「Since 2014, MX3D has printed countless qualified industrial parts for multiple verticals like Nuclear, Maritime, Oil and Gas, Construction, and Art and Design.」（https://mx3d.com/・1回目）
+  - 「MX3D WAAM Systems Now Operational as Framatome Inaugurates €25 Million Nuclear Additive Manufacturing Center in France」（https://mx3d.com/・1回目）
+  - 「Cylinder for Space Module」（https://mx3d.com/about/cases/・1回目）
+  - 「Steam Turbine spare part」（https://mx3d.com/about/cases/・1回目）
+  - 「Defense - MX3D」（https://mx3d.com/industries/defense/・1回目）
+  - 「Defense Manufacturing with WAAM」（https://mx3d.com/industries/defense/・1回目）
+  - 「Defense organizations face increasing pressure to maintain readiness while operating in complex geopolitical and logistical environments. Long lead times, dependency on external suppliers, and limited availability of spare parts can directly impact operational capability. Wire Arc Additive Manufacturing (WAAM) offers a」（https://mx3d.com/industries/defense/・1回目）
+  - 「MX3D provides containerized industrial WAAM systems and manufacturing services that enable defense organizations to manufacture, repair, and adapt metal components when and where they are needed. By combining robotic metal 3D printing with advanced process control, WAAM supports faster response times, improved resilience, and long‑term manufacturing autonomy.」（https://mx3d.com/industries/defense/・1回目）
+  - 「Boost Control Over the Defense Supply Chain」（https://mx3d.com/industries/defense/・1回目）
+  - 「Strategic autonomy is becoming a key objective for defense organizations worldwide. WAAM enables a shift from reliance on global OEM supply chains to controlled, local and fully automated production. Instead of waiting months for replacement parts, components can be produced or repaired directly from validated digital designs.」（https://mx3d.com/industries/defense/・1回目）
+  - 「WAAM is particularly suited for distributed manufacturing strategies. MX3D systems allow defense organizations to deploy multiple production hubs across different locations, reducing single points of failure and enabling continuous production.」（https://mx3d.com/industries/defense/・1回目）
+- 政府・研究機関の契約：
+  - 「MX3D systems have a proven track record of active deployment throughout NATO territory. Our systems currently support multiple defense organizations, including the US Department of Defense, alongside various Army and Navy branches, to ensure rapid replacement, repair, and high operational readiness.」（https://mx3d.com/industries/defense/・1回目）
+  - 「WAAM drastically accelerates automotive R&D by slashing prototype cycles from several months down to mere days. Because the additive process requires absolutely no pattern-making, engineers can rapidly iterate and test large structural components without massive upfront tooling investments.」（https://mx3d.com/industries/automotive/・1回目）
+  - 「Serra Utkum Ikiz is a city planner, writer, and researcher who previously served as Managing Editor at Parametric Architecture. Her work explores cities through urbanism, politics,...」（https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG・3回目）
+  - 「Serra Utkum Ikiz is a city planner, writer, and researcher who previously served as Managing Editor at Parametric Architecture. Her work explores cities through urbanism, politics, everyday sociology, and emerging design trends, combining critical research with architectural and urban storytelling.」（https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG・3回目）
+  - 「US Navy installs on board the first Phillips Additive Hybrid metal 3D printing solution powered by Meltio and Haas」（https://www.phillipscorp.com/usa/phillips-expands-additive-manufacturing-capabilities-with-mx3d-m1-system/・3回目）
+  - 「Their concepts were further developed in collaboration with MX3D’s technical team. Design iterations and knowledge exchange focused on translating the concepts into manufacturable parts and preparing the designs for robotic WAAM production. The finalised cases were gathered and prepared for production, with the manufacturing phase still ongoing in August 2026.」（https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands・3回目）
+  - 「US Navy Installs First Onboard Phillips Additive Hybrid Machine」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「US Navy installs on board the first Phillips Additive Hybrid metal 3D printing solution powered by Meltio and Haas」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「– The Spanish multinational Meltio – a disruptive wire-laser metal 3D printing technology manufacturer- together with Phillips Corporation – a global manufacturing solutions leader based in the US – have worked together to install for the first time on a US Navy ship a metal 3D printing solution for the onboard manufacture of spare parts and repairs. The」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「“This is an optimal fit for the US Navy that is seeking to add exceptional new Additive capability to their Haas machining centers– all in one machine,” Kristaponis added. “They are leveraging this exciting new technology to improve self-sufficiency for deployed ships and their crews.”」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「Phillips Federal Awarded U.S. Army Contract for Containerized Additive Hybrid Manufacturing Systems」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「HANOVER, Maryland — Phillips Corporation, Federal Division, announced today that it has entered into a contract with the U.S. Army to deliver advanced hybrid manufacturing systems through its Hybrid division. The...」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+- 日本との接点：
+  - 「Become a WAAM Reseller: Distributor Program - MX3D」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Become an Official MX3D Reseller」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「High-impact industries can no longer wait for months or years for traditional casting or forging. MX3D provides robotic metal 3D printing systems to solve these supply chain bottlenecks. We are expanding our global network and seeking high-tier industrial distributors to scale WAAM technology across high-impact sectors locally.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Our Trusted Resellers」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We have a network of resellers to supply our systems worldwide. We value local distributors to improve connection and servicing with customers locally. Whether it’s about AM knowledge/skills, technical support, geographical proximity and/or the ability to talk in native language, we appreciate the added value from our trusted resellers.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Why Become a Reseller?」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We upskill our resellers on advanced WAAM, both technically and commercially to have high-impact sales conversations」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We prefer working with resellers who already distribute complementary metal additive manufacturing technologies (such as LPBF and Laser DED) or large-format robotic AM solutions」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Are you interested in becoming an official MX3D system reseller? Reach out to us, and we will be in touch.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「The Linares-based multinational relies on its US distributor, Phillips Corporation, to close the first of many historic contracts that allows the Bataan ship and others in Navy to manufacture parts and repair tools」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+  - 「From AI Agents to Robot Action: Building the Edge Architecture for Physical AI」（https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components・3回目）
+  - 「Edge computing gives AI agents the processing power to turn instructions into…」（https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components・3回目）
+- 販売の仕組み：
+  - 「Become a WAAM Reseller: Distributor Program - MX3D」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Exclusive Lead Generation」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Become an Official MX3D Reseller」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「High-impact industries can no longer wait for months or years for traditional casting or forging. MX3D provides robotic metal 3D printing systems to solve these supply chain bottlenecks. We are expanding our global network and seeking high-tier industrial distributors to scale WAAM technology across high-impact sectors locally.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Our Trusted Resellers」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We have a network of resellers to supply our systems worldwide. We value local distributors to improve connection and servicing with customers locally. Whether it’s about AM knowledge/skills, technical support, geographical proximity and/or the ability to talk in native language, we appreciate the added value from our trusted resellers.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Why Become a Reseller?」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We upskill our resellers on advanced WAAM, both technically and commercially to have high-impact sales conversations」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「We prefer working with resellers who already distribute complementary metal additive manufacturing technologies (such as LPBF and Laser DED) or large-format robotic AM solutions」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Are you interested in becoming an official MX3D system reseller? Reach out to us, and we will be in touch.」（https://mx3d.com/become-a-reseller/・1回目）
+  - 「Step into the future of industrial production by visiting our exclusive」（https://mx3d.com/case/pressure-vessel/・1回目）
+  - 「The Linares-based multinational relies on its US distributor, Phillips Corporation, to close the first of many historic contracts that allows the Bataan ship and others in Navy to manufacture parts and repair tools」（https://www.phillipscorp.com/usa/us-navy-installs-on-board-the-first-phillips-additive-hybrid-metal-3d-printing-solution-powered-by-meltio-and-haas/・3回目）
+- 規模・受注残：
+  - 「MX3D Doubles Revenue as Demand for Large-Scale WAAM Systems Grows « Fabbaloo」（https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows・3回目）
+  - 「We were told they’ve doubled their revenue in the past year, showing very significant growth. I asked where the demand was coming from, and was told that it’s mainly from the energy industry, specifically nuclear, oil and gas applications.」（https://www.fabbaloo.com/news/mx3d-doubles-revenue-as-demand-for-large-scale-waam-systems-grows・3回目）
+- 株主構成：
+  - 「The designer or studio retains full intellectual property ownership of any WAAM-printed design. To ensure complete confidentiality and security for limited editions, all production files and CAD data are completely deletable upon request.」（https://mx3d.com/industries/art-design/・1回目）
+  - 「MX3D is backed by PDENH, EDF, ING, and RVO」（https://mx3d.com/about/invest/・1回目）
+  - 「Access one of the broadest ranges of weldable metal alloys – all qualified, and backed by our team of additive manufacturing experts.」（https://www.phillipscorp.com/mx3d/・3回目）
+  - 「Reduce lead times and total cost of ownership with a turnkey WAAM solution – up to 5x more cost effective than competing technologies.」（https://www.phillipscorp.com/mx3d/・3回目）
+  - 「Other stakeholders in the project include software engineers Autodesk, FORCE Technology, Lenovo, HBM and The Amsterdam Institute for Advanced Metropolitan Solutions, while the build of the bridge has been supported by the Lloyd’s Register Foundation.」（https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam・3回目）
+  - 「For instance, they could analyse anonymized crowd behaviour to better understand the impact of tourism in Amsterdam's Red Light District. The project also addresses questions about open data, data ethics, and citizen ownership of city analytics. The」（https://www.robotics247.com/article/steel_bridge_3d_printed_by_mx3d_officially_opens_in_amsterdam/Components・3回目）
+  - 「. This endeavor involves fostering partnerships and driving business opportunities alongside technology centers, machine tool companies, robotic integrators, academia, and industry stakeholders.」（https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/・3回目）
+- 創業年度：
+  - 「Established in 2014」（https://mx3d.com/・1回目）
+  - 「Since 2014, MX3D’s skilled production engineers and in-house」（https://mx3d.com/・1回目）
+  - 「Since 2014, MX3D has printed countless qualified industrial parts for multiple verticals like Nuclear, Maritime, Oil and Gas, Construction, and Art and Design.」（https://mx3d.com/・1回目）
+  - 「Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the Nuclear, Hydro, Oil, and Gas industry using API20S or DNV-ST-B203.」（https://mx3d.com/industries/energy/・1回目）
+  - 「Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the naval, commercial maritime, and sub-sea industries using API20S, PED, or DNV-ST-B203.」（https://mx3d.com/industries/maritime/・1回目）
+  - 「Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the AEC business with Bridges, Optimized structures, Custom Beams, and Connectors in steel, stainless steel, aluminum, and corten.」（https://mx3d.com/industries/architecture-construction/・1回目）
+  - 「Since 2014, our welding engineers and industry partners have successfully proven the fit of this technology for the Energy, Molding, Milling, and Heavy industries using API20S, PED, or DNV-ST-B203.」（https://mx3d.com/industries/manufacturing/・1回目）
+  - 「With over 50,000 kg of metal 3D printed objects and over 200 man-years of experience since 2014, MX3D is the company that manages the quality of design for various materials including bronze, aluminum, and stainless steel.」（https://mx3d.com/industries/art-design/・1回目）
+  - 「Since 2014, MX3D’s skilled production engineers and in-house certification experts use Robotic WAAM to print qualified metal parts up to 20,000 kg, specializing in Nuclear, Oil and Gas, Maritime and Manufacturing.」（https://mx3d.com/metal-3d-printing-on-demand-waam-parts-mx3d/・1回目）
+  - 「MX3D has been working on the 3D-printed bridge since 2015, collaborating with various partners, including Joris Laarman Lab who designed the bridge, Arup who acted as the project’s lead structural engineers and Autodesk, which provided their knowledge on digital production tools.」（https://www-smartinfrastructure.eng.cam.ac.uk/news/worlds-first-ever-3d-printed-steel-bridge-installed-amsterdam・3回目）
+- 黒字・資金：
+  - 「We provide complete, plug-and-play M-Series robotic systems powered by our proprietary MetalXL software, delivering a perfectly controlled, ready-to-print industrial cell.」（https://mx3d.com/waam-solutions-for-aerospace-mx3d/・1回目）
+  - 「Producing design series, faster design adjustments & improved accuracy」（https://mx3d.com/industries/art-design/・1回目）
+  - 「Casting and forging only pay off over a series, because the tooling has to be made first. Without tooling to pay for, a single printed vessel stays affordable.」（https://mx3d.com/custom-pressure-vessels-with-waam-3d-printed-in-stainless-steel-and-aluminum/・1回目）
+  - 「4000 series」（https://www.phillipscorp.com/mx3d/・3回目）
+  - 「5000 series」（https://www.phillipscorp.com/mx3d/・3回目）
+  - 「MX3D has launched the M1 Robotic 3D metal printing system following a funding round, which looks to propel the Dutch robotic welding experts into the realm of commercial products.」（https://develop3d.com/3d-printing/mx3d-raise-e2-25m-to-launch-m1-metal-am-system/・3回目）
+- 検索結果の抜粋：
+  - 「WAAM Supplier: On-Demand Parts & Full Systems | MX3D — WAAM Supplier: On-Demand Parts & Full Systems | MX3D MX3D https://mx3d.com > waam-supplier-wi...」（https://mx3d.com/waam-supplier-wire-arc-additive-manufacturing-parts-and-systems-from-mx3d/・3回目）
+  - 「MX3D Industrial-Scale Metal 3D Printing - Phillips Corporation — MX3D Industrial-Scale Metal 3D Printing - Phillips Corporation Phillips Corporation https://www.phillipscorp.com > mx3d」（https://www.phillipscorp.com/mx3d/・3回目）
+  - 「At MX3D , we follow high-quality standards for WAAM, making ... — At MX3D , we follow high-quality standards for WAAM, making ... LinkedIn https://www.linkedin.com > posts > mx3d_at-mx3d-we-fo...」（https://www.linkedin.com/posts/mx3d_at-mx3d-we-follow-high-quality-standards-activity-7457368600996163584-RZAP・3回目）
+  - 「MX3D Bridge - Joris Laarman — MX3D Bridge - Joris Laarman Joris Laarman https://www.jorislaarman.com > work」（https://www.jorislaarman.com/work/mx3d-bridge/・3回目）
+  - 「What innovations has MX3D introduced in additive ... — What innovations has MX3D introduced in additive ... MX3D https://mx3d.com > what-innovations...」（https://mx3d.com/what-innovations-has-mx3d-introduced-in-additive-manufacturing/・3回目）
+  - 「MX3D Bridge — MX3D Bridge MX3D https://mx3d.com > case > mx3d-bridge」（https://mx3d.com/case/mx3d-bridge/・3回目）
+  - 「MX3D Bridge Revolutionizes 3D Printing in Engineering — MX3D Bridge Revolutionizes 3D Printing in Engineering LinkedIn https://www.linkedin.com > posts > g...」（https://www.linkedin.com/posts/gary-k-bbb11019_the-mx3d-bridge-in-amsterdam-represents-a-activity-7519028903961575426-oy4-・3回目）
+  - 「MX3D Bridge removed after permit expires and will be relocated — MX3D Bridge removed after permit expires and will be relocated Parametric Architecture https://parametric-architecture.com > ...」（https://parametric-architecture.com/mx3d-bridge-removed-after-permit-expires-and-will-be-relocated/?srsltid=AYCX9vI9sCr3XLwRpf2lzNj6mSFsV1M767CGw1X0VonzoFDog4Roe0MG・3回目）
+  - 「MX3D Partners with Phillips Corporation to Expand WAAM ... — MX3D Partners with Phillips Corporation to Expand WAAM ... MX3D https://mx3d.com > mx3d-partners-wi...」（https://mx3d.com/mx3d-partners-with-phillips-corporation-to-expand-waam-access-across-the-united-states/・3回目）
+  - 「MX3D | LinkedIn — MX3D | LinkedIn LinkedIn https://www.linkedin.com > mx3d」（https://www.linkedin.com/company/mx3d/?originalSubdomain=nl・3回目）
+  - 「Pilot Case 7 - MX3D (The Netherlands) - Tracks4Crafts — Pilot Case 7 - MX3D (The Netherlands) - Tracks4Crafts Tracks 4 Crafts https://tracks4crafts.eu > pilot-case-7-...」（https://tracks4crafts.eu/pilot-case-7-mx3d-the-netherlands・3回目）
+  - 「MX3D Bridge - Karamba3D — MX3D Bridge - Karamba3D Karamba3D https://karamba3d.com > mx3d-bridge」（https://karamba3d.com/projects/mx3d-bridge/・3回目）
+- 株主：記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）
+- 代表者：記載なし（3回確認済み：公式24頁／PDF・画像6件／外部49頁・検索15回）

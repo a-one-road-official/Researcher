@@ -1,0 +1,728 @@
+{
+ "name": "AI-SCHOLAR",
+ "aliases": [
+  "AI-SCHOLAR",
+  "AIスカラー",
+  "株式会社Laboro"
+ ],
+ "context": "AI論文解説メディア",
+ "researched_at": "2026-11-07T02:58:59.780447+00:00",
+ "official_url": "https://ai-scholar.tech",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区恵比寿1-23-23\n恵比寿スクエア7階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "磯山博文",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2011年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "必要最小限の入力項目にとどめ、AI人材紹介サービスvistAI登録者と明確に表示を分割し、とても",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、AIの社会実用を推進、活用する各企業と連携し、サービス紹介やAIイベントの開催、告知にも精力的に活動しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは - TECH PLAY",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "#『【オンライン・無料セミナー】どこまでAI活用できる！？",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "会場：本ウェビナーはオンライン開催となります",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "CVR最大化に特化した会話型チャットボットサービス「BOTCHAN」や、SNS広告に特化したマーケティングサービスを通して、デジタルマーケテ...",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "を運営する株式会社wevnal(本社：東京都渋谷区、代表取締役社長：磯山 博文)は、この度1万人の会員登録者数を突破いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要最小限の入力項目にとどめ、AI人材紹介サービスvistAI登録者と明確に表示を分割し、とても",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年9月のローンチ以来、約2年で会員登録者数1万人突破、業界有数のPV数へと急成長したAIメディア",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界有数のPV数を誇る、AI論文メディア「AI-SCHOLAR（エーアイスカラー）」が厳選したAI人材とAI企業だけの就活支援サービスを開始",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップクラスのPV数を誇る、AI論文メディア「AI-SCHOLAR」の編集部がサービスの運営者として、AI人材とAI企業の審査を行います",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の9月にリリースされ、約1年半で業界有数のPV数を誇るメディアにまで急成長しました",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年9月のローンチ以来、約1年半で業界有数のPV数にまで急成長したAIメディア",
+    "url": "https://avilen.jp/news/580705/",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "を運営する株式会社wevnal(本社：東京都渋谷区、代表取締役社長：磯山 博文)は、この度1万人の会員登録者数を突破いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年9月のローンチ以来、約2年で会員登録者数1万人突破、業界有数のPV数へと急成長したAIメディア",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・記者会見の情報など様々な特記情報を閲覧できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップクラスのPV数を誇る、AI論文メディア「AI-SCHOLAR」の編集部がサービスの運営者として、AI人材とAI企業の審査を行います",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の新サービスは、メディア運営とはまた違ったアプローチで、一般社会にAIが溶け込んでいく姿を実現していくため着手した、「AI-SCHOLAR」編集部の新たなチャレンジであります",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "AVILENのE資格コースは、受講生の94.4%がE資格に合格するという、業界トップクラスの実績を達成しています",
+    "url": "https://avilen.jp/news/580705/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの大手企業や製造・金融系の企業を中心に、AIサービスの提供実績があります",
+    "url": "https://avilen.jp/news/580705/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI-SCHOLARのリリースは2018年7月26日でした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリースには、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の9月にリリースされ、約1年半で業界有数のPV数を誇るメディアにまで急成長しました",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "設立 2011年4月",
+    "url": "https://avilen.jp/news/580705/",
+    "pass": 3
+   },
+   {
+    "quote": "経験した後、マーケティング支援会社を設立",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "厳選AI人材スカウトサービス「vistAI」をローンチ | syncAD（シンクアド）｜ Web広告・デジタルマーケティングのいまをお届けするメディア",
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "pass": 3
+   },
+   {
+    "quote": "・インターネットマーケティング事業（各種運用型広告、クリエイティブ、メディア）",
+    "url": "https://avilen.jp/news/580705/",
+    "pass": 3
+   },
+   {
+    "quote": "CVR最大化に特化した会話型チャットボットサービス「BOTCHAN」や、SNS広告に特化したマーケティングサービスを通して、デジタルマーケテ...",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "2018年8月wevnal中途社員としてBOTCHAN立ち上げメンバーとしてジョイン",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "AI論文解説に特化したメディア「AI-SCHOLAR」を立ち上げ、日本一のAI専門メディアへ",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは - TECH PLAY",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   },
+   {
+    "quote": "#『【オンライン・無料セミナー】どこまでAI活用できる！？",
+    "url": "https://techplay.jp/event/951011",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AI技術最新情報メディア | AI - SCHOLAR (@ai_scholar) / X AI技術最新情報メディア | AI - SCHOLAR (@ai_scholar) / X X https://x.com > ai_scholar",
+    "url": "https://x.com/ai_scholar",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術最新情報メディア | AI - SCHOLAR AI技術最新情報メディア | AI - SCHOLAR X https://x.com > @ai_scholar",
+    "url": "https://x.com/ai_scholar/status/2060223494307389675",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AI Scholar | LinkedIn AI Scholar | LinkedIn LinkedIn https://www.linkedin.com > ai-scholar",
+    "url": "https://www.linkedin.com/company/ai-scholar",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ai-scholar.tech",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://lp.tasky-ai.com/blog/ai-ad-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digiday.jp/platforms/250626-numbers-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aikoukoku-hikaku.jp/ryoukin-hikaku/ai-ad-ryoukin-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://curumi.co.jp/blog/listing-ads-cost-market-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-admakers.jp/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syncad.jp/news/news_wevnal-vistai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avilen.jp/news/580705/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scholar.google.com/citations?user=5xCCtSYAAAAJ&hl=it",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666546824001186",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=OAa-k7VZ6KI&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/recursive-superintelligence1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_4753226/post_articles/949387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/ja-JP/about/activities/venture/interview/wevnal",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techplay.jp/event/1001044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/seo/seo-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.plan-b.co.jp/event/87716/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flaginc.net/scholar-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scholarcompass.net/news/158",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/seminar/240808_jai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/B6EWFTPI5FO3RH3S4IECUNZPSY-2026-10-08/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techplay.jp/event/951011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/AiScholar/373468",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://scholarcompass.net/news/505",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/industry/DCYJY3KBXBKRZLUGS3IAJXYHUI-2024-03-14/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00940/101300001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flaginc.net/scholar-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semanticscholar.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/generative-ai-app-builder/pricing?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightdata.jp/products/web-scraper/google-scholar-scraper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scholar.google.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://msccnagasakiuac.sharepoint.com/:b:/s/-99_/IQCgUUPtqp5jRLQmVlOUbEjxATqtpWSZPAIKoWeWghxanxc?e=t26ECo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kappazundoko/n/n14b682c24a4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academy.crowdworks.jp/articles/ai-blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoiku.sho.jp/433178/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kohaku935/n/n3f1f2edc4096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ai_scholar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ai-scholar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ai_scholar/status/2060223494307389675",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI-SCHOLAR 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://lp.tasky-ai.com/blog/ai-ad-pricing",
+    "https://digiday.jp/platforms/250626-numbers-to-know/",
+    "https://aikoukoku-hikaku.jp/ryoukin-hikaku/ai-ad-ryoukin-2026/",
+    "https://curumi.co.jp/blog/listing-ads-cost-market-rate",
+    "https://www.ai-admakers.jp/price/",
+    "https://media-radar.jp/contents/meditsubu/columns6-ad-market-price/",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "https://newscape-lab.com/news/20250608/",
+    "https://www.facebook.com/wevnal/posts/915%E7%81%AB%E9%96%8B%E5%82%AC%E3%81%BE%E3%81%A7%E6%AE%8B%E3%82%8A%E3%82%8F%E3%81%9A%E3%81%8B%E5%BA%83%E5%91%8A%E8%B2%BB%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%9B%E3%81%9A%E3%81%84%E3%81%8B%E3%81%ABltv%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%99%E3%81%8Bec%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%82%92%E4%BB%8A%E3%81%AE%E4%BD%93%E5%88%B6%E3%81%A7%E3%81%A9%E3%81%86%E6%94%B9%E5%96%84%E3%81%99%E3%82%8B%E3%81%8B%E3%81%9D%E3%82%93%E3%81%AA%E6%82%A9%E3%81%BF%E3%81%AB%E5%90%91%E3%81%8D%E5%90%88%E3%81%86%E6%96%B9%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%A4%A7%E5%9E%8B%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9com/1647837017352692/"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000083.000015648.html",
+    "https://syncad.jp/news/news_wevnal-vistai/",
+    "https://avilen.jp/news/580705/",
+    "https://scholar.google.com/citations?user=5xCCtSYAAAAJ&hl=it",
+    "https://www.sciencedirect.com/science/article/pii/S2666546824001186",
+    "https://aclanthology.org/2025.nlp4pi-1.17.pdf",
+    "https://www.mdpi.com/1424-8220/24/1/85",
+    "https://www.aischolar.com/conference/eipe2026",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11318788/"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://japan.cnet.com/interview/",
+    "https://www.youtube.com/watch?v=OAa-k7VZ6KI&vl=ja",
+    "https://techblitz.com/startup-interview/recursive-superintelligence1/",
+    "https://www.wantedly.com/companies/company_4753226/post_articles/949387",
+    "https://global.fujitsu/ja-JP/about/activities/venture/interview/wevnal",
+    "https://tanren.jp/blog/ai-use-cases_01",
+    "https://somin.ai/ja/science-press/",
+    "https://www.youtube.com/watch?v=T4rBRHVCJi4",
+    "https://note.com/note_avilen/n/n51d1df276542"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "https://techplay.jp/event/1001044",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://n-works.link/blog/seo/seo-seminar",
+    "https://service.plan-b.co.jp/event/87716/",
+    "https://www.symmetric.co.jp/seminar/lp-seo-vol4-seminar",
+    "https://www.future-shop.jp/magazine/ai-seo-seminar-2026",
+    "https://mieru-ca.com/blog/seminar/seo_structure_v/",
+    "https://plus.itc.or.jp/event/seminar2026/a13/",
+    "https://ai.7senses.co.jp/ai-marketing/ai-shukyaku-guide/"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://www.flaginc.net/scholar-agent/",
+    "https://scholarcompass.net/news/158",
+    "https://japan-ai.co.jp/seminar/240808_jai/",
+    "https://www.reuters.com/jp/economy/B6EWFTPI5FO3RH3S4IECUNZPSY-2026-10-08/",
+    "https://techplay.jp/event/951011",
+    "https://note.com/cvusk/n/n59043c4e6b0e",
+    "https://www.matrixflow.net/news/tag/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88/",
+    "https://www.authense.jp/innovators/6923/"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://baike.baidu.com/ja/item/AiScholar/373468",
+    "https://scholarcompass.net/news/505",
+    "https://www.reuters.com/jp/economy/industry/DCYJY3KBXBKRZLUGS3IAJXYHUI-2024-03-14/",
+    "https://business.nikkei.com/atcl/gen/19/00940/101300001/",
+    "https://www.flaginc.net/scholar-agent/",
+    "https://nakamu-farm.com/2025/09/20/%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%E3%80%8C%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AA%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%94%9F%E6%88%90ai%E3%81%AE%E6%A0%A1%E5%8B%99/",
+    "https://scholar.google.com/citations?user=0WtDBKwAAAAJ&hl=en",
+    "https://news.siemens.com/ja-jp/siemens-altair-engineering-closing/",
+    "https://note.com/lakesidev/n/n0e7187ea210e"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://www.semanticscholar.org/",
+    "https://cloud.google.com/generative-ai-app-builder/pricing?hl=ja",
+    "https://brightdata.jp/products/web-scraper/google-scholar-scraper",
+    "https://scholar.google.com/",
+    "https://msccnagasakiuac.sharepoint.com/:b:/s/-99_/IQCgUUPtqp5jRLQmVlOUbEjxATqtpWSZPAIKoWeWghxanxc?e=t26ECo",
+    "https://paperguide.ai/ja/pricing/",
+    "https://www.fastaccounting.jp/blog/%E8%AA%BF%E9%81%94%E3%81%8B%E3%82%89%E6%94%AF%E6%89%95%E3%81%BE%E3%81%A7%E3%81%AEdxai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%8C%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AE/",
+    "https://zonos.com/ja/docs/supply-chain/landed-cost/quotes",
+    "http://www.aij.or.jp/jpn/transaction.htm"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://note.com/kappazundoko/n/n14b682c24a4c",
+    "https://note.com/fresh_ixora3727/n/n81bae47afd4a",
+    "https://academy.crowdworks.jp/articles/ai-blog",
+    "https://kyoiku.sho.jp/433178/",
+    "https://note.com/kohaku935/n/n3f1f2edc4096",
+    "https://tech-direction.jp/news/blog/1116/",
+    "https://www.youtube.com/watch?v=6GlmFUKPIGQ",
+    "https://stockr.bldt.jp/media/ai-furikaeri",
+    "https://www.softbank.jp/biz/blog/cloud-technology/articles/202512/micro-reflection/",
+    "https://notebook.google/"
+   ]
+  },
+  {
+   "query": "site:note.com AI-SCHOLAR",
+   "results": [
+    "https://note.com/ogulinks/n/n558c8b2440d6?hl=en",
+    "https://note.com/matomechannel/n/n28610e60b230?hl=en",
+    "https://note.com/hiroshikinoshita/n/n579b7be72cba?hl=en",
+    "https://note.com/blog_hideyuki/n/nc56dd6a87893",
+    "https://note.com/ozk7311/n/nb49b3b729f4e?hl=en",
+    "https://note.com/agile_chimp9828/n/n1e31b96f62ed?hl=en",
+    "https://note.com/cvpaperchallenge/n/n205f394d6305",
+    "https://note.com/sider_ai/n/n62c861be2eea",
+    "https://note.com/daichi_konno/n/n5c15eee4518e?hl=en",
+    "https://note.com/seita21/n/n0bcd2f1e8322?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com AI-SCHOLAR",
+   "results": [
+    "https://x.com/ai_scholar",
+    "https://x.com/SemanticScholar",
+    "https://x.com/SamMobiles/status/2101989197750165997",
+    "https://x.com/AASForumOrg",
+    "https://x.com/AIHighlight/status/2117933877855445236",
+    "https://x.com/AustinScholar",
+    "https://x.com/LakshmiSubbaraj",
+    "https://x.com/johncrickett/status/2098031427166118169",
+    "https://x.com/WileyGlobal/status/2047318968780603613",
+    "https://x.com/mbzuai/status/2107098421647855780"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AI-SCHOLAR",
+   "results": [
+    "https://www.linkedin.com/company/ai-scholar",
+    "https://www.linkedin.com/pulse/google-scholars-ai-saves-me-hours-research-time-better-mustafa-zqfkf",
+    "https://www.linkedin.com/company/inspirit-ai",
+    "https://www.linkedin.com/posts/faizan-ali-92752262_google-scholar-just-got-ai-but-is-it-any-activity-7398729741005979649-h46v",
+    "https://www.linkedin.com/posts/neilhoyne_google-lifeatgoogle-ai-activity-7396895029757227008-anUY",
+    "https://www.linkedin.com/posts/sharanyadesai_2027-health-ai-scholar-digital-health-algorithms-activity-7523150265856794625-ySZZ",
+    "https://cn.linkedin.com/company/aischolar",
+    "https://www.linkedin.com/posts/ishabanov_many-researchers-still-use-google-scholar-activity-7437191911628771348-O4uH",
+    "https://www.linkedin.com/posts/benita-olivier_semantic-scholar-ai-for-researchers-activity-7080414877915193344-vpdy",
+    "https://www.linkedin.com/company/aischolar"
+   ]
+  },
+  {
+   "query": "site:facebook.com AI-SCHOLAR",
+   "results": [
+    "https://www.facebook.com/p/AiScholar-100093231345655/",
+    "https://www.facebook.com/FudanUni/videos/from-hours-of-scrolling-to-seconds-of-insight-fudan-just-dropped-wispaper-an-ai-/2700021900342738/",
+    "https://www.facebook.com/ChannelNewsAsia/videos/students-are-increasingly-encouraged-to-use-ai-in-their-schoolwork-but-as-ai-doe/28752990231008982/",
+    "https://www.facebook.com/groups/1048019523623103/posts/1050986386659750/",
+    "https://www.facebook.com/groups/703007927897194/posts/782361946628458/",
+    "https://www.facebook.com/amazonwebservices/videos/aws-ai-ml-scholarship-program/1191398695464120/",
+    "https://www.facebook.com/groups/reviewer2/posts/10159547003900469/",
+    "https://www.facebook.com/groups/ai4ed/posts/1636596700537750/",
+    "https://ai.facebook.com/research/",
+    "https://www.facebook.com/groups/703007927897194/posts/1104981474366502/"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR note 社長",
+   "results": [
+    "https://scholion.ai/about",
+    "https://www.youtube.com/watch?v=KO9WoeBzjzs",
+    "https://notebook.google/",
+    "https://note.com/cvpaperchallenge/n/n205f394d6305",
+    "https://www.youtube.com/watch?v=U38m6yA8qgQ",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://dot.asahi.com/articles/-/292259?page=1",
+    "https://x.com/sadaaki",
+    "https://www.instagram.com/reel/Daa_9eUjsKM/",
+    "https://x.com/ai_ceo_note"
+   ]
+  },
+  {
+   "query": "AI-SCHOLAR X 投稿",
+   "results": [
+    "https://ai-scholar.tech/",
+    "https://x.com/ai_scholar/status/2060223494307389675",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://gendai.media/list/author/AISCHOLAR",
+    "https://www.youtube.com/watch?v=lDoGmcJjVM4",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://x.com/ai_scholar",
+    "https://boostx-inc.com/blog/x-twitter-ai-btob-posting/",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://www.ais.cn/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）",
+  "株主構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）",
+  "売上・黒字": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）",
+  "存続": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）"
+ }
+}

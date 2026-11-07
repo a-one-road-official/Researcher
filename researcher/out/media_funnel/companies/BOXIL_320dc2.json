@@ -1,0 +1,3163 @@
+{
+ "name": "BOXIL",
+ "aliases": [
+  "BOXIL",
+  "ボクシル",
+  "スマートキャンプ"
+ ],
+ "context": "SaaS比較・資料請求の送客（保険の窓口型）",
+ "researched_at": "2026-11-07T03:00:02.150373+00:00",
+ "official_url": "https://boxil.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都港区芝5-29-11 G-BASE田町 13階",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区芝5-29-11\nG-BASE田町 13階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区芝5-29-11\nG-BASE田町 13階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "・所在地",
+    "value": "東京都港区芝5-29-11 G-BASE田町13階",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "label": "・所在地",
+    "value": "東京都千代田区丸の内2丁目7-2",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦 3-1-21 msb Tamachi 田町ステーションタワーS 21F",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "阿部 慎平",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長CEO 林 詩音",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "阿部 慎平",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長CEO 林 詩音",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "・代表者",
+    "value": "代表取締役社長 林 詩音",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "label": "・代表者",
+    "value": "代表取締役社長 市原 康隆",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長グループCEO 辻庸介",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年06月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2014年6月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2014年06月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2014年6月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2012年5月",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "label": "開設日",
+    "value": "開設日：2025年8月1日",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※2026年9月にBOXILユーザーから資料請求されたサービスのランキングです",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "資料請求数が同率の場合、口コミ数が多いサービスを優先的に表示しています",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特に流入ページを細かく分析できるので、どのようなユーザーが、どういった目的でサイトを訪れているのかを以前より把握しやすくなりました",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※ピックアップ口コミとは、評価が★3以上で、投稿者が退会していない公開中の口コミのうち、新しく公開されたものを指します",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXILでは皆様の口コミを募集しています！あなたもサービスを使ってみた感想をシェアしませんか？",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXILでは、資料請求リストに保存した資料を1クリックで請求できます",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "口コミ投稿をすると、自身の経験をシェアでき、自分の経験が他の人の役立つヒントになります",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "条件に合うシステムを平均60秒で選定し、BOXILのデータベースを活用して適切なツールを絞り込みすることができます",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS情報メディア BOXIL Magazine",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "貴社のサービスをBOXILに掲載しませんか？",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXILへご登録のメールアドレスをご入力ください",
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXILへご登録のメールアドレスをご入力ください",
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL EXPO - オンライン展示会",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "ADXL - SaaSに特化したデジタルエージェンシー",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）- SaaS比較・口コミサイト",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL Magazine - SaaS情報メディア",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "※2026年9月にBOXILユーザーから資料請求されたサービスのランキングです",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "資料請求数とは、有料掲載頂いている企業様のサービスを対象に、実際に資料請求情報が企業様へ提供された件数をいいます",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "資料請求数が同率の場合、口コミ数が多いサービスを優先的に表示しています",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告の分析だけでなく、ポップアップなどのWeb接客まで一つのツールで行えるところが良いと思います",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの属性や年齢層なども確認でき、分析して終わりではなく、サイトデザインの見直しや広告キーワードの選定など、実際の施策にデータを活かせる点が気に入っています",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BOXILでは、資料請求リストに保存した資料を1クリックで請求できます",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "1クリックでの資料請求",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "BOXIL（ボクシル）は、SaaSやBtoBサービスを比較検討するユーザーが、口コミ、機能、料金、資料請求などを確認できる比較・口コミサイトです",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、SaaS比較サイトへの掲載は「資料請求数が増えたか」だけで判断すると失敗しやすくなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL上では競合サービスと並んで比較されるため、掲載ページ、口コミ、料金説明、導入事例、資料請求後の営業フォローまで設計しておく必要があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILでは、資料請求、口コミ、比較ページ、特集記事、広告枠などを組み合わせて、SaaSやBtoBサービスの認知獲得とリード獲得を支援しています",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILへ掲載する場合は、公式サイトの掲載希望フォームや媒体資料ダウンロードから問い合わせを行い、オンライン打ち合わせ、申し込み、サービスページ作成、カテゴリページへの掲載という流れで進みます",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "公式FAQでは多数のカテゴリが用意されていると案内されており、掲載企業はカテゴリページ、比較ページ、サービスページ、口コミ、資料請求フォームなどを通じて検討層に接触できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "比較検討中のユーザーから資料請求や問い合わせの接点を作れる",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイト、導入事例、広告LPと訴求を揃える",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL公式の口コミページでは、サービスの比較しやすさ、資料請求のしやすさ、口コミや機能比較の見やすさに関する評価が見られます",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "「情報が分かりやすく、資料請求も簡単でした",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILの口コミ評判を見ると、ユーザー側は「複数サービスを比較しやすい」「口コミを見ながら検討できる」「資料請求をまとめて行える」といった点を評価している傾向があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "料金表を出せない場合でも、費用が変わる条件やプランの考え方を説明する",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILの公式料金ページでは、基本プランとしてサービス利用料50,000円/月、資料請求リード12,000円/件と案内されています",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILの掲載費用を見る際は、月額費用や成果報酬の有無だけで判断しないことが重要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "基本プランは12,000円/件",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求数だけでなく、有効商談率と受注単価で判断する",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "カテゴリがずれると、資料請求が発生しても商談化しにくい",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "課金対象外の条件を営業・マーケティング側で把握しておく",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を判断する際は、単純な掲載料金ではなく「有効商談1件あたりのコスト」で見ると現実的です",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、資料請求リードが多くても営業対象外が多ければ、実質的な獲得単価は高くなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求リードの後追いを誰が、何時間以内に行うか",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILの掲載では、サービスページ、カテゴリページ、口コミ、資料請求フォーム、広告枠、メルマガなどを組み合わせて接点を作ります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "単に掲載ページを作るだけでなく、比較検討中のユーザーがどの情報を見て資料請求するかを意識して準備することが重要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILでは、法人向けSaaSやBtoBサービスを比較検討するユーザーに対して、サービス概要、機能、料金、導入事例、口コミ、資料請求導線などを提示できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの情報が不足していると、資料請求は発生しても商談化しにくくなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」が2025年8月度資料請求数ランキングを発表 | スマートキャンプ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」が2025年8月度資料請求数ランキングを発表",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプ株式会社（本社：東京都港区、代表取締役社長CEO：林 詩音、以下「スマートキャンプ」）が運営するSaaS比較サイト「BOXIL（ボクシル）」は、2025年8月度の資料請求数ランキング（以下、本ランキング）を2025年9月11日に発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "本ランキングは、2025年8月1日〜8月31日の1ヶ月間に「BOXIL」上で行われた資料請求に基づき集計したものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要カテゴリについて、資料請求数の多かった上位5サービスを紹介します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "SFA（営業支援システム）資料請求数ランキング",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "※資料請求数とは、有料掲載いただいている企業のサービスを対象に、実際に資料請求情報が企業へ提供された件数をいいます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求数が同率の場合、口コミ数が多いサービスを優先的に表示しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "【「BOXIL資料請求数ランキング」とは】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」上で行われた資料請求を基にスマートキャンプが集計し、ランキング形式で発表するものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "請求書発行システム、人事評価システム、ERP、BIツール、離職防止ツールなど、450以上のカテゴリにおいて定期的に資料請求数ランキングを発表し、SaaS比較に役立つ情報を提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "記載例：BOXIL「BOXIL資料請求数ランキング（XXXX年XX月度）」, XXXX年X月XX日確認,",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL（ボクシル）」は、法人向けクラウドサービスを無料で比較し、まとめて資料請求できるSaaS比較サイトです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月度BOXIL資料請求数ランキング",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "従量課金、起業LOG SaaSの配信先約15,000名、詳細はお問い合わせ",
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "BOXILでは皆様の口コミを募集しています！あなたもサービスを使ってみた感想をシェアしませんか？",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "口コミ投稿をすると、自身の経験をシェアでき、自分の経験が他の人の役立つヒントになります",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "条件に合うシステムを平均60秒で選定し、BOXILのデータベースを活用して適切なツールを絞り込みすることができます",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります",
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "pass": 1
+   },
+   {
+    "quote": "特に導入実績が少ないサービスや新しいカテゴリのサービスは、口コミが不足していると比較検討時に不利になる可能性があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトペーパーなどを会員へ配信して発生したリードを獲得するメニュー",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "虚偽情報、重複、フリードメイン、従業員規模1名、既存顧客、競合など",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBデータベースサイトおすすめ比較！掲載先の選び方とリ…",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "比較サイト、資料請求メディア、製造業データベース、営業リスト作成ツールの違いと、リード獲得に...",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILカンパニー メディア＆マーケティングディビジョン メディア戦略グループ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年11月に株式会社マネーフォワードのグループ会社となり、2023年12月には株式会社ビズヒントがグループジョイン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・記者会見の情報など様々な特記情報を閲覧できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始10年で会員数25万人、口コミ数55,000件を達成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間で「BOXIL」は、サービスの提供開始から10年間で会員数25万人、ユーザーから寄せられた口コミ55,000件、そして掲載サービス数4,000件を超えるプラットフォームへと成長しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "累計ダウンロード数は30,000件を超えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」の会員は部長・課長以上の役職者が約半数を占めています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員規模1,000名以上の大企業に所属している会員が22.8％、業界では、IT/通信/インターネットが31.4％を占めています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員数10万人突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "口コミ累計10,000件突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "口コミ累計30,000件突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員数20万人突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "口コミ累計50,000件突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」が10周年を迎え、掲載サービス数は4,000件、会員数は25万人を突破しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月には株式会社ビズヒントがグループジョイン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・記者会見の情報など様々な特記情報を閲覧できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？ | Shirofune（シロフネ）｜国内シェアNo.1広告運用自動化ツール",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "②新記事作成：自社のドメインパワーが強い領域のキーワードに注力",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "一方ビヨンドはSaaSに限らずビジネスパーソンの興味関心をひく情報を提供しており対象読者の母数がより大きく、ソーシャルでのシェアやGoogleニュース、キュレーションアプリにも掲載されるなど拡散の幅が広いメディアです",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "ビヨンドでトレンド性の高い記事やキャッチーな記事を作成してバズらせることにより、短期的なPVアップとドメイン力強化を狙いました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "そういった記事は被リンクを獲得してくれますし、サイテーション（ネット上で言及されること）によってドメイン力にプラスの影響を与えてくれます",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような記事はドメイン力強化の文脈で一定数作り続けていましたが、効率を考え年間まとめなどバズ記事を作りやすい12月に特に集中して作成しました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "半年でPV数2倍・1100万PV！メディアの会員数も2倍に成長！",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "平均年齢の若い組織×実績豊富なキャリーミーのプロ人材の化学反応",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "法人会員の登録数は同時期には2倍に成長し、コンバージョン（会員登録＆アクション）もほぼ2倍と増えております",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "【BOXIL共催】【SaaS・メディア事業者向け】AI検索時代のSaaSブランド戦略 PVに変わる新指標「AI引用率」とは？ | ウェビナー | Brand UP（ブランドアップ）",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "【BOXIL共催】【SaaS・メディア事業者向け】AI検索時代のSaaSブランド戦略 PVに変わる新指標「AI引用率」とは？",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS・メディア事業者にとって、Webサイトへの流入（PV）だけでは、AI検索時代のブランド評価を十分に把握できなくなりつつあります",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "AI検索で自社サービスやコンテンツがどの程度引用・言及されているかを測ることで、従来のSEO指標では見えにくかったブランド認知の変化を把握できます",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げから約半年で感じている課題感をシェアしながら一緒に取り組んでいける方、そして社内のタスクを一緒に整備していける人",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "その第1歩目がビズヒントさんのグループジョインでしょうか？",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "また、グループ会社であるADXL株式会社の設立に参画し、取締役の兼任を経て現職",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "掲載サービスにおいても、ニーズが高いホリゾンタルSaaSはほぼ網羅できていると考えていますし、「BOXIL SaaS」の会員数は順調に増えています",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "社会全体で見ると、日本の生産年齢人口は7500万人と言われますが、それに対して「BOXIL SaaS」の会員数は1％も満たしていません",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "ビズヒントさんは60万人もの会員を抱えていらっしゃいます",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "ビズヒントさんのコンテンツ力は素晴らしく、会員様に質の高い情報提供（記事提供）を行い、気づきを与え、会社のDX化へと動機づけする力を持っています",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "ビズヒントさんの会員様にとっても、気づきを得たその瞬間に次の行動に移ることが出来るためよりよい体験を提供できると考えています",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "潜在層へのアプローチなどを増やし、業界No.1を目指すこと",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "Redmineのチケット管理をベースにしながら、プロジェクト管理に必要な情報をより見やすく整理できる点が良いです",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、ガントチャートなどでスケジュールや進捗状況を可視化できるため、Redmineに慣れていない利用者にもプロジェクトの状況を説明しやすくなります",
+    "url": "https://boxil.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "#post_excerpt プロダクトマーケティングの意味や一般的なマーケティングとの違い、PMM・PdMの役割、戦略の立て方、GTM、KPI、BtoB...",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、外部のDMPとの連携を進めています",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "FAXや手書き帳票の処理時間が最大80％短縮するケースも！現場で紙業務が多い領域、FAXのやり取りが多い受発注領域でDXを実現したい現場の方、必見です",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "初期設定、サポート範囲、導入までの流れを具体的に示す",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円がかかります",
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用無料、リード単価¥10,000/件、契約期間6ヶ月〜",
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？ | Shirofune（シロフネ）｜国内シェアNo.1広告運用自動化ツール",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアをグロースさせるのに必要なのは、",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "現在もさらにサービスを伸ばすべく、様々な角度からグロース施策を実行中",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後ヘルスケアベンチャー企業に創業メンバーとして参画",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社が運営するボクシルマガジンを活用したメディア広告事業「BOXIL Ads（ボクシルアド）」の立ち上げに従事",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月にBOXIL Adsを立ち上げ、スキーム確立や制作ディレクションを行っています",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げから約半年で感じている課題感をシェアしながら一緒に取り組んでいける方、そして社内のタスクを一緒に整備していける人",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "新しい事業の立ち上げをできることは楽しさでもありますが、厳しさもあります",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "トラフィック（PV数）を増しながらマネタイズ（収益化）していく、そして集まったデータを活用するというのはメディアとしての適切なグロース手段だと思うので、このままこの事業を伸ばしていきたいです",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティングオートメーション事業の立ち上げを行う",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSマーケティングプラットフォーム「BOXIL SaaS」のマーケターとして、WEB広告運用やSFA/MAツールを活用し、マーケティング部門を立ち上げ、正社員に加えてフリーランスや副業社員も登用するなど、同事業の売上成長を牽引",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "歴史をたどると、元々は創業事業である「SKET（スケット）」という資料作成の代行ビジネスから始まりました",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "いきなり潜在層の方へのアプローチと言っても、スマートキャンプがゼロからアプローチを始めるのは大変です",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは創業者の古橋智史が2014年に設立した会社です",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "夜遅くまでかかる膨大な資料づくりや、複雑な事務作業など、ビジネスで非効率に思える部分を改善したいという想いから、この会社を立ち上げました",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "起業直後の数ヶ月は、渋谷区のシェアオフィスで過ごしたり、創業者の知人のマンションを間借りしたりしていたと聞いています",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "月額料金は「グループウェアプラン」のみで初期費用は発生いたしません",
+    "url": "https://jobma.jp/function_lists/sales/",
+    "pass": 3
+   },
+   {
+    "quote": "・予算：初期50万円、月額10万円以内",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用が安くても、運用コストや従業員の学習コストなど、見えないコストも考慮が必要です",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは14年創業",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、すでに大量のターゲット層を抱えるメディアに掲載すれば、初期投資を抑えつつ短期間で成果につなげやすくなります",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "自社でSEO記事を整備する場合は記事制作費・運用人件費が数十万〜数百万円規模になりますが、資料掲載サイトの多くは初期費用ゼロ・リード発生時のみ課金（CPL2,000〜12,000円程度）で利用でき、費用対効果が読みやすい施策です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期・月額0円でリスクが低い",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "完全成果報酬型は「初期費用ゼロで試したい」「リード数の予測が立てづらい」場合に向いており、月額固定型は「予算を確保した上で安定的な露出を確保したい」場合に向いています",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用ゼロで始められるサービスは「slide lib」「まるなげ資料請求」「エンプレス」「アスピック」「Kyozon」「メディアレーダー」「マーケメディア」「ミツモア」「EMEAO!」",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "完全成果報酬型（初期・月額0円）",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用や月額固定はなしで成果報酬のみで開始したい",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "Q8 ／ 立ち上げスピード",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSに限らず、業務代行・コンサル・制作系・人材系などジャンルを問わず掲載できる点が特徴で、初期費用ゼロまたは無料掲載で始められるサイトが多い傾向にあります",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用や月額固定費を抑えて掲載を始めたい",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期・月額0円の完全成果報酬、低単価で始めやすい",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期3万円＋12,000円／件",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年以上の老舗ビジネスマッチング",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用・月額費用が0円、リード単価3,000円の完全成果報酬型サービス",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載費・運用費・初期費用すべてが0円で、ユーザーが実際に資料を請求した場合のみ費用が発生する低リスク設計が特徴です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期0円、月額0円、リード単価3,000円／件",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載側の特徴として、初期費用・月額費用がかからず成果報酬型で運用できるため、リスクを抑えて掲載開始できます",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：0円〜10万円",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：0円",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "東証グロース上場の株式会社ユーザベース傘下のスマートキャンプ社が運営しており、SaaS事業者なら必ず検討対象に入る定番の掲載先です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系は完全成果報酬型で、初期費用30,000円・リード1件あたり12,000円という分かりやすい設定です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期30,000円、月額0円、リード単価12,000円／件",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用も0円のため、リスクを抑えて掲載を始められます",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "初期0円、月額0円、リード単価11,000円（税込）／件",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系は初期費用・月額費用が0円、資料請求が発生した際のみ料金が発生する従量課金制を採用しており、リーズナブルで分かりやすい設計です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のWebサービス企業で事業開発・プロダクトマネージャーを経験後、Techベンチャーを創業しバイアウト",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マネーフォワードに入社し、新規SaaS事業の立ち上げと責任者を歴任した後、スマートキャンプ株式会社へ出向、転籍",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "CPOとしてグロースハックおよびM&A推進に従事",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げでフルスタック開発を経験した後、複数のプロダクトでインフラ刷新や開発リーダーを担当",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーさま向けの機能を一緒にゼロから始めていたら、収拾がつかなくなっていたと思います」",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "※既存のシステムを改修するのではなくゼロから開発する手法",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "限定的なメンバーでクローズドにミーティングをして、リリースしました！という感じだと、混乱するメンバーも多いと思いますが、初期段階から関係者を巻き込めたのはよかったと思います」",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げでフルスタック開発を経験した後、複数のプロダクトでインフラ刷新や開発リーダーを担当",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2018年に株式会社マネーフォワードにジョインし、勤怠管理サービスの立ち上げを行った後、人事労務領域のサービス開発全般のエンジニアリングマネージャーを務める",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "※既存のシステムを改修するのではなくゼロから開発する手法",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "「BOXIL」が2025年8月度資料請求数ランキングを発表 | スマートキャンプ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2014年6月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリースには、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」掲載サービス数 4,000件を突破 | スマートキャンプ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始10年で会員数25万人、口コミ数55,000件を達成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業資料掲載サイトとして「BOXIL （ボクシル）」をリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI搭載コンシェルジュ「チャットでSaaS提案」機能の正式版をリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2014年6月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリースには、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年4月にリリースしたボクシル",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "ボクシルマガジンを主要な集客経路とし、リリースから約3年で月間300万PVへ到達",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後ヘルスケアベンチャー企業に創業メンバーとして参画",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー側には製品をいち早く使える、企業側には製品リリース直後に（前職が運営するサイト内に）ユーザーレビューが集まっている状態となるため、発売直後の販売にブーストをかけられるというメリットがありました",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "また、グループ会社であるADXL株式会社の設立に参画し、取締役の兼任を経て現職",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "歴史をたどると、元々は創業事業である「SKET（スケット）」という資料作成の代行ビジネスから始まりました",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは創業者の古橋智史が2014年に設立した会社です",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "起業当初は、お客様の資料をブラッシュアップするサービスを手がけていましたが、2015年にSaaS比較サイト「BOXIL（ボクシル）」をリリースし、これが主力サービスに",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "起業直後の数ヶ月は、渋谷区のシェアオフィスで過ごしたり、創業者の知人のマンションを間借りしたりしていたと聞いています",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは2014年設立で、マネーフォワードの完全子会社として事業を展開してきました",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "いまはプレスリリースも自動で記事にできるように頑張っています",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」では続々と機能リリースを行っています！定期的にリリース情報をまとめているのでぜひチェックしてください",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "設立 ：2012年5月",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは14年創業",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年以上の老舗ビジネスマッチング",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年リリースの比較的新しいサービスながら、2024年11月時点における取引実績は1,653社、SaaS事業者の支援実績は1,351社にのぼります",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年以上の老舗BtoBマッチングサイト",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年以上の老舗、発注前提案件中心",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ｜SaaS比較サイト「BOXIL」の公式noteアカウントを開設 ｜スマートキャンプ株式会社",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ｜SaaS比較サイト「BOXIL」の公式noteアカウントを開設 ｜スマートキャンプ株式会社 読み込まれました",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」の公式noteアカウントを開設",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプ株式会社は本日、SaaS比較サイト「BOXIL（ボクシル）」について、公式noteアカウントを開設したことをお知らせします",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "開設日：2025年8月1日",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "複数のWebサービス企業で事業開発・プロダクトマネージャーを経験後、Techベンチャーを創業しバイアウト",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月19日に新たな「BOXIL」としてリリースしました！",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "このプロジェクトでは、工程を17の小プロジェクトに分け、2024年12月のリリース後、継続的に機能追加を行っています",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "和田： 「『BOXIL』はおかげさまで2015年のリリース以降、順調に成長を続けてきました",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "限定的なメンバーでクローズドにミーティングをして、リリースしました！という感じだと、混乱するメンバーも多いと思いますが、初期段階から関係者を巻き込めたのはよかったと思います」",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "ー 絶対にリリースできないと思ったタイミングはありましたか",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "入山： 「絶対にリリースできないとは思っていませんでした",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」公式noteでは、新機能のリリースや開発の裏話、開発者の想いなど、画面の向こう側のストーリーをお届けしています",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」では続々と機能リリースを行っています！定期的にリリース情報をまとめているのでぜひチェックしてください",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月19日に新たな「BOXIL」としてリリースしました！",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "本プロジェクトでは、工程を17の小プロジェクトに分け、2024年12月のリリース後、継続的に機能追加を行っています",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "データ移行については『リリース前の移行段階で考える』という決断をしました",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」公式noteでは、新機能のリリースや開発の裏話、開発者の想いなど、画面の向こう側のストーリーをお届けしています",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」では続々と機能リリースを行っています！定期的にリリース情報をまとめているのでぜひチェックしてください",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」 比較表のダウンロード機能をリリース 資料にまとめ直す手間を省略",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL「AIOダッシュボード」をリリース AI検索の\"言及率\"を測れるようにしました",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月「BOXIL Magazine」リリース記事のまとめ - 「SaaSの利用に関する調査」含む全9記事を紹介 -｜BOXIL 公式note",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月「BOXIL Magazine」リリース記事のまとめ - 「SaaSの利用に関する調査」含む全9記事を紹介 -",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "今回は10月にリリースした記事の中で、とくに読んでいただきたい9つの記事をピックアップしています！ぜひご覧ください",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に創立30周年を迎えた株式会社WOW WORLD",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "LINE WORKS株式会社が提供を開始した新製品「LINE WORKS PaperOn」に関するプレスリリースに加え、事業責任者の林氏にインタビューを実施しました",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "利用していた勤怠管理システムの提供が終了してしまうため、勤怠管理システムの乗り換え先製品を検討するためにBoxilを利用しました",
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "pass": 3
+   },
+   {
+    "quote": "契約終了後には、ご自身の働きに対する社員の満足度調査もされるなど、まさにプロといった仕事ぶりに、チームメンバーは大きく感銘を受けていました",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、SaaS比較サイト「BOXIL」などを売却、64億円の特別利益 | Media Innovation / デジタルメディアのイノベーションを加速させる",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、SaaS比較サイト「BOXIL」などを売却、64億円の特別利益",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、2020年3月にISとマーケティングが統合し、FSはCSと統合してASを置くという、現在のISとASの体制になりました",
+    "url": "https://sairu.co.jp/method/22236/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "BOXIL Magazine（ボクシル マガジン） — BOXIL Magazine（ボクシル マガジン） BOXIL https://boxil.jp > mag",
+    "url": "https://boxil.jp/mag/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL の広告掲載費用と評判を解説 SaaS比較サイトでリード ... — BOXIL の広告掲載費用と評判を解説 SaaS比較サイトでリード ... キャククル https://www.shopowner-support.net > boxil-advertisement",
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 BOXIL の掲載料金・リード獲得単価（CPL）がわかる ... — 【公式】 BOXIL の掲載料金・リード獲得単価（CPL）がわかる ... BOXIL https://boxil.jp > partners > downlord > service > price",
+    "url": "https://boxil.jp/campaign/partners/downlord/service/price",
+    "pass": 3
+   },
+   {
+    "quote": "「 BOXIL 」が2025年8月度資料請求数ランキングを発表 — 「 BOXIL 」が2025年8月度資料請求数ランキングを発表 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "Boxil の価格（料金・費用） - ITreview — Boxil の価格（料金・費用） - ITreview ITreview https://www.itreview.jp > ... > SaaS比較サイト > Boxil",
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL の料金・機能・導入事例 — BOXIL の料金・機能・導入事例 BOXIL https://boxil.jp > リードジェネレーション",
+    "url": "https://boxil.jp/service/1/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「 BOXIL 」掲載サービス数 4,000件を突破 — SaaS比較サイト「 BOXIL 」掲載サービス数 4,000件を突破 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万 PV から1,000万 PV へ！ボクシルを急成長させた ... — 半年で300万 PV から1,000万 PV へ！ボクシルを急成長させた ... Shirofune https://shirofune.com > インハウスマーケティングラボ",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "【 BOXIL 共催】【SaaS・メディア事業者向け】AI検索時代の ... — 【 BOXIL 共催】【SaaS・メディア事業者向け】AI検索時代の ... brand-up.net https://www.brand-up.net > boxil-saas-ai-citation-rate",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "1to1プラットフォームへ。 BOXIL メディアマネタイズの展望 ... — 1to1プラットフォームへ。 BOXIL メディアマネタイズの展望 ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「 BOXIL SaaS」のビジョンは ... - Wantedly — SaaS比較サイト「 BOXIL SaaS」のビジョンは ... - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプ株式会社｜成長ベンチャーに訊く - CBRE — スマートキャンプ株式会社｜成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > trend > venture_smartcamp",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "100以上の求人媒体から最適解を導く。コストを抑え成果を ... — 100以上の求人媒体から最適解を導く。コストを抑え成果を ... BOXIL https://boxil.jp > mag",
+    "url": "https://boxil.jp/mag/a10566/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 SEO ツールのサービス一覧 - BOXIL SaaS — 【2026年】 SEO ツールのサービス一覧 - BOXIL SaaS BOXIL https://boxil.jp > sc-seo",
+    "url": "https://boxil.jp/sc-seo/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプに聞く BOXIL EXPO 集客 の成果とは — スマートキャンプに聞く BOXIL EXPO 集客 の成果とは ferretメディア https://ferret-plus.com > ... > Web広告・広告効果測定",
+    "url": "https://ferret-plus.com/65971",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、SaaS比較サイト「 BOXIL 」などを売却 — マネーフォワード、SaaS比較サイト「 BOXIL 」などを売却 media-innovation.jp https://media-innovation.jp > 企業 > M&A",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL （ボクシル）- SaaS比較・口コミサイト — BOXIL （ボクシル）- SaaS比較・口コミサイト BOXIL https://boxil.jp",
+    "url": "https://boxil.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「 BOXIL 」の活用ガイド - 最適なツール選び ... — SaaS比較サイト「 BOXIL 」の活用ガイド - 最適なツール選び ... note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプ株式会社の株式譲渡について — スマートキャンプ株式会社の株式譲渡について 株式会社マネーフォワード https://corp.moneyforward.com > 20250919-mf-press-1",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、「ボクシル」運営元を約20億円で 買収 ... — マネーフォワード、「ボクシル」運営元を約20億円で 買収 ... ITmedia https://www.itmedia.co.jp > ITmedia NEWS > 業界動向",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、SaaS比較「 BOXIL 」やインサイド ... — マネーフォワード、SaaS比較「 BOXIL 」やインサイド ... BRIDGE（ブリッジ） https://thebridge.jp > moneyforward-acquires-smartcamp",
+    "url": "https://thebridge.jp/2019/11/moneyforward-acquires-smartcamp",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月度 資料請求 ランキング 人材紹介システム | BOXIL — 2026年7月度 資料請求 ランキング 人材紹介システム | BOXIL boxil.jp https://boxil.jp > sc-recruitment-system > monthly-ranking",
+    "url": "https://boxil.jp/sc-recruitment-system/monthly-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「 BOXIL 」の公式 note アカウントを 開設 — SaaS比較サイト「 BOXIL 」の公式 note アカウントを 開設 スマートキャンプ株式会社 https://smartcamp.co.jp > news > information > article",
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "pass": 3
+   },
+   {
+    "quote": "「愛されるサービス」への挑戦 - BOXIL カンパニーCEOと開発 ... — 「愛されるサービス」への挑戦 - BOXIL カンパニーCEOと開発 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL リニューアルプロジェクト エンジニア対談 - note — BOXIL リニューアルプロジェクト エンジニア対談 - note note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL 【公式】 (@BOXIL_info) / X — BOXIL 【公式】 (@BOXIL_info) / X X https://x.com > BOXIL_info",
+    "url": "https://x.com/BOXIL_info",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "サービス開始10年で会員数25万人、口コミ数55,000件を達成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間で「BOXIL」は、サービスの提供開始から10年間で会員数25万人、ユーザーから寄せられた口コミ55,000件、そして掲載サービス数4,000件を超えるプラットフォームへと成長しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "『SaaS業界レポート』のカオスマップ掲載数は2025年に1,500サービスを超え、掲載を開始した2017年に比べ約4倍となりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員数10万人突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員数20万人突破",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL」が10周年を迎え、掲載サービス数は4,000件、会員数は25万人を突破しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "引き続きよりユーザー様とSaaS事業者様の最適なマッチングを実現し、SaaSの普及と導入企業の生産性向上に尽力してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？ | Shirofune（シロフネ）｜国内シェアNo.1広告運用自動化ツール",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "月間300万PVに到達後、さらに1,000万PVへと目標を掲げ、達成",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "300万PVから1,000万PVを目指すための戦略設計",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "ボクシルマガジンを主要な集客経路とし、リリースから約3年で月間300万PVへ到達",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "十分に集客力があったサービスだが、2018年6月に年内に1,000万PV達成という目標を掲げ、目標より1ヶ月おしたもの2019年1月に1,100万PVを達成した",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「どこを」「どのようにして」「どのくらいの工数で」1,000万PVを達成するのかを落とし込み、具体的な改善対象を明確にするところから始める",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の1,000万PV達成も数人のチームで実現していますが、限られたリソース、限られた期間で目標を達成するために、まずはデータ分析をし、その結果を元に計画を立てるところからはじめました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "PVを伸ばす方法は、リライトで既存記事を伸ばすか新記事を作成してアドオンするかの2通りです",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの方法で取りうる施策をピックアップし、伸ばせるだろうPVを試算するとともに、それにかかる工数を計算することで工数対効果を算出し、施策実施の優先順位をつけていきました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果をもとに、工数対効果が高いものから取り組んでいくことで効率的にPVを伸ばしていきました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "①リライト：既存の記事の中で、工数対効果よくPVが伸ばせるだろう記事をリストアップし対策",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで半年後の1,000万PV達成にむけて、新記事作成とリライトの行動計画を組み、施策をスタートしました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "ビヨンドでトレンド性の高い記事やキャッチーな記事を作成してバズらせることにより、短期的なPVアップとドメイン力強化を狙いました",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアのPVを増やすこと以外に、コンバージョン数を増やす施策としてメルマガでのリード掘り起こしやサイト改善など、成果に繋がる可能性があるものはどんどん試しているという",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアのPVを伸ばすこと以外に、リードへのメルマガ送付やEFO（入力フォーム最適化）などのCVR改善も行なっています",
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "pass": 3
+   },
+   {
+    "quote": "半年でPV数2倍・1100万PV！メディアの会員数も2倍に成長！",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "対策の知見を活かしてUU数はとれているものの、分析を活かしたマーケティングはできていませんでした",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "数は2017年10月からアドバイスを頂いた半年間で2倍超に成長し、現在では1,100万PVに到達しました",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、「PV数は十分に成長したが、そのアセットをいかに活用して次の施策に繋げるか」、さらに言えば「最大限コンバージョンを生み出すにはどうすればいいか？」という課題がありました",
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "pass": 3
+   },
+   {
+    "quote": "【BOXIL共催】【SaaS・メディア事業者向け】AI検索時代のSaaSブランド戦略 PVに変わる新指標「AI引用率」とは？ | ウェビナー | Brand UP（ブランドアップ）",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "【BOXIL共催】【SaaS・メディア事業者向け】AI検索時代のSaaSブランド戦略 PVに変わる新指標「AI引用率」とは？",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS・メディア事業者にとって、Webサイトへの流入（PV）だけでは、AI検索時代のブランド評価を十分に把握できなくなりつつあります",
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に多くのスポンサーに集まってもらい、来場者も800人を超えたので成功でした",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプが運営するメディアは月間1200万PV、600万UUの流入がありますが、まだそのデータを生かしきれていません",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "トラフィック（PV数）を増しながらマネタイズ（収益化）していく、そして集まったデータを活用するというのはメディアとしての適切なグロース手段だと思うので、このままこの事業を伸ばしていきたいです",
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "pass": 3
+   },
+   {
+    "quote": "掲載サービスにおいても、ニーズが高いホリゾンタルSaaSはほぼ網羅できていると考えていますし、「BOXIL SaaS」の会員数は順調に増えています",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "社会全体で見ると、日本の生産年齢人口は7500万人と言われますが、それに対して「BOXIL SaaS」の会員数は1％も満たしていません",
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "pass": 3
+   },
+   {
+    "quote": "・マーケターのイベント参加者を集めたいけどどうやって集めればよいのか分からない",
+    "url": "https://ferret-plus.com/65971",
+    "pass": 3
+   },
+   {
+    "quote": "・コストパフォーマンス良くマーケターの参加者を集められる方法を探している",
+    "url": "https://ferret-plus.com/65971",
+    "pass": 3
+   },
+   {
+    "quote": "50名の参加者を",
+    "url": "https://ferret-plus.com/65971",
+    "pass": 3
+   },
+   {
+    "quote": "累計掲載社数800社、BOXIL会員は15万人と、SaaSマーケティングプラットフォームとしての存在感を強めるBOXIL SaaS",
+    "url": "https://sairu.co.jp/method/22236/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けSaaSでは、導入企業の状況に合わせた活用を提案するために、Web上での詳細開示を控えていることがあります",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "同じカテゴリに掲載されている競合社数（多すぎても少なすぎても問題）",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "検討者がそのサイトを実際に利用している証拠（PV・会員数の公開）",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "確認すべきは、月間PV・会員数、業種・職種・役職の分布、検討フェーズの分布（情報収集段階か発注段階か）などです",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "月間PV1,000万級の大規模メディアで認知拡大も狙いたい",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL・ITトレンドのようにカテゴリ数が200〜300以上、掲載製品数が2,000〜3,500以上という国内最大級のプラットフォームが揃っており、月間PVも1,000万級と圧倒的な集客力を持ちます",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "月間PV・会員数の大きいメディアで認知拡大も狙いたい",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "月間PV1,000万級・3,000社以上掲載の最大級プラットフォーム",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "人事・採用領域のBtoBサービスに特化した、会員数11万人超の資料掲載・リード獲得メディア",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "会員数は11万9,037人、登録企業数は4万4,405社で、上場企業の約9割が会員登録",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "月間PV1,100万・3,000社以上が掲載する、法人向けSaaS特化の比較・資料請求サイト",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "月間PV1,100万、3,000社以上掲載",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株式会社マネーフォワードは、連結子会社であるスマートキャンプ株式会社の全保有株式を、エムキャップ二十一号株式会社に譲渡することを決議し、株式譲渡契約を締結したと発表しました",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "本件譲渡により、スマートキャンプ及びその子会社である株式会社ビズヒントはマネーフォワードの連結範囲から除外されます",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプは2014年設立で、マネーフォワードの完全子会社として事業を展開してきました",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "子会社のビズヒントもBtoBマーケティングプラットフォームの運営に注力しており、2024年11月期の営業利益は4億76百万円でした",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マネーフォワードは、連結子会社であるスマートキャンプ株式会社の全保有株式について、株式会社丸の内キャピタルが管理・運営する丸の内キャピタル第三号投資事業有限責任組合の特別目的会社であるエムキャップ二十一号株式会社に譲渡することを、本日2025年9月19日（金）に開催した取締役会において決議し、株式譲渡契約を締結したことをお知らせします",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、スマートキャンプの子会社である株式会社ビズヒントは、クラウド活用と生産性向上の専門サイト『BizHint（ビズヒント）』を運営しており、これまで両社でSaaSの普及を通じて、企業のDX導入や生産性向上に貢献してまいりました",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、「ボクシル」運営元を約20億円で買収 SaaSマーケティングに参入 - ITmedia NEWS",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワード、「ボクシル」運営元を約20億円で買収 SaaSマーケティングに参入",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードは11月11日、SaaS情報の比較・検索サイト「BOXIL」（ボクシル）を運営するスマートキャンプを子会社化すると発表した",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "19億9800万円を投じ、既存株主から72.3％の株式（議決権ベース）を取得する",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードは近年、M＆A（企業の買収・合併）による業態多様化に注力している",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードは、こうした事業内容の独自性や競合優位性に着目し、子会社化を決断したという",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の買収は、黒字化にも寄与するだろう」と語った",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "東証グロース上場企業である株式会社アイドマ・ホールディングスの子会社が運営しており、財務面・経営面の安定性も問題なく、長期的な掲載関係を築きやすい点もメリットです",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "2024年11月期の売上高は40億44百万円、営業利益は3億67百万円で黒字化を達成しています",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "子会社のビズヒントもBtoBマーケティングプラットフォームの運営に注力しており、2024年11月期の営業利益は4億76百万円でした",
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、スマートキャンプはグループジョイン以降、5年で売上高は約8.4倍に成長し、事業を拡大しています",
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "pass": 3
+   },
+   {
+    "quote": "21年11月期にEBITDAで黒字化へ",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードの18年11月期の通期連結業績は、売上高が45億9400万円、営業損益が7億9600万円の赤字、最終損益が8億1500万円の赤字",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキャンプの19年3月期の通期連結業績は、売上高が5億9700万円、営業損益が1億300万円の赤字、最終損益が1億900万円の赤字",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "両社ともに投資フェーズにあるとはいえ、赤字が続いている状況だ",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "黒字化する時期のめどについて、マネーフォワードの辻社長は「回収期間をコントロールしながら規律ある投資を行う",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "21年11月期にEBITDA（営業利益＋減価償却費＋のれん償却額）で黒字を実現する",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の買収は、黒字化にも寄与するだろう」と語った",
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの条件を設定できるため、ターゲットを絞ったリード獲得が可能です",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   },
+   {
+    "quote": "商談化率20〜30%、セグメント条件設定可",
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "SaaS比較サイト「 BOXIL 」の活用ガイド - 最適なツール選び ... SaaS比較サイト「 BOXIL 」の活用ガイド - 最適なツール選び ... note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL 公式note BOXIL 公式note note https://note.com > boxil",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL Releases Comparison Table Download Feature - note BOXIL Releases Comparison Table Download Feature - note note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of ' BOXIL HR,' a New Media Platform Addressing ... Launch of ' BOXIL HR,' a New Media Platform Addressing ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL 公式 note BOXIL 公式 note note https://note.com > boxil",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月「 BOXIL Magazine」リリース記事のまとめ - note 2025年10月「 BOXIL Magazine」リリース記事のまとめ - note note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "SaaS比較サイト「BOXIL」の活用ガイド - 最適なツール選びを効率化する5つの機能を紹介-｜BOXIL 公式note",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」の活用ガイド - 最適なツール選びを効率化する5つの機能を紹介-",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！BOXIL（ボクシル）の広報を担当している岸本です。",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILは、法人向けクラウドサービスを無料で比較し、まとめて資料請求できるSaaS比較サイトです。機能、料金、連携サービス、導入事例などの製品情報を網羅しており、サービス比較表が作成可能です。",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "掲載サービスは、450カテゴリ、3,000以上（※1）。情報閲覧はもちろん、資料請求や比較表作成を含むすべての機能を無料で利用いただけます。",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "この記事ではBOXILの主要機能と、使い方を紹介します。BOXILの実際の画面は",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILには5つの主要機能があり、それぞれトップページなどから利用できます。",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "「チャットで相談する」は、生成AIを搭載したチャットボット機能です。コンシェルジュ「Penpen」が対話を通じてSaaS導入における課題解決を支援します。",
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」の活用ガイド - 最適なツール選びを効率化する5つの機能を紹介-",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "「BOXIL EXPO 財務・経理展 2026 秋」KEYNOTEの全登壇者が決定",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "口コミで選ばれたSaaSを表彰「BOXIL REVIEW AWARD Autumn 2026」受賞サービスを発表",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL掲載企業の活用事例を2本公開しました｜エンミッシュ様・ビズリンクス様",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」2026年9月度資料請求数ランキング MAツール(BtoC)など",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSの「選定から導入・定着まで」を支援する「BOXIL クラウド導入支援」を提供開始",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "人事領域の運用課題に応える新メディア「BOXIL 人事」の提供を開始",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS比較サイト「BOXIL」2026年9月度新規掲載サービス 勤怠管理システム、AI-OCR、ナレッジマネジメントツールなど",
+    "url": "https://note.com/boxil",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL Releases Comparison Table Download Feature: Eliminating the Hassle of Re-summarizing Documents｜BOXIL 公式note",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL Releases Comparison Table Download Feature: Eliminating the Hassle of Re-summarizing Documents",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was harder to re-summarize than to compare",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Where do people in charge of selecting SaaS spend their time?",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Researching services is difficult, but another point of struggle is recreating documents to explain them to superiors and relevant departments after the research is done.",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I made a comparison table on BOXIL. But to submit it for approval, I end up having to copy it by hand into a spreadsheet.\" We have heard this feedback. Even though you went to the trouble of comparing, the process stops there due to manual work.",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To solve this problem, we have made it possible to",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "download BOXIL comparison tables as Excel/PDF files.",
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of 'BOXIL HR,' a New Media Platform Addressing Operational Challenges in the HR Sector｜BOXIL 公式note",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of 'BOXIL HR,' a New Media Platform Addressing Operational Challenges in the HR Sector",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This is the PR representative for the SaaS comparison site 'BOXIL'.",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 7, 2026, we launched 'BOXIL HR,' a new media platform specialized in solving operational challenges within the HR sector.",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why we created 'BOXIL HR'",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Systems such as evaluation frameworks, 1-on-1 meetings, and engagement surveys have been established in many companies. The current challenge in HR departments is the stage of operating these systems to achieve results. We often hear comments like, 'The system exists but has become a mere formality,' or 'We don't know what actions to take after conducting a survey.'",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With the spread of AI search, general know-how has become easily accessible. On the other hand, primary information regarding what companies of the same size and phase are struggling with and how they overcame those challenges remains scarce. We believe that in the era of AI search, the value of such information is increasing.",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2014, BOXIL has been providing information on the comparison, selection, and utilization of SaaS. With 'BOXIL HR,' we are expanding the scope of our support from 'service selection' to 'HR challenges themselves.'",
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月「BOXIL Magazine」リリース記事のまとめ - 「SaaSの利用に関する調査」含む全9記事を紹介 -｜BOXIL 公式note",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月「BOXIL Magazine」リリース記事のまとめ - 「SaaSの利用に関する調査」含む全9記事を紹介 -",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "BOXILカンパニーで広報を担当している星です。SaaS情報メディア「BOXIL Magazine」では、ユーザーの皆さんがビジネスの成長に役立つぴったりのITサービスを見つけていただけるよう、システムの概要説明、サービス比較、選び方に加え、インタビューやアンケートなどの情報をお届けしています。",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "今回は10月にリリースした記事の中で、とくに読んでいただきたい9つの記事をピックアップしています！ぜひご覧ください。",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "1. \"人によるサービス\"にこだわるWOW WORLDの「WEBCAS」‐20年以上選ばれ続ける理由に迫る",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に創立30周年を迎えた株式会社WOW WORLD。主力サービスである「WEBCAS」シリーズは、メッセージコミュニケーションを支えるツールとして多くの企業や官公庁に導入されています。本記事では、製品の強みや誕生秘話、事業展開、メッセージコミュニケーションの未来について、代表取締役社長の美濃氏ほかキーパーソンにお話いただきました。",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "「WEBCAS」が大規模運用・高セキュリティを実現し、多くの企業や官公庁から選ばれ続ける理由、さらにメッセージコミュニケーションの未来像がわかる内容です。",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   },
+   {
+    "quote": "2. CXのパイオニア「Zendesk」が提唱する\"AI on SaaS\" - 76%の担当者が使うシャドーAIを防ぐために",
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "BOXIL 【公式】 (@BOXIL_info) / X BOXIL 【公式】 (@BOXIL_info) / X X https://x.com > BOXIL_info",
+    "url": "https://x.com/BOXIL_info",
+    "pass": 3
+   },
+   {
+    "quote": "Post - X Post - X X https://x.com > @BOXIL_info",
+    "url": "https://x.com/BOXIL_info/status/2117111763783282743",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL 【公式】 (@BOXIL_info) on X BOXIL 【公式】 (@BOXIL_info) on X X https://x.com > @BOXIL_info",
+    "url": "https://x.com/BOXIL_info/status/2115982746057400731",
+    "pass": 3
+   },
+   {
+    "quote": "BOXIL 【公式】 (@BOXIL_info) on X BOXIL 【公式】 (@BOXIL_info) on X X https://x.com > @BOXIL_info",
+    "url": "https://x.com/BOXIL_info/status/2114623030832058817",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Boxil Charles - Agency Manager at ALGICO | LinkedIn Boxil Charles - Agency Manager at ALGICO | LinkedIn LinkedIn https://tt.linkedin.com > boxil-charles...",
+    "url": "https://tt.linkedin.com/in/boxil-charles-1b960452",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Boxil - Manager at http://www.comparizon.com/ | LinkedIn Alex Boxil - Manager at http://www.comparizon.com/ | LinkedIn LinkedIn https://www.linkedin.com > compariz...",
+    "url": "https://www.linkedin.com/in/comparizon",
+    "pass": 3
+   },
+   {
+    "quote": "Sacha Boxill - Managing Director - Institutional Real Estate Sacha Boxill - Managing Director - Institutional Real Estate LinkedIn https://www.linkedin.com > sboxill",
+    "url": "https://www.linkedin.com/in/sboxill",
+    "pass": 3
+   },
+   {
+    "quote": "Mikkel Boxill | Ex-Intern @ Microsoft & CIBC Caribbean Mikkel Boxill | Ex-Intern @ Microsoft & CIBC Caribbean LinkedIn Barbados https://bb.linkedin.com > mikkel-boxi...",
+    "url": "https://bb.linkedin.com/in/mikkel-boxill-636287203",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Boxil Charles - Facebook Boxil Charles - Facebook Facebook https://www.facebook.com > boxil.charles",
+    "url": "https://www.facebook.com/boxil.charles/",
+    "pass": 3
+   },
+   {
+    "quote": "ボクシル/ Boxil | Minato-ku Tokyo - Facebook ボクシル/ Boxil | Minato-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/boxiljp/",
+    "pass": 3
+   },
+   {
+    "quote": "Boxil (Metalazyl 8% + Mancozeb 64%WP) #agriculture ... Boxil (Metalazyl 8% + Mancozeb 64%WP) #agriculture ... Facebook https://www.facebook.com > posts > boxilmetalazyl-8-ma...",
+    "url": "https://www.facebook.com/100067549633375/posts/boxilmetalazyl-8-mancozeb-64wpagriculture-farmomg-croprotection-fungicide/865607319034248/",
+    "pass": 3
+   },
+   {
+    "quote": "ボクシル/ Boxil | Minato-ku Tokyo - Facebook ボクシル/ Boxil | Minato-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > インターネット関連企業",
+    "url": "https://www.facebook.com/boxiljp/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://boxil.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/campaign/partners/boxil-ads/?utm_source=organic&utm_medium=boxil&utm_campaign=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/forgot-password/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/auth/sign-up/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/top_background.0rm5k458u1u55.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/yearly_trophy.14bzxcn-6xu3j.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/banner_background.1ltc_0s9nitgj.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/emblem.23y83xr51if27.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/comparison_table.2bq2bi2lo0xgu.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://boxil.jp/cdn-cgi/image/format=auto,width=3840/_next/static/media/saas_award_2025.2sh2n_6h8l_4w.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/boxil/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shirofune.com/inhousemarketinglab/0020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carryme.jp/agent/case-smartcamp01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nicovideo.jp/watch/nw19900208",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/seo/seo-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ferret-plus.com/65971",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sairu.co.jp/method/22236/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobma.jp/function_lists/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marr.jp/news/entry/63470",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thebridge.jp/2019/11/moneyforward-acquires-smartcamp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lreach.jp/media/article011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cone-c-slide.com/liblog/document-request-site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartcamp.co.jp/news/information/article/20250801",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/boxil/n/nfacb6d5e124b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/n9fcdff7c9e71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BOXIL_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/boxil/n/n38e686a63d4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BOXIL_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BOXIL_info/status/2117111763783282743",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BOXIL_info/status/2115982746057400731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BOXIL_info/status/2114623030832058817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tt.linkedin.com/in/boxil-charles-1b960452",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/comparizon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sboxill",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bb.linkedin.com/in/mikkel-boxill-636287203",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/boxil.charles/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/boxiljp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100067549633375/posts/boxilmetalazyl-8-mancozeb-64wpagriculture-farmomg-croprotection-fungicide/865607319034248/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/boxil",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/boxil/n/n5e5c5da69c22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BOXIL_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BOXIL_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/boxiljp/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BOXIL 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://boxil.jp/mag/",
+    "https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/",
+    "https://boxil.jp/campaign/partners/downlord/service/price",
+    "https://prtimes.jp/main/html/rd/p/000000260.000012765.html",
+    "https://www.itreview.jp/products/boxil/price",
+    "https://www.jiji.com/jc/article?k=000000340.000012765&g=prt",
+    "https://corp.nikkan.co.jp/images/media-sheet/media-sheet.pdf",
+    "https://www.dentsu.co.jp/news/item-cms/2026012-0305.pdf",
+    "https://boxil.jp/campaign/partners/boxil-ads",
+    "https://www.canva.com/ja_jp/templates/s/ryoukinhyou/"
+   ]
+  },
+  {
+   "query": "BOXIL PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://boxil.jp/service/1/",
+    "https://prtimes.jp/main/html/rd/p/000000285.000012765.html",
+    "https://shirofune.com/inhousemarketinglab/0020/",
+    "https://carryme.jp/agent/case-smartcamp01/",
+    "https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate",
+    "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "https://adv.tokyo-np.co.jp/prtimes/article102942/",
+    "https://www.shanon.co.jp/blog/entry/interview_smartcamp/",
+    "https://company.gakujo.ne.jp/page-4452/",
+    "https://boxil.jp/"
+   ]
+  },
+  {
+   "query": "BOXIL 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://note.com/smartcamp_tent/n/n1682ebb57e4d",
+    "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "https://news.nicovideo.jp/watch/nw19900208",
+    "https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp",
+    "https://boxil.jp/mag/a10566/",
+    "https://news.infoseek.co.jp/article/prtimes_000000338_000012765/",
+    "https://www.jiji.com/jc/article?k=000000341.000012765&g=prt",
+    "https://shirofune.com/inhousemarketinglab/0020/",
+    "https://diamond.jp/ud/authors/5de85eb87765613628010000?page=3",
+    "https://en.wikipedia.org/wiki/Aaron_Levie"
+   ]
+  },
+  {
+   "query": "BOXIL 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://boxil.jp/sc-seo/",
+    "https://n-works.link/blog/seo/seo-seminar",
+    "https://www.youtube.com/watch?v=CAnPRj27Gpc",
+    "https://ferret-plus.com/65971",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://snabi-biz.jp/seminars/103",
+    "https://eventhub.jp/events/20230228-webinar/",
+    "https://www.web-planners.net/seminar/webplanners_semi_fukususite.html",
+    "https://www.seohacks.net/seminar/marketing/31138/",
+    "https://boxil.jp/service/1/"
+   ]
+  },
+  {
+   "query": "BOXIL 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "https://boxil.jp/",
+    "https://sairu.co.jp/method/22236/",
+    "https://jobma.jp/function_lists/sales/",
+    "https://note.com/boxil/n/n38e686a63d4c",
+    "https://prtimes.jp/main/html/rd/p/000000340.000012765.html",
+    "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "https://www.mashmatrix.co.jp/blog/information/boxil_saas_award_spring_2025/",
+    "https://www.itreview.jp/products/boxil/reviews",
+    "https://edinetdb.jp/rankings/operating-margin"
+   ]
+  },
+  {
+   "query": "BOXIL 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://corp.moneyforward.com/news/info/20250919-mf-press-1/",
+    "https://media-innovation.jp/article/2025/09/19/142828.html",
+    "https://www.itmedia.co.jp/news/article/1911/11/1191111130/",
+    "https://www.marr.jp/news/entry/63470",
+    "https://thebridge.jp/2019/11/moneyforward-acquires-smartcamp",
+    "https://prtimes.jp/main/html/rd/p/000000341.000012765.html",
+    "https://smartcamp.co.jp/news/information/article/20241219",
+    "https://boxil.jp/campaign/partners/",
+    "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "BOXIL 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://lreach.jp/media/article011",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "https://cone-c-slide.com/liblog/document-request-site/",
+    "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-business-model/",
+    "https://boxil.jp/sc-recruitment-system/monthly-ranking/",
+    "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "https://www.bsearch.co.jp/topics/5764/",
+    "https://www.bsearch3140.com/topics/slug-69c76922ece4951dfb1469d410e85e5d",
+    "https://www.seedinc.jp/column/marketing/lead-generation-site/",
+    "https://ja.wikipedia.org/wiki/成功報酬"
+   ]
+  },
+  {
+   "query": "BOXIL note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://smartcamp.co.jp/news/information/article/20250801",
+    "https://note.com/boxil/n/nfacb6d5e124b",
+    "https://note.com/boxil/n/n38e686a63d4c",
+    "https://note.com/boxil/n/n9fcdff7c9e71",
+    "https://x.com/BOXIL_info",
+    "https://note.com/boxil/n/nc73885b7e1e1",
+    "https://boxil.jp/awards/2025-spring/sc-manual_preparation/",
+    "https://note-kirinbrewery.kirin.co.jp/n/ne76f2f7e8a6e",
+    "https://note.com/boxil/n/nf50a2b6a08f0",
+    "https://note.com/boxil/all"
+   ]
+  },
+  {
+   "query": "site:note.com BOXIL",
+   "results": [
+    "https://note.com/boxil/n/n38e686a63d4c",
+    "https://note.com/boxil",
+    "https://note.com/boxil/n/nf50a2b6a08f0?hl=en",
+    "https://note.com/boxil/n/n74d1afe4aacc?hl=en",
+    "https://note.com/boxil/n/nfaaf9c042d0b?hl=en",
+    "https://note.com/boxil/n/nc73885b7e1e1",
+    "https://note.com/boxil/n/n97d3a23e95b4",
+    "https://note.com/boxil/n/nabe7312e7626?hl=en",
+    "https://note.com/boxil/n/n31eeffe47457?hl=en",
+    "https://note.com/boxil/n/nb81abe2ee564?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com BOXIL",
+   "results": [
+    "https://x.com/BOXIL_info",
+    "https://x.com/BOXIL_info/status/2117111763783282743",
+    "https://x.com/BOXIL_info/status/2115982746057400731",
+    "https://x.com/BOXIL_info/status/2114623030832058817",
+    "https://x.com/BOXIL_info/status/2115368493696815449",
+    "https://x.com/BOXIL_info/status/2117071137440166269",
+    "https://x.com/BOXIL_info/status/2118188520686956954",
+    "https://x.com/BOXIL_info/status/2027239772888891831",
+    "https://x.com/BOXIL_info/status/2115324306301522187",
+    "https://x.com/Boxill89"
+   ]
+  },
+  {
+   "query": "site:linkedin.com BOXIL",
+   "results": [
+    "https://tt.linkedin.com/in/boxil-charles-1b960452",
+    "https://www.linkedin.com/in/comparizon",
+    "https://www.linkedin.com/in/sboxill",
+    "https://bb.linkedin.com/in/mikkel-boxill-636287203",
+    "https://www.linkedin.com/in/ryan-boxill",
+    "https://jp.linkedin.com/posts/yukishibuya_2025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E6%9C%9F-boxil%E8%B3%87%E6%96%99%E8%AB%8B%E6%B1%82%E6%95%B0%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-%E7%B5%8C%E5%96%B6%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-activity-7423914546743988224-wuT4",
+    "https://jp.linkedin.com/posts/cogent-labs_boxil-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEcogent-labs%E5%8F%A3%E3%82%B3%E3%83%9F%E6%8A%95%E7%A8%BF%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3-%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%ABsaas-activity-7221373400600993792-lUgl",
+    "https://jp.linkedin.com/posts/john-crumpler_boxil-saas-award-winter-2024-erp%E5%9F%BA%E5%B9%B9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%83%A8%E9%96%80-activity-7270361284783538176-HIQ_",
+    "https://uk.linkedin.com/in/cameron-boxill-dixon-7b9654233",
+    "https://www.linkedin.com/pub/dir/Boxill/"
+   ]
+  },
+  {
+   "query": "site:facebook.com BOXIL",
+   "results": [
+    "https://www.facebook.com/boxil.charles/",
+    "https://www.facebook.com/boxiljp/",
+    "https://www.facebook.com/100067549633375/posts/boxilmetalazyl-8-mancozeb-64wpagriculture-farmomg-croprotection-fungicide/865607319034248/",
+    "https://www.facebook.com/parava.pta/posts/maddock-horror-comedy-universe-watching-order-comment-boxil-/1336062215194221/",
+    "https://www.facebook.com/Questetra/posts/boxil-review-award-autumn-2026bpm%E3%83%84%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%88%A5no1%E3%82%92%E5%8F%97%E8%B3%9Equestetra-bpm-suite%E3%81%8C%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%8B%E3%82%89%E3%81%AE%E5%8F%A3%E3%82%B3%E3%83%9F/1626410669499352/",
+    "https://www.facebook.com/StLuciatoronto/posts/-free-workshop-alert-for-st-lucia-toronto-association-members-join-us-for-an-emp/994214402745083/",
+    "https://www.facebook.com/groups/254955217128192/posts/723635333593509/",
+    "https://www.facebook.com/AmaluAliks/videos/i-love-all-people-just-a-content-ith-paranj-comment-boxil-varraruth%EF%B8%8F%EF%B8%8Freels-canad/1408969107371428/",
+    "https://www.facebook.com/pnmtobago/videos/christmas-wishes-from-the-pnm-prospective-candidate-for-goodwoodbelle-garden-box/2016648415178308/",
+    "https://www.facebook.com/boxil.boxil/"
+   ]
+  },
+  {
+   "query": "BOXIL note 社長",
+   "results": [
+    "https://note.com/boxil",
+    "https://note.com/boxil/n/n5e5c5da69c22",
+    "https://x.com/BOXIL_info",
+    "https://smartcamp.co.jp/news/information/article/20250801",
+    "https://note.com/boxil/n/ne8bcde84348e",
+    "https://note.com/boxil/n/nbe2162276402",
+    "https://note.com/boxil/n/n4d3540dd5eaa",
+    "https://jinjer.co.jp/news/post-13943/",
+    "https://www.wantedly.com/companies/company_5032895/post_articles/927260",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "BOXIL X 投稿",
+   "results": [
+    "https://x.com/BOXIL_info",
+    "https://gms.dentsusoken.com/cix/news/202608076552/",
+    "https://www.facebook.com/boxiljp/?locale=ja_JP",
+    "https://www.biztex.co.jp/news/2026/06/23/001.html",
+    "https://note.com/boxil/n/ndb7b1743602b",
+    "https://tsuzuki.jp/campaign_boxil/",
+    "https://vicent.co.jp/news/topics/%E3%80%8Csmaltoffice%E3%80%8D%E3%81%8C%E3%80%8Cboxil%E3%80%8D%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://tobila.com/news/info/p1472/",
+    "https://invox.co.jp/boxil-saas",
+    "https://x.com/BOXIL_info/status/2115324306301522187"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）"
+ }
+}

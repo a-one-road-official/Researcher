@@ -1,0 +1,2989 @@
+{
+ "name": "株式会社武蔵野",
+ "aliases": [
+  "武蔵野",
+  "経営サポート事業"
+ ],
+ "context": "中小企業向け会員・見学会型の経営支援",
+ "researched_at": "2026-11-07T02:59:47.948415+00:00",
+ "official_url": "https://www.musashino.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒184-0011 東京都小金井市東町4-33-8 Googleマップを見る",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都小金井市東町4-33-8",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都小金井市東町4-33-8",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 351-0034 埼玉県 朝霞市 西原 1丁目1番1号 武蔵野ビル",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1956年",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1964年",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1956",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1969年（昭和44年）12月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "800名",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "11,045名（2026年5月）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "小山 昇",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "小山昇",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 安田信行",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1801億1475万円（2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "武蔵野ホールディングス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "【掲載情報】当社のWeb活用・仕組み化への取り組みが、制作事例として紹介されました",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "武蔵野本社へのアクセス情報を紹介しています",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "毎年作りかえられる経営計画書の中から、弊社代表小山の社員に向けての決意表明をご紹介します",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "武蔵野の仕組み・経営手法についての書籍一覧、雑誌・新聞等のメディアへの掲載情報についてご案内いたします",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:0120-85-6340 / FAX:0120-28-6340",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年から同社の経営の仕組みを紹介する「経営サポート事業」を展開",
+    "url": "https://www.musashino.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "【掲載情報】当社のWeb活用・仕組み化への取り組みが、制作事例として紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "小山昇の書籍 2025年12月22日(月)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "小山昇の書籍 2025年7月7日(月)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "佐藤義昭の書籍 2025年3月13日(木)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "社員の判断や行動に浸透させるための取り組みを紹介",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/",
+    "pass": 1
+   },
+   {
+    "quote": "DXやITツールの導入に現場が抵抗し、定着しない場合の対策は？",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2342/",
+    "pass": 1
+   },
+   {
+    "quote": "【掲載情報】当社のWeb活用・仕組み化への取り組みが、制作事例として紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/2222/",
+    "pass": 1
+   },
+   {
+    "quote": "この度、当社のWebサイト制作およびデジタル戦略のパートナーである株式会社Anima様の公式サイトにて、株式会社武蔵野のプロジェクト事例が紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/2222/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の事例紹介では、当社が大切にしている「経営計画書」の考え方や「仕組み化」を、どのようにWebサイトという形に落とし込み、お客様や採用候補者の皆様への情報発信に繋げているかが、インタビュー形式で掲載されています",
+    "url": "https://www.musashino.co.jp/news/media/2222/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました - メディア掲載情報 - 株式会社武蔵野 - 独自で培った仕組みやノウハウを提供し、全国の中小企業を経営改善へと導く経営コンサルティング ダスキン事業を基盤とした中小企業の経営コンサルティング",
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "pass": 1
+   },
+   {
+    "quote": "この度、独立行政法人高齢・障害・求職者雇用支援機構（JEED）が発行する、高年齢者雇用をテーマとした啓発誌「エルダー」2026年3月号にて、弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』（あさ出版）が紹介されました",
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "pass": 1
+   },
+   {
+    "quote": "「エルダー」3月号の紹介記事では、以下の3つの観点から「強い組織づくり」のヒントが解説されています",
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる親睦会に留まらず、経営課題を解決するための「戦略的なコミュニケーションの場」として飲み会を位置づける弊社の姿勢は、多様な働き方が求められる現代において、一つの解決策を提示するものとして紹介されました",
+    "url": "https://www.musashino.co.jp/news/topics/2044/",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：045-971-6966 FAX：045-971-7654",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "市内の医療機関(医科・歯科・調剤薬局)検索",
+    "url": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/jogesuido/suido/riyo_okyakusama/ryokinguide/1005634.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）形態別蔵書統計【 （１）に含まれる特殊形態書籍の統計】 単位：冊",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "YA世代（青少年）に向けて、時節に合ったYA図書の紹介",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 武蔵野総合体育館（X(旧ツイッター））",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "3 武蔵野総合体育館（Facebook）",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "6 吉祥寺図書館（X(旧ツイッター））",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "7 吉祥寺図書館（Facebook）",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "8 武蔵野市民文化会館、武蔵野公会堂、 松露庵（X(旧ツイッター））",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "9 武蔵野市民文化会館、武蔵野公会堂、 松露庵（Facebook）",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "12 武蔵野市立吉祥寺美術館（X(旧ツイッター））",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "13 武蔵野市立吉祥寺美術館（Facebook）",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "14 吉祥寺シアター（X(旧ツイッター））",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "15 吉祥寺シアター（Facebook）",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長の小山昇氏は、倒産寸前だった同社を再建し、18年連続増収を果たす企業へと変えた他、日本経営品質賞を2度受賞し、50冊以上の経営書籍も手掛ける、辣腕経営者だ",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "成長する組織づくりとは【社長名鑑】 - YouTube",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "SNSや店頭ポスターなど、自分が描いたものが海外の店舗やお客様の目に触れる場所で使われることは、",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "紹介をうけて訪れた店舗見学では、武蔵野菓子工房や",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "採用コンサルティングサービス「Kimete」を立ち上げ、社員定着率を倍増させた株式会社武蔵野の取締役が著書を出版",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "その立ち上げをした現取締役の小嶺淳が2024年8月5日に初の著書を出版しました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "このストーリーでは、『すごい採用の教科書』を企画し出版するまでのチャレンジについて、Kimeteの広報として担当してきた長瀬彩花が振り返ります",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "世の中の採用コンサルティングサービスでは、採用活動の代行（集客、合否連絡、イベント運営、学生管理など）をするものが多く、「仕事を代わりに請け負う」ようなサービスが主になっています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "「Kimete事業を立ち上げた責任者」であり、「新卒入社の社員」である小嶺淳が出版する大きな意味",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社武蔵野の代表取締役社長である小山は、全部で約80冊の書籍を出版してきました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "現在76歳ですがいまだに書籍を出版し続けています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "本来であれば、いつも通り小山が出版すればよいのですが、今回は弊社の取締役である小嶺淳が出版をしています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "もともとこの「すごい採用の教科書」は、Kimeteを更に広めていくためのツールにしたいという思いで、出版の企画がスタートしました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、小山は意外にもあっさりと小嶺の出版を許可しました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、そんなことは無く着々と出版の準備が進んでいきました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "「新卒で入社した活躍している社員が著者である」ということは、新卒採用を語る書籍を出版する上で、読者にとっても武蔵野の社員にとっても、",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、小山もそれを見越して、小嶺の出版を許諾したのではないかと思っています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "小山は一目置いていて、だからこそ著者としての出版を許したのではないかと思うのです",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、この「すごい採用の教科書」は、武蔵野にとってただの採用に関する書籍ではなく、",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "書籍では、1993年から30年以上かけて積み上げてきた新卒採用のノウハウを惜しみなく公開しています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "この書籍を通して、Kimeteのミッションである",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.gd/zAXl7",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/Kimetekomine",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "武蔵野の有料会員様は1000社以上（2026年2月時点）",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "： 年間約3,000万円を社内懇親会費として計上し、会社が全面的にバックアップ",
+    "url": "https://www.musashino.co.jp/news/topics/2044/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都武蔵野市｜新聞折込広告･折込チラシ料金表｜オリコメイト",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "東京都武蔵野市｜新聞折込広告･折込チラシ料金表",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "新聞折込広告基準、災害時の対応",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "ポスティング料金表｜ポスティングなら東京【イマムラ企画】武蔵野・三鷹・八王子など",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらでは、当社が行うポスティングの料金表をご案内します",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "チラシ1枚あたりの基本料金表（23区） ※税別",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "チラシ1枚あたりの基本料金表（23区外・都下） ※税別",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "折り加工の料金表（1枚あたり）",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都武蔵野市のポスティング・チラシ配布｜料金表・配布エリア｜地域密着型のポスティング依頼は株式会社アト",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都武蔵野市のポスティング・チラシ配布｜料金表・配布エリア",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "ポスティングとは、さまざまな販促物（カタログ・パンフレット・冊子・チラシ・試供品）を各ご家庭や事業所にダイレクトに配布する広告手段です",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "足立区の広告物などをポストに直接投函することで、一度は必ず手に取ってもらうことができるのでレスポンスへつながる確率の高い媒体です",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "（株）武蔵野企画 広告の企画、デザイン・制作、印刷",
+    "url": "https://www.e-musashino.co.jp/dtp/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "小嶺：コロナ禍以前は、年間約2億円をかけて新聞広告を打っていました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告や既存会員様からの紹介で顧客様が広がるケースもありましたが、基本的にはリアルの営業ありきのビジネスモデルだったので、大きな打撃を受け、思いきってWebマーケティングに舵を切ろうと決めました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "日経記者による業績予想は有料会員のみご覧になれます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告の仕組みやメリットを分かりやすく解説 | デジ研",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告の仕組みやメリットを分かりやすく解説",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "継続率90％、様々な広告媒体の運用を最適化したい方へ",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、経験豊富な専任コンサルタントが限られた予算の収益最大化を図る広告運用が可能なプロ集団です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "販売促進や問合せを増やす広告手法の一つに「アフィリエイト広告」があります",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告は、「アフィリエイター」と呼ばれるブロガーなどのWebサイト上に広告を掲載してもらい、成果が発生したときに初めて広告費用が発生します",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告を上手に活用することで、広告コストを抑えながら売上を伸ばすことができます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、仕組みが難しそう、アフィリエイターの探し方がわからない等の理由で広告導入を見送っている方もいるかもしれません",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、アフィリエイト広告の仕組みや使い方、メリット・デメリットについて解説します",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告は、成果報酬型の広告形態です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアサイトを持つブロガーが商品をサイトで紹介し、それを見たユーザーが商品を購入すると成果報酬がメディアサイトに支払われます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告の成果報酬は、商品購入以外にも会員登録や資料請求、来店など様々あります",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "広告主とは、広告を出稿する企業や人です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアサイトと広告主が直接出稿を提携することも可能ですが、多くはASPの業者を通して広告主は出稿依頼します",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアサイトのページを見ているユーザーが、ページ内にある広告をクリックして「成果（購入など）」に到達すると、広告主が成果報酬費用をASP業者に支払い、ASP業者からメディアサイトに報酬が支払われます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイターは広告主の商品を紹介してくれる役割をしてくれます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "広告主側が出稿してほしいサイトを探して指名することもありますが、多くはアフィリエイター自身が紹介したい商品を探すケースが多いです",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "商品を紹介するにあたって、既にあるメディアサイトに1コンテンツとして商品紹介する方もいれば、アフィリエイト広告のために新しくWebサイトを制作する方もいます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイターが報酬を得るためには、自分のメディアに掲載した広告を経由して成果が発生することが必要です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単に広告を掲載するだけではなく、積極的に宣伝活動を行ってくれます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "商品を販売促進した広告主と商品を紹介することで報酬を得たいアフィリエイターをつなぐプラットフォームを提供する会社です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "広告主側は出稿状況を管理画面で確認でき、アフィリエイター側は売りたい商品・サービスを選び、成果の発生状況を管理画面で確認することができます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "ASPが広告主とアフィリエイターを仲介することで、広告主は個人のアフィリエイターとやり取りするがほとんどなく、多くのメディアサイトに広告出稿することが期待できます",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告とは、Webサイトを運営しているアフィリエイターが、自分のメディアで広告主の商品やサービスを紹介する広告です",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアを見たユーザーが広告素材をクリックすると、ASPを通じて広告主のサイトへと移動します",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "「“わたしたち”をつくり、未来へとつなぐリチュアル」─リチュアルデザイン研究会 第5回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「儀礼の外側を考える」─リチュアルデザイン研究会 第4回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「人類の進化とリチュアル」─リチュアルデザイン研究会 第3回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「雨乞いとデザイン思考の共通点」─リチュアルデザイン研究会 第２回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「リチュアルとリチュアルデザインの概要」─リチュアルデザイン研究会 第1回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "武蔵野では、抽象的な理論ではなく自社の成功事例や失敗事例をもとに、これまでの実績により蓄積してきた経営のノウハウや社員教育を公開し、そのまま真似して実践ができ組織力を強化できるサービスを提供します",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会員同士の横のつながりから、",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "武蔵野の有料会員様は1000社以上（2026年2月時点）",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業種も業態も多様であり、会員様同士で情報交換をしたり交流することでネットワークが広がります",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また地域ごとのコミュニティ(地域会)が存在し、40の地域で会員様同士のベンチマーキングや研修が開催されており、経営者のみでなく組織全体で会社を変えたい会員様同士で学び合うことができます",
+    "url": "https://www.musashino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「経営者アカデミー®事業部」および「経営者応援塾」「経営者応援塾幹部コース」を開始 経営計画書を「道具」として使いこなし、社長と従業員のベクトルを合わせて変化に強い組織をつくる会員制プログラムを始動",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "われわれグループの成長と安定に全力をつくし",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "武蔵野の実績 - 株式会社武蔵野 - 独自で培った仕組みやノウハウを提供し、全国の中小企業を経営改善へと導く経営コンサルティング 独自で培った仕組みやノウハウを提供し、全国の中小企業を経営改善へと導く経営コンサルティング",
+    "url": "https://www.musashino.co.jp/company/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、この成功ノウハウを体系化した経営コンサルティングサービスでは、累計5000社以上の企業経営を支援",
+    "url": "https://www.musashino.co.jp/company/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "（2024年12月時点の累計実績",
+    "url": "https://www.musashino.co.jp/company/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "特に以下の実績を支える「仕組み」を科学的に検証している点が、高く評価されています",
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "pass": 1
+   },
+   {
+    "quote": "■新聞発行部数、新聞シェア、人口、家族構成■",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "業界20年の実績とスタッフ数250人だからできる「東京全域」×「単独配布」",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アトでは、蓄積した実績とシステムを開発",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "取引の実績数は20,000社を突破",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都武蔵野市のポスティングでは、実績豊富な当社へご相談ください",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "選挙人名簿登録者数｜武蔵野市公式ホームページ",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "年齢満18歳以上の日本国民で、武蔵野市に引き続き3カ月以上住所のかたを年4回の定時(3月、6月、9月、12月)と選挙時に選挙人名簿に登録します",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "在外選挙人名簿の登録要件は以下のとおりです",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "在外選挙人名簿に(既に)登録されていないかた",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "在外選挙人名簿の登録の申請に関し、そのかたの住所を管轄する領事官の管轄区域内に引き続き3カ月以上住所を有するかた",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）グループ学習室（中央図書館） 単位：グループ",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（調査基準日 令和４年４月１日、実績 令和３年度）",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※同資料は2022 年４月1 日を調査基準日、実績は令和３年度としている",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基礎FSと発展FSの2025年度参加者数合計実績",
+    "url": "https://www.musashino-u.ac.jp/guide/profile/infographic.html",
+    "pass": 3
+   },
+   {
+    "quote": "累計45億円超の資金調達に成功する注目のベンチャー",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "会員数45万人以上の訪日外国人旅行者向けサービスを展開",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "創業6年で国内No.1規模へ拡大",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "現在500社以上の会員企業を指導、日本経営品質賞受賞の軌跡、中小企業のIT戦略、実践経営塾、実践幹部塾と、全国で年間240回以上のセミナーを行なっており、講演は明日からの仕事に役立つようにと実務中心の内容",
+    "url": "https://recruit.musashino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー申し込み件数が累計120件",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "そこからセミナーや出版記念講演にご案内し、来場くださった方々とは、その後も会食などを通して対面で関係を築いていき、会員になっていただく……という営業活動をおこなっていました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "「経営サポートパートナー制度」は入会の敷居をあえて高くしており、コミュニティを非常に大事にしているので、既存会員様の競合他社の方などはご参加いただけません",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "「会員にならずとも小山の経営ノウハウを学びたい」という方のために、別途「経営者アカデミー」という塾も20年間続けており、そちらの会員制度も開始しました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "大まかな数としては、経営サポートパートナー会員企業が約750社、経営者アカデミー会員が約350社、あとはYoutubeのセミナー動画を見てくださっている等ライトな小山ファンのハウスリストが約1万名分ある、といった状況でした",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告や既存会員様からの紹介で顧客様が広がるケースもありましたが、基本的にはリアルの営業ありきのビジネスモデルだったので、大きな打撃を受け、思いきってWebマーケティングに舵を切ろうと決めました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO経由でのセミナー等の申し込み件数は、累計で120件にまで伸びています",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野様のサイトのドメインパワーはもともと40以上あり、ある程度高い数字です",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "大場：セミナーからの集客も営業ルートの1つで、告知は会員様やハウスリストの方々向けのメルマガ等でおこなっていました",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野グループの会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "13,827名（2025年実績）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発から物流までの流れを一貫して担う体制により、”中食”業界を支えてきた武蔵野グループ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "セブン-イレブンで人気の「ツナマヨネーズおむすび」や「金の食パン」を武蔵野グループが開発",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野グループは、セブン‐イレブン向けのおにぎりやお弁当、チルド弁当、調理パン、調理麺、惣菜、冷凍食品、スイーツなど、PB製品の製造・開発を行う食品製造会社です！ おにぎりの定番『ツナマヨネーズおむすび』やヒット商品の『金の食パン』は当グループの商品",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当グループでは、1～3か月と短いサイクルで商品開発を進めていくので、早い段階で数多くの開発プロジェクトに携わることができます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容／グループ内外で製造している商品の配送、及び倉庫業",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 98名（グループ合計）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 80名（グループ合計）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 94名（グループ合計）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野グループの画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アール・ビー・コントロールズ(株)【リンナイグループ】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)エスアイシステム【雪印メグミルクグループ】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "岡山木村屋グループ【(株)岡山木村屋/(株)つるや/岡山シティホテル(株)】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "を志望している他のマイナビ会員は、このような企業も志望しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "連結経常利益は228億円、親会社株主に帰属する当期純利益は154億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は116億円、親会社株主に帰属する中間純利益は81億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "日経記者による業績予想は有料会員のみご覧になれます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "※注：社内・グループ会社間での相殺（消去）などの調整により、損益計算書ベースの数値とは合計が異なる場合があります",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野グループR&Dセンター - 埼玉県朝霞市",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "ヒストリー｜武蔵野グループ｜食の喜びと癒しのひとときを",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野グループ｜食の喜びと癒しのひとときを",
+    "url": "https://musashino-group.jp/group/company/",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年の創業以来、世の中のニーズに合わせて進化を続けてきました",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一番上の丸は創業者藤本寅雄の藤、藤の花のイメージが、左下の丸にはダスキン事業の創業者鈴木清一の鈴のイメージ、右下の丸には経営計画書の源である一倉定の倉のイメージが込められています",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、創業時の想い、関係者の皆さまとのつながりを表したのがこの社章です",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者が亡くなる2日前に、その奥さまから「小山さん、武蔵野の社長をやって」と言われ、「エーッ！？弱っちゃったなあ」と思いました",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、創業者の奥さまに社長になっていただければ、問題ないであろうと考えました",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "創業6年で国内No.1規模へ拡大",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "【グローバルダイニング】創業50周年 特別企画！創業者 長谷川耕造社長インタビュー（Vol.1）",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "【110億調達→破産】創業から倒産までのリアルな失敗と学びを阪根信一さんに教えてもらいました",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント案件で店舗立ち上げからメニュー開発、商品開発、販促物制作、トレーニングに携わりました",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "外部クライアントのカフェ立ち上げでは、店長として現場に入る経験もしました",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "トレーナーの役割は、分からないことを分かり易く、最初の",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "採用コンサルティングサービス「Kimete」を立ち上げ、社員定着率を倍増させた株式会社武蔵野の取締役が著書を出版",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社武蔵野は創業以来60年以上、世の中のニーズに合わせて進化を続けてきました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "その立ち上げをした現取締役の小嶺淳が2024年8月5日に初の著書を出版しました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "経営サポート事業部では新規事業の立ち上げや、商品・新サービスの開発を推進",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月にKimeteを立ち上げ",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "「Kimete事業を立ち上げた責任者」であり、「新卒入社の社員」である小嶺淳が出版する大きな意味",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "「Kimete事業部を立ち上げた責任者である事」です",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "責任者としてKimete事業を立ち上げ、新入社員の定着率を倍増させた小嶺の手腕",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "そしてKimete事業部を立ち上げた責任者であるというところについても同様の力を持つと思います",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "出版不況下に出版社を立ち上げてでも、本を出したかった理由",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "小嶺：専務取締役COO・共同創業者である吉岡諒さんが登壇されているセミナー動画を拝見したことが、最初のきっかけです",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "創業40年を越える当社は物流業として日々様々な分野で成長をし続けております",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果が発生しない限り広告に対する報酬は生じませんが、ASPを使うための利用料・初期費用がかかります",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "■1人で創る大変さ、チームで創る大変さ",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "一番最初のきっかけははっきりとは覚えていないのですが、自分の周りに様々な分野で頑張っている人たちをみて刺激を受けたことが要因だったと思います",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズに入社してからはkintone認定資格の立ち上げ・運営のプロジェクトリーダーを担っている",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "2017年にはサイボウズに所属しながら複業として個人事業主「倉林工房」を立ち上げお客様の業務改善のサポートを開始した",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "(現在は、自身が立ち上げた個人事業である倉林工房はeumo加盟店にもなっている",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "現在立ち上げ準備を進めている「減価する通貨eumoを使った業務改善職のためのオンラインコミュニティ」において、以下の3点を実施しその結果データを分析する",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "地域や企業と立ち上げた産学連携のプロジェクトに参画し、フィールドワークをしていくというものです",
+    "url": "https://note.com/kurakaz/n/n0990a09717df",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年の創業以来、世の中のニーズに合わせて進化を続けてきました",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一番上の丸は創業者藤本寅雄の藤、藤の花のイメージが、左下の丸にはダスキン事業の創業者鈴木清一の鈴のイメージ、右下の丸には経営計画書の源である一倉定の倉のイメージが込められています",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、創業時の想い、関係者の皆さまとのつながりを表したのがこの社章です",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者が亡くなる2日前に、その奥さまから「小山さん、武蔵野の社長をやって」と言われ、「エーッ！？弱っちゃったなあ」と思いました",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、創業者の奥さまに社長になっていただければ、問題ないであろうと考えました",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "創業6年で国内No.1規模へ拡大",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "【グローバルダイニング】創業50周年 特別企画！創業者 長谷川耕造社長インタビュー（Vol.1）",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "【110億調達→破産】創業から倒産までのリアルな失敗と学びを阪根信一さんに教えてもらいました",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社武蔵野は創業以来60年以上、世の中のニーズに合わせて進化を続けてきました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "フォローした企業がプレスリリース/ストーリーを配信するとお知らせメールが届きます",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ベリーを設立し社長に就任、1989年に現職に就任",
+    "url": "https://recruit.musashino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "小嶺：専務取締役COO・共同創業者である吉岡諒さんが登壇されているセミナー動画を拝見したことが、最初のきっかけです",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "創業40年を越える当社は物流業として日々様々な分野で成長をし続けております",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3月 九州に瀬高冷凍麺工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉第二工場、八千代センターを開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "6月 (株)武蔵野東日本が栃木第二工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "9月 集約化を目的に、埼玉工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "朝霞工場を買収し、埼玉第二工場(現・朝霞工場)を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野創立30周年記念式典開催",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉工場及び、八千代センターを開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧神奈川工場を閉鎖、神奈川工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホテルユーラシア(舞浜ユーラシア新館)を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3月 東海工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月 埼玉工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2月 朝霞工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2月 ホテルユーラシア舞浜アネックスを開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3月 京都工場隣接地に増築棟を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "6月 (株)武蔵野沖縄 沖縄工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和46年）- ムサシノ食品株式会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和51年）- 福岡市に株式会社チロル（現・株式会社武蔵野 福岡工場）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和52年）- 株式会社武蔵野商事（現・武蔵野フーズ）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和56年）- 福島県郡山市に株式会社サンフーズ（現・当社福島工場）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和61年）- 静岡県にカムス株式会社（現・株式会社武蔵野 静岡工場）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成5年）- 所沢物流センター開設",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "に合弁会社「統一武蔵野股份有限公司」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成16年）- 大阪工場開設",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "4年）- おおた渡良瀬産業団地に、冷凍食品製造工場、群馬フローズンファクトリーを開設",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野フーズ-1977年9月に、株式会社「武蔵野商事」として設立し、1999年に「武蔵野フーズ」へ改名",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "安田会長が1966年に設立した個人商店「武蔵野商事」、1969年設立の「株式会社武蔵野フーズ（現・武蔵野）」とはそれぞれ同名の別法人",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、開設予告動画 『譲れない想い』",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "そして、1期生の1年を振り返る『学部開設から1年、それぞれの歩み』",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "EMC開設初年度を振り返る『学部開設から1年、それぞれの歩み』に続く、開設2年目を振り返る動画を作成するプロジェクトが立ち上がったのは、2022年の年末でした",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "当初は、『譲れない想い』や『学部開設から1年、それぞれの歩み』と同様、EMCの教員でもある",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "EMC生による動画はこれまでもたくさん公開されていますが、開設2年目を振り返る動画はEMCの軌跡を形にする重要な動画だからです",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "EMCが開設する前の動画は、学部長である伊藤羊一さんはじめ、教員陣が頭を捻って、外部の専門家とともに企画・制作しました",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "武蔵野の仕組み・経営手法についての書籍一覧、雑誌・新聞等のメディアへの掲載情報についてご案内いたします",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:0120-85-6340 / FAX:0120-28-6340",
+    "url": "https://www.musashino.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "小山昇の書籍 2025年12月22日(月)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "小山昇の書籍 2025年7月7日(月)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "佐藤義昭の書籍 2025年3月13日(木)発売",
+    "url": "https://www.musashino.co.jp/news/media/",
+    "pass": 1
+   },
+   {
+    "quote": "他部署の成功事例を壁掲示や視察で即真似する「パクリ改善」により、全社でノウハウを高速共有します",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2342/",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：045-971-6966 FAX：045-971-7654",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "大型パンフレット・カタログ・小冊子・DMなど、チラシでないものの配布は、別途お見積もりとさせていただきます",
+    "url": "https://www.nice-posting.com/posting/",
+    "pass": 3
+   },
+   {
+    "quote": "（２）形態別蔵書統計【 （１）に含まれる特殊形態書籍の統計】 単位：冊",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（９）配慮を必要とする子どもへのサービス ②みどりのこども館ウィズ図書館見学会",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長の小山昇氏は、倒産寸前だった同社を再建し、18年連続増収を果たす企業へと変えた他、日本経営品質賞を2度受賞し、50冊以上の経営書籍も手掛ける、辣腕経営者だ",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社武蔵野の代表取締役社長である小山は、全部で約80冊の書籍を出版してきました",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "現在76歳ですがいまだに書籍を出版し続けています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "「新卒で入社した活躍している社員が著者である」ということは、新卒採用を語る書籍を出版する上で、読者にとっても武蔵野の社員にとっても、",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、この「すごい採用の教科書」は、武蔵野にとってただの採用に関する書籍ではなく、",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "書籍では、1993年から30年以上かけて積み上げてきた新卒採用のノウハウを惜しみなく公開しています",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "この書籍を通して、Kimeteのミッションである",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "【定着率90%超】エース社員の離職を防ぐ「評価の仕組み」 経営者向け無料セミナーを9/16・18開催",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "リユースに関わり続けてきた代表が書籍を通じて今伝えたいこととは",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "1992年顧問を退任、現在に至る",
+    "url": "https://recruit.musashino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "そこからサイトにアクセスしたり、書籍コンテンツをダウンロードしたり、という流れでハウスリストを獲得",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティング最新ニュースのレポートや無料セミナーの先行案内が届く、お得なメルマガ配信中！",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "電話番号 0422-77-1087 FAX番号 0422-57-2761",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "電話番号 06-7176-3367 FAX番号 06-7176-3368",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "「“わたしたち”をつくり、未来へとつなぐリチュアル」─リチュアルデザイン研究会 第5回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「儀礼の外側を考える」─リチュアルデザイン研究会 第4回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「人類の進化とリチュアル」─リチュアルデザイン研究会 第3回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「雨乞いとデザイン思考の共通点」─リチュアルデザイン研究会 第２回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「リチュアルとリチュアルデザインの概要」─リチュアルデザイン研究会 第1回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "また同時に一番上の丸はお客様、左下の丸は従業員、右下の丸は株主さんを表してもいます",
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "朝霞工場を買収し、埼玉第二工場(現・朝霞工場)を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "連結経常利益は228億円、親会社株主に帰属する当期純利益は154億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は116億円、親会社株主に帰属する中間純利益は81億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コヤマ・フーズ-麺類の分野に進出時の1989年11月買収し、2000年の吸収合併後から「埼玉麺工場」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "“ハウス食品G、子会社のデリカシェフを売却 90億円で”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却｜M&Aニュース｜M&A･事業承継なら日本M&Aセンター",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社株式会社（2810）は、連結子会社である株式会社デリカシェフ（埼玉県久喜市）の株式ならびに、ハウス食品グループ本社が保有するデリカシェフの事業に係る資産を全て、株式会社武蔵野（埼玉県朝霞市）へ譲渡すること決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "本件譲渡に伴い、デリカシェフは、ハウス食品グループ本社の連結子会社から除外されることとなる",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "うかいが恵比寿のフレンチレストラン「マッシュルーム」運営の山岡商事を子会社化へ",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社を通じて米Keystone Natural HDの株式取得、子会社化へ",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社株式会社（2810）は、連結子会社であるハウスフーズホールディングUSA（アメリカ・カリフォルニア州）が、KeystoneNaturalHoldings,LLC（アメリカ・ペンシルベニア州、Keystone）を完全子会社化することを決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社ギャバンへ出資、事業承継に向け経営基盤を強化",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社株式会社（2810）は、連結子会社である株式会社ギャバン（東京都中央区）が実施する第三者割当増資を引き受けることを決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ、子会社間で国内業務用食品事業を統合",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社株式会社（2810）は、子会社であるハウス食品株式会社（東京都千代田区）の業務用食品事業を、同じく子会社の株式会社ギャバン（東京都中央区）に承継させることを決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品(2810)、でんぷん麺製造のマロニーを完全子会社化",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社(2810)は、マロニー株式会社（大阪府吹田市）の全株式を取得し、完全子会社化することを決定した",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業譲渡とは？株式譲渡との違い・メリット・デメリット・流れ・税金を解説",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業譲渡とは、会社が営む事業の全部または一部を第三者へ譲渡するM&A手法の1つです",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、事業譲渡の意味、株式譲渡・会",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "分社化とは？子会社化との違い、メリット・デメリットと検討ポイントを解説",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、分社化の基本的な仕組み子会社化との違い分社化が向いているケースメリット・デメリット実務上の注意点を、実務目線でわかりやすく解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "買収とは？合併やM&Aとの違い、種類、プロセスを解説",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "買収は、企業の成長や事業承継の手法として広く活用されています",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、買収と合併、M&Aの違いをはじめ、買収の種類やプロセスをわかりやすく解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のポイント買収とは、対象企業の事業や経営権を取得することで、「事業買収」と「企業買収」に分けられる",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "買収には「友好的買収」と「同意なき買収」があり、一般的に中小",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "大日本印刷が完全子会社のDNPデジタルソリューションズを吸収…",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイテクトが完全子会社のジェイテクトエンジニアリングを吸収…",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "継続的な増収増益を達成してきた武蔵野が実践しているのは、精神論を排した",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる理論や研修で終わらせず、武蔵野自らが実践して増収増益を継続してきた『生きたノウハウ』を現場主義で落とし込む点です",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/",
+    "pass": 1
+   },
+   {
+    "quote": "増収増益を続ける企業が実践しているのは、勘や経験だけに頼らない",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2346/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる知識の教授ではなく、武蔵野自身が実践して増収増益を達成してきた『生きたノウハウ』をそのまま現場主義で落とし込む点です",
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2346/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長の小山昇氏は、倒産寸前だった同社を再建し、18年連続増収を果たす企業へと変えた他、日本経営品質賞を2度受賞し、50冊以上の経営書籍も手掛ける、辣腕経営者だ",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "社長就任後、小山は武蔵野の立て直しを図り、2001年から開始した経営サポート事業の成功によって18年連続で増収を果たす企業へと変えた",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "赤字続きだった武蔵野を増収増益、売上 75 億円（社長就任時の 10 倍）を超える優良企業に育てる",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "【武蔵野】倒産寸前から18年連続増収へ",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "税理士任せは危険なサイン！社長が絶対に見るべき決算書の正しい読み方を教えます！【経営 利益 黒字】",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "売上高／1,803億6,669万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高／367億7,474万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高／196億5,256万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "コア業務純益は247億円、経常利益は216億円、当期純利益は148億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "連結経常利益は228億円、親会社株主に帰属する当期純利益は154億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "コア業務純益は114億円、経常利益は115億円、中間利益は82億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は116億円、親会社株主に帰属する中間純利益は81億円となりました",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の営業利益",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "： 参加者には「残業代」を支給し、強制ではなく業務の一環として正当に評価する仕組み",
+    "url": "https://www.musashino.co.jp/news/topics/2044/",
+    "pass": 1
+   },
+   {
+    "quote": "選挙人名簿登録者数｜武蔵野市公式ホームページ",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効登録者数(市内）※ 40,431 39,041 33,056 36,605 37,524",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効登録者数(市外）※ 36,445 34,997 26,702 27,514 27,385",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※印については、Ｐ７の有効登録者数を参照",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．有効登録者数",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 有効登録者数は、登録者の内、令和４年度内に利用があった人数",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）有効登録者数（令和４年度） 単位：人",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※登録者数は令和５年３月31 日付け",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当たり 登録者数 貸出総数 市民１人当たり 予約受付総数",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基礎FSと発展FSの2025年度参加者数合計実績",
+    "url": "https://www.musashino-u.ac.jp/guide/profile/infographic.html",
+    "pass": 3
+   },
+   {
+    "quote": "会員数45万人以上の訪日外国人旅行者向けサービスを展開",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 1.44万人",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "現在500社以上の会員企業を指導、日本経営品質賞受賞の軌跡、中小企業のIT戦略、実践経営塾、実践幹部塾と、全国で年間240回以上のセミナーを行なっており、講演は明日からの仕事に役立つようにと実務中心の内容",
+    "url": "https://recruit.musashino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "大まかな数としては、経営サポートパートナー会員企業が約750社、経営者アカデミー会員が約350社、あとはYoutubeのセミナー動画を見てくださっている等ライトな小山ファンのハウスリストが約1万名分ある、といった状況でした",
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "pass": 3
+   },
+   {
+    "quote": "PV数の多いメディアに掲載されれば、その影響はさらに大きくなります",
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野美術大学が提供するアート＆デザインで新たな文化資源を創出する、デザイン経営人材育成講座「VCP for TOKYO Tourism」の講義録や参加者の声を集めたマガジンです",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東京都 武蔵野 市｜新聞折込広告･折込チラシ 料金表 — 東京都 武蔵野 市｜新聞折込広告･折込チラシ 料金表 オリコメイト https://www.orikomate.jp > kanto > tokyo > musashino",
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "pass": 3
+   },
+   {
+    "quote": "料金表 ｜ 武蔵野 市公式ホームページ — 料金表 ｜ 武蔵野 市公式ホームページ 武蔵野市公式ホームページ https://www.city.musashino.lg.jp > suido > ryokinguide",
+    "url": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/jogesuido/suido/riyo_okyakusama/ryokinguide/1005634.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 武蔵野 市のポスティング・チラシ配布 - 株式会社アト — 東京都 武蔵野 市のポスティング・チラシ配布 - 株式会社アト 株式会社アト https://www.ato-co.jp > 東京都",
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆるニーズに沿った企画・デザイン。イメージを形に ... — あらゆるニーズに沿った企画・デザイン。イメージを形に ... 武蔵野企画 https://www.e-musashino.co.jp > dtp > price",
+    "url": "https://www.e-musashino.co.jp/dtp/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "選挙人名簿 登録者数 ｜ 武蔵野 市公式ホームページ — 選挙人名簿 登録者数 ｜ 武蔵野 市公式ホームページ 武蔵野市公式ホームページ https://www.city.musashino.lg.jp > senkyo > senkyo_data",
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "pass": 3
+   },
+   {
+    "quote": "統計編 - 武蔵野 市立図書館 — 統計編 - 武蔵野 市立図書館 武蔵野市立図書館 PDF https://www.library.musashino.tokyo.jp > upload",
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 市選挙管理委員会 (@musashinosenkan) / X — 武蔵野 市選挙管理委員会 (@musashinosenkan) / X X https://x.com > musashinosenkan",
+    "url": "https://x.com/musashinosenkan",
+    "pass": 3
+   },
+   {
+    "quote": "SNS - 武蔵野文化生涯学習事業団 — SNS - 武蔵野文化生涯学習事業団 武蔵野文化生涯学習事業団 https://www.musashino.or.jp > ...",
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 武蔵野 大学 | 大学案内 — 数字で見る 武蔵野 大学 | 大学案内 武蔵野大学 https://www.musashino-u.ac.jp > 大学案内",
+    "url": "https://www.musashino-u.ac.jp/guide/profile/infographic.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営者 インタビュー 動画－株式会社 武蔵野 代表取締役社長 ... — 経営者 インタビュー 動画－株式会社 武蔵野 代表取締役社長 ... 社長名鑑 https://shachomeikan.jp > presidents > detail",
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "pass": 3
+   },
+   {
+    "quote": "【 武蔵野 】倒産寸前から18年連続増収へ。成長する ... - YouTube — 【 武蔵野 】倒産寸前から18年連続増収へ。成長する ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "pass": 3
+   },
+   {
+    "quote": "職人への インタビュー | 株式会社 武蔵野 テーブル — 職人への インタビュー | 株式会社 武蔵野 テーブル 株式会社武蔵野テーブル https://musashinosabo.com > 採用情報",
+    "url": "https://musashinosabo.com/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "社員定着率を倍増させた株式会社 武蔵野 の取締役が著書を出版 ... — 社員定着率を倍増させた株式会社 武蔵野 の取締役が著書を出版 ... prtimes.com https://prtimes.com > ... > コンサルティング",
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ | 武蔵野 採用サイト — 代表メッセージ | 武蔵野 採用サイト 武蔵野採用サイト https://recruit.musashino.co.jp > message",
+    "url": "https://recruit.musashino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 の実績 - 株式会社 武蔵野 - 独自で培った仕組みや ... — 武蔵野 の実績 - 株式会社 武蔵野 - 独自で培った仕組みや ... 株式会社武蔵野 https://www.musashino.co.jp > 会社案内",
+    "url": "https://www.musashino.co.jp/company/performance/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 グループの会社概要 | マイナビ2028 — 武蔵野 グループの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp259359 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト - 武蔵野銀行 — 業績ハイライト - 武蔵野銀行 武蔵野銀行 https://www.musashinobank.co.jp > financial_highlight",
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "【 武蔵野 興業】[9635]決算発表や業務・財務情報 | 日経電子版 — 【 武蔵野 興業】[9635]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 (食品製造) - Wikipedia — 武蔵野 (食品製造) - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 武蔵野_(食品製造)",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "食の喜びと癒しのひとときを - 武蔵野グループ — 食の喜びと癒しのひとときを - 武蔵野グループ 武蔵野グループ https://musashino-group.jp > group > company",
+    "url": "https://musashino-group.jp/group/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社のデリカシェフを 武蔵野 へ売却 — ハウス食品グループ本社、子会社のデリカシェフを 武蔵野 へ売却 日本M&Aセンター https://www.nihon-ma.co.jp > ... > M&Aニュース",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社 武蔵野 — 会社案内 | 株式会社 武蔵野 ms-net.co.jp https://www.ms-net.co.jp > ms_01_01_company",
+    "url": "https://www.ms-net.co.jp/ms_01_company/ms_01_01_company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 - 株式会社 武蔵野 — 会社概要・沿革 - 株式会社 武蔵野 株式会社武蔵野 https://www.musashino.co.jp > 会社案内",
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 EMC2年目の軌跡を在校生チームが動画で発信！ - note — 武蔵野 EMC2年目の軌跡を在校生チームが動画で発信！ - note note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 美術大学 大学院の 振り返り (1/n)｜倉林 一範 - note — 武蔵野 美術大学 大学院の 振り返り (1/n)｜倉林 一範 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 美術大学 大学院の 振り返り (3/n)｜倉林 一範 - note — 武蔵野 美術大学 大学院の 振り返り (3/n)｜倉林 一範 - note note https://note.com > アート・デザイン > デザイン",
+    "url": "https://note.com/kurakaz/n/n0990a09717df",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "7月 旧横浜工場、横浜第二工場及び戸塚センターを閉鎖、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧千葉工場、千葉第二工場及び旧八千代センターを閉鎖、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧神奈川工場を閉鎖、神奈川工場を開設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "10月 旧群馬工場を閉鎖",
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "“ハウス食品G、子会社のデリカシェフを売却 90億円で”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却｜M&Aニュース｜M&A･事業承継なら日本M&Aセンター",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ、子会社間で国内業務用食品事業を統合",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、会社を売る際のメリット・注意点から、売却の方法や流れ、成功のポイントまでを解説します",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業売却とは？会社売却との違いやメリット、税金について解説",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業売却は、企業が特定の事業部門や資産を他の企業に譲渡するプロセスであり、戦略的な再編成や資金調達の手段として広く利用されています",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、事業売却のメリットやデメリット、手続きについてご紹介します",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のポイント事業売却の目的は資金調達、事業ポートフォリオの見直し、事業承継な",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業譲渡とは？株式譲渡との違い・メリット・デメリット・流れ・税金を解説",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "事業譲渡とは、会社が営む事業の全部または一部を第三者へ譲渡するM&A手法の1つです",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、事業譲渡の意味、株式譲渡・会",
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "pass": 3
+   },
+   {
+    "quote": "この時点で2023年4月入学の選考は終了していたので、「",
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "武蔵野 大学社会福祉学科 - note 武蔵野 大学社会福祉学科 - note note https://note.com > musw",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 大学 アントレプレナーシップ学部（ 武蔵野 EMC）｜note 武蔵野 大学 アントレプレナーシップ学部（ 武蔵野 EMC）｜note note https://note.com > mu_emc",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "国木田独歩『 武蔵野 』を中学生にもわかる日本語で読む - note 国木田独歩『 武蔵野 』を中学生にもわかる日本語で読む - note note https://note.com > 文学・文芸 > エッセー・随筆",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 美術大学 VCP for TOKYO Tourism - note 武蔵野 美術大学 VCP for TOKYO Tourism - note note https://note.com > ichigaya_mau",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 大学 アントレプレナーシップ学部（ 武蔵野 EMC）｜ note 武蔵野 大学 アントレプレナーシップ学部（ 武蔵野 EMC）｜ note note https://note.com > mu_emc",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 美術大学 岩嵜博論 研究室の記事一覧 - note 武蔵野 美術大学 岩嵜博論 研究室の記事一覧 - note note https://note.com > hriwsk > all",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 美術大学1/M（イチエム） - note 武蔵野 美術大学1/M（イチエム） - note note https://note.com > ichim_musabi",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "教室とフィールドを行き来しながら学ぶ―社会福祉学科「私たちのフィールド活動報告会」",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "教室を出て、北海道の地で「ソーシャルワーク」を学ぶーゼミ合宿へ行ってきました！",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "いよいよ入試シーズン！ オープンキャンパスで寄せられた質問にお答えします！",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野キャンパスに、全国のソーシャルワーク教育関係者が集結 ― 4年生3人が語った「ソーシャルワーカーを目指した理由」",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "学内学会2026年度スポーツ大会を開催しました",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "社会福祉学科が取り組んでいるFS西桂町プログラムってどんなことをしているの？",
+    "url": "https://note.com/musw",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野大学 アントレプレナーシップ学部（武蔵野EMC）｜note",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "社会に出てからも、青春したい。〜働く大人の熱意に触れたキャリアデザインの授業（1年生 鈴木大心さん）",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野大学 アントレプレナーシップ学部（武蔵野EMC）",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "EMC生が富山で伝えたかったこと。Sketch Labでの講義を振り返って（EMC3年生 村上弓太郎さん）",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "【EMC Voice】向き合うべきは、自分自身。古謝杜央子が心から学びたいこと。",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "「教えてもらう」から、「やってみる」へ。高校生と過ごした2日間：聖隷クリストファー高等学校でのワークショップをEMC生が行ってきました！",
+    "url": "https://note.com/mu_emc",
+    "pass": 3
+   },
+   {
+    "quote": "国木田独歩『武蔵野』を中学生にもわかる日本語で読む｜自然の情景と重なる心象風景｜やせのもじゃお",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "国木田独歩『武蔵野』を中学生にもわかる日本語で読む｜自然の情景と重なる心象風景",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが暮らす現代では、街の光や音に囲まれながら、「静かなところで深呼吸したいな」と思う瞬間が誰にでもあります。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "明治時代にも、そんな気持ちを抱えた文筆家がいました。国木田独歩が書いた『武蔵野』は、都会の喧騒に疲れた語り手が、東京近郊に残された豊かな自然の中を歩きながら、人が生きるとは何か、自分はどうありたいのかを静かに問いかけます。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "散歩の風景、季節の移ろい、そこで暮らす人々とのすれ違い。そうした小さな出来事が、語り手の心に波のように影響し、自然と人生がゆっくり重なっていくのがこの作品の大きな魅力です。100年以上前の風景なのに、読めば不思議と共感できる――そんな “古いけれど新しい” 名作を、今回も中学生にわかる言葉で読み解いていきます。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "昔の武蔵野は萱原（かやはら）のはてなき光景をもって絶類の美を鳴らしていたようにいい伝えてあるが、今の武蔵野は林である。林はじつに今の武蔵野の特色といってもよい。すなわち木はおもに楢（なら）の類（たぐ）いで冬はことごとく落葉し、春は滴（したた）るばかりの新緑萌（も）え出ずるその変化が秩父嶺以東十数里の野いっせいに行なわれて、春夏秋冬を通じ霞（かすみ）に雨に月に風に霧に時雨（しぐれ）に雪に、緑蔭に紅葉に、さまざまの光景を呈（てい）するその妙はちょっと西国地方また東北の者には解しかねるのである。元来日本人はこれまで楢の類いの落葉林の美をあまり知らなかったようである。林といえばおもに松林のみが日本の文学美術の上に認められていて、歌にも楢林の奥で時雨を聞くというようなことは見あたらない。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "楢の類いだから黄葉する。黄葉するから落葉する。時雨（しぐれ）が私語（ささや）く。凩（こがらし）が叫ぶ。一陣の風小高い丘を襲えば、幾千万の木の葉高く大空に舞うて、小鳥の群かのごとく遠く飛び去る。木の葉落ちつくせば、数十里の方域にわたる林が一時に裸体（はだか）になって、蒼（あお）ずんだ冬の空が高くこの上に垂れ、武蔵野一面が一種の沈静に入る。空気がいちだん澄みわたる。遠い物音が鮮かに聞こえる。自分は十月二十六日の記に、林の奥に座して四顧し、傾聴し、睇視（ていし）し、黙想すと書いた。「あいびき」にも、自分は座して、四顧して、そして耳を傾けたとある。この耳を傾けて聞くということがどんなに秋の末から冬へかけての、今の武蔵野の心に適（かな）っているだろう。秋ならば林のうちより起こる音、冬ならば林のかなた遠く響く音。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "昔の武蔵野は、一面がススキ野原で、どこまでも続く大きな景色がとても美しかったと言われています。しかし今の武蔵野は、広い“林”が特徴です。とくに多いのはナラの木で、冬には全部の葉が落ち、春にはあふれるほどの新しい緑がいっせいに芽を出します。その変化は、秩父の山から東へ十数キロの広い野原で一度に起こり、春・夏・秋・冬のすべての季節に、霞（かすみ）、雨、月、風、霧、時雨（しぐれ）、雪、木かげ、紅葉（もみじ）など、実にさまざまな風景を見せてくれます。けれど、この美しさは、西日本や東北に住む人には、少しわかりにくいかもしれません。日本では昔から「林」といえば松林のことばかりが文学や絵の中で大切にされてきて、ナラの林で時雨を聞く――そんな情景は、ほとんど歌にも描かれていないからです。",
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野美術大学 VCP for TOKYO Tourism｜note",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "“見えないものを見るということ” VCP for TOKYO Tourism 【丸山先生＆石川先生 対談】",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野美術大学 VCP for TOKYO Tourism",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "“着地点が見えないものに向かうこと” VCP for TOKYO Tourism 【受講生 インタビュー】",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "“複数の視点から物事を眺める” VCP for TOKYO Tourism 【受講生 座談会】",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "\"再生を繰り返す島から考える、持続的な観光\" VCP for TOKYO Tourism 【最終日Day 7 フィールドワークレポート】",
+    "url": "https://note.com/ichigaya_mau",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野美術大学 岩嵜博論 研究室の記事一覧｜note",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "「“わたしたち”をつくり、未来へとつなぐリチュアル」─リチュアルデザイン研究会 第5回レポート",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "Next 200 House 長浜にRCSC連携研究員合宿に行きました",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "『誰もがデザインする時代のデザイン』 第5章",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "『誰もがデザインする時代のデザイン』 第4章",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "『誰もがデザインする時代のデザイン』 第3章",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "『誰もがデザインする時代のデザイン』 第2章",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "『誰もがデザインする時代のデザイン』 第1章",
+    "url": "https://note.com/hriwsk/all",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野美術大学1/M（イチエム）｜note",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   },
+   {
+    "quote": "【自己紹介】大学と社会がつながる拠点・武蔵野美術大学1/M（イチエム）",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   },
+   {
+    "quote": "【展示】gallery αM 1988–使われ続けるアーカイブ――gallery αMの40周年とその先に向けて",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   },
+   {
+    "quote": "【展示】武蔵野美術大学×WELAGO 共同研究2025 成果発表展示開催",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   },
+   {
+    "quote": "【展示】2025年度 空間演習デザイン学科 卒業・修了制作選抜展を開催しました！",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   },
+   {
+    "quote": "【展示】武蔵野美術大学×ユカイ工学「AI × Partner × Robot展」を開催しました！",
+    "url": "https://note.com/ichim_musabi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "武蔵野 大学【公式】  Musashino University - X 武蔵野 大学【公式】  Musashino University - X X https://x.com > musashino_univ",
+    "url": "https://x.com/musashino_univ",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 武蔵野 市 (@musashino_hope) / X 東京都 武蔵野 市 (@musashino_hope) / X X https://x.com > musashino_hope",
+    "url": "https://x.com/musashino_hope",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 プレイス (@musashinoplace) / X 武蔵野 プレイス (@musashinoplace) / X X https://x.com > musashinoplace",
+    "url": "https://x.com/musashinoplace",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 市民文化会館、 武蔵野 公会堂、松露庵 - X 武蔵野 市民文化会館、 武蔵野 公会堂、松露庵 - X X https://x.com > musashino_bunka",
+    "url": "https://x.com/musashino_bunka",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） 武蔵野 | LinkedIn （株） 武蔵野 | LinkedIn LinkedIn https://jp.linkedin.com > company > （株）武蔵野",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E6%AD%A6%E8%94%B5%E9%87%8E",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 大学の社員、場所、同窓生 - LinkedIn 武蔵野 大学の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 武蔵野大学",
+    "url": "https://jp.linkedin.com/school/%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 で株式会社KOMOJUがAccount Manager - Global Key ... 武蔵野 で株式会社KOMOJUがAccount Manager - Global Key ... LinkedIn https://jp.linkedin.com > jobs > view > account-manager-...",
+    "url": "https://jp.linkedin.com/jobs/view/account-manager-global-key-accounts-at-komoju-by-degica-4285381381",
+    "pass": 3
+   },
+   {
+    "quote": "Takeshi Kasuya - 武蔵野 大学高等学校 - Geography Teacher Takeshi Kasuya - 武蔵野 大学高等学校 - Geography Teacher LinkedIn https://jp.linkedin.com > takeshi-kasuya-797383239",
+    "url": "https://jp.linkedin.com/in/takeshi-kasuya-797383239",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "武蔵野 市 | Musashino Tokyo - Facebook 武蔵野 市 | Musashino Tokyo - Facebook Facebook https://www.facebook.com > musashinocity",
+    "url": "https://www.facebook.com/musashinocity/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野 市立 武蔵野 ふるさと歴史館 | Musashino Tokyo 武蔵野 市立 武蔵野 ふるさと歴史館 | Musashino Tokyo Facebook https://www.facebook.com > ... > History Museum",
+    "url": "https://www.facebook.com/musashino.rekishikan/",
+    "pass": 3
+   },
+   {
+    "quote": "TEAM 武蔵野 - Facebook TEAM 武蔵野 - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/472440741200895/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.musashino.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/company/keiei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2346/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2342/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/topics/2336/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2331/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/topics/2239/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/media/2222/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/media/2055/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino.co.jp/news/topics/2044/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.musashino.co.jp/wp/wp-content/themes/musashino/assets/img/company/performance.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nice-posting.com/posting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/jogesuido/suido/riyo_okyakusama/ryokinguide/1005634.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-musashino.co.jp/dtp/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/musashinosenkan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.musashino.or.jp/1001487/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-u.ac.jp/guide/profile/infographic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10063982",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://musashinosabo.com/recruit/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.musashino.co.jp/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tact-seo.com/service/case_study/musashino/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=206725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=yy7cn12tDRs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://musashino-group.jp/group/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ms-net.co.jp/ms_01_company/ms_01_01_company.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://housefoods-group.com/newsrelease/pdf/250902_oshirase2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000175265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/ad_list_amp_amm_amb_agp5_agm_pc7_tc_ic_p1.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selva-i.co.jp/agent_support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=000000075.000175265&g=prt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mu_emc/n/nde999311de18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kurakaz/n/n77ec6f15f21d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kurakaz/n/n30a398395678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kurakaz/n/n0990a09717df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/musw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mu_emc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mojao92/n/n09b69bbee23b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/musashino_univ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/musashino_hope",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/musashinoplace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/musashino_bunka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E6%AD%A6%E8%94%B5%E9%87%8E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/account-manager-global-key-accounts-at-komoju-by-degica-4285381381",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takeshi-kasuya-797383239",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/musashinocity/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/musashino.rekishikan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/472440741200895/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ichigaya_mau",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mu_emc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hriwsk/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichim_musabi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/musashino_univ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/musashino_hope",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "武蔵野 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://www.orikomate.jp/kanto/tokyo/musashino",
+    "https://www.nice-posting.com/posting/",
+    "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/jogesuido/suido/riyo_okyakusama/ryokinguide/1005634.html",
+    "https://www.ato-co.jp/tokyo/musashino-shi/",
+    "https://www.e-musashino.co.jp/dtp/price.html",
+    "https://musashino-sc.or.jp/wp-content/uploads/2025/05/craft_price_shitate.pdf",
+    "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "https://express-ad.co.jp/jr_musashino/",
+    "https://mubs.jp/wp-content/uploads/2026/05/musashino_202604.pdf",
+    "https://marketing.nikkei.com/media/newspaper/prices/nikkei_morning/"
+   ]
+  },
+  {
+   "query": "武蔵野 PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html",
+    "https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf",
+    "https://x.com/musashinosenkan",
+    "https://www.musashino.or.jp/1001487/index.html",
+    "https://www.musashino-u.ac.jp/guide/profile/infographic.html",
+    "https://kadcul.com/news/285",
+    "https://www.instagram.com/p/Dd8JE3AD_Yl/",
+    "https://www.instagram.com/reel/Dd8ImFAPpgU/?hl=ja",
+    "https://www.youtube.com/watch?v=MhzJuYOUPCk",
+    "https://miniwebtool.com/ja/youtubeチャンネル統計/"
+   ]
+  },
+  {
+   "query": "武蔵野 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://shachomeikan.jp/presidents/detail/10063982",
+    "https://www.youtube.com/watch?v=dFLjLPlF9HY",
+    "https://musashinosabo.com/recruit/interview",
+    "https://prtimes.com/story/detail/zrPMZdhQ7Xb",
+    "https://recruit.musashino.co.jp/message/",
+    "https://houdou.jp/special/3610/",
+    "https://www.wantedly.com/companies/company_227740/post_articles/492133",
+    "https://diamond.jp/articles/-/85828",
+    "https://www.sbbit.jp/movie/sp/11730",
+    "https://ja.wikipedia.org/wiki/小山昇"
+   ]
+  },
+  {
+   "query": "武蔵野 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://tact-seo.com/service/case_study/musashino/",
+    "https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=206725",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "https://www.youtube.com/watch?v=yy7cn12tDRs",
+    "https://www.gyro-n.com/seminar/47-plusclass/",
+    "https://n-works.link/seminar/seminar-34607",
+    "https://www.web-planners.net/seminar/semi_localseo.html",
+    "https://snabi-biz.jp/seminars/103",
+    "https://corp.ei-o.com/seo-customer-attraction/"
+   ]
+  },
+  {
+   "query": "武蔵野 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://www.musashino.co.jp/company/performance/",
+    "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "https://www.musashinobank.co.jp/ir/financial_highlight/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9635",
+    "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "https://recruit.musashino.co.jp/data/",
+    "https://en-hyouban.com/company/10002765337/23/",
+    "https://the-shashi.com/tse/8336/segment/",
+    "https://catr.jp/companies/43b90/68722/settlements/59372/389520",
+    "https://prtimes.com/finance/9030001045124/settlement/389520"
+   ]
+  },
+  {
+   "query": "武蔵野 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://musashino-group.jp/group/company/",
+    "https://www.nihon-ma.co.jp/news/20250902_2810-7/",
+    "https://www.ms-net.co.jp/ms_01_company/ms_01_01_company.html",
+    "https://housefoods-group.com/newsrelease/pdf/250902_oshirase2.pdf",
+    "https://www.musashino.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)",
+    "https://job.mynavi.jp/28/pc/search/corp259359/outline.html",
+    "https://www.nissui.co.jp/news/20240508.html",
+    "https://musashino-group.jp/history/",
+    "https://ja.wikipedia.org/wiki/武蔵野_(食品製造)"
+   ]
+  },
+  {
+   "query": "武蔵野 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000075.000175265.html",
+    "https://media-radar.jp/ad_list_amp_amm_amb_agp5_agm_pc7_tc_ic_p1.html",
+    "https://www.selva-i.co.jp/agent_support/",
+    "https://digital-marketing.jp/ad-technology/affiliate-advertising-mechanism/",
+    "https://www.jiji.com/jc/article?k=000000075.000175265&g=prt",
+    "https://news.infoseek.co.jp/article/prtimes_000000075_000175265/",
+    "https://www.recruitment-db.com/candidate/fee.html",
+    "https://www.jmsc.co.jp/corporate/recruit/119/",
+    "https://form.musashino-music.ac.jp/request"
+   ]
+  },
+  {
+   "query": "武蔵野 note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://note.com/mu_emc/n/nde999311de18",
+    "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "https://note.com/kurakaz/n/n77ec6f15f21d",
+    "https://note.com/kurakaz/n/n30a398395678",
+    "https://note.com/kurakaz/n/n0990a09717df",
+    "https://negi-note.hatenablog.com/entry/matome2024",
+    "https://blog.nflabs.jp/entry/2021/12/23/085301",
+    "https://teams.qiita.com/work-reflection-notebook/",
+    "https://note.com/ma_musabi/m/mc53c8f88d2f6",
+    "https://note.com/musashino_univ"
+   ]
+  },
+  {
+   "query": "site:note.com 武蔵野",
+   "results": [
+    "https://note.com/yakoitame/n/nfd5d6c0c3c1d",
+    "https://note.com/musw",
+    "https://note.com/mu_emc",
+    "https://note.com/mojao92/n/n09b69bbee23b",
+    "https://note.com/mu_nichibun",
+    "https://note.com/eism_ms/n/n818904a75dee",
+    "https://note.com/hiyoko0313/n/n266588f6db2f",
+    "https://note.com/18690511/n/n3ac9a202ce57",
+    "https://note.com/black_schwan/n/n6032e83e4097",
+    "https://note.com/yomumae_bungaku/n/n1b18f93329fc"
+   ]
+  },
+  {
+   "query": "site:x.com 武蔵野",
+   "results": [
+    "https://x.com/musashino_univ",
+    "https://x.com/musashino_hope",
+    "https://x.com/musashinoplace",
+    "https://x.com/musashino_bunka",
+    "https://x.com/OminoYasuhiro",
+    "https://x.com/akiohigashiyama",
+    "https://x.com/mu_admission",
+    "https://x.com/mnomori1",
+    "https://x.com/_musashinobank_",
+    "https://x.com/musashinosenkan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 武蔵野",
+   "results": [
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E6%AD%A6%E8%94%B5%E9%87%8E",
+    "https://jp.linkedin.com/school/%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/jobs/view/account-manager-global-key-accounts-at-komoju-by-degica-4285381381",
+    "https://jp.linkedin.com/in/takeshi-kasuya-797383239",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E6%AD%A6%E8%94%B5%E9%87%8E%E9%8A%80%E8%A1%8C",
+    "https://www.linkedin.com/news/story/%E8%87%AA%E5%88%86%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E5%B8%B8%E3%81%AB%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%99%82%E4%BB%A3-4769556/",
+    "https://ec.linkedin.com/jobs/%E6%AD%A6%E8%94%B5%E9%87%8E%E6%80%8E%E4%B9%88%E7%BA%A6%E5%A6%B9%E5%AD%90%E4%B8%80%E6%9D%A1%E9%BE%99%E6%9C%8D%E5%8A%A1%E3%80%8E%E5%B0%8F%E5%A7%90%E5%A6%B9%E7%BA%A6%E7%82%AE%E7%BD%91ye6666.vip%E5%AB%A9%E6%A8%A1%E5%AD%A6%E7%94%9F%E3%80%8F%E9%99%84%E8%BF%91%E7%9A%84500%E4%B8%80%E6%AC%A1%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%BA%A6%E5%90%97-%E6%AD%A6%E8%94%B5%E9%87%8E%E6%80%8E%E4%B9%88%E5%8F%AB%E5%A7%91%E5%A8%98%E7%89%B9%E6%AE%8A%E6%9C%8D%E5%8A%A1-%E6%AD%A6%E8%94%B5%E9%87%8E%E5%93%AA%E9%87%8C%E6%9C%89%E7%BD%91%E7%BA%A2%E5%8C%85%E5%A4%9C%E6%9C%8D%E5%8A%A1-%E6%AD%A6%E8%94%B5%E9%87%8E%E5%93%AA%E9%87%8C%E6%9C%89%E7%A9%BA%E5%A7%90%E7%BA%A6%E7%82%AE%E6%9C%8D%E5%8A%A1.20260410-empleos",
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E6%AD%A6%E8%94%B5%E9%87%8E",
+    "https://www.linkedin.com/news/story/%E6%97%A5%E6%9C%AC%E5%88%9D-%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AC%E3%83%97%E3%83%AC%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E5%AD%A6%E9%83%A8%E5%89%B5%E8%A8%AD-4245041/",
+    "https://jp.linkedin.com/company/musashino-chemical-laboratory-ltd"
+   ]
+  },
+  {
+   "query": "site:facebook.com 武蔵野",
+   "results": [
+    "https://www.facebook.com/musashinocity/?locale=ja_JP",
+    "https://www.facebook.com/musashino.rekishikan/",
+    "https://www.facebook.com/foodbankmusashino/?locale=ja_JP",
+    "https://www.facebook.com/groups/472440741200895/",
+    "https://www.facebook.com/musashinogakuin/?locale=ja_JP",
+    "https://www.facebook.com/musashinoU/",
+    "https://www.facebook.com/musashinokanko/?locale=ja_JP",
+    "https://www.facebook.com/groups/624994144310208/",
+    "https://www.facebook.com/278713989155951",
+    "https://www.facebook.com/musashinocity/"
+   ]
+  },
+  {
+   "query": "武蔵野 note 社長",
+   "results": [
+    "https://note.com/ichigaya_mau",
+    "https://note.com/mu_emc",
+    "https://note.com/hriwsk/all",
+    "https://note.com/ichim_musabi",
+    "https://note.com/im_nakayama/n/na630167bbcb5",
+    "https://diamond.jp/articles/-/243777?page=2",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/noilie1998/n/n0247123db74c"
+   ]
+  },
+  {
+   "query": "武蔵野 X 投稿",
+   "results": [
+    "https://www.city.musashino.lg.jp/shiseijoho/koho/sns/1001855.html",
+    "https://x.com/musashino_univ",
+    "https://www.city.musashino.lg.jp/shiseijoho/koho/sns/1033912.html",
+    "https://x.com/musashino_hope",
+    "https://www.facebook.com/musashinocity/?locale=ja_JP",
+    "https://www.city.musashino.lg.jp/shiseijoho/koho/sns/index.html",
+    "https://meet-musashino.tokyo/",
+    "https://x.com/musashinoplace",
+    "https://x.com/musashino26art/status/2101457437773729989",
+    "https://x.com/Kadokawa_Museum/status/2118317209017847859"
+   ]
+  }
+ ],
+ "missing": {}
+}

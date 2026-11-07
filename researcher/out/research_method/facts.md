@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・154品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・156品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2879,8 +2879,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -3221,7 +3221,7 @@
   - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -6370,6 +6370,8 @@
   - 「官報の閲覧だけでは十分な信用調査にならない場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「Q1: インターネット版官報で特定企業の決算公告を検索できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 失敗・落とし穴：
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6383,8 +6385,6 @@
   - 「API連携が優秀な反社チェックツール5選！サービスの選び方や運用の注意点も解説」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「決算公告を閲覧する際の3つの注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「注意点1: 掲載されている数値は「要旨」の場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
-  - 「注意点2: 決算公告を行っていない企業も多い」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
-  - 「注意点3: データの時点と正確性を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
 - 実例：
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -7548,6 +7548,10 @@
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
 - 手順・やり方：
+  - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告を官報に掲載するやり方【全7ステップで完全解説】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告を官報に掲載するやり方を7ステップで完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「建設業や不動産業など大型借入れを行う業種では、中堅企業でも負債200億円に達する場合があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7559,10 +7563,6 @@
   - 「公告方法は会社の商業登記事項です（会社法911条3項25号）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告の義務を適切に果たすためには、自社が大会社に該当するかどうかを毎期確認し、公告方法と掲載内容を正確に管理することが重要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「A6. 株主総会の特別決議（議決権の3分の2以上）で定款を変更し、公告方法を電子公告に改める必要があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「存続会社になれない整備法37条のルール、消滅会社になる場合の費用・手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 一次情報の探し方：
@@ -7598,6 +7598,8 @@
   - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
 - 実例：
+  - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「中堅企業でも増資を重ねた結果、5億円を超えるケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「個別の明細（例えば売上原価の内訳である期首棚卸高・当期仕入高・期末棚卸高など）は、要旨では省略可能です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7611,8 +7613,6 @@
   - 「したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう」（https://shiodome.co.jp/js/blog/13590）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小」（https://www.kigyou-houmu.com/secret-4/）
 
@@ -9341,11 +9341,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -9378,3 +9378,135 @@
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 空の検索結果・取れない本文の原因を層に分けて切り分ける実務（検索語・取得・抜き出し・答えの層・RAGとデータジャーナリズムの失敗記録）（diagnosing empty search results retrieval vs extraction failure data journalism data diary）
+- 文脈：手法
+- 手順・やり方：
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「※RAG製品の検索方法、分割方法、権限、同期、評価機能は異なり、仕様も変わります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「本記事は特定製品の障害対応手順ではなく、中小企業が原因を整理するための一般的な実務手順です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「AIよろず室では、この順序で調べる方法を「RAG故障診断・5層」と呼んでいます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この場合は、回答指示、渡す文脈の量、モデル、出力形式、人の確認方法を見直します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「AIへ登録する文書の選び方は、RAG導入判断記事からつながる文書整理手順で確認できます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「暗黙知しかない場合は、担当者への聞き取りから、業務責任者が確認した手順へ変えます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】｜株式会社AIworker」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「RAGの回答精度が上がらない原因は？検索・データ・生成を見直す改善手順【2026年8月最新】」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「精度が出ない原因を工程別に切り分け、改善前後を同じ条件で比較する方法」（https://note.com/ai__worker/n/n139e4f11e738）
+- 突き合わせ・推定：
+  - 「引用先を開けず、検証できない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「答えがない、矛盾している、正式版が不明なら、根拠層の問題です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「複数の文書が矛盾する場合は、結論を断定せず、文書名と相違点を示してください」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「検索結果、出典表示、回答後の検証、人の承認を組み合わせます」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「回答範囲、根拠表示、答えがない場合、矛盾時の処理に絞ります」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「検索だけで解決しようとせず、計算や照合は専用の処理へ任せるほうが安定することがあります」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「古い文書と新しい文書が矛盾する場合は、更新日を優先する」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
+  - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+- 一次情報の探し方：
+  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「PDFの見た目では隣にある表や注記が、抽出後のテキストでは離れていることもあります」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「PDFの表、注記、画像が正しく抽出されている」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「：古い文書、重複、表、PDF、権限、版数は整理されているか」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
+  - 「PDFや規程文書では、ページ番号・章番号をメタデータ化する」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
+  - 「一次情報から言えるのは、RAG評価と運用の実務化が急速に進んでいるということです」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
+  - 「一方で、これらの一次情報が示しているのは「すべてのRAGを高度化せよ」という話ではありません」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
+  - 「（例：PDF100ページ → 500文字ずつのブロックに切り分け）」（https://note.com/rally_ai/n/n91367ab099aa）
+  - 「PDFから抽出したテキストには、ゴミが混じっていることが多い」（https://note.com/rally_ai/n/n91367ab099aa）
+  - 「PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う」（https://note.com/rally_ai/n/n91367ab099aa）
+  - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+- 失敗・落とし穴：
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAGの失敗は、少なくとも次の5層へ分けて確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「：改定・削除・同期・失敗報告が回っているか」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「同じ問題を再発させない失敗記録テンプレート」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAGの失敗を「5層」へ分ける」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「そのため、回答が間違っていても、失敗地点は一つではありません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「回答内容が正しくても、見せてはいけない情報を返したら失敗です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAG導入でよくある失敗7選」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「失敗1：答えが文書にないのに、AIへ答えさせる」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「最も基本的ですが、見落とされやすい失敗です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「失敗2：旧版・草案・重複文書を同時に検索する」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「失敗3：正しい文書があるのに、検索結果へ出ない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+- 実例：
+  - 「検索結果として取得された文書名と該当箇所を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「失敗3：正しい文書があるのに、検索結果へ出ない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「検索結果を見ずに、回答だけを何度も採点しません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「Q. 検索結果を確認できない製品では、どうすればよいですか？」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「検索結果が悪いのか、回答が根拠から外れているのか、必要な情報が足りないのかを分けます」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「同じ規程の旧版と新版が並んでいると、検索結果の意味は近いため、古い文書が上位に出ることがあります」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「分割前の抽出結果を人が確認する工程が必要です」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「原因6｜回答指示が検索結果の使い方を定めていない」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「検索結果、出典表示、回答後の検証、人の承認を組み合わせます」（https://note.com/ai__worker/n/n139e4f11e738）
+  - 「質問を変えるたびに結果が変わるため、設定Aと設定Bの比較もできなくなります」（https://note.com/ai__worker/n/n139e4f11e738）
+
+## 法人番号を主キーにした名寄せの実務（検査用の数字・個人事業主と外資の欠け・社名変更と移転の追い方・gBizINFO との突き合わせ）（corporate number master key entity resolution Japan check digit gBizINFO）
+- 文脈：手法
+- 手順・やり方：
+  - 「方法で、手続を行っていただく必要があります」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「人等番号とも異なるものとなるように、財務省令で定める方法により国税庁長官が定めるものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「同意を得た後）、速やかに、インターネットを利用して公衆の閲覧に供する方法により行うものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「更後のこれらの事項を前項に規定する方法により公表するものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「が当該事由が生じたことを知った年月日）を第一項に規定する方法により公表するものとする」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「第三条 令第三十五条第三項に規定する財務省令で定める方法は、他のいずれの法人番号を構成する同条第一項に規定する基」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「これら以外の者を区分して識別することができるような十二桁の番号を電子計算機及びプログラムを用いて算出する方法と」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「ご利用方法（検索・閲覧、ダウンロード機能）について」（https://www.houjin-bangou.nta.go.jp/）
+  - 「官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順｜ゴムマリ」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「／ 官公データで企業リストを作る方法｜法人番号・gBizINFOを無料で束ねる手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「官公データで​企業リストを​作る​方​法｜​法人番号・​gBizINFOを​無料で​束ねる​手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「使う4つのデータ源（法人番号公表サイト・gBizINFO・EDINET・適格請求書公表サイト）の実仕様と5つの手順、ファイル形式・文字コードの選び方、名寄せ・鮮度維持のつまずきどころ、商用利用の規約の作法を、作る順番で整理します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「企業リストの入手方法は3つある」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「手順は5つ——小さく作って一巡させる」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「この記事は、リスト購入の予算がないBtoB営業企画・マーケ担当に向けて、使うデータ源・ファイル仕様・手順・つまずきどころまでを、作る順番で解説します」（https://gomumari.com/knowledge/koukou-data-list/）
+- 突き合わせ・推定：
+  - 「法人番号システムWeb‑API機能の検証環境における設定変更について（６月20日）」（https://www.houjin-bangou.nta.go.jp/）
+  - 「手元の顧客リストと官公データを名前で突き合わせると、表記ゆれと同名他社で破綻します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「数千件の個別照合や差分の自動取り込みはAPI向きです」（https://gomumari.com/knowledge/koukou-data-list/）
+- 一次情報の探し方：
+  - 「設立登記法人への指定･･････････････････････････････ ５」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記のない法人と人格のない社団等への指定･･････ ６」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記法人の基礎番号は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等番号）です」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記法人以外の者の基礎番号は、他のいずれの法人番号の基礎番号や、いずれの会社法人等番号とも異なるよう定められ」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「登記所コード(４桁)」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「に基づく指定 会社法その他の法令の規定により設立の登記をした法人」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「（外国法人は、設立登記法人ではありません」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「○ 会社法その他の法令の規定により設立の登記をした法人（設立登記法人）に対して、法人番号を指定します」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「○ 国税庁長官は、法人番号の指定のため、法務大臣から登記情報の提供を求めることができます」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「国税庁では、提供を受けた登記情報を基に、法人番号を指定しています」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「※１ 外国法人や有限責任事業組合、投資事業有限責任組合は、設立登記法人ではありません」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記法人の法人番号（13桁）は、商業登記法に基づき登記簿に記録される12桁の番号（会社法人等」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記のない法人と人格のない社団等への指 定」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記のない法人と人格のない社団等への指定」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「設立登記のない法人、人格のない社団等であって、所定の税法上の届出書（※１）を提出することとされている」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+- 失敗・落とし穴：
+  - 「）及びその前に付された一桁の検査用数字（法人番号を電子計算機に入力するときに誤りのないことを確認することを」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
+- 実例：
+  - 「検索の結果、表示される内容は次のとおりです」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「例えば、ISO/IEC15459-2において、法人番号7000012050002のコードは、「TAJ7000012050002」と表します」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
+  - 「なお、検索結果は「英語版法人番号公表サイト」の画面が表示されます」（https://www.houjin-bangou.nta.go.jp/）
+  - 「丁目番地等の検索に当たって、例えば「三丁目」を検索する場合には「三」を算用数字の「３」に、「１番１号」を検索する場合には「１番１号」を「１－１」に置き換えて入力してください」（https://www.houjin-bangou.nta.go.jp/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「Start with NTA Corporate Number full files, daily changes and Web API, then add gBizINFO API and EDINET where the business case and terms justify it.」（https://companiesdata.cloud/open-company-data-japan.html）

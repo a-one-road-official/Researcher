@@ -1,0 +1,2271 @@
+# メディアと船井型の集客回路：どこから人が来て、誰が払い、何が積み上がるか（事実のみ・18社）
+
+## AINOW
+- 公式URL：https://ainow.ai（given）
+- 創業年度：設立：2024年2月（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+- 創業年度：設立：1997年3月（https://www.dip-net.co.jp/news/387・3回目）
+- 従業員数：1,967名（2019年4月1日現在の正社員）※契約・アルバイト･派遣社員除く（https://www.dip-net.co.jp/news/387・3回目）
+- 所在地：東京都文京区本郷6丁目25番14号（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+- 所在地：東京都港区六本木3-2-1 六本木グランドタワー31F（https://www.dip-net.co.jp/news/387・3回目）
+- 代表者：代表取締役 佐藤 傑（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+- 代表者：代表取締役社長 兼 CEO 冨田 英揮（https://www.dip-net.co.jp/news/387・3回目）
+- 人がどこから来るか：
+  - 「【2025年】無料AIイラスト作成アプリ・サイト6種を徹底比較！画像から生成するツールやアニメ風ツールもご紹介！」（https://ainow.ai/・1回目）
+  - 「Perplexityが「Pages」を発表 – 最強のAI記事ジェネレーター」（https://ainow.ai/・1回目）
+  - 「GPT-4oはクレイジーだ―思わず言葉を失うような（信じられない）6つの使用例を紹介」（https://ainow.ai/・1回目）
+  - 「DX（デジタルトランスフォーメーション）とは？ 定義・スキル・事例を解説」（https://ainow.ai/・1回目）
+  - 「DX（デジタルトランスフォーメーション）特集」（https://ainow.ai/・1回目）
+  - 「DXの目的を知ろう《初心者必読》｜IT化との違いから推進ステップまで解説」（https://ainow.ai/・1回目）
+  - 「DXに必要な4つのスキル｜ DX人材の採用方法や書籍を紹介！」（https://ainow.ai/・1回目）
+  - 「生成AIとUXデザインの融合｜エクスペリエンスデザイナーが描く未来のユーザー体験」（https://ainow.ai/category/ainoweditor/interview/・1回目）
+  - 「大規模言語モデルでライターの頭の中を言語化する？｜ライティング支援ツール「Xaris」の挑戦」（https://ainow.ai/category/ainoweditor/interview/・1回目）
+  - 「DX推進や情シスの担当者ほど、候補選びで手が止まりやすいでしょう」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「本記事では、おすすめの17ツールを汎用型・業務システム搭載型・業務特化型・ノーコード型・開発支援型に分けて紹介し、社内で使っているシステム別の早見表と、無料トライアルで見極める手順を解説します」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「Microsoft Copilot：Word・Excel・PowerPointで作業を代行する」（https://ainow.ai/2026/10/20/278446/・1回目）
+- 誰が払うか・単価：
+  - 「AIエージェントの課金方式は、1ユーザーあたりの定額、使った分だけのクレジット課金、ワークフローの実行回数課金などに分かれます」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「GitHub Copilotは2026年6月に全プランが従量課金へ移行するなど、課金方式そのものが変わる例もあります」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「課金単位を把握しておけば、稟議書に「月額の上限」と「超過時の扱い」をセットで書けるため、経理や上長からの質問にもすぐ答えられます」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「気になるツールを見つけたら、次の種類別の解説で課金の仕組みまで確認してください」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「Enterpriseは1席月20ドルに、API料金での従量課金が加わります（年払い・最低20席）」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「2026年6月から全プランが従量課金に移行し、利用量はGitHub AI Credits（1クレジット0.01ドル）で計算されます」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「GitHub Copilotが全プラン従量課金へ移行」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「Microsoftも、2026年12月からCSP経由で新規契約するCopilot Businessで従量課金が既定でオンになり、既定の上限は1ユーザーあたり月4,000クレジットと案内しています」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「導入時は、学習利用の初期設定、エージェントの権限、従量課金の上限を必ず確認してください」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「記事の質が高く、読み応えのある内容が多いことから、企業の記事広告メディアとしても活用されています」（https://note.com/vivid_mint3156/n/nec15689c40e7・3回目）
+  - 「早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+- 規模：
+  - 「登録者数828万人を誇る元女子高生AI「りんな」がマイクロソフトから独立！ - YouTube」（https://www.youtube.com/watch?v=1H1Nn5mAPdE・3回目）
+  - 「登録者数828万人を誇る元女子高生AI「りんな」がマイクロソフトから独立！」（https://www.youtube.com/watch?v=1H1Nn5mAPdE・3回目）
+  - 「チャンネル登録者数 508人」（https://www.youtube.com/watch?v=1H1Nn5mAPdE・3回目）
+  - 「チャンネル登録者数 19.4万人」（https://www.youtube.com/watch?v=RFATJHceWMQ・3回目）
+  - 「大澤くんと出会い、若手の会の広報をやりながら、参加者の皆さんとコネクションが深くなっていったのが印象深いです」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「人工知能が収集する記事数は 1 万、人が執筆する独自取材記事も 100 を超え、特に業界各位の協力を得て作成する「AI サービスマップ」、「AI 研究室マップ」等の「業界地図レポート」が好評です」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「2. 情報掲載数は 1 万件以上」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「また、独自に企業やイベントを取材、記事化しており、掲載記事数は3万件を超えています」（https://www.dip-net.co.jp/service/ainow・3回目）
+- 積み上がって阻むもの：
+  - 「博報堂ＤＹグループの挑戦｜Human-Centered AI Institute が問うAIと人間の新しい関係性」（https://ainow.ai/category/ainoweditor/interview/・1回目）
+  - 「管理部門で成果が出れば、その実績を根拠に営業や開発など他部署への展開も提案しやすくなります」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「「外で有名になるのも大事だけど、実績がないと大人になって誇れるモノ無いよ」」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「それにプロダクトを作ることが好きでしょ？それなら、ほとんど成功していない営業ドメインでアナログをデジタルに変える挑戦してみたら？」」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「メディアの実績も大事だけど、確かにその通りだなと思いました」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「人工知能が収集する記事数は 1 万、人が執筆する独自取材記事も 100 を超え、特に業界各位の協力を得て作成する「AI サービスマップ」、「AI 研究室マップ」等の「業界地図レポート」が好評です」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「記者が AI 開発の現場や学界に直接取材」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「また、独自に企業やイベントを取材、記事化しており、掲載記事数は3万件を超えています」（https://www.dip-net.co.jp/service/ainow・3回目）
+- 立ち上げ時の打ち手：
+  - 「国産の業務システムでも、マネーフォワード クラウド会計Plusは入力データの学習利用を設定で切り替えられ、初期値は「許可する」です」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「GitHub Copilotは含まれるクレジットを超えた分も初期設定で利用できるため、上限を決めないと月末に想定外の請求が届きます」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「導入時は、学習利用の初期設定、エージェントの権限、従量課金の上限を必ず確認してください」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「ディップではビックデータ開発がお世辞にもうまくいっている訳ではなかったので、この状態でもAIを使えば解決するかもしれない！？という期待の基、様々なデータを集めてプロジェクトを立ち上げていました」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「AINOWはAIのキュレーションサイトとして、最小コスト、最速で始めるディップの新規事業らしい立ち上げ方を取りました」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「「AINOW」の立ち上げを支えてくれた4人の偉大な有識者」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「メディアを立ち上げた後はひたすら足を使って取材することを必死にやっていました」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「石井さんはサイト立ち上げの翌日にお問い合わせから、一緒に何か出来ないかと、相談頂いたのが出会いの始まりでした」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「AIについての行動力が半端なく、自分でイベントを立ち上げたり、全脳アーキテクチャへ参加して、著名な先生方とのコネクション形成など、尊敬するところしかありません」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「そして、既に立ち上げが出来ていたので、私のポジションでやる仕事ではないと判断し、隠居して、新たな挑戦と成長の場になるので新卒のおざけんに託しました」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+  - 「日本における少子高齢化に伴う労働力不足の深刻化とAI・RPA市場の拡大を受け、2019年4月、新たにAI・RPA事業部を立ち上げ、2019年9月には“誰でも・手軽に・すぐに”導入できることをコンセプトとしたFAST RPA「コボット」を開発・提供を開始しました」（https://www.dip-net.co.jp/news/387・3回目）
+- 船井型の段階：
+  - 「DXに必要な4つのスキル｜ DX人材の採用方法や書籍を紹介！」（https://ainow.ai/・1回目）
+  - 「早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+  - 「研修は、1〜2時間で受講者が自社業務に使えるGPTs（カスタムチャットボット）を作れるレベルへの到達を目指す実践型であること、受託開発ではAIコーディングツールを活用して開発期間の短縮を図っていること、AI顧問サービスでは研修後の継続的なサポートやプロンプトの最適化支援を行っていることにも触れています」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+- 創業年度：
+  - 「マイクロソフトから「りんな」が独立 ーrinna株式会社が設立」（https://www.youtube.com/watch?v=1H1Nn5mAPdE・3回目）
+  - 「ITmedia AI+は、2024年3月に開設された比較的新しいメディアですが、アイティメディアの各専門メディア（@IT、EE Times Japanなど）との連携により、技術基盤からビジネス応用まで多面的な情報を提供しています」（https://note.com/vivid_mint3156/n/nec15689c40e7・3回目）
+  - 「プレスリリースは7月頭くらいに出したと思うけど、実際にサイトが完成したのは、顕彰旅行のハワイのホテルでした（笑）」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「早稲田大学在学中の早稲田AI研究会の立ち上げや、同研究会主催のハッカソンでの優勝といった体験を経て、2024年2月に株式会社Uravationを設立」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+  - 「設立：2024年2月」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+  - 「「人工知能をわかりやすく伝える」AINOW、開設1 周年 サイト名もAINOW「エーアイナウ」に、わかりやすく進化します！ | ディップ株式会社」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「「人工知能をわかりやすく伝える」AINOW、開設1 周年 サイト名もAINOW「エーアイナウ」に、わかりやすく進化します！」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「ディップ株式会社(本社:東京都港区、代表取締役社長 兼CEO:冨田英揮)は、人工知能キュレーションメディアの『AINOW』(http://ainow.ai/) の開設 1 周年を記念してサイト名を「アイノウ」から「エーアイナウ」に変更します」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「2016年には「dip AI.Lab」を設立」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「設立：1997年3月」（https://www.dip-net.co.jp/news/387・3回目）
+- 売上・黒字：
+  - 「【AI失業】黒字リストラ80%超え！1年前は影響を受けていなかった職種までも、、チームみらいが政府へ緊急提言【安野貴博/チームみらい】」（https://www.youtube.com/watch?v=RFATJHceWMQ・3回目）
+  - 「2019年2月期売上高421億円」（https://www.dip-net.co.jp/news/387・3回目）
+- 存続：
+  - 「もともと「Claude Cowork」という名称で提供されていた機能で、2026年9月にClaude本体へ統合されました」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「統合後の画面は個人向けのPro・Maxプランから順に提供されています」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「社内に散らばる顧客データを統合し、商談準備をチャットで支援する」（https://ainow.ai/2026/10/20/278446/・1回目）
+  - 「Claude CoworkがClaude本体へ統合」（https://ainow.ai/2026/10/20/278446/・1回目）
+- 検索結果の抜粋：
+  - 「日本最大級のAIメディアでライティングスキルとAIの知識を身 ... — 日本最大級のAIメディアでライティングスキルとAIの知識を身 ... AINOW https://ainow.ai > AINOW編集部」（https://ainow.ai/2022/01/28/255830/・3回目）
+  - 「日本初のAI専門メディア「 AINOW 」 - Wantedly — 日本初のAI専門メディア「 AINOW 」 - Wantedly Wantedly https://www.wantedly.com > portfolio > projects」（https://www.wantedly.com/portfolio/projects/64805・3回目）
+  - 「第二弾「 AINOW編集長 おざけんさん インタビュー 企画」～AI ... — 第二弾「 AINOW編集長 おざけんさん インタビュー 企画」～AI ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=RFATJHceWMQ・3回目）
+  - 「予算1万円で始めたAIメディア「 AINOW 」の 編集長 を退任しま ... — 予算1万円で始めたAIメディア「 AINOW 」の 編集長 を退任しま ... note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/kamechi/n/ne5aac3c77320・3回目）
+  - 「AINOW 副 編集長 が語るAIテクノロジー社会とメディアの役割 — AINOW 副 編集長 が語るAIテクノロジー社会とメディアの役割 AINOW https://ainow.ai > AINOW編集部 > インタビュー」（https://ainow.ai/2022/02/09/263111/・3回目）
+  - 「日本初のAI専門メディア「 AINOW 」は どのようにAIの変化を ... — 日本初のAI専門メディア「 AINOW 」は どのようにAIの変化を ... 映像情報メディア学会 PDF https://www.ite.or.jp > contents > venture」（https://www.ite.or.jp/contents/venture/2203venture.pdf・3回目）
+  - 「AI専門メディア「 AINOW 」にて代表・佐藤の インタビュー ... — AI専門メディア「 AINOW 」にて代表・佐藤の インタビュー ... 株式会社Uravation https://uravation.com > ニュース」（https://uravation.com/ai%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8Cainow%E3%80%8D%E3%81%AB%E3%81%A6%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BD%90%E8%97%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5/・3回目）
+  - 「コンサル | AI専門ニュースメディア AINOW — コンサル | AI専門ニュースメディア AINOW AINOW https://ainow.ai > tag > consulting」（https://ainow.ai/tag/consulting/・3回目）
+  - 「「人工知能をわかりやすく伝える」 AINOW 、開設1 周年 ... — 「人工知能をわかりやすく伝える」 AINOW 、開設1 周年 ... ディップ株式会社 https://www.dip-net.co.jp > ニュース」（https://www.dip-net.co.jp/news/387・3回目）
+  - 「AINOW | ディップ 株式 会社 — AINOW | ディップ 株式 会社 ディップ株式会社 https://www.dip-net.co.jp > サービス」（https://www.dip-net.co.jp/service/ainow・3回目）
+  - 「AINOW - エーアイナウ (@dipainow) - Facebook — AINOW - エーアイナウ (@dipainow) - Facebook Facebook https://www.facebook.com > ... > ブランド > ウェブサイト」（https://www.facebook.com/dipainow/?locale=ja_JP・3回目）
+  - 「世界大手企業が目をつけた！AI企業 買収 リスト【Apple、IBM — 世界大手企業が目をつけた！AI企業 買収 リスト【Apple、IBM AINOW https://ainow.ai > AINOW編集部 > コラム」（https://ainow.ai/2017/11/06/125173/・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）
+- 株主構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部49頁・検索14回）
+
+## AI-SCHOLAR
+- 公式URL：https://ai-scholar.tech（given）
+- 創業年度：設立：2011年04月（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+- 所在地：東京都渋谷区恵比寿1-23-23
+恵比寿スクエア7階（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+- 代表者：磯山博文（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+- 人がどこから来るか：
+  - 「必要最小限の入力項目にとどめ、AI人材紹介サービスvistAI登録者と明確に表示を分割し、とても」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「また、AIの社会実用を推進、活用する各企業と連携し、サービス紹介やAIイベントの開催、告知にも精力的に活動しています」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは - TECH PLAY」（https://techplay.jp/event/951011・3回目）
+  - 「【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは」（https://techplay.jp/event/951011・3回目）
+  - 「#『【オンライン・無料セミナー】どこまでAI活用できる！？」（https://techplay.jp/event/951011・3回目）
+  - 「会場：本ウェビナーはオンライン開催となります」（https://techplay.jp/event/951011・3回目）
+  - 「CVR最大化に特化した会話型チャットボットサービス「BOTCHAN」や、SNS広告に特化したマーケティングサービスを通して、デジタルマーケテ...」（https://techplay.jp/event/951011・3回目）
+- 誰が払うか・単価：
+  - 「厳選AI人材スカウトサービス「vistAI」をローンチ | syncAD（シンクアド）｜ Web広告・デジタルマーケティングのいまをお届けするメディア」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「・インターネットマーケティング事業（各種運用型広告、クリエイティブ、メディア）」（https://avilen.jp/news/580705/・3回目）
+  - 「CVR最大化に特化した会話型チャットボットサービス「BOTCHAN」や、SNS広告に特化したマーケティングサービスを通して、デジタルマーケテ...」（https://techplay.jp/event/951011・3回目）
+- 規模：
+  - 「【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「を運営する株式会社wevnal(本社：東京都渋谷区、代表取締役社長：磯山 博文)は、この度1万人の会員登録者数を突破いたしました」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「必要最小限の入力項目にとどめ、AI人材紹介サービスvistAI登録者と明確に表示を分割し、とても」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「2018年9月のローンチ以来、約2年で会員登録者数1万人突破、業界有数のPV数へと急成長したAIメディア」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「業界有数のPV数を誇る、AI論文メディア「AI-SCHOLAR（エーアイスカラー）」が厳選したAI人材とAI企業だけの就活支援サービスを開始」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「業界トップクラスのPV数を誇る、AI論文メディア「AI-SCHOLAR」の編集部がサービスの運営者として、AI人材とAI企業の審査を行います」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「2018年の9月にリリースされ、約1年半で業界有数のPV数を誇るメディアにまで急成長しました」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「2018年9月のローンチ以来、約1年半で業界有数のPV数にまで急成長したAIメディア」（https://avilen.jp/news/580705/・3回目）
+- 積み上がって阻むもの：
+  - 「【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「を運営する株式会社wevnal(本社：東京都渋谷区、代表取締役社長：磯山 博文)は、この度1万人の会員登録者数を突破いたしました」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「2018年9月のローンチ以来、約2年で会員登録者数1万人突破、業界有数のPV数へと急成長したAIメディア」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「イベント・記者会見の情報など様々な特記情報を閲覧できます」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「業界トップクラスのPV数を誇る、AI論文メディア「AI-SCHOLAR」の編集部がサービスの運営者として、AI人材とAI企業の審査を行います」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「今回の新サービスは、メディア運営とはまた違ったアプローチで、一般社会にAIが溶け込んでいく姿を実現していくため着手した、「AI-SCHOLAR」編集部の新たなチャレンジであります」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「AVILENのE資格コースは、受講生の94.4%がE資格に合格するという、業界トップクラスの実績を達成しています」（https://avilen.jp/news/580705/・3回目）
+  - 「多くの大手企業や製造・金融系の企業を中心に、AIサービスの提供実績があります」（https://avilen.jp/news/580705/・3回目）
+- 立ち上げ時の打ち手：
+  - 「2018年8月wevnal中途社員としてBOTCHAN立ち上げメンバーとしてジョイン」（https://techplay.jp/event/951011・3回目）
+  - 「AI論文解説に特化したメディア「AI-SCHOLAR」を立ち上げ、日本一のAI専門メディアへ」（https://techplay.jp/event/951011・3回目）
+- 船井型の段階：
+  - 「【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは - TECH PLAY」（https://techplay.jp/event/951011・3回目）
+  - 「【オンライン・無料セミナー】どこまでAI活用できる！？ 業務効率と売上が飛躍的に向上した方法とは」（https://techplay.jp/event/951011・3回目）
+  - 「#『【オンライン・無料セミナー】どこまでAI活用できる！？」（https://techplay.jp/event/951011・3回目）
+- 創業年度：
+  - 「【会員登録者数1万人突破】AI論文解説メディア「AI-SCHOLAR」サイトリニューアルのお知らせ | 株式会社wevnalのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「・AI-SCHOLARサービス開始から会員登録者1万人突破までの感想」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「AI-SCHOLARのリリースは2018年7月26日でした」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「このプレスリリースには、」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「このプレスリリース内で使われている画像ファイルがダウンロードできます」（https://prtimes.jp/main/html/rd/p/000000083.000015648.html・3回目）
+  - 「2018年の9月にリリースされ、約1年半で業界有数のPV数を誇るメディアにまで急成長しました」（https://syncad.jp/news/news_wevnal-vistai/・3回目）
+  - 「設立 2011年4月」（https://avilen.jp/news/580705/・3回目）
+  - 「経験した後、マーケティング支援会社を設立」（https://techplay.jp/event/951011・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+- 株主構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+- 売上・黒字：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+- 存続：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索14回）
+
+## AIsmiley
+- 公式URL：https://aismiley.co.jp（given）
+- 創業年度：設立：2018年3月9日（https://aismiley.co.jp/company/・1回目）
+- 創業年度：設立年月：2002年4月（https://aismiley.co.jp/product/writeup_compeprice/・1回目）
+- 創業年度：設立年月：2023年2月（https://aismiley.co.jp/product/omluc_web/・1回目）
+- 株主：VC不明（https://initial.inc/companies/A-FQNNQ・3回目）
+- 株主：会社概要（https://www.value-press.com/pressrelease/309276・3回目）
+- 従業員数：40名　※社員の半数以上がAI資格「G検定」「生成AI」を保有（https://aismiley.co.jp/company/・1回目）
+- 従業員数：150名（https://aismiley.co.jp/product/writeup_compeprice/・1回目）
+- 従業員数：20名（業務委託を含む）（https://aismiley.co.jp/product/omluc_web/・1回目）
+- 所在地：〒150-0021 東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F（https://aismiley.co.jp/company/・1回目）
+- 所在地：東京都渋谷区恵比寿西1-20-2 西武信用金庫恵比寿ビル9F（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+- 所在地：東京都渋谷区恵比寿西1-9-6（https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/・3回目）
+- 代表者：板羽 晃司（https://aismiley.co.jp/company/・1回目）
+- 代表者：板羽 晃司（https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/・3回目）
+- 代表者：代表取締役 　板羽 晃司（https://www.nttpc.co.jp/innovationlab/partners/aismiley.html・3回目）
+- 人がどこから来るか：
+  - 「AIsmiley - AI製品・サービスの比較・検索・資料請求メディア」（https://aismiley.co.jp/・1回目）
+  - 「DX関連のイベント（展示会・セミナー・講演会）をご紹介します」（https://aismiley.co.jp/・1回目）
+  - 「NexTech Week 2026」（https://aismiley.co.jp/・1回目）
+  - 「Japan DX & AX Week【関西】2026」（https://aismiley.co.jp/・1回目）
+  - 「AIsmileyは、AI製品やサービスの比較・検索サイトです」（https://aismiley.co.jp/・1回目）
+  - 「あなたのDX課題を解決できるAIサービスを、」（https://aismiley.co.jp/・1回目）
+  - 「メルマガ登録やSNSアカウントのフォローで、最新のAIトレンド情報をいち早くキャッチできます」（https://aismiley.co.jp/・1回目）
+  - 「業務の課題解決に繋がる最新DX・AI関連情報をお届けいたします」（https://aismiley.co.jp/・1回目）
+  - 「広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「TDSEが提供する「データ分析/AI開発/コンサルティング」は、生成AI・データ分析・需要予測などを活用し、企業のDX推進や業務効率化を支援するサービスです」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「Web広告・SNS施策立案/レポーティング自動化AIエージェント開発」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「SEO特化型のAI自動記事生成ツール Creative Drive」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+- 誰が払うか・単価：
+  - 「AIsmiley - AI製品・サービスの比較・検索・資料請求メディア」（https://aismiley.co.jp/・1回目）
+  - 「比較表・カオスマップ・事例ガイド等を資料請求いただけます」（https://aismiley.co.jp/・1回目）
+  - 「人工知能を搭載した製品・サービスを探し資料請求することができます」（https://aismiley.co.jp/・1回目）
+  - 「気になるAIプロダクトの資料請求(無料)により、詳細な機能や料金などをご確認いただけます」（https://aismiley.co.jp/・1回目）
+  - 「広告・クリエイティブ﻿のサービス比較と企業一覧｜AIsmiley」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「一括資料請求なら、導入の比較検討が」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「広告・クリエイティブを全て無料で資料請求する」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「デジタル化の時代、広告はマスからone to oneコミュニケーションへと移り変わっています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「さらに昨今では、AIを活用して広告の効果をより高める事例も出ています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「Web広告・SNS施策立案/レポーティング自動化AIエージェント開発」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「1カ月限定トライアル ※トライアル終了後は自動課金」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+- 規模：
+  - 「【インタビュー】出展社数1,100社！関西最大級の製造業展示会「第29回 ものづくり ワールド…」（https://aismiley.co.jp/ai-news_category/ai-interview/・1回目）
+  - 「【インタビュー】出展社数630社！中部最大級の製造業展示会「ものづくり ワールド [名古屋]」…」（https://aismiley.co.jp/ai-news_category/ai-interview/・1回目）
+  - 「【インタビュー】出展社数400社！九州最大級のものづくり展示会 ものづくり ワールド [福岡]…」（https://aismiley.co.jp/ai-news_category/ai-interview/・1回目）
+  - 「【インタビュー】出展社数1,100社！西日本最大の製造業展示会 ものづくり ワールド [大阪]…」（https://aismiley.co.jp/ai-news_category/ai-interview/・1回目）
+  - 「【インタビュー】出展社数1,800社！第37回 ものづくり ワールド [東京] ～製造業に特化…」（https://aismiley.co.jp/ai-news_category/ai-interview/・1回目）
+  - 「「AI博覧会 Nagoya 2026」の来場者数が目標の倍となる6,453名を記録！名古屋・東…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「【開催報告】「AI博覧会 Spring 2026」来場者数12,154名で過去最高を記録！フィ…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「【開催報告】AI博覧会Osaka2026、来場者数が昨年の倍となる8,106名を記録！関西のA…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「【インタビュー】出展社数1,800社！第37回 ものづくり ワールド [東京] ～製造業に特化…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「スマートニュースとUUUM、業務提携に向けた基本合意を締結」（https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/・1回目）
+  - 「掲載希望企業向けページでは、月間アクセス数300万PV、AIプロダクト掲載数500製品以上と案内されています」（https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/・3回目）
+  - 「AIsmiley ( アイスマイリー )は月間300万以上のPVがあり、国内最大級のAIポータルメディアとして、500製品以上のAIプロダクトを比較・検索することができます」（https://www.nttpc.co.jp/innovationlab/partners/aismiley.html・3回目）
+- 積み上がって阻むもの：
+  - 「顧客データ、ブランド知、施策結果を学び続けるAIエージェントが、分析・企画・制作・配信・改善を連携」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「法人会員（年額）8万円」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「15万社の顧客データベースと代理店網を活用し、売るところまで支援します」（https://aismiley.co.jp/product/writeup_compeprice/・1回目）
+  - 「汎用的なAIツールとは異なり、貴社独自の「運用ナレッジデータベース」を構築します」（https://aismiley.co.jp/product/omluc_web/・1回目）
+  - 「情報の鮮度や検索適合性を最適化したデータベースにより、嘘のない、実務で使える回答を実現します」（https://aismiley.co.jp/product/omluc_web/・1回目）
+  - 「RAGの開発やチューニングに関する実績はありますか？」（https://aismiley.co.jp/product/omluc_web/・1回目）
+  - 「クライアント様自社集客時の10倍のユーザー数を1人100円で達成実績」（https://aismiley.co.jp/product/hachidori-line/・1回目）
+  - 「AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています」（https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/・1回目）
+  - 「AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています」（https://aismiley.co.jp/ai_news/recently-popular-chatbot-ads/・1回目）
+  - 「AIsmiley Communityとは、AIを「みんなで実践する」かたちで実務のヒントをシェアしあう共創コミュニティです」（https://aismiley.co.jp/company_news/business-fair-26th/・1回目）
+  - 「顧客データ、ブランド知、施策結果を学び続けるAIエージェントが、分析・企画・制作・配信・改善を連携」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+- 立ち上げ時の打ち手：
+  - 「利用料金・初期費用・無料プラン・トライアルの有無などを、一覧で比較・確認できるページです」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「最初のお問い合わせや資料請求の時点で「AIを使ってどんなことをしたいか？」という具体的なイメージを持たれているお客様が多いので、比較的スムーズにお話を進めやすいという印象がありますね」（https://aismiley.co.jp/tocompany/・1回目）
+  - 「自社でも事業をつくり続けてきた当事者として、企画から立ち上げまで並んで進めます」（https://aismiley.co.jp/product/writeup_compeprice/・1回目）
+  - 「株式会社エフ・コードは、創業以来十数年に渡って蓄えたCX領域のデータ解析・ノウハウをコアとして、広範なデジタルサービスを展開することでお客様のDXを実現します」（https://aismiley.co.jp/product/hachidori-line/・1回目）
+  - 「知識ゼロからスタートして6年目、自分の「やりたい」をすべてマルチなカタチにして楽しんでいます」（https://aismiley.co.jp/company/recruit/・1回目）
+  - 「利用料金・初期費用・無料プラン・トライアルの有無などを、一覧で比較・確認できるページです」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「「AI博覧会 Spring 2026」カンファレンス第3弾スピーカーを発表！創業220年の老舗…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「それは「入力条件から初期値を設定する」「図面から必要な部材を抽出する」など、人の判断や意思決定がどうしても必要な作業個所があり、一連の作業をRPAだけで全て自動化することが困難だからです」（https://aismiley.co.jp/ai_news/about-rpa/・1回目）
+  - 「知識ゼロからスタートして6年目、自分の「やりたい」をすべてマルチなカタチにして楽しんでいます」（https://aismiley.co.jp/company/recruit/interview/・1回目）
+  - 「当社独自の3ヶ月間の初期研修プログラム『AIブースト90』をはじめ、」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「最初の1週間：座学研修」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「知識ゼロから挑戦する不安や楽しさがわかる先輩ばかりなので、」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+- 船井型の段階：
+  - 「広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「広告・マーケティング業界では、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています」（https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/・1回目）
+  - 「広告・マーケティング業界では、クリエイティブ、 CRM（顧客管理システム）、マーケティングオートメーション（MA）、ソーシャル分析、SEO（検索エンジン対策）、DSP（広告主・エージェンシー向けの広告購買プラットフォーム）、DMP（データマネジメントプラットフォーム）といったさまざまな手法・技術を組み合わせてその効果を高めようとしています」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「動画生成AIの「可能性と限界」に挑戦した港区SFコメディ「サヨナラ港区」がDMMで独占配信」（https://aismiley.co.jp/ai-news_category/advertisement-creative/・1回目）
+  - 「あわせて「BPA2」は、FAXや紙帳票の仕分け作業をAI-OCRとRPAを組み合わせて自動化してくれるソリューションです」（https://aismiley.co.jp/ai_news/about-rpa/・1回目）
+- 株主構成：
+  - 「AIという成長市場の中で、今後は将来起業を目指す20代の若手に、圧倒的な成長環境と新規事業の責任者や子会社社長といった選択肢を惜しみなく提供していきます」（https://shachomeikan.jp/industry_article/5957・3回目）
+  - 「そこに向け、20代の若手社員に新規事業の責任者や子会社社長といった挑戦のフィールドを惜しみなく提供していく同社のあり方は、これからのAI産業に関わるすべての人々に大きなワクワク感と希望を与えてくれるだろう」（https://shachomeikan.jp/industry_article/5957・3回目）
+- 創業年度：
+  - 「プレスリリースアワード2026発表」（https://aismiley.co.jp/・1回目）
+  - 「株式会社エフ・コードは、創業以来十数年に渡って蓄えたCX領域のデータ解析・ノウハウをコアとして、広範なデジタルサービスを展開することでお客様のDXを実現します」（https://aismiley.co.jp/product/hachidori-line/・1回目）
+  - 「「AI博覧会 Spring 2026」カンファレンス第3弾スピーカーを発表！創業220年の老舗…」（https://aismiley.co.jp/ai-news_category/exhibition-seminar/・1回目）
+  - 「Managetechが「MFAChecker」をリリース」（https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/・1回目）
+  - 「セプテーニ、AIが広告効果の高いBGMを自動生成する「Odd-AI Sound」リリース」（https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/・1回目）
+  - 「PIXTA、新たにアノテーション部門を設立 画像教師データの作成を一括サポート」（https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/・1回目）
+  - 「二ベル、AIチャットによるサポート付きのWeb制作特化型クラウドソーシングサービスをリリース」（https://aismiley.co.jp/ai-news_category/advertisement-adtechnology/・1回目）
+  - 「は、2017年に日本法人が設立され、ここ数年で国内企業での採用が急増しているRPAツールです」（https://aismiley.co.jp/ai_news/about-rpa/・1回目）
+  - 「2018年の設立以来、AIプロダクトの開発企業と導入希望企業を繋ぐ架け橋として急成長を遂げてきた『AIsmiley』」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「2018年の設立以来、国内最大級のAIメディアへと急成長を遂げた『AIsmiley』」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「問い合わせ対応、AI博覧会の告知記事・プレスリリースの原稿チェック」（https://aismiley.co.jp/company/recruit/interview/sa-01/・1回目）
+  - 「2015年には「女子高生AIりんな」をリリースしました」（https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/・1回目）
+- 売上・黒字：
+  - 「これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「「全国、全ての中小企業を黒字にする」をビジョンに掲げています」（https://aismiley.co.jp/product/writeup_compeprice/・1回目）
+  - 「これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです」（https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/・1回目）
+  - 「例えば、CRM（顧客管理）システムの大手、米国のセールスフォースが提供するAIエンジン「Salesforce Einstein（セールスフォース・アインシュタイン）」は見込み客のセグメント分析を通じて、コンバージョン（成約率）の向上を支援します」（https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/・1回目）
+  - 「このように、one to oneコミュニケーションを目指す広告業界では、さまざまなセグメントでAIを活用する試みが行われています」（https://aismiley.co.jp/ai_news/example-of-advertisement-using-ai/・1回目）
+  - 「これらにAIによるデータ処理を組み合わせることで、より効果的なユーザーのセグメント分析が可能になるのです」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「現在、約300社・500以上のプロダクトを掲載する国内最大級のメディアへと成長し、2年連続で160%の増収を達成するなど業績は極めて好調です」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「2年連続で160%の増収を達成するなど業績は極めて好調です」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「AIの力で日本の産業を再興し、5〜7兆円といわれる巨額のデジタル赤字を解消したい」（https://shachomeikan.jp/industry_article/5957・3回目）
+  - 「AIの力で国内の企業を再興し、5〜7兆円といわれるデジタル赤字を解消できればと考えています」（https://shachomeikan.jp/industry_article/5957・3回目）
+- 存続：
+  - 「1カ月限定トライアル ※トライアル終了後は自動課金」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します」（https://aismiley.co.jp/category_page/advertisement-creative/・1回目）
+  - 「1カ月限定トライアル ※トライアル終了後は自動課金」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「インターネット上に蓄積された様々なデータを統合管理し、さまざまな情報をセグメントするなどして、ターゲット広告配信やリピーター狙いのキャンペーンメール配信などの実施を実現します」（https://aismiley.co.jp/category_page/advertisement-creative・1回目）
+  - 「研修終了から独り立ちまでは1ヶ月半〜2ヶ月程を想定しています」（https://aismiley.co.jp/company/recruit/requirements/・1回目）
+  - 「※デモアカウントのご案内は予告なく終了する場合があります」（https://aismiley.co.jp/ai_news/interview-rinna-virtual-human/・1回目）
+  - 「※申し込み終了※9/7（月）・9/9（水）MMDセミナー 「競合と比べて見つける『自社サービスが勝てる理由』～通信サービス8ブランドから学ぶ、広告・PRで使える「強み」の見つけ方～」」（https://mmdlabo.jp/investigation/detail_2547.html・3回目）
+- 検索結果の抜粋：
+  - 「AIsmiley の広告掲載方法と料金 掲載費用・媒体特徴・評判を解説 — AIsmiley の広告掲載方法と料金 掲載費用・媒体特徴・評判を解説 キャククル https://www.shopowner-support.net > saas > aismiley」（https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/aismiley/・3回目）
+  - 「AI製品・ソリューションの掲載を希望される企業様へ - AIsmiley — AI製品・ソリューションの掲載を希望される企業様へ - AIsmiley AIsmiley https://aismiley.co.jp > tocompany」（https://aismiley.co.jp/tocompany/・3回目）
+  - 「株式会社アイスマイリー | Innovation LABパートナー紹介 — 株式会社アイスマイリー | Innovation LABパートナー紹介 NTTPCコミュニケーションズ https://www.nttpc.co.jp > partners > aismiley」（https://www.nttpc.co.jp/innovationlab/partners/aismiley.html・3回目）
+  - 「アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... — アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... アットプレス https://www.atpress.ne.jp > ... > 株式会社アイスマイリー」（https://www.atpress.ne.jp/news/7483389・3回目）
+  - 「業界毎特集記事－株式会社アイスマイリー 代表取締役 板羽 晃司 — 業界毎特集記事－株式会社アイスマイリー 代表取締役 板羽 晃司 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/5957・3回目）
+  - 「【新連載】AIサービス導入企業への インタビュー 記事の配信を ... — 【新連載】AIサービス導入企業への インタビュー 記事の配信を ... AIsmiley https://aismiley.co.jp > ニュース」（https://aismiley.co.jp/ai_news/impression-interview/・3回目）
+  - 「アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... — アイスマイリー、“AI推進の孤立化”を解消する、生成AI実践 ... ジョルダン http://news.jorudan.co.jp > docs > news > detail」（http://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000826A000053344・3回目）
+  - 「SGEとは？検索体験・ SEO に与える影響と担当者が取るべき対策 — SGEとは？検索体験・ SEO に与える影響と担当者が取るべき対策 AIsmiley https://aismiley.co.jp > ニュース」（https://aismiley.co.jp/ai_news/what-is-sge/・3回目）
+  - 「AIsmiley - AI製品・サービスの比較・検索・資料請求メディア — AIsmiley - AI製品・サービスの比較・検索・資料請求メディア AIsmiley https://aismiley.co.jp」（https://aismiley.co.jp/・3回目）
+  - 「アイスマイリー、需要予測AIカオスマップを公開！– 売上 予測 ... — アイスマイリー、需要予測AIカオスマップを公開！– 売上 予測 ... アットプレス https://www.atpress.ne.jp > ... > 株式会社アイスマイリー」（https://www.atpress.ne.jp/news/3254000・3回目）
+  - 「株式会社アイスマイリー - スピーダ スタートアップ情報リサーチ — 株式会社アイスマイリー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-FQNNQ」（https://initial.inc/companies/A-FQNNQ・3回目）
+  - 「アイスマイリー、「営業部門向けAI活用ガイド」を ... - 東京新聞 — アイスマイリー、「営業部門向けAI活用ガイド」を ... - 東京新聞 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article165714」（https://adv.tokyo-np.co.jp/prtimes/article165714/・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部45頁・検索14回）
+
+## BOXIL
+- 公式URL：https://boxil.jp（given）
+- 創業年度：設立：2014年06月（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+- 創業年度：設立：2014年6月（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+- 創業年度：設立：2014年06月（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+- 所在地：東京都港区芝5-29-11 G-BASE田町 13階（https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/・3回目）
+- 所在地：東京都港区芝5-29-11
+G-BASE田町 13階（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+- 所在地：東京都港区芝5-29-11
+G-BASE田町 13階（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+- 代表者：阿部 慎平（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+- 代表者：代表取締役社長CEO 林 詩音（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+- 代表者：阿部 慎平（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+- 人がどこから来るか：
+  - 「BOXIL（ボクシル）- SaaS比較・口コミサイト」（https://boxil.jp/・1回目）
+  - 「※2026年9月にBOXILユーザーから資料請求されたサービスのランキングです」（https://boxil.jp/・1回目）
+  - 「資料請求数が同率の場合、口コミ数が多いサービスを優先的に表示しています」（https://boxil.jp/・1回目）
+  - 「特に流入ページを細かく分析できるので、どのようなユーザーが、どういった目的でサイトを訪れているのかを以前より把握しやすくなりました」（https://boxil.jp/・1回目）
+  - 「※ピックアップ口コミとは、評価が★3以上で、投稿者が退会していない公開中の口コミのうち、新しく公開されたものを指します」（https://boxil.jp/・1回目）
+  - 「BOXILでは皆様の口コミを募集しています！あなたもサービスを使ってみた感想をシェアしませんか？」（https://boxil.jp/・1回目）
+  - 「BOXILでは、資料請求リストに保存した資料を1クリックで請求できます」（https://boxil.jp/・1回目）
+  - 「口コミ投稿をすると、自身の経験をシェアでき、自分の経験が他の人の役立つヒントになります」（https://boxil.jp/・1回目）
+  - 「条件に合うシステムを平均60秒で選定し、BOXILのデータベースを活用して適切なツールを絞り込みすることができます」（https://boxil.jp/・1回目）
+  - 「SaaS情報メディア BOXIL Magazine」（https://boxil.jp/・1回目）
+  - 「貴社のサービスをBOXILに掲載しませんか？」（https://boxil.jp/・1回目）
+  - 「BOXIL（ボクシル）- SaaS比較・口コミサイト」（https://boxil.jp/auth/sign-in/・1回目）
+- 誰が払うか・単価：
+  - 「※2026年9月にBOXILユーザーから資料請求されたサービスのランキングです」（https://boxil.jp/・1回目）
+  - 「資料請求数とは、有料掲載頂いている企業様のサービスを対象に、実際に資料請求情報が企業様へ提供された件数をいいます」（https://boxil.jp/・1回目）
+  - 「資料請求数が同率の場合、口コミ数が多いサービスを優先的に表示しています」（https://boxil.jp/・1回目）
+  - 「広告の分析だけでなく、ポップアップなどのWeb接客まで一つのツールで行えるところが良いと思います」（https://boxil.jp/・1回目）
+  - 「ユーザーの属性や年齢層なども確認でき、分析して終わりではなく、サイトデザインの見直しや広告キーワードの選定など、実際の施策にデータを活かせる点が気に入っています」（https://boxil.jp/・1回目）
+  - 「BOXILでは、資料請求リストに保存した資料を1クリックで請求できます」（https://boxil.jp/・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+  - 「1クリックでの資料請求」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+- 規模：
+  - 「サービス開始10年で会員数25万人、口コミ数55,000件を達成」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「この10年間で「BOXIL」は、サービスの提供開始から10年間で会員数25万人、ユーザーから寄せられた口コミ55,000件、そして掲載サービス数4,000件を超えるプラットフォームへと成長しました」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「『SaaS業界レポート』のカオスマップ掲載数は2025年に1,500サービスを超え、掲載を開始した2017年に比べ約4倍となりました」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「会員数10万人突破」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「会員数20万人突破」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「「BOXIL」が10周年を迎え、掲載サービス数は4,000件、会員数は25万人を突破しました」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「引き続きよりユーザー様とSaaS事業者様の最適なマッチングを実現し、SaaSの普及と導入企業の生産性向上に尽力してまいります」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？ | Shirofune（シロフネ）｜国内シェアNo.1広告運用自動化ツール」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「月間300万PVに到達後、さらに1,000万PVへと目標を掲げ、達成」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「300万PVから1,000万PVを目指すための戦略設計」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「ボクシルマガジンを主要な集客経路とし、リリースから約3年で月間300万PVへ到達」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+- 積み上がって阻むもの：
+  - 「BOXILでは皆様の口コミを募集しています！あなたもサービスを使ってみた感想をシェアしませんか？」（https://boxil.jp/・1回目）
+  - 「口コミ投稿をすると、自身の経験をシェアでき、自分の経験が他の人の役立つヒントになります」（https://boxil.jp/・1回目）
+  - 「条件に合うシステムを平均60秒で選定し、BOXILのデータベースを活用して適切なツールを絞り込みすることができます」（https://boxil.jp/・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?via=si-registration-recommendedRegistration・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3Fvia%3Dsi-registration-recommendedRegistration・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+  - 「会員登録（無料）していただくことで、 最適なサービス探しに役立つ機能がご利用可能になります」（https://boxil.jp/auth/sign-in/?redirectTo=%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F%3FredirectTo%3D%2Fauth%2Fsign-in%2F・1回目）
+- 立ち上げ時の打ち手：
+  - 「初期設定、サポート範囲、導入までの流れを具体的に示す」（https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/・3回目）
+  - 「初期費用10万円がかかります」（https://www.itreview.jp/products/boxil/price・3回目）
+  - 「初期費用無料、リード単価¥10,000/件、契約期間6ヶ月〜」（https://www.itreview.jp/products/boxil/price・3回目）
+  - 「半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？ | Shirofune（シロフネ）｜国内シェアNo.1広告運用自動化ツール」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「半年で300万PVから1,000万PVへ！ボクシルを急成長させたグロースハックの取り組みとは？」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「メディアをグロースさせるのに必要なのは、」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「現在もさらにサービスを伸ばすべく、様々な角度からグロース施策を実行中」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「大学卒業後ヘルスケアベンチャー企業に創業メンバーとして参画」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「弊社が運営するボクシルマガジンを活用したメディア広告事業「BOXIL Ads（ボクシルアド）」の立ち上げに従事」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+  - 「2018年12月にBOXIL Adsを立ち上げ、スキーム確立や制作ディレクションを行っています」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+  - 「立ち上げから約半年で感じている課題感をシェアしながら一緒に取り組んでいける方、そして社内のタスクを一緒に整備していける人」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+  - 「新しい事業の立ち上げをできることは楽しさでもありますが、厳しさもあります」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+- 船井型の段階：
+  - 「Redmineのチケット管理をベースにしながら、プロジェクト管理に必要な情報をより見やすく整理できる点が良いです」（https://boxil.jp/・1回目）
+  - 「特に、ガントチャートなどでスケジュールや進捗状況を可視化できるため、Redmineに慣れていない利用者にもプロジェクトの状況を説明しやすくなります」（https://boxil.jp/・1回目）
+  - 「#post_excerpt プロダクトマーケティングの意味や一般的なマーケティングとの違い、PMM・PdMの役割、戦略の立て方、GTM、KPI、BtoB...」（https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/・3回目）
+  - 「そのため、外部のDMPとの連携を進めています」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+  - 「FAXや手書き帳票の処理時間が最大80％短縮するケースも！現場で紙業務が多い領域、FAXのやり取りが多い受発注領域でDXを実現したい現場の方、必見です」（https://note.com/boxil/n/n5e5c5da69c22・3回目）
+- 株主構成：
+  - 「株式会社マネーフォワードは、連結子会社であるスマートキャンプ株式会社の全保有株式を、エムキャップ二十一号株式会社に譲渡することを決議し、株式譲渡契約を締結したと発表しました」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「本件譲渡により、スマートキャンプ及びその子会社である株式会社ビズヒントはマネーフォワードの連結範囲から除外されます」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「スマートキャンプは2014年設立で、マネーフォワードの完全子会社として事業を展開してきました」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「子会社のビズヒントもBtoBマーケティングプラットフォームの運営に注力しており、2024年11月期の営業利益は4億76百万円でした」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「株式会社マネーフォワードは、連結子会社であるスマートキャンプ株式会社の全保有株式について、株式会社丸の内キャピタルが管理・運営する丸の内キャピタル第三号投資事業有限責任組合の特別目的会社であるエムキャップ二十一号株式会社に譲渡することを、本日2025年9月19日（金）に開催した取締役会において決議し、株式譲渡契約を締結したことをお知らせします」（https://corp.moneyforward.com/news/info/20250919-mf-press-1/・3回目）
+  - 「また、スマートキャンプの子会社である株式会社ビズヒントは、クラウド活用と生産性向上の専門サイト『BizHint（ビズヒント）』を運営しており、これまで両社でSaaSの普及を通じて、企業のDX導入や生産性向上に貢献してまいりました」（https://corp.moneyforward.com/news/info/20250919-mf-press-1/・3回目）
+  - 「マネーフォワード、「ボクシル」運営元を約20億円で買収 SaaSマーケティングに参入 - ITmedia NEWS」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「マネーフォワード、「ボクシル」運営元を約20億円で買収 SaaSマーケティングに参入」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「マネーフォワードは11月11日、SaaS情報の比較・検索サイト「BOXIL」（ボクシル）を運営するスマートキャンプを子会社化すると発表した」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「19億9800万円を投じ、既存株主から72.3％の株式（議決権ベース）を取得する」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「マネーフォワードは近年、M＆A（企業の買収・合併）による業態多様化に注力している」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「マネーフォワードは、こうした事業内容の独自性や競合優位性に着目し、子会社化を決断したという」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+- 創業年度：
+  - 「「BOXIL」が2025年8月度資料請求数ランキングを発表 | スマートキャンプ株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+  - 「設立：2014年6月」（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+  - 「このプレスリリースには、」（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+  - 「このプレスリリース内で使われている画像ファイルがダウンロードできます」（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+  - 「SaaS比較サイト「BOXIL」掲載サービス数 4,000件を突破 | スマートキャンプ株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「サービス開始10年で会員数25万人、口コミ数55,000件を達成」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「営業資料掲載サイトとして「BOXIL （ボクシル）」をリリース」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「AI搭載コンシェルジュ「チャットでSaaS提案」機能の正式版をリリース」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「設立：2014年6月」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「このプレスリリースには、」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「このプレスリリース内で使われている画像ファイルがダウンロードできます」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「2015年4月にリリースしたボクシル」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+- 売上・黒字：
+  - 「2024年11月期の売上高は40億44百万円、営業利益は3億67百万円で黒字化を達成しています」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「子会社のビズヒントもBtoBマーケティングプラットフォームの運営に注力しており、2024年11月期の営業利益は4億76百万円でした」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「その結果、スマートキャンプはグループジョイン以降、5年で売上高は約8.4倍に成長し、事業を拡大しています」（https://corp.moneyforward.com/news/info/20250919-mf-press-1/・3回目）
+  - 「21年11月期にEBITDAで黒字化へ」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「マネーフォワードの18年11月期の通期連結業績は、売上高が45億9400万円、営業損益が7億9600万円の赤字、最終損益が8億1500万円の赤字」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「スマートキャンプの19年3月期の通期連結業績は、売上高が5億9700万円、営業損益が1億300万円の赤字、最終損益が1億900万円の赤字」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「両社ともに投資フェーズにあるとはいえ、赤字が続いている状況だ」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「黒字化する時期のめどについて、マネーフォワードの辻社長は「回収期間をコントロールしながら規律ある投資を行う」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「21年11月期にEBITDA（営業利益＋減価償却費＋のれん償却額）で黒字を実現する」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「今回の買収は、黒字化にも寄与するだろう」と語った」（https://www.itmedia.co.jp/news/article/1911/11/1191111130/・3回目）
+  - 「セグメントの条件を設定できるため、ターゲットを絞ったリード獲得が可能です」（https://cone-c-slide.com/liblog/document-request-site/・3回目）
+  - 「商談化率20〜30%、セグメント条件設定可」（https://cone-c-slide.com/liblog/document-request-site/・3回目）
+- 存続：
+  - 「利用していた勤怠管理システムの提供が終了してしまうため、勤怠管理システムの乗り換え先製品を検討するためにBoxilを利用しました」（https://www.itreview.jp/products/boxil/price・3回目）
+  - 「契約終了後には、ご自身の働きに対する社員の満足度調査もされるなど、まさにプロといった仕事ぶりに、チームメンバーは大きく感銘を受けていました」（https://carryme.jp/agent/case-smartcamp01/・3回目）
+  - 「マネーフォワード、SaaS比較サイト「BOXIL」などを売却、64億円の特別利益 | Media Innovation / デジタルメディアのイノベーションを加速させる」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「マネーフォワード、SaaS比較サイト「BOXIL」などを売却、64億円の特別利益」（https://media-innovation.jp/article/2025/09/19/142828.html・3回目）
+  - 「そこで、2020年3月にISとマーケティングが統合し、FSはCSと統合してASを置くという、現在のISとASの体制になりました」（https://sairu.co.jp/method/22236/・3回目）
+- 検索結果の抜粋：
+  - 「BOXIL Magazine（ボクシル マガジン） — BOXIL Magazine（ボクシル マガジン） BOXIL https://boxil.jp > mag」（https://boxil.jp/mag/・3回目）
+  - 「BOXIL の広告掲載費用と評判を解説 SaaS比較サイトでリード ... — BOXIL の広告掲載費用と評判を解説 SaaS比較サイトでリード ... キャククル https://www.shopowner-support.net > boxil-advertisement」（https://www.shopowner-support.net/attracting_customers/btob-business/boxil-advertisement/・3回目）
+  - 「【公式】 BOXIL の掲載料金・リード獲得単価（CPL）がわかる ... — 【公式】 BOXIL の掲載料金・リード獲得単価（CPL）がわかる ... BOXIL https://boxil.jp > partners > downlord > service > price」（https://boxil.jp/campaign/partners/downlord/service/price・3回目）
+  - 「「 BOXIL 」が2025年8月度資料請求数ランキングを発表 — 「 BOXIL 」が2025年8月度資料請求数ランキングを発表 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000260.000012765.html・3回目）
+  - 「Boxil の価格（料金・費用） - ITreview — Boxil の価格（料金・費用） - ITreview ITreview https://www.itreview.jp > ... > SaaS比較サイト > Boxil」（https://www.itreview.jp/products/boxil/price・3回目）
+  - 「BOXIL の料金・機能・導入事例 — BOXIL の料金・機能・導入事例 BOXIL https://boxil.jp > リードジェネレーション」（https://boxil.jp/service/1/・3回目）
+  - 「SaaS比較サイト「 BOXIL 」掲載サービス数 4,000件を突破 — SaaS比較サイト「 BOXIL 」掲載サービス数 4,000件を突破 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000285.000012765.html・3回目）
+  - 「半年で300万 PV から1,000万 PV へ！ボクシルを急成長させた ... — 半年で300万 PV から1,000万 PV へ！ボクシルを急成長させた ... Shirofune https://shirofune.com > インハウスマーケティングラボ」（https://shirofune.com/inhousemarketinglab/0020/・3回目）
+  - 「【 BOXIL 共催】【SaaS・メディア事業者向け】AI検索時代の ... — 【 BOXIL 共催】【SaaS・メディア事業者向け】AI検索時代の ... brand-up.net https://www.brand-up.net > boxil-saas-ai-citation-rate」（https://www.brand-up.net/webinars/boxil-saas-ai-citation-rate・3回目）
+  - 「1to1プラットフォームへ。 BOXIL メディアマネタイズの展望 ... — 1to1プラットフォームへ。 BOXIL メディアマネタイズの展望 ... note https://note.com > インタビュー・対談 > インタビュー・対談」（https://note.com/smartcamp_tent/n/n1682ebb57e4d・3回目）
+  - 「SaaS比較サイト「 BOXIL SaaS」のビジョンは ... - Wantedly — SaaS比較サイト「 BOXIL SaaS」のビジョンは ... - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/company_5032895/post_articles/927260・3回目）
+  - 「スマートキャンプ株式会社｜成長ベンチャーに訊く - CBRE — スマートキャンプ株式会社｜成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > trend > venture_smartcamp」（https://www.cbre.co.jp/properties/column/office/trend/venture_smartcamp・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部53頁・検索14回）
+
+## EE Times Japan
+- 公式URL：https://eetimes.itmedia.co.jp（given）
+- 人がどこから来るか：
+  - 「IoT・エッジコンピューティング EXPO」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「IoT・エッジコンピューティング EXPO」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「フィジカルAI向け「FDX Fusion」：」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「80周年を迎えたTektronix：」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「IoT・エッジコンピューティング EXPO」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「「2026年度版 実装技術ロードマップ」の概要を紹介するシリーズ」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「今回は「2.2.2.3 5Gミリ波, 6G実装動向」の概要を紹介する」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「1人で3台の重機を遠隔操作 IOWN APN活用で建設DXを推進」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「V2Xで運転支援 京セラやトヨタらが新コンソーシアム」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「IoT・エッジコンピューティング EXPO」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「しかし、原材料、基板、その他の重要部品の不足により、Intelはサーバ用プロセッサ「Xeon」ファミリーの需要に十分に対応できなかった」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「業界やモノづくりの工程別に編集部が配信しているメルマガの上部」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+- 誰が払うか・単価：
+  - 「編集部配信のメルマガ上部に差し込めるヘッダー広告、編集部メルマガの号外版としてメール広告1通を独占してPRできるSpecial版、業種や職種、企業名を指定可能なターゲティングメールの3種類」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「編集者が、商品・ソリューション・サービスの情報を読者に分かりやすく伝える編集記事風のオリジナル広告記事を企画・制作」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「企業様のご要望に合わせて記事体広告(PRコンテンツ)を制作」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「国内No.1の広告媒体資料・マーケティング資料のポータルサイト」（https://media-radar.jp/detail8674.html・3回目）
+  - 「インプレッション課金/ 期間課金/ 掲載課金」（https://media-radar.jp/detail8674.html・3回目）
+  - 「EE Times／EDN Japanの広告メニュー・料金」（https://media-radar.jp/detail8674.html・3回目）
+  - 「媒体資料のダウンロードやセミナー申込に必要な無料会員登録です」（https://media-radar.jp/detail8674.html・3回目）
+  - 「アドネットワーク、DSP広告、SSP広告」（https://media-radar.jp/detail8674.html・3回目）
+  - 「求人広告、採用管理」（https://media-radar.jp/detail8674.html・3回目）
+  - 「特定のキーワードやカテゴリ別に媒体資料を網羅的に探せます」（https://media-radar.jp/detail8674.html・3回目）
+  - 「7月号広告企画ページ： ・「WIRELESS JAPAN 2007」 プレビュー記事」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「■7月号広告企画ページ：」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+- 規模：
+  - 「約136万PV／約27万PV」（https://media-radar.jp/detail8674.html・3回目）
+  - 「約38万UU／約8万UU」（https://media-radar.jp/detail8674.html・3回目）
+  - 「43,000 以上の本誌読者（国内のエレクトロニクス情報誌の中で最大部数）と展示会来場者に」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「eetimes.jp内 「WIRELESS JAPAN 2007 レビューサイト」特設月間ページビュー：558,932 （5月8日時点）」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「協賛することでリード獲得・参加者の行動データの利用などが可能」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+  - 「2022年12月実績において、前年同月比で約2倍となる過去最高月間6,000万ページビューを達成」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+  - 「https://eetimes.itmedia.co.jp/ee/spv/2610/19/news059.html」（https://note.com/handotai14/n/n82339ce128ec・3回目）
+  - 「具体的には、会員企業・団体の情報共有、ビジネスマッチング、産学官連携、技術相談、人材育成などを支援します」（https://note.com/handotai14/n/n82339ce128ec・3回目）
+- 積み上がって阻むもの：
+  - 「IntelのデータセンターおよびAIグループ（DCAI）の売上高は、2026年第3四半期に前年同期比78％増となる73億米ドルだった」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「業界やモノづくりの工程別に編集部が配信しているメルマガの上部」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「編集部配信のメルマガ上部に差し込めるヘッダー広告、編集部メルマガの号外版としてメール広告1通を独占してPRできるSpecial版、業種や職種、企業名を指定可能なターゲティングメールの3種類」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「企業やブランドイメージの向上、商材の認知拡大、イベントレポートなど様々な目的に合わせたフォーマットで実施可能」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「国内No.1の広告媒体資料・マーケティング資料のポータルサイト」（https://media-radar.jp/detail8674.html・3回目）
+  - 「媒体資料のダウンロードやセミナー申込に必要な無料会員登録です」（https://media-radar.jp/detail8674.html・3回目）
+  - 「アイティメディアは同日、E2パブリッシングの親会社であるインプレスホールディングスと株式の譲渡契約書を締結」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「具体的には、＠IT MONOistとeetimes.jpの会員制化を進めるとともに、2010年1月発行分より「EE Times Japan」を電子化する（参考「」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「それぞれの読者データベースを共通の基盤に統合し、ターゲティングメディア型の広告商品を製造業へと拡大させたい考えだ」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「読者とITベンダを結びつける会員制メディア」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+  - 「産業向け製品／サービスのベンダーとバイヤーをつなぐ会員制コンテンツライブラリ」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+  - 「運営する20以上の専門メディアの会員に向けて、メールマガジンに広告を掲載」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+- 立ち上げ時の打ち手：
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「1人で3台の重機を遠隔操作 IOWN APN活用で建設DXを推進」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「初期費用なしで資料・セミナー情報を掲載いただけます」（https://media-radar.jp/detail8674.html・3回目）
+  - 「エンジニア向け技術情報誌を発行するE2パブリッシング株式会社（東京都千代田区、梶川拓也社長）は本日6月24日、エレクトロニクス技術情報誌「EE Times Japan」を創刊いたしました」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号の発行部数は4万2750部で、日本のエレクトロニクス技術情報誌では最大部数になります」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号の発行部数は4万2750部で、日本のエレクトロニクス技術情報誌では最大部数になります*1」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊に合わせて、7月1日にはWebサイト「eetimes.jp」（」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号では、デジタル時代が進展するなかで見過ごされがちな「アナログ技術」を特集で取り上げました」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊日 ：2005年6月24日（7月号）」（https://japan.cnet.com/release/10036868/・3回目）
+- 船井型の段階：
+  - 「286.2GHz帯で72mのOFDM無線伝送に成功」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「また、ソニーで数々のヒット商品を開発したトップ･エンジニアである森尾稔氏（現･顧問）にロング･インタビューを行い、エレクトロニクス･エンジニアとしての心構えなどを語っていただきました」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「〒102-0093 東京都千代田区平河町2－4－14 KS 平河町ビル5F ＴＥＬ. 03-3556-3841 FAX. 03-3556-3842」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「〒102-0093 東京都千代田区平河町2－4－14 KS 平河町ビル5階Ｔ Ｅ Ｌ . 03-3556-3841 FAX. 03-3556-3842」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「今(2026/04)の一押し書籍はこれです これで大体わかる」（https://note.com/handotai14/n/nced6e2a4e434・3回目）
+  - 「EE Times Japanは4月10日、TSMCのIEDM 2025講演内容をもとに、AI/HPCでは半導体チップ単体の性能だけでなく、電源供給網の効率と安定化が重要な競争軸になっていると解説しました」（https://note.com/handotai14/n/nced6e2a4e434・3回目）
+  - 「・TSMCのIEDM 2025講演内容を踏まえた記事です ￼」（https://note.com/handotai14/n/nced6e2a4e434・3回目）
+- 株主構成：
+  - 「アイティメディア、「EE Times Japan」発行のE2パブリッシングを子会社化 - ZDNET Japan」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「アイティメディアは12月17日、エレクトロニクス技術情報誌「EE Times Japan」を発行するE2パブリッシングの全株式を取得し、子会社化することを発表した」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「アイティメディアは同日、E2パブリッシングの親会社であるインプレスホールディングスと株式の譲渡契約書を締結」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「2010年1月1日に子会社化が完了する見込みだ」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「E2パブリッシングを子会社化後、アイティメディアは次の一手となるターゲティングメディア企業へのシフトを加速させる（参考「」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「インプレスホールディングスは「当初の想定に比べ、事業の重要性が低下したため」子会社の売却に至ったと発表している（「」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「シックス・アパートとアイティメディアが事業提携へ、資本提携の構想も」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「アイティメディア、動画共有サービス運営のzoomeを子会社化」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「出資比率は三菱電機60％、ソニーセミコンダクタソリューションズ40％です」（https://note.com/handotai14/n/n82339ce128ec・3回目）
+  - 「出資、共同展示、製品採用」（https://note.com/handotai14/n/n82339ce128ec・3回目）
+- 創業年度：
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「IntelのCEOを務めるLip-Bu Tan氏はプレスリリースで「2026年第3四半期の業績は、業務遂行の改善、供給拡大における有意の進展、プロセス技術の継続的な進歩を示している」と述べている」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「[ E2パブリッシング株式会社のリリース一覧 ]」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「エンジニア向け技術情報誌を発行するE2パブリッシング株式会社（東京都千代田区、梶川拓也社長）は本日6月24日、エレクトロニクス技術情報誌「EE Times Japan」を創刊いたしました」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号の発行部数は4万2750部で、日本のエレクトロニクス技術情報誌では最大部数になります」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号の発行部数は4万2750部で、日本のエレクトロニクス技術情報誌では最大部数になります*1」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊に合わせて、7月1日にはWebサイト「eetimes.jp」（」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「新サービス開始に向けて、複数の大手企業と提携交渉を進めており、交渉がまとまり次第、発表いたします」（https://japan.cnet.com/release/10036868/・3回目）
+  - 「創刊号では、デジタル時代が進展するなかで見過ごされがちな「アナログ技術」を特集で取り上げました」（https://japan.cnet.com/release/10036868/・3回目）
+- 売上・黒字：
+  - 「ニコン露光装置事業、26年度上期は営業利益137％増」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「太陽誘電、AI需要で営業利益127％増 設備投資も前倒し」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「通期営業利益は4500億円に上方修正：」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「キオクシア「明らかにスーパーサイクル」、純利益は半期で2兆円超」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「半導体／FA好調の三菱電機、26年度2Qは純利益92％増」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「村田製が通期上方修正 データセンター向け売上高倍増」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「キオクシア「明らかにスーパーサイクル」、純利益は半期で2兆円超」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「半導体／FA好調の三菱電機、26年度2Qは純利益92％増」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「村田製が通期上方修正 データセンター向け売上高倍増」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「キオクシア「明らかにスーパーサイクル」、純利益は半期で2兆円超」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「半導体／FA好調の三菱電機、26年度2Qは純利益92％増」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「村田製が通期上方修正 データセンター向け売上高倍増」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+- 存続：
+  - 「EE Times Japan×EDN Japan統合電子版」（https://eetimes.itmedia.co.jp/・1回目）
+  - 「EE Times Japan×EDN Japan統合電子版」（https://eetimes.itmedia.co.jp/ee/subtop/interview/・1回目）
+  - 「EE Times Japan×EDN Japan統合電子版」（https://eetimes.itmedia.co.jp/ee/subtop/wireless/・1回目）
+  - 「EE Times Japan×EDN Japan統合電子版」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「シリコンウエハーを完成品のチップに加工するには約3カ月かかるため、工場閉鎖時にまだ処理中だったウエハーは廃棄される可能性が高い」（https://eetimes.itmedia.co.jp/ee/articles/2611/05/news059.html・1回目）
+  - 「展示会終了時から１ヶ月間、広告主様の展示会配布資料（ＰＤＦ，Ｗｏｒｄ，ＰＰＴ等）のダウンロードを可能にします」（https://www8.ric.co.jp/expo/wj2007/download/ee_times.pdf・3回目）
+  - 「それぞれの読者データベースを共通の基盤に統合し、ターゲティングメディア型の広告商品を製造業へと拡大させたい考えだ」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「インプレスホールディングスは「当初の想定に比べ、事業の重要性が低下したため」子会社の売却に至ったと発表している（「」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「件数だけを追うと、広告主にとって価値の低い問い合わせ（冷やかし、対象外の地域、条件の合わない相談）が増え、広告主は単価の引き下げか契約の終了を求めます」（https://otsumu.co.jp/knowledge/models/pay-per-lead.html・3回目）
+  - 「契約の面では、成果の定義、重複や無効の扱い、件数の確認方法と異議の期限、広告主側の対応状況の報告義務、契約の終了条件を明記します」（https://otsumu.co.jp/knowledge/models/pay-per-lead.html・3回目）
+- 検索結果の抜粋：
+  - 「EE Times Japan EDN Japan へのご掲載検討はこちら — EE Times Japan EDN Japan へのご掲載検討はこちら ITmedia https://promotion.itmedia.co.jp > eetimesjapan_ednjapan」（https://promotion.itmedia.co.jp/media/eetimesjapan_ednjapan・3回目）
+  - 「アイティメディア、「 EE Times Japan 」発行のE2 ... — アイティメディア、「 EE Times Japan 」発行のE2 ... ZDNET Japan https://japan.zdnet.com > CIO／経営 > 解説」（https://japan.zdnet.com/article/20405566/・3回目）
+  - 「運営メディア紹介 - アイティメディア - ITmedia — 運営メディア紹介 - アイティメディア - ITmedia ITmedia https://promotion.itmedia.co.jp > mediaintroduction」（https://promotion.itmedia.co.jp/mediaintroduction・3回目）
+  - 「2026年 新春 トップ インタビュー 特集［AD］ - EE Times Japan — 2026年 新春 トップ インタビュー 特集［AD］ - EE Times Japan EE Times Japan https://eetimes.itmedia.co.jp > special > top_interview_2026」（https://eetimes.itmedia.co.jp/ee/special/ee260103/top_interview_2026/index.html・3回目）
+  - 「EETimes Japan の 編集長 が交代した — EETimes Japan の 編集長 が交代した はてなブログ https://affiliate-with.hatenablog.com > entry」（https://affiliate-with.hatenablog.com/entry/20080505/1210149937・3回目）
+  - 「柱をさらに太く、マキシム・ ジャパン 林社長に聞く — 柱をさらに太く、マキシム・ ジャパン 林社長に聞く EE Times Japan https://eetimes.itmedia.co.jp > ee > articles > news033」（https://eetimes.itmedia.co.jp/ee/articles/1906/13/news033.html・3回目）
+  - 「Meet the Editor ～ EE Times Japan 編集部が語る注目トレンド — Meet the Editor ～ EE Times Japan 編集部が語る注目トレンド ITmedia https://promotion.itmedia.co.jp > seminar」（https://promotion.itmedia.co.jp/seminar/15・3回目）
+  - 「【無料ウェビ セミナー 】 Meet the Editor ～ EE Times Japan ... — 【無料ウェビ セミナー 】 Meet the Editor ～ EE Times Japan ... ITmedia https://promotion.itmedia.co.jp > news」（https://promotion.itmedia.co.jp/news/210428_01・3回目）
+  - 「ニュース - EE Times Japan - ITmedia — ニュース - EE Times Japan - ITmedia EE Times Japan https://eetimes.itmedia.co.jp > ee > subtop > newsreport」（https://eetimes.itmedia.co.jp/ee/subtop/newsreport/index.html・3回目）
+  - 「Samsungの半導体四半期業績、過去最高の 売上 高と 営業利益 ... — Samsungの半導体四半期業績、過去最高の 売上 高と 営業利益 ... EE Times Japan https://eetimes.itmedia.co.jp > ee > articles > news031_2」（https://eetimes.itmedia.co.jp/ee/articles/2605/26/news031_2.html・3回目）
+  - 「連載一覧 - EE Times Japan - ITmedia — 連載一覧 - EE Times Japan - ITmedia EE Times Japan https://eetimes.itmedia.co.jp > ee > series」（https://eetimes.itmedia.co.jp/ee/series/・3回目）
+  - 「「 EE Times Japan 」に当社の取り組みが掲載されました — 「 EE Times Japan 」に当社の取り組みが掲載されました 千住金属工業株式会社 https://www.senju.com > ニュース > お知らせ > メディア」（https://www.senju.com/ja/news/information/media/ee-times-japan.php・3回目）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像6件／外部53頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像6件／外部53頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像6件／外部53頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像6件／外部53頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像6件／外部53頁・検索14回）
+
+## ITreview
+- 公式URL：https://www.itreview.jp（given）
+- 創業年度：設立年月日：2018年4月2日（https://itcrowd.co.jp/company/・3回目）
+- 創業年度：設立：2018年04月（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+- 創業年度：設立：2018年4月2日（https://miraerror.jp/202308037562/・3回目）
+- 従業員数：54名(2023年7月31日時点)（https://miraerror.jp/202308037562/・3回目）
+- 所在地：東京都港区海岸1-7-1　東京ポートシティ竹芝オフィスタワー Google Map（https://itcrowd.co.jp/company/・3回目）
+- 所在地：東京都港区海岸1-7-1
+東京ポートシティ竹芝オフィスタワー（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+- 代表者：黒野 源太 代表取締役社長 兼 CEO 永谷 博規 取締役（SB C&S株式会社 取締役 専務執行役員 兼 ICT事業本部長） 新木 啓悟 取締役 小林 教至 取締役（アイティメディア株式会社 代表取締役社長） 島田 正典 取締役（SB C&S株式会社 執行役員 財務経理統括担当 兼 財務経理本部長） 松田 広史 監査役（SB C&S株式会社 監査役） 黒野 源太 代表取締役社長 兼 CEO 永谷 博規 取締役（SB C&S株式会社 取締役 専務執行役員 兼 ICT事業本部長） 新木 啓悟 取締役 小林 教至 取締役（アイティメディア株式会社 代表取締役社長） 島田 正典 取締役（SB C&S株式会社 執行役員 財務経理統括担当 兼 財務経理本部長） 松田 広史 監査役（SB C&S株式会社 監査役）（https://itcrowd.co.jp/company/・3回目）
+- 代表者：黒野源太（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+- 人がどこから来るか：
+  - 「すべての「SNSマーケティング」カテゴリーを見る」（https://www.itreview.jp/・1回目）
+  - 「SaaS・ソフトウェアの中でも、特に満足度・認知度がともに優れたTop100製品を紹介します」（https://www.itreview.jp/・1回目）
+  - 「約200のカテゴリーごとにユーザーから最も高い評価を得た製品を紹介します」（https://www.itreview.jp/・1回目）
+  - 「新たに日本市場に登場した製品の中から、ユーザーから高い評価を集めたTop10製品を紹介します」（https://www.itreview.jp/・1回目）
+  - 「生成AI機能を搭載した製品の中から、AI機能においてユーザー評価の高い製品の魅力を紹介します」（https://www.itreview.jp/・1回目）
+  - 「メール配信サービスは何を基準に選ぶべき？株式会社構造計画研究所に聞く、失敗を防ぐ導入のポイントと到達率を高める方法を紹介」（https://www.itreview.jp/・1回目）
+  - 「投稿 メール配信サービスは何を基準に選ぶべき？株式会社構造計画研究所に聞く、失敗を防ぐ導入のポイントと到達率を高める方法を紹介 は ITreview Labo に最初に表示されました」（https://www.itreview.jp/・1回目）
+  - 「【ITreview User Conference 2026 セッションレポート：前編】AI検索時代に「第三者評価」が重要な理由とは？Ahrefsのデータが示す市場の変化」（https://www.itreview.jp/・1回目）
+  - 「グループウェア選びで陥りがちな失敗とは？株式会社ネオジャパンに聞く「日本企業に合ったワークフロー活用と製品選定のコツ」を紹介」（https://www.itreview.jp/・1回目）
+  - 「紙の申請や承認のボトルネックをなくすには？株式会社エイトレッドに聞く「ワークフローシステムの選び方と定着のコツ」を紹介」（https://www.itreview.jp/・1回目）
+  - 「数万人規模の組織改編にも対応できるワークフローシステムはある？株式会社エイトレッドに聞く「大企業のためのワークフロー選定術」を紹介」（https://www.itreview.jp/・1回目）
+  - 「生成AIは何を根拠に推奨する商品を決めるのか？株式会社サブスパイアに聞く「AI時代に信頼されるUGC活用のヒント」を紹介」（https://www.itreview.jp/・1回目）
+- 誰が払うか・単価：
+  - 「継続率は既存契約の月額課金額のうち解約に伴い減少した月額課金額の割合を各四半期末月における12ヶ月平均で算出」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「400以上（国内求人媒体の約95%）の求人媒体と連携し、自動応募取り込み・24時間365日の自動連絡・広告費用対効果の精密分析まで対応する大量採用・人材サービス会社向けの多機能ATS」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「採用活動では、求人媒体への掲載料や人材紹介会社への手数料など、さまざまなコストが発生します」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・ハイキャリアのエンジニアや専門職の方など、特筆したスキルを持っている人と出会えるので、課金してでも面談したいと思うことが多い」（https://www.itreview.jp/products/ababa/reviews・1回目）
+  - 「一見安価に見えるサービスでも、登記手数料やオプション費用が積み重なることで総額が大きく変動するケースが多いため」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「別途課金が必要なケースもあるため注意が必要です」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「採用管理システムは以前から使用していましたが、以前使用していたシステムは求人情報と応募者・広告費が紐づけられず、応募者の管理以外はアナログ管理でした」（https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle・1回目）
+  - 「RPMは求人情報や広告費も含め一元管理ができることが魅力的で乗り換えました」（https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle・1回目）
+  - 「求人系の広告代理店をしているため、顧客のATSへログインし、求人広告の作成代行を行うことが多いですが、ジョブカン採用管理はATSの中でもかなり低価格で利用することができるのが良いポイントだと思います」（https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle・1回目）
+  - 「1件あたりの登録作業が大幅に短縮され、エージェント経由の紹介推進にもつながっています」（https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/small・1回目）
+  - 「求人検索エンジンでの効果出しに特化した機能や、さらに応募数を増やしたい場合にはGoogleやSNSなどWEB広告での応募者獲得も可能」（https://www.itreview.jp/products/herp-ats/reviews・1回目）
+  - 「求人検索エンジンでの効果出しに特化した機能や、さらに応募数を増やしたい場合にはGoogleやSNSなどWEB広告での応募者獲得も可能」（https://www.itreview.jp/products/hrmossaiyoukanri/reviews・1回目）
+- 規模：
+  - 「導入社数2,500社以上」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「累計導入社数・売上シェアともにNo.1を獲得」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「シリーズ累計導入社数12万社」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・累計導入社数については、有償の採用管理システム（主要13社）に対するヒアリングに基づきます」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・累計導入社数は、2016年6月～2026年8月までに有償契約を締結した企業の総数（解約企業を含む）です」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・各社の推計売上高は、「各社のアクティブ契約社数」に「各社で最も利用されている主要契約プランの年額料金」を乗じて算出しています」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・新規登録者数制限内であれば新卒版も中途版も利用可能」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「ビズリーチが提供する中途採用向けATSで、導入企業の90%が選考スピードアップを実感、最大18の採用媒体連携とエージェント分析機能で即戦力採用を強力にサポート」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「これまでに累計20万人の就活生が登録し、導入企業...」（https://www.itreview.jp/products/ababa/reviews・1回目）
+  - 「・ダイレクトリクルーティングなので、レジュメの内容が薄くなりやすい若手層は少なくなるが、中堅からハイクラス層は圧倒的な量の登録者からサーチできる」（https://www.itreview.jp/products/ababa/reviews・1回目）
+  - 「・絞り込みや検索機異能がかなり充実しており、複雑な条件からサーチすることができる（登録者が多すぎるが...」（https://www.itreview.jp/products/ababa/reviews・1回目）
+  - 「2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360...」（https://www.itreview.jp/products/ababa/reviews・1回目）
+- 積み上がって阻むもの：
+  - 「また、他社選考で評価された優秀な学生にピンポイントにアプローチできるデータベースの質も高く、こちらの意図を汲んだスカウト設計がしやすい点も大変気に入っています」（https://www.itreview.jp/・1回目）
+  - 「すべての「ノーコードWebデータベース」カテゴリーを見る」（https://www.itreview.jp/・1回目）
+  - 「グループウェア選びで陥りがちな失敗とは？株式会社ネオジャパンに聞く「日本企業に合ったワークフロー活用と製品選定のコツ」を紹介」（https://www.itreview.jp/・1回目）
+  - 「18年連続シェアNo.1*の採用管理システム『i-web』は、応募者と企業をつなぐ採用活動のプラットフォームです」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「さらに、施策改善やコミュニケーションまで完結できる一体型の分析機能やコンテンツ制作機能が評価され、18年連続導入シェアNo.1の実績で、多くの企業様の採用活動を支援しています」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「採用管理システムの先駆けとして、採用マーケットを牽引してきた実績を活かし、進化するシステムと「人」によるサポートの両面から企業の採用活動をサポート」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「*「就職希望企業ランキング」（2010卒～2016卒日本経済新聞社、2017卒～2027卒キャリタス（旧ディスコ）調べ）上位130社（2016卒～2019卒はランキングが100位までしか発表されていないため上位100社）における採用管理システム（有償ツール）のシェア（ヒューマネージ調査）」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「累計導入社数・売上シェアともにNo.1を獲得」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「シリーズ累計導入社数12万社」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「スタートアップから大手企業まで、幅広い業種・規模の導入実績があります」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「豊富な採用支援実績がある当社だからこそ可能な、通常のシステムサポートにとどまらない採用支援を提供できます」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「・累計導入社数については、有償の採用管理システム（主要13社）に対するヒアリングに基づきます」（https://www.itreview.jp/categories/recruitment-management・1回目）
+- 立ち上げ時の打ち手：
+  - 「システムを導入するだけではなく、企業ごとの採用フローや課題に合わせて、初期設定から運用定着、改善提案まで専任担当者が伴走します」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「導入時の初期設定から運用開始後まで専任担当者がサポートするため、採用管理システムを初めて導入する企業や、採用業務の属人化・煩雑化に悩む企業にもおすすめです」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「初期費用・月額費用・追加料金等、一切発生いたしません」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「採用管理システム(ATS)の導入には、初期設定にかかる費用や月額の利用料金など、一定のコストが発生します」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「特に、普段からデジタルツールに不慣れなスタッフが多い場合は、初期段階での混乱や業務停滞のリスクもあります」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「初期費用や月額料金の安さだけで選ぶと、必要な機能が不足し、結果的に業務効率が落ちる可能性もあります」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「マスタデータ（求人票、選考ステータス、通知テンプレなど）の初期設定を行い、テスト運用を経て本格稼働へ」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「特に「現場の業務フローに合っているか」の確認は初期段階で行っておくと、導入後の混乱を防げます」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「導入後、長期的に使いこなしていくためには、初期段階での工夫と継続的なフォローがカギを握ります」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「導入初期費用が抑えられるため、中小企業から大企業まで幅広い導入が進んでいます」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「オンプレミス型の採用管理システム(ATS)は、初期導入費用が高額になることが多いです」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「IP無線アプリの料金体系としては、初期導入費がかかる「」（https://www.itreview.jp/categories/ip-wireless-app・1回目）
+- 船井型の段階：
+  - 「・顧問弁護士のリーガルチェックに先立って、リスクチェック結果を参照することで、先生が話される内容をハッキリと理解することができ、一層深いところの質疑応答が自分のスキルを向上させてくれました」（https://www.itreview.jp/・1回目）
+  - 「Slackでは、担当者へDMで連絡できる機能がありスピーディーな情報共有が可能になります」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「モバイル端末管理(MDM)との連携も対策の一つです」（https://www.itreview.jp/categories/ip-wireless-app・1回目）
+  - 「ADMSとは、株式会社ジインズが提供しているアクティブディレクトリ管理ツール製品」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「Admin Bundle for Active Directory」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「Admin Bundle for Active Directoryとは、ソーラーウインズ・ジャパン株式会社が提供しているアクティブディレクトリ管理ツール製品」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「Active Directory管理を統合・効率化し、セキュリティとコンプライアンス対応を強力に支援する「Active Administrator」」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「Active Administratorは、Microsoft Active Directory（AD）の管理・監査・セキュリティ強化を一元的に行える統合ソリューションです」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「例えば「ManageEngine ADManager Plus」では、ユーザー登録時に必要な情報をテンプレート化し、役職ごとの定型操作を自動で処理することが可能です」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「「ManageEngine ADManager Plus」や「Specops」、「Netwrix Auditor」などの有力製品は、サブスクリプションモデルで提供されており、」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「紙やFAXで行っていた書類のやりとりがオンライン化したことで、PDF編集のニーズが高まったことが想像されます」（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+  - 「『カスタマーサクセス―サブスクリプション時代に求められる「顧客の成功」10の原則―』という、通称「カスタマーサクセスの青本」とよばれている書籍があります」（https://mtame.jp/marketing_foundation/president_interview_itcrowd/・3回目）
+- 株主構成：
+  - 「具体的な事例として、将来的に出資を受ける可能性があるスタートアップは株式会社を選ぶケースが多い一方、コストを抑えたいスモールビジネスは合同会社を選択しやすい傾向があります」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「今までの採用管理だと子会社ごとの契約をしておりましたが、こちらですと最終的に低コストで運用できました」（https://www.itreview.jp/products/i-web/price・1回目）
+  - 「旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の出資を受けてアイティクラウド株式会社を立ち上げ」（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+  - 「親会社であるスターティアラボの代表も、今後、フリーミアムでやっていく方向性を打ち出していたので、難易度が高く勇気は必要でしたが、挑戦的に踏み切りました」（https://mtame.jp/marketing_foundation/president_interview_itcrowd/・3回目）
+  - 「「G2 Crowd」は、BigMachinesやSteelBrickといった、SaaSを代表する企業の創業者や経営幹部からの出資に加え、45億円を超える資本を有しており、B2B市場におけるさらなるビジネス取引の信頼性の向上と、透明性の担保を目指し、運営しています」（https://cas.softbank.jp/press/180719_01/・3回目）
+- 創業年度：
+  - 「i-webはリリースから25年」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360...」（https://www.itreview.jp/products/ababa/reviews・1回目）
+  - 「【2026年】会社設立支援ツールのおすすめ10製品（全21製品）を徹底比較！満足度や機能での絞り込みも【ITreview】IT製品のレビュー・比較サイト」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「【2026年】会社設立支援ツールのおすすめ10製品（全21製品）を徹底比較！満足度や機能での絞り込みも」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「「弥生のかんたん会社設立」は、ステップに沿って入力するだけで、株式会社、合同会社の設立書類を作成できるクラウドサービスです」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「また、電子定款に対応しており、ご自身で紙の定款を作成する場合に必要な印紙代40,000円を削減でき、設立コストを最小限に抑えられます」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「・専門家が登記手続きを代行する「設立お任せサービス」」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「・「起業・開業応援パック」で法人カードや口座開設を優待」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「マネーフォワード クラウド会社設立とは、株式会社マネーフォワードが提供している会社設立支援ツール製品」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「freee開業とは、フリー株式会社が提供している会社設立支援ツール製品」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「freee会社設立とは、フリー株式会社が提供している会社設立支援ツール製品」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「会社設立代行ルームとは、司法書士・行政書士・社労士オフィスエルワンが提供している会社設立支援ツール製品」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+- 売上・黒字：
+  - 「・各社の推計売上高は、「各社のアクティブ契約社数」に「各社で最も利用されている主要契約プランの年額料金」を乗じて算出しています」（https://www.itreview.jp/categories/recruitment-management・1回目）
+- 存続：
+  - 「採用管理にとどまらず、人事評価・スキル管理・研修履歴・アルムナイ採用まで同一基盤で管理し、採用から育成・配置・リテンションまでのサイクルを一元運用できる人事統合プラットフォーム」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「：財務、会計、人事、給与、予算管理、販売管理、 生産管理 、在庫管理といった企業の基幹業務システム、またはそれらのシステムを統合したパッケージサービスです」（https://www.itreview.jp/categories/recruitment-management・1回目）
+  - 「会員が退会を希望する場合には、所定の手続きに従いITCに届け出るものとし、ITCでの退会処理終了後、会員登録を抹消し、退会となります」（https://www.itreview.jp/statics/member_terms・1回目）
+  - 「両者を連携させることで現場～本部の情報流動を一体化でき、音声／文字／チャットという複数の手段を統合して運用できます」（https://www.itreview.jp/categories/ip-wireless-app・1回目）
+  - 「通話ログ、位置情報、勤務記録などをクラウドで統合管理することで、業務効率が格段に向上します」（https://www.itreview.jp/categories/ip-wireless-app・1回目）
+  - 「- 開業後ツールとの統合プラットフォーム化」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「最後のトレンドとして、設立後のバックオフィスを含めた統合プラットフォーム化が進んでいます」（https://www.itreview.jp/categories/company-establishment-support-tool・1回目）
+  - 「Active Directory管理を統合・効率化し、セキュリティとコンプライアンス対応を強力に支援する「Active Administrator」」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「Active Administratorは、Microsoft Active Directory（AD）の管理・監査・セキュリティ強化を一元的に行える統合ソリューションです」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「統合ビューによる可視化、権限の委任・管理、イベント監視と自動警告、GPOのオフライン編集・比較・リストア、ADの正常性評価など、豊富な機能を搭載」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「業務プロセスと統合した自動化は、管理部門の負担軽減に非常に効果的です」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+  - 「オンプレとクラウドを跨ぐユーザー・グループの同期管理が可能であり、統合ID管理に対応している製品を選ぶことが重要です」（https://www.itreview.jp/categories/active-directory-management-tool・1回目）
+- 検索結果の抜粋：
+  - 「資料ダウンロード 一覧 - ITreview ブログ — 資料ダウンロード 一覧 - ITreview ブログ ITreview https://vendor.itreview.jp > for_document_request」（https://vendor.itreview.jp/for_document_request・3回目）
+  - 「ITreview の掲載料金と評判 レビュー活用とリード獲得の進め方 — ITreview の掲載料金と評判 レビュー活用とリード獲得の進め方 キャククル https://www.shopowner-support.net > saas > itreview」（https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/・3回目）
+  - 「ITreview オンライン広告企画 - ITmedia — ITreview オンライン広告企画 - ITmedia ITmedia https://promotion.itmedia.co.jp > campaign > itreview」（https://promotion.itmedia.co.jp/campaign/itreview・3回目）
+  - 「あなたのレビューで、日本のITは進化する - ITreview — あなたのレビューで、日本のITは進化する - ITreview ITreview https://www.itreview.jp > rebranding」（https://www.itreview.jp/lp/rebranding/・3回目）
+  - 「企業情報 | ITcrowd - IT選びに、革新と確信を - アイティクラウド — 企業情報 | ITcrowd - IT選びに、革新と確信を - アイティクラウド itcrowd.co.jp https://itcrowd.co.jp > company」（https://itcrowd.co.jp/company/・3回目）
+  - 「「 ITreview Grid Award 2025 Winter」 オンラインストレージ ... — 「 ITreview Grid Award 2025 Winter」 オンラインストレージ ... fileforce.jp https://www.fileforce.jp > news」（https://www.fileforce.jp/news/20250115news/・3回目）
+  - 「国内最大級 IT製品/ SaaSのレビュープラットフォーム ITreview — 国内最大級 IT製品/ SaaSのレビュープラットフォーム ITreview PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000069.000033567.html・3回目）
+  - 「ITreview ご紹介 — ITreview ご紹介 ITreview PDF https://vendor.itreview.jp > uploads > 2022/05」（https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf・3回目）
+  - 「【アイティクラウド株式会社 黒野 源太】事業の本質は同じ ... — 【アイティクラウド株式会社 黒野 源太】事業の本質は同じ ... MiraError https://miraerror.jp > ...」（https://miraerror.jp/202308037562/・3回目）
+  - 「アイティクラウド代表・黒野の インタビュー 記事が「LISTEN ... — アイティクラウド代表・黒野の インタビュー 記事が「LISTEN ... ITreview https://www.itreview.jp > labo > archives」（https://www.itreview.jp/labo/archives/24361・3回目）
+  - 「【社長対談】アイティクラウド代表 黒野氏に聞く - エムタメ — 【社長対談】アイティクラウド代表 黒野氏に聞く - エムタメ エムタメ https://mtame.jp > マーケティング入門」（https://mtame.jp/marketing_foundation/president_interview_itcrowd/・3回目）
+  - 「アイティクラウド株式会社の働き方とストーリー - Wantedly — アイティクラウド株式会社の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > アイティクラウド株式会社」（https://www.wantedly.com/companies/itcrowd/stories・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部48頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部48頁・検索14回）
+
+## Ledge.ai
+- 公式URL：https://ledge.ai（given）
+- 創業年度：設立：2005年12月（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 所在地：東京都港区虎ノ門一丁目17番1号
+虎ノ門ヒルズ ビジネスタワー 28F（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 所在地：東京都港区南青山2-27-25ヒューリック南青山ビル3F（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 代表者：山口拓己（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 代表者：山口 拓己（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 人がどこから来るか：
+  - 「【参加募集】AIを使った表現をどう受け止めるか 制作現場の実践を語る「GENEX ー Creative Series #1」11月17日開催」（https://ledge.ai/・1回目）
+  - 「KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介」（https://ledge.ai/・1回目）
+  - 「イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働」（https://ledge.ai/・1回目）
+  - 「OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外」（https://ledge.ai/・1回目）
+  - 「【注目ツール紹介】複数モデルが自律的に動いて業務を行う？協働エージェント「Genspark」とは」（https://ledge.ai/・1回目）
+  - 「Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制」（https://ledge.ai/・1回目）
+  - 「EXPO2025」（https://ledge.ai/・1回目）
+  - 「各種SNSでも最新情報をお届けしております」（https://ledge.ai/・1回目）
+  - 「すべてのウェビナー視聴やイベントの申し込みがボタン一つで完結します」（https://ledge.ai/about・1回目）
+  - 「KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介 | Ledge.ai」（https://ledge.ai/articles/kddi_iret_ai_use_cases・1回目）
+  - 「KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介」（https://ledge.ai/articles/kddi_iret_ai_use_cases・1回目）
+  - 「Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制」（https://ledge.ai/articles/kddi_iret_ai_use_cases・1回目）
+- 積み上がって阻むもの：
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/・1回目）
+  - 「Ledge.aiの会員になることで、」（https://ledge.ai/about・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/kddi_iret_ai_use_cases・1回目）
+  - 「防災の現場から探る生成AIの可能性――NTT東日本 独占インタビュー」（https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC・1回目）
+  - 「LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビュー」（https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/google_suncatcher_first_ai_response・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/openai_gpt_6_1_terra・1回目）
+  - 「Ledge.aiの会員になることで、すべてのウェビナー視聴やイベントの申し込みがボタン一つで完結します」（https://ledge.ai/mypage/register・1回目）
+  - 「会員登録の前に、Ledge.aiの」（https://ledge.ai/mypage/register・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/jsol_career_interview_pm・1回目）
+  - 「編集部おすすめの厳選記事や有用情報を定期的にお届け」（https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context・1回目）
+- 立ち上げ時の打ち手：
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/・1回目）
+  - 「Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得」（https://ledge.ai/・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/kddi_iret_ai_use_cases・1回目）
+  - 「「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作」（https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画 | Ledge.ai」（https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/google_suncatcher_first_ai_response・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/openai_gpt_6_1_terra・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/jsol_career_interview_pm・1回目）
+  - 「トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画」（https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context・1回目）
+- 株主構成：
+  - 「米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へ」（https://ledge.ai/・1回目）
+  - 「ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整」（https://ledge.ai/・1回目）
+- 創業年度：
+  - 「Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得」（https://ledge.ai/・1回目）
+  - 「AIメディア「Ledge.ai」へ「PR TIMES」掲載開始 | 株式会社PR TIMESのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「‐ AI、人工知能に関するプレスリリースを掲載 ‐」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「プレスリリース配信サービス「PR TIMES」を運営する株式会社PR TIMES（東京都港区、代表取締役：山口拓己、東証一部：3922、以下：PR TIMES）は2018年12月14日（金）より、「PR TIMES」に掲載するAI・人工知能に関するプレスリリースを、株式会社レッジ （本社：東京都品川区、代表者：橋本和樹）が運営するAI特化型Webメディア「Ledge.ai（レッジエーアイ）」に提供・掲載を開始したことをお知らせいたします」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「PR TIMESより配信されたAI関連のプレスリリース URL：」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「■プレスリリース配信サービス「PR TIMES」」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「今後もPR TIMESでは、より広範なステークホルダーへ企業情報を見やすくストレートに伝えるルートの開拓、さらには企業情報がニュースとして記事化される機会の最大化を目指し、外部メディアと連携しながらプレスリリースの情報価値を高める活動を行ってまいります」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「【プレスリリース配信サービス「PR TIMES」概要】」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「2007年4月のサービス開始より、報道機関向けの発表資料（プレスリリース）をメディア記者向けに配信する機能と、「PR TIMES」およびパートナーメディアに掲載する機能をセットで提供してまいりました」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「設立 ： 2005年12月」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「事業内容 ： -プレスリリース配信サービス「PR TIMES」（」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「このプレスリリースには、」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+- 売上・黒字：
+  - 「Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示」（https://ledge.ai/・1回目）
+- 存続：
+  - 「米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へ」（https://ledge.ai/・1回目）
+  - 「OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外」（https://ledge.ai/・1回目）
+  - 「「自然と生成AIの活用を加速させる データインフラ統合型生成AIのすすめ」」（https://note.com/directcloud/n/n2513b280ae4f・3回目）
+  - 「・社内文書を活用できるデータインフラ統合型生成AIとは？」（https://note.com/directcloud/n/n2513b280ae4f・3回目）
+  - 「【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」｜DirectCloud【公式】」（https://note.com/directcloud/n/nea0243ecde2b・3回目）
+  - 「【登壇レポート】Ledge.ai Webinar SP登壇「生成AI活用を加速させるデータインフラ統合型AIのすすめ」」（https://note.com/directcloud/n/nea0243ecde2b・3回目）
+  - 「「自然と生成AIの活用を加速させる データインフラ統合型生成AIのすすめ」（https://note.com/directcloud/n/nea0243ecde2b・3回目）
+  - 「」は、まさにデータインフラ統合型AIで、以下の特長を備えています」（https://note.com/directcloud/n/nea0243ecde2b・3回目）
+- 検索結果の抜粋：
+  - 「登録者500名超、管理職比率40% — 国内最大級の AI メディア ... — 登録者500名超、管理職比率40% — 国内最大級の AI メディア ... Ledge.ai https://ledge.ai > ledgeai-expo-2025-summer-sponsor」（https://ledge.ai/articles/ledgeai-expo-2025-summer-sponsor・3回目）
+  - 「Ledge . ai ｜日本最大級のAI特化型ニュースメディア — Ledge . ai ｜日本最大級のAI特化型ニュースメディア Ledge.ai https://ledge.ai」（https://ledge.ai/・3回目）
+  - 「広告掲載に関するお問い合わせ - Ledge.ai — 広告掲載に関するお問い合わせ - Ledge.ai Ledge.ai https://ledge.ai > contact > ad-form」（https://ledge.ai/contact/ad-form・3回目）
+  - 「お問い合わせ - Ledge.ai — お問い合わせ - Ledge.ai Ledge.ai https://ledge.ai > contact」（https://ledge.ai/contact・3回目）
+  - 「Data Strategy | 株式会社レッジ | Ledge . ai Brand & Solution — Data Strategy | 株式会社レッジ | Ledge . ai Brand & Solution Ledge.ai https://ledge.ai > brand > ledge-datastrategy」（https://ledge.ai/brand_solution/brand/ledge-datastrategy・3回目）
+  - 「ChatGPTの週間アクティブユーザー数が4億人を突破 - Ledge.ai — ChatGPTの週間アクティブユーザー数が4億人を突破 - Ledge.ai Ledge.ai https://ledge.ai > articles」（https://ledge.ai/articles/chatgpt_400m_wau_growth・3回目）
+  - 「生成AI導入研修 | 株式会社レッジ | Ledge . ai Brand & Solution — 生成AI導入研修 | 株式会社レッジ | Ledge . ai Brand & Solution Ledge.ai https://ledge.ai > solutions > ledge-datastrategy-education」（https://ledge.ai/brand_solution/solutions/ledge-datastrategy-education・3回目）
+  - 「AIメディア「 Ledge . ai 」へ「PR TIMES」掲載開始 — AIメディア「 Ledge . ai 」へ「PR TIMES」掲載開始 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000903.000000112.html・3回目）
+  - 「OpenAI、 AI モデルのアクティブユーザー 10億人超に ビジネス ... — OpenAI、 AI モデルのアクティブユーザー 10億人超に ビジネス ... Ledge.ai https://ledge.ai > openai_active_users_business_customers」（https://ledge.ai/articles/openai_active_users_business_customers・3回目）
+  - 「変わらないまま生き抜けるか？ 大局と現場から読み解く — 変わらないまま生き抜けるか？ 大局と現場から読み解く Ledge.ai https://ledge.ai > articles」（https://ledge.ai/articles/theai-3rd-ledge・3回目）
+  - 「AI 前提の組織設計――VALANCE独占 インタビュー 「 AI 駆動型 ... — AI 前提の組織設計――VALANCE独占 インタビュー 「 AI 駆動型 ... Ledge.ai https://ledge.ai > articles > valance_interview_20260724」（https://ledge.ai/articles/valance_interview_20260724・3回目）
+  - 「仕事の売り方が変わる。ARIが「 AI ネイティブ化」で直面した ... — 仕事の売り方が変わる。ARIが「 AI ネイティブ化」で直面した ... Ledge.ai https://ledge.ai > articles > ari_interview_ai_native」（https://ledge.ai/articles/ari_interview_ai_native・3回目）
+- 株主：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+- 誰が払うか・単価：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+- 規模：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+- 船井型の段階：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部16頁・検索14回）
+
+## MONOist
+- 公式URL：https://promotion.itmedia.co.jp/（search:yahoo_jp:株式会社MONOist）
+- 創業年度：Established：December 1999（https://promotion.itmedia.co.jp/english・1回目）
+- 人がどこから来るか：
+  - 「【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>」（https://promotion.itmedia.co.jp/・1回目）
+  - 「展示会やセミナー等のオンラインイベントを支援」（https://promotion.itmedia.co.jp/・1回目）
+  - 「専門メディアを利用して、ハウスリストではリーチできない層からの集客を実現」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「メール広告などを利用してセミナー集客を支援」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「ハウスリストやSNSなどではリーチが難しい、20以上の専門メディアを閲覧する読者が集客対象となるため新規リードの獲得が見込めます」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「成果課金型集客サービス：申込数に応じて課金」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「セミナー開催前日まで配信できますので、直前の集客追い込みにもご利用いただくことができます」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「集客ページを当社メディア内に設置し、メール広告などを利用」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「セミナー開催前日まで配信可能、直前の集客追い込みにも」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「セミナー集客支援の対象はBtoC/BtoBどちらも可能でしょうか？」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「弊社の提供するセミナー集客支援サービスはBtoBとなります」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「BtoC向けのセミナー集客支援サービスはご提供しておりません」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+- 誰が払うか・単価：
+  - 「【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディア主催のオンラインイベントへ協賛」（https://promotion.itmedia.co.jp/・1回目）
+  - 「メール広告などを利用してセミナー集客を支援」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「成果課金型集客サービス：申込数に応じて課金」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「クリック保証広告：貴社セミナー申込ページへの誘導数を保証」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「ターゲティングメール：開催直前まで配信可能な1通独占メール広告」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「各メディア会員の登録情報、行動履歴などをもとに、対象を指定して配信できる1通独占型のメール広告です」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「集客ページを当社メディア内に設置し、メール広告などを利用」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「当社メディアの広告枠とオーディエンスデータ（ウェブサイト上の行動データ）を活用」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「東京23区内開催のみ成果課金サービスの提供を行っております」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「弊社が有するサイトの特性を生かした広告や読者行動データを活用した誘導配信などを組み合わせ、効率的な読者の閲覧を獲得します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「記事広告に動画を差し込むことはできますか？」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+- 規模：
+  - 「4億PVを超える専門メディア」（https://promotion.itmedia.co.jp/・1回目）
+  - 「アイティメディアは月間4億PV、会員数約182万人超を誇る国内最大級のインターネット専業メディアです」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「掲載期間終了後にはPV/UBのほか閲覧企業名などを記載したレポートをご提供します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「開催までの登録者対応の他、講演者の資料回収、配信に関わる進行台本・幕間などの準備を運営事務局として代行いたします」（https://promotion.itmedia.co.jp/service/event/webinar・1回目）
+  - 「アイティメディアが運営する各メディアのアクセス数およびPV数と会員数をご覧いただけます」（https://promotion.itmedia.co.jp/downlad/mediadata・1回目）
+  - 「400 million PV」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「PV や imp、Click などの数値だけではない＋αの情報を提供することで、広告効果を明確化し次の施策に向けたインサイトを提供します」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「ITmedia DMPで捕捉した「ワークスタイル変革」や「情報系システム」「エレクトロニクス」といった「ジャンルごとの興味関心読者数」を数値（直近60日のユニークブラウザ数）で確認できます」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「Webセミナーはリアルのセミナーに比べて、主催者側、参加者側にとって負担が軽く済むのが最大の特徴です」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「主催者は会場設営コスト、当日の運営スタッフ確保を気にする必要はなく、参加者側は移動にかかる交通費と時間を削減できます」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「ライブ配信・疑似ライブ（シミュライブ配信：映像は事前収録しチャットなどでの受け答えはライブで行う）の場合は、参加者と双方向のやり取りもできます」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「セミナー参加者の98％がほぼオンライン（Webセミナー）になっている」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+- 積み上がって阻むもの：
+  - 「弊社メディアの読者会員にアンケート調査を実施」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディアの読者会員をセミナー申込へ誘導」（https://promotion.itmedia.co.jp/・1回目）
+  - 「アイティメディアは月間4億PV、会員数約182万人超を誇る国内最大級のインターネット専業メディアです」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「ターゲティングメール：開催直前まで配信可能な1通独占メール広告」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「各メディア会員の登録情報、行動履歴などをもとに、対象を指定して配信できる1通独占型のメール広告です」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「各メディア会員の登録情報、行動履歴などをもとに、対象を指定して配信可能」（https://promotion.itmedia.co.jp/service/event/seminar_promotion・1回目）
+  - 「アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「業種や職種といった会員登録情報などを元に、対象を指定して1通独占型のメール広告を配信することができるため、ターゲットに合致する見込み客に向けて、効率的なアプローチが可能です」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「メールマガジンを受信する読者会員は専門性の高い興味・関心を持っているため、セミナーやキャンペーンサイトを閲覧してほしいターゲット層のいるメディアを活用することで、ターゲット層を効率よく」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「業種や職種・役職・従業員数・役職・勤務地など、メディア読者会員の属性を指定した配信が可能」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「一社独占メールマガジンのサンプルをみてみたい」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「市場動向や読者ニーズを深く理解しているアイティメディアの編集部が、ターゲットに的確なメッセージを届けるためのプログラム／講演を企画立案いたします」（https://promotion.itmedia.co.jp/service/event/webinar・1回目）
+- 立ち上げ時の打ち手：
+  - 「また、一般的に購買の検討段階には、大きく分けて「初期（情報収集）」「中期（比較検討）」「後期（最終選定）」の3段階があります」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「登録後の最初のページ（エントランス）でブランディングを実施」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「動画広告を効果的に活用するためには、広告制作の最初の段階で目的を明確に設定することが重要です」（https://promotion.itmedia.co.jp/blog/videoads・1回目）
+  - 「そのため、ブランド認知の初期段階での戦略において、動画広告は欠かせない手法です」（https://promotion.itmedia.co.jp/blog/videoads・1回目）
+  - 「初期費用なしで資料・セミナー情報を掲載いただけます」（https://media-radar.jp/detail2557.html・3回目）
+  - 「大元であるアイティメディアは1999年に創業した歴史ある会社で、長年培ってきた技術やノウハウで確かなコンサルティングが期待できます」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「MONOist編集部では、オンライン番組企画「X THEME」を立ち上げ、第1回は「DXを進める中小製造業」をテーマに配信を行う」（https://monoist.itmedia.co.jp/mn/articles/2601/21/news028.html・3回目）
+  - 「MONOist編集部では、オンライン番組企画「X THEME」（クロス・テーマ）を立ち上げ、2026年2月18日午後1時から「DXを進める中小製造業」をテーマにした第1回番組の配信をスタートします」（https://monoist.itmedia.co.jp/mn/articles/2601/21/news028.html・3回目）
+  - 「mui Labの共同創業者で、Software Architectの久保田拓也氏と、同社取締役CTOである佐藤宗彦氏に、同社を立ち上げるきっかけや製品のコンセプト、また今後の展望などについて話を聞いた」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「組み込み機器向けのセキュリティとAIで存在感を発揮しているのが、2009年創業のベンチャー企業・SELTECH（セルテック）だ」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「創業時から組み込みセキュリティに注力してきた同社は、車載関連での実績を基にAIソリューションにも展開を広げている」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「ハードウェアベンチャーの雄、Cerevo（セレボ）の代表取締役である岩佐琢磨氏が、2007年の同社創業前に勤めていたパナソニックに11年ぶりの“出戻り”を果たす」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+- 船井型の段階：
+  - 「アイティメディアが運営する様々なメディアの「読者行動データ」と、100万人を越える会員基盤「アイティメディアID」に蓄積されたデータを組み合わせ、その活用を担う独自のデータマネージメントプラットフォームが「ITmedia DMP」です」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「大きな配信母数をもつDSP（デマンドサイドプラットフォーム）やFacecbookなどのSNSと接続し、ITmedia DMP で作成したセグメントを用いて、アイティメディア外での広告配信を行う、パブリッシャートレーディングデスクが可能です」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「クライアント様の該当ページにITmedia DMPのタグを設置いただくことにより、アイティメディアIDの登録情報をベースとした自社サイトのオーディエンス属性の可視化と、メディアで閲覧しているコンテンツ分析が可能となります」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「ITmedia DMPで捕捉した「ワークスタイル変革」や「情報系システム」「エレクトロニクス」といった「ジャンルごとの興味関心読者数」を数値（直近60日のユニークブラウザ数）で確認できます」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「その後にアイティメディアから確認メールが届けられるので、印刷・捺印をした上でFAXで発送することで正式な発注ができます」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「PDMシステム比較11選！おすすめシステムの口コミ評判や費…」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「PDMシステム11製品を比較」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「受注好調のDMG森精機が通期売上高を据え置く理由 増資資金で日米欧に成長投資：製造マネジメントニュース - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「受注好調のDMG森精機が通期売上高を据え置く理由 増資資金で日米欧に成長投資」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「DMG森精機は、2026年12月期（同年1月〜12月）第3四半期の決算概要を発表した」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「DMG森精機は2026年10月30日、2026年12月期（同年1月〜12月）第3四半期の決算概要を発表した」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「2026年12月期第3四半期の決算概要［クリックで拡大］出所：DMG森精機」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+- 株主構成：
+  - 「SOLIZE、インドと米国のエンジニアリングサービス・アウトソーシング会社を買収 ([MONOist]) | Apérza News（アペルザニュース）」（https://news.aperza.jp/solize%E3%80%81%E3%82%A4%E3%83%B3%E3%83%89%E3%81%A8%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB/・3回目）
+  - 「SOLIZE、インドと米国のエンジニアリングサービス・アウトソーシング会社を買収 ([MONOist])」（https://news.aperza.jp/solize%E3%80%81%E3%82%A4%E3%83%B3%E3%83%89%E3%81%A8%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB/・3回目）
+  - 「SOLIZEは2016年5月9日、インドおよび米国のエンジニアリングサービス・アウトソーシング会社（ESO）のCSMグループを買収したと発表した」（https://news.aperza.jp/solize%E3%80%81%E3%82%A4%E3%83%B3%E3%83%89%E3%81%A8%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB/・3回目）
+  - 「多くの買収で揺れ動いたCAD周りの10年、今後はユーザー側が買収に乗り出すか」（https://monoist.itmedia.co.jp/mn/subtop/features/monoist_10th/index.html・3回目）
+  - 「MONOistが開設した2007年以降、CADやPLMなどの設計製造システムを提供する大手ベンダーによる意欲的な買収が行われてきた」（https://monoist.itmedia.co.jp/mn/subtop/features/monoist_10th/index.html・3回目）
+  - 「今後は、CAD/PLM、EDA、大手ユーザーという垣根を超えた企業買収が起こる可能性があるだろう」（https://monoist.itmedia.co.jp/mn/subtop/features/monoist_10th/index.html・3回目）
+  - 「運営するアイティメディアは、ソフトバンクグループ子会社で出版・ブロードバンドコンテンツ等のメディアやマーケティング事業を統括する純粋持株会社「」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「11月9日 - ソフトバンク（現・ソフトバンクグループ）がZiff Davis社を買収」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「12月29日 - ソフトバンク パブリッシング株式会社（現・SBクリエイティブ）の100％子会社として、オンライン・メディア企業」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「の連結子会社で、動画投稿コミュニティサイトを運営する」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「の連結子会社でエレクトロニクス情報メディア「EE Times Japan」を運営するE2パブリッシング株式会社の全株式を取得して子会社化」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「子会社のzoome株式会社は9月30日に解散」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+- 創業年度：
+  - 「大元であるアイティメディアは1999年に創業した歴史ある会社で、長年培ってきた技術やノウハウで確かなコンサルティングが期待できます」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「いまはプレスリリースも自動で記事にできるように頑張っています」（https://media-innovation.jp/article/2026/04/20/143258.html・3回目）
+  - 「大崎駅徒歩5分のモノづくり拠点「SHIP」、2015年6月に開設」（https://monoist.itmedia.co.jp/mn/articles/2601/21/news028.html・3回目）
+  - 「mui Labの共同創業者で、Software Architectの久保田拓也氏と、同社取締役CTOである佐藤宗彦氏に、同社を立ち上げるきっかけや製品のコンセプト、また今後の展望などについて話を聞いた」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「組み込み機器向けのセキュリティとAIで存在感を発揮しているのが、2009年創業のベンチャー企業・SELTECH（セルテック）だ」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「創業時から組み込みセキュリティに注力してきた同社は、車載関連での実績を基にAIソリューションにも展開を広げている」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「ハードウェアベンチャーの雄、Cerevo（セレボ）の代表取締役である岩佐琢磨氏が、2007年の同社創業前に勤めていたパナソニックに11年ぶりの“出戻り”を果たす」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「GLM設立秘話（後編）：部品メーカーと思いを共有、そしてパリから世界進出」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「GLM設立秘話（前編）：「和製テスラ」になれるか、京都発EVベンチャーの苦闘」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「その創業から、EVスポーツカー「トミーカイラZZ」開発の苦闘、そして「パリモーターショー2016」でのスーパーカーコンセプト「GLM G4」の発表に至るまでの秘話を前後編でお送りする」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「日本に最初に設立されたファブラボであるファブラボ鎌倉は、モノづくりの未来を見据えた人材育成に取り組んでいる」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「2007年創業のCerevo（セレボ）もその1つだ」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+- 売上・黒字：
+  - 「大きな配信母数をもつDSP（デマンドサイドプラットフォーム）やFacecbookなどのSNSと接続し、ITmedia DMP で作成したセグメントを用いて、アイティメディア外での広告配信を行う、パブリッシャートレーディングデスクが可能です」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「受注好調のDMG森精機が通期売上高を据え置く理由 増資資金で日米欧に成長投資：製造マネジメントニュース - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「受注好調のDMG森精機が通期売上高を据え置く理由 増資資金で日米欧に成長投資」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「連結受注額が3四半期連続で過去最高を更新し通期の受注予想を引き上げたが、通期売上高の見通しは据え置いた」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「売上高は同23.2％増の4227億円、EBITDA（利払い前／税引き前／減価償却前利益）は同22.8％増の449億円、EBIT（税引前営業利益指標）は同46.3％増の169億円だった」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「一方、売上高やEBITは従来の見通しを据え置いた」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「豊富な受注残高と安定した需要を元に、2027年12月期の売上高は6300億円、EBITは510億円を目指す」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「のため、売上高は売上収益、純利益は当期利益、純資産は資本合計、総資産は負債及び資本合計」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+- 存続：
+  - 「掲載期間終了後にはPV/UBのほか閲覧企業名などを記載したレポートをご提供します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「定められた期間や表示回数に対し料金を支払い掲載を行う広告は、原則として、午前0時に掲載が開始され、終了時間は掲載終了日24時となります」（https://promotion.itmedia.co.jp/service/awareness/bannerad・1回目）
+  - 「配信終了後のフォローアップに必要なレポートの提供や、必要に応じて振り」（https://promotion.itmedia.co.jp/service/event/webinar・1回目）
+  - 「また、ライブ配信終了後、アーカイブ配信を行うことができます」（https://promotion.itmedia.co.jp/service/event/webinar・1回目）
+  - 「Webセミナーが無事終了しても、気は抜けません」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「・セッション終了後に記入できるアンケート など」（https://promotion.itmedia.co.jp/blog/webcast・1回目）
+  - 「資金の用途については、約150億円でグループ会社の太陽工機とDMG MORI Precision Boring（旧倉敷機械）が持つ新潟県長岡市の拠点を統合し、新工場を開設する」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「これに伴いZDNet Japanは、ライセンス契約の満了をもって閉鎖」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「なおITmediaオルタナティブ・ブログは継続しているが、+Dブログは2006年に終了した」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「ソフトバンク パブリッシングの再編に伴い、2004年末でSOFTBANK GAMESが終了、それをITmediaが引き継ぐ形で2005年からITmedia自体の運営による「ITmedia Games」（後に＋D Games）を開始」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「との共同運営による「ITmedia Gamez」にリニューアルし、プレイ動画やプロモーションビデオなどゲームに関連した動画も扱うようになったが、2011年3月末をもってゲーム・エンターテインメント関連を単独で扱うサイトは事実上終了した」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+  - 「」は2004年末のSOFTBANK GAMES終了時に一旦閉鎖した後、2005年5月にソフトバンクパブリッシングの直轄で」（https://ja.wikipedia.org/wiki/ITmedia・3回目）
+- 検索結果の抜粋：
+  - 「メディアガイド - MONOist - ITmedia — メディアガイド - MONOist - ITmedia MONOist https://monoist.itmedia.co.jp > special」（https://monoist.itmedia.co.jp/mn/special/mo131202/index.html・3回目）
+  - 「MONOist へのご掲載検討はこちら - アイティメディア - ITmedia — MONOist へのご掲載検討はこちら - アイティメディア - ITmedia ITmedia https://promotion.itmedia.co.jp > media > monoist」（https://promotion.itmedia.co.jp/media/monoist・3回目）
+  - 「日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 — 日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 メディアレーダー https://media-radar.jp > 媒体資料を探す」（https://media-radar.jp/detail2557.html・3回目）
+  - 「MONOist （モノイスト）の広告掲載料金や評判をリサーチ — MONOist （モノイスト）の広告掲載料金や評判をリサーチ キャククル https://www.shopowner-support.net > monoist」（https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/・3回目）
+  - 「読者会員ID「アイティメディアID」の累計登録ユーザーが200 ... — 読者会員ID「アイティメディアID」の累計登録ユーザーが200 ... media-innovation.jp https://media-innovation.jp > メディア > デジタルメディア」（https://media-innovation.jp/article/2026/04/20/143258.html・3回目）
+  - 「【終了】元 MONOist 編集者が語る！「製造業系Webメディアと ... — 【終了】元 MONOist 編集者が語る！「製造業系Webメディアと ... テクノポート株式会社 https://writing.techport.co.jp > news」（https://writing.techport.co.jp/news/200825-2/・3回目）
+  - 「DXで成功する中小企業経営者が本音を語り合うWeb番組 2月 ... — DXで成功する中小企業経営者が本音を語り合うWeb番組 2月 ... MONOist https://monoist.itmedia.co.jp > articles > news028」（https://monoist.itmedia.co.jp/mn/articles/2601/21/news028.html・3回目）
+  - 「MONOist 【公式】 (@MONOist_itmedia) / X — MONOist 【公式】 (@MONOist_itmedia) / X X https://x.com > MONOist_itmedia」（https://x.com/MONOist_itmedia・3回目）
+  - 「モノづくり×ベンチャー インタビュー - MONOist - ITmedia — モノづくり×ベンチャー インタビュー - MONOist - ITmedia MONOist https://monoist.itmedia.co.jp > series」（https://monoist.itmedia.co.jp/mn/series/1653/・3回目）
+  - 「製造業が2024年に取るべき SEO 対策 デジタルマーケティング ... — 製造業が2024年に取るべき SEO 対策 デジタルマーケティング ... MONOist https://monoist.itmedia.co.jp > articles > news007」（https://monoist.itmedia.co.jp/mn/articles/2401/31/news007.html・3回目）
+  - 「受注好調のDMG森精機が通期 売上 高を据え置く理由 増資資金 ... — 受注好調のDMG森精機が通期 売上 高を据え置く理由 増資資金 ... MONOist https://monoist.itmedia.co.jp > articles > news057」（https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html・3回目）
+  - 「MONOist 【公式】 on X: "受注好調のDMG森精機が通期 売上 高 ... — MONOist 【公式】 on X: "受注好調のDMG森精機が通期 売上 高 ... X https://x.com > @MONOist_itmedia」（https://x.com/MONOist_itmedia/status/2118192879105626128・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部56頁・検索16回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部56頁・検索16回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部56頁・検索16回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部56頁・検索16回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部56頁・検索16回）
+
+## fabcross
+- 公式URL：https://www.meitec.co.jp/（search:yahoo_jp:fabcross）
+- 創業年度：創業：1974年7月17日（https://www.meitec.co.jp/company/overview.html・1回目）
+- 創業年度：設立：2023年4月3日 ※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は こちら )（https://www.meitec.co.jp/company/overview.html・1回目）
+- 創業年度：設立：1974年07月（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 従業員数：8,202名（2026年3月31日現在） グループ連結：13,190名（2026年3月31日現在）（https://www.meitec.co.jp/company/overview.html・1回目）
+- 所在地：東京本社／〒110-0005　東京都台東区上野1丁目1-10 オリックス上野1丁目ビル MAP → 「当社サービス」に関するお問い合わせは、以下のフォームよりお問い合わせください 【サービス】お問い合わせフォーム（https://www.meitec.co.jp/company/overview.html・1回目）
+- 所在地：東京都台東区上野1丁目1-10 
+オリックス上野1丁目ビル（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 売上高：956億82百万円（2026年3月期） グループ連結：1,376億86百万円（2026年3月期）（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：代表取締役社長　関口 晃介（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：Tel 050-3000-5820（代）（受付時間：平日9:00〜18:00） 営業のお電話はお取次ぎできませんので、以下フォームよりお願いいたします 【採用・その他全般】お問い合わせフォーム（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：関口晃介（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 人がどこから来るか：
+  - 「【ご注意ください】あたかも当社が在宅業務参加者を募っているかのような不審な紹介について」（https://www.meitec.co.jp/・1回目）
+  - 「プロのエンジニアとして働くメイテックの社員をご紹介します」（https://www.meitec.co.jp/advantage/interview/casestudy.html・1回目）
+  - 「プロのエンジニアとして働きながら現役エンジニアとして60歳以上でも第一線で活躍する、メイテックの生涯プロエンジニアをご紹介します」（https://www.meitec.co.jp/advantage/interview/procareer.html・1回目）
+  - 「技術分野ごとの仕事内容と設計開発の事例をご紹介します」（https://www.meitec.co.jp/recruit/index.html・1回目）
+  - 「(1) 求職者とのやりとりにおいて、社員個人の私用端末や私的なSNSを通じた連絡は禁止とする」（https://www.meitec.co.jp/recruit/index.html・1回目）
+  - 「メイテックがエンジニアリングソリューション事業を推進するうえで、常に遵守している「労働者派遣法」について、ご紹介いたします」（https://www.meitec.co.jp/company/index.html・1回目）
+  - 「メイテックグループは「エンジニアリングソリューション事業」と「エンジニア紹介事業」の2つの領域で事業を行ってまいります」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「TEL: 050-3000-5820 FAX: 03-6778-5070」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3101-7398 FAX: 022-711-5823」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3131-9225 FAX: 028-341-7021」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3131-9221 FAX: 027-327-6375」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL：050-3101-5409 FAX ：04-8545-2262」（https://www.meitec.co.jp/company/base.html・1回目）
+- 誰が払うか・単価：
+  - 「fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「アクセス数が現在の水準に近づくにつれ、記事広告の依頼が直接または紹介経由で舞い込むようになります」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「広告ビジネスも大きく様変わりする中、テキスト主体のメディア運営のあり方も10年前とは大きく変わったと感じています」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「僕はメイテックの子会社でデジタルマーケティングを専業していて、石川さんが関わっているWebメディア「デイリーポータルZ」に広告記事を出したりしていたんです」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「企業や他メディアとのコラボレーションも、広告記事枠のあった初期には多かったですよね」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「なぜか2回目には当時の東急ハンズさんもスポンサーになってくれたし」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「越智さんはご自身のnoteで「広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「まず1年目からスポンサーが2社もつくことなんてあり得ないし、いろんな企業から取材のオファーもいただけるし」（https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/・3回目）
+  - 「#001 3Dプリンター歴史記事はなぜ読まれたのか──Google広告パニック事件、歴史シリーズの裏側、AIにまとめさせたら使えなかった話」（https://music.amazon.com/es-us/podcasts/33a1cea9-ce71-47c9-8151-6669e1c0071f/fabscene-space・3回目）
+  - 「また、オープン初日に広告のお問い合わせをくださり、以降も出稿を続けてくださっているseeed Japanの坪井さん、松岡さん」（https://note.com/gkt/n/n358c759ca1a1・3回目）
+- 規模：
+  - 「【ご注意ください】あたかも当社が在宅業務参加者を募っているかのような不審な紹介について」（https://www.meitec.co.jp/・1回目）
+  - 「採用活動において一切のハラスメント行為を許容しておらず、応募者、インターンシップ参加者、内定者を含むすべての求職者の皆さまが安心して求職活動に臨める環境づくりに努め、公正かつ誠実な採用活動を実施します」（https://www.meitec.co.jp/recruit/index.html・1回目）
+  - 「配信した記事数は約13,000件にも及びます」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「ローンチから半年が経ちサイトのPVは少しずつ伸びてきたのですが、いかんせん企画当初の目標には到達していません」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「北海道での打ち上げや機体製作費、ロケ費用など、通常の記事数本分に相当する予算を投じる一大プロジェクトだったため、「これが滑ったらもう後がない」という思いで北海道に飛び、記事を書きました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「最終的には兄弟サイトの「fabcross for エンジニア」と合算で100万PV/月まで成長しました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「「このままじゃヤバい、何か結果につながることをやらなきゃ！」という焦りもあって、当時の記事数本分くらいの予算をかけて北海道まで取材に行ったんです」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「12年間に渡ってサイト運営に従事し、月間100万PV規模に成長させる」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「こうしたビジュアル的にもインパクトのあるものづくりや工作企画が人気を集め、fabcrossは「あの記事が載っているメディアね！」と認知されるようになり、読者数が大きく広がりました」（https://note.com/asanoqm/n/nce884bc183f5・3回目）
+  - 「月間10万PVを超えましたーー2025年8月の人気記事まとめ」（https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/・3回目）
+  - 「Six months after the launch, the site's PV had gradually increased, but it had not reached the goals set at the beginning of the project.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 積み上がって阻むもの：
+  - 「メイテックグループ 2027年3月期 第2四半期決算短信〔日本基準〕（連結）を掲載しました」（https://www.meitec.co.jp/・1回目）
+  - 「メイテックグループ 2027年3月期 第2四半期決算説明資料を掲載しました」（https://www.meitec.co.jp/・1回目）
+  - 「メイテックグループ 2027年3月期9月度の稼働率を公開しました」（https://www.meitec.co.jp/・1回目）
+  - 「特別損失の計上並びに2027年3月期第2四半期（累計）業績予想の修正に関するお知らせを掲載しました」（https://www.meitec.co.jp/・1回目）
+  - 「【重要なお知らせ】当社グループ会社の代表者名を騙った不審なメールについて」（https://www.meitec.co.jp/・1回目）
+  - 「持株会社体制への移行により「株式会社メイテック」から「 株式会社メイテックグループホールディングス」へ商号変更」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「2002年 新卒入社（グループ会社）」（https://www.meitec.co.jp/advantage/interview/casestudy.html・1回目）
+  - 「当社は、「メイテックグループ人権方針」に基づき、すべての求職者の皆さまの人格と人権を尊重し、公正で安心して参加いただける採用活動の実現に取り組んでいます」（https://www.meitec.co.jp/recruit/index.html・1回目）
+  - 「グループ連結：1,376億86百万円（2026年3月期）」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「グループ連結：13,190名（2026年3月31日現在）」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「社員一人一人、そしてグループで技術の核心（The Core）を切り開いていくエンジニア集団（Engineering Firm）」（https://www.meitec.co.jp/company/index.html・1回目）
+  - 「私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます」（https://www.meitec.co.jp/company/index.html・1回目）
+- 立ち上げ時の打ち手：
+  - 「創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています」（https://www.meitec.co.jp/・1回目）
+  - 「fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「2017年にフリーランスになった際、自分のブログで立ち上げからの経緯をまとめたことがありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「立ち上げ当初でほとんど誰にも見られていないメディアに力を注いでくださった方々のご協力がなければ、メディアは早々に頓挫していたと思います」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「奥でカメラを構えているのはfabcross初期から支えてくれた名カメラマン加藤甫さん」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「サイトを立ち上げて1年も経たないうちに自分でも書くことになった」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「fabcrossは立ち上げ当初から、真面目なインタビューやニュース記事と、やや遊び心のある工作ネタを意図的に混在させる編集方針を貫いてきました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「さらに公開したデータやグラフを、企業が立ち上げるメイカースペースの参考資料として使っていただけることも増えました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「立ち上げからコロナ禍に突入する2018年まではMaker Faire Tokyoにも毎年出展してました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「2023年には立ち上げ当初から関わってきたK君が転職し、最初から最後までfabcrossの企画・編集に関わったのは私ともう一人の編集者Nさんだけになりましたが、多様性あふれるチームが解散するのはやはり寂しいですね」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+- 船井型の段階：
+  - 「TEL: 050-3000-5820 FAX: 03-6778-5070」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3101-7398 FAX: 022-711-5823」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3131-9225 FAX: 028-341-7021」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3131-9221 FAX: 027-327-6375」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL：050-3101-5409 FAX ：04-8545-2262」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3101-7394 FAX: 048-647-7520」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3101-6227 FAX: 029-227-6384」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL：050-3131-9223 FAX：029-856-7822」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL: 050-3101-4095 FAX: 043-380-9397」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL:050-3101-4080 FAX:03-3862-0792」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL:050-3101-4076 FAX:03-6858-2831」（https://www.meitec.co.jp/company/base.html・1回目）
+  - 「TEL:050-3101-4075 FAX:03-6858-0050」（https://www.meitec.co.jp/company/base.html・1回目）
+- 株主構成：
+  - 「私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます」（https://www.meitec.co.jp/company/index.html・1回目）
+  - 「メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「4) 株主価値」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「持続的な価値向上に基づく「健全な利益」を創出し、中長期的に株主還元を最大化します」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「当時、メイテックネクストという子会社にいた私は、グループで唯一のデジタルマーケティング専業担当として、親会社の新規事業プロジェクトに参加しました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「僕はメイテックの子会社でデジタルマーケティングを専業していて、石川さんが関わっているWebメディア「デイリーポータルZ」に広告記事を出したりしていたんです」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「取材のイロハもわからなくて、最初に泣きついたのが子会社の別のお仕事でお世話になったデイリーポータルZの石川さんでした」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか」（https://fabscene.com/new/infomation/fabscene-roundtable-2025-review/・3回目）
+  - 「資本比率 株式会社メイテックの100％子会社」（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 創業年度：
+  - 「2026.10.29 / ニュースリリース」（https://www.meitec.co.jp/・1回目）
+  - 「2026.10.14 / ニュースリリース」（https://www.meitec.co.jp/・1回目）
+  - 「2026.10.05 / ニュースリリース」（https://www.meitec.co.jp/・1回目）
+  - 「2026.09.29 / ニュースリリース」（https://www.meitec.co.jp/・1回目）
+  - 「創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています」（https://www.meitec.co.jp/・1回目）
+  - 「（1985年に株式会社ジエクスに社名変更）を設立」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「エンジニア向けものづくり支援サイト「fabcross」を開設」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「2013年にWebメディア「fabcross」の設立に参画」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+- 売上・黒字：
+  - 「PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「最初は新規事業として「黒字化しよう」とやっていたけど、数千億規模の業績を誇るメイテックに大きく貢献するのは難しくて」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「I think it is a miracle that it lasted for 12 years as a media outlet with almost no advertising and a non-profit nature. I have nothing but gratitude for our readers and all the people involved in its operation.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+  - 「As access numbers approached current levels, requests for advertorials began to pour in, either directly or through referrals. We accepted these projects as much as possible to secure revenue for the media. Since we were operating as a business at the time, sales were one of our KPIs.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 存続：
+  - 「fabcrossの閉鎖に寄せて｜越智 岳人」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「2013年から運営していたwebメディア「fabcross」が2025年3月31日をもって閉鎖されることになりました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「今回のサイト終了にあたって「電子工作メディア」として紹介されるケースが多々ありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「状況によっては「事業の成長性なし」と判断し、撤退する可能性もありましたが、一定の規模に成長したことを評価され、会社のブランディングツールとして存続することになったのです」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「それだけに、今回の終了は非常に残念です」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「閉鎖を発表してからの2週間、さまざまな暖かい言葉をかけられました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「【fabcross閉鎖】fabcrossがなければ InstaChord社は生まれていなかったと言っても過言ではありません」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「Webメディア冬の時代も乗り越えてきましたが、2025年3月末に突如閉鎖となり、突然の出来事にSNSでは別れを惜しむ声が溢れました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「fabcrossが突然閉鎖になると聞いたときは驚きました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「越智：僕も自分のnoteで閉鎖について書いたのですが（」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「そしてコミュニティが広がってきたタイミングで、突然の閉鎖発表」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+- 検索結果の抜粋：
+  - 「fabcross の閉鎖に寄せて｜越智 岳人 - note — fabcross の閉鎖に寄せて｜越智 岳人 - note note https://note.com > 科学・テクノロジー > テクノロジー全般」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「ものづくりメディアは続くよどこまでも。「 fabcross 」を ... — ものづくりメディアは続くよどこまでも。「 fabcross 」を ... セメダイン株式会社 https://www.cemedine.co.jp > fabcrosszadannkai2025」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「明和電機共同開発の 自動手書きマシン「オートマ・テ」の — 明和電機共同開発の 自動手書きマシン「オートマ・テ」の meitec.co.jp PDF https://www.meitec.co.jp > news > fabcross_20140722」（https://www.meitec.co.jp/news/2014/en18hs0000001rsb-att/fabcross_20140722.pdf・3回目）
+  - 「fabcross による年間 売上 ランキングインタビュー記事を ... — fabcross による年間 売上 ランキングインタビュー記事を ... スイッチサイエンス https://www.switch-science.com > blogs > magazine > fab...」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vIj2F9g054-BJH6weaSEld_kTVBTyo59ydHYbzVcj_Y1qxWJOOa・3回目）
+  - 「fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック — fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック meitec.co.jp https://www.meitec.co.jp > fabcross」（https://www.meitec.co.jp/fabcross.html・3回目）
+  - 「fabcross のアーカイブ＆ 振り返り 記事まとめ｜越智 岳人 - note — fabcross のアーカイブ＆ 振り返り 記事まとめ｜越智 岳人 - note note https://note.com > DIY > DIY全般」（https://note.com/gkt/n/n010abd941806・3回目）
+- 株主：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部54頁・検索15回）
+
+## sorae
+- 公式URL：https://sorae.info（given）
+- 創業年度：設立：2019年6月（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+- 所在地：神奈川県川崎市高津区坂戸３丁目２番１号（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+- 代表者：代表取締役　刈屋 隆一（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+- 人がどこから来るか：
+  - 「VTuber（バーチャルYouTuber）」（https://media-radar.jp/company1007914.html・3回目）
+  - 「Yura experiencing male puberty!」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「being a KH Fan feels like a toxic relationship」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「the OPTIMAL Space Marines 2 experience?」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「FIRST TIME REACT TO Ballistic High-Speed | Yura Reacts to My RPG-7 Exp」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「Scott is a BEAST | Yura Reacts to Kentucky Ballistics My 50 Cal Explod」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「This explosion caught Yura OFF GUARD」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「そこで「はくちょう座X-1」の特集に触れたんです」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「ブラックホールだと推定された代表的な天体の一つとして紹介されていて、「ブラックホールは本当にあるんだ」「しかも、はくちょう座のこのあたりにあるんだ」と、自分の中で、宇宙が一気に広がっていくようなロマンを感じました」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「いまほどSNSも盛り上がっていませんでしたし、宇宙に関する議論も、限られたコミュニティの中で行われている印象でした」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「2019年時点では少しずつ動きが加速してきた印象はありましたが、SpaceXも現在ほど大きな注目を集めていたわけではありませんでした」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「実際、人々の興味関心は、検索やニュース配信の仕組みに左右される面があります」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+- 誰が払うか・単価：
+  - 「株式会社soraeの会社概要・資料一覧｜広告媒体資料のメディアレーダー」（https://media-radar.jp/company1007914.html・3回目）
+  - 「国内No.1の広告媒体資料・マーケティング資料のポータルサイト」（https://media-radar.jp/company1007914.html・3回目）
+  - 「ついに宇宙で広告活動！『推し宙スペースライブ』スポンサー募集のご案内」（https://media-radar.jp/company1007914.html・3回目）
+  - 「地球を周回する国際宇宙ステーション(ISS)「きぼう」日本実験棟に、ロケットでVTuberやスポンサー企業のアクリルパネルを運びます」（https://media-radar.jp/company1007914.html・3回目）
+  - 「総勢40名以上のVTuberと、スポンサー企業とともに宇宙を目指す取り組みです」（https://media-radar.jp/company1007914.html・3回目）
+  - 「媒体資料のダウンロードやセミナー申込に必要な無料会員登録です」（https://media-radar.jp/company1007914.html・3回目）
+  - 「アドネットワーク、DSP広告、SSP広告」（https://media-radar.jp/company1007914.html・3回目）
+  - 「求人広告、採用管理」（https://media-radar.jp/company1007914.html・3回目）
+  - 「特定のキーワードやカテゴリ別に媒体資料を網羅的に探せます」（https://media-radar.jp/company1007914.html・3回目）
+  - 「2001年に日経BPへ入社し、ビジネス誌・技術専門誌の広告営業を担当」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「『sorae』は特定企業のオウンドメディアではなく、基本的には広告収入を中心に運営してきました」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「アクセス数に左右されますし、注目される話題がなければ広告収入も下がります」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+- 規模：
+  - 「Yura Sorae Ch | VTuberチャンネル登録者数」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「Mitya character PV cute highlights | Genshin korean voice - YouTube」（https://www.youtube.com/shorts/dSVcl-isIEo・3回目）
+  - 「Mitya character PV cute highlights | Genshin korean voice」（https://www.youtube.com/shorts/dSVcl-isIEo・3回目）
+  - 「会員数・都道府県は会員名簿（2026年10月6日更新版）、学びの場は2026年11月3日時点」（https://sorae-japan.org/・3回目）
+- 積み上がって阻むもの：
+  - 「国内No.1の広告媒体資料・マーケティング資料のポータルサイト」（https://media-radar.jp/company1007914.html・3回目）
+  - 「ご登録の会員メールアドレスにお申し込みいただいたセミナーの情報をお送りいたしました」（https://media-radar.jp/company1007914.html・3回目）
+  - 「媒体資料のダウンロードやセミナー申込に必要な無料会員登録です」（https://media-radar.jp/company1007914.html・3回目）
+  - 「会員登録されていない方は、下記よりご登録ください」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「会員数・都道府県は会員名簿（2026年10月6日更新版）、学びの場は2026年11月3日時点」（https://sorae-japan.org/・3回目）
+  - 「日本DX大賞2026で会員4名が受賞 ほか」（https://sorae-japan.org/・3回目）
+  - 「国土交通大臣表彰、「STI for SDGs」アワード 文部科学大臣賞（会員の所属先）など」（https://sorae-japan.org/・3回目）
+  - 「私塾・研修・会員どうしの交流に参加できます」（https://sorae-japan.org/・3回目）
+  - 「団体正会員として、職員の学びを支える」（https://sorae-japan.org/・3回目）
+  - 「☕ コーヒー1杯（500円）からの寄付、賛助個人会員（年5,000円）、賛助法人会員（年1口90,000円）」（https://sorae-japan.org/・3回目）
+  - 「（入室にはS.I.D.F.隊員＝そらゑ会員のコール・サインが必要です）」（https://sorae-japan.org/・3回目）
+  - 「インフラメンテナンス市区町村長会議 令和8年度中国ブロック会議（10月8日、ホテルサンルート徳山）の座談会第二部「つながりから生まれる、周南地域のインフラマネジメント」に、そらゑ会員2名がパネリストとして登壇されました」（https://sorae-japan.org/・3回目）
+- 立ち上げ時の打ち手：
+  - 「初期費用なしで資料・セミナー情報を掲載いただけます」（https://media-radar.jp/company1007914.html・3回目）
+- 船井型の段階：
+  - 「令和8年7月14日に開かれた参議院 国土交通委員会（下水道法等の改正に関する審議）において、参考人として出席された家田顧問が、インフラメンテナンスに関するご説明の中で「人の群マネ」および「そらゑ」について言及されました」（https://sorae-japan.org/・3回目）
+  - 「において、インフラメンテナンス国民会議 副会長 家田 仁先生（そらゑ 顧問）、富山市政策アドバイザー 植野 芳彦氏（そらゑ 顧問）がご講演されました」（https://sorae-japan.org/・3回目）
+  - 「家田 顧問からは参加された全国の市区町村長に対し、そらゑ の紹介がありました」（https://sorae-japan.org/・3回目）
+  - 「日向市の米良成功さんは、自主研修グループ「日向市土木技術研究会（ひむかどぼくらぼ）」の代表として「小さな『人の繋がり』から踏み出すファーストステップ」と題し、勉強会や保育所の安全点検などの活動と今後の展望を紹介されました」（https://sorae-japan.org/・3回目）
+  - 「」特集「老朽化するインフラをどう守るか」に、家田仁顧問のインタビュー、木下義昭さんの寄稿が載ってます」（https://sorae-japan.org/・3回目）
+  - 「月刊 自治研 8月号に 家田 仁 顧問のインタビュー「事故の警鐘から何を学ぶべきか」（https://sorae-japan.org/・3回目）
+  - 「2025. 5. 1 【書籍】群馬県伊勢崎市 橋本隆さん「著書が2冠を達成」」（https://sorae-japan.org/・3回目）
+  - 「橋本PLの書籍には、「技術系公務員の教科書」もあります」（https://sorae-japan.org/・3回目）
+  - 「当機構には、「地域インフラ群再生戦略マネジメント計画策定手法検討会」座長の家田仁先生、「地域インフラ群再生戦略マネジメント実施手法検討会」座長の小澤一雅先生をはじめ、群マネに関わる委員の先生方が無償で顧問に加わってくださっています」（https://sorae-japan.org/・3回目）
+- 創業年度：
+  - 「複数のメディア事業を通じて宇宙領域の情報発信に可能性を見いだし、株式会社soraeを設立」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「2008年2月にクロスアーキテクツを設立」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「そうした思いが、株式会社soraeの設立につながったわけですね」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「色々と運営の体制変更があったことをきっかけに、株式会社soraeを設立し、メディア事業を引き継ぐ形で再出発しました」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「2026.03.19 S.I.D.F. 無線支援室 ―Field Support Comms― 開設！」（https://sorae-japan.org/・3回目）
+  - 「これまでの「BAR SORAE」を、S.I.D.F.（SORAEインフラ防衛戦線）の世界観へ一新した「S.I.D.F. 無線支援室」を開設しました」（https://sorae-japan.org/・3回目）
+  - 「まずは、公務員限定ですが、チャット・音声・ビデオでコミュニケーションできる無料のコミュニティツール（Discord）を開設しました」（https://sorae-japan.org/・3回目）
+  - 「第12回ジャパン・レジリエンス・アワード（強靱化大賞）受賞団体一覧（主催者プレスリリース）」（https://sorae-japan.org/・3回目）
+  - 「株式会社sorae の会社概要とプレスリリース」（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+  - 「株式会社sorae（ソラエ）は、2018年設立の神奈川県川崎市高津区坂戸3丁目2番1号に所在する法人です（法人番号: 4011001122729）」（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+  - 「全国企業データベース-プレスリリース配信サービス」（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 sorae の会社概要・資料一覧 - メディアレーダー — 株式会社 sorae の会社概要・資料一覧 - メディアレーダー メディアレーダー https://media-radar.jp > company1007914」（https://media-radar.jp/company1007914.html・3回目）
+  - 「Yura Sorae Ch | VTuberチャンネル 登録者数 — Yura Sorae Ch | VTuberチャンネル 登録者数 VTuber ランキング https://virtual-youtuber.userlocal.jp > user」（https://virtual-youtuber.userlocal.jp/user/7553E642D0EFA332_24c857・3回目）
+  - 「宇宙は、まだ届いていない。『 sorae 』が問う情報発信の ... — 宇宙は、まだ届いていない。『 sorae 』が問う情報発信の ... SpaceStep https://space.japanstep.jp > learn > 2026/07」（https://space.japanstep.jp/learn/2026/07/2153/・3回目）
+  - 「一般社団法人行政エンジニア支援機構 — 一般社団法人行政エンジニア支援機構 一般社団法人行政エンジニア支援機構 https://sorae-japan.org」（https://sorae-japan.org/・3回目）
+  - 「相模原市役所で実施されたSLIM月面着陸を応援する PV の様子 ... — 相模原市役所で実施されたSLIM月面着陸を応援する PV の様子 ... sorae 宇宙へのポータルサイト https://sorae.info > イベント」（https://sorae.info/event/slim-pv-sagamihara.html・3回目）
+  - 「会社概要 - sorae 宇宙へのポータルサイト — 会社概要 - sorae 宇宙へのポータルサイト sorae 宇宙へのポータルサイト https://sorae.info > about」（https://sorae.info/about・3回目）
+  - 「Sorae & Co. — Sorae & Co. 對空音商事有限公司 https://sorae.co > en-us」（https://sorae.co/en-us.html・3回目）
+  - 「株式会社 sorae の会社概要とプレスリリース — 株式会社 sorae の会社概要とプレスリリース 全国企業データベース https://companydata.tsujigawa.com > company」（https://companydata.tsujigawa.com/company/4011001122729/・3回目）
+  - 「ソラエ 株式会社 — ソラエ 株式会社 sorae.co.jp https://www.sorae.co.jp」（https://www.sorae.co.jp/・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+- 株主構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+- 売上・黒字：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+- 存続：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部56頁・検索14回）
+
+## アペルザ
+- 公式URL：https://www.aperza.com（given）
+- 創業年度：設立：2003年（創業）（https://www.aperza.com/company/page/10015201/・1回目）
+- 創業年度：設立：2021年（https://www.aperza.com/company/page/10015210/・1回目）
+- 創業年度：設立：2014年（https://www.aperza.com/company/page/10015183/・1回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-17219・3回目）
+- 所在地：〒 528300 Tonghui Road, Daliang Subdistrict, Shunde District, Foshan, Guangdong, China（https://www.aperza.com/company/page/10015198/・1回目）
+- 所在地：〒 532-0011 大阪府大阪市淀川区西中島3丁目23−15 セントアーバンビル 305号室（https://www.aperza.com/company/page/10015177/・1回目）
+- 所在地：〒 528305 No. 2 Fuhe Road, DaFuji Community, Ronggui Subdistrict, Shunde District, Foshan, Guangdong 528305, China（https://www.aperza.com/company/page/10015207/・1回目）
+- 代表者：代表取締役社長 石原 誠（https://www.aperza.co.jp/press/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E5%8B%95%E7%94%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%80%8E%E3%82%A2%E3%83%9A%E3%83%AB%E3%82%B6tv%E3%80%8F%E3%81%AE/・3回目）
+- 代表者：代表取締役 社長執行役員 福家 利一（https://www.aperza.co.jp/news/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E4%BC%9D%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・3回目）
+- 代表者：代表取締役社長 石原 誠（https://www.aperza.co.jp/news/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E4%BC%9D%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・3回目）
+- 人がどこから来るか：
+  - 「Apérza（アペルザ） | ものづくり産業向けポータル - 製品検索・カタログ・通販」（https://www.aperza.com/・1回目）
+  - 「型番、製品名、メーカー名を検索」（https://www.aperza.com/・1回目）
+  - 「企業検索 | Apérza Catalog（アペルザカタログ） | ものづくり産業向けカタログサイト」（https://www.aperza.com/company/top/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「Description: InoxDome is a metal dome and snap dome manufacturer in Foshan, China, for membrane switches and keypads. SUS301 stainless steel tactile metal domes and snap domes, nickel / silver / gold plated, 2 to 16 mm, 200 to 400 gf, round, 4-leg, cr...」（https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「We are a flexible PCB manufacturer in Shenzhen, China (since 1997), producing FPC, rigid-flex PCB, busbar FPC and flex PCB assembly, certified ISO 9001 / IATF 16949 / ISO 13485.」（https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「We make the whole floor in-house - woven Axminster, hand-tufted, printed nylon, wool and natural-fibre carpet - to your design, colour and specification, and ship it worldwide.」（https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「Description: InoxDome is a metal dome and snap dome manufacturer in Foshan, China, for membrane switches and keypads. SUS301 stainless steel tactile metal domes and snap domes, nickel / silver / gold plated, 2 to 16 mm, 200 to 400 gf, round, 4-leg, cr...」（https://www.aperza.com/company/new/・1回目）
+  - 「We are a flexible PCB manufacturer in Shenzhen, China (since 1997), producing FPC, rigid-flex PCB, busbar FPC and flex PCB assembly, certified ISO 9001 / IATF 16949 / ISO 13485.」（https://www.aperza.com/company/new/・1回目）
+  - 「We make the whole floor in-house - woven Axminster, hand-tufted, printed nylon, wool and natural-fibre carpet - to your design, colour and specification, and ship it worldwide.」（https://www.aperza.com/company/new/・1回目）
+  - 「HumansX株式会社​（ヒューマンズエックス）は、​東京都港区三田に​本社を​置く​フィジ...」（https://www.aperza.com/company/new/・1回目）
+  - 「栃木を拠点とする「新エフエイコム（FACOM、FAST）」は、工場自動化（FA）やDX推進を支...」（https://www.aperza.com/company/new/・1回目）
+  - 「Xiamen Megawa Solar Technology Co., Ltd.」（https://www.aperza.com/company/new/・1回目）
+- 誰が払うか・単価：
+  - 「これは「なんとなく広告を見た」ような受動的なリードではなく、具体的な技術課題・調達課題を抱えて情報収集している見込み客です」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「出展登録は無料で、成果報酬も発生しません」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「料金はアペルザDESKが月額5,000円〜（従量課金あり）で、その他のSaaS機能については要問い合わせです」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「問い合わせが来ても成果報酬は発生せず、掲載期間の制限もありません」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「アペルザの有料広告プランの料金体系は公式サイトには掲載されておらず、個別の問い合わせ・商談を経て提示される仕組みです」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「広告主・掲載企業の立場からのアペルザへの評価として、公開情報から確認できる傾向を整理します」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「比較サイトや広告と並行して、自社商材にマッチした見込み客を集めるには」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「製造業のWeb集客では、多くの製品が並ぶ比較サイトや広告に頼るだけでは、価格や知名度で埋もれてしまうことがあります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「アペルザのメディアを通じた広告宣伝や、営業活動のデジタル化支援、メールを活用したマーケティング、売上拡大につながる業務効率の改善を実現します」（https://www.aperza.co.jp/service/・3回目）
+  - 「≫ 出展プランに関するお問い合わせ・資料請求はこちら」（https://www.aperza.co.jp/press/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E5%8B%95%E7%94%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%80%8E%E3%82%A2%E3%83%9A%E3%83%AB%E3%82%B6tv%E3%80%8F%E3%81%AE/・3回目）
+  - 「キーエンスでは、社内ベンチャーである製造業向けカタログサイト「iPROS（イプロス）」の立ち上げに携わり、営業から資料作成、ウェブサイトの設計図となるHTMLコーディング、広告運用まで幅広く経験しました」（https://shachomeikan.jp/industry_article/4779・3回目）
+  - 「インターネットや広告に対して“信用できない”と、世間の目は決して温かくはなかった」（https://lp.startup-db.com/media/articles/aperza・3回目）
+- 規模：
+  - 「Xiamen Megawa Solar Technology Co., Ltd.（Megawa Solar）は、2010年設立、中国・福建省廈門（Xiamen, Fujian, China）を拠点とする太陽光発電用架台（PV mounting / racking...」（https://www.aperza.com/company/new/・1回目）
+  - 「出展社数は8,500社以上に達しており、業界内でのプレゼンス獲得を目的とした出展先として実績があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「導入企業にはNITTO・EPSON・RYODENといった製造業の大手企業名も挙げられており、信頼性の根拠となっています」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「一方で注意が必要な点として、認知・リーチの規模においてはイプロス（会員数170万人以上）と比較すると差があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「製造業企業は必読！来場者アンケートの分析で分かった展示会出展効果を高めるための3つのポイント（アペルザ市場調査レポート）」（https://prtimes.jp/main/html/searchrlp/company_id/14995・3回目）
+  - 「リアル展示会、参加者の半数が“年内は自粛”か、オンライン参加には93.5%が関心 ― 製造業における展示会実態調査（アペルザ市場調査レポート）」（https://prtimes.jp/main/html/searchrlp/company_id/14995・3回目）
+  - 「これらのメディアは合計で月間約70万人のユニークユーザーにご利用いただいており、製品情報の発信から見込み客との関係構築までをサポートしています」（https://www.jac-recruitment.jp/company/aperza/interview01/・3回目）
+  - 「リアル展示会、参加者の半数が“年内は自粛”か、オンライン参加には93.5%が関心 ― 製造業における展示会実態調査（アペルザ市場調査レポート）」（https://initial.inc/companies/A-17219・3回目）
+  - 「国内の展示会では、規模の大きいものでも来場者数が2〜3万人ほどであり、出展企業数も1千社を超えるものはほんのわずかです」（https://note.com/aperza/n/nc57a617e676c・3回目）
+  - 「会員数：約30万人」（https://note.com/aperza/n/nc57a617e676c・3回目）
+- 積み上がって阻むもの：
+  - 「40年以上の実績を持つTechnikpogo Industrial Co., Ltd.は、ポゴピン（Pogo Pin）コネ...」（https://www.aperza.com/company/new/・1回目）
+  - 「自社オリジナルブランドの無線機「ウェッジ...」（https://www.aperza.com/company/new/・1回目）
+  - 「世界中で「2秒に1台」導入されている圧倒的な実績と高い品質が、その証です」（https://www.aperza.com/company/page/10015177/・1回目）
+  - 「40年以上の実績を持つTechnikpogo Industrial Co., Ltd.は、ポゴピン（Pogo Pin）コネクタ、マグネットコネクタ、充電ピン、高電流スプリングピン、およびカスタム精密部品の専門メーカーです」（https://www.aperza.com/company/page/10015196/・1回目）
+  - 「120以上の業界の集客支援実績をもとに、製造業向けのBtoBマーケティング情報を発信しています」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「出展社数は8,500社以上に達しており、業界内でのプレゼンス獲得を目的とした出展先として実績があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「インタビュー形式の取材動画やオンラインセミナーを無料で視聴でき、累計延べ30万人以上の視聴実績を持ちます」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「顧客データベース管理・コンテンツ管理・メールマーケティング・受発注管理といった機能群を提供し、営業活動のデジタル化を支援します」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「現在のリード獲得コスト（CPL）と商談化率の実績値」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「評価されている点は、専門性の高い技術者・購買担当者に絞られた会員層です」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「一方で注意が必要な点として、認知・リーチの規模においてはイプロス（会員数170万人以上）と比較すると差があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「製造業バイヤーが主な会員層であり、ターゲット層との親和性が高い」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+- 立ち上げ時の打ち手：
+  - 「2003年（創業）」（https://www.aperza.com/company/page/10015201/・1回目）
+  - 「1972年4月21日（創業昭和6年2月）」（https://www.aperza.com/company/page/10015209/・1回目）
+  - 「アペルザは2016年創業の製造業特化BtoBプラットフォームです」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「代表取締役社長の石原誠氏はキーエンス出身で、製造業向けBtoBポータル「イプロス」の立ち上げに直接携わった経験を持つ人物です」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「製造業の商習慣・購買プロセス・情報収集行動を熟知した経営陣によって創業されたことが、サービス設計の精度の高さに直結しています」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「アペルザへの出展はフォームからの申請で始められ、初期設定のハードルは低く設計されています」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「初期設定の完了後、実際に問い合わせが来るまでの期間は製品カテゴリや掲載コンテンツの充実度によって異なります」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「アペルザは「ものづくり産業を世界につなぐ」をパーパスに掲げ、ポータルサイト「Apérza（アペルザ）」や、セールスマーケティングSaaS「Apérza DX（アペルザDX）」など、創業以来、製造業・ものづくり産業向けにさまざまなインターネットサービスを提供してきました」（https://www.aperza.co.jp/news/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E4%BC%9D%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・3回目）
+  - 「ものづくり産業向けオンラインプラットフォームを運営するアペルザ、創業6周年を機に新たなパーパスを策定し、ブランドをリニューアル」（https://prtimes.jp/main/html/searchrlp/company_id/14995・3回目）
+  - 「きっかけは、新卒で就職した企業で社内ベンチャーの立ち上げに参画したこと」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+  - 「その後、会社を離れた後に、英語学習アプリの会社を立ち上げるなど、ビジネスアイデアの具現化に取り組みました」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+  - 「アペルザは、そんなものづくり産業に携わる皆さんのセールスマーケティング業務のDXを支援したく、2016年に立ち上げました」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+- 船井型の段階：
+  - 「FAXやメールで行われる受発注業務をAIで自動データ化し、営業事務の工数削減を支援します」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「製造業ではいまだにFAX文化が根強く残っている企業が多く、この点での課題解決ニーズは高いと言えます」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「PDMシステム比較11選！おすすめシステムの口コミ評判や費…」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「PDMシステム11製品を比較」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「なくならない“FAX出社”、購買・営業活動のオンライン化には6割以上が「関心あり」 ― 製造業における新型コロナウイルスの影響（アペルザ市場調査レポート）」（https://prtimes.jp/main/html/searchrlp/company_id/14995・3回目）
+  - 「アペルザでは2016年7月から取締役を経て、現在は営業顧問を務める」（https://www.aperza.co.jp/about/・3回目）
+  - 「なくならない“FAX出社”、購買・営業活動のオンライン化には6割以上が「関心あり」 ― 製造業における新型コロナウイルスの影響（アペルザ市場調査レポート）」（https://initial.inc/companies/A-17219・3回目）
+  - 「ライバルは他のCRMやSFAではなく、FAXで注文をやりとりする慣習や、経験と勘に頼った営業手法かもしれません」（https://www.wantedly.com/companies/aperza/post_articles/181714・3回目）
+- 株主構成：
+  - 「もともとキーエンス時代は、子会社の経営に携わっていたのですが、子会社であることにだんだんと限界を感じるようになったんです」（https://lp.startup-db.com/media/articles/aperza・3回目）
+  - 「別会社だとしても、価値観の原点は親会社のキーエンスにあります」（https://lp.startup-db.com/media/articles/aperza・3回目）
+  - 「だから子会社として人格をイチから作ることは難しかったです」」（https://lp.startup-db.com/media/articles/aperza・3回目）
+  - 「子会社経営ではなく、独立へと舵を切った」（https://lp.startup-db.com/media/articles/aperza・3回目）
+  - 「それが株主様との良好な関係にもつながると信じています」（https://www.jac-recruitment.jp/company/aperza/interview01/・3回目）
+  - 「新卒でグリー株式会社に入社し、国内大型ソーシャルゲームのプロデューサー及び新規事業立案、子会社の取締役など歴任」（https://www.aperza.co.jp/about/・3回目）
+  - 「アペルザ、日伝の子会社化」（https://initial.inc/companies/A-17219・3回目）
+  - 「日伝[9902]：株式会社アペルザの株式取得（子会社化）に関するお知らせ 2024年3月25日(適時開示) ：日経会社情報DIGITAL：日本経済新聞」（https://www.nikkei.com/nkd/disclosure/tdnr/20240325558626/・3回目）
+  - 「スタートアップのM&A DB：日伝によるアペルザの買収/M&A事例 ｜FIRST CVC株式会社」（https://www.firstcvc.jp/story/ma-815・3回目）
+  - 「スタートアップのM&A DB：日伝によるアペルザの買収/M&A事例」（https://www.firstcvc.jp/story/ma-815・3回目）
+  - 「こちらではウェブサイトの情報を元にしたスタートアップのM&A/買収事例に関するシナジーや背景などを掲載しております」（https://www.firstcvc.jp/story/ma-815・3回目）
+  - 「2024年3月24日、産業用機器の専門商社である日伝は、ものづくり産業のDXを支援するスタートアップであるアペルザの買収を公表しました」（https://www.firstcvc.jp/story/ma-815・3回目）
+- 創業年度：
+  - 「Taigen株式会社は、2021年に設立された経営コンサルティング会社です」（https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「LID CO., LIMITED（2004年設立、中国・仏山）は、カスタムメンブレンスイッチ、グラフィックオーバーレイ、シリコンラバーキーパッド、静電容量タッチパネル、HMIアセンブリのメーカーです」（https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「Taigen株式会社は、2021年に設立された経営コンサルティング会社です」（https://www.aperza.com/company/new/・1回目）
+  - 「LID CO., LIMITED（2004年設立、中国・仏山）は、カスタムメンブレンスイッチ、グラフィックオーバーレイ、シリコンラバーキーパッド、静電容量タッチパネル、HMIアセンブリのメーカーです」（https://www.aperza.com/company/new/・1回目）
+  - 「格理斯威上海法人は2019年に設立され、ドイツの技術を用いて上海・松江工場で製造しています」（https://www.aperza.com/company/new/・1回目）
+  - 「Xiamen Megawa Solar Technology Co., Ltd.（Megawa Solar）は、2010年設立、中国・福建省廈門（Xiamen, Fujian, China）を拠点とする太陽光発電用架台（PV mounting / racking...」（https://www.aperza.com/company/new/・1回目）
+  - 「1966年の設立以来ミネアポリスに本社を置き、10,000点を超える豊富なラインナップと、世界5,500名以上の強力なグローバルネットワークで、お客様の生産性向上を全力でサポートいたします」（https://www.aperza.com/company/page/10015177/・1回目）
+  - 「2003年（創業）」（https://www.aperza.com/company/page/10015201/・1回目）
+  - 「Taigen株式会社は、2021年に設立された経営コンサルティング会社です」（https://www.aperza.com/company/page/10015210/・1回目）
+  - 「LID CO., LIMITED（2004年設立、中国・仏山）は、カスタムメンブレンスイッチ、グラフィックオーバーレイ、シリコンラバーキーパッド、静電容量タッチパネル、HMIアセンブリのメーカーです」（https://www.aperza.com/company/page/10015203/・1回目）
+  - 「1972年4月21日（創業昭和6年2月）」（https://www.aperza.com/company/page/10015209/・1回目）
+  - 「アペルザは2016年創業の製造業特化BtoBプラットフォームです」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+- 売上・黒字：
+  - 「日本は貿易赤字に転落し、世界を席巻した製造業の先行きも不透明になりました」（https://shachomeikan.jp/industry_article/4779・3回目）
+- 存続：
+  - 「無料出展から始め、成果に応じて統合活用へと移行できる設計になっています」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「教育系スタートアップは順調に成長しており、決して撤退するような状況ではなかった」（https://lp.startup-db.com/media/articles/aperza・3回目）
+  - 「「アペルザは何をやっている会社なのか？」と疑問をもたれがちという課題も、この統合によって解消されるはずです」（https://www.jac-recruitment.jp/company/aperza/interview01/・3回目）
+  - 「2016年7月の株式会社FAナビ及びオートメ新聞株式会社との経営統合を期に株式会社アペルザの代表取締役社長に就任する」（https://www.wantedly.com/companies/aperza/post_articles/181714・3回目）
+- 検索結果の抜粋：
+  - 「ものづくり産業向け ... - Apérza Catalog（アペルザカタログ） — ものづくり産業向け ... - Apérza Catalog（アペルザカタログ） Apérza https://www.aperza.com > catalog」（https://www.aperza.com/catalog/・3回目）
+  - 「アペルザ の評判・口コミを徹底調査！広告掲載料金と製造業で ... — アペルザ の評判・口コミを徹底調査！広告掲載料金と製造業で ... キャククル https://www.shopowner-support.net > aperuza」（https://www.shopowner-support.net/attracting_customers/manufacturing/aperuza/・3回目）
+  - 「サービス - 株式会社アペルザ — サービス - 株式会社アペルザ 株式会社アペルザ https://www.aperza.co.jp > service」（https://www.aperza.co.jp/service/・3回目）
+  - 「Apérza Catalog（アペルザカタログ） | ものづくり産業向け ... — Apérza Catalog（アペルザカタログ） | ものづくり産業向け ... Apérza（アペルザ） https://tw.cluez.biz > ...」（https://tw.cluez.biz/ja・3回目）
+  - 「製造業向け動画プラットフォーム『 アペルザ TV』の延べ 利用 ... — 製造業向け動画プラットフォーム『 アペルザ TV』の延べ 利用 ... 株式会社アペルザ https://www.aperza.co.jp > press > 製造業向け動画プラッ...」（https://www.aperza.co.jp/press/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E5%8B%95%E7%94%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%80%8E%E3%82%A2%E3%83%9A%E3%83%AB%E3%82%B6tv%E3%80%8F%E3%81%AE/・3回目）
+  - 「株式会社日伝との資本業務提携に関するお知らせ — 株式会社日伝との資本業務提携に関するお知らせ 株式会社アペルザ https://www.aperza.co.jp > news > 株式会社日伝との資本...」（https://www.aperza.co.jp/news/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E4%BC%9D%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・3回目）
+  - 「アペルザ のプレスリリース - PR TIMES — アペルザ のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/14995・3回目）
+  - 「株式会社 アペルザ | Yokohama Kanagawa - Facebook — 株式会社 アペルザ | Yokohama Kanagawa - Facebook Facebook https://www.facebook.com > corp.aperza」（https://www.facebook.com/corp.aperza/?locale=ja_JP・3回目）
+  - 「アペルザ ｜STARTUP DB（スタートアップデータベース） — アペルザ ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/7LPWpoVUReOGz5Em・3回目）
+  - 「株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE — 株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_aperza」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+  - 「業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 — 業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/4779・3回目）
+  - 「「軸足を半歩ずつずらし成長を」 アペルザ ・石原誠が伝えたい ... — 「軸足を半歩ずつずらし成長を」 アペルザ ・石原誠が伝えたい ... STARTUP DB ENTERPRISE https://lp.startup-db.com > media > articles > aperza」（https://lp.startup-db.com/media/articles/aperza・3回目）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部54頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部54頁・検索14回）
+
+## ニュースイッチ
+- 公式URL：https://newswitch.jp（given）
+- 創業年度：開設：2015年4月（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+- 人がどこから来るか：
+  - 「ニュースイッチでは、企業や業界団体、自治体などのブランディングやサービス・イベントを分かりやすく紹介するメニューを展開しています」（https://newswitch.jp/ads・1回目）
+  - 「SUVの王道を極める…マツダ「CX－5」、開発者は語る」（https://newswitch.jp/p/50196・1回目）
+  - 「話題のテーマを専門家に学べる有料ウェビナーなどを定期で開催しています」（https://newswitch.jp/about・1回目）
+  - 「最新の記事や「クルマ」「半導体」などテーマに沿った編集部おすすめ記事を紹介」（https://newswitch.jp/about・1回目）
+  - 「これまでに公開した3万本以上の記事を検索できます」（https://newswitch.jp/about・1回目）
+  - 「https://corp.nikkan.co.jp/p/privacy/index」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「電話、FAX、電子メール、郵送等による連絡がとれない場合」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「日刊工業新聞社（以下、当社）では新聞発行をはじめ、展示会やシンポジウムの開催、書籍や雑誌の発行、電子媒体による情報提供など幅広い事業を展開しています」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「新聞、書籍、雑誌、定期刊行物、電子メール配信サービスなどのご案内、ご購入の確認、お届けをするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「展示会やシンポジウム、セミナーなどのご案内、お申し込みの確認、入場券などをお届けするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「業界や技術に詳しい記者や専門家が広告記事を執筆および編集し、企業、業界団体、自治体などのブランディングやサービス、イベントを分かりやすく紹介しています」（https://media-radar.jp/detail3584.html・3回目）
+- 誰が払うか・単価：
+  - 「広告アーカイブ一覧｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/ads・1回目）
+  - 「本サービスにおいて広告または宣伝を行っている広告主との取引は、登録者と当該広告主の責任において行っていただきます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「つまり、商品等の代金の支払い、発送、契約条件の決定、保証、担保責任等は、すべて、登録者と広告主が当事者として責任を負うことになります」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「当社は、本サービスにおいて掲載されている広告等によって行われる取引に起因する損害および広告等が掲載されたこと自体に起因する損害については一切責任を負いません」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「報道・事業活動の一環としてアンケート調査やプレゼント応募などを行い、購読者や顧客の皆様から、氏名、年齢、電話番号、勤務先、住所、メールアドレス、金融機関の口座番号などをお聞きすることがあります」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「ウェブサイト上の広告配信状況の確認、広告効果の分析、行動ターゲティング広告の表示」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「当社のウェブサイトとリンクしている第三者のリンク先や、広告主のウェブサイトで行われている個人情報の収集・利用・取り扱いについては一切責任を負いません」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「当社ではクッキーを利用し入手した情報について、コンテンツや広告の配信、特定のサービスにおける確認等で使用することはありますが、不正に使用することは一切ありません」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「当社では購読者や顧客の皆様から取得した個人情報を、特定の個人と識別できないように加工し、復元もできないようにした匿名加工情報を作成しています」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「この匿名加工情報は、サービスの改善や新サービスの企画・開発、その他、購読者や顧客の皆様に有益な目的のために作成しています」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「国内No.1の広告媒体資料・マーケティング資料のポータルサイト」（https://media-radar.jp/detail3584.html・3回目）
+- 規模：
+  - 「「登録者」とは、本サービスを利用するために当社に日刊工IDの登録を申し込み、当社が登録を認めた個人をいい、本サービス上で「日刊工ID会員」と呼ぶことがあります」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「「利用契約」とは、当社と登録者との間に成立する、本サービスの利用に関する契約をいいます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「「認証情報」とは、当社が登録者に発行した本サービスにログインするためのＩＤおよびパスワードをいいます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「本規約の変更が、登録者の一般の利益に適合するとき」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「当社は、登録者に対する本サービスの提供に関して必要となる業務の全部または一部を提携先に委託することができます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「登録者は、当社に届け出た内容に変更が生じた場合には、速やかに所定の方法で変更の届出をするものとします」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「前項の届出がなかったことで登録者に不利益を被ったとしても、当社はその一切の責任を負いません」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「登録者は本サービスを利用するために必要な設備（パソコン、スマートフォン、タブレット等の携帯型通信端末、ソフトウェア、高速インターネットへの接続環境等）を、自己の費用と責任で準備するものとします」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「登録者は、登録者が準備した設備が当社の示す利用環境に適合していないために、本サービスの利用ができない場合があることを了承します」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「また、登録者固有の利用環境、コンピュータの設定等によって本サービスの利用ができない場合があることを了承します」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「第９条 登録者の制限」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「登録者は、当社が利用を認めた本人のみ本サービスを利用できます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+- 積み上がって阻むもの：
+  - 「星神社に記す若き日の誓い 【三菱ブランドの血脈－広報が受け継ぐ彌太郎の志＃2】」（https://newswitch.jp/・1回目）
+  - 「業界や技術に精通した記者や専門家が制作したPRコンテンツをまとめました」（https://newswitch.jp/ads・1回目）
+  - 「会員登録｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/register・1回目）
+  - 「ニュースイッチでは会員向けに日々の情報収集に役立つ機能やサービスをご提供します」（https://newswitch.jp/register・1回目）
+  - 「ニュースイッチの会員登録には日刊工IDでのログインが必要となります」（https://newswitch.jp/register・1回目）
+  - 「日刊工IDをまだお持ちでない方は先に日刊工IDに新規登録いただいたあと、ニュースイッチの会員登録にお進みください」（https://newswitch.jp/register・1回目）
+  - 「【第二製品開発本部 第二製品開発部 第一プロジェクト統括グループ 車両開発主管 山本哲也氏】」（https://newswitch.jp/p/50196・1回目）
+  - 「最先端ロボットの動きや話題の現場を伝える動画、記者がニュースを音声解説する動画などを配信しています」（https://newswitch.jp/about・1回目）
+  - 「最新の記事や「クルマ」「半導体」などテーマに沿った編集部おすすめ記事を紹介」（https://newswitch.jp/about・1回目）
+  - 「・会員向けに限定情報やクーポン、イベント優先受付など、」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「「登録者」とは、本サービスを利用するために当社に日刊工IDの登録を申し込み、当社が登録を認めた個人をいい、本サービス上で「日刊工ID会員」と呼ぶことがあります」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「「登録情報」とは、日刊工ID会員が当社に対して届け出た個人情報等をいいます」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+- 立ち上げ時の打ち手：
+  - 「初期費用なしで資料・セミナー情報を掲載いただけます」（https://media-radar.jp/detail3584.html・3回目）
+  - 「創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃 | 広報会議」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「月刊『工場管理』編集部、『機械設計』編集部を経て、新事業推進プロジェクトにて「ニュースイッチ」を立ち上げる」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「機械や自動車、ITなどすべての産業・行政の情報を扱う総合産業紙「日刊工業新聞」の創刊100周年にあわせて立ち上がったメディアです」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？｜クロフィー編集部」（https://note.com/chrophy/n/n4aad0c8d4e7a・3回目）
+  - 「創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？」（https://note.com/chrophy/n/n4aad0c8d4e7a・3回目）
+- 船井型の段階：
+  - 「電話、FAX、電子メール、郵送等による連絡がとれない場合」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「日刊工業新聞社（以下、当社）では新聞発行をはじめ、展示会やシンポジウムの開催、書籍や雑誌の発行、電子媒体による情報提供など幅広い事業を展開しています」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「新聞、書籍、雑誌、定期刊行物、電子メール配信サービスなどのご案内、ご購入の確認、お届けをするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「関連会社やスポンサーなどから、展示会やセミナー、商品・サービスに関する情報をDMや電子メールでお送りするため」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+- 株主構成：
+  - 「第２１条 当社による事業譲渡」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「KDDI 子会社2社で683億円減損損失」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+- 創業年度：
+  - 「創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃 | 広報会議」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「創刊100周年、日刊工業新聞のメディア「ニュースイッチ」編集部へ突撃」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「機械や自動車、ITなどすべての産業・行政の情報を扱う総合産業紙「日刊工業新聞」の創刊100周年にあわせて立ち上がったメディアです」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？｜クロフィー編集部」（https://note.com/chrophy/n/n4aad0c8d4e7a・3回目）
+  - 「創業100年超の新聞社が仕掛けたウェブメディア「ニュースイッチ」30代編集長って何者？」（https://note.com/chrophy/n/n4aad0c8d4e7a・3回目）
+- 売上・黒字：
+  - 「京セラ、通期見通し上方修正…売上高最高の要因」（https://newswitch.jp/・1回目）
+  - 「京セラ、通期見通し上方修正…売上高最高の要因」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「キオクシアの4-12月期見通し、営業利益19倍…「明らかにスーパーサイクルに入っている」」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「売上高4.7兆円…キヤノン、通期下方修正のワケ」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「ファナック、初の売上高1兆円超…通期上方修正の要因」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「ニデックの前3月期、当期赤字5646億円…減損損失6321億円の内訳は?」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「米戸建ての市場低迷…積水ハウス、通期売上高を下方修正した要因」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由（ニュースイッチ）｜ｄメニューニュース（NTTドコモ）」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+  - 「ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+  - 「産業機械向けの需要が底堅く推移するほか、為替の円安も追い風となり、全社が通期の売上高を上方修正した」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+  - 「日本精工は２７年３月期の売上高を７月公表比１００億円増の１兆５００億円、営業利益を同６０億円増の５６０億円に上方修正した」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+- 存続：
+  - 「前席は１２・３インチサイズの画面を二つ並べた統合型インターフェースで、先進さを演出するとともに視界を確保した」（https://newswitch.jp/p/50196・1回目）
+  - 「譲渡益514億円計上へ…JDIの茂原工場、新光電気に売却」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「日立、日立建機の株式すべて売却…特別利益1799億円計上」（https://newswitch.jp/keyword/detail/53488・1回目）
+  - 「登録者が、本サービスの利用を終了する場合は、当社所定の方法により登録者自身が退会（利用契約の解約）の手続きをするものとし、当社が確認したことをもって登録者が退会したものとします」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「破産、民事再生開始、会社更生開始もしくは特別清算開始の申立てがあったとき、または信用状態に重大な不安が生じた場合」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「第２１条 当社による事業譲渡」（https://nikkanko-id.nikkan.co.jp/login?state=hKFo2SBuODNfV3FhWHJMTDJBd2d4a2U3Y0tfSUJDbkF3QzJab6FupWxvZ2luo3RpZNkgQXBDWWgtQ21mX1ZIeGRFNl8xbWdLUzhRb0VxeHItYmujY2lk2SBOTlRmWW5IeXFuYVo4V2FvT0hUbjNEa2t3WTZMQVR3RQ&client=NNTfYnHyqnaZ8WaoOHTn3DkkwY6LATwE&protocol=oauth2&response_type=code&redirect_uri=https%3A%2F%2Fnewswitch.jp%2Fusers%2Flogin_callback&scope=openid%20email%20profile&audience=https%3A%2F%2Fm2m.newswitch.ndi-portal.com・1回目）
+  - 「ＮＴＮは２６年４―９月期に欧米での自動車の量産案件終了が影響した一方、産機向けの物量が増加」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+  - 「日本精工との経営統合関連費用として４４億円を見込むが、産機向けの販売規模増加で吸収できると見る」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-50701・3回目）
+- 検索結果の抜粋：
+  - 「広告掲載ガイド - 日刊工業新聞社 — 広告掲載ガイド - 日刊工業新聞社 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > adguide」（https://corp.nikkan.co.jp/p/adguide・3回目）
+  - 「ニュースイッチ - NEWSWITCH - メディアレーダー — ニュースイッチ - NEWSWITCH - メディアレーダー メディアレーダー https://media-radar.jp > 媒体資料を探す」（https://media-radar.jp/detail3584.html・3回目）
+  - 「株式会社日刊工業新聞社 Copyright 2026 NIKKAN KOGYO ... — 株式会社日刊工業新聞社 Copyright 2026 NIKKAN KOGYO ... 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...」（https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202604-07.pdf・3回目）
+  - 「日刊工業新聞 -広告掲載・ 料金表 ・ターゲティングデータ、特徴 — 日刊工業新聞 -広告掲載・ 料金表 ・ターゲティングデータ、特徴 大日広告社 https://www.dainichiad.co.jp > html > baitai」（https://www.dainichiad.co.jp/html/baitai/1002.php・3回目）
+  - 「2025.08～ 2025.11 - 日刊工業新聞社 — 2025.08～ 2025.11 - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...」（https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202508-11.pdf・3回目）
+  - 「動画一覧｜ ニュースイッチ by 日刊工業新聞社 — 動画一覧｜ ニュースイッチ by 日刊工業新聞社 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > movie」（https://newswitch.jp/movie・3回目）
+  - 「【 ニュースイッチ ラジオ】#90 最高値更新も視野、「銅」相場 ... — 【 ニュースイッチ ラジオ】#90 最高値更新も視野、「銅」相場 ... YouTube Music https://music.youtube.com > podcast」（https://music.youtube.com/podcast/S4pa__CtdyE・3回目）
+  - 「2025.04～ 2025.07 - 日刊工業新聞社 — 2025.04～ 2025.07 - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > adguide > mediadata > ne...」（https://corp.nikkan.co.jp/adguide/mediadata/newswitch_mediaguide_202504-07.pdf・3回目）
+  - 「届けた情報への反応が可視化される面白さはウェブ媒体ならでは — 届けた情報への反応が可視化される面白さはウェブ媒体ならでは 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > recruit > topics > interview」（https://corp.nikkan.co.jp/recruit/topics/interview/05.html・3回目）
+  - 「記者・編集者｜ ニュースイッチ by 日刊工業新聞社 — 記者・編集者｜ ニュースイッチ by 日刊工業新聞社 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > editors」（https://newswitch.jp/editors・3回目）
+  - 「日刊工業新聞のメディア「 ニュースイッチ 」編集部へ突撃 — 日刊工業新聞のメディア「 ニュースイッチ 」編集部へ突撃 宣伝会議 https://www.sendenkaigi.com > media > kouhoukaigi」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/006094/・3回目）
+  - 「昆梓紗@ ニュースイッチ (日刊工業新聞社) (@NikkanNSkon) / X — 昆梓紗@ ニュースイッチ (日刊工業新聞社) (@NikkanNSkon) / X X https://x.com > NikkanNSkon」（https://x.com/NikkanNSkon・3回目）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部46頁・検索14回）
+
+## 宙畑
+- 公式URL：https://sorabatake.jp（given）
+- 創業年度：開設日：2018年12月18日（立ち上げは2017年2月19（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/032504/・3回目）
+- 従業員数：459名（https://www.sakura.ad.jp/corporate/information/newsreleases/2018/12/18/1968199037/・3回目）
+- 売上高：170億3,337万円（平成30年3月期）（https://www.sakura.ad.jp/corporate/information/newsreleases/2018/12/18/1968199037/・3回目）
+- 代表者：城戸 彩乃（https://www.sakura.ad.jp/corporate/information/newsreleases/2018/12/18/1968199037/・3回目）
+- 代表者：中村 友弥（https://www.sakura.ad.jp/corporate/information/newsreleases/2018/12/18/1968199037/・3回目）
+- 人がどこから来るか：
+  - 「「誰もが衛星データ利用を手軽にできる時代に」JAXA Earth APIにおける生成AI連携の解説_PR」（https://sorabatake.jp/・1回目）
+  - 「JAXA、世界の湿地保全に向けてラムサール条約事務局に地球観測データを提供する覚書を締結【宇宙ビジネスニュース】」（https://sorabatake.jp/・1回目）
+  - 「2026年9月28日、宇宙航空研究開発機構（JAXA）は、湿地の保全強化に向け、ラムサール条約事務局と新たな了解覚書を締結しました」（https://sorabatake.jp/・1回目）
+  - 「追加の打ち上げ契約や機体の量産計画など、記者会見で語られた今後の事業展開も紹介します」（https://sorabatake.jp/・1回目）
+  - 「SpaceXのAI事業の売上がStarlinkを超え黒字化」（https://sorabatake.jp/・1回目）
+  - 「SpaceXの7〜9月期決算は、売上高が前年同期の約2.6倍となり、AI事業が四半期で黒字化しました」（https://sorabatake.jp/・1回目）
+  - 「次世代衛星1万5,000機の認可に続き、SpaceXはなぜ全米の「地上の周波数」を買うのか【宇宙ビジネスニュース】」（https://sorabatake.jp/・1回目）
+  - 「SpaceXが全米の地上の周波数を買う契約を結びました」（https://sorabatake.jp/・1回目）
+  - 「衛星データプラットフォーム構想を企画し、現在、（株）Tellusの代表取締役社長である山﨑秀人さん、さくらインターネットの共同創業者であり、フェローで、衛星データプラットフォームTellusの立ち上げメンバーでもある小笠原治さんが語るTellusの役割と今後の展望を紹介します」（https://sorabatake.jp/・1回目）
+  - 「」海外のトマト栽培を変えるカゴメxNECの新規事業に迫る！」（https://sorabatake.jp/・1回目）
+  - 「総合研究大学院大学で、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施」（https://sorabatake.jp/break-into/space-interview/・1回目）
+  - 「現在は総合研究大学院大学に所属し、元JAXA宇宙科学研究所長、小惑星探査機「はやぶさ」の成功に不可欠であったイオンエンジンの開発者である國中均先生と、Tellus Globalの代表取締役である山﨑秀人さんとの対談取材を実施」（https://sorabatake.jp/break-into/space-interview/・1回目）
+- 誰が払うか・単価：
+  - 「宇宙ビジネスの活性を目的に、「自社の宇宙事業について宙畑で発信をしたい」「宇宙ビジネスに関するイベントの集客を強化したい」など、ご要望に応じた広告記事の相談も承っています」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「宙畑の媒体資料は、本フォームにてお問合せいただいた後、」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「１．広告記事のお問合せ」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「３．打合せ内容をもとに広告記事掲載契約の締結」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「広告記事を通じて、どんな読者（ターゲット）に、どのような行動（アクション）を起こしてほしいですか？」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「Q.宙畑側で執筆ではなく、寄稿の形で広告記事を掲載することは可能か？また、その場合ディスカウントなど相談可能か」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「Q.広告記事内で利用したい図やイラストを宙畑側で作成を依頼することは可能か」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「Q.通常の記事と広告記事の見え方に違いはあるか」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「A.広告記事には、タイトルの末尾やタグで「PR」と明記させていただきます」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「ほか、広告記事に関して確認したいことがあれば記載ください」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「宙畑では、宇宙ビジネスの活性化を目的に、広告記事の相談も承っています」（https://www.tellusxdp.com/ja/promotion/・3回目）
+  - 「宙畑の媒体資料は、本フォームにてお問合せいただいた後、折り返しご連絡させていただく際に提供させていただきます」（https://www.tellusxdp.com/ja/promotion/・3回目）
+- 規模：
+  - 「そのようななか、東日本大震災から10年以上の時間が経過し「相馬藩の元気な姿を見せることが、能登の皆さんへの希望になる」と相馬さん（殿）が参加者全員に向けて語りかけられたのです」（https://sorabatake.jp/45183/・1回目）
+  - 「実際に、参加者には様々な方がいらっしゃいました」（https://sorabatake.jp/45183/・1回目）
+  - 「永崎さんと赤浦さんの対談の話題は宇宙ビジネスの現在地と日本の課題、Space BDの強みと多岐に渡り、イベントに集まった参加者を惹きつけました」（https://sorabatake.jp/39491/・1回目）
+  - 「トークセッションの後には、事業サイドとエンジニアサイドにわかれ、参加者が気になっていることを実際にSpace BDの社員さんたちに質問ができる時間や、参加者同士で交流ができる懇親会の時間も設けられており、会場はずっと賑わっていました」（https://sorabatake.jp/39491/・1回目）
+  - 「約10万～15万PV／月」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/032504/・3回目）
+  - 「その後、宙畑は月間UU7万をゆうに越えるメディアに成長しています」（https://note.com/kclutch3/n/nf4f3ef65df46・3回目）
+- 積み上がって阻むもの：
+  - 「Synspective、小型SAR衛星の観測能力を複数ユーザーでシェアリングする「OMNIA」を発表【宇宙ビジネスニュース】」（https://sorabatake.jp/・1回目）
+  - 「Synspectiveが9月15日に発表した、複数ユーザーで小型SAR衛星コンステレーションの観測能力をシェアリングする新プログラム「Synspective OMNIA」とは」（https://sorabatake.jp/・1回目）
+  - 「追加の打ち上げ契約や機体の量産計画など、記者会見で語られた今後の事業展開も紹介します」（https://sorabatake.jp/・1回目）
+  - 「2026年9月に公開された衛星データの利活用に関する論文の中でも宙畑編集部が気になったものをピックアップしました」（https://sorabatake.jp/・1回目）
+  - 「宙畑編集部・河辺真典（株式会社インバイトユー）」（https://sorabatake.jp/42647/・1回目）
+  - 「いずれ仕事が始まったら自分のグループや自分の本部の話はどんどん入ってきますし、最初にインストールすべき重要なことは何かをすごく考えて、大きく変えましたね」（https://sorabatake.jp/38428/・1回目）
+  - 「多くの部品が1社独占か、ごく限られた選択肢しかなくて、当然価格も高止まりしてしまうんです」（https://sorabatake.jp/40510/・1回目）
+  - 「しかも、それらの部品が“実績品”でなければならない、という業界特有の制約もあります」（https://sorabatake.jp/40510/・1回目）
+  - 「でも、その“実績”を積むための」（https://sorabatake.jp/40510/・1回目）
+  - 「つまり、宇宙に挑戦したい企業——特に製造業の方々に対して、低コストかつ柔軟な実証機会を提供し、その結果を持ち帰って“実績化”してもらう」（https://sorabatake.jp/40510/・1回目）
+  - 「例えば、私の所属する生産技術グループでは、まず「あるモノを組み上げる」という大きなチケットを発行し、その中で具体的な作業を小さなチケットとして分けて発行していく、という使い方をしています」（https://sorabatake.jp/43729/・1回目）
+  - 「（7）編集部がグッと来たポイント」（https://sorabatake.jp/43729/・1回目）
+- 立ち上げ時の打ち手：
+  - 「衛星データプラットフォーム構想を企画し、現在、（株）Tellusの代表取締役社長である山﨑秀人さん、さくらインターネットの共同創業者であり、フェローで、衛星データプラットフォームTellusの立ち上げメンバーでもある小笠原治さんが語るTellusの役割と今後の展望を紹介します」（https://sorabatake.jp/・1回目）
+  - 「「宇宙業界は閉じていなかった」元リクルート上席執行役員が宇宙業界特化の人材エージェントを立ち上げたワケ」（https://sorabatake.jp/・1回目）
+  - 「「宇宙業界は閉じていなかった」元リクルート上席執行役員が宇宙業界特化の人材エージェントを立ち上げたワケ | 宙畑」（https://sorabatake.jp/42647/・1回目）
+  - 「どのような経緯で今のインバイトユーの立ち上げにつながっているのでしょうか？」（https://sorabatake.jp/42647/・1回目）
+  - 「：そこは最初のイメージとのギャップだったわけですね」（https://sorabatake.jp/42647/・1回目）
+  - 「：インバイトユーの立ち上げから1年が経過しました」（https://sorabatake.jp/42647/・1回目）
+  - 「人事は社長の意思や経営陣の決めた方針といった会社の源流に近い部門なので、最初の1滴をどうやって綺麗な水のまま本流に流していくのかが重要な仕事です」（https://sorabatake.jp/38428/・1回目）
+  - 「そのうえで、最初の1滴に違和感があれば率直に伝えられるような関係性をちゃんと構築したいと考えていますので、中村との最初のコミュニケーションでも、近しくやり取り、協議ができそうだ、と嬉しかったのを記憶しています」（https://sorabatake.jp/38428/・1回目）
+  - 「最初の1ヶ月半で検証して、実際はこうでしたとか全体の把握をまず行い、気になったことはどんどん話しました」（https://sorabatake.jp/38428/・1回目）
+  - 「創業者が大学の先輩で、著書を読んで「この人に会いたい」と思い、手紙を書いたんです」（https://sorabatake.jp/40510/・1回目）
+  - 「：その後、楽天に11年在籍し、物流事業の立ち上げや再構築に関わりました」（https://sorabatake.jp/40510/・1回目）
+  - 「ゼロから事業を作る場合、小さくてもまずはユースケースを作り、そこから事実を積み上げていくというプロセスが非常に重要です」（https://sorabatake.jp/40510/・1回目）
+- 船井型の段階：
+  - 「書籍を読んでいくと「この課題に対してはこういう工夫で乗り越えた」という記述がたくさん出てきます」（https://sorabatake.jp/43241/・1回目）
+  - 「SARに関する書籍（2026/2/27に出版）」（https://sorabatake.jp/43241/・1回目）
+  - 「：海外への現地視察は、まさにご経験が生きた瞬間だったのではないかと思います」（https://sorabatake.jp/47138/・1回目）
+  - 「：三井物産を退職された後、様々なご経験を経て、赤浦さんから「宇宙事業を一緒にやりましょう」と提案されたこと、また、「宇宙業界は黎明期で産業化していない」「宇宙産業には商社的なスキルや発想を持つプレイヤーがいない」と気付かれたことがSpace BD起業の大きなきっかけだったと永崎さんの書籍『小さな宇宙ベンチャーが起こしたキセキ』で拝見しました」（https://sorabatake.jp/39520/・1回目）
+  - 「視察や大会で全国から来られた方に、語り部の方が被災地を案内する機会を設けています」（https://sorabatake.jp/45183/・1回目）
+  - 「■出版・編集者&ライター：女性マンガ誌の編集者、「SPA！」（扶桑社）や情報誌ライター、お笑い芸人専門雑誌の編集＆ライターなどを経験▼企画・編集：書籍」（https://note.com/cm_academy/n/n2f71388736c0・3回目）
+  - 「Iridium Communications（IRDM）」（https://note.com/kabutabi2000/n/nf08e5bd93315・3回目）
+  - 「：MarketsandMarkets「Satellite Internet Market Report 2025-2030」、Precedence Research、Technavio、Mordor Intelligence、Grand View Research」（https://note.com/kabutabi2000/n/nf08e5bd93315・3回目）
+  - 「：MarketsandMarkets「Earth Observation Small Satellite Market」、Grand View Research、Spherical Insights、Strategic Market Research、Research and Markets」（https://note.com/kabutabi2000/n/nf08e5bd93315・3回目）
+  - 「文部科学省 国立研究開発法人審議会JAXA部会 委員・経済産業省 2050年カーボンニュートラルに向けた若手有識者研究会・委員などを務める」（https://note.com/nec_iise/n/n90a6ade6d705・3回目）
+- 株主構成：
+  - 「そのようなタイミングでマイクロアドという一つの事業部が子会社化するタイミングがあり、専任の人事担当として丸ごと人事をみれるチャンスをいただきました」（https://sorabatake.jp/38428/・1回目）
+  - 「マイクロアドが子会社化したタイミングでは社員40人ぐらいでしたが、組織が100人になるまで、ひとり人事としてあれもこれも取り組ませてもらいました」（https://sorabatake.jp/38428/・1回目）
+  - 「海外の子会社にも入り込んで、楽天の考え方やプロジェクトマネジメント、コスト管理などを徹底的に叩き込んでいきました」（https://sorabatake.jp/40510/・1回目）
+  - 「：ある日、楽天時代の後輩が「ElevationSpaceに出資しました！」っていうキラキラした投稿をFacebookに上げていて、それが目に止まったんです」（https://sorabatake.jp/40510/・1回目）
+  - 「その後、計画した通りに航空機専門学校の航空機整備科を卒業して、日本航空の子会社で航空機整備を手がけるJALエンジニアリングに就職」（https://sorabatake.jp/43729/・1回目）
+  - 「：私が最初に入社したのは、2021年に上場したAI企業のエクサウィザーズの子会社でした」（https://sorabatake.jp/43241/・1回目）
+  - 「宇宙産業の中でも継続的にビジネスをやるうえで最もコストが厳しいのはロケットで、実際に衛星メーカーとロケットメーカーの買収、合併が世界的に起こり始めています」（https://sorabatake.jp/46245/・1回目）
+  - 「上場会社として株主に対しての価値を提供するため、（ベンチャーのように急激な成長が求められるということはなく）持続的に年数％の成長を続け、5年間でどれだけの売上増加を目指すかが定められます」（https://sorabatake.jp/39407/・1回目）
+  - 「出資してくださったベンチャーキャピタルのご縁でつながったのですが、本当にありがたい出会いでした」（https://sorabatake.jp/40253/・1回目）
+  - 「：子会社のIHIエアロスペースが固体ロケット「イプシロン」を担当」（https://note.com/kabutabi2000/n/nf08e5bd93315・3回目）
+  - 「：子会社Thales Alenia Spaceで衛星製造」（https://note.com/kabutabi2000/n/nf08e5bd93315・3回目）
+- 創業年度：
+  - 「衛星データプラットフォーム構想を企画し、現在、（株）Tellusの代表取締役社長である山﨑秀人さん、さくらインターネットの共同創業者であり、フェローで、衛星データプラットフォームTellusの立ち上げメンバーでもある小笠原治さんが語るTellusの役割と今後の展望を紹介します」（https://sorabatake.jp/・1回目）
+  - 「2022年に株式会社インバイトユー設立代表取締役社長就任」（https://sorabatake.jp/42647/・1回目）
+  - 「その点、もともとエンジニア出身であり、技術系人材紹介会社の設立に携わり、トップとして事業を牽引してきた、現在弊社の執行役員である河辺の参画は非常にありがたい出来事でした」（https://sorabatake.jp/42647/・1回目）
+  - 「創業者が大学の先輩で、著書を読んで「この人に会いたい」と思い、手紙を書いたんです」（https://sorabatake.jp/40510/・1回目）
+  - 「を開設する際には、土地の契約から住民説明会の調整までほとんど私でやりました」（https://sorabatake.jp/40510/・1回目）
+  - 「安全で持続可能な「水」を用いた推進機開発をし、すでに宇宙空間での実績もある宇宙ベンチャーPale Blueの創業者である浅川純さんに、創業から5年間という宇宙開発としては決して長くない期間に実績を積み重ねたその歩みと、これから目指す未来について伺いました」（https://sorabatake.jp/tag/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/・1回目）
+  - 「ElevationSpaceは大学発スタートアップで、創業者であり、代表の小林さんは、技術のバックグラウンドを持っている方です」（https://sorabatake.jp/47117/・1回目）
+  - 「会社の創業時についてそこまで詳しくはありませんが、早い段階からハードウェアの開発が始まっていたのではないかと思います」（https://sorabatake.jp/47117/・1回目）
+  - 「また、SpaceXの創業者であるイーロン・マスク氏が「確実に動くために作る費用を安くすることも重要ですが、作る時間を短くすることは、人件費を減らすことができ、その方が効果が大きい」（https://sorabatake.jp/46542/・1回目）
+  - 「日本では、ベンチャー企業の設立が少しずつ増えてきているのが見て取れます」（https://sorabatake.jp/46371/・1回目）
+  - 「当社はNTTデータが2024年に設立した会社で、衛星の開発・運用からデータの利用までを一貫して手がけています」（https://sorabatake.jp/46245/・1回目）
+  - 「NTTとスカパーＪＳＡＴがSpace Compassという合弁会社を設立して宇宙空間での通信インフラ構築に取り組んでいるように、大手企業同士が連携してSpaceXやブルーオリジンに対抗できるような枠組みができれば、日本の宇宙産業にも十分チャンスはあると考えています」（https://sorabatake.jp/45671/・1回目）
+- 売上・黒字：
+  - 「SpaceXのAI事業の売上がStarlinkを超え黒字化」（https://sorabatake.jp/・1回目）
+  - 「SpaceXの7〜9月期決算は、売上高が前年同期の約2.6倍となり、AI事業が四半期で黒字化しました」（https://sorabatake.jp/・1回目）
+  - 「これは他のセグメントにはない大きな学びです」（https://sorabatake.jp/47138/・1回目）
+  - 「：永崎さんがSpace BDを起業されて8年が経過した今、宇宙商社として確固たるポジションを築かれ、2024年8月期には通期黒字も達成されています」（https://sorabatake.jp/39520/・1回目）
+  - 「逆もまたしかりで、赤字になるリスクを民間企業が背負うことにもなります」（https://sorabatake.jp/39520/・1回目）
+  - 「：仮にコストが積み上がって赤字になったとしても政府は知りませんという形は一見厳しいのですが、その厳しさを経てSpaceXは立ち上がってきたと私は考えています」（https://sorabatake.jp/39520/・1回目）
+  - 「米国の巨大なデジタル企業である「GAFAM」の各社が提供するサービスへの支払いが日本から急増しており、2023年では約5.5兆円の「デジタル赤字」が発生したという問題提起も騒がれていました」（https://sorabatake.jp/36775/・1回目）
+  - 「Credit : SIA 2021 Global Satellite Industry Revenues」（https://sorabatake.jp/36775/・1回目）
+  - 「ちなみに、1年目は150万円ほどの赤字が出ています」（https://sorabatake.jp/45183/・1回目）
+  - 「例えば、誘導航法制御や地上セグメントの運用経験をしている日本人が少なく、応募が来るのは外国人が多いと聞きます」（https://sorabatake.jp/39907/・1回目）
+  - 「」通年黒字を達成したSpace BDが推進する事業」（https://sorabatake.jp/39491/・1回目）
+  - 「また、Space BDは2024年8月期の決算で短期黒字を達成したことを本イベントで紹介」（https://sorabatake.jp/39491/・1回目）
+- 存続：
+  - 「将来的には、それぞれのシステムを統合して、すっきりさせましょうというのが、今の自動車業界のトレンドです」（https://sorabatake.jp/47138/・1回目）
+  - 「SpaceX社は垂直統合による内製化を進めており、優れた知見を持つ技術者を擁しています」（https://sorabatake.jp/46542/・1回目）
+  - 「開発コストが大きいロケットなどのヘビーアセット領域では、資金が続かず撤退する企業が出始めています」（https://sorabatake.jp/46245/・1回目）
+  - 「また、本間さんが取り組まれているようにエンドユーザーに近く、ニーズを分かっている人たちが衛星開発に踏み出すような垂直統合も増えてくると考えています」（https://sorabatake.jp/46245/・1回目）
+  - 「ここを自分たちでおさえれば大きな事業を作れると考え、それまで経営していた会社を売却してAstroXを立ち上げました」（https://sorabatake.jp/46282/・1回目）
+  - 「しかし、それらを統合してひとつのプラントシステムとして動くように設計できるプレイヤーは、世界的にも多くありません」（https://sorabatake.jp/46282/・1回目）
+  - 「：ロケットによる輸送、衛星の製造、データサービスまでを垂直統合で日本として持つことが大事です」（https://sorabatake.jp/46282/・1回目）
+  - 「：例えば、狭い閉鎖環境でのストレスや栄養問題、健康維持などです」（https://sorabatake.jp/39407/・1回目）
+  - 「また、発射台を含む地上設備からロケット、人工衛星までを一貫して提供する垂直統合型の事業モデルも強みの一つです」（https://sorabatake.jp/39650/・1回目）
+  - 「宇宙に関して言えば、私がIT業界の企業経営をしていた時に、日本は構造的に負けてしまっていると感じていたところ、「宇宙であれば今がんばればなんとかなるかもしれない、日本の一大産業を作れるかもしれない、そしてロケットを押さえれば垂直統合ができてさまざまな面白いことができるんじゃないか」という思いです」（https://sorabatake.jp/45183/・1回目）
+  - 「リスク可視化に取り組む日本初のスタートアップ・Gaia Visionに聞く、データとビジネスの統合」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E5%88%A9%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/・1回目）
+- 検索結果の抜粋：
+  - 「宙畑 広告記事について - Google Docs — 宙畑 広告記事について - Google Docs Google Docs https://docs.google.com > forms > viewform」（https://docs.google.com/forms/d/e/1FAIpQLSc3FHxkf6j-hjsUJrPkflzZlWt-1sHWhgLH1dBvLQhXo90X0w/viewform・3回目）
+  - 「宙畑 — 宙畑 宙畑 https://sorabatake.jp」（https://sorabatake.jp/・3回目）
+  - 「『 宙畑 』中村編集長が語る、宇宙ビジネスとメディアの展望 ... — 『 宙畑 』中村編集長が語る、宇宙ビジネスとメディアの展望 ... SpaceStep https://space.japanstep.jp > learn > 2026/04」（https://space.japanstep.jp/learn/2026/04/1922/・3回目）
+  - 「【 宙畑 5周年記念企画】 宙畑 の記事ランキングで振り返る宇宙 ... — 【 宙畑 5周年記念企画】 宙畑 の記事ランキングで振り返る宇宙 ... 宙畑 https://sorabatake.jp > ...」（https://sorabatake.jp/25567/・3回目）
+  - 「宙畑 -sorabatake - Facebook — 宙畑 -sorabatake - Facebook Facebook https://www.facebook.com > sorabatake.telstar」（https://www.facebook.com/sorabatake.telstar/・3回目）
+  - 「Tellusのオウンドメディア「 宙畑 」宇宙ビジネスの発信 — Tellusのオウンドメディア「 宙畑 」宇宙ビジネスの発信 宣伝会議 https://www.sendenkaigi.com > media > kouhoukaigi」（https://www.sendenkaigi.com/marketing/media/kouhoukaigi/032504/・3回目）
+  - 「宙畑 -sorabatake-（宇宙ビジネス情報サイト） on X — 宙畑 -sorabatake-（宇宙ビジネス情報サイト） on X X https://x.com > @sorabatake」（https://x.com/sorabatake/status/2117852033462243555・3回目）
+  - 「『 宙畑 』中村 編集長 が語る、宇宙ビジネスとメディアの展望 ... — 『 宙畑 』中村 編集長 が語る、宇宙ビジネスとメディアの展望 ... SpaceStep https://space.japanstep.jp > learn > 2026/04」（https://space.japanstep.jp/learn/2026/04/1922/・3回目）
+  - 「宙畑編集長 、sorano me   (@tomoucky) / X - 中村友弥 — 宙畑編集長 、sorano me   (@tomoucky) / X - 中村友弥 X https://x.com > tomoucky」（https://x.com/tomoucky・3回目）
+  - 「【 宙畑 （そらばたけ）】宇宙産業の畑に種を蒔いて育てよう ... — 【 宙畑 （そらばたけ）】宇宙産業の畑に種を蒔いて育てよう ... note https://note.com > ビジネス > マーケティング」（https://note.com/cm_academy/n/n2f71388736c0・3回目）
+  - 「全ての記事 | 宙畑 — 全ての記事 | 宙畑 宙畑 https://sorabatake.jp > all」（https://sorabatake.jp/all/・3回目）
+  - 「トピックスの記事一覧 - 宙畑 — トピックスの記事一覧 - 宙畑 宙畑 https://sorabatake.jp > topics」（https://sorabatake.jp/topics/・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部44頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部44頁・検索14回）
+
+## 新電力ネット
+- 公式URL：https://pps-net.org（given）
+- 人がどこから来るか：
+  - 「エネルギー関連の統計情報をExcel等にてダウンロードできます」（https://pps-net.org/・1回目）
+  - 「激変する世界情勢下の日本のエネルギー戦略と2030年代への展望 ～地政学リスク、エネルギー安全保障、GX政策を踏まえた電力・ガス・石油産業の行方～」（https://pps-net.org/・1回目）
+  - 「電気・ガス・他の光熱・水道料金（Excel）」（https://pps-net.org/energyprice・1回目）
+  - 「共同イベント・セミナーの開催（会場手配・集客・記事掲載・専門家選定）｜新電力ネット」（https://pps-net.org/joint-seminar・1回目）
+  - 「共同イベント・セミナーの開催（会場手配・集客・記事掲載・専門家選定）」（https://pps-net.org/joint-seminar・1回目）
+  - 「また、ご希望であればセミナーレポートをオンラインで展開し、ホワイトペーパーダウンロードで、より認知を高めることも可能です」（https://pps-net.org/joint-seminar・1回目）
+  - 「会場等の条件により金額は変動がありますが、30名の集客にて概ね30万円ほどが目安となります」（https://pps-net.org/joint-seminar・1回目）
+  - 「JEPX 25.45円/kWh(2026/11/01週)」（https://pps-net.org/joint-seminar・1回目）
+  - 「「黒四ダム １千万人の激闘」 ―曙光 激闘の果てに プロジェクトX～挑戦者たち～」（https://pps-net.org/joint-seminar・1回目）
+  - 「セミナーの主催及び講演会の開催・書籍の出版」（https://pps-net.org/register-admission・1回目）
+  - 「本ページのフォームより会員登録いただいた皆様におかれましては、下記書籍の特別資料を無料配布しております」（https://pps-net.org/register-admission・1回目）
+  - 「本書は、エネルギービジネスの更なる可能性について解説し、これから挑戦すべき事業として「情報・サービス産業」を提案した書籍です」（https://pps-net.org/register-admission・1回目）
+- 誰が払うか・単価：
+  - 「2026年度以降のFIT動向を解析、事業用太陽光発電(地上設置)はFIT対象外、一部太陽光など前年比で異例の「単価上昇」電源も、再エネ賦課金は4.18円/kWhで前年比約5％増加」（https://pps-net.org/・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/joint-seminar・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/register-admission・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany_reg/retail・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany_reg/general・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany_reg/transmission・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany_reg/specific・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany_reg/generation・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/gascompany・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany?ppskey=pps195・1回目）
+  - 「年会費・登録費は無料で、ご利用にあたって費用はかかりません」（https://pps-net.org/ppscompany?ppskey=pps201・1回目）
+- 規模：
+  - 「テーマに関心のある参加者を集め、みなさまに貴社のサービスや製品を知っていただくことを支援いたします」（https://pps-net.org/・1回目）
+  - 「テーマに関心のある参加者を集め、みなさまに貴社のサービスや製品を知っていただくことを支援いたします」（https://pps-net.org/joint-seminar・1回目）
+  - 「テーマに関心のある参加者を集め、セミナーを共同開催いたします」（https://eic-jp.org/operate_pps・3回目）
+  - 「チャンネル登録者数 2800人」（https://www.youtube.com/watch?v=ekealqrQkXA・3回目）
+- 積み上がって阻むもの：
+  - 「また新電力ネットでは会員登録頂くことで、より多くのエネルギー関連データをダウンロード等できるようになります」（https://pps-net.org/・1回目）
+  - 「会員登録は無料となりますので、日々活用して頂けますと幸いです」（https://pps-net.org/・1回目）
+  - 「無料会員になると閲覧することができる情報はこちらです」（https://pps-net.org/・1回目）
+  - 「新電力ネットの全ページを閲覧するには会員登録が必要です」（https://pps-net.org/・1回目）
+  - 「会員登録は、企業・団体・個人等、新電力に関心のある方からの登録を幅広く受け入れております」（https://pps-net.org/energyprice・1回目）
+  - 「2026/6月実績」（https://pps-net.org/joint-seminar・1回目）
+  - 「新電力事業者だけではなく、様々な業種の企業・団体・個人等により新電力ネットの会員は構成されています」（https://pps-net.org/register-admission・1回目）
+  - 「新電力ネットは、企業・公益法人・学校等の法人会員の皆様により運営されています」（https://pps-net.org/register-admission・1回目）
+  - 「会員の方へ、配布資料について」（https://pps-net.org/register-admission・1回目）
+  - 「本ページのフォームより会員登録いただいた皆様におかれましては、下記書籍の特別資料を無料配布しております」（https://pps-net.org/register-admission・1回目）
+  - 「ダウンロードは会員登録時の自動返信メールに記載のURLよりお願いいたします」（https://pps-net.org/register-admission・1回目）
+  - 「2026/6月実績」（https://pps-net.org/register-admission・1回目）
+- 立ち上げ時の打ち手：
+  - 「ゼロからわかる！蓄電所ビジネス実践セミナー」（https://pps-net.org/seminar・1回目）
+  - 「託送基本料金（低圧電灯・実量契約/１接続送電サービスにつき最初の接続送電サービス契約電力６キロワットまで）」（https://pps-net.org/wheeling・1回目）
+  - 「関西電力(最初の6kWまで)」（https://pps-net.org/wheeling・1回目）
+  - 「中国電力(最初の6kWまで)」（https://pps-net.org/wheeling・1回目）
+  - 「四国電力(最初の6kWまで)」（https://pps-net.org/wheeling・1回目）
+  - 「託送基本料金（低圧電灯・主開閉器契約/１接続送電サービスにつき最初の接続送電サービス契約電力６キロボルトアンペアまで）」（https://pps-net.org/wheeling・1回目）
+  - 「関西電力(最初の6kVAまで)」（https://pps-net.org/wheeling・1回目）
+  - 「中国電力(最初の6kVAまで)」（https://pps-net.org/wheeling・1回目）
+  - 「四国電力(最初の6kVAまで)」（https://pps-net.org/wheeling・1回目）
+  - 「全2回 ゼロから学ぶ 容量市場／需給調整市場＆同時市場の基礎と最前線論点」（https://pps-net.org/ssk_seminar・1回目）
+  - 「• シェアリングエネルギー立ち上げ、そして2度目の起業へ【グリーンタレントハブ代表 井口...」（https://www.youtube.com/watch?v=ekealqrQkXA・3回目）
+  - 「新電力の立ち上げや運用に関する個別相談、見積もり支援、電力会社の比較など、実務的なサポートも提供しています」（https://note.com/mana_aru/n/nffaf3e83da0c・3回目）
+- 船井型の段階：
+  - 「セミナーの主催及び講演会の開催・書籍の出版」（https://pps-net.org/register-admission・1回目）
+  - 「本ページのフォームより会員登録いただいた皆様におかれましては、下記書籍の特別資料を無料配布しております」（https://pps-net.org/register-admission・1回目）
+  - 「本書は、エネルギービジネスの更なる可能性について解説し、これから挑戦すべき事業として「情報・サービス産業」を提案した書籍です」（https://pps-net.org/register-admission・1回目）
+  - 「関心のあるテーマに対し、書籍を執筆いたします」（https://eic-jp.org/operate_pps・3回目）
+  - 「グリーンタレントハブ株式会社は、「脱炭素×人材」をテーマに、人材紹介・顧問紹介事業、グリーン・リスキリングサービスを展開しております」（https://www.youtube.com/watch?v=ekealqrQkXA・3回目）
+  - 「EICは、電力自由化や再生可能エネルギーに関するセミナーや講演を開催し、書籍の出版も行っています」（https://note.com/mana_aru/n/nffaf3e83da0c・3回目）
+  - 「EICは2014年12月に設立され、電力・エネルギー分野の情報提供、セミナー開催、書籍出版などを通じて、業界の発展と地球環境への貢献を目指しています」（https://note.com/mana_aru/n/nffaf3e83da0c・3回目）
+- 創業年度：
+  - 「電力・エネルギーに関するプレスリリースを掲載できます」（https://pps-net.org/・1回目）
+  - 「EICは2014年12月に設立され、電力・エネルギー分野の情報提供、セミナー開催、書籍出版などを通じて、業界の発展と地球環境への貢献を目指しています」（https://note.com/mana_aru/n/nffaf3e83da0c・3回目）
+  - 「、2018年5月に開設された」（https://note.com/itoyoshiyasu/n/nf38bd8838c26・3回目）
+- 売上・黒字：
+  - 「セグメント別の電気・ガス・他の光熱・水道料金」（https://pps-net.org/energyprice・1回目）
+  - 「これは、送配電事業が参入障壁の高さ等の観点から、競争原理が働きづらく、各社は安定して送電できるよう事業努力を行っている一方で、どれだけお金をかけても原則赤字とならない状況であったために、本質的に効率的な経営や工夫を行った事業社に対してインセンティブを与える等の目的から策定されました」（https://pps-net.org/wheeling・1回目）
+- 存続：
+  - 「官公庁などが調達・売却する電力の入札情報を一覧できます」（https://pps-net.org/・1回目）
+  - 「【相続】親から受け継いだ実家 適当に売ると大損します！失敗しない売却の方法をお伝えします！」（https://www.youtube.com/watch?v=ekealqrQkXA・3回目）
+  - 「また、官公庁や公共施設の電力調達・売却に関する入札情報も提供しています」（https://note.com/mana_aru/n/nffaf3e83da0c・3回目）
+- 検索結果の抜粋：
+  - 「代理店登録 - 新電力ネット — 代理店登録 - 新電力ネット 新電力ネット https://pps-net.org > 無料PR情報掲載」（https://pps-net.org/press-info/agency-registration・3回目）
+  - 「広告業｜産業別の光熱費・エネルギー利用量 - 新電力ネット — 広告業｜産業別の光熱費・エネルギー利用量 - 新電力ネット 新電力ネット https://pps-net.org > ... > 学術研究，専門・技術サービス業」（https://pps-net.org/industryenergy/71490・3回目）
+  - 「電力会社・電力販売量のランキング - 新電力ネット — 電力会社・電力販売量のランキング - 新電力ネット 新電力ネット https://pps-net.org > 電力会社一覧」（https://pps-net.org/ppscompany?ppskey=pps195・3回目）
+  - 「新電力ネット の運営 - 一般社団法人エネルギー情報センター — 新電力ネット の運営 - 一般社団法人エネルギー情報センター 一般社団法人エネルギー情報センター | EIC https://eic-jp.org > operate_pps」（https://eic-jp.org/operate_pps・3回目）
+  - 「新電力集客 広告プランニング｜サービス — 新電力集客 広告プランニング｜サービス 新電力ネット https://pps-net.org > ... > その他」（https://pps-net.org/service/29148・3回目）
+  - 「統計情報の一覧 - 新電力ネット — 統計情報の一覧 - 新電力ネット 新電力ネット https://pps-net.org > statistics」（https://pps-net.org/statistics・3回目）
+  - 「新電力ネット : 新電力の総合情報支援サイト — 新電力ネット : 新電力の総合情報支援サイト 新電力ネット https://pps-net.org」（https://pps-net.org/・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+- 株主構成：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部33頁・検索14回）
+
+## 株式会社タナベコンサルティング
+- 公式URL：https://www.tanabeconsulting.co.jp（given）
+- 人がどこから来るか：
+  - 「経営人材育成を支える、Executive Seminar」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「5つのDX領域でお客様にとって最適なデジタル実装を戦略からつないでまいります」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「DXリーダースクール(マネジメントDXコース)」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「大手印刷メーカーの海外向けSNSページ運用とコンテンツ制作」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「DXリーダースクール（マネジメントDXコース）」（https://www.tanabeconsulting.co.jp/seminar/・1回目）
+  - 「経営人材育成ならExecutive Seminar｜経営者・後継者・経営幹部育成｜タナベコンサルティング」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「※Executive Seminar以外を含む」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「社長や取締役をはじめ、グループ会社社長、女性経営者、CXO、執行役員、事業責任者など、経営を担う人材の裾野は広がっています」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「Executive Seminarは、TCGが考える経営人材のあり方を実装するための中核プログラム」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「現経営者、次世代経営幹部候補、後継経営者を対象に、どのような視点で見極めるべきか、なぜ根拠ある判断が必要なのか、次期経営体制づくりにどうつなげるべきかを整理し、ご紹介しています」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「経営者と同じ価値観・判断基準を持ち、経営者に必要な事業センス・経営センスを兼ね備えた「経営者人材」の育成方法と、育成に注力しているモデル企業を紹介します」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「DXビジョン、デジタルマーケティング（BtoC・BtoB）、」（https://www.tanabeconsulting.co.jp/about/business-doctors.html・1回目）
+- 誰が払うか・単価：
+  - 「タナベコンサルティングが主催する研究会の内容をリポートします」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「タナベコンサルティングの研究会は、経営層のための学びと体験の場です」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「研究会への参加を通し、「100年先も一番に選ばれる会社」を目指しましょう」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「徹底したエリア集中の広告戦略でCV数が1.5倍に増大」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「①申込み期限日の翌日から開催日の前日…受講料の40％」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「※セミナー期間中の教材費・昼食代・夕食会費を含みます」（https://www.tanabeconsulting.co.jp/seminar/officer/・1回目）
+  - 「①申込み期限日の翌日から開催日の前日...受講料の40% ②開催日当日...受講料の全額」（https://www.tanabeconsulting.co.jp/seminar/officer/・1回目）
+  - 「①申込み期限日の翌日から開催日の前日...受講料の40% ②開催日当日...受講料の全額」（https://www.tanabeconsulting.co.jp/seminar/followup/・1回目）
+  - 「①申込み期限日の翌日から開催日の前日...受講料の40% ②開催日当日...受講料の全額」（https://www.tanabeconsulting.co.jp/seminar/freshers/・1回目）
+  - 「研究会 Lab | タナベコンサルティング」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「タナベコンサルティングの研究会は、経営層のための学びと体験の場です」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「研究会への参加を通し、「100年先も一番に選ばれる会社」を目指しましょう」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+- 規模：
+  - 「セミナー年間参加者数9900人以上」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「セミナー年間参加者数9900人以上」（https://www.tanabeconsulting.co.jp/seminar/・1回目）
+  - 「参加者個人の学びにとどまらず、今後の育成計画や経営課題の整理にもつなげていただけます」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「後継経営者スクールのご参加者のみに教材として配付するオリジナルテキストの抜粋版をご提供いたします」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「プロ役員セミナーのご参加者のみに教材として配付するオリジナルテキストの抜粋版をご提供いたします」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「【参加者全員に進呈】 300ページにおよぶオリジナルテキスト」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「振り返り、戦略立案に役立つ、300ページにおよぶオリジナルテキストを参加者にのみ進呈」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「近年の経営戦略セミナーの参加者を見ると、社長だけが参加し、役員・経営幹部に伝達するのではなく、経営幹部のメンバーなどが同じ場でセミナーを受講し、関連箇所の情報を収集した上で、自社の経営方針策定にお役立ていただくケースが増えています」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「参加者の方からのご感想を一部掲載いたします」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「多彩なゲストからリアルな経営を学びながら、参加者同士の情報交流を通じて「真の人脈形成の場」を提供します」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「アカウントは参加者ごとに発行していますので、受講者数分のお申し込みをお願いいたします」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「プロ役員セミナーのご参加者のみに教材として配付するオリジナルテキストの抜粋版をご提供いたします」（https://www.tanabeconsulting.co.jp/hr/download/pro-executive-seminar.html・1回目）
+- 積み上がって阻むもの：
+  - 「"一番に選ばれるナンバーワンブランド"の実現に向け、三位一体のチームビルディングで、ブランディング・PR活動における課題解決をご提案します」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「国内外に広がるネットワークと専門的な知見を持つグループ企業の力を結集し、グローバルビジネスの上流から下流までを一貫して支援します」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「建設業、製造業、商社・卸売業、食品関連企業、物流業、政府・公共など、業界別の支援実績で業界特有の課題の解決を支援します」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「タナベコンサルティンググループが運営する社長・経営者・リーダーの「決断」をサポートするメディア」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「タナベコンサルティンググループの統合報告書「TCG REPORT2025」が完成しました」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「「TCGREVIEW」では、タナベコンサルティンググループの経営メソッドを軸にファーストコールカンパニー（100年先も一番に選ばれる会社）になるための「リーダーの決断」をサポートする情報を発信しています」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「繊維を起点にイノベーションを起こすマルオリグループの成長ビジョン」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「注目企業のトップや有識者と、タナベコンサルティンググループの社長・若松孝彦が「100年経営」をテーマに対談」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「クライアント企業とタナベコンサルティンググループのコンサルチームが取り組んだ経営改善の事例」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「大企業から中堅、中規模企業のクライアントの皆さんと共に実現してきた1万7千件を超えるTCGチームコンサルティング実績」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「ストラテジー&ドメインコンサルティングのサクセス事例」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「JALブランドを守り、より深い浸透を図る」（https://www.tanabeconsulting.co.jp/・1回目）
+- 立ち上げ時の打ち手：
+  - 「デジタルマーケティングの立ち上げで従来型営業活動の限界を突破」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「デジタルマーケティング立ち上げで主要な新規開拓経路がWeb経由に」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「日本の経営コンサルティングのパイオニアとして、創業以来2万社以上のトップマネジメントと向き合ってきたTCG」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「「会社は社長の器以上に成長しない」ー 創業者が1963年に「日本で唯一の社長業を学ぶ場」として開校して以来、これまで3,000名以上の経営者が受講され、多くの方が優良企業・上場企業へと躍進・成長されております」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「機械部品調達のAIプラットフォーム「meviy」の立ち上げに携わり、製造業のDXを牽引」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「元文元年（1736年）創業の七味唐辛子製造メーカーの九代目として誕生」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「1998年にピースマインドを創業し、日本・アジアにおけるEAP（従業員支援プログラム）サービスのパイオニアとして「はたらくをよくする®」事業を推進」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「初期パスワードはメール本文に記載しています」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「この社長教室は、「企業はトップの器（うつわ）以上に成長しない」という信念のもと、タナベコンサルティンググループ（ TCG ）の創業者の田辺昇一が1963 年に開校致しました」（https://www.tanabeconsulting.co.jp/seminar/president/・1回目）
+  - 「経営理念や創業の精神、現社長の考えを吸収し、そのうえで自身が「社長になって何をやりたいのか」という“志”を明確にしなければなりません」（https://www.tanabeconsulting.co.jp/seminar/succession/・1回目）
+  - 「事業センスは、一朝一夕では身につかない経営技術であり、創業者のような“天性”の事業センスを持たない後継経営者は、自社の強みと、最新事例、異業種・異業界のビジネスモデルを研究することで、事業センスを身につけていきます」（https://www.tanabeconsulting.co.jp/seminar/succession/・1回目）
+  - 「DXを推進するうえで、最初の壁となるのは「人材」です」（https://www.tanabeconsulting.co.jp/seminar/management-dx/・1回目）
+- 船井型の段階：
+  - 「タナベコンサルティングが主催する研究会の内容をリポートします」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「タナベコンサルティングの研究会は、経営層のための学びと体験の場です」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「各種研究テーマごとに定期開催され、時代のトレンドや社会課題などをとらえた成功企業の講演や視察から、最新の情報を吸収できます」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「研究会への参加を通し、「100年先も一番に選ばれる会社」を目指しましょう」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「研究会 Lab | タナベコンサルティング」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「タナベコンサルティングの研究会は、経営層のための学びと体験の場です」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「各種研究テーマごとに定期開催され、時代のトレンドや社会課題などをとらえた成功企業の講演や視察から、最新の情報を吸収できます」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「研究会への参加を通し、「100年先も一番に選ばれる会社」を目指しましょう」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「当研究会でアグリ関連業界の成長へ向けた生きた事例を共に学んでいきましょう」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「“食”の枠を超えてライフスタイル価値を創造するための発想と実践のヒントをもとに、当研究会で自社のビジネスモデル革新に挑みましょう」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「当研究会では、企業事例や視察を通じ、インフレ×AI時代に実装可能な高収益ビジネスモデルの確立を目指します」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+  - 「当研究会で、優良な事例企業を元に、改めて建設業の高収益ビジネスモデルの作り方を共に学び、自社の持続性のある発展に繋げていきましょう」（https://www.tanabeconsulting.co.jp/lab/・1回目）
+- 株主構成：
+  - 「グループ企業の本体社長と子会社社長、」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「当社の承諾なく、動画コンテンツや経営情報誌などのコンテンツ、ソフトウェア、マニュアル、データベースなどを複製・送信・改変したり、第三者（参加者におけるセミナーに参加する者以外の役職員、参加者の子会社、関連会社または業務委託先を含むがこれらに限られない」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「２．参加者は、セミナーの円滑な運営、品質向上、および第１条に定めた目的達成のために、セミナーの運営趣旨に則り、参加者情報を、下記に定める目的において、当社、当社親会社である株式会社タナベコンサルティンググループおよびそれらの業務委託先に必要な範囲内で利用されることを予め了承する」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「２．当社はセミナーにかかる事業を第三者に譲渡（事業譲渡、会社分割その他態様の如何を問わないものとする」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「→資本効率・株主還元と不動産戦略の関係性を整理するとともに、企業価値に与えるインパクトをお伝えします」（https://media-radar.jp/company1003614.html・3回目）
+  - 「「資本効率の向上」や、「株主還元の強化」が重要課題となる中、企業不動産（CRE）戦略と経営戦略の結びつきはますます強まっています」（https://media-radar.jp/company1003614.html・3回目）
+  - 「多くの企業にとって、新事業・新製品の開発は持続的な成長のために必要不可欠であり、株主総会や決算説明会の資料、有価証券報告書などには、次の言葉が必ずと言っていいほど登場します」（https://media-radar.jp/company1003614.html・3回目）
+  - 「既存顧客、新規ターゲット顧客、社員、学生、株主などの、あらゆるステークホルダーに、経営活動を通じて社会にどのような貢献をしていくのか、企業としての存在意義を伝えることがBtoB企業の成長につながります」（https://media-radar.jp/company1003614.html・3回目）
+  - 「単に会社情報を伝えることだけでは無くなり、自社の営業活動や人材不足の課題解決など、顧客、取引先、求職者、社員、株主、地域社会といった様々なステークホルダーと適切なコミュニケーションを図るためのツールとして活用されています」（https://media-radar.jp/company1003614.html・3回目）
+  - 「たとえば自社の営業強化の戦略や、人材不足の課題解決など、顧客、取引先、求職者、社員、株主、地域社会といった様々なステークホルダーと適切なコミュニケーションを図るためのツールとして活用されています」（https://media-radar.jp/company1003614.html・3回目）
+  - 「本日は、会社概要、事業概要・強み、業績動向、成長戦略、株主還元をご説明します」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「株主数と単元株はスライドに記載のとおりです」（https://finance.logmi.jp/articles/382648・3回目）
+- 創業年度：
+  - 「乳幼児玩具メーカーのLP制作とプレスリリース配信」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「日本の経営コンサルティングのパイオニアとして、創業以来2万社以上のトップマネジメントと向き合ってきたTCG」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「「会社は社長の器以上に成長しない」ー 創業者が1963年に「日本で唯一の社長業を学ぶ場」として開校して以来、これまで3,000名以上の経営者が受講され、多くの方が優良企業・上場企業へと躍進・成長されております」（https://www.tanabeconsulting.co.jp/hr/education/lp/executive-seminar/・1回目）
+  - 「元文元年（1736年）創業の七味唐辛子製造メーカーの九代目として誕生」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「1998年にピースマインドを創業し、日本・アジアにおけるEAP（従業員支援プログラム）サービスのパイオニアとして「はたらくをよくする®」事業を推進」（https://www.tanabeconsulting.co.jp/seminar/fccs・1回目）
+  - 「この社長教室は、「企業はトップの器（うつわ）以上に成長しない」という信念のもと、タナベコンサルティンググループ（ TCG ）の創業者の田辺昇一が1963 年に開校致しました」（https://www.tanabeconsulting.co.jp/seminar/president/・1回目）
+  - 「経営理念や創業の精神、現社長の考えを吸収し、そのうえで自身が「社長になって何をやりたいのか」という“志”を明確にしなければなりません」（https://www.tanabeconsulting.co.jp/seminar/succession/・1回目）
+  - 「事業センスは、一朝一夕では身につかない経営技術であり、創業者のような“天性”の事業センスを持たない後継経営者は、自社の強みと、最新事例、異業種・異業界のビジネスモデルを研究することで、事業センスを身につけていきます」（https://www.tanabeconsulting.co.jp/seminar/succession/・1回目）
+  - 「タナベコンサルティンググループは「日本には企業を救う仕事が必要だ」という志を掲げた1957年の創業以来」（https://www.tanabeconsulting.co.jp/hr/download/pro-executive-seminar.html・1回目）
+  - 「1957年の創業以来続く、各階層の人材成長を支援するプログラムです」（https://www.tanabeconsulting.co.jp/lp/gsp/・1回目）
+  - 「ハウスメーカーや建設会社の中長期ビジョン・中期経営計画の策定支援から働き方改革実現に向けた業務改善支援や現場支援組織立上支援、社内の教育体制を構築する企業内大学（アカデミー）設立の支援などを担当」（https://www.tanabeconsulting.co.jp/lab/houseliving/・1回目）
+  - 「●東証プライム市場上場グループ・創業60年以上、日本の経営コンサルティングファームのパイオニア、タナベコンサルティングのノウハウ公開！」（https://media-radar.jp/company1003614.html・3回目）
+- 売上・黒字：
+  - 「志の高い経営者とともに、理想を追い続けるコンサルティングの実践を信条とし、赤字企業の再建から成長戦略まで、熱意あるコンサルティングでクライアントを成長軌道に導く」（https://www.tanabeconsulting.co.jp/seminar/president/・1回目）
+  - 「会社がつぶれるのは、赤字ではなく、キャッシュフロー・資金繰りです」（https://www.tanabeconsulting.co.jp/seminar/succession/・1回目）
+  - 「しかし、そんな新規事業・新商品・サービスが立ち上げフェーズを乗り越え、黒字化を経て、主要事業（商品・サービス）化する確率は決して高くなく、経済産業省の統計データによれば、新規事業の成功率はおよそ15％です」（https://media-radar.jp/company1003614.html・3回目）
+  - 「良い商材、良いサービス、良い文化を持っている素晴らしい企業が、新規顧客開拓が苦手というだけで、赤字を出し、倒産に追い込まれる」（https://media-radar.jp/company1003614.html・3回目）
+  - 「・売上高100億規模の企業向けSNS担当者育成支援」（https://media-radar.jp/company1003614.html・3回目）
+  - 「・売上高100億規模の企業向けSNS担当者育成」（https://media-radar.jp/company1003614.html・3回目）
+  - 「しかしながら、多くの企業が求めた結果を得られず苦悩し、黒字化できないまま断念することを余儀なくされている」（https://media-radar.jp/company1003614.html・3回目）
+  - 「タナベコンサルティンググループ（9644）の財務情報ならログミーFinance【QAあり】タナベコンサルティンググループ、通期売上高を上方修正 ストック型「チームコンサルティング」売上高が過去最高 - ログミーファイナンス」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「1つ目は、顧客企業の売上高規模です」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「縦軸が顧客の売上高規模、横軸が支援領域（スタイル）です」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「売上高規模3,000億円から30億円までの顧客企業に対し、経営戦略の策定から現場でのオペレーションまでを一気通貫で支援しています」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「大企業は国内ではマーケットが小さく、すでに海外において売上高や利益の大半を稼ぐ構造になっています」（https://finance.logmi.jp/articles/382648・3回目）
+- 存続：
+  - 「成長志向の譲受企業と後継者不在の譲渡企業をつなぎ、事業承継・M&A戦略策定から、経営統合まで唯⼀無⼆のM&Aコンサルティングモデルをご提供します」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「タナベコンサルティンググループの統合報告書「TCG REPORT2025」が完成しました」（https://www.tanabeconsulting.co.jp/・1回目）
+  - 「※テキスト・資料代含む（テキストのみの販売は2018年より終了）」（https://www.tanabeconsulting.co.jp/seminar/keisen/・1回目）
+  - 「参加契約は、①当該参加者が参加するセミナーの全ての回が終了したとき、②当該セミナーが本規約に基づき中止となったとき、または③本規約に基づき、参加者がその後のセミナーの全部の回への参加を拒否されたときのいずれか早いときに終了するものとする」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「２．当社はセミナーにかかる事業を第三者に譲渡（事業譲渡、会社分割その他態様の如何を問わないものとする」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「）、第７条、第１０条、第１１条、第１５条から第１９条まで、第２０条第２項、第２１条から本条までの規定は参加契約の終了後も有効に存続するものとする」（https://www.tanabeconsulting.co.jp/docs/seminar-terms.html・1回目）
+  - 「統合報告書ストーリー設計のコツ ～企業価値は説明では動かない」（https://media-radar.jp/company1003614.html・3回目）
+  - 「統合報告書は、単なる情報開示のツールではありません」（https://media-radar.jp/company1003614.html・3回目）
+  - 「企業価値を的確に伝える統合報告書に求められる要素と構成をわかりやすくご紹介いたします」（https://media-radar.jp/company1003614.html・3回目）
+  - 「営業活動に関するデータを統合・活用し、新たな事業モデルを構築したい方」（https://media-radar.jp/company1003614.html・3回目）
+  - 「・M&Aや組織再編後のブランド統合・再編方針を検討している方」（https://media-radar.jp/company1003614.html・3回目）
+  - 「【データ基盤構築】営業活動に関わる複数のデータを統合したダッシュボードを活用し、リアルタイムマネジメントの基盤を構築したい企業の方」（https://media-radar.jp/company1003614.html・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 タナベコンサルティング の会社概要・資料一覧 — 株式会社 タナベコンサルティング の会社概要・資料一覧 メディアレーダー https://media-radar.jp > company1003614」（https://media-radar.jp/company1003614.html・3回目）
+  - 「HOT ! 株式会社 タナベコンサルティング の会社概要・資料一覧 — HOT ! 株式会社 タナベコンサルティング の会社概要・資料一覧 eldorado-investments.com https://www.eldorado-investments.com > ...」（https://www.eldorado-investments.com/?o=6778239501406・3回目）
+  - 「タナベコンサルティング のセミナー情報一覧 - メディアレーダー — タナベコンサルティング のセミナー情報一覧 - メディアレーダー メディアレーダー https://media-radar.jp > タナベコンサルティング」（https://media-radar.jp/seminar_list/%E3%82%BF%E3%83%8A%E3%83%99%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0?content_type=video・3回目）
+  - 「NOVELTY - タナベコンサルティング — NOVELTY - タナベコンサルティング タナベコンサルティング PDF https://www.tanabeconsulting.co.jp > promotion > img」（https://www.tanabeconsulting.co.jp/sp/promotion/img/TANABE+SALES+PROMOTION+CATALOG_digest.pdf・3回目）
+  - 「Number数字で見る タナベコンサルティング グループ — Number数字で見る タナベコンサルティング グループ タナベコンサルティンググループ https://www.tanabeconsulting-group.com > about > number」（https://www.tanabeconsulting-group.com/about/number・3回目）
+  - 「データでみるTCG | 会社を知る - タナベコンサルティング採用 — データでみるTCG | 会社を知る - タナベコンサルティング採用 タナベコンサルティング採用 https://tanaberecruit.com > company > number」（https://tanaberecruit.com/company/number/・3回目）
+  - 「株式会社 タナベコンサルティング のサービス・セミナー情報 — 株式会社 タナベコンサルティング のサービス・セミナー情報 HRプロ https://www.hrpro.co.jp > provide_company_detail」（https://www.hrpro.co.jp/provide_company_detail.php?ccd=00253&type=service・3回目）
+  - 「【QAあり】 タナベコンサルティング グループ、通期売上高を ... — 【QAあり】 タナベコンサルティング グループ、通期売上高を ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/382648・3回目）
+  - 「株式会社 タナベコンサルティング ／【千代田区】ライター ... — 株式会社 タナベコンサルティング ／【千代田区】ライター ... doda https://doda.jp > JobSearchDetail > j_jid__3015828741」（https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015828741/・3回目）
+  - 「成長の先を、描く 10年後を見据えた長期ビジョンと戦略M&A — 成長の先を、描く 10年後を見据えた長期ビジョンと戦略M&A タナベコンサルティング https://www.tanabeconsulting.co.jp > s_vision_261001」（https://www.tanabeconsulting.co.jp/webinar/blog/s_vision_261001・3回目）
+  - 「タナベコンサルティング グループ - YouTube — タナベコンサルティング グループ - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=-Y24MDmLCTY・3回目）
+  - 「経営 ... - タナベコンサルティンググループの歴史 — 経営 ... - タナベコンサルティンググループの歴史 タナベコンサルティンググループ https://www.tanabeconsulting-group.com > about > history」（https://www.tanabeconsulting-group.com/about/history・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部51頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部51頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部51頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部51頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部51頁・検索14回）
+
+## 株式会社武蔵野
+- 公式URL：https://www.musashino.co.jp（given）
+- 創業年度：創業：1956年（https://www.musashino.co.jp/company/profile/・1回目）
+- 創業年度：設立：1964年（https://www.musashino.co.jp/company/profile/・1回目）
+- 創業年度：設立：1956（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+- 株主：武蔵野ホールディングス（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+- 従業員数：800名（https://www.musashino.co.jp/company/profile/・1回目）
+- 従業員数：11,045名（2026年5月）（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+- 所在地：〒184-0011 東京都小金井市東町4-33-8 Googleマップを見る（https://www.musashino.co.jp/company/profile/・1回目）
+- 所在地：東京都小金井市東町4-33-8（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+- 所在地：東京都小金井市東町4-33-8（https://prtimes.com/story/detail/zrPMZdhQ7Xb・3回目）
+- 売上高：1801億1475万円（2026年3月期）（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+- 代表者：小山 昇（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+- 代表者：小山昇（https://prtimes.com/story/detail/zrPMZdhQ7Xb・3回目）
+- 代表者：代表取締役社長 安田信行（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+- 人がどこから来るか：
+  - 「【掲載情報】当社のWeb活用・仕組み化への取り組みが、制作事例として紹介されました」（https://www.musashino.co.jp/・1回目）
+  - 「【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました」（https://www.musashino.co.jp/・1回目）
+  - 「創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける」（https://www.musashino.co.jp/company/profile/・1回目）
+  - 「武蔵野本社へのアクセス情報を紹介しています」（https://www.musashino.co.jp/company/・1回目）
+  - 「毎年作りかえられる経営計画書の中から、弊社代表小山の社員に向けての決意表明をご紹介します」（https://www.musashino.co.jp/company/・1回目）
+  - 「武蔵野の仕組み・経営手法についての書籍一覧、雑誌・新聞等のメディアへの掲載情報についてご案内いたします」（https://www.musashino.co.jp/company/・1回目）
+  - 「TEL:0120-85-6340 / FAX:0120-28-6340」（https://www.musashino.co.jp/company/・1回目）
+  - 「2001年から同社の経営の仕組みを紹介する「経営サポート事業」を展開」（https://www.musashino.co.jp/company/message/・1回目）
+  - 「【掲載情報】当社のWeb活用・仕組み化への取り組みが、制作事例として紹介されました」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「【メディア掲載】啓発誌「エルダー」に弊社代表・小山昇の著書『生成AIでわかった 経営者のための人財定着術』が紹介されました」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「小山昇の書籍 2025年12月22日(月)発売」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「小山昇の書籍 2025年7月7日(月)発売」（https://www.musashino.co.jp/news/media/・1回目）
+- 誰が払うか・単価：
+  - 「武蔵野の有料会員様は1000社以上（2026年2月時点）」（https://www.musashino.co.jp/・1回目）
+  - 「： 年間約3,000万円を社内懇親会費として計上し、会社が全面的にバックアップ」（https://www.musashino.co.jp/news/topics/2044/・1回目）
+  - 「東京都武蔵野市｜新聞折込広告･折込チラシ料金表｜オリコメイト」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+  - 「東京都武蔵野市｜新聞折込広告･折込チラシ料金表」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+  - 「新聞折込広告基準、災害時の対応」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+  - 「ポスティング料金表｜ポスティングなら東京【イマムラ企画】武蔵野・三鷹・八王子など」（https://www.nice-posting.com/posting/・3回目）
+  - 「こちらでは、当社が行うポスティングの料金表をご案内します」（https://www.nice-posting.com/posting/・3回目）
+  - 「チラシ1枚あたりの基本料金表（23区） ※税別」（https://www.nice-posting.com/posting/・3回目）
+  - 「チラシ1枚あたりの基本料金表（23区外・都下） ※税別」（https://www.nice-posting.com/posting/・3回目）
+  - 「折り加工の料金表（1枚あたり）」（https://www.nice-posting.com/posting/・3回目）
+  - 「東京都武蔵野市のポスティング・チラシ配布｜料金表・配布エリア｜地域密着型のポスティング依頼は株式会社アト」（https://www.ato-co.jp/tokyo/musashino-shi/・3回目）
+  - 「東京都武蔵野市のポスティング・チラシ配布｜料金表・配布エリア」（https://www.ato-co.jp/tokyo/musashino-shi/・3回目）
+- 規模：
+  - 「： 参加者には「残業代」を支給し、強制ではなく業務の一環として正当に評価する仕組み」（https://www.musashino.co.jp/news/topics/2044/・1回目）
+  - 「選挙人名簿登録者数｜武蔵野市公式ホームページ」（https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html・3回目）
+  - 「有効登録者数(市内）※ 40,431 39,041 33,056 36,605 37,524」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「有効登録者数(市外）※ 36,445 34,997 26,702 27,514 27,385」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「※印については、Ｐ７の有効登録者数を参照」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「３．有効登録者数」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「※ 有効登録者数は、登録者の内、令和４年度内に利用があった人数」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「（１）有効登録者数（令和４年度） 単位：人」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「※登録者数は令和５年３月31 日付け」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「当たり 登録者数 貸出総数 市民１人当たり 予約受付総数」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「基礎FSと発展FSの2025年度参加者数合計実績」（https://www.musashino-u.ac.jp/guide/profile/infographic.html・3回目）
+  - 「会員数45万人以上の訪日外国人旅行者向けサービスを展開」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+- 積み上がって阻むもの：
+  - 「武蔵野では、抽象的な理論ではなく自社の成功事例や失敗事例をもとに、これまでの実績により蓄積してきた経営のノウハウや社員教育を公開し、そのまま真似して実践ができ組織力を強化できるサービスを提供します」（https://www.musashino.co.jp/・1回目）
+  - 「会員同士の横のつながりから、」（https://www.musashino.co.jp/・1回目）
+  - 「武蔵野の有料会員様は1000社以上（2026年2月時点）」（https://www.musashino.co.jp/・1回目）
+  - 「業種も業態も多様であり、会員様同士で情報交換をしたり交流することでネットワークが広がります」（https://www.musashino.co.jp/・1回目）
+  - 「また地域ごとのコミュニティ(地域会)が存在し、40の地域で会員様同士のベンチマーキングや研修が開催されており、経営者のみでなく組織全体で会社を変えたい会員様同士で学び合うことができます」（https://www.musashino.co.jp/・1回目）
+  - 「「経営者アカデミー®事業部」および「経営者応援塾」「経営者応援塾幹部コース」を開始 経営計画書を「道具」として使いこなし、社長と従業員のベクトルを合わせて変化に強い組織をつくる会員制プログラムを始動」（https://www.musashino.co.jp/company/profile/・1回目）
+  - 「われわれグループの成長と安定に全力をつくし」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「武蔵野の実績 - 株式会社武蔵野 - 独自で培った仕組みやノウハウを提供し、全国の中小企業を経営改善へと導く経営コンサルティング 独自で培った仕組みやノウハウを提供し、全国の中小企業を経営改善へと導く経営コンサルティング」（https://www.musashino.co.jp/company/performance/・1回目）
+  - 「現在、この成功ノウハウを体系化した経営コンサルティングサービスでは、累計5000社以上の企業経営を支援」（https://www.musashino.co.jp/company/performance/・1回目）
+  - 「（2024年12月時点の累計実績」（https://www.musashino.co.jp/company/performance/・1回目）
+  - 「特に以下の実績を支える「仕組み」を科学的に検証している点が、高く評価されています」（https://www.musashino.co.jp/news/media/2055/・1回目）
+  - 「■新聞発行部数、新聞シェア、人口、家族構成■」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+- 立ち上げ時の打ち手：
+  - 「創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける」（https://www.musashino.co.jp/company/profile/・1回目）
+  - 「1956年の創業以来、世の中のニーズに合わせて進化を続けてきました」（https://www.musashino.co.jp/company/・1回目）
+  - 「一番上の丸は創業者藤本寅雄の藤、藤の花のイメージが、左下の丸にはダスキン事業の創業者鈴木清一の鈴のイメージ、右下の丸には経営計画書の源である一倉定の倉のイメージが込められています」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「このように、創業時の想い、関係者の皆さまとのつながりを表したのがこの社章です」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「創業者が亡くなる2日前に、その奥さまから「小山さん、武蔵野の社長をやって」と言われ、「エーッ！？弱っちゃったなあ」と思いました」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「まずは、創業者の奥さまに社長になっていただければ、問題ないであろうと考えました」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「創業6年で国内No.1規模へ拡大」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「【グローバルダイニング】創業50周年 特別企画！創業者 長谷川耕造社長インタビュー（Vol.1）」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「【110億調達→破産】創業から倒産までのリアルな失敗と学びを阪根信一さんに教えてもらいました」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「クライアント案件で店舗立ち上げからメニュー開発、商品開発、販促物制作、トレーニングに携わりました」（https://musashinosabo.com/recruit/interview・3回目）
+  - 「外部クライアントのカフェ立ち上げでは、店長として現場に入る経験もしました」（https://musashinosabo.com/recruit/interview・3回目）
+  - 「トレーナーの役割は、分からないことを分かり易く、最初の」（https://musashinosabo.com/recruit/interview・3回目）
+- 船井型の段階：
+  - 「武蔵野の仕組み・経営手法についての書籍一覧、雑誌・新聞等のメディアへの掲載情報についてご案内いたします」（https://www.musashino.co.jp/company/・1回目）
+  - 「TEL:0120-85-6340 / FAX:0120-28-6340」（https://www.musashino.co.jp/company/・1回目）
+  - 「小山昇の書籍 2025年12月22日(月)発売」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「小山昇の書籍 2025年7月7日(月)発売」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「佐藤義昭の書籍 2025年3月13日(木)発売」（https://www.musashino.co.jp/news/media/・1回目）
+  - 「他部署の成功事例を壁掲示や視察で即真似する「パクリ改善」により、全社でノウハウを高速共有します」（https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2342/・1回目）
+  - 「TEL：045-971-6966 FAX：045-971-7654」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+  - 「大型パンフレット・カタログ・小冊子・DMなど、チラシでないものの配布は、別途お見積もりとさせていただきます」（https://www.nice-posting.com/posting/・3回目）
+  - 「（２）形態別蔵書統計【 （１）に含まれる特殊形態書籍の統計】 単位：冊」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「（９）配慮を必要とする子どもへのサービス ②みどりのこども館ウィズ図書館見学会」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「代表取締役社長の小山昇氏は、倒産寸前だった同社を再建し、18年連続増収を果たす企業へと変えた他、日本経営品質賞を2度受賞し、50冊以上の経営書籍も手掛ける、辣腕経営者だ」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「株式会社武蔵野の代表取締役社長である小山は、全部で約80冊の書籍を出版してきました」（https://prtimes.com/story/detail/zrPMZdhQ7Xb・3回目）
+- 株主構成：
+  - 「また同時に一番上の丸はお客様、左下の丸は従業員、右下の丸は株主さんを表してもいます」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「朝霞工場を買収し、埼玉第二工場(現・朝霞工場)を開設」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「連結経常利益は228億円、親会社株主に帰属する当期純利益は154億円となりました」（https://www.musashinobank.co.jp/ir/financial_highlight/・3回目）
+  - 「経常利益は116億円、親会社株主に帰属する中間純利益は81億円となりました」（https://www.musashinobank.co.jp/ir/financial_highlight/・3回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/kessan/?scode=9635・3回目）
+  - 「株式会社コヤマ・フーズ-麺類の分野に進出時の1989年11月買収し、2000年の吸収合併後から「埼玉麺工場」」（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+  - 「“ハウス食品G、子会社のデリカシェフを売却 90億円で”」（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+  - 「ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却｜M&Aニュース｜M&A･事業承継なら日本M&Aセンター」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「ハウス食品グループ本社株式会社（2810）は、連結子会社である株式会社デリカシェフ（埼玉県久喜市）の株式ならびに、ハウス食品グループ本社が保有するデリカシェフの事業に係る資産を全て、株式会社武蔵野（埼玉県朝霞市）へ譲渡すること決定した」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「本件譲渡に伴い、デリカシェフは、ハウス食品グループ本社の連結子会社から除外されることとなる」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「うかいが恵比寿のフレンチレストラン「マッシュルーム」運営の山岡商事を子会社化へ」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+- 創業年度：
+  - 「創業期からのデジタル活用が結実し、国からDX推進企業として認定を受ける」（https://www.musashino.co.jp/company/profile/・1回目）
+  - 「1956年の創業以来、世の中のニーズに合わせて進化を続けてきました」（https://www.musashino.co.jp/company/・1回目）
+  - 「一番上の丸は創業者藤本寅雄の藤、藤の花のイメージが、左下の丸にはダスキン事業の創業者鈴木清一の鈴のイメージ、右下の丸には経営計画書の源である一倉定の倉のイメージが込められています」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「このように、創業時の想い、関係者の皆さまとのつながりを表したのがこの社章です」（https://www.musashino.co.jp/company/philosophy/・1回目）
+  - 「創業者が亡くなる2日前に、その奥さまから「小山さん、武蔵野の社長をやって」と言われ、「エーッ！？弱っちゃったなあ」と思いました」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「まずは、創業者の奥さまに社長になっていただければ、問題ないであろうと考えました」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「創業6年で国内No.1規模へ拡大」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「【グローバルダイニング】創業50周年 特別企画！創業者 長谷川耕造社長インタビュー（Vol.1）」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「【110億調達→破産】創業から倒産までのリアルな失敗と学びを阪根信一さんに教えてもらいました」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「株式会社武蔵野は創業以来60年以上、世の中のニーズに合わせて進化を続けてきました」（https://prtimes.com/story/detail/zrPMZdhQ7Xb・3回目）
+  - 「フォローした企業がプレスリリース/ストーリーを配信するとお知らせメールが届きます」（https://prtimes.com/story/detail/zrPMZdhQ7Xb・3回目）
+  - 「(株)ベリーを設立し社長に就任、1989年に現職に就任」（https://recruit.musashino.co.jp/message/・3回目）
+- 売上・黒字：
+  - 「継続的な増収増益を達成してきた武蔵野が実践しているのは、精神論を排した」（https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/・1回目）
+  - 「単なる理論や研修で終わらせず、武蔵野自らが実践して増収増益を継続してきた『生きたノウハウ』を現場主義で落とし込む点です」（https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2349/・1回目）
+  - 「増収増益を続ける企業が実践しているのは、勘や経験だけに頼らない」（https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2346/・1回目）
+  - 「単なる知識の教授ではなく、武蔵野自身が実践して増収増益を達成してきた『生きたノウハウ』をそのまま現場主義で落とし込む点です」（https://www.musashino.co.jp/news/%E4%B8%80%E8%88%AC%E5%90%91%E3%81%91%E7%B5%8C%E5%96%B6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/2346/・1回目）
+  - 「代表取締役社長の小山昇氏は、倒産寸前だった同社を再建し、18年連続増収を果たす企業へと変えた他、日本経営品質賞を2度受賞し、50冊以上の経営書籍も手掛ける、辣腕経営者だ」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「社長就任後、小山は武蔵野の立て直しを図り、2001年から開始した経営サポート事業の成功によって18年連続で増収を果たす企業へと変えた」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「赤字続きだった武蔵野を増収増益、売上 75 億円（社長就任時の 10 倍）を超える優良企業に育てる」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「【武蔵野】倒産寸前から18年連続増収へ」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「税理士任せは危険なサイン！社長が絶対に見るべき決算書の正しい読み方を教えます！【経営 利益 黒字】」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「売上高／1,803億6,669万円（2025年3月期）」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「売上高／367億7,474万円（2025年3月期）」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「売上高／196億5,256万円（2025年3月期）」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+- 存続：
+  - 「7月 旧横浜工場、横浜第二工場及び戸塚センターを閉鎖、」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「旧千葉工場、千葉第二工場及び旧八千代センターを閉鎖、」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「旧神奈川工場を閉鎖、神奈川工場を開設」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「10月 旧群馬工場を閉鎖」（https://job.mynavi.jp/28/pc/search/corp259359/outline.html・3回目）
+  - 「“ハウス食品G、子会社のデリカシェフを売却 90億円で”」（https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E_(%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A0)・3回目）
+  - 「ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却｜M&Aニュース｜M&A･事業承継なら日本M&Aセンター」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「ハウス食品グループ本社、子会社のデリカシェフを武蔵野へ売却」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「ハウス食品グループ、子会社間で国内業務用食品事業を統合」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「本記事では、会社を売る際のメリット・注意点から、売却の方法や流れ、成功のポイントまでを解説します」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「事業売却とは？会社売却との違いやメリット、税金について解説」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「事業売却は、企業が特定の事業部門や資産を他の企業に譲渡するプロセスであり、戦略的な再編成や資金調達の手段として広く利用されています」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+  - 「本記事では、事業売却のメリットやデメリット、手続きについてご紹介します」（https://www.nihon-ma.co.jp/news/20250902_2810-7/・3回目）
+- 検索結果の抜粋：
+  - 「東京都 武蔵野 市｜新聞折込広告･折込チラシ 料金表 — 東京都 武蔵野 市｜新聞折込広告･折込チラシ 料金表 オリコメイト https://www.orikomate.jp > kanto > tokyo > musashino」（https://www.orikomate.jp/kanto/tokyo/musashino・3回目）
+  - 「料金表 ｜ 武蔵野 市公式ホームページ — 料金表 ｜ 武蔵野 市公式ホームページ 武蔵野市公式ホームページ https://www.city.musashino.lg.jp > suido > ryokinguide」（https://www.city.musashino.lg.jp/kurashi_tetsuzuki/jogesuido/suido/riyo_okyakusama/ryokinguide/1005634.html・3回目）
+  - 「東京都 武蔵野 市のポスティング・チラシ配布 - 株式会社アト — 東京都 武蔵野 市のポスティング・チラシ配布 - 株式会社アト 株式会社アト https://www.ato-co.jp > 東京都」（https://www.ato-co.jp/tokyo/musashino-shi/・3回目）
+  - 「あらゆるニーズに沿った企画・デザイン。イメージを形に ... — あらゆるニーズに沿った企画・デザイン。イメージを形に ... 武蔵野企画 https://www.e-musashino.co.jp > dtp > price」（https://www.e-musashino.co.jp/dtp/price.html・3回目）
+  - 「選挙人名簿 登録者数 ｜ 武蔵野 市公式ホームページ — 選挙人名簿 登録者数 ｜ 武蔵野 市公式ホームページ 武蔵野市公式ホームページ https://www.city.musashino.lg.jp > senkyo > senkyo_data」（https://www.city.musashino.lg.jp/shiseijoho/senkyo/senkyo_data/1040761.html・3回目）
+  - 「統計編 - 武蔵野 市立図書館 — 統計編 - 武蔵野 市立図書館 武蔵野市立図書館 PDF https://www.library.musashino.tokyo.jp > upload」（https://www.library.musashino.tokyo.jp/images/upload/04toukei.pdf・3回目）
+  - 「武蔵野 市選挙管理委員会 (@musashinosenkan) / X — 武蔵野 市選挙管理委員会 (@musashinosenkan) / X X https://x.com > musashinosenkan」（https://x.com/musashinosenkan・3回目）
+  - 「SNS - 武蔵野文化生涯学習事業団 — SNS - 武蔵野文化生涯学習事業団 武蔵野文化生涯学習事業団 https://www.musashino.or.jp > ...」（https://www.musashino.or.jp/1001487/index.html・3回目）
+  - 「数字で見る 武蔵野 大学 | 大学案内 — 数字で見る 武蔵野 大学 | 大学案内 武蔵野大学 https://www.musashino-u.ac.jp > 大学案内」（https://www.musashino-u.ac.jp/guide/profile/infographic.html・3回目）
+  - 「経営者 インタビュー 動画－株式会社 武蔵野 代表取締役社長 ... — 経営者 インタビュー 動画－株式会社 武蔵野 代表取締役社長 ... 社長名鑑 https://shachomeikan.jp > presidents > detail」（https://shachomeikan.jp/presidents/detail/10063982・3回目）
+  - 「【 武蔵野 】倒産寸前から18年連続増収へ。成長する ... - YouTube — 【 武蔵野 】倒産寸前から18年連続増収へ。成長する ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=dFLjLPlF9HY・3回目）
+  - 「職人への インタビュー | 株式会社 武蔵野 テーブル — 職人への インタビュー | 株式会社 武蔵野 テーブル 株式会社武蔵野テーブル https://musashinosabo.com > 採用情報」（https://musashinosabo.com/recruit/interview・3回目）
+
+## 株式会社船井総合研究所
+- 公式URL：https://www.funaisoken.co.jp（given）
+- 創業年度：創業：1970年3月6日（現、船井総研ホールディングス） 設立：2013年11月28日 （2014年7月に持株会社体制に移行）（https://www.funaisoken.co.jp/info/company・1回目）
+- 創業年度：設立：2013年11月28日（https://www.funaisoken.co.jp/info/company・1回目）
+- 創業年度：創立/設立年：2013年設立（https://www.sns-ad-navi.com/ad-agency/funaisoken.html・3回目）
+- 株主：最終処分場として取組むことができるサーキュラーエコノミーの可能性を見出したい ✓埋立てられるものからの資源回収やバイオガスを用いた発電事業者への販売などの事業プランの策定を支援（https://www.funaisoken.co.jp/solution/vi-circular_economy_703_S043・1回目）
+- 株主：株式会社船井総研ホールディングス（東証プライム市場・証券コード9757）（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+- 株主：船井本社 10.52% 三井住友銀行 3.61% 舩井和子 2.97% 日本生命保険 1.97% 舩井勝仁 1.96% （2015年12月31日現在）（https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 従業員数：1,235名（2025年12月31日時点）（https://www.funaisoken.co.jp/info/company・1回目）
+- 従業員数：約1,240名（2025年12月31日時点）（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+- 従業員数：113名（2026年4月1日時点）（https://shachomeikan.jp/industry_article/6216・3回目）
+- 所在地：東京本社 〒104-0028 東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー 35階 大阪本社 〒530-0001 大阪府大阪市北区梅田三丁目2番 123号 イノゲート大阪 21階・22階（https://www.funaisoken.co.jp/info/company・1回目）
+- 所在地：【大阪本社】大阪府大阪市北浜4-4-10 【東京本社】東京都千代田区丸の内1-6-6 日本生命丸の内ビル21F（https://www.sns-ad-navi.com/ad-agency/funaisoken.html・3回目）
+- 所在地：東京本社：東京都中央区八重洲二丁目2番1号 東京ミッドタウン八重洲 八重洲セントラルタワー35階／大阪本社：大阪府大阪市北区梅田三丁目2番123号 イノゲート大阪21階・22階（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+- 売上高：282億3877万円（2023年12月31日時点） [ 2 ]（https://ja.wikipedia.org/wiki/%E8%88%B9%E4%BA%95%E7%B7%8F%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 代表者：代表取締役社長 　真貝　大介（https://www.funaisoken.co.jp/info/company・1回目）
+- 代表者：TEL. 03-4356-0271（代表）（https://www.funaisoken.co.jp/info/company・1回目）
+- 代表者：代表取締役社長 真貝 大介（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+- 人がどこから来るか：
+  - 「100億企業化 DX戦略」（https://www.funaisoken.co.jp/・1回目）
+  - 「見込み顧客獲得からリード獲得への再構築まで、トータルでWebマーケティングを経験豊富な専門コンサルタントが支援します」（https://www.funaisoken.co.jp/・1回目）
+  - 「デジタルマーケティングで重要視されるSNSの運用にも対応可能です」（https://www.funaisoken.co.jp/・1回目）
+  - 「CX・コールセンター業務を改善したい企業向けのコンサルティングサービスを提供いたします」（https://www.funaisoken.co.jp/・1回目）
+  - 「多くの企業にとって、DXはより業績向上効果の高い方法ですばやく展開することが重要になります」（https://www.funaisoken.co.jp/・1回目）
+  - 「【お客様事例】BtoB製造業の営業基盤をDXで再構築」（https://www.funaisoken.co.jp/・1回目）
+  - 「100億企業化 DX戦略」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「高校訪問の効率化、オンライン説明会の導入、採用管理システムの活用など、高卒採用のDX化を進めたい」（https://www.funaisoken.co.jp/solution/vi-new-recruitment_703_S010・1回目）
+  - 「新卒採用支援コンサルティングは、国内採用市場の縮小やDXの台頭といった経営環境の変化に対応し、企業の成長を支える人材の確保を経営戦略の中で重要な位置づけとして、新卒採用経験ゼロの企業から採用人数100名を超える企業まで幅広く支援するサービスです」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「日本国内の経営環境は、国内採用市場の縮小、労働力人口の減少、DXの台頭による産業構造の変化等、日々変化しており、成長を支える人材の確保は経営戦略の中でますます重要な位置づけとなってきております」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「最新の新卒採用サービスのトレンドを踏まえて、柔軟に連携する採用サービス媒体(マイナビやofferbox等)を増やす事で、採用手段に固執せずに貴社の採用目標達成に導きます」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「採用サイトでの集客により3名のエンジニアを採用」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+- 誰が払うか・単価：
+  - 「の業種・テーマ別経営研究会が主宰され、」（https://www.funaisoken.co.jp/・1回目）
+  - 「株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「本サービスは業種・業態ごとの深い専門知見を活かし、事業戦略と連動した人材採用コンセプトの設計、求職者ジャーニーマップの設計、そして具体的な求人票策定や各種採用オウンドメディアのディレクション、求人広告運用代行（indeed等）など、戦略の立案に留まらず人事機能の代行まで企業の事業加速成長を総合的に支援します」（https://www.funaisoken.co.jp/solution/vi-career-recruitment・1回目）
+  - 「その後WEB広告で詳細のターゲティングを実施して採用年齢層を１０歳ほど下げることを実現」（https://www.funaisoken.co.jp/solution/vi-career-recruitment・1回目）
+  - 「パート・アルバイト採用はターゲットを明確にした求人広告の選定＆活用や、SNSや口コミを活用した採用手法の導入、」（https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010・1回目）
+  - 「求人掲載や紹介手数料の負担を軽減しつつ、効果的な採用を実現する方法を模索したい」（https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010・1回目）
+  - 「─ターゲットに最適な求人媒体を選定し、求人広告の内容を最適化」（https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010・1回目）
+  - 「その後WEB広告で詳細のターゲティングを実施して年齢層を１０歳ほど下げることを実現」（https://www.funaisoken.co.jp/solution/vi-partime_recruitment_703_S010・1回目）
+  - 「業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・全体で205の経営研究会が主宰され、入会者数7,286名と国内最大級のコンサルティング実績を誇る」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・各業種・テーマに精通した専門コンサルタントを962名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「（１）ウェブ広告運用代行及びコンテンツ制作・ウェブサイト運営」（https://www.funaisoken.co.jp/info/company・1回目）
+- 規模：
+  - 「・年間コンサルティング契約社数：6,236社（2025年実績）」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・年間セミナー開催数1,500件超、セミナー参加者は25,000名超」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「船井総合研究所に入社以来、様々な業種・規模のクライアントに対し、経営戦略/中経営計画の策定、ビジネスモデルの再構築、新規事業開発をサポートし、これまでの累計担当社数は300を超える」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「手掛けたコンサルティング社数は、優に400社を超える」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「・年間コンサルティング契約社数：6,286社（2024年実績）」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag・1回目）
+  - 「・年間セミナー開催数1,500件超、セミナー参加者は30,000名超」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag・1回目）
+  - 「セミナーのお申込み内容を変更したい（参加者変更／人数変更／支払方法の変更）」（https://www.funaisoken.co.jp/lp/jiryusenryaku?media=pickupslider・1回目）
+  - 「・年間コンサルティング契約社数：6,286社（2024年実績）」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider・1回目）
+  - 「・年間セミナー開催数1,500件超、セミナー参加者は30,000名超」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider・1回目）
+  - 「参加者が自らの体験や事例を語り、共有し、お互いを高めあう【師と友づくり】の場として、リアルもしくはオンラインで全国から多くの経営者にご参加いただいています」（https://www.funaisoken.co.jp/industry_theme/environment・1回目）
+  - 「参加者にとっては生の声を聞くことで、最新の成功事例をキャッチアップし、今後の取り組みのヒントを得る機会となります」（https://www.funaisoken.co.jp/study・1回目）
+  - 「100を超える経営研究会、5,000人を超える会員企業の経営者が一堂に会する「研究会全国大会」として開催しています」（https://www.funaisoken.co.jp/info/first-time・1回目）
+- 積み上がって阻むもの：
+  - 「経営戦略・グループ経営・ホールディングス化」（https://www.funaisoken.co.jp/・1回目）
+  - 「船井総合研究所のコンサルティング実績と特徴」（https://www.funaisoken.co.jp/・1回目）
+  - 「経営戦略・グループ経営・ホールディングス化」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「船井総合研究所のコンサルティング実績と特徴」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「1．各種会員制サービスの登録の確認やサービスを提供する為」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「─採用実績や立地を考慮し、重学校を決めて訪問する」（https://www.funaisoken.co.jp/solution/vi-new-recruitment_703_S010・1回目）
+  - 「新卒採用支援コンサルティングご支援実績（一例）」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「船井総研では業種・業態・規模問わず、様々な新卒採用支援コンサルティングの実績がございます」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「リブランディングに伴い採用ツールを一新し、昨対200%以上の実績」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「中途採用支援コンサルティングご支援実績（一例）」（https://www.funaisoken.co.jp/solution/vi-career-recruitment・1回目）
+  - 「中途採用コンサルティングでは業種・業態・規模問わず、様々な実績がございます」（https://www.funaisoken.co.jp/solution/vi-career-recruitment・1回目）
+  - 「船井総研では業種・業態・規模問わず、様々なハイクラス採用支援の実績がございます」（https://www.funaisoken.co.jp/solution/vi-highclass-recruitment_705_S010・1回目）
+- 立ち上げ時の打ち手：
+  - 「TOKYO PRO Marketの新規上場がグロース市場の2倍に―「100億円時代」に経営者が選ぶべきIPOルートとは」（https://www.funaisoken.co.jp/・1回目）
+  - 「採用専任の担当者がおらず社長自ら採用活動を行っている企業様であっても、各種採用ツールの制作や採用イベントの企画、採用選考フローの立案を代行させていただく事で、ゼロからの採用体制構築～採用目標達成～次年度引継ぎまでを徹底フォローいたします」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「長期インターンシップを立ち上げて学生時代から雇用する体制を構築」（https://www.funaisoken.co.jp/solution/vi-new-recruitment・1回目）
+  - 「業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「2021年より業種横断型の総合コンサルティングを担うアカウントパートナー室にて中堅・大手企業向けソリューションの立ち上げを行い、現在の100億企業化プロジェクトと地域コングロマリット経営の礎を築く」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「法律部門責任者経て「中堅企業向けコンサルティングサービス部門」の立ち上げに参画し、現在、100億企業化プロジェクト責任者」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「船井総合研究所では弁護士、会計士、社労士、司法書士といった士業向けコンサルティングの立ち上げメンバーとして参画」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「中小企業の「サステナグロース」の実現に向けて日々コンサルティングを実施中」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「新卒で入社以来、10年以上にわたり経営コンサルティングに注力し全国で新規事業立ち上げや業績アップ支援を実施」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「自らが現場の中に入り込み、その実状に適した企業活性化や組織強化を得意としており、経営改善、事業計画、資本政策、財務改善、営業強化、現業強化、管理強化、人材強化、採用、育成、Ｍ＆Ａ、新事業立ち上げまで幅広い領域をカバー」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「更には今後の事業展開や新規事業の立ち上げ、DX（デジタルトランスフォーメーション）導入についても、日々のコンサルティングに基づく具体的内容をお伝えします」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「「100億企業化プロジェクト」を立ち上げ、」（https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv・1回目）
+- 船井型の段階：
+  - 「の業種・テーマ別経営研究会が主宰され、」（https://www.funaisoken.co.jp/・1回目）
+  - 「株式会社船井総合研究所（以下当社）は、研究会、セミナー等にお申し込みいただいた方の個人情報につきましては、適法かつ公正な方法で取得を行うとともに、以下に従い適切に利用、管理、保護させていただきます」（https://www.funaisoken.co.jp/form/seminar_qa?media=top-telnumber・1回目）
+  - 「業種・テーマ別に「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとり、「成長実行支援」「採用・人的資本経営支援」「企業価値向上支援」「DX（デジタルトランスフォーメーション）・AX（AIトランスフォーメーション）支援」を通じて、社会的価値の高いサステナグロースカンパニーを多く創造することを目指している」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・年間コンサルティング契約社数：6,236社（2025年実績）」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・全体で205の経営研究会が主宰され、入会者数7,286名と国内最大級のコンサルティング実績を誇る」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・各業種・テーマに精通した専門コンサルタントを962名以上擁し、「月次支援」「経営研究会」を両輪で実施する独自の支援スタイルをとる」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「月次支援コンサルティング（ソリューションコンサルティング）」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「月次支援は、経営者が考えるミッション・経営戦略の達成や確実な成果に結びつけるための、現場主義を主軸とした顧問契約型の実行支援の経営コンサルティングサービスです」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「『100億企業のつくり方』（2025年）プレジデント社、 『データ・生成AI活用で業界平均の3～5倍の収益性を実現するCRMカンパニー』（2024年）『地域コングロマリット経営』（2023年）同文舘出版、『士業の業績革新マニュアル』（2015年）ダイヤモンド社等、多数の書籍を執筆」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「その経験を活かし、持続的成長に向けた課題を見える化する「ビジネスモデル診断」の開発、高収益なビジネスモデル作りを目的とした経営者研究会「企業価値向上益経営フォーラム」を主宰している」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「現に、お客様主催の海外視察セミナーに、講師として同行し、現地およびバス内での解説を担当することもございます」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+  - 「当社は、現場コンサルティング活動や経営研究会などで、常に最新の時流情報を得ています」（https://www.funaisoken.co.jp/lp/request?media=hamburger・1回目）
+- 株主構成：
+  - 「法人及び事業の売却・買収のコンサルティングを提供いたします」（https://www.funaisoken.co.jp/・1回目）
+  - 「・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=toptag・1回目）
+  - 「・銀行や会計事務所などの出資母体をもたない独立系のコンサルティング会社である」（https://www.funaisoken.co.jp/lp/jiryuyosoku?media=pickupslider・1回目）
+  - 「親会社は、東証プライム市場に上場する船井総研ホールディングスです」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「銀行や会計事務所といった出資母体を持たない独立系である点も、同社の特色です」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「中堅・中小企業を対象とする日本最大級の経営コンサルティング会社で、親会社は東証プライム市場に上場する船井総研ホールディングスです」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「持株会社体制への移行のため、株式会社船井総合研究所分割準備会社（現連結子会社」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「船井総研ロジ株式会社（現株式会社船井総研サプライチェーンコンサルティング）を完全子会社化（現連結子会社）」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「株式会社プロシードを完全子会社化（2026年１月に株式会社船井総合研究所と吸収合併）」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「株式会社ＨＲ Ｆｏｒｃｅを設立（2026年１月に株式会社船井総研ヒューマンキャピタルコンサルティングに商号変更）(現連結子会社)」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「新和コンピュータサービス株式会社を完全子会社化（2022年７月に株式会社船井総研コーポレートリレーションズと吸収合併）」（https://kitaishihon.com/company/9757/story・3回目）
+- 創業年度：
+  - 「設立：2013年11月28日」（https://www.funaisoken.co.jp/info/company・1回目）
+  - 「創業者 舩井幸雄が始めた船井総合研究所の伝統的なイベントです」（https://www.funaisoken.co.jp/study・1回目）
+  - 「2014年7月に持株会社体制に移行）は、創業56年の経験と、様々な業種や経営課題に対して専門性を持つ1,000名（※）を超えるコンサルタントによって、個社に合わせた戦略の策定と実行を支援します」（https://www.funaisoken.co.jp/info/first-time・1回目）
+  - 「船井総合研究所は創業来、経営者に寄り添うことに重きを置き、中核的価値観の1つに「Empathy～経営者に伴走しよう～」を掲げ、クライアント企業の業績向上・価値向上と、経営者の想いや期待に応えることを心がけています」（https://www.funaisoken.co.jp/info/first-time・1回目）
+  - 「経営戦略セミナーは創業者である舩井幸雄がスタートし、開催90回を超える船井総合研究所を代表する伝統的なイベントです」（https://www.funaisoken.co.jp/info/first-time・1回目）
+  - 「これは、創業者・故船井幸雄の遺志を継ぎ、社会に著しい貢献が期待できる法人や団体、および個人の健全な発展を支援し、社会の進展に寄与することを目指すものです」（https://www.funaisoken.co.jp/info/first-time・1回目）
+  - 「本レポートでは、船井総合研究所が新たにリリースしたAIエージェント・プラットフォーム「PRIME」の全貌と、業績に直結する活用例を大公開します」（https://www.funaisoken.co.jp/lp/primedl?oshirase-area・1回目）
+  - 「今回は、将来的な「売上30億円・100名体制」そして「事業会社化（分社化）」や海外拠点立ち上げを見据えた、いわば【第二創業期のコアメンバー】の増員募集です」（https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516・3回目）
+  - 「現在、当部門は売上30億円・100名体制に向けた「第2創業期・事業会社化」のフェーズにあります」（https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516・3回目）
+  - 「この評判は主に、創業者の船井幸雄氏が晩年にスピリチュアルな活動に傾倒したことに起因しています」（https://service.manadic.com/column/131・3回目）
+  - 「2013年設立」（https://www.sns-ad-navi.com/ad-agency/funaisoken.html・3回目）
+  - 「表の設立日は、いまの船井総合研究所という法人のものです」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+- 売上・黒字：
+  - 「クライアントの売上高100億円に向けた最速ロードマップを提案し、まるで経営者の一員のように実行・急成長をリードします」（https://www.funaisoken.co.jp/・1回目）
+  - 「船井総研は、中小企業の売上高100億円超えを支援する「100億企業化プロジェクト」を推進し、過去5年で売上高100億を達成する企業が300社を突破しました」（https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv・1回目）
+  - 「企業の持続的な成長には、高い成長性（対前年売上高成長率）と収益性（営業利益率）を維持し続けることが重要です」（https://www.funaisoken.co.jp/info/first-time・1回目）
+  - 「S396 L 平均営業利益」（https://www.funaisoken.co.jp/images/original/img-chart2025.jpg・2回目）
+  - 「中小企業を中堅企業へ育てる100億企業化の支援では、売上高100億円に向けたロードマップの策定から実現までを担います」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「船井総合研究所の経営コンサルティング業務は、持株会社の2025年12月期決算では経営コンサルティング事業のセグメントに含まれます」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「このセグメントの売上高は244億7,100万円で前期比9.4%増、営業利益は83億6,900万円で同11.5%増となりました」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「同じセグメントには、中国の現地法人や船井総研あがたFASなど、グループ会社の業績も含まれます」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「業種別では、住宅不動産業界向けと医療介護福祉業界向けのコンサルティング部門が売上高を伸ばしました」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「加えて、神戸大学大学院経営学研究科とは、売上高100億円企業への成長を左右する要因を探る共同研究を行いました」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「同期の連結業績は売上高333.3億円（前期比8.8％増）、営業利益88.1億円（同5.9％増）と」（https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html・3回目）
+  - 「主力の経営コンサルティング事業でも、月次支援の契約単価の上昇や経営研究会の会員数の増加によって増収増益となり、人的資本の強化に向けた人財投資も積極的に進められています」（https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html・3回目）
+- 存続：
+  - 「法人及び事業の売却・買収のコンサルティングを提供いたします」（https://www.funaisoken.co.jp/・1回目）
+  - 「成功事例からは、異業種M&Aによる事業多角化ノウハウ、M&A後の企業文化統合や人材採用への相乗効果まで具体的に学べます」（https://www.funaisoken.co.jp/lp/10-strategies-to-a-10-billion-yen-company?media=top-mv・1回目）
+  - 「日本で磨いたビジネスモデルを世界へ！目標から逆算し、出店・組織・財務を統合した海外進出の成長ロードマップを解説」（https://www.funaisoken.co.jp/lp/overseas-reports?media=news・1回目）
+  - 「船井総研グループ 統合レポート2026」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「採用マーケティングツール「Recruiting Cloud」を刷新した次世代プラットフォームで、広告手数料の撤廃や採用・定着データの統合によるLTV最大化を目指すサービスです」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「船井総研ロジ株式会社（現株式会社船井総研サプライチェーンコンサルティング）の株式一部売却により連結の範囲から除外」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「東京証券取引所及び大阪証券取引所市場第一部に指定される（2013年７月 現物市場統合に伴い大阪証券取引所市場第一部は東京証券取引所市場第一部に統合）」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「業務終了時には、その日の振り返りやフィードバックをし、終業しています」（https://www.wantedly.com/companies/fsdg/post_articles/894865・3回目）
+  - 「インターン開始直後と終了する時で、」（https://www.wantedly.com/companies/fsdg/post_articles/894865・3回目）
+  - 「オフィス統合を機にグループシナジーを育みたい」（https://howhere.jp/articles/funaisoken・3回目）
+  - 「しかし、成功する合併には戦略的な計画と文化の統合が欠かせません」（https://www.nihon-ma.co.jp/news/20241125_9757-6/・3回目）
+  - 「この記事のポイント企業の合併は、2つ以上の企業が統合し新しい法人を形成することを指す」（https://www.nihon-ma.co.jp/news/20241125_9757-6/・3回目）
+- 検索結果の抜粋：
+  - 「料金表 - 船井総合研究所 補助金サポートPRO — 料金表 - 船井総合研究所 補助金サポートPRO 船井総合研究所 https://hojokin.funaisoken.co.jp > pages > price」（https://hojokin.funaisoken.co.jp/pages/price・3回目）
+  - 「船井総研 ｜アカウントプランナー（広告代理店事業） — 船井総研 ｜アカウントプランナー（広告代理店事業） OpenWork https://www.openwork.jp > recruit」（https://www.openwork.jp/a0910000000Fs0D/recruit?j=21cf063d5292b516・3回目）
+  - 「船井総研 のコンサル料と評判は？料金・費用対効果を専門家が ... — 船井総研 のコンサル料と評判は？料金・費用対効果を専門家が ... マネディク https://service.manadic.com > column」（https://service.manadic.com/column/131・3回目）
+  - 「広告費に頼らない「紹介・リピート経営」への転換戦略 — 広告費に頼らない「紹介・リピート経営」への転換戦略 船井総合研究所 https://www.funaisoken.co.jp > 経営セミナー一覧」（https://www.funaisoken.co.jp/seminar/143258・3回目）
+  - 「SNS広告代理店「株式会社 船井総合研究所 」とは — SNS広告代理店「株式会社 船井総合研究所 」とは sns-ad-navi.com https://www.sns-ad-navi.com > ad-agency > funaisoken」（https://www.sns-ad-navi.com/ad-agency/funaisoken.html・3回目）
+  - 「数字で知る 船井総研 — 数字で知る 船井総研 船井総合研究所 https://recruit.funaisoken.co.jp > 船井総研を知る」（https://recruit.funaisoken.co.jp/pages/about-data・3回目）
+  - 「【動画】人的資本経営コンサルティング PV 【 船井総研 】 — 【動画】人的資本経営コンサルティング PV 【 船井総研 】 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=cAmccnTqKeM・3回目）
+  - 「船井総合研究所 とは？転職前に知りたい事業内容・働き方 ... — 船井総合研究所 とは？転職前に知りたい事業内容・働き方 ... ステラキャリアズ https://stellar-careers.com > Industry knowledge」（https://stellar-careers.com/industry-knowledge/funai/・3回目）
+  - 「船井総合研究所 （ 船井総研 ）とはどんな会社？特徴・年収・評判 — 船井総合研究所 （ 船井総研 ）とはどんな会社？特徴・年収・評判 movin.co.jp https://www.movin.co.jp > firmlist > funai > description」（https://www.movin.co.jp/gyoukai/firmlist/independence/funai/description.html・3回目）
+  - 「船井総研 ホールディングス【9757】のストーリー・沿革 — 船井総研 ホールディングス【9757】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story」（https://kitaishihon.com/company/9757/story・3回目）
+  - 「船井総研 の新規事業！社長onlineの事業責任者に インタビュー — 船井総研 の新規事業！社長onlineの事業責任者に インタビュー 船井総合研究所 https://recruit.funaisoken.co.jp > リクシップ」（https://recruit.funaisoken.co.jp/blogs/recruit-ship/4192・3回目）
+  - 「株式会社 船井総合研究所 | インタビュー | 注目企業紹介 — 株式会社 船井総合研究所 | インタビュー | 注目企業紹介 axc.ne.jp https://www.axc.ne.jp > interview > funaisoken」（https://www.axc.ne.jp/introduction/interview/funaisoken/001/index.html・3回目）
+
+## 環境ビジネス
+- 公式URL：https://www.kankyo-business.jp（given）
+- 人がどこから来るか：
+  - 「工場GX調査、イラン情勢でエネルギー調達に危機感 7割超が蓄電池に関心」（https://www.kankyo-business.jp/・1回目）
+  - 「次世代GX工場に求められる再エネ自家消費戦略 太陽光×制御×蓄電池の最新事例」（https://www.kankyo-business.jp/・1回目）
+  - 「官民連携で森林由来クレジット936t INPEXはガス付加、沼田市は売却」（https://www.kankyo-business.jp/・1回目）
+  - 「脱炭素・GX・再エネ・省エネ・資源循環などのテーマを中心に、実務解説など仕事に役立つ知識と情報をお届けします」（https://www.kankyo-business.jp/・1回目）
+  - 「脱炭素電源活用のGX地域共創補助金、2次公募11月開始 1次11件採択」（https://www.kankyo-business.jp/・1回目）
+  - 「リサイクル銅100％の圧延銅箔を販売開始 JX金属、電子機器向けに供給」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「JX金属（東京都港区）は10月26日、銅原料にリサイクル材を100％使用した圧延銅箔の本格販売を同月から開始したと発表した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「竹中工務店（大阪府大阪市）は10月23日、解体工事現場で排出された廃材由来の原料を活用した「サーキュラーコンクリート」を開発し、神奈川県横浜市において開催される2027年国際園芸博覧会「GREEN×EXPO 2027」（会期：2027年3月19日～9月26日）の展示施設「竹中グル…」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「前回は、水素の供給網や価格が整ってから検討を始めるのではなく、需要家側も自社の熱・発電・燃料需要を棚卸しし、将来の選択肢に水素を入れておく必要性を紹介した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「当時、『21世紀は、環境の世紀』といわれ、私たちは、新たな時代の到来はもちろんのこと、新たな産業の息吹を感じ、環境に関するビジネスに役立つメディアを出版することになりました」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「リサイクル銅100％の圧延銅箔を販売開始 JX金属、電子機器向けに供給」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「JX金属（東京都港区）は10月26日、銅原料にリサイクル材を100％使用した圧延銅箔の本格販売を同月から開始したと発表した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+- 誰が払うか・単価：
+  - 「環境ビジネス 広告・イベント協賛・プロモーション」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「の定期購読、オンライン会員へのリーチ」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「貴社ターゲットに直結するセミナーテーマへの協賛を通じて、専門性の高い潜在層へのブランディングと確実なリード獲得を叶えます」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「環境ビジネスのメルマガの広告枠を活用して集客を実施」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「媒体資料｜環境ビジネス 広告・イベント協賛・プロモーション」（https://www.kankyo-business.jp/public/adsite/media-kit.html・1回目）
+  - 「◆広告料金と原稿サイズ（広告料金には別途消費税が加算されます」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「株式会社大日広告社(http://www.dainichiad.co.jp/)」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「女性誌広告/ビジネス誌広告/シニア誌広告/音楽雑誌広告/バイク雑誌広告･･･全てのジャンル/業界の広告戦略をデザインします･･･最強の雑誌広告戦略を！」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+  - 「雑誌広告のお問合せは、TEL03-5577-4831へ/平日9:00～18:00/土日祝を除く」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+  - 「スポーツアウトドア雑誌 広告料金 媒体資料」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+  - 「専門誌ジャンル別出稿のご案内/雑誌広告媒体一覧」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+  - 「（使わない）専門誌ジャンル別出稿のご案内/雑誌広告媒体一覧ー 女性雑誌一覧_ギャル」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+- 規模：
+  - 「環境ビジネスセミナー「PV NEXT VISION」｜トーラス株式会社」（https://torus-i.co.jp/news/22/・3回目）
+  - 「環境ビジネスセミナー「PV NEXT VISION」｜お知らせ」（https://torus-i.co.jp/news/22/・3回目）
+  - 「環境ビジネスセミナー「PV NEXT VISION」」（https://torus-i.co.jp/news/22/・3回目）
+  - 「個人の参加者が1,000人ほど集まった頃から、企業の注目も高まっていきました」（https://integrity-sbp.com/media/contents/ebagency-part2・3回目）
+- 積み上がって阻むもの：
+  - 「ツルハグループ、首都圏48店舗にオフサイトPPA CO2排出年743t減」（https://www.kankyo-business.jp/・1回目）
+  - 「コスメブランドマーケティング・カンファレンス」（https://www.kankyo-business.jp/・1回目）
+  - 「グループ各社が回収したリサイクル原料を専用製錬炉などで精製し、従来品と同等の品質を確保した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「その具体的な取り組みについて、同社ベーシックマテリアルズビジネスグループ事業企画本部CN・CE企画部長の西原 涼平氏に話を聞いた」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「中国電力（広島県広島市）は11月2日、中国地域の高圧・特別高圧の顧客を対象に、電力需要の調整を依頼し、協力実績に応じて経済的なメリットを還元する「2026年度」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「同サービスでは、2026年12月～2027年2月の期間、対象の顧客に対して、電力需給状況などを踏まえ、指定する日時に、電力の使用を抑える下げDR（節電）を依頼し、その実績に応じて電気料金を割り引く」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「コスメブランドマーケティング・カンファレンス」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「グループ各社が回収したリサイクル原料を専用製錬炉などで精製し、従来品と同等の品質を確保した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「その具体的な取り組みについて、同社ベーシックマテリアルズビジネスグループ事業企画本部CN・CE企画部長の西原 涼平氏に話を聞いた」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「コスメブランドマーケティング・カンファレンス」（https://www.kankyo-business.jp/news/261ca979-b494-45c2-83da-6cbfbf507c6c・1回目）
+  - 「グリーン冷媒「R1234yf」を採用したノンフロンチラー | 環境ソリューションデータベース | 環境ビジネスオンライン」（https://www.kankyo-business.jp/solution-database/nmrdpq724m2・1回目）
+  - 「コスメブランドマーケティング・カンファレンス」（https://www.kankyo-business.jp/solution-database/nmrdpq724m2・1回目）
+- 立ち上げ時の打ち手：
+  - 「1998年創刊の『環境ビジネス』は環境分野に特化した、宣伝会議発行の情報メディアです」（https://www.kankyo-business.jp/・1回目）
+  - 「宣伝会議が創業から70年以上の歴史で培ったマーケティング領域のノウハウや人脈を生かし、サステナブル経営を志向する企業の「環境とビジネスの両立」を支えます」（https://www.kankyo-business.jp/・1回目）
+  - 「1918年に創業し、アスファルトプラントメーカーとして半世紀を超える歴史を持つ田中鉃工」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「環境ビジネスは、温暖化防止のための世界で初めての国際協定である京都議定書が1997年に採択されたことを受けて、その翌年創刊しました」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「1918年に創業し、アスファルトプラントメーカーとして半世紀を超える歴史を持つ田中鉃工」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「環境ビジネスは、温暖化防止のための世界で初めての国際協定である京都議定書が1997年に採択されたことを受けて、その翌年創刊しました」（https://www.kankyo-business.jp/news/261ca979-b494-45c2-83da-6cbfbf507c6c・1回目）
+  - 「1998年創刊 企業の環境分野専門誌としての信頼性」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「<創刊>1998年(平成10年)」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「初期費用なしで資料・セミナー情報を掲載いただけます」（https://media-radar.jp/detail3173.html・3回目）
+  - 「1998年に創刊されてから、20年以上環境分野をテーマに発行し続けているので、蓄積してきたノウハウをもとに専門性の高い魅力ある広告を打ってくれるのが特長的です」（https://www.shopowner-support.net/attracting_customers/energie/electricpower/kankyobusiness/・3回目）
+  - 「創業時から株式会社とNPO法人を併走させ、企業と生活者の双方から環境問題に働きかける独自の仕組みを築いている」（https://integrity-sbp.com/media/contents/ebagency-part2・3回目）
+  - 「組織の中では実現できなかった、生活者の行動変容や中小企業の環境対応を進めるため、自ら事業を立ち上げて、環境ビジネスの代理人・エコアクションの代理人という独自のポジションを確立してきた」（https://integrity-sbp.com/media/contents/ebagency-part2・3回目）
+- 船井型の段階：
+  - 「5月中旬、環境法令初心者向けの専門書「環境法令アップデート」（民事法研究会）が出版されます！」（https://integrity-sbp.com/media/contents/ebagency-part2・3回目）
+  - 「また、もうひとりの著者の小林光氏は元環境庁事務次官として幅広い環境政策の立案等に関わり、現在は東京大学先端科学技術研究センター研究顧問を務めている」（https://www.projectdesign.jp/articles/46520be1-0110-4839-be67-b1583c7f61e6・3回目）
+  - 「TEL:03-3445-0342 / FAX:03-3443-6442」（http://www.kankyobs.co.jp/company/・3回目）
+  - 「【TEL】 0877-63-5575 【FAX】 0877-63-5611」（https://kankyou.shikoku.co.jp/gaiyou/・3回目）
+  - 「【TEL】 087-813-8622 【FAX】 087-813-8633」（https://kankyou.shikoku.co.jp/gaiyou/・3回目）
+  - 「【TEL】 088-641-2409 【FAX】 088-641-2429」（https://kankyou.shikoku.co.jp/gaiyou/・3回目）
+- 株主構成：
+  - 「四国化成ホールディングス株式会社 100%子会社」（https://kankyou.shikoku.co.jp/gaiyou/・3回目）
+  - 「四国化成工業（現四国化成HD）の100%子会社となる」（https://kankyou.shikoku.co.jp/gaiyou/・3回目）
+- 創業年度：
+  - 「脱炭素経営は「宣言」から「実行の証明」へ BSIが新たな認証サービス開始」（https://www.kankyo-business.jp/・1回目）
+  - 「1998年創刊の『環境ビジネス』は環境分野に特化した、宣伝会議発行の情報メディアです」（https://www.kankyo-business.jp/・1回目）
+  - 「宣伝会議が創業から70年以上の歴史で培ったマーケティング領域のノウハウや人脈を生かし、サステナブル経営を志向する企業の「環境とビジネスの両立」を支えます」（https://www.kankyo-business.jp/・1回目）
+  - 「田中貴金属工業（東京都中央区）は10月21日、マレーシアの廃棄物回収・リサイクル事業者であるMEP Enviro Technology（以下MEP）と、貴金属リサイクル事業を手がける合弁会社を設立すると発表した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「1918年に創業し、アスファルトプラントメーカーとして半世紀を超える歴史を持つ田中鉃工」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html・1回目）
+  - 「環境ビジネスは、温暖化防止のための世界で初めての国際協定である京都議定書が1997年に採択されたことを受けて、その翌年創刊しました」（https://www.kankyo-business.jp/news/9502d3d0-92a3-400d-b9fa-423b284c7fd3・1回目）
+  - 「田中貴金属工業（東京都中央区）は10月21日、マレーシアの廃棄物回収・リサイクル事業者であるMEP Enviro Technology（以下MEP）と、貴金属リサイクル事業を手がける合弁会社を設立すると発表した」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「1918年に創業し、アスファルトプラントメーカーとして半世紀を超える歴史を持つ田中鉃工」（https://www.kankyo-business.jp/public/circular-regeneration-for-industry/index.html?utm_source=kankyo&utm_medium=specialfeature1&utm_campaign=kankyo_event・1回目）
+  - 「環境ビジネスは、温暖化防止のための世界で初めての国際協定である京都議定書が1997年に採択されたことを受けて、その翌年創刊しました」（https://www.kankyo-business.jp/news/261ca979-b494-45c2-83da-6cbfbf507c6c・1回目）
+  - 「1998年創刊 企業の環境分野専門誌としての信頼性」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「<創刊>1998年(平成10年)」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「1998年に創刊されてから、20年以上環境分野をテーマに発行し続けているので、蓄積してきたノウハウをもとに専門性の高い魅力ある広告を打ってくれるのが特長的です」（https://www.shopowner-support.net/attracting_customers/energie/electricpower/kankyobusiness/・3回目）
+- 存続：
+  - 「官民連携で森林由来クレジット936t INPEXはガス付加、沼田市は売却」（https://www.kankyo-business.jp/・1回目）
+  - 「系統用蓄電池は「設備」から「インフラ」へ 統合型サービスで社会実装を支える」（https://www.kankyo-business.jp/・1回目）
+  - 「専門メディアの編集者の知見を活かしたオウンドメディアの記事制作から、統合報告書制作まで幅広くご支援します」（https://www.kankyo-business.jp/public/adsite/index.html?utm_source=website&utm_medium=kankyo&utm_campaign=footer_textlink・1回目）
+  - 「他のマネジメントシステムと統合したい・EMSをきちんと運用したい」（https://www.ebagency.jp/・3回目）
+- 検索結果の抜粋：
+  - 「媒体資料 ｜ 環境ビジネス 広告・イベント協賛・プロモーション — 媒体資料 ｜ 環境ビジネス 広告・イベント協賛・プロモーション 環境ビジネスオンライン https://www.kankyo-business.jp > adsite > media-kit」（https://www.kankyo-business.jp/public/adsite/media-kit.html・3回目）
+  - 「環境ビジネス -広告掲載・ 料金表 ・ターゲティングデータ、特徴 — 環境ビジネス -広告掲載・ 料金表 ・ターゲティングデータ、特徴 大日広告社 https://www.dainichiad.co.jp > html > baitai」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「環境ビジネス 広告掲載料金 媒体資料 - 雑誌広告代理店HRKS — 環境ビジネス 広告掲載料金 媒体資料 - 雑誌広告代理店HRKS 雑誌広告代理店HRKS https://www.hrks.jp > ... > ビジネス/その他」（https://www.hrks.jp/ad/mediadata/b_other/kankyoubusiness/・3回目）
+  - 「環境ビジネス オンラインの 媒体資料 - メディアレーダー — 環境ビジネス オンラインの 媒体資料 - メディアレーダー メディアレーダー https://media-radar.jp > 媒体資料を探す」（https://media-radar.jp/detail3173.html・3回目）
+  - 「環境ビジネス 広告・イベント協賛・プロモーション — 環境ビジネス 広告・イベント協賛・プロモーション 環境ビジネスオンライン https://www.kankyo-business.jp > public > adsite」（https://www.kankyo-business.jp/public/adsite/index.html・3回目）
+  - 「環境ビジネス -広告掲載・料金表・ターゲティングデータ、特徴 — 環境ビジネス -広告掲載・料金表・ターゲティングデータ、特徴 大日広告社 https://www.dainichiad.co.jp > html > baitai」（https://www.dainichiad.co.jp/html/baitai/547.php・3回目）
+  - 「環境ビジネス の特徴や広告掲載料金・評判をチェック — 環境ビジネス の特徴や広告掲載料金・評判をチェック キャククル https://www.shopowner-support.net > kankyobusiness」（https://www.shopowner-support.net/attracting_customers/energie/electricpower/kankyobusiness/・3回目）
+  - 「環境ビジネス セミナー「 PV NEXT VISION」 - トーラス株式会社 — 環境ビジネス セミナー「 PV NEXT VISION」 - トーラス株式会社 torus-i.co.jp https://torus-i.co.jp > news」（https://torus-i.co.jp/news/22/・3回目）
+  - 「環境を守る｜ 環境ビジネス エージェンシーの挑戦（後編 — 環境を守る｜ 環境ビジネス エージェンシーの挑戦（後編 株式会社Integrity https://integrity-sbp.com > contents > ebagency-part2」（https://integrity-sbp.com/media/contents/ebagency-part2・3回目）
+  - 「環境ビジネス の例12選：エコビジネスで稼ぐ方法（2026年版） — 環境ビジネス の例12選：エコビジネスで稼ぐ方法（2026年版） Shopify https://www.shopify.com > blog > sustainable-businesses」（https://www.shopify.com/jp/blog/sustainable-businesses・3回目）
+  - 「環境ビジネス オンライン｜脱炭素経営・CO2削減に役立つ ... — 環境ビジネス オンライン｜脱炭素経営・CO2削減に役立つ ... 環境ビジネスオンライン https://www.kankyo-business.jp」（https://www.kankyo-business.jp/・3回目）
+  - 「会社案内 - 環境ビジネス株式会社 — 会社案内 - 環境ビジネス株式会社 環境ビジネス株式会社 http://www.kankyobs.co.jp > company」（http://www.kankyobs.co.jp/company/・3回目）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）
+- 売上・黒字：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部50頁・検索14回）

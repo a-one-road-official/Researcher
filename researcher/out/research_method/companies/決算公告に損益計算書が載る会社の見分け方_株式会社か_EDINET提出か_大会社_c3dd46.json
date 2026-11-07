@@ -8,279 +8,33 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-06T22:25:18.307619+00:00",
+ "researched_at": "2026-11-07T03:04:11.545597+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "中堅企業でも増資を重ねた結果、5億円を超えるケースがあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個別の明細（例えば売上原価の内訳である期首棚卸高・当期仕入高・期末棚卸高など）は、要旨では省略可能です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "P/L要旨だけで10〜15行程度が追加されるため、合計30〜40行前後になるケースがあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式会社は基本的に決算公告を行う義務がありますが、一部不要のケースもあります",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "掲載費用は非常に高く、数百万ほどかかるケースもあります",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告が不要となるケースは、以下の通りです",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、損益計算書を公告しない場合にも「当期純損益の付記」という見落としやすいルールがあり、これを知らずに手続きを進めてしまうケースが少なくありません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう",
-    "url": "https://shiodome.co.jp/js/blog/13590",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的なケースは公認会計士へのご相談をおすすめします",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事は正確な情報提供を心掛けておりますが、執筆時点の情報に基づいているため、法改正や個別のケースにより適用が異なる可能性があります",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で大会社に該当しないケースでは、貸借対照表のみの公告となります（同上）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告の義務や例外的に不要となるケースについて説明します",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "定款の規定がないケースでは、官報による公告を行います（同法第939条4項）",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ただし一点、注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "期限がないからと言って決算公告を怠ると、会社の透明性が損なわれるため注意しましょう",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「多くの中小企業が実施していないから」「面倒だから」などの理由で対応を怠ると、信頼性が低下につながるため注意しましょう",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "行うべき時期に決算公告をしなかったり不正な方法で行ったりした場合、罰則が生じる可能性があるため注意しましょう",
-    "url": "https://www.keihi.com/column/45390/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "のみを公示している場合は、違法状態となることに注意する必要がある",
-    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに、電子公告の場合は掲載期間にも注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1項）、記載を忘れないよう注意が必要です",
-    "url": "https://shiodome.co.jp/js/blog/13590",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません",
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報で要旨を載せていた会社が電子公告へ切り替えると、公告する分量が大きく増える点に注意が必要です",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を怠ると罰則が課せられるため、注意が必要です",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します",
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を官報に掲載するやり方【全7ステップで完全解説】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を官報に掲載するやり方を7ステップで完全解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
@@ -854,6 +608,118 @@
    {
     "quote": "合併や減資の公告は従来どおり官報などで行うので、決算公告の手間だけを減らしたい会社に向く方法です",
     "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ただし一点、注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期限がないからと言って決算公告を怠ると、会社の透明性が損なわれるため注意しましょう",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「多くの中小企業が実施していないから」「面倒だから」などの理由で対応を怠ると、信頼性が低下につながるため注意しましょう",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "行うべき時期に決算公告をしなかったり不正な方法で行ったりした場合、罰則が生じる可能性があるため注意しましょう",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のみを公示している場合は、違法状態となることに注意する必要がある",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、電子公告の場合は掲載期間にも注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1項）、記載を忘れないよう注意が必要です",
+    "url": "https://shiodome.co.jp/js/blog/13590",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません",
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報で要旨を載せていた会社が電子公告へ切り替えると、公告する分量が大きく増える点に注意が必要です",
+    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を怠ると罰則が課せられるため、注意が必要です",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本書では、はじめてERPを導入する企業向けに、ERPの基本とその失敗しない選び方を解説します",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1449,6 +1315,176 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "実例": [
+   {
+    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業でも増資を重ねた結果、5億円を超えるケースがあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個別の明細（例えば売上原価の内訳である期首棚卸高・当期仕入高・期末棚卸高など）は、要旨では省略可能です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "P/L要旨だけで10〜15行程度が追加されるため、合計30〜40行前後になるケースがあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式会社は基本的に決算公告を行う義務がありますが、一部不要のケースもあります",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "掲載費用は非常に高く、数百万ほどかかるケースもあります",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告が不要となるケースは、以下の通りです",
+    "url": "https://www.keihi.com/column/45390/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、損益計算書を公告しない場合にも「当期純損益の付記」という見落としやすいルールがあり、これを知らずに手続きを進めてしまうケースが少なくありません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう",
+    "url": "https://shiodome.co.jp/js/blog/13590",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的なケースは公認会計士へのご相談をおすすめします",
+    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事は正確な情報提供を心掛けておりますが、執筆時点の情報に基づいているため、法改正や個別のケースにより適用が異なる可能性があります",
+    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で大会社に該当しないケースでは、貸借対照表のみの公告となります（同上）",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、損益計算書の要旨を公告しないケースでは、貸借対照表の要旨に当期純損益金額を付記します（会社計算規則第142条）",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告の義務や例外的に不要となるケースについて説明します",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例外的に、以下のケースに該当する会社は決算公告が不要です（会社法第440条3項・4項、会社法の施行に伴う関係法律の整備等に関する法律第28条）",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "定款の規定がないケースでは、官報による公告を行います（同法第939条4項）",
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -1465,12 +1501,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/bellmino/n/n836cb0eddb1d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/oboreru_tanuki/n/n642c3a338568",
+    "url": "https://note.com/nnoo12/n/nc6e185955a93",
     "status": "ok",
     "method": "http"
    },
@@ -1480,7 +1521,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nnoo12/n/nc6e185955a93",
+    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/erp/basic/2193/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shiodome.co.jp/js/blog/13590",
     "status": "ok",
     "method": "http"
    },
@@ -1495,33 +1546,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.kigyou-houmu.com/secret-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiodome.co.jp/js/blog/13590",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://atsoho.com/blog/results-notice-income-statement",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "status": "http_403",
+    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -1532,43 +1563,40 @@
    "results": [
     "https://note.com/real_ram9758/n/n015e975a7128",
     "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/bellmino/n/n836cb0eddb1d",
     "https://note.com/oboreru_tanuki/n/n642c3a338568",
-    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "https://note.com/bellmino/n/n836cb0eddb1d",
     "https://note.com/nnoo12/n/nc6e185955a93",
+    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
     "https://note.com/yuki_inform/n/ne2cb275d3239"
    ]
   },
   {
    "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 note",
-   "results": []
+   "results": [
+    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "https://biz.moneyforward.com/erp/basic/2193/",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "https://atsoho.com/blog/results-notice-income-statement",
+    "https://www.kigyou-houmu.com/secret-4/"
+   ]
   },
   {
    "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 やり方",
    "results": [
-    "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "https://www.kigyou-houmu.com/secret-4/",
     "https://shiodome.co.jp/js/blog/13590",
-    "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
     "https://biz.moneyforward.com/erp/basic/2193/",
-    "https://sw-kaikei.com/archives/1874",
-    "http://www.ipo-navi.com/closeup/company_law/public.html",
-    "https://atsoho.com/blog/results-notice-income-statement",
-    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/"
-   ]
-  },
-  {
-   "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 事例",
-   "results": [
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
     "https://atsoho.com/blog/results-notice-income-statement",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
     "https://www.kigyou-houmu.com/secret-4/"
    ]
+  },
+  {
+   "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 事例",
+   "results": []
   },
   {
    "query": "which companies publish income statement in kessan koukoku large company EDINET alternative sources",
@@ -1579,23 +1607,23 @@
    "results": [
     "https://note.com/real_ram9758/n/n015e975a7128",
     "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/oboreru_tanuki/n/n642c3a338568",
     "https://note.com/bellmino/n/n836cb0eddb1d",
-    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
     "https://note.com/nnoo12/n/nc6e185955a93",
-    "https://note.com/yuki_inform/n/ne2cb275d3239",
-    "https://note.com/oboreru_tanuki/n/n642c3a338568"
+    "https://note.com/nice_cosmos4982/n/n1ef54ae444af",
+    "https://note.com/ianak_20251121/n/n2d6fe55348e6"
    ]
   },
   {
    "query": "site:x.com 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先",
    "results": [
     "https://x.com/mister_n7/status/2033083161089806755",
+    "https://x.com/nikkei/status/2041715347372261508",
     "https://x.com/kessan_db",
     "https://x.com/kessansho_soto/status/2115232074198364214",
-    "https://x.com/cpa_yamada/status/2104530307877662877",
-    "https://x.com/kessansho_soto/status/2117406407393992732",
-    "https://x.com/kessan_kokoku",
-    "https://x.com/rSu8bySbnrSIDPX/status/2100545426013421745"
+    "https://x.com/ASU_7002/status/2110485138467643581",
+    "https://x.com/shiotax8/status/2112788362440396886",
+    "https://x.com/montes_pyam/status/2056145963321000104"
    ]
   },
   {
@@ -1625,33 +1653,35 @@
   {
    "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 note 社長",
    "results": [
+    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
+    "https://shiodome.co.jp/js/blog/13590",
+    "https://biz.moneyforward.com/erp/basic/2193/",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "https://shiodome.co.jp/js/blog/13590",
-    "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
     "https://atsoho.com/blog/results-notice-income-statement",
-    "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "https://www.kigyou-houmu.com/secret-4/"
+    "https://www.kigyou-houmu.com/secret-4/",
+    "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "http://www.ipo-navi.com/closeup/company_law/public.html"
    ]
   },
   {
    "query": "決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先 X 投稿",
    "results": [
+    "https://biz.moneyforward.com/erp/basic/2193/",
+    "https://shiodome.co.jp/js/blog/13590",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "https://shiodome.co.jp/js/blog/13590",
     "https://atsoho.com/blog/results-notice-income-statement",
     "https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/",
-    "https://biz.moneyforward.com/erp/basic/2193/",
     "https://www.kigyou-houmu.com/secret-4/"
    ]
   },
   {
    "query": "which companies publish income statement in kessan koukoku large company EDINET alternative sources site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/pulse/where-can-you-get-companys-financial-report-f9pwf",
     "https://pe.linkedin.com/company/horizondataworks",
     "https://pe.linkedin.com/pulse/how-research-company-free-top-tips-gathering-companies-walker",
-    "https://www.linkedin.com/pulse/where-can-you-get-companys-financial-report-f9pwf",
     "https://www.linkedin.com/posts/matthewhelmer_unlock-japanese-financial-data-with-python-activity-7237509885892907010-FMcF",
     "https://www.linkedin.com/posts/japan-exchange-group_status-of-proof-of-concept-testing-for-html-activity-7120885099444805633-EKHp",
     "https://www.linkedin.com/posts/alphanalyst_alpha-analyst-now-delivers-full-scale-activity-7402060000648413185-doV1",
@@ -1661,187 +1691,47 @@
  ],
  "missing": {},
  "new_this_run": {
-  "実例": [
-   {
-    "quote": "決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "退職代行業者の行政データ検証やゲーム企業決算シーズン入りも",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説",
+    "quote": "貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します",
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】",
+    "quote": "決算公告を官報に掲載するやり方【全7ステップで完全解説】",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "で足りますが、電子公告を公告方法にしている会社は要旨が使えず、全文を5年間ウェブに掲載し続けます",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
+    "quote": "決算公告を官報に掲載するやり方を7ステップで完全解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、大会社が公告する要旨の作り方を自社作例の記載例で示し、電子公告に切り替える場合の手順と、決算公告だけをウェブで行う方法を条文に沿って整理します",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "何をどの形で公告するかは、定款で定めた公告方法で決まります",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公告方法は官報、時事に関する事項を掲載する日刊新聞紙、電子公告の3つから定款で選び、定めがなければ官報になります（会社法 第939条第1項・第4項）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "電子公告で要旨が使えないのは、要旨の公告を認める会社法第440条第2項が、公告方法を官報または日刊新聞紙とする会社だけを対象にしているためです（会社法 第440条第2項）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "電子公告は、公告の内容をインターネットで不特定多数の者が見られる状態に置く公告方法です（会社法 第2条第34号、会社法施行規則 第223条）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：公告方法を電子公告とする定款の定めを置きます",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：事故その他やむを得ない事由で電子公告ができない場合に備え、官報か日刊新聞紙を予備の公告方法として定款に定めることができます（会社法 第939条第3項）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：公告方法の変更は、2週間以内に本店所在地で変更登記をします（会社法 第915条第1項）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公告方法を官報や日刊新聞紙にしたまま、決算公告だけをウェブで行う方法もあります",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この方法では定款の変更は要りませんが、掲載先のURLを登記します（会社法 第911条第3項第26号、会社法施行規則 第220条第1項第1号）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ウェブで行う以上、要旨では足りず全文と注記を掲載し（会社計算規則 第136条）、インターネットを使う方法で行う必要があります（会社計算規則 第147条）",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合併や減資の公告は従来どおり官報などで行うので、決算公告の手間だけを減らしたい会社に向く方法です",
-    "url": "https://prime-partners.co.jp/large-company-public-notice-financial-statements/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    }
   ],
-  "検索結果の抜粋": [
+  "実例": [
    {
-    "quote": "会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小",
-    "url": "https://www.kigyou-houmu.com/secret-4/",
+    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Q6: 決算公告で損益計算書の当期純損益が赤字の場合も公告する必要がありますか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "まとめ：決算公告で損益計算書が必要かのチェックポイント",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告とは、株式会社が定時株主総会の終結後に、貸借対照表（大会社にあっては貸借対照表および損益計算書）を公告する義務のことです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず、決算公告に関わる法令の全体像を整理しましょう",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり、大会社に該当しない中小企業が決算公告を行う場合は、貸借対照表だけを開示すれば法律上の義務は満たされます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "経営の透明性をアピールすることで、採用活動にプラスの効果がある",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-06T13:59:11.677426+00:00"
 }

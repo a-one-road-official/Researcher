@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T22:10:01.307352+00:00",
+ "researched_at": "2026-11-07T03:01:56.905360+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -156,6 +156,14 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
@@ -219,14 +227,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -248,9 +248,9 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/shikosakugo_log/n/n021c27d4df84",
+    "url": "https://note.com/gyokai_zukan/n/n3bfa566b19da",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/markeducation/n/n90132f936d08",
@@ -258,14 +258,99 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gyokai_zukan/n/n3bfa566b19da",
+    "url": "https://note.com/shikosakugo_log/n/n021c27d4df84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fundinno/n/n1062be2c0eac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kashiman/n/n082c56c1054a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/rs-127-private-vs-public-business-returns/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n41abb6bcd142",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chester-tax.com/contents/unlisted/unlisted3-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legacy.ne.jp/knowledge/before/jigyo-shokei-before/691-hijyoujyoukabushiki-hyoukahouhou-sanshutsuhouhou-kaisetsu/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12479",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.ht-tax.or.jp/navi/net-asset-value-calculation-method",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomorrowstax.com/knowledge/201608151190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizminer.com/analyze-with-custom-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizminer.com/industry-financial-benchmarks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/09j005.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sce.com/ja/business/rates-financing/rate-comparison-tool/where-revenue-goes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marr.jp/genre/other/pr/entry/62541",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jsda.or.jp/about/kaigi/chousa/startup/file/startup_siryo4_0130.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
@@ -273,22 +358,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.stacknetwork.ai/p/revenue-per-employee-benchmarks-by-industry-2026",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zabella.net/blog/arr-per-employee-benchmarks",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    }
@@ -301,35 +391,67 @@
     "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
     "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "https://note.com/company_scope/n/ne394bcd2de10",
-    "https://note.com/shikosakugo_log/n/n021c27d4df84",
-    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/gyokai_zukan/n/n3bfa566b19da",
+    "https://note.com/markeducation/n/n90132f936d08",
+    "https://note.com/shikosakugo_log/n/n021c27d4df84",
     "https://note.com/kempei_monna/n/n7f8d3eee3b80"
    ]
   },
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） note",
-   "results": []
+   "results": [
+    "https://note.com/fundinno/n/n1062be2c0eac",
+    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
+    "https://note.com/kashiman/n/n082c56c1054a",
+    "https://otemachiprep.com/rs-127-private-vs-public-business-returns/",
+    "https://note.com/kagawatomo/n/n41abb6bcd142",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://business.nikkei.com/atcl/gen/19/00128/122200037/",
+    "https://www.youtube.com/watch?v=TQssOJoH49M",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html"
+   ]
   },
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） やり方",
-   "results": []
+   "results": [
+    "https://chester-tax.com/contents/unlisted/unlisted3-1.html",
+    "https://legacy.ne.jp/knowledge/before/jigyo-shokei-before/691-hijyoujyoukabushiki-hyoukahouhou-sanshutsuhouhou-kaisetsu/",
+    "https://ma-succeed.jp/content/knowledge/post-12479",
+    "https://www.ht-tax.or.jp/navi/net-asset-value-calculation-method",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://bizminer.com/analyze-with-custom-report/",
+    "https://dig-group.co.jp/souzoku/what-is-the-comparable-industry-standard-value-method-for-valuing-unlisted-stocks-well-explain-how-to-calculate-it/",
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/901227/02_02.pdf",
+    "https://ap-tax.net/souzoku/267/"
+   ]
   },
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） 事例",
-   "results": []
+   "results": [
+    "https://bizminer.com/industry-financial-benchmarks/",
+    "https://www.spglobal.com/market-intelligence/jp/solutions/products/private-company-data",
+    "https://www.rieti.go.jp/jp/publications/dp/09j005.pdf",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.sce.com/ja/business/rates-financing/rate-comparison-tool/where-revenue-goes",
+    "https://otemachiprep.com/rs-127-private-vs-public-business-returns/",
+    "https://www.marr.jp/genre/other/pr/entry/62541",
+    "https://www.youtube.com/watch?v=FHy2nl5Jgis",
+    "https://www.jsda.or.jp/about/kaigi/chousa/startup/file/startup_siryo4_0130.pdf"
+   ]
   },
   {
    "query": "revenue per employee benchmark by industry and size private companies",
    "results": [
-    "https://bizminer.com/revenue-per-employee-benchmarks/",
     "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "https://www.stacknetwork.ai/p/revenue-per-employee-benchmarks-by-industry-2026",
-    "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "https://www.zabella.net/blog/arr-per-employee-benchmarks",
-    "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
-    "https://www.bing.com/aclick?ld=e83Mjm6vAT-AOzwsVHrxP-rTVUCUwApweoNqNfj0sTJ8YundEo2nL9cbdqbCy-3KGxWmVYFzX71VcM8_8YaXwELyRQtnKrMhMBEa1ovi2-AaWhG25xmkiIPi3G40_Mk5TNpuFzeBHRXy3geeTCBOai-yu9QZ_1qYLS6ccAMeQ14eCfG9IO9-6sf5veNVxTWSjxaz5Vcw&u=aHR0cHMlM2ElMmYlMmZsaWdodGNhc3QuaW8lMmZzb2x1dGlvbnMlMmZsYWJvci1tYXJrZXQtaW50ZWxsaWdlbmNlJTNmaHNhX2t3JTNkbGFib3IlMjUyMG1hcmtldCUyNTIwaW5zaWdodHMlMjZoc2FfbmV0JTNkYmluZyUyNmhzYV9hZCUzZCUyNmhzYV90Z3QlM2Rrd2QtNzY3NjAwMzYwODg0ODElM2Fsb2MtMzIlMjZoc2FfYWNjJTNkMzgyOTQ1MDI2MCUyNmhzYV9jYW0lM2QyMDQwMzc3OTQ4OCUyNmhzYV9zcmMlM2RvJTI2aHNhX3ZlciUzZDMlMjZoc2FfbXQlM2RwJTI2aHNhX2dycCUzZDEyMjgxNTU1NDU3MjU3NzklMjZtc2Nsa2lkJTNkYmU2NGJlMzJkODgwMTEwZDM5ZmJkNGRjODgyOThjOTElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1Qk5CJTI1NURfQ29ycG9yYXRlX1RvcGljc19TUUxfTkFNRVJfUTFfMjAyNiUyNnV0bV90ZXJtJTNkbGFib3IlMjUyMG1hcmtldCUyNTIwaW5zaWdodHMlMjZ1dG1fY29udGVudCUzZExhYm9yJTI1MjBNYXJrZXQlMjUyMEFuYWx5c2lz&rlid=be64be32d880110d39fbd4dc88298c91"
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "https://www.metrichq.org/finance/revenue-per-employee/",
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
+    "https://tractian.com/en/glossary/revenue-per-employee",
+    "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
+    "https://peppereffect.com/blog/revenue-per-employee-benchmarks"
    ]
   },
   {
@@ -340,8 +462,8 @@
     "https://note.com/company_scope/n/ne394bcd2de10",
     "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "https://note.com/gyokai_zukan/n/n3bfa566b19da",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/revenuescope/n/n931e97a0b6eb"
+    "https://note.com/revenuescope/n/n931e97a0b6eb",
+    "https://note.com/markeducation/n/n90132f936d08"
    ]
   },
   {
@@ -351,9 +473,9 @@
     "https://x.com/nikkei/status/2110087359676956856",
     "https://x.com/nikkei_business/status/2110099584727109886",
     "https://x.com/s_okada/status/2113400661085938084",
-    "https://x.com/nikkeinagoya/status/2110132723436171637",
     "https://x.com/CoreRiseCo/status/2093664742145704393",
-    "https://x.com/koh_miruahou/status/2110621802858963019"
+    "https://x.com/nikkeinagoya/status/2110132723436171637",
+    "https://x.com/biz_arts1/status/2066007720831156440"
    ]
   },
   {
@@ -361,8 +483,8 @@
    "results": [
     "https://www.linkedin.com/company/bizminer",
     "https://www.linkedin.com/posts/bizminer_bizminer-financialbenchmarking-activity-7170830889495556097-DMbX",
-    "https://www.linkedin.com/posts/kristofferburnett_bizminers-granular-industry-financial-activity-7112254458872397824-AcrT",
     "https://www.linkedin.com/posts/galen-pugh_bizminer-financialbenchmarking-activity-7170830954737971200-PWWs",
+    "https://www.linkedin.com/posts/kristofferburnett_bizminers-granular-industry-financial-activity-7112254458872397824-AcrT",
     "https://www.linkedin.com/posts/bizminer_smallbusiness-datadriven-benchmarking-activity-7347965121748451329-8AVs",
     "https://jp.linkedin.com/pulse/sales-geek-health-check-q2-2026-survey-results-executive-elken-qquje?tl=ja",
     "https://jp.linkedin.com/posts/祐二-古澤-8787022a5_1人あたり売上高12億円-anthropicの売上と従業員数から計算してみた-activity-7435255695031218176-YrwR"
@@ -372,32 +494,63 @@
    "query": "site:facebook.com 非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか）",
    "results": [
     "https://www.facebook.com/bizminer/",
-    "https://www.facebook.com/bizminer/posts/we-officially-released-our-industry-financial-report-20-on-friday-november-2nd-y/1202972676535191/",
-    "https://graph.facebook.com/v2.8/141666998202943/picture/",
-    "https://www.facebook.com/bizminer/videos/bizminer-industry-financial-report-20-tutorial/2349636508597564/",
-    "https://www.facebook.com/bizminer/posts/1188227261343066/",
     "https://www.facebook.com/bizminer/posts/have-you-ever-wondered-how-your-clients-efficiency-ratios-compare-to-their-indus/1192241310941661/",
+    "https://graph.facebook.com/v2.8/141666998202943/picture/",
+    "https://www.facebook.com/bizminer/posts/we-officially-released-our-industry-financial-report-20-on-friday-november-2nd-y/1202972676535191/",
+    "https://www.facebook.com/bizminer/videos/bizminer-industry-financial-report-20-tutorial/2349636508597564/",
+    "https://www.facebook.com/bizminer/photos/in-response-to-the-current-medical-social-and-economic-crisis-bizminer-has-launc/1641637922668662/",
     "https://www.facebook.com/itworkstyle/posts/創業から１０年もたたずに企業価値が１０億ドル約１２４０億円を超える巨大な非上場ベンチャー企業が米国シリコンバレーで続々と生まれていますが上場せずに非上場のままで/1174273569254720/"
    ]
   },
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） note 社長",
-   "results": []
+   "results": [
+    "https://www.youtube.com/watch?v=FHy2nl5Jgis",
+    "https://note.com/kashiman/n/n082c56c1054a",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://business.nikkei.com/atcl/gen/19/00128/122200037/",
+    "https://diamond.jp/articles/-/398492",
+    "https://ircms.irstreet.com/contents/data_file.php?template=1933&brand=&data=454001&filename=pdf_file.pdf",
+    "https://www.youtube.com/watch?v=TQssOJoH49M"
+   ]
   },
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） X 投稿",
-   "results": []
+   "results": [
+    "https://otemachiprep.com/rs-127-private-vs-public-business-returns/",
+    "https://global.morningstar.com/ja/funds/3-ways-private-companies-are-reshaping-public-markets",
+    "https://www.marr.jp/genre/other/pr/entry/62541",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://ircms.irstreet.com/contents/data_file.php?template=1933&brand=&data=454001&filename=pdf_file.pdf",
+    "https://www.msn.com/ja-jp/money/markets?id=anhenm&tab=TopLosers&ocid=msedgdhp",
+    "https://www.youtube.com/watch?v=Z0L1sORBRRY"
+   ]
   },
   {
    "query": "revenue per employee benchmark by industry and size private companies site:linkedin.com",
-   "results": []
+   "results": [
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
+    "https://www.linkedin.com/posts/ivanlandabaso_anthropic-generates-56m-revenue-per-employee-activity-7430865110384021504-b42v",
+    "https://www.linkedin.com/posts/zuhayeer_tech-companies-used-to-compete-on-how-many-activity-7439811409850503168-GlyP",
+    "https://www.linkedin.com/posts/ryanallis_revenue-per-employee-is-the-most-valuable-activity-7389350005750259712-CFCN",
+    "https://www.linkedin.com/posts/vladyslavkhrypun_founders-love-announcing-their-headcount-activity-7513899978155651072-l52p",
+    "https://www.linkedin.com/posts/matt-schulman-15911861_how-large-should-your-hr-recruitment-teams-activity-7448716507465003008-BDIe",
+    "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
+    "https://www.linkedin.com/pulse/2026-saas-benchmarks-report-ryan-allis-14kbf",
+    "https://www.linkedin.com/company/club-benchmarking",
+    "https://www.linkedin.com/posts/matt-schulman-15911861_how-large-should-your-hr-recruitment-teams-activity-7407781771288698880-25Xc"
+   ]
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 15,
+ "runs": 16,
  "first_researched_at": "2026-11-05T05:11:17.178031+00:00"
 }

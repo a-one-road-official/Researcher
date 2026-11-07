@@ -1,0 +1,1786 @@
+{
+ "name": "6K Additive",
+ "aliases": [
+  "6K Additive",
+  "6K Inc.",
+  "6K Inc",
+  "UniMelt",
+  "シックスケー"
+ ],
+ "context": "金属粉（プラズマ製造・再生粉）。航空宇宙・防衛向け",
+ "researched_at": "2026-11-07T02:59:27.307056+00:00",
+ "official_url": "https://www.6kinc.com/6k-additive",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "顧客・導入先": [
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6K Additive Signs Long-Term Supply Agreement with Siemens Energy Supporting Circularity in Nickel-Based Alloys",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Melt ingots are a prime example of how our product roadmap will support customers like the Department of War for critical applications like hypersonics, military defense systems and more.",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“When it became time to decide on a material development partner for this project, 6K Additive was quickly identified as a frontrunner. Their expertise in the field of sustainable materials and proven track record supporting grant projects in the DoD community made them the clear choice for partnership.”",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In an era where innovations soar beyond the skies, 6K Additive and Agile Space Industries have aligned their expertise through a partnership...",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear about customer’s applications",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitutoyo America Corporation announces partnership with NHRA as the official precision measurement partner",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer is among the top leaders in metal 3D printing solutions. Their fully integrated metal additive manufacturing machines are used by engineers all around the world to build complex parts, allowing them to achieve excellent performance.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In their business, a loss in laser power or misalignment of the processing laser beams results in costly failed parts for their customers. Therefore, it’s important for them to minimize drift in power, misalignments, and non-conformities. They achieve this by measuring their laser output regularly, especially during machine setup and maintenance in the field.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The parts these machines make end up in medical devices, cars, and aircraft. Preventing minor or major issues due to a potential root cause in how the part was made is key for the customer to run a successful business. Being able to trace manufacturing process variables down to the laser parameters can make a big difference for their quality goals.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "By ensuring that their machines produce minimal loss, they not only serve their customers better by providing more value, but they also enhance their reputation as a top-quality 3D printing machine manufacturer.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Ease of integration and reduction in required maintenance time are criteria of high interest for this customer.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "experts sat down with the customer’s senior mechanical engineers, senior applications development engineers, and manufacturing engineers to identify the best solution that works for their laser specifications and is compatible with their unique system integration requirements.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "is used for single-shot average laser power measurements during machine setup and maintenance in the field. Given that their lasers operate at 1070 nm and a little under 1kW this measurement product was a good candidate for the customer needs.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The BEAMAGE-4M-IR is a beam profiling camera with phosphor coating for IR wavelengths (1495-1595 nm). It offers a 4.2 Mpixel high-resolution CMOS sensor and ISO-compliant measurements. Its large aperture accommodates large beams. Customers analyze their beam with our free proprietary software or by using our BEAMAGE software development kit.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "By working with the PRONTO-6K, BEAMAGE-4M-IR, and BEAMAGE-4M, the customer now has a fully integrated solution in the machines they sell to their customers to ensure they minimize drift in power, misalignments, and non-conformities.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ADDMAN Secures Long-Term Nickel Alloy 718 Supply Through 6K Additive Partnership",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "A new 30-month agreement with 6K Additive strengthens ADDMAN’s domestic supply of Nickel Alloy 718 (Ni718), helping secure material availability as customer programs scale.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "As customer programs move through qualification and into sustained production, access to critical materials becomes part of the manufacturing equation. Available machine capacity matters, but so does having the material required to keep that capacity running.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "ADDMAN has entered into a new 30-month supply agreement with 6K Additive for Nickel Alloy 718 (Ni718) powder. The agreement includes dedicated stocking support and strengthens domestic material availability for ADDMAN production supporting",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "For ADDMAN, it represents another investment ahead of customer demand — addressing a potential production constraint before it reaches the manufacturing floor.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Through the partnership, 6K Additive will supply ADDMAN with domestically produced Ni718 powder manufactured using its UniMelt® microwave plasma technology.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "The long-term structure provides greater visibility into material availability as customer requirements grow. For customers, the value is straightforward: a more resilient supply chain supporting the manufacturing capacity their programs depend on.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "As customer programs move from qualification into sustained production, ADDMAN continues to invest in the manufacturing infrastructure required to support them — from production capacity and automation to critical material supply and long-term supplier partnerships.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "The agreement with 6K Additive is another piece of that strategy: securing reliable domestic access to a material our customers’ programs depend on before demand reaches the production floor.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "produces high-quality, sustainable materials for customers in demanding industries, like aerospace, automotive, consumer electronics, renewable energy, and more. Its",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "As Bruce Bradshaw, Chief Marketing Officer for 6K, explained to myself and a few other assembled industry journalists and customers, the division never had the chance to hold a formal grand opening of the facility in 2020 due to COVID. In fact, it’s already outgrown the space, which is why 6K Additive just announced that it is now",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "20,000 square feet will be added to accommodate four new UniMelt systems, and 6K Additive is also building a 15,000 square foot feedstock preparation facility on its existing 45-acre campus. Up to 35 new employees will be hired, who, along with the new capacity, will help the company meet the continually growing needs of its customers for titanium,",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "The UniMelt process can produce “virtually any battery chemistry with digital tunability.” Testing the chemistry does take a few years, but Bradshaw says 6K is getting “consistently positive” testing feedback, so discussions with several customers are getting ready to progress to the next level.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K’s Additive and Energy divisions are “joined at the hip,” with plenty of technology collaboration going on between them. As 6K Additive’s President Frank Roberts told us, “There will be more crossover as the automotive industry continues to adopt additive manufacturing.”",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "After the facility tour and a delicious lunch, there were presentations from two 6K customers. First up was Mark Straszheim, Advanced Materials Lead at 3D printing bureau",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Award includes collaboration to convert",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": ") is pleased to announce that it has been awarded a Phase II contract with a total value of US$1.95 million over an 18‑month term and is subject to standard U.S. government contract terms, including performance milestones and termination rights (",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with the US DoD",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Hear about customer’s applications",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "From Foot Scan to Sandal: Arkema and Carbon Expand Collaboration on 3D Printed Elastomers",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive secures 30-month Nickel 718 Powder supply agreement with ADDMAN - Defense and Munitions",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive secures 30-month Nickel 718 Powder supply agreement with ADDMAN",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "Mitutoyo America Corporation announces partnership with NHRA as the official precision measurement partner",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Burgettstown, PA, April 2, 2026 – 6K Additive, Inc. (ASX: 6KA) (6K Additive) is pleased to announce that it has been awarded a Phase II contract with a total value of US$1.95 million over an 18-month term and is subject to standard U.S. government contract terms, including performance milestones and termination rights (Award).",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with the US DoD",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "The facilities are being designed to give commercial and defence customers a 'more integrated path from 3D-printed part to finished component.'",
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Kingston University installs Zeus Robotic Cell & strikes partnership with Rapid Fusion",
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to the installation, Rapid Fusion has also made a long-term commitment to offer work placements, potential Knowledge Transfer Partnership (KTP) opportunities, and input into the future curriculum.",
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "(Agile), in-space propulsion specialists have announced that Agile is pursuing certification of 6K Additive-produced Ni625 powder for customer space applications including critical rocket parts.",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Leveraging additive manufacturing, the engine was designed to weigh just 5.9kg and produce 500-lbf of thrust, underscoring the benefits of lightweighting with AM while delivering tremendous power.",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Leading innovator in in-space chemical propulsion. We enable our customers to reach their destinations faster, more efficiently, and take advantage of the new space economy.",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Hear about customer’s applications",
+    "url": "https://6kadditive.com/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "Hear about customer’s applications",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Hear about customer’s applications",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Secures 30-Month Nickel 718 Powder Supply Agreement with ADDMAN Valued at US$8.1-US10.8 Million",
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive has signed a 30-month long-term supply Agreement to supply Nickel 718 alloy powder to U.S. advanced manufacturer ADDMAN Engineering (\"ADDMAN\").",
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive、2026年Q3売上高720万ドル 受注残は1,810万ドル | 積層通信",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末部門の新規受注は1,230万ドルで前四半期比43%増",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "9月末の全社受注残は1,810万ドルと前四半期末から52%増えた",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、数値と需要見通しは同社の四半期開示に基づき、受注残は将来売上を保証しない",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "9月末受注残は1,810万ドル、前四半期末比52%増",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM材料の需要増と能力増強が数値で表れた一方、受注残の売上転換と増設設備の立ち上げが次の検証点になる",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "EXIMによると、計画にはバーゲッツタウンでの建物4棟の新設と製造設備の導入が含まれる",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   }
+  ],
+  "用途・分野": [
+   {
+    "quote": "Defense and National Security",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "aerospace, defense, space, medical, energy and automotive",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6K Additive Signs Long-Term Supply Agreement with Siemens Energy Supporting Circularity in Nickel-Based Alloys",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recipient of a US$23.4M Defense Production Act Title III grant that fuels increased production capability and capacity expansion",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry's most extensive powder portfolio including Tungsten, C-103, Titanium and Nickel enabling government agencies and Tier-1 suppliers to leverage a domestic supply chain for critical materials",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Melt ingots are a prime example of how our product roadmap will support customers like the Department of War for critical applications like hypersonics, military defense systems and more.",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Material Engineer and Scientist at TRUMPF",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Less Energy Used for Nickel Production",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A significant reduction in energy use over other processes such as atomization",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In an era where innovations soar beyond the skies, 6K Additive and Agile Space Industries have aligned their expertise through a partnership...",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our high-value powders and alloy additions are used across a broad range of industries including aerospace, medical, automotive and industrial sectors. To learn more about 6K Additive and our products, fill out our contact us form and a 6K Additive representative will get back to you to help with your request. Thank you in advance for your interest in 6K Additive.",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6K Additive appoints Brandon Davis as chief operating officer - Defense and Munitions",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": ". “As we continue to expand our capabilities and capacity for defense and commercial applications, Brandon’s expertise in safety and operational excellence will be invaluable to our growth.”",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "A veteran of the United States Army, Davis served as a Military Police officer and was decorated with the Army Commendation Medal. His appointment reinforces 6K Additive's commitment to building a world-class leadership team capable of executing complex global expansions and delivering high-quality metal powders and alloy additions to the market.",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "Singularity Defense, Naval Air Warfare Center Weapons Division successfully static-fired advanced solid rocket motor",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "Karman Space & Defense awarded $218 million long-term agreement to support THAAD production",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIR Defense wins $48M contract to provide next-gen nuclear, biological, and chemical reconnaissance sensors for Bulgaria Strykers",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris advances US Navy Next Generation Jammer Low Band program with $876 million award",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris delivers first VAMPIRE units to US Army for drone defense",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer is among the top leaders in metal 3D printing solutions. Their fully integrated metal additive manufacturing machines are used by engineers all around the world to build complex parts, allowing them to achieve excellent performance.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The parts these machines make end up in medical devices, cars, and aircraft. Preventing minor or major issues due to a potential root cause in how the part was made is key for the customer to run a successful business. Being able to trace manufacturing process variables down to the laser parameters can make a big difference for their quality goals.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "An interferometer with fiber-coupled low power (1550 nm) Class 1 commercial laser is also in use in their machines to monitor powder fusion in-process and help adjust the build parameters live to match the part requirements. The difficulty is in achieving precise and reliable measurements from this instrument.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "experts sat down with the customer’s senior mechanical engineers, senior applications development engineers, and manufacturing engineers to identify the best solution that works for their laser specifications and is compatible with their unique system integration requirements.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Measuring laser output regularly and automatically makes this 3D metal printing laser machine manufacturer confident that the likelihood of the root cause of an accident event being tracked down to their laser parameters is extremely low. This is essential for this business to succeed given that the parts produced often end up in cars, aircraft, and medical devices.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Renewable Energy PR Agency",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive produces its metal powders using the proprietary UniMelt microwave plasma production system. This technology allows the company to upcycle industrial, and defense-related scrap metal into high-performance, spherical powders, drastically lowering energy consumption and carbon emissions while at the same time producing industry leading quality with its materials.",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace, defense",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Nickel Alloy 718 is widely used in demanding aerospace, defense and energy applications because of its strength, corrosion resistance and performance at elevated temperatures. It is well suited for components expected to perform reliably in extreme operating environments.",
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "produces high-quality, sustainable materials for customers in demanding industries, like aerospace, automotive, consumer electronics, renewable energy, and more. Its",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "As Bruce Bradshaw, Chief Marketing Officer for 6K, explained to myself and a few other assembled industry journalists and customers, the division never had the chance to hold a formal grand opening of the facility in 2020 due to COVID. In fact, it’s already outgrown the space, which is why 6K Additive just announced that it is now",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Energy",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Defense",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Bradshaw also discussed 6K Energy, which is focused on producing sustainable, low-cost, and domestically produced battery material, but is about two years behind 6K Additive in terms of commercialization. Today, 85% of the world’s battery materials come from China, while the EU produces 4%. None come from the US.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K’s Additive and Energy divisions are “joined at the hip,” with plenty of technology collaboration going on between them. As 6K Additive’s President Frank Roberts told us, “There will be more crossover as the automotive industry continues to adopt additive manufacturing.”",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive started with just 20 employees, and has about 70 now, with plans to employ around 20 more by the end of 2022. It’s helpful to be located so close to universities, as they’ve been able to hire plenty of engineers, in addition to metallurgists and other people with “dedicated powder experience.”",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "“No matter how the ugly the material looks going in, it comes out as a perfect sphere by the end,” Roberts said. “We only put in the reactor what we want to get out, in terms of size…all the energy you’re putting in, you’re getting a lot more usable powder out of it.”",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "by Foresight Management, which compared the environmental impact of the UniMelt process to current atomization technologies being used to produce metal powders. The LCA found a 91% reduction in energy use, and a 92% reduction in carbon emissions when using 6K’s process.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "He reiterated what Martin had said before about the UniMelt being the company’s “highest level of technical equipment,” but that the most technical part of the process is at the front end in getting materials to create its engineered feedstock. Perozzi said the company also has a lot of control here because of its level of expertise and relationships.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical 3D Printing",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing News Briefs, November 5, 2026: Tungsten, Color Mixing, Prosthetic Socket, & More",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency - 6K Additive",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and National Security",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "). The Award aims to lessen the U.S. military’s dependence on foreign sources for critical strategic metals. The initiative, titled",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "focuses on converting domestic scrap from select United States Military Depots including Nickel, Titanium, Tungsten, and Niobium, into high-value metal powders for additive manufacturing and defense readiness.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. defense industrial base currently faces a strategic vulnerability due to its heavy reliance on imported metals. According to Statista, China controls over 80% of global Tungsten production, and the U.S. depends entirely on imports for Niobium, primarily from Brazil and Canada. Titanium imports have also been flagged by the Department of Commerce as a threat to national security.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Specific operations will take place at major aviation depots, which generate upwards of 60,000 pounds of mixed scrap metal weekly. Upcycled powders will be returned to the military for rigorous testing against virgin metal standards to ensure performance in critical defense applications.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "The Award has an 18-month timeline, and the program aims to prove the concept of an automated sorting prototype and deliver certified batches of tungsten, titanium, and niobium powders. By converting domestic waste into high-performance feedstock, 6K Additive is ensuring that American innovation is powered by American materials.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive’s strategic importance to the United States national defense regime is validated by strong and growing government support, including:",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "US$23.4 million Defense Production Act Title III grant",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "US$12.4 million in Defense Logistics Agency programs over recent years, including the conversion of titanium and nickel into high-value powder and, in 2025, a US$1.8 million program for the processing of niobium and titanium scrap – all from the U.S. military depots",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Our high-value powders and alloy additions are used across a broad range of industries including aerospace, medical, automotive and industrial sectors. To learn more about 6K Additive and our products, fill out our contact us form and a 6K Additive representative will get back to you to help with your request. Thank you in advance for your interest in 6K Additive.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Wins $2M Defense Contract to Localize Critical Metal Powders - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Wins $2M Defense Contract to Localize Critical Metal Powders",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil’s race to orbit starts with 3D printing skills as BIZU Space joins EOS",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   }
+  ],
+  "政府・研究機関の契約": [
+   {
+    "quote": "Recipient of a US$23.4M Defense Production Act Title III grant that fuels increased production capability and capacity expansion",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“When it became time to decide on a material development partner for this project, 6K Additive was quickly identified as a frontrunner. Their expertise in the field of sustainable materials and proven track record supporting grant projects in the DoD community made them the clear choice for partnership.”",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The use of capital combined with the DPA Title III Grant, enables us to more than double capacity and add dedicated buildings for strategic growth such as refractory production.",
+    "url": "https://6kadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A veteran of the United States Army, Davis served as a Military Police officer and was decorated with the Army Commendation Medal. His appointment reinforces 6K Additive's commitment to building a world-class leadership team capable of executing complex global expansions and delivering high-quality metal powders and alloy additions to the market.",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "Appian marks major milestone in supporting US Army ammunition modernization",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris advances US Navy Next Generation Jammer Low Band program with $876 million award",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris delivers first VAMPIRE units to US Army for drone defense",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "Ease of integration and reduction in required maintenance time are criteria of high interest for this customer.",
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Defense",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "He reiterated what Martin had said before about the UniMelt being the company’s “highest level of technical equipment,” but that the most technical part of the process is at the front end in getting materials to create its engineered feedstock. Perozzi said the company also has a lot of control here because of its level of expertise and relationships.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Identify and collect material from DLA Depots, with the goal of using primarily DoD scrap as a source for domestic critical metals.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with the US DoD",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive will collaborate with the DLA and other agencies within the US DoD to obtain high-value scrap from these centers and depots.",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "US$23.4 million Defense Production Act Title III grant",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "(DLA) facilities, then running it through a multi-stage process that produces finely calibrated spherical powders ready for use in defense-grade applications.",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "In the past, the company has accumulated a portfolio of government support that signals sustained institutional confidence in its approach. A Defense Production Act grant contributed $23.4 million, a series of DLA programs have collectively added $12.4 million, and an",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of Defense",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": ", from mineral extraction through to metal production. The funding covers two phases over two years, targeting both a critical minerals project in Tennessee and a titanium manufacturing campus in Virginia.",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "Appian marks major milestone in supporting US Army ammunition modernization",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris advances US Navy Next Generation Jammer Low Band program with $876 million award",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris delivers first VAMPIRE units to US Army for drone defense",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency (DLA) - AeroMorning.com",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "By upcycling domestic scrap from DoD (Department of Defense) stockpiles and maintenance centers, we are creating a circular, secure, and sustainable supply chain for the US defense sector. This Award enables us and the DoD to further identify end-of-life parts and scrap to convert back into high-value powder ultimately leading to strategic components for the military",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "· Identify and collect material from DLA Depots, with the goal of using primarily DoD scrap as a source for domestic critical metals.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with the US DoD",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive will collaborate with the DLA and other agencies within the US DoD to obtain high-value scrap from these centers and depots.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "· US$23.4 million Defense Production Act Title III grant",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "on \"6K Additive Awarded US$1.95M by Defense Logistics Agency (DLA)\"",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "(DLA) in converting domestic scrap into metal additive manufacturing powders.",
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "The project involves the construction of four new buildings, including an alloy warehouse, a dedicated melt building for ingot production, and a pre and post processing production facility funded through the grant and IPO funds with a dedicated state-of-the-art refractory facility being constructed in 2027. Initial production at the expanded Burgettstown site is expected by the end of 2026.",
+    "url": "https://www.aerospacemanufacturinganddesign.com/news/6k-additive-breaks-ground-major-facility-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive is also a recipient of a $23.4M DPA Title III grant where the company is doubling its production capacity to support critical defense applications. As an example, we will be sourcing components from the US military depots and turning critical material such as titanium and nickel back into powder and pre-ingots to be used for military applications.",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "画像：3DPrint.com / Vanesa Listek",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive、米輸出入銀行と2740万ドルの融資契約 金属粉末の生産能力拡大へ | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive、米輸出入銀行と2740万ドルの融資契約 金属粉末の生産能力拡大へ",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "米金属粉末メーカーの6K Additiveは10月2日、米国輸出入銀行（EXIM）と最大2740万ドル（約43.5億円）の融資契約を締結した",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "EXIMはこの融資を2025年に承認しており、今回、最終契約が締結された",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additiveは2026年、米国の軍用施設などで生じるニッケル、チタン、タングステン、C-103のスクラップを粉末に変える契約を発表した",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社によると、4月の契約変更後の総額は390万ドル（約6.19億円）、期間は18カ月となった",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "■補助金と融資、顧客契約が支える拡張",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additiveは2026年10月の契約発表時、当時公表されていた5.38％の参照レートを使い、融資手数料を含む年間借入コストを約6.86％と見積もった",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additiveと米ADDMAN Engineeringは9月30日、ニッケル718合金粉末の30カ月間の供給契約を発表した",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "契約額は最低810万ドル（約12.8億円）、最大1080万ドル（約17.1億円）",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additiveは2月、Siemens Energyの積層造形設備から出る使用済みニッケル合金粉末を原料として受け取る長期契約も発表している",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大9900万ドル（約157億円）の別の契約枠も持つ",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "6K Additive - 6K Inc — 6K Additive - 6K Inc 6kinc.com https://www.6kinc.com > 6k-additive",
+    "url": "https://www.6kinc.com/resources/6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive - LinkedIn — 6K Additive - LinkedIn LinkedIn https://www.linkedin.com > 6k-additive",
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Metal Powders and Alloy Additions - 6k Additive — Premium Metal Powders and Alloy Additions - 6k Additive 6K Additive https://6kadditive.com",
+    "url": "https://6kadditive.com/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive appoints Brandon Davis as chief operating officer — 6K Additive appoints Brandon Davis as chief operating officer Defense and Munitions https://www.defenseandmunitions.com > ...",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive completes AUS$48M IPO to boost powder capacity — 6K Additive completes AUS$48M IPO to boost powder capacity Metal Additive Manufacturing magazine https://www.metal-am.com > 6k-addit...",
+    "url": "https://www.metal-am.com/6k-additive-completes-aus48m-ipo-to-boost-powder-capacity/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive and Cumberland Additive Announce Partnership ... — 6K Additive and Cumberland Additive Announce Partnership ... 6kinc.com https://www.6kinc.com > press-release",
+    "url": "https://www.6kinc.com/news/press-release/6k-additive-and-cumberland-additive-announce-partnership-and-sign-long-term-supply-agreement-for-nickel-7186/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Appoints AMPERE Alloys as European Distributor ... — 6K Additive Appoints AMPERE Alloys as European Distributor ... incus-media.com https://www.incus-media.com > 6k-ad...",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "On the Ground at 6K Additive as it Doubles Metal 3D Printing ... — On the Ground at 6K Additive as it Doubles Metal 3D Printing ... 3DPrint.com https://3dprint.com > tour-of-6k-addit...",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency — 6K Additive Awarded US$1.95M by Defense Logistics Agency 6K Additive https://6kadditive.com > news > 6k-a...",
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Wins $2M Defense Contract to Localize Critical ... — 6K Additive Wins $2M Defense Contract to Localize Critical ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive secures 30-month Nickel 718 Powder supply ... — 6K Additive secures 30-month Nickel 718 Powder supply ... Defense and Munitions https://www.defenseandmunitions.com > ...",
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency ... — 6K Additive Awarded US$1.95M by Defense Logistics Agency ... AeroMorning.com https://aeromorning.com > 6k-additiv...",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive to convert domestic scrap into metal 3D printing ... — 6K Additive to convert domestic scrap into metal 3D printing ... TCT Magazine https://www.tctmagazine.com > 6k-ad...",
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive breaks ground on major facility expansion — 6K Additive breaks ground on major facility expansion Aerospace Manufacturing and Design https://www.aerospacemanufacturinganddesign.com > ...",
+    "url": "https://www.aerospacemanufacturinganddesign.com/news/6k-additive-breaks-ground-major-facility-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Partners with Agile Space Industries to Advance ... — 6K Additive Partners with Agile Space Industries to Advance ... Agile Space Industries https://agilespaceindustries.com > press",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "6K and Z3DLab partner to produce alloy powders for medical ... — 6K and Z3DLab partner to produce alloy powders for medical ... Metal Powder Technology https://www.metal-powder.tech > 6k-...",
+    "url": "https://www.metal-powder.tech/6k-additive-partners-with-z3dlab-to-produce-titanium-zirconium-alloy-powders-for-medical-and-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive 社がGlobal Metal Powders社を買収 — 6K Additive 社がGlobal Metal Powders社を買収 CAD Japan.com https://www.cadjapan.com > ニュース > 2023年",
+    "url": "https://www.cadjapan.com/news/2023/d20231108_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive 、金属粉末生産の拡大に2,740万米ドルを調達 — 6K Additive 、金属粉末生産の拡大に2,740万米ドルを調達 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/6k-additive%E3%80%81%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%94%9F%E7%94%A3%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%81%AB2%E5%84%847400%E4%B8%87%E7%B1%B3%E3%83%89%E3%83%AB%E3%82%92%E8%AA%BF%E9%81%94-03163633/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Investors — 6K Additive Investors 6K Additive https://6kadditive.com > investors",
+    "url": "https://6kadditive.com/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive posts H1 2026 growth, shares slip 0.6% — 6K Additive posts H1 2026 growth, shares slip 0.6% Investing.com https://www.investing.com > transcripts",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-6k-additive-posts-h1-2026-growth-shares-slip-06-93CH-4876163",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive - investorpa — 6K Additive - investorpa investorpa PDF https://investorpa.com > announcement-pdf",
+    "url": "https://investorpa.com/announcement-pdf/20260728/320791.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Reports Record Backlog and Manufacturing ... — 6K Additive Reports Record Backlog and Manufacturing ... Kalkine https://kalkine.com.au > news > 6k-ad...",
+    "url": "https://kalkine.com.au/news/announcements/6k-additive-reports-record-backlog-and-manufacturing-expansion-in-q3-fy2026",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Production Facilities and Distributors — 6K Additive Production Facilities and Distributors 6K Additive https://6kadditive.com > 6k-additive-...",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Expands International Reach with New ... - 6K Inc — 6K Additive Expands International Reach with New ... - 6K Inc 6kinc.com https://www.6kinc.com > press-release",
+    "url": "https://www.6kinc.com/news/press-release/6k-additive-expands-international-reach-with-new-distribution-and-agent-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview - 6K Additive — Company Overview - 6K Additive 6K Additive https://6kadditive.com > about-6k-ad...",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Secures 30-Month Nickel 718 Powder Supply ... — 6K Additive Secures 30-Month Nickel 718 Powder Supply ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive 、2026年Q3売上高720万ドル 受注 残は1,810万ドル — 6K Additive 、2026年Q3売上高720万ドル 受注 残は1,810万ドル sekiso-journal.com https://sekiso-journal.com > 3Dプリント業界",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive 、米輸出入銀行と2740万ドルの融資契約 金属粉末 ... — 6K Additive 、米輸出入銀行と2740万ドルの融資契約 金属粉末 ... 財経新聞 https://www.zaikei.co.jp > article",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   }
+  ],
+  "日本との接点": [
+   {
+    "quote": "6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders - Incus",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive社がGlobal Metal Powders社を買収 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20231108_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Production Facilities and Distributors - 6K Additive",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Production Facilities and Distributors",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Facilities and Distributors",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Global Distributors and Agents",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for India)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for UK and Ireland)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Agent for Israel, UAE and Saudi Arabia)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Global Distributors",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for India)",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for UK and Ireland)",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "pass": 3
+   },
+   {
+    "quote": "から提供を受けた記事を日本向けに翻訳・編集したものです",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   }
+  ],
+  "販売の仕組み": [
+   {
+    "quote": "6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders - Incus",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Appoints AMPERE Alloys as European Distributor to Expand Reach of High-Performance Sustainable Metal Powders",
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Quadrus Advanced Manufacturing exclusively uses laser cusing SLM systems by GE Additive’s Concept Laser, and materials including 316L and 17-4 PH stainless steel, 7A77 aluminum, Ti-64I-4V, Scalmalloy, and more. The important question is what materials are compatible with the AM process the company uses, which is",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "China accounts for the vast majority of global tungsten supply, niobium arrives almost exclusively from Brazil and Canada, and federal commerce officials have already identified titanium imports as a potential national security liability.",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Production Facilities and Distributors - 6K Additive",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Production Facilities and Distributors",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Facilities and Distributors",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Global Distributors and Agents",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for India)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for UK and Ireland)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "(Agent for Israel, UAE and Saudi Arabia)",
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Global Distributors",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for India)",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "(Distributor for UK and Ireland)",
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "pass": 3
+   }
+  ],
+  "規模・受注残": [
+   {
+    "quote": "3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "In Q3 2025, Protolabs‘ 3D printing revenue fell by around 6 percent year-over-year (YOY), and in Q2 2026, it declined another 2.6 percent to $20.7 million. In Q3 2026, however,...",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive、2026年Q3売上高720万ドル 受注残は1,810万ドル | 積層通信",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "9月末の全社受注残は1,810万ドルと前四半期末から52%増えた",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、数値と需要見通しは同社の四半期開示に基づき、受注残は将来売上を保証しない",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "9月末受注残は1,810万ドル、前四半期末比52%増",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM材料の需要増と能力増強が数値で表れた一方、受注残の売上転換と増設設備の立ち上げが次の検証点になる",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%",
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "pass": 3
+   },
+   {
+    "quote": "同社によると、上期の売上の90％超をリピート注文が占め、6月末時点の粉末部門の受注残は1030万ドル（約16.3億円）だった",
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": ". The company began working with additive in 2006 as Directed Manufacturing Inc., moving from California to Texas in 2009, before it was acquired by RTI Metals in 2014. The next year, RTI was purchased by aluminum company Alcoa, which split into two and made Directed part of Arconic. Private investors purchased Arconic in 2019, and thus Cumberland Additive was born.",
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "Agile Space Industries and its logo are trademarks and service marks owned by Agile Space Industries, Inc.",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Investors - 6K Additive",
+    "url": "https://6kadditive.com/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Investors",
+    "url": "https://6kadditive.com/investors/",
+    "pass": 3
+   }
+  ],
+  "黒字・資金": [
+   {
+    "quote": "In the past, the company has accumulated a portfolio of government support that signals sustained institutional confidence in its approach. A Defense Production Act grant contributed $23.4 million, a series of DLA programs have collectively added $12.4 million, and an",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Industry is inviting speakers for its 2026 Additive Manufacturing Applications (AMA) series, covering Energy, Healthcare, Automotive and Mobility, Aerospace, Space and Defense, and Software. Each online event focuses on real production deployments, qualification, and supply chain integration. Practitioners interested in contributing can",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "series from 3D Printing Industry, featuring perspectives from CEOs, engineers, and industry leaders on the",
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "pass": 3
+   },
+   {
+    "quote": "Propelling Portfolios: Profiting from Space Industry Innovations",
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "6K Additive - LinkedIn 6K Additive - LinkedIn LinkedIn https://www.linkedin.com > 6k-additive",
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "pass": 3
+   },
+   {
+    "quote": "6K - LinkedIn 6K - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/6kinc",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Secures $27.4M EXIM Loan for Pennsylvania ... 6K Additive Secures $27.4M EXIM Loan for Pennsylvania ... LinkedIn https://www.linkedin.com > posts > 6...",
+    "url": "https://www.linkedin.com/posts/6k-additive_6k-additive-secures-final-exim-loan-agreement-activity-7513045300098363392-_xuF",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Acquires Metal Powder Atomiser from Uniformity ... 6K Additive Acquires Metal Powder Atomiser from Uniformity ... LinkedIn https://www.linkedin.com > posts > th...",
+    "url": "https://www.linkedin.com/posts/the-tct-group_3dprinting-additivemfg-metals-activity-7474785764472619010-29s7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "6K Additive , Inc., has reported growing demand for its metal ... 6K Additive , Inc., has reported growing demand for its metal ... Facebook https://www.facebook.com > metalAMmag > posts > 6k-a...",
+    "url": "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://6kadditive.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://6kadditive.com/wp-content/uploads/2025/10/6k-Logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://6kadditive.com/wp-content/uploads/2025/10/6k-Logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://6kadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/6k-additive-completes-aus48m-ipo-to-boost-powder-capacity/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stellite.com/us/en/resources/stellite-blog/stellite-6-additive-manufacturing-case-study.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/official-euspen_6k-additive-tungsten-additive-manufacturing-activity-7508064010030940160-UvM1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.engineering.com/can-you-make-metal-powder-from-scrap-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/high-performance-product-development-in-the-era-of-computational-design-a-case-study-with-ntop-and-nasa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://6kadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idga.org/events-hypersonicweaponssystems/sponsors/6k-additive",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6kadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aerospacemanufacturinganddesign.com/news/6k-additive-breaks-ground-major-facility-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agilespaceindustries.com/press/6k-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-powder.tech/6k-additive-partners-with-z3dlab-to-produce-titanium-zirconium-alloy-powders-for-medical-and-aerospace/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.additivejapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20231108_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivejapan.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/6k-additive%E3%80%81%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%94%9F%E7%94%A3%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%81%AB2%E5%84%847400%E4%B8%87%E7%B1%B3%E3%83%89%E3%83%AB%E3%82%92%E8%AA%BF%E9%81%94-03163633/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yam-sls-3dprinter.com/asm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6kadditive.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-6k-additive-posts-h1-2026-growth-shares-slip-06-93CH-4876163",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investorpa.com/announcement-pdf/20260728/320791.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kalkine.com.au/news/announcements/6k-additive-reports-record-backlog-and-manufacturing-expansion-in-q3-fy2026",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://6kadditive.com/6k-additive-production-facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6kadditive.com/about-6k-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/frank-roberts-9670b217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6kadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/6k-additive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/6kinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/6k-additive_6k-additive-secures-final-exim-loan-agreement-activity-7513045300098363392-_xuF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/the-tct-group_3dprinting-additivemfg-metals-activity-7474785764472619010-29s7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "6K Additive customer OR order OR \"received an order\"",
+   "results": [
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://www.linkedin.com/company/6k-additive",
+    "https://6kadditive.com/",
+    "https://www.defenseandmunitions.com/news/6k-additive-appoints-brandon-davis-as-chief-operating-officer-coo/",
+    "https://www.metal-am.com/6k-additive-completes-aus48m-ipo-to-boost-powder-capacity/",
+    "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "https://6kadditive.com/resources/",
+    "https://www.reddit.com/r/RaidShadowLegends/comments/1fuu5vk/what_stats_are_multiplicative_what_stats_are/",
+    "https://bobistheoilguy.com/forums/threads/replenishing-an-additive-package.356788/",
+    "https://support.microsoft.com/en-us/security/how-to-spot-a-fake-order-scam"
+   ]
+  },
+  {
+   "query": "6K Additive case study OR \"success story\"",
+   "results": [
+    "https://www.stellite.com/us/en/resources/stellite-blog/stellite-6-additive-manufacturing-case-study.html",
+    "https://www.linkedin.com/posts/official-euspen_6k-additive-tungsten-additive-manufacturing-activity-7508064010030940160-UvM1",
+    "https://www.engineering.com/can-you-make-metal-powder-from-scrap-for-additive-manufacturing/",
+    "https://www.metal-am.com/articles/high-performance-product-development-in-the-era-of-computational-design-a-case-study-with-ntop-and-nasa/",
+    "https://www.gentec-eo.com/blog/metal-additive-manufacturing-case-study",
+    "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "https://3dprint.com/315222/additive-industries-talks-applications-in-rf-components-automotive-more/",
+    "https://www.sciencedirect.com/science/article/pii/S2666912923000016",
+    "https://3dprintingindustry.com/news/siemens-energy-site-sends-over-16000-kilograms-of-nickel-scrap-to-continuum-powders-for-reuse-238700/",
+    "https://www.deloitte.com/us/en/what-we-do/content/client-stories-and-successes.html"
+   ]
+  },
+  {
+   "query": "6K Additive partnership OR collaboration OR \"joint development\"",
+   "results": [
+    "https://6kadditive.com/",
+    "https://www.6kinc.com/news/press-release/6k-additive-and-cumberland-additive-announce-partnership-and-sign-long-term-supply-agreement-for-nickel-7186/",
+    "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "https://www.addmangroup.com/domestic-nickel-alloy-718-supply-6k-additive/",
+    "https://3dprint.com/295311/tour-of-6k-additive-as-company-announces-powder-manufacturing-capacity-expansion/",
+    "https://www.idga.org/events-hypersonicweaponssystems/sponsors/6k-additive",
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://www.linkedin.com/posts/6k-additive_3dpod-303-6k-additive-ceo-frank-roberts-activity-7474819286054686720-XylB",
+    "https://www.defenseandmunitions.com/news/6k-additive-breaks-ground-on-major-facility-expansion-in-burgettstown-pennsylvania/",
+    "https://www.6kinc.com/news/press-release/6k-energy-and-one-sign-a-strategic-joint-development-agreement/"
+   ]
+  },
+  {
+   "query": "6K Additive defense OR navy OR \"Department of Defense\" contract",
+   "results": [
+    "https://6kadditive.com/news/6k-additive-awarded-us1-95m-by-defense-logistics-agency/",
+    "https://3dprintingindustry.com/news/6k-additive-wins-2m-defense-contract-to-localize-critical-metal-powders-250650/",
+    "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract/",
+    "https://www.6kinc.com/news/press-release/department-of-defense-awards-6k-additive-a-23-4-million-grant-as-part-of-a-more-than-50-million-investment-program-for-upcycling-critical-metals-for-use-in-key-defense-applications/",
+    "https://www.linkedin.com/posts/aviation-defence-universe_defenselogisticsagency-departmentofcommerce-activity-7447231467878821888--X8m",
+    "https://www.techtimes.com/articles/328868/20261011/us-funds-6k-additive-50-million-end-chinese-tungsten-dependence-before-2027-ban.htm",
+    "https://www.businessdefense.gov/investments.html",
+    "https://www.war.gov/News/Contracts/"
+   ]
+  },
+  {
+   "query": "6K Additive fusion OR medical OR aerospace customer",
+   "results": [
+    "https://6kadditive.com/",
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://www.aerospacemanufacturinganddesign.com/news/6k-additive-breaks-ground-major-facility-expansion/",
+    "https://agilespaceindustries.com/press/6k-additive",
+    "https://www.metal-powder.tech/6k-additive-partners-with-z3dlab-to-produce-titanium-zirconium-alloy-powders-for-medical-and-aerospace/",
+    "https://www.linkedin.com/company/6k-additive",
+    "https://www.6kinc.com/",
+    "https://6kadditive.com/about-6k-additive/",
+    "https://www.additivemanufacturing.media/news/6k-additive-award-enables-conversion-of-military-scrap-into-high-value-powders",
+    "https://sironamedical.com/company/careers"
+   ]
+  },
+  {
+   "query": "6K Additive Japan OR Japanese OR 日本 代理店",
+   "results": [
+    "https://www.additivejapan.com/",
+    "https://www.nttdata-xam.com/news/info/article_8906/",
+    "https://www.cadjapan.com/news/2023/d20231108_02.html",
+    "https://www.additivejapan.com/about",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/6k-additive%E3%80%81%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%94%9F%E7%94%A3%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%81%AB2%E5%84%847400%E4%B8%87%E7%B1%B3%E3%83%89%E3%83%AB%E3%82%92%E8%AA%BF%E9%81%94-03163633/",
+    "https://www.yam-sls-3dprinter.com/asm",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.byk.com/ja/company-news/locations-distributors",
+    "https://www.mmts.co.jp/img/technos_ams.pdf",
+    "https://en.wikipedia.org/wiki/Japanese"
+   ]
+  },
+  {
+   "query": "6K Additive annual report customers order backlog",
+   "results": [
+    "https://6kadditive.com/investors/",
+    "https://www.investing.com/news/transcripts/earnings-call-transcript-6k-additive-posts-h1-2026-growth-shares-slip-06-93CH-4876163",
+    "https://investorpa.com/announcement-pdf/20260728/320791.pdf",
+    "https://kalkine.com.au/news/announcements/6k-additive-reports-record-backlog-and-manufacturing-expansion-in-q3-fy2026",
+    "https://www.linkedin.com/company/6k-additive",
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "https://sp3d.in/3d-printing-financials-6k-additive-reports-record-quarter-as-demand-grows-for-u-s-made-metal-powders-3dprint-com/",
+    "https://www.youtube.com/watch?v=dOM304FePos",
+    "https://asxshort.app/stock/6KA/annual-reports/2025"
+   ]
+  },
+  {
+   "query": "6K Additive distributor OR reseller OR \"sales partner\"",
+   "results": [
+    "https://6kadditive.com/6k-additive-production-facilities/",
+    "https://www.incus-media.com/6k-additive-appoints-ampere-alloys-as-european-distributor-to-expand-reach-of-high-performance-sustainable-metal-powders/",
+    "https://www.6kinc.com/news/press-release/6k-additive-expands-international-reach-with-new-distribution-and-agent-partners/",
+    "https://6kadditive.com/about-6k-additive/",
+    "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "https://www.linkedin.com/in/frank-roberts-9670b217",
+    "https://www.astroalloys.com/about-us.html",
+    "https://www.metal-am.com/flow-distributor-and-mixer-designs-optimised-through-metal-additive-manufacturing/",
+    "https://www.owler.com/company/6kinc",
+    "https://b2bsupplierhub.com/blog/how-to-find-authorized-distributors-for-any-brand"
+   ]
+  },
+  {
+   "query": "6K Additive 導入 OR 納入 OR 受注",
+   "results": [
+    "https://sekiso-journal.com/articles/3dprint-1fbigaf",
+    "https://www.zaikei.co.jp/article/20261013/873134.html",
+    "https://6kadditive.com/",
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://finance.yahoo.com/energy/articles/6k-additive-secures-30-month-092600183.html",
+    "https://www.defenseandmunitions.com/news/6k-additive-secures-30-month-nickel-718-powder-supply-agreement-with-addman/",
+    "https://6kadditive.com/6k-additive-production-facilities/",
+    "https://www.tctmagazine.com/6k-additive-secures-final-exim-loan-agreement-worth-27-4m/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://www.manawin.jp/languagegap/business/nouhin-nounyu/"
+   ]
+  },
+  {
+   "query": "site:note.com 6K Additive",
+   "results": [
+    "https://note.com/yhresearch_news/n/n6c6015be4350",
+    "https://note.com/imadeya/n/nf4e293a68b5d?hl=en",
+    "https://note.com/hirokimiyano/n/nd867feda745b?hl=en",
+    "https://note.com/jrs1188/n/n71b00bd8d381?hl=en",
+    "https://note.com/applemika66/n/nd0b143844282?hl=en",
+    "https://note.com/startuplog/n/n0be39fe51363",
+    "https://note.com/exportcontrol/n/n8552a77ab882",
+    "https://note.com/lemon_zamurai123/n/nd493b5149311?hl=en",
+    "https://note.com/hiroto_markelab/n/n53e5cccba117?hl=en",
+    "https://note.com/beloved_tomoka/all"
+   ]
+  },
+  {
+   "query": "site:x.com 6K Additive",
+   "results": [
+    "https://x.com/3DPrint_com",
+    "https://x.com/Hyliion",
+    "https://x.com/SmallCapsASX",
+    "https://x.com/3DOSNetwork/status/2117711195113468167",
+    "https://x.com/VELO3DMetal",
+    "https://x.com/sdemarcoii",
+    "https://x.com/GrahamsDairy/status/1862105335990768046",
+    "https://x.com/3DOSNetwork/status/2117710470882947551",
+    "https://x.com/PennBizReport"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 6K Additive",
+   "results": [
+    "https://www.linkedin.com/company/6k-additive",
+    "https://www.linkedin.com/company/6kinc",
+    "https://www.linkedin.com/posts/6k-additive_6k-additive-secures-final-exim-loan-agreement-activity-7513045300098363392-_xuF",
+    "https://www.linkedin.com/posts/the-tct-group_3dprinting-additivemfg-metals-activity-7474785764472619010-29s7",
+    "https://www.linkedin.com/posts/6k-additive_6k-additive-continues-to-build-its-strong-activity-7488821632216780800-aYwJ",
+    "https://www.linkedin.com/in/peterbocchini",
+    "https://www.linkedin.com/posts/6k-additive_3dpod-303-6k-additive-ceo-frank-roberts-activity-7474819286054686720-XylB",
+    "https://www.linkedin.com/in/frank-roberts-9670b217",
+    "https://www.linkedin.com/in/brandonwdavis",
+    "https://pe.linkedin.com/posts/6kinc_rtx-and-america-makes-tap-6k-additive-for-activity-7227672555485081603-E22N"
+   ]
+  },
+  {
+   "query": "site:facebook.com 6K Additive",
+   "results": [
+    "https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/",
+    "https://www.facebook.com/DiscoverRAPID/videos/at-rapid-tct-we-caught-up-with-bruce-bradshaw-cmo-at-6k-additive-to-discuss-how/1283167473315449/",
+    "https://www.facebook.com/eximbankus/videos/nearly-90-of-exim-financing-supports-american-small-businesses-6k-additive-the-f/895040723191871/",
+    "https://www.facebook.com/eximbankus/posts/exim-is-delivering-for-american-manufacturing-exim-financing-is-helping-pennsylv/1577531997747038/",
+    "https://www.facebook.com/eximbankus/posts/exim-is-backing-the-future-of-american-manufacturing-with-274-million-in-exim-fi/1554998640000374/",
+    "https://www.facebook.com/ExcelSignworks/posts/can-your-sign-do-its-job-before-someone-even-reaches-the-drivewayfor-6k-additive/1779064300888719/",
+    "https://www.facebook.com/eximbankus/photos/1574197501413821/",
+    "https://www.facebook.com/eximbankus/photos/chairman-jovanovic-welcomed-egyptian-ambassador-mohamed-hamdy-el-molla-to-exim-t/1568420458658192/",
+    "https://www.facebook.com/metalAMmag/",
+    "https://www.facebook.com/6K-Additive-100222081816858/"
+   ]
+  },
+  {
+   "query": "6K Additive note 社長",
+   "results": [
+    "https://6kadditive.com/6k-additive-leadership-team/",
+    "https://www.6kinc.com/about-6k-inc/6k-inc-board-of-directors/",
+    "https://www.prnewswire.com/news-releases/6k-additive-appoints-manufacturing-veteran-brandon-davis-as-chief-operating-officer-302762516.html",
+    "https://www.linkedin.com/posts/6k-additive_3dpod-303-6k-additive-ceo-frank-roberts-activity-7474819286054686720-XylB",
+    "https://amgta.org/amgta-member-spotlight-13-frank-roberts-6k-additive/",
+    "https://6kadditive.com/about-6k-additive/",
+    "https://www.youtube.com/watch?v=gphuejvIDhE",
+    "https://6kadditive.com/investors/",
+    "https://stockanalysis.com/quote/asx/6KA/company/",
+    "https://www.marketscreener.com/quote/stock/6K-ADDITIVE-INC-199075731/company/"
+   ]
+  },
+  {
+   "query": "6K Additive X 投稿",
+   "results": [
+    "https://6kadditive.com/",
+    "https://www.6kinc.com/resources/6k-additive/",
+    "https://www.youtube.com/watch?v=gQgix1E5wcM",
+    "https://www.youtube.com/watch?v=McOq-mwfaVM",
+    "https://6kadditive.com/resources/",
+    "https://www.6kinc.com/resources/business-division/6k-additive/",
+    "https://www.youtube.com/watch?v=N1zmlhGVsaE",
+    "https://www.youtube.com/watch?v=B12ihAMqME8",
+    "https://www.6kinc.com/6k-additive-metal-powder-for-additive-manufacturing/",
+    "https://x.com/6KAdditive"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部52頁・検索15回）"
+ }
+}

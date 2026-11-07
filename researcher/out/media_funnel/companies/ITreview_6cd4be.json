@@ -1,0 +1,3080 @@
+{
+ "name": "ITreview",
+ "aliases": [
+  "ITreview",
+  "アイティクラウド"
+ ],
+ "context": "IT製品レビューと送客",
+ "researched_at": "2026-11-07T03:05:42.950353+00:00",
+ "official_url": "https://www.itreview.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都港区海岸1-7-1　東京ポートシティ竹芝オフィスタワー Google Map",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区海岸1-7-1\n東京ポートシティ竹芝オフィスタワー",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年4月2日",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年4月2日",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "黒野 源太 代表取締役社長 兼 CEO 永谷 博規 取締役（SB C&S株式会社 取締役 専務執行役員 兼 ICT事業本部長） 新木 啓悟 取締役 小林 教至 取締役（アイティメディア株式会社 代表取締役社長） 島田 正典 取締役（SB C&S株式会社 執行役員 財務経理統括担当 兼 財務経理本部長） 松田 広史 監査役（SB C&S株式会社 監査役） 黒野 源太 代表取締役社長 兼 CEO 永谷 博規 取締役（SB C&S株式会社 取締役 専務執行役員 兼 ICT事業本部長） 新木 啓悟 取締役 小林 教至 取締役（アイティメディア株式会社 代表取締役社長） 島田 正典 取締役（SB C&S株式会社 執行役員 財務経理統括担当 兼 財務経理本部長） 松田 広史 監査役（SB C&S株式会社 監査役）",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "黒野源太",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "54名(2023年7月31日時点)",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人がどこから来るか": [
+   {
+    "quote": "すべての「SNSマーケティング」カテゴリーを見る",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS・ソフトウェアの中でも、特に満足度・認知度がともに優れたTop100製品を紹介します",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "約200のカテゴリーごとにユーザーから最も高い評価を得た製品を紹介します",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新たに日本市場に登場した製品の中から、ユーザーから高い評価を集めたTop10製品を紹介します",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI機能を搭載した製品の中から、AI機能においてユーザー評価の高い製品の魅力を紹介します",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービスは何を基準に選ぶべき？株式会社構造計画研究所に聞く、失敗を防ぐ導入のポイントと到達率を高める方法を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投稿 メール配信サービスは何を基準に選ぶべき？株式会社構造計画研究所に聞く、失敗を防ぐ導入のポイントと到達率を高める方法を紹介 は ITreview Labo に最初に表示されました",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ITreview User Conference 2026 セッションレポート：前編】AI検索時代に「第三者評価」が重要な理由とは？Ahrefsのデータが示す市場の変化",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループウェア選びで陥りがちな失敗とは？株式会社ネオジャパンに聞く「日本企業に合ったワークフロー活用と製品選定のコツ」を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "紙の申請や承認のボトルネックをなくすには？株式会社エイトレッドに聞く「ワークフローシステムの選び方と定着のコツ」を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "数万人規模の組織改編にも対応できるワークフローシステムはある？株式会社エイトレッドに聞く「大企業のためのワークフロー選定術」を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIは何を根拠に推奨する商品を決めるのか？株式会社サブスパイアに聞く「AI時代に信頼されるUGC活用のヒント」を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Airワーク 採用管理（リクナビ/リクナビNEXT等）、キャリタス就活ほかからのデータを自動取り込み",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "各就職ナビや紹介会社（エージェント）、イベントなど、全ての応募経路からのデータを一元管理し、直感的なユーザーインターフェースにより、応募者への連絡や状況の分析、さらに応募者への効果的な動機形成を図ることが可能です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用、新卒採用、アルバイト問わずほぼすべての求人媒体・スカウトサービス・人材紹介向け求人データベースとの連携を実現できます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・新規参画者でも使いやすいシンプルなUI・UX",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる人材データを一元化・分析し、勘や経験に頼らない「科学的人事」と、幅広い領域の「人事DX」を両立します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "③科学的人事と人事DXを両立できる、オールインワンの機能性",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "■Excelの操作感を維持したシンプルな画面設計",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "紹介会社が推薦時にアップロードしたレジュメを、ブラウザ上で閲覧できます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "求人別・紹介会社別の分析もでき、求人発注先の選定や選考プロセスの見直しに生かせます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用特化型の採用管理システムは、即戦力人材の採用に特化したシステムで、人材紹介会社との連携や経験・スキルの評価管理に強みがあります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "採用活動では、求人媒体への掲載料や人材紹介会社への手数料など、さまざまなコストが発生します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "選定にあたって押さえておきたい6つのポイントをご紹介します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、ATSを導入する際の基本的な流れと、社内で円滑に運用していくためのポイントを、順を追ってご紹介します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "前章で紹介した比較ポイント（機能、操作性など）を元に、「自社に必要な条件」を明文化",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "主要なグローバルプレイヤーには、SAP SuccessFactors、Oracle Taleo、IBM Kenexaなどがあり、各企業は先進的な技術と幅広い機能を備えたシステムを提供しています",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "：従来のように募集や紹介を待つ採用方式ではなく、Facebookなどのソーシャルネットワークや人材バンク、写真紹介などから必要な人材に企業側からコンタクトを取る手法です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "本条において以下同じ）を除き、本サービスを通じて入手したいかなる情報も会員の個人としての私的利用の範囲を越えて、複製、販売、出版、公開その他いかなる方法においても使用をすることはできず、また、他の会員又は第三者をして同様の行為をさせてはなりません",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "4. 会員が投稿又は掲示した本サービス内の情報は、新聞、雑誌等各種メディア媒体への掲載や出版物として発行される場合があります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "ABABAの評判・口コミ 全3件【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "ABABAの評判・口コミ 全3件",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "管理画面におけるスカウト候補者の検索・絞り込み機能や、ターゲット学生への一括アクション時のUIがより直感的になると助かります",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "社員のエンゲージメントを可視化し、自発的な紹介を促進",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "AIが紹介されやすい候補者を特定し、マッ...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "様々なポジションや雇用形態に合わせた採用のほか、イベントの告知や紹介にも活用が可能です",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "・絞り込みや検索機異能がかなり充実しており、複雑な条件からサーチすることができる（登録者が多すぎるが...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "ウォンテッドリーは、『究極の適材適所により、シゴトでココロオドルひとをふやす』ために、はたらくすべての人が共感を通じて「であい」「つながり」「つながりを深める」ためのビジネスSNS「Wantedly」を提供しています",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "導入経験者によるリアルな評価や口コミを通じて、製品の機能や使い勝手、サポート品質などを比較できます",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "BONX WORKとは、BONX INCが提供しているIP無線アプリ製品",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "・相手先で着信操作が必要な電話やSNSなどのグループ通話機能とは違い、無線機と同様のボタンを押すだけで特定の相手・グループと一斉に通話が可能となる機能を備える",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "・厳選されたパートナー税理士の紹介サービス",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "申請書類の選択から登記までの手続きについて、ツール上で確認できる情報や、登記をサポート・代行する専門家の紹介などを行う",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "「ManageEngine ADManager Plus」や「Specops」、「Netwrix Auditor」などの有力製品は、サブスクリプションモデルで提供されており、",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Sophos Firewall の Xstream アーキテクチャは、重要な SaaS、SD-WAN、クラウドアプリケーションのトラフィックを高速化しながら、最新の脅威からネットワークを保護します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "次世代型 IPS、Web 保護、アプリ制御、SophosLabs Intelix を搭載したディープラーニングとサンドボックス化などのハイパフォーマンスなストリーミング ディープ パケット インスペクションで最新のランサムウェアと侵害を阻止します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS、SD-WAN、VoIP、ビデオ、その他の信頼できるアプリケーションなどのクラウドトラフィックを自動的に、または独自のポリシーを介して高速化し、 Xstream FastPath 上に追加して、パフォーマンスを最適化します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "XGS シリーズは、あらゆる価格帯で Xstream のパフォーマンスを提供し、今日の多様化、分散化、および暗号化されたネットワークに必要な保護機能を提供します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "重要な SaaS、SD-WAN、クラウドのトラフィックをハードウェアレベルで高速化およびオフロードし、統合された Xstream Flow Processors で TLS やディープパケットインスペクションのためのパフォーマンスヘッドルームを追加します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "FWX120",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "FWX120とは、ヤマハが提供するファイアウォール製品です",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "SRX シリーズサービスゲートウェイとは、ネットワークに必要な接続・セキュリティ・管理機能を提供する製品シリーズです",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "導入のしやすさと柔軟性を重視する中小企業や、DXを進める企業にとっては魅力的な選択肢となるでしょう",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "本セミナーは、現場データの収集やペーパーレス化を進めているが、業務改善や利益創出に繋がっていないと感じる経営層・工場長・DX推進責任者向けです",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "30分で丸わかり！データ連携ツール「ASTERIA Warp」製品紹介セミナー",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "「ASTERIA Warp」はExcelから業務システム、クラウドサービスまで、100種類以上のデータソース間の複雑な連携やデータ変換を、ノーコード＆高速開発で実現する国内シェアNo.1のデータ連携ツールです",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "※本ウェビナーは毎月 \"複数の日程\" で開催しています",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "現場ナレッジのデジタル化を通じて、教育を人に頼りきらない体制を構築し、品質を落とさずに新人の早期戦力化と教育コスト削減を両立させる具体的なメソッドと事例を紹介します",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、実演デモでは社内共有でまず作成すべきノートブックの例とともに、それらをどのように組織内で活用・展開していくかの具体的なプロセスをご紹介いたします",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用への期待が高まる一方で、データが蓄積されていない、情報が紙やExcelに散在している、システムごとに情報が分断されているといった課題を抱える企業も少なくありません",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   }
+  ],
+  "積み上がって阻むもの": [
+   {
+    "quote": "また、他社選考で評価された優秀な学生にピンポイントにアプローチできるデータベースの質も高く、こちらの意図を汲んだスカウト設計がしやすい点も大変気に入っています",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "すべての「ノーコードWebデータベース」カテゴリーを見る",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループウェア選びで陥りがちな失敗とは？株式会社ネオジャパンに聞く「日本企業に合ったワークフロー活用と製品選定のコツ」を紹介",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "18年連続シェアNo.1*の採用管理システム『i-web』は、応募者と企業をつなぐ採用活動のプラットフォームです",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、施策改善やコミュニケーションまで完結できる一体型の分析機能やコンテンツ制作機能が評価され、18年連続導入シェアNo.1の実績で、多くの企業様の採用活動を支援しています",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "採用管理システムの先駆けとして、採用マーケットを牽引してきた実績を活かし、進化するシステムと「人」によるサポートの両面から企業の採用活動をサポート",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "*「就職希望企業ランキング」（2010卒～2016卒日本経済新聞社、2017卒～2027卒キャリタス（旧ディスコ）調べ）上位130社（2016卒～2019卒はランキングが100位までしか発表されていないため上位100社）における採用管理システム（有償ツール）のシェア（ヒューマネージ調査）",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "累計導入社数・売上シェアともにNo.1を獲得",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ累計導入社数12万社",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "スタートアップから大手企業まで、幅広い業種・規模の導入実績があります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な採用支援実績がある当社だからこそ可能な、通常のシステムサポートにとどまらない採用支援を提供できます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・累計導入社数については、有償の採用管理システム（主要13社）に対するヒアリングに基づきます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・累計導入社数は、2016年6月～2026年8月までに有償契約を締結した企業の総数（解約企業を含む）です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・売上シェアについては、有償の採用管理システム（主要13社）に対するヒアリング・推計調査に基づきます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "複数拠点の採用にも対応し、導入実績500社以上、サービス継続率95.5％と多くの企業に長くご利用いただいております",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "通常の連携媒体数は30～100と言われている中、RPMは全媒体の95％との連携実績があります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "（連携実績のない求人媒体・自社HPについても無償で連携調査が可能です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用、新卒採用、アルバイト問わずほぼすべての求人媒体・スカウトサービス・人材紹介向け求人データベースとの連携を実現できます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "【大手・中堅企業売上シェアNo.1（※1）】【導入法人数4,800社以上／継続率99.6%（※2）】",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "①大手・中堅企業売上シェアNo.1（※1）、導入法人数4,800社以上・継続率99.6%（※2）の確かな実績",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "※1 出典：ITR「ITR Market View：人材管理市場2026」人材管理市場 ベンダー別売上金額シェア（2024〜2025年度予測）",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "現在2,000を超えるアカウントの採用活動を支援しており、継続率98.8％の実績があります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "採用管理システム(ATS)の市場規模・シェア",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "【大手・中堅企業売上シェアNo.1（※1）】【導入法人数4,800社以上／継続率99.6%（※2）】 人事担当者が必要な機能を兼ね備えた、オールインワン型のタレントマネジメントシス...",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ累計25万社以上が導入、新卒・中途・アルバイト全採用形態に対応し、ジョブカン勤怠・労務・給与との連携で採用から入社後まで一気通貫で管理できる",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業向けに新卒・中途の両採用に対応しつつ、新卒向けイベント管理・LINE連携・辞退防止アンケートAIによる歩留まり改善（13.2%改善実績）が特に強力な低コストクラウドATS",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "求人情報の自動配信機能や、応募者データベースの構築が可能です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "日本市場における採用管理システム(ATS)のシェアは、年々拡大しています",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "会員規約【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "2. 本サービスにおいて、レビュー及びコメントの投稿を行うには、本規約に同意いただいた上で会員登録を行う必要があります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "1. 本規約は、本サービスを運営するITCと会員との間でのルールを定めることを目的とするものです",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "本規約は、ITCと会員との一切の関係について適用されます",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "3. ITCは、規約等を会員へ予告することなく改定できるものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "また、改定後の規約等は、全ての会員に対して適用されるものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "第３条 （会員登録）",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "1. 本規約において会員とは、ITCの指定する手続きに基づき、本規約に同意のうえITC所定の方法にて会員登録を申し込み、ITCがこれを承認した者とします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "2. ITCが、会員として承認することを不適切と判断した場合、会員登録を認めない場合があります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "また承認後であっても承認を取り消し、会員登録の抹消を行う場合があります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "なお、既に登録済みの会員が、重複して会員登録を申し込むことは禁止します",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "3. 会員は、ITCが本サービスに関する通知（各種お知らせ、メールマガジン等を含む）を送付することについて、これを承諾するものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "4. 会員として提供される権利を第三者に譲渡したり、貸与したり、第三者と共有することは禁止します",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "1. 会員は、本サービスのサービスを利用していただくにあたり、ITCに登録しているメールアドレス及びパスワード（以下、あわせて「アドレス等」といいます）を使用するものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "2. 会員は、アドレス等の使用及び管理について自ら責任を持つものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "3. 会員は、自己のアドレス等によりなされた、ITCが提供するサービスにかかる一切の行為及びその結果について、当該行為を会員自身が行ったか否か又は会員自身の過失の有無を問わず、自らその責任を負うものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "4. 会員は、アドレス等の盗難若しくは失念があった場合、又はアドレス等が第三者に使用されていることが判明した場合、直ちにマイページにて正しい情報に修正するとともに、当社にその旨を届け出るものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "5. 会員が、第三者のアドレス等を不正に利用したことにより、当該第三者又はITCに損害を与えた場合、会員は当該不正使用によって生じた損害を当該第三者又はITCに賠償するものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "1. アドレス等を含む全ての会員の登録情報はITCが保有・管理するものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "会員の登録情報には、本サービス上で公開される情報（以下「公開登録情報」といいます）と、ITCが機密に管理し開示しない情報（以下「非公開登録情報」といいます）があります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "3. ITCは、登録情報の公開・非公開の区別を、会員が情報を登録する際に登録画面上で事前に表示することで事前に通知したものとし、会員が登録を入力し会員登録を申し込んだ時点で、公開と通知された登録情報が本サービス上で公開されることに同意したものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "4. 前項の定めに関わらず、会員が公開登録情報に入力した情報が公開されたことにより会員が被った一切の損害については、会員自身が責任を負い、ITCは責任を負わないものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "5. 登録情報に変更が生じた場合、会員は速やかに所定の変更手続きを行うものとします",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "第６条 （会員の禁止事項）",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "会員は、本サービスにおいて以下の行為を行ってはなりません",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "また、他社選考で評価された優秀な学生にピンポイントにアプローチできるデータベースの質も高く、こちらの意図を汲んだスカウト設計がしやすい点も大変気に入っています",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "自社では25卒から27卒まで3年連続で計画採用を達成できており、確かな採用実績を作りたい企業に心からお勧めできます",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "『ABABA』は、最終面接まで進んだ就活生と、その実績を評価する企業をつなぐダイレクトリクルーティングサービスです",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "学生は「最終面接まで進んだ」という実績をもとにスカウトを受け取ることができ、企業は成果や志向性を把握した上でダイレクトにアプローチすることが可能です",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに累計20万人の就活生が登録し、導入企業...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "◥◣リファラル採用シェアNo1. プラットフォーム「MyTalent Refer（MyRefer）」◢◤",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "ボタンを押すだけでグループ内のユーザーへ一斉発信ができます",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   }
+  ],
+  "船井型の段階": [
+   {
+    "quote": "・顧問弁護士のリーガルチェックに先立って、リスクチェック結果を参照することで、先生が話される内容をハッキリと理解することができ、一層深いところの質疑応答が自分のスキルを向上させてくれました",
+    "url": "https://www.itreview.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Slackでは、担当者へDMで連絡できる機能がありスピーディーな情報共有が可能になります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "モバイル端末管理(MDM)との連携も対策の一つです",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "ADMSとは、株式会社ジインズが提供しているアクティブディレクトリ管理ツール製品",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Admin Bundle for Active Directory",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Admin Bundle for Active Directoryとは、ソーラーウインズ・ジャパン株式会社が提供しているアクティブディレクトリ管理ツール製品",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Active Directory管理を統合・効率化し、セキュリティとコンプライアンス対応を強力に支援する「Active Administrator」",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Active Administratorは、Microsoft Active Directory（AD）の管理・監査・セキュリティ強化を一元的に行える統合ソリューションです",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "例えば「ManageEngine ADManager Plus」では、ユーザー登録時に必要な情報をテンプレート化し、役職ごとの定型操作を自動で処理することが可能です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "「ManageEngine ADManager Plus」や「Specops」、「Netwrix Auditor」などの有力製品は、サブスクリプションモデルで提供されており、",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "紙やFAXで行っていた書類のやりとりがオンライン化したことで、PDF編集のニーズが高まったことが想像されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "『カスタマーサクセス―サブスクリプション時代に求められる「顧客の成功」10の原則―』という、通称「カスタマーサクセスの青本」とよばれている書籍があります",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "米国で出版されたこの書籍を日本語に翻訳しカスタマーサクセスのコンサルティングを行うバーチャレクス・コンサルティング社と共同で行った調査では、「日本でカスタマーサクセスをよく知っていると回答した人の割合はわずか3%で、元年はまだ来ていない」という結果でした（※）",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちも書籍やレストランなどを選ぶ際に、悪い口コミは必ずチェックしますよね",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "予測・パーソナライズソリューション ZETA DMP",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   }
+  ],
+  "誰が払うか・単価": [
+   {
+    "quote": "継続率は既存契約の月額課金額のうち解約に伴い減少した月額課金額の割合を各四半期末月における12ヶ月平均で算出",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "400以上（国内求人媒体の約95%）の求人媒体と連携し、自動応募取り込み・24時間365日の自動連絡・広告費用対効果の精密分析まで対応する大量採用・人材サービス会社向けの多機能ATS",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "採用活動では、求人媒体への掲載料や人材紹介会社への手数料など、さまざまなコストが発生します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・ハイキャリアのエンジニアや専門職の方など、特筆したスキルを持っている人と出会えるので、課金してでも面談したいと思うことが多い",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "一見安価に見えるサービスでも、登記手数料やオプション費用が積み重なることで総額が大きく変動するケースが多いため",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "別途課金が必要なケースもあるため注意が必要です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "採用管理システムは以前から使用していましたが、以前使用していたシステムは求人情報と応募者・広告費が紐づけられず、応募者の管理以外はアナログ管理でした",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "pass": 1
+   },
+   {
+    "quote": "RPMは求人情報や広告費も含め一元管理ができることが魅力的で乗り換えました",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "pass": 1
+   },
+   {
+    "quote": "求人系の広告代理店をしているため、顧客のATSへログインし、求人広告の作成代行を行うことが多いですが、ジョブカン採用管理はATSの中でもかなり低価格で利用することができるのが良いポイントだと思います",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "pass": 1
+   },
+   {
+    "quote": "1件あたりの登録作業が大幅に短縮され、エージェント経由の紹介推進にもつながっています",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/small",
+    "pass": 1
+   },
+   {
+    "quote": "求人検索エンジンでの効果出しに特化した機能や、さらに応募数を増やしたい場合にはGoogleやSNSなどWEB広告での応募者獲得も可能",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "求人検索エンジンでの効果出しに特化した機能や、さらに応募数を増やしたい場合にはGoogleやSNSなどWEB広告での応募者獲得も可能",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "特に、即戦力人材や専門スキルを持ったハイクラス人材の獲得においては、求人広告や人材紹介経由よりも、ミスマッチが少なく効果的な手法として注目されています",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "料金は月額固定型、成果報酬型、ハイブリッド型などがあり、それぞれにメリットとデメリットがあります",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型は初期コストを抑えられる反面、採用が決まった際に高額な報酬が発生するケースもあります",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "例えば「求人広告では応募が集まらない」「紹介経由では費用が高すぎる」「マッチング精度が低い」といった課題がある場合、ダイレクトリクルーティングによってどう解決できるのかを検討することが重要です",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスの料金体系は、主に「月額課金型」「成功報酬型」「無料〜一部有料型」の3つに分類されます",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "月額課金型のダイレクトリクルーティングサービスの料金相場としては",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介会社を介さずに直接スカウトできるため、仲介手数料が発生しません",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型の人材紹介では、年収の30〜40%が手数料となることもありますが、月額型のダイレクトリクルーティングであれば、年間数十万円〜で採用活動が可能となるため、複数名の採用や長期的な採用活動に向いています",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "ITreviewの掲載料金と評判 レビュー活用とリード獲得の進め方 - 集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載を検討する企業にとっては、単に広告枠を買う施策ではなく、既存顧客の評価、製品ページ、比較表、インテントデータ、CTAを組み合わせて、商談前の信頼形成を進める施策になります",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "製品ページを整備し、レビューを集め、評価情報やバッジを営業資料・Webサイト・広告LPに活用することで、第三者評価を含めた訴求を作れます",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイト、営業資料、LP、広告で信頼材料として使う",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求、デモ、問い合わせへの導線を作る",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "営業資料、導入事例ページ、比較LP、広告クリエイティブにレビューや評価情報を組み込むことで、商談前に顧客の不安を減らす材料を作れます",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "レビューや評価情報を営業資料・LP・広告に活用できる",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、リード獲得を安定させるには、ITreviewだけに依存せず、自社サイト、比較記事、ホワイトペーパー、広告、ウェビナー、インサイドセールスと組み合わせることが重要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview上で製品を知ったユーザーが、公式サイトで事例を確認し、比較記事で強みを理解し、資料請求やデモ予約に進む流れを設計しておくと、リード数だけでなく商談化率も追いやすくなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS企業の広告・マーケティング戦略を確認する",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載後は、閲覧、CTAクリック、資料請求、商談化率を見ながら改善する必要があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "レビューは製品ページ上の評価だけでなく、営業資料、Webサイト、比較LP、広告、導入事例ページの信頼材料として活用できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "料金表ダウンロード | ポーターズ株式会社",
+    "url": "https://lp.porters.jp/portersdl_price",
+    "pass": 3
+   },
+   {
+    "quote": "料金表をダウンロードいただき、プランや詳細をご確認ください",
+    "url": "https://lp.porters.jp/portersdl_price",
+    "pass": 3
+   },
+   {
+    "quote": "【採用支援サービス/研修系/HRテック提供企業など】HRプロ活用レビュー(ITReviewレビュー)の事例 | 媒体資料のダウンロード「メディアレーダー」",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内No.1の広告媒体資料・マーケティング資料のポータルサイト",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "人事・人事責任者の会員8万件以上が対象「HRプロ」のメルマガ（メール広告）",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体資料のダウンロードやセミナー申込に必要な無料会員登録です",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドネットワーク、DSP広告、SSP広告",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告、採用管理",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定のキーワードやカテゴリ別に媒体資料を網羅的に探せます",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "（リダイレクト）オンライン展示会/協賛ウェビナー",
+    "url": "https://promotion.itmedia.co.jp/campaign/itreview",
+    "pass": 3
+   },
+   {
+    "quote": "旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の出資を受けてアイティクラウド株式会社を立ち上げ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、Freeプランごの場合、総利用額の10％を手数料としていただいております",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※3 「リード獲得」機能については、1件獲得あたり15,000円の成果報酬をいただいております",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンクモバイル株式会社（当時）でインターネット広告事業の立ち上げに参画",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンクモバイルでインターネット広告事業の立ち上げに携わっていたときに、",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   },
+   {
+    "quote": "IT製品の比較・資料請求サイト「ITトレンド」を運営する、株式会社Innovation & Co.（旧：株式会社ITクラウド）の代表・黒野氏へのインタビュー記事です",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、集まった良い口コミを自社のウェブサイトや広告で二次利用することで、信頼性の高いマーケティングコンテンツとして活用できます",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社（旧ソフトバンクコマース&サービス）にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の合弁会社として設立されたアイティクラウド株式会社の取締役副社長兼CEOに就任",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "高評価であることを示すマトリックスをフォームに掲載してコンバージョンがアップした事例や、バナー広告に掲載してCTR（クリック率）がアップした事例などがあり、ROI（投資利益率）が高いのです",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "ディスプレイ広告とは｜仕組み・種類・費用とリスティング広告との使い分け",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告とは？主要8媒体の違いと、予算・商材からの選び分け",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "Google広告アカウントの作り方｜作成手順と配信前に止めておく初期設定",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "広告運用代行とは｜依頼できる業務・料金体系3種類・委託先4タイプの違い",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、GMOインターネットグループでインターネットインフラ事業と広告・メディア事業を担うGMOインターネット株式会社の連結会社として、AIをはじめとする最先端のテクノロジーを活用した自社開発サービスを提供",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   },
+   {
+    "quote": "広告主企業様のブランディングや顧客ロイヤリティの向上、メディア企業様の収益最大化を支援しています",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   },
+   {
+    "quote": "IT製品・サービスの比較・資料請求が無料でできる、ITトレンド",
+    "url": "https://it-trend.jp/customer_success_tool/21041",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサクセスツールの製品をまとめて資料請求",
+    "url": "https://it-trend.jp/customer_success_tool/21041",
+    "pass": 3
+   },
+   {
+    "quote": "レビューキャンペーンの手数料はかかりません",
+    "url": "https://vendor.itreview.jp/archives/9660",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "導入社数2,500社以上",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "累計導入社数・売上シェアともにNo.1を獲得",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ累計導入社数12万社",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・累計導入社数については、有償の採用管理システム（主要13社）に対するヒアリングに基づきます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・累計導入社数は、2016年6月～2026年8月までに有償契約を締結した企業の総数（解約企業を含む）です",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・各社の推計売上高は、「各社のアクティブ契約社数」に「各社で最も利用されている主要契約プランの年額料金」を乗じて算出しています",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "・新規登録者数制限内であれば新卒版も中途版も利用可能",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "ビズリーチが提供する中途採用向けATSで、導入企業の90%が選考スピードアップを実感、最大18の採用媒体連携とエージェント分析機能で即戦力採用を強力にサポート",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに累計20万人の就活生が登録し、導入企業...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "・ダイレクトリクルーティングなので、レジュメの内容が薄くなりやすい若手層は少なくなるが、中堅からハイクラス層は圧倒的な量の登録者からサーチできる",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "・絞り込みや検索機異能がかなり充実しており、複雑な条件からサーチすることができる（登録者が多すぎるが...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "実際の導入企業の声を参考にすることで、運用のリアルなイメージを掴むことができます",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業の業界・業種は多岐にわたり、中規模のネットワークでエンタープライズクラスのセキュリティを目指す企業の間で広く導入されています",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "また、分析機能も充実しており、エントリー経路別やイベント参加者別、面接評価ランク別の歩留まりなど、日々確認したい情報をATS上で完結して確認できます",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "pass": 1
+   },
+   {
+    "quote": "登録者へスカウトを打つ際、具体的な求人が必須となるため、候補者に対して直接可能性の高い求人を当てることができ、面談前からイメージを持って臨んでもらえています",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/small",
+    "pass": 1
+   },
+   {
+    "quote": "・イベント管理⇒イベント参加人数、参加者情報、イベント管理機能が一目で分かるようなUIになっており、Excel管理と比較しても手間が1/100くらいになっていると思う",
+    "url": "https://www.itreview.jp/products/i-web/price",
+    "pass": 1
+   },
+   {
+    "quote": "ある程度プラットフォームが決まっており、それに当てはめて運用することが多い中、こちらは導入企業に合わせた運用が可能です",
+    "url": "https://www.itreview.jp/products/i-web/price",
+    "pass": 1
+   },
+   {
+    "quote": "【顧客満足度No.1（※1）】【累計導入社数4,000社以上（※2）】",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "累計導入社数・売上シェアともにNo.1を獲得",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ累計導入社数12万社",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数2,500社以上",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "累計導入社数・売上シェアともにNo.1を獲得",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ累計導入社数12万社",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "【顧客満足度No.1（※1）】【累計導入社数4,000社以上（※2）】",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数2,500社以上",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360万人を突破し、国境を越えて『はたらくすべての人のインフラ』を創っていきます",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに累計20万人の就活生が登録し、導入企業は3,500社に達しました（2026年6月末時点）",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "登録者データの内訳を必ず事前に確認しておきましょう",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、単に登録者数が多いだけでなく、対象職種に偏りがないか、例えば営業職だけに偏っていては、エンジニアの採用には不向きです",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "業界や職種によって登録者層に偏りがある印象を受けたため、今後は物流関連を含め、より幅広い職種の求職者データベースが拡充されることを期待しています",
+    "url": "https://www.itreview.jp/products/miidas/reviews/254265",
+    "pass": 1
+   },
+   {
+    "quote": "・ダイレクトリクルーティングなので、レジュメの内容が薄くなりやすい若手層は少なくなるが、中堅からハイクラス層は圧倒的な量の登録者からサーチできる",
+    "url": "https://www.itreview.jp/products/bizreach/reviews/167760",
+    "pass": 1
+   },
+   {
+    "quote": "・絞り込みや検索機異能がかなり充実しており、複雑な条件からサーチすることができる（登録者が多すぎるがゆえに優秀な検索機能が際立ってよく見える）",
+    "url": "https://www.itreview.jp/products/bizreach/reviews/167760",
+    "pass": 1
+   },
+   {
+    "quote": "・これはサービス側には非はないが、登録者の中でレジュメの内容が薄い方がそれなりにいること",
+    "url": "https://www.itreview.jp/products/bizreach/reviews/167760",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業のレビューは、ベンダー自身の説明だけでは補いにくい信頼材料になります",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview会員数が15万人を突破",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview会員数が10万人を突破",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、各カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、各カテゴリー月間PV数比率（Web会議・ウェビナーを抜いたグラフ）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「PDF編集」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「CMS」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「MA（マーケティングオートメーション）」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「BIツール」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「ローコード開発」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月の月間PV数を1.0とした場合の、「名刺管理」カテゴリー月間PV数比率",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITreviewの2024年5月現在の月間PVは前年比で140％伸びている",
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "pass": 3
+   },
+   {
+    "quote": "チャンネル登録者数 27人",
+    "url": "https://www.youtube.com/watch?v=iS16_4efgNI",
+    "pass": 3
+   },
+   {
+    "quote": "実際の導入企業・利用者による詳細なレビューや評価をご覧いただけます",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   }
+  ],
+  "立ち上げ時の打ち手": [
+   {
+    "quote": "システムを導入するだけではなく、企業ごとの採用フローや課題に合わせて、初期設定から運用定着、改善提案まで専任担当者が伴走します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "導入時の初期設定から運用開始後まで専任担当者がサポートするため、採用管理システムを初めて導入する企業や、採用業務の属人化・煩雑化に悩む企業にもおすすめです",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用・月額費用・追加料金等、一切発生いたしません",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "採用管理システム(ATS)の導入には、初期設定にかかる費用や月額の利用料金など、一定のコストが発生します",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "特に、普段からデジタルツールに不慣れなスタッフが多い場合は、初期段階での混乱や業務停滞のリスクもあります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用や月額料金の安さだけで選ぶと、必要な機能が不足し、結果的に業務効率が落ちる可能性もあります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "マスタデータ（求人票、選考ステータス、通知テンプレなど）の初期設定を行い、テスト運用を経て本格稼働へ",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "特に「現場の業務フローに合っているか」の確認は初期段階で行っておくと、導入後の混乱を防げます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "導入後、長期的に使いこなしていくためには、初期段階での工夫と継続的なフォローがカギを握ります",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "導入初期費用が抑えられるため、中小企業から大企業まで幅広い導入が進んでいます",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレミス型の採用管理システム(ATS)は、初期導入費用が高額になることが多いです",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "IP無線アプリの料金体系としては、初期導入費がかかる「",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用は高めですが、継続的な費用がかからない点が最大の特徴",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用が少なく、導入障壁が低いためスモールスタートに適している料金体系",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "操作ミスによる誤送信や設定ミスによる通話不能といった問題が生じることもあり、初期導入時には使用マニュアルの配布や研修の実施が望まれます",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "0円創業くん",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "0円創業くんとは、株式会社Wizが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立支援ツールを導入することで、専門知識が乏しい状況でも正確に法人化を進められるため、創業フェーズの立ち上がりスピードを大きく高めることができます",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、電子定款を使うことで4万円の印紙代を削減できるケースが多く、創業期の固定費削減に直結します",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "結論として、設立後のサポート範囲が広いツールを選ぶことで、創業後のバックオフィス運営が安定しやすくなります",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "設立後に必要となる税務・労務・会計の準備を支援するサービスがあるかどうかで、事業の立ち上げ負担が大きく変わるため",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "創業直後は手続きが多く混乱しやすいため、開業後サポートの充実度がスムーズな運用に直結します",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "事例として、創業直後の人員が最小限の組織では、書類の自動化と電子申請対応を重視するケースが多い傾向です",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "事例として、創業初期のスタートアップが利用して、1週間以内に登記が完了したケースなどがあります",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "費用を最小限に抑えたい創業者への低コスト支援",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "継続的な追加費用を発生させたくない創業企業のコスト最適化",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "ライトな起業や1人法人の創業など、資金が限られている創業者にとって経済的メリットは非常に大きいものです",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "近年のツールは、会計ソフト連携や税務署届出書の自動作成など、創業後の運用をサポートする機能が増えています",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "創業期に必要となる届出書の準備が自動化される運用支援",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "は、事業を立ち上げたばかりの企業にとって非常に有効です",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "作業負担を大幅に軽減できるため、創業期の企業にとって採用価値がさらに高まっています",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "創業から運用までを一貫支援する包括プラットフォーム化",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、創業から成長まで一貫した運用体験が実現します",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "初期コストが高めである反面、長期的にはコストを抑えられるのが特徴です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用が抑えられ、利用規模に応じて柔軟にライセンス数を変更できるのが強みです",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "事例としては、IT管理者が1人で数百名のユーザーを管理していた中堅企業が、",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプは自社拠点に設置して運用するため、初期費用は高額になりますが、ランニングコストを抑えやすく、",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用が抑えられ、利用した分だけ支払う料金体系（サブスクリプション型）が主流となっています",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "特に、初期設定時やネットワーク変更時には",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "今回導入時には、プラスアルファコンサルティング社の全面協力を得て、早期に立ち上げ・導入ができました",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "pass": 1
+   },
+   {
+    "quote": "・UIがシンプルで直感的、導入初期でもすぐに使いこなせる",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "費用対効果の高さに加え、初期設定や既存データ移行を含むオンボーディングが専任担当の手厚いサポートで進むため、はじめてのATS導入でも、他社ツールからのリプレースでもスムーズに立ち上げられると思います",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "最大の強みは、ゼロから100まで自由に設定できる圧倒的なカスタマイズ性です",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "1人で新卒採用をまわさなくてはいけない状況の中で、様々なイベントからの候補者を一元に管理できるシステムがほしかった",
+    "url": "https://www.itreview.jp/products/sonar/price",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、ご担当者様のサポートもあり、1人で新卒採用を回すことができ満足しています",
+    "url": "https://www.itreview.jp/products/sonar/price",
+    "pass": 1
+   },
+   {
+    "quote": "最大の強みは、ゼロから100まで自由に設定できる圧倒的なカスタマイズ性です",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬型は初期コストを抑えられる反面、採用が決まった際に高額な報酬が発生するケースもあります",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "スカウト文面の作成支援や導入初期のフォローアップがあるかどうかが重要な判断材料",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用を抑えられるが、採用時に高額な費用が発生する",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用がかからない場合が多く、",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "初期投資を抑えて手軽に始めたい企業には最適ですが、",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "公式ページ上では、有料プランに初期費用100,000円がかかるとされています",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも1製品あたりの金額で、年間契約と初期費用が前提です",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS選定、業務整理、初期設定、システム連携、運用定着、情シス代行、SalesforceやERP...",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用なしで資料・セミナー情報を掲載いただけます",
+    "url": "https://media-radar.jp/detail35959.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の出資を受けてアイティクラウド株式会社を立ち上げ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：0万円",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：10万円(※1)",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：10万円",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げの苦労の先に誇りが生まれる |MiraError（ミラエラ）",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "i-webはリリースから25年",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360...",
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】会社設立支援ツールのおすすめ10製品（全21製品）を徹底比較！満足度や機能での絞り込みも【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】会社設立支援ツールのおすすめ10製品（全21製品）を徹底比較！満足度や機能での絞り込みも",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "「弥生のかんたん会社設立」は、ステップに沿って入力するだけで、株式会社、合同会社の設立書類を作成できるクラウドサービスです",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "また、電子定款に対応しており、ご自身で紙の定款を作成する場合に必要な印紙代40,000円を削減でき、設立コストを最小限に抑えられます",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "・専門家が登記手続きを代行する「設立お任せサービス」",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "・「起業・開業応援パック」で法人カードや口座開設を優待",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "マネーフォワード クラウド会社設立とは、株式会社マネーフォワードが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "freee開業とは、フリー株式会社が提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "freee会社設立とは、フリー株式会社が提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立代行ルームとは、司法書士・行政書士・社労士オフィスエルワンが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "税理士法人OCパートナーズとは、税理士法人OCパートナーズが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "格安設立.comとは、株式会社オーナーズブレインが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "0円創業くん",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "0円創業くんとは、株式会社Wizが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "スターズラボ会計事務所とは、スターズラボ会計事務所が提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "税理士法人TOTALとは、税理士法人TOTALが提供している会社設立支援ツール製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立支援ツールの人気おすすめ製品比較表",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立支援ツールの導入で注意すべきポイント",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立支援ツールとは、会社設立に必要な書類作成や申請手続きを効率化し、スムーズに法人化を進めるためのオンラインサービスのことです",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立支援ツールを導入することで、専門知識が乏しい状況でも正確に法人化を進められるため、創業フェーズの立ち上がりスピードを大きく高めることができます",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "ツール上で必要事項を入力することで、会社設立に必要な書類を作成する機能を備えた製品",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "必要事項を入力するだけで、会社設立に必要な各種申請書類を自動で作成する機能",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立に必要な手続きの進捗状況を管理する機能",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立に関するアドバイスや支援を提供する",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "結論として、会社設立支援ツールを比較するときは、対応している設立形態の種類を必ず確認することが重要です",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "API連携は現在開発中となっておりますので、リリース後は業務の自動化へ貢献できるかと思います",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月のサービス公式リリースから現在まで、登録会社数38,000社、個人ユーザー数360万人を突破し、国境を越えて『はたらくすべての人のインフラ』を創っていきます",
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はソフトバンクグループであるSB C&S株式会社とアイティメディア株式会社の合弁会社として、2018年4月に設立し、",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS管理ツール「ITboard」が従業員の「シャドーIT検知機能」をリリース",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS一元管理を提供する、SaaS管理プラットフォーム「ITboard」をリリース",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview レビューデータからAIが最適なIT製品を提案する「ITreview診断」 機能をリリース",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けIT製品・サービスに関するレビューを投稿・閲覧できるプラットフォーム「ITreview」を設立",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍で注目を浴びたカテゴリーを公開 | アイティクラウド株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "本リリース内容の転載にあたりましては、「ITreview調べ」という表記をお使いいただきますようお願い申し上げます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド株式会社は、IT製品のレビューメディア事業展開を目的とし、2018年4月に設立しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "「IT選びに、革新と確信を」をミッションにかかげ、企業がテクノロジーを活用する上で必要となる“信頼できる声”や“確かな情報”の集まる場である「ITreview」を同年10月に開設",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "※4 Standard以上の場合、社名・氏名非公開設定で投稿されたレビューも、「社名まで」のデータは取得可能になります",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業から3年目に入っても売り上げは安定せず、僕はもっと",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   },
+   {
+    "quote": "旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社（旧ソフトバンクコマース&サービス）にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の合弁会社として設立されたアイティクラウド株式会社の取締役副社長兼CEOに就任",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "「ITreview」のサービス開始当時、海外にはあっても日本にはまだレビューのプラットフォームがありませんでした",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスのリリースからたった9ヵ月で全サービスの半分を網羅したというのは、すごいことですね",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "企業がテクノロジーを活用する上での“信頼できる声”や“確かな情報”の集まる場として「ITreview（アイティレビュー）」をリリース",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "1992年の創業以来、デジタルマーケティング分野で培った豊富な知見やノウハウを活かし、お客様の課題解決に取り組んできました",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド株式会社は、IT製品のレビューメディア事業展開を目的とし、ソフトバンク コマース＆サービス株式会社とアイティメディア株式会社の合弁会社として2018年4月に設立されました",
+    "url": "https://cas.softbank.jp/press/180719_01/",
+    "pass": 3
+   },
+   {
+    "quote": "「G2 Crowd」は、BigMachinesやSteelBrickといった、SaaSを代表する企業の創業者や経営幹部からの出資に加え、45億円を超える資本を有しており、B2B市場におけるさらなるビジネス取引の信頼性の向上と、透明性の担保を目指し、運営しています",
+    "url": "https://cas.softbank.jp/press/180719_01/",
+    "pass": 3
+   },
+   {
+    "quote": "「コラボレーター機能」に関するプレスリリース",
+    "url": "https://www.dreamarts.co.jp/news/press-release/pr260121/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年にITreviewがリリースされて約5年半",
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "pass": 3
+   },
+   {
+    "quote": "ITreviewが提携し、かつベンチマークしているアメリカのレビューサイト「G2.com」ではAIレコメンド機能がすでにリリースされており、「そのノウハウも借りてITreviewのサイトに実装する」（新木氏）",
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Markerを契約している企業が、Sales MarkerのインテントシグナルのグラフでITreviewの訪問日、自社サイトの閲覧日などが分かるようになる、といった連携機能のリリースも発表した",
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "pass": 3
+   },
+   {
+    "quote": "ギフトカード金額はキャンペーンごとに設定でき、実名・社名のみ公開・匿名など公開設定ごとに条件を変更したり、先着順で金額を変えたりすることも可能です",
+    "url": "https://vendor.itreview.jp/archives/9660",
+    "pass": 3
+   },
+   {
+    "quote": "設立 ：2005年8月",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "Ptengineは2010年、世界で初めてスマートフォンサイト特化のヒートマップ技術をリリースしたところから始まりました",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   }
+  ],
+  "売上・黒字": [
+   {
+    "quote": "・各社の推計売上高は、「各社のアクティブ契約社数」に「各社で最も利用されている主要契約プランの年額料金」を乗じて算出しています",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "採用管理にとどまらず、人事評価・スキル管理・研修履歴・アルムナイ採用まで同一基盤で管理し、採用から育成・配置・リテンションまでのサイクルを一元運用できる人事統合プラットフォーム",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "：財務、会計、人事、給与、予算管理、販売管理、 生産管理 、在庫管理といった企業の基幹業務システム、またはそれらのシステムを統合したパッケージサービスです",
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "pass": 1
+   },
+   {
+    "quote": "会員が退会を希望する場合には、所定の手続きに従いITCに届け出るものとし、ITCでの退会処理終了後、会員登録を抹消し、退会となります",
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "pass": 1
+   },
+   {
+    "quote": "両者を連携させることで現場～本部の情報流動を一体化でき、音声／文字／チャットという複数の手段を統合して運用できます",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "通話ログ、位置情報、勤務記録などをクラウドで統合管理することで、業務効率が格段に向上します",
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "pass": 1
+   },
+   {
+    "quote": "- 開業後ツールとの統合プラットフォーム化",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "最後のトレンドとして、設立後のバックオフィスを含めた統合プラットフォーム化が進んでいます",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Active Directory管理を統合・効率化し、セキュリティとコンプライアンス対応を強力に支援する「Active Administrator」",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Active Administratorは、Microsoft Active Directory（AD）の管理・監査・セキュリティ強化を一元的に行える統合ソリューションです",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "統合ビューによる可視化、権限の委任・管理、イベント監視と自動警告、GPOのオフライン編集・比較・リストア、ADの正常性評価など、豊富な機能を搭載",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "業務プロセスと統合した自動化は、管理部門の負担軽減に非常に効果的です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレとクラウドを跨ぐユーザー・グループの同期管理が可能であり、統合ID管理に対応している製品を選ぶことが重要です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "特に自社のITインフラとの親和性は重要で、オンプレ主体の企業であればローカル管理に強いツールを、Microsoft 365などを使っている場合はAzure ADとの統合性が高い製品を優先的に選定すべきです",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレとクラウドが混在する環境でも、統合管理が可能になります",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド移行が進む中、ハイブリッド環境でのAD統合管理は、多くの企業にとって喫緊の課題です",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスやSaaSとのID統合が進み、IDaaS連携は今後の必須条件となりつつあります",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Active Directoryだけでなく、Google WorkspaceやSalesforce、Slackなど多様なSaaSをIDベースで統合管理できる仕組みが求められており、",
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "pass": 1
+   },
+   {
+    "quote": "侵入防御、Webコンテンツフィルタリング、マルウェア対策、アプリケーション制御を網羅する包括的な脅威保護の実現方法を検討するセキュリティ担当者は、可視性が欠如した、統合されていない単機能製品の管理があまりに複雑であると気付くことになります",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "重要な SaaS、SD-WAN、クラウドのトラフィックをハードウェアレベルで高速化およびオフロードし、統合された Xstream Flow Processors で TLS やディープパケットインスペクションのためのパフォーマンスヘッドルームを追加します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "ファイアウォールの他にも、ウイルス対策やVPN、IPS、フィルタリング、アプリケーションコントロールなどの幅広い機能を搭載し、統合的なセキュリティ管理を実現します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "中小規模のネットワーク対策を1台で統合的に対応します",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "侵入防御、Webコンテンツフィルタリング、マルウェア対策、アプリケーション制御を網羅する包括的な脅威保護の実現方法を検討するセキュリティ担当者は、可視性が欠如した、統合されていない...",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "最新の脅威に対応するための多機能セキュリティ統合性能",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "将来的な拠点増加やクラウド連携、他セキュリティ製品との統合など、変化に柔軟に対応できる製品であることが望まれます",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "多機能型ファイアウォールを導入すれば、複数のセキュリティ機器を統合でき、運用コストの削減につながります",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、UTM機能（統合脅威管理）を備えた機器であれば、ファイアウォールに加えてIPSやアンチウイルス、Webフィルタリングまで",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "主要ベンダーでは、SD-WANとファイアウォールを統合したハイブリッド型の製品を提供しており、拠点ごとのセキュリティポリシー適用や、アプリごとのトラフィック制御が容易になります",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "将来的には、統合プラットフォームとしての役割がさらに重要になると考えられます",
+    "url": "https://www.itreview.jp/categories/firewall",
+    "pass": 1
+   },
+   {
+    "quote": "10000社以上の導入実績を誇り、システム間連携や、データ分析・マスターデータ管理を行う際のデータ統合、業務自動化など、多様な用途で利用されています",
+    "url": "https://www.itreview.jp/seminars",
+    "pass": 1
+   },
+   {
+    "quote": "・統合後の媒体履歴が管理NOなどで直ぐに分かる",
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "応募者情報の統合、媒体連携、日程調整の自動化により重複作業が減り、選考リードタイムと作業工数が大幅に削減されると報告されています",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "・メモ欄の上限があったり、選考終了日時がデータを取り込んだ日になってしまうので、より多くの情報を取り込めるようになったら嬉しい",
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "・面接担当として利用しているが、一連のフローは管理者側で作成し、自身の面談終了後に人事側で給与を記載する段階になったら非表示にするなど、柔軟に権限設定が出来ること",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "（製品の機能としては当然あるものの、管理者側で面接終了した候補者については非表示にするという機能があるのだと推測）",
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約終了後は本コンテンツをご利用いただくことはできません",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日、GMOインターネット株式会社（東証プライム市場：4784）は、マーケティング事業の再編・統合を目的に、GMOコマース株式会社（東証グロース市場：410A）を新たに仲間に迎えました",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   },
+   {
+    "quote": "■GMOインターネットとGMOコマース、マーケティング事業を再編・統合",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "具体的な事例として、将来的に出資を受ける可能性があるスタートアップは株式会社を選ぶケースが多い一方、コストを抑えたいスモールビジネスは合同会社を選択しやすい傾向があります",
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "pass": 1
+   },
+   {
+    "quote": "今までの採用管理だと子会社ごとの契約をしておりましたが、こちらですと最終的に低コストで運用できました",
+    "url": "https://www.itreview.jp/products/i-web/price",
+    "pass": 1
+   },
+   {
+    "quote": "旧ソフトバンクモバイル株式会社マーケティング本部のデジタル広告開発部門、SB C&S株式会社にてマーケティングソリューションやツールの流通事業の統括業務を経て、2018年4月にSB C&S株式会社とアイティメディア株式会社の出資を受けてアイティクラウド株式会社を立ち上げ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "親会社であるスターティアラボの代表も、今後、フリーミアムでやっていく方向性を打ち出していたので、難易度が高く勇気は必要でしたが、挑戦的に踏み切りました",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "「G2 Crowd」は、BigMachinesやSteelBrickといった、SaaSを代表する企業の創業者や経営幹部からの出資に加え、45億円を超える資本を有しており、B2B市場におけるさらなるビジネス取引の信頼性の向上と、透明性の担保を目指し、運営しています",
+    "url": "https://cas.softbank.jp/press/180719_01/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "資料ダウンロード 一覧 - ITreview ブログ — 資料ダウンロード 一覧 - ITreview ブログ ITreview https://vendor.itreview.jp > for_document_request",
+    "url": "https://vendor.itreview.jp/for_document_request",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview の掲載料金と評判 レビュー活用とリード獲得の進め方 — ITreview の掲載料金と評判 レビュー活用とリード獲得の進め方 キャククル https://www.shopowner-support.net > saas > itreview",
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview オンライン広告企画 - ITmedia — ITreview オンライン広告企画 - ITmedia ITmedia https://promotion.itmedia.co.jp > campaign > itreview",
+    "url": "https://promotion.itmedia.co.jp/campaign/itreview",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのレビューで、日本のITは進化する - ITreview — あなたのレビューで、日本のITは進化する - ITreview ITreview https://www.itreview.jp > rebranding",
+    "url": "https://www.itreview.jp/lp/rebranding/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ITcrowd - IT選びに、革新と確信を - アイティクラウド — 企業情報 | ITcrowd - IT選びに、革新と確信を - アイティクラウド itcrowd.co.jp https://itcrowd.co.jp > company",
+    "url": "https://itcrowd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ITreview Grid Award 2025 Winter」 オンラインストレージ ... — 「 ITreview Grid Award 2025 Winter」 オンラインストレージ ... fileforce.jp https://www.fileforce.jp > news",
+    "url": "https://www.fileforce.jp/news/20250115news/",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級 IT製品/ SaaSのレビュープラットフォーム ITreview — 国内最大級 IT製品/ SaaSのレビュープラットフォーム ITreview PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview ご紹介 — ITreview ご紹介 ITreview PDF https://vendor.itreview.jp > uploads > 2022/05",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【アイティクラウド株式会社 黒野 源太】事業の本質は同じ ... — 【アイティクラウド株式会社 黒野 源太】事業の本質は同じ ... MiraError https://miraerror.jp > ...",
+    "url": "https://miraerror.jp/202308037562/",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド代表・黒野の インタビュー 記事が「LISTEN ... — アイティクラウド代表・黒野の インタビュー 記事が「LISTEN ... ITreview https://www.itreview.jp > labo > archives",
+    "url": "https://www.itreview.jp/labo/archives/24361",
+    "pass": 3
+   },
+   {
+    "quote": "【社長対談】アイティクラウド代表 黒野氏に聞く - エムタメ — 【社長対談】アイティクラウド代表 黒野氏に聞く - エムタメ エムタメ https://mtame.jp > マーケティング入門",
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド株式会社の働き方とストーリー - Wantedly — アイティクラウド株式会社の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > アイティクラウド株式会社",
+    "url": "https://www.wantedly.com/companies/itcrowd/stories",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド黒野氏はどのようにして“強い”ビジネス ... — アイティクラウド黒野氏はどのようにして“強い”ビジネス ... Biz/Zine https://bizzine.jp > article > detail",
+    "url": "https://bizzine.jp/article/detail/5067",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 SEO ツールのおすすめ10製品（全55 ... - ITreview — 【2026年】 SEO ツールのおすすめ10製品（全55 ... - ITreview ITreview https://www.itreview.jp > ... > サイト構築・改善",
+    "url": "https://www.itreview.jp/categories/seo-tools",
+    "pass": 3
+   },
+   {
+    "quote": "「GMO AIかんたん 集客 」が「 ITreview Grid Award 2026 Fall ... — 「GMO AIかんたん 集客 」が「 ITreview Grid Award 2026 Fall ... GMOインターネット株式会社 https://internet.gmo > news > article",
+    "url": "https://internet.gmo/news/article/244/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な条件で案件をソートし、 売上 を分析 - ITreview — 様々な条件で案件をソートし、 売上 を分析 - ITreview ITreview https://www.itreview.jp > ... > board > レビュー一覧",
+    "url": "https://www.itreview.jp/products/board/reviews/243940",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview とは？価格や機能・使い方を解説 - ITトレンド — ITreview とは？価格や機能・使い方を解説 - ITトレンド ITトレンド https://it-trend.jp > customer_success_tool",
+    "url": "https://it-trend.jp/customer_success_tool/21041",
+    "pass": 3
+   },
+   {
+    "quote": "IT製品・SaaSのレビューサイト「 ITreview 」、計70の ... — IT製品・SaaSのレビューサイト「 ITreview 」、計70の ... CodeZine https://codezine.jp > news > detail",
+    "url": "https://codezine.jp/news/detail/25363",
+    "pass": 3
+   },
+   {
+    "quote": "アイティクラウド株式会社が米国G2 Crowd Inc.と ITレビュー ... — アイティクラウド株式会社が米国G2 Crowd Inc.と ITレビュー ... SB C&S株式会社 https://cas.softbank.jp > press",
+    "url": "https://cas.softbank.jp/press/180719_01/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartDB、「 ITreview Grid Award 2026 Winter」にて15期連続 ... — SmartDB、「 ITreview Grid Award 2026 Winter」にて15期連続 ... dreamarts.co.jp https://www.dreamarts.co.jp > news > press-release",
+    "url": "https://www.dreamarts.co.jp/news/press-release/pr260121/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview Labo | ビジネスの課題と向き合うSaasメディア — ITreview Labo | ビジネスの課題と向き合うSaasメディア ITreview https://www.itreview.jp > labo",
+    "url": "https://www.itreview.jp/labo/",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview は「口コミ」によるSaaS・クラウドサービス選定 ... — ITreview は「口コミ」によるSaaS・クラウドサービス選定 ... ITreview PDF https://vendor.itreview.jp > uploads > 2021/01",
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2021/01/de2e1dfa19867a8f606a9ffe31094dc4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー向け ブログ - ITreview — ベンダー向け ブログ - ITreview ITreview https://vendor.itreview.jp > blog",
+    "url": "https://vendor.itreview.jp/blog",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview でITベンダーのビジネスは拡大するか ユーザー会で ... — ITreview でITベンダーのビジネスは拡大するか ユーザー会で ... Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview レビュー投稿手順 - YouTube — ITreview レビュー投稿手順 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=iS16_4efgNI",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview のレビューキャンペーンとは？レビューの集め方や ... — ITreview のレビューキャンペーンとは？レビューの集め方や ... ITreview https://vendor.itreview.jp > 未分類",
+    "url": "https://vendor.itreview.jp/archives/9660",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ITreview でCanvaについての口コミを書き込んでみた！ - note ITreview でCanvaについての口コミを書き込んでみた！ - note note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "Vimeo has been named a \"Leader\" in the ITreview Grid Award ... Vimeo has been named a \"Leader\" in the ITreview Grid Award ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【ZETA】「 ITreview Grid Award 2026 Fall」のサイト内検索 ... 【ZETA】「 ITreview Grid Award 2026 Fall」のサイト内検索 ... note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "最長29期連続！Ptengineが ITreview 2026 Spring 5カテゴリ受賞 最長29期連続！Ptengineが ITreview 2026 Spring 5カテゴリ受賞 note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ITreviewでCanvaについての口コミを書き込んでみた！｜Report#01｜株式会社ancoro｜現場にデザインを根づかせる会社",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "ITreviewでCanvaについての口コミを書き込んでみた！｜Report#01",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ancoro｜現場にデザインを根づかせる会社",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "Canvaを活用したビジネスデザイン支援を通じて、現場の「伝えたい」、「届けたい」、「内製化したい」を支えるデザインサポートサービスを提供している",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "最近知ったサービスなのですが、日々の業務に役立つIT製品やソフトウェアを独自のアワードやレビュー、類似の製品比較が簡単に閲覧できるマトリクス図などを用いて、様々な視点から知ることができる面白いレビュープラットフォームなんです！",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、ITreviewのWEBサイトにはこのように説明書きがありました。",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "ITreview は導入を検討中のソフトウェア・クラウドサービス・ハードウェアを他の製品と比較できる、IT 製品のレビュープラットフォームです。",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業種、従業員規模で製品を導入した人の評価を参考に、機能や導入方法など、製品が自社に合っているか判断することができます。",
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "pass": 3
+   },
+   {
+    "quote": "Vimeo has been named a \"Leader\" in the ITreview Grid Award 2026 Fall!｜Vimeo",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vimeo has been named a \"Leader\" in the ITreview Grid Award 2026 Fall!",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vimeo has been named a",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Leader\" in the Video Distribution System category at the ITreview Grid Award 2026 Fall.",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We would like to express our sincere gratitude to everyone who uses Vimeo daily, and to all those who have provided valuable reviews.",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An award supported by customer feedback",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"ITreview Grid Award\" is a quarterly award that recognizes products based on user reviews posted on the IT product and SaaS review platform \"ITreview.\"",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Leader\" is a title awarded to products that have received high ratings in both awareness and satisfaction. This award is a result of the evaluations from those of you who actually use Vimeo.",
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【ZETA】「ITreview Grid Award 2026 Fall」のサイト内検索ツール部門で「ZETA SEARCH」が「Leader」を2期連続受賞｜ZETA INC",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "【ZETA】「ITreview Grid Award 2026 Fall」のサイト内検索ツール部門で「ZETA SEARCH」が「Leader」を2期連続受賞",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "CX向上生成AIソリューション「ZETA CXシリーズ」を提供し、顧客体験価値の向上を支援するZETA株式会社(本社：東京都世田谷区、以下ZETA)は、アイティクラウド株式会社が運営する国内最大級のIT製品・SaaSの比較検討レビュープラットフォーム「ITreview」において発表された「ITreview Grid Award 2026 Fall」のサイト内検索ツール部門にて、EC商品検索・サイト内検索エンジン「ZETA SEARCH」が「Leader」を受賞したことをお知らせいたします。",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "「ZETA SEARCH」は前回の「ITreview Grid Award 2026 Summer」に続き、2期連続での「Leader」選出となります。",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "「ITreview Grid Award」は、「ITreview」に投稿されたレビューをもとに、四半期に一度ユーザーから支持された製品を表彰するアワードです。今回の「2026 Fall」では、2026年9月までに掲載されたレビューの集計結果をもとに選出され、「ZETA SEARCH」はサイト内検索ツール部門において、市場認知度・顧客満足度ともに優れた製品として高く評価され「Leader」に選出されました。",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "■受賞ページ(ITreview Grid Award 2026 Fall サイト内検索ツール部門)",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.itreview.jp/award/2026_fall/site-search.html",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "■掲載ページ(ZETA SEARCHレビュー、評価一覧)",
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "pass": 3
+   },
+   {
+    "quote": "最長29期連続！PtengineがITreview 2026 Spring 5カテゴリ受賞｜PTMIND公式note",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "最長29期連続！PtengineがITreview 2026 Spring 5カテゴリ受賞",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！今日もご覧いただきありがとうございます。",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "この度、Ptengineが『ITreview 2026 Spring Award』にて、以下の5つのカテゴリで受賞しました🎉",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": ": High Performer（8期連続）",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "ITreviewは、実際にソフトウェアを使っているユーザーのレビューをもとに受賞が決まる第三者評価サービスです。今回の受賞も、Ptengineを日常的にご利用いただいているお客様の評価によるものです。",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "PtengineのITreviewページはこちら👇",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.itreview.jp/products/ptengine/reviews",
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ITreview ✏️レビュー募集中 (@ ITreview _) / X ITreview ✏️レビュー募集中 (@ ITreview _) / X X https://x.com > ITreview_",
+    "url": "https://x.com/ITreview_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ITReview - LinkedIn ITReview - LinkedIn LinkedIn Italia https://it.linkedin.com > itreview",
+    "url": "https://it.linkedin.com/company/itreview",
+    "pass": 3
+   },
+   {
+    "quote": "IT Review Improves Security and Productivity - LinkedIn IT Review Improves Security and Productivity - LinkedIn LinkedIn https://www.linkedin.com > posts > lc...",
+    "url": "https://www.linkedin.com/posts/lcsit-solutions_infographic-what-happenspdf-activity-7520775280819544064-io-A",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-Year IT Review for Business Growth - LinkedIn Mid-Year IT Review for Business Growth - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/info-advantage-inc._techtips-itstrategy-technologyplanning-activity-7495134037892710401-2g3W",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ITreview (@ITreviewJP) - Facebook ITreview (@ITreviewJP) - Facebook Facebook https://www.facebook.com > ITreviewJP",
+    "url": "https://www.facebook.com/ITreviewJP/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens during an IT review - Facebook What happens during an IT review - Facebook Facebook https://www.facebook.com > itwestltd > posts > the-six-ke...",
+    "url": "https://www.facebook.com/itwestltd/posts/the-six-key-checks-covered-in-a-business-it-reviewan-it-review-is-about-understa/1426071786398511/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ITreview Best Software in Japan 2026」でTOP100の10位に 「 ITreview Best Software in Japan 2026」でTOP100の10位に Facebook https://www.facebook.com > desknets > posts",
+    "url": "https://www.facebook.com/desknets/posts/-itreview-best-software-in-japan-2026%E3%81%A7top100%E3%81%AE10%E4%BD%8D%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bi/1391269316355862/",
+    "pass": 3
+   },
+   {
+    "quote": "3製品が「 ITreview Grid Award 2026 Fall」Leaderを5部門で ... 3製品が「 ITreview Grid Award 2026 Fall」Leaderを5部門で ... Facebook https://www.facebook.com > desknets > posts",
+    "url": "https://www.facebook.com/desknets/posts/-3%E8%A3%BD%E5%93%81%E3%81%8Citreview-grid-award-2026-fallleader%E3%82%925%E9%83%A8%E9%96%80%E3%81%A7%E5%8F%97%E8%B3%9E%EF%B8%8F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bit/1517504277065698/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.itreview.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/recruitment-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/statics/member_terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/users/sign_up?return_to=%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/ababa/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/ip-wireless-app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/company-establishment-support-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/active-directory-management-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/firewall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/users/sign_up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/seminars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/users/sign_up?return_to=%2Fcategories%2Frecruitment-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/middle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/recruitment-management/company_size_rankings/size/small",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/i-web/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/herp-ats/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/herp-ats/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/sonar/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/hrmossaiyoukanri/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/directrecruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/compares/ababa_vs_bizreach_vs_miidas_vs_wantedly?category_id=directrecruiting",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.itreview.jp/users/sign_up?return_to=%2Fproducts%2Fababa%2Freviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/ababa/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/ababa/reviews/257845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/miidas/reviews/254265",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/myrefer/reviews/106913",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/bizreach/reviews/167760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/users/sign_up?return_to=%2Fcategories%2Fip-wireless-app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/ip-wireless-app/company_size_rankings/size/enterprise",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.itreview.jp/vite-production/assets/footer-point1-CjGQbLVN.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://media.licdn.com/dms/image/C5603AQHpHRBAtAOddA/profile-displayphoto-shrink_800_800/0/1658114825276?e=1715212800&v=beta&t=0IiuUhQVM4r6mo320qU94qNJ5kahTNNRevwb1I5GAEM",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://vendor.itreview.jp/for_document_request",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.porters.jp/portersdl_price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/detail35959.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/campaign/itreview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itcrowd.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fileforce.jp/news/20250115news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://miraerror.jp/202308037562/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/itcrowd/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizzine.jp/article/detail/5067",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vn1BTbqlvY4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/seo/seo-seminar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://internet.gmo/news/article/244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/customer_success_tool/21041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codezine.jp/news/detail/25363",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/qa/segment/qa-segment-segumentojouhou-kaiji-dankairieki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itcrowd.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cas.softbank.jp/press/180719_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamarts.co.jp/news/press-release/pr260121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/customer_success_tool/21041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lreach.jp/media/article011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendor.itreview.jp/wp-content/uploads/2021/01/de2e1dfa19867a8f606a9ffe31094dc4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendor.itreview.jp/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=iS16_4efgNI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendor.itreview.jp/archives/9660",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ptmind_official/n/n038e06289704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ITreview_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/company/itreview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lcsit-solutions_infographic-what-happenspdf-activity-7520775280819544064-io-A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/info-advantage-inc._techtips-itstrategy-technologyplanning-activity-7495134037892710401-2g3W",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ITreviewJP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itwestltd/posts/the-six-key-checks-covered-in-a-business-it-reviewan-it-review-is-about-understa/1426071786398511/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/desknets/posts/-itreview-best-software-in-japan-2026%E3%81%A7top100%E3%81%AE10%E4%BD%8D%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bi/1391269316355862/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/desknets/posts/-3%E8%A3%BD%E5%93%81%E3%81%8Citreview-grid-award-2026-fallleader%E3%82%925%E9%83%A8%E9%96%80%E3%81%A7%E5%8F%97%E8%B3%9E%EF%B8%8F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bit/1517504277065698/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ITreview_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ITreview 媒体資料 OR 広告料金 OR 料金表",
+   "results": [
+    "https://vendor.itreview.jp/for_document_request",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "https://lp.porters.jp/portersdl_price",
+    "https://media-radar.jp/detail35959.html",
+    "https://promotion.itmedia.co.jp/campaign/itreview",
+    "https://itreview-vendor.kemuyama.site/platform/price",
+    "https://biz.nikkan.co.jp/adv/ad_guide/charge.html",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/index.html",
+    "https://www.desknets.com/neo/users/media/info/17742/",
+    "https://adinfo.diamond.jp/dw/menu-3/"
+   ]
+  },
+  {
+   "query": "ITreview PV OR 会員数 OR 読者数 OR 登録者数",
+   "results": [
+    "https://www.itreview.jp/lp/rebranding/",
+    "https://itcrowd.co.jp/company/",
+    "https://www.fileforce.jp/news/20250115news/",
+    "https://prtimes.jp/main/html/rd/p/000000069.000033567.html",
+    "https://vendor.itreview.jp/wp-content/uploads/2022/05/22b8db117e198572dfe5abdcf79fbd19.pdf",
+    "https://x.com/AhrefsJP/status/2034073781090832638",
+    "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "https://strate.biz/customer_success/itreview/",
+    "https://everidays.com/",
+    "https://www.itreview.jp/products/itreview/price"
+   ]
+  },
+  {
+   "query": "ITreview 創業者 OR 編集長 インタビュー 立ち上げ 最初",
+   "results": [
+    "https://miraerror.jp/202308037562/",
+    "https://www.itreview.jp/labo/archives/24361",
+    "https://mtame.jp/marketing_foundation/president_interview_itcrowd/",
+    "https://www.wantedly.com/companies/itcrowd/stories",
+    "https://bizzine.jp/article/detail/5067",
+    "https://www.itservice.co.jp/interview/240/",
+    "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "https://itcrowd.co.jp/company/"
+   ]
+  },
+  {
+   "query": "ITreview 集客 SEO セミナー 仕組み",
+   "results": [
+    "https://www.youtube.com/watch?v=vn1BTbqlvY4",
+    "https://gmotech.jp/semlabo/seminar_category/seo/",
+    "https://n-works.link/blog/seo/seo-seminar",
+    "https://www.itreview.jp/categories/seo-tools",
+    "https://internet.gmo/news/article/244/",
+    "https://ferret-plus.com/2292",
+    "https://www.geo-code.co.jp/seo/mag/seo-seminer/",
+    "https://www.youtube.com/watch?v=dbRz2V_maw0",
+    "https://ds-b.jp/dsmagazine/pages/209/",
+    "https://www.itreview.jp/products/itreview/seminar"
+   ]
+  },
+  {
+   "query": "ITreview 売上 OR 営業利益 OR セグメント",
+   "results": [
+    "https://www.itreview.jp/products/board/reviews/243940",
+    "https://www.shopowner-support.net/attracting_customers/system-development-ad/saas/itreview/",
+    "https://it-trend.jp/customer_success_tool/21041",
+    "https://codezine.jp/news/detail/25363",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/qa/segment/qa-segment-segumentojouhou-kaiji-dankairieki",
+    "https://the-shashi.com/tse/3993/segment/",
+    "https://www.youtube.com/watch?v=ACQwMAtoi04",
+    "https://vendor.itreview.jp/for_document_request",
+    "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2026/ASV_Report_2026_A4_jp_014-015.pdf",
+    "https://www.itreview.jp/"
+   ]
+  },
+  {
+   "query": "ITreview 株主 OR 親会社 OR 買収 OR 運営会社",
+   "results": [
+    "https://itcrowd.co.jp/company/",
+    "https://cas.softbank.jp/press/180719_01/",
+    "https://www.dreamarts.co.jp/news/press-release/pr260121/",
+    "https://it-trend.jp/customer_success_tool/21041",
+    "https://www.itreview.jp/labo/",
+    "https://www.brainpad.co.jp/rtoaster/blog/itreview-award-2023fall_consideration/",
+    "https://www.shiftinc.jp/news/%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%A4%E3%81%8C%E3%80%8Citreview-grid-award-2026-fall%E3%80%8D%E3%81%A72%E9%83%A8%E9%96%80%E3%82%92%E5%8F%97%E8%B3%9E/",
+    "https://www.toyokumo.co.jp/2026/10/21/itreview-grid-award-2026-fall",
+    "https://initial.inc/investors/V17433",
+    "https://ja.wikipedia.org/wiki/M&A"
+   ]
+  },
+  {
+   "query": "ITreview 資料請求 送客 1件 単価 OR 成果報酬",
+   "results": [
+    "https://lreach.jp/media/article011",
+    "https://hr.jobseeker-navi.com/media/agent/leads/sokyaku-service-hikaku/",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/seat-performance-fee/",
+    "https://vendor.itreview.jp/wp-content/uploads/2021/01/de2e1dfa19867a8f606a9ffe31094dc4.pdf",
+    "https://otsumu.co.jp/knowledge/models/pay-per-lead.html",
+    "https://recree.jobree.co.jp/col/%E6%B1%82%E8%81%B7%E8%80%85%E9%80%81%E5%AE%A2%E3%83%8A%E3%83%93-%E8%A9%95%E5%88%A4",
+    "https://sixweb.jp/pricing/",
+    "https://windom-kk.co.jp/marketing/archives/7415",
+    "https://www.recruitment-db.com/job-seeker-referral/",
+    "https://oshi-job.com/articles/seika-hoshu-toha"
+   ]
+  },
+  {
+   "query": "ITreview note OR ブログ 立ち上げ 振り返り",
+   "results": [
+    "https://vendor.itreview.jp/blog",
+    "https://www.wantedly.com/companies/itcrowd/post_articles/925331",
+    "https://note.com/lotus_mtgg/n/n8695b95352b7",
+    "https://www.youtube.com/watch?v=iS16_4efgNI",
+    "https://vendor.itreview.jp/archives/9660",
+    "https://zenn.dev/dely_jp/articles/b3a3abf369aa2f",
+    "https://it-trend.jp/customer_success_tool/21041",
+    "https://codezine.jp/news/detail/26817",
+    "https://nealle-dev.hatenablog.com/entry/2025/04/30/152806",
+    "https://note.com/tag/ITreview"
+   ]
+  },
+  {
+   "query": "site:note.com ITreview",
+   "results": [
+    "https://note.com/ancoroinc/n/nc8ce3de29f4c",
+    "https://note.com/vimeo/n/nf4f5edd6dfa4?hl=en",
+    "https://note.com/zeta_ir/n/n98ccb58adc55",
+    "https://note.com/ptmind_official/n/n038e06289704",
+    "https://note.com/diggle/n/nc745fc821ee4?hl=en",
+    "https://note.com/imaiyoshihito/n/nd80e646379c4",
+    "https://note.com/gcir/n/n3b6e330746c3?hl=en",
+    "https://note.com/slideup/n/n484282666a21",
+    "https://note.com/diggle/n/n8b094549d108?hl=en",
+    "https://note.com/gcir/n/n462e08ed31dd?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com ITreview",
+   "results": [
+    "https://x.com/ITreview_",
+    "https://x.com/kinjiro_pr/status/2114553101008982223",
+    "https://x.com/SansanJapan/status/2117864262739857698",
+    "https://x.com/intent/like?tweet_id=2110411315953209475&utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/hennge_pr/status/2115639779173728357",
+    "https://x.com/newscastjp/status/2113436117936832995",
+    "https://x.com/MOTEXPR/status/2115314099630612764",
+    "https://x.com/WAP_PR/status/2092843861177757979",
+    "https://x.com/PRTIMES_MKTG/status/2113459950777520520",
+    "https://x.com/hashtag/ITreview"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ITreview",
+   "results": [
+    "https://it.linkedin.com/company/itreview",
+    "https://www.linkedin.com/posts/lcsit-solutions_infographic-what-happenspdf-activity-7520775280819544064-io-A",
+    "https://www.linkedin.com/posts/info-advantage-inc._techtips-itstrategy-technologyplanning-activity-7495134037892710401-2g3W",
+    "https://www.linkedin.com/posts/sakura-kawakami-14a1924_%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E5%81%A5%E5%BA%B7%E7%B5%8C%E5%96%B6%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9yulifeitreview-grid-award-activity-7451655510434426880-tDt8",
+    "https://jp.linkedin.com/in/suke2zukin",
+    "https://www.linkedin.com/posts/kazunari-hanao-baaa1511a_pendoitreview-grid-award-2026-spring%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB-activity-7452647605035081729-eF7D",
+    "https://www.linkedin.com/posts/kaminashi_%E7%8F%BE%E5%A0%B4dx%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%9F%E3%83%8A%E3%82%B7%E3%81%8Citreview-grid-award-2024-activity-7219508816248258560-CKWI",
+    "https://www.linkedin.com/posts/baylee-king_its-review-and-promotion-season-and-as-activity-7523635307284725760-Ti6s",
+    "https://www.linkedin.com/posts/inland-productivity-solutions_what-happens-during-an-it-review-activity-7521601776400240641-UPnn",
+    "https://www.linkedin.com/company/itreview"
+   ]
+  },
+  {
+   "query": "site:facebook.com ITreview",
+   "results": [
+    "https://www.facebook.com/ITreviewJP/",
+    "https://www.facebook.com/itwestltd/posts/the-six-key-checks-covered-in-a-business-it-reviewan-it-review-is-about-understa/1426071786398511/",
+    "https://www.facebook.com/desknets/posts/-itreview-best-software-in-japan-2026%E3%81%A7top100%E3%81%AE10%E4%BD%8D%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bi/1391269316355862/",
+    "https://www.facebook.com/desknets/posts/-3%E8%A3%BD%E5%93%81%E3%81%8Citreview-grid-award-2026-fallleader%E3%82%925%E9%83%A8%E9%96%80%E3%81%A7%E5%8F%97%E8%B3%9E%EF%B8%8F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3it%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bit/1517504277065698/",
+    "https://www.facebook.com/parkersburgit/posts/call-us-to-schedule-a-free-on-site-it-review-for-your-business/1620464146758921/",
+    "https://www.facebook.com/SansanJapan/posts/%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E5%A4%89%E3%81%88%E3%82%8Bax%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8Bsansan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E5%96%B6%E6%A5%ADax%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9sansan%E3%81%8C%E3%82%A2%E3%82%A4%E3%83%86%E3%82%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fitreview-grid-award/1574031571426847/",
+    "https://www.facebook.com/umujapan/posts/-20%E6%9C%9F%E9%80%A3%E7%B6%9A3%E9%83%A8%E9%96%80%E3%81%A7%E6%9C%80%E9%AB%98%E4%BD%8Dleader%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AEit%E3%83%84%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88itreview%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fitreview-grid-award-202/1577535140842914/",
+    "https://www.facebook.com/bixid/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%85%A4%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0itreview%E3%81%AEitreview-grid-award-2026-fall%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E4%BA%88%E7%AE%97%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%83%A8%E9%96%80%E7%B7%8F%E5%90%88%E3%81%8A%E3%82%88%E3%81%B3%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E9%83%A8%E9%96%80/1639640361287161/",
+    "https://www.facebook.com/willgate.co.jp/posts/-itreview-grid-award-2026-fall%E5%8F%97%E8%B3%9E%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8Baiseo%E3%83%84%E3%83%BC%E3%83%ABtact-seo%E3%81%8Citreview-grid-award-/1595555822372648/",
+    "https://www.facebook.com/ITReview2024/"
+   ]
+  },
+  {
+   "query": "ITreview note 社長",
+   "results": [
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://diamond.jp/articles/-/388572",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.itreview.jp/"
+   ]
+  },
+  {
+   "query": "ITreview X 投稿",
+   "results": [
+    "https://x.com/ITreview_",
+    "https://blog.mono-x.com/itreview-rating-mono-x-one",
+    "https://www.itreview.jp/itreview_campaigns",
+    "https://ingage.co.jp/archives/7761/",
+    "https://www.youtube.com/watch?v=iS16_4efgNI",
+    "https://air.co.jp/wp-content/uploads/2025/10/ITreview2025.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000001.000033567.html",
+    "https://poster.ooo/news/itreview-review-campaign/",
+    "https://jp.quora.com/ITreview%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%81%AF%E9%AB%98%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-%E5%81%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80%E7%8F%BE%E8%B1%A1",
+    "https://www.itreview.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像2件／外部48頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像2件／外部48頁・検索14回）"
+ }
+}

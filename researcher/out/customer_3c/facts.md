@@ -217,41 +217,46 @@
 ## 出光興産
 - 公式URL：https://www.idemitsu.com/（search:yahoo_jp:出光興産）
 - 創業年度：設立年月日：1940年3月30日（創業1911年6月20日）（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 創業年度：設立：1940年 （ 昭和 15年） 3月30日（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 創業年度：設立：1940年3月30日（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 創業年度：設立：1940年 （ 昭和 15年） 3月30日（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 株主：日本マスタートラスト信託銀行 （信託口）10.77% 日章興産 10.39% アラムコ・オーバーシーズ・カンパニー・ビー・ヴィ 9.41% 公益財団法人出光美術館 8.30% 日本カストディ銀行 （信託口）3.24% 正和興産 2.03% （2025年3月31日現在）（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 資本金：1,683億円（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 資本金：1,683億円（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 資本金：1,683億円（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
-- 従業員数：連結：13,814名 単体：5,060名 （2025年3月31日現在）（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+- 資本金：1,683億円（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 従業員数：14,392名 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 従業員数：連結：13,814名 単体：5,060名 （2025年3月31日現在）（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 代表者：酒井 則明（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 代表者：代表取締役社長 社長執行役員CEO 酒井則明 代表取締役副社長 副社長執行役員COO 平野敦彦 代表取締役副社長 副社長執行役員CSO 澤正彦（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 代表者：代表取締役社長　酒井 則明（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 代表者：代表取締役社長 社長執行役員CEO 酒井則明 代表取締役副社長 副社長執行役員COO 平野敦彦 代表取締役副社長 副社長執行役員CSO 澤正彦（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 所在地：〒100-8321 東京都千代田区大手町一丁目2番1号 アクセスマップはこちら（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
 - 所在地：PLO409, Jalan Pekeliling, 81700 Pasir Gudang, Johor, Malaysia（https://www.idemitsu.com/jp/business/basic_chemicals/index.html・1回目）
-- 所在地：日本 〒 100-8321 東京都 千代田区 大手町 一丁目2番1号 Otemachi One タワー 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222 座標 : 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+- 所在地：〒100-8321　東京都千代田区大手町一丁目2番1号（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 売上高：8.1兆円（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 売上高：連結：6兆6,867億61百万円 単体：5兆640億29百万円 （2022年3月期） [ 3 ]（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 売上高：8.1兆円 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 売上高：連結：6兆6,867億61百万円 単体：5兆640億29百万円 （2022年3月期） [ 3 ]（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 事業内容：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
 - 事業内容：経営戦略に連動した人事制度の企画・運用および採用・人材開発の推進（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 事業内容：エネルギー転換・新事業領域における事業戦略の策定および新規ビジネスの立ち上げ（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 取引先：特約販売店、素材メーカー、自動車・家電等各種メーカー、電力会社など（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 株主構成：
-  - 「プロジェクト・ファイナンスによる調達額について銀行団に対し行っている債務保証及びスポンサーによる出資・貸付のうち、NSRPへの当社グループ出資比率相当の35.1%については、ベトナムにおける政治経済情勢、法律や規制及び雇用環境の変化等からプロジェクトが計画どおりに進展しない場合、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「法人税、住民税及び事業税と法人税等調整額を合わせた税金費用は、570億円（前期比＋1.2％）となり、非支配株主に帰属する当期純損益は△68億円（前期比△48億円）となりました」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「以上の結果、親会社株主に帰属する当期純利益は1,719億円（前期比＋65.2％）となりました」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「当期末の純資産合計は、親会社株主に帰属する当期純利益の計上や為替換算調整勘定の増加、配当金の支払いなどにより、１兆9,511億円（前期末比＋2,134億円）となりました」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「自己資本利益率（ROE）：在庫影響除き親会社株主に帰属する当期純利益／自己資本（期首期末平均）」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「投下資本利益率（ROIC）：（在庫影響除き税後営業利益+持分法投資損益）／（株主資本+有利子負債）」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「ネットD/Eレシオ：（有利子負債－現預金及び短期運用有価証券）／（純資産－非支配株主持分）」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「自己資本比率：（純資産－非支配株主持分）／総資産」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/?scode=5019・3回目）
-  - 「Shareholder Returns and Dividends」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「General Meeting of Shareholders」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「株主様専用WEBサイト「いでみつコネクト」」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
+  - 「毎年3月末日現在または9月末日現在の当社株主名簿に名前があり、1株以上の当社株式を保有している株主様が「いでみつコネクト」にご登録可能です」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「出光興産の製油所・事業所の見学会や、出光興産社史や創業者について紹介する株主様限定イベントのご案内、申込を受け付けています」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「株主総会や決算発表ほか、株主の皆様に知っていただきたいイベント情報等をタイムリーにお届けします」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「株主総会ライブ配信ほか、出光をもっと身近に！をコンセプトに経営陣説明会のオンライン配信や社員インタビュー記事等をお届けしています」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「「いでみつコネクト」へご入会いただいた株主・個人投資家の皆様へ向けて、最新情報やイベント情報などを配信しています」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「入会登録日から遡った直近の9月末日現在または3月末日現在の当社株主名簿に名前があり、1株以上出光興産株式会社の株式を保有していることが条件となります」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「直近で郵送いたしました中間配当もしくは期末配当の計算書または株主総会招集ご通知に同封の書類に記載がございますので、そちらをご覧ください」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「会員以外でも抽選優待や事業所見学会、株主限定イベントへ申込できますか？」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「抽選優待や事業所見学会、株主様限定イベントへのお申込は、いでみつコネクト上でのみの受付となるため、お申込をご希望の場合は会員登録が必要となります」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「社長が直接想いをお伝えするイベントや抽選優待など「いでみつコネクト」会員様限定の情報・特典について、毎年、株主様にお届けしています」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「（9月末日の当社株主名簿に記載された株主様対象）」（https://idemitsu.premium-yutaiclub.jp/・3回目）
+  - 「株主様限定コンテンツ・イベントのご案内（5.7MB）」（https://idemitsu.premium-yutaiclub.jp/・3回目）
 - 創業年度：
+  - 「出光興産の創業者・出光佐三は、25歳で前身となる出光商会を立ち上げ、石油事業で戦後日本の復興に尽力した」（https://president.jp/articles/-/103903?page=1・3回目）
+  - 「出光の主義方針は昭和15年（1940）に5つに集約されるが、「黄金の奴隷たるなかれ」は創業当時から佐三が掲げたスローガンだった」（https://president.jp/articles/-/103903?page=1・3回目）
+  - 「以降トヨタ社内から事業を生み出すしくみ作りを担当すると共に、UNIDGEを共同創業」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「2006年に日本法人（ナインシグマ・アジア・パシフィック株式会社）を設立、2022年にナインシグマ・ホールディングス株式会社と経営統合をし、本社（日本）・支社（ヨーロッパ・アメリカ）で世界105か国・6,200件、日本国内では1,550件以上のオープンイノベーション支援実績があります」（https://prtimes.jp/main/html/rd/p/000000035.000011184.html・3回目）
+  - 「人物史『出光佐三・出光興産の創業者 国際石油カルテルに対抗 イランと直接取引を行った「日章丸事件」で日本人を鼓舞』」（https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
   - 「当社は1911年の創業以来、「人間尊重」を経営の原点に掲げ、「真に働く」という企業理念のもと、「人が中心の経営」を貫いてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「当社には創業以来「一人ひとりが経営者」という言葉がありますが、従業員一人ひとりの主体的な姿勢が社外からも評価されていることは、当社の強みであり、まさに「出光らしさ」だと認識しています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「サミュエル商会を横浜で設立（のちのシェル）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
@@ -259,11 +264,6 @@
   - 「早山 与三郎、独立して製油業を始める（1935年 早山石油設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
   - 「サミュエル商会が石油部門を独立させ、日本にライジングサン石油（株）（後のシェル石油）設立」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
   - 「出光佐三 門司（現北九州市）で出光商会を創業」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
-  - 「瀬島 猪之丞、東京で瀬島製油所を建設（1921年 旭石油設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
-  - 「石油化学徳山工場を建設（出光石油化学（株）設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
-  - 「1940年の設立以来、出光興産はエネルギー資源の供給を中心に、未来の可能性を模索」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「国内外のパートナー企業との企業間協業の推進およびジョイントベンチャー設立交渉」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「)を設立し、ベトナム社会主義共和国タインホア省ニソン経済区に20万バレル/日の石油精製設備とパラキシレンをはじめとする石油化学品製造設備を有するニソン製油所・石油化学コンプレックスを操業しています」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
 - 目標（中計・経営方針）：
   - 「前中期経営計画では、2030年ビジョン「責任ある変革者」の実現に向け、エネルギーと素材の安定供給という使命を果たしながら、事業構造改革として既存事業の資本効率・収益力のさらなる向上とCN・循環型社会に向けた準備を並行して進めてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「事業構造改革の継続的な取り組みの結果、利益目標やROE目標の達成など、一定の成果を積み上げることができたと考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
@@ -304,45 +304,48 @@
   - 「全固体電池のキーマテリアルである固体電解質をはじめ、次世代材料・高機能材料など、中長期的な研究開発を担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
   - 「エンジニアリングプラスチック、機能化学品などの研究開発・用途開発」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 顧客の顧客（主要取引先・発注元）：
+  - 「なぜ「AI導入で顧客離れ」が起きるのか？【3万4000人調査報告】」（https://diamond.jp/articles/-/363538・3回目）
+  - 「2つ目は「顧客不在」」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「事業アイデアをつくる際に最も重要なのは、「誰の（どんな顧客の）」「何のために（どんな課題・目的のために）」ということです」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「「こんな製品を作りたい」「こんな技術を活用している」だけでは、顧客がつきません」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「技術起点の新規事業であっても、どんな顧客課題を解決できるのか、から始めた方がよいでしょう」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「3つ目は「技術・顧客の成熟度に合わない進め方」」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「技術が研究段階なのか検証ができるレベルなのか、顧客ニーズが顕在化しているのか潜在的なのかを理解せず、不適切な手法で進めてしまうことです」（https://jp.ub-speeda.com/document/250930sr/・3回目）
   - 「GROWTHは、既存事業で培ってきた技術、顧客基盤、国内外ネットワークを土台に、中長期的な成長領域で新たな事業の創出と拡大を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「事業や技術、顧客接点を有機的につなぎ、パートナーとの共創を通じて事業化の確度とスピードを高めていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「「さらなるグローバル展開」は、海外トレーディング基盤や潤滑油事業の顧客ネットワーク、資源開発・操業の知見など、これまで培ってきた強みを最大限に活かし、潤滑油、ガス・LNG、資源分野を中心にグローバルでの事業展開を加速します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「当社アプリ「Drive On」を活用した顧客接点の拡充に加え、カーケアや車販などのサービスを組み合わせながら、サービスステーションの付加価値向上と新たな顧客価値の創出を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「日本は、エネルギー調達の面で外部環境の影響を受けやすいため、特定の資源に過度に依存しない供給体制を構築していくことが、将来にわたる安定供給につながると考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
-  - 「顧客の課題に向き合い、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「BtoB（法人）・BtoC（個人）顧客に対する営業およびマーケティングを展開し、エネルギー製品・高機能材などの価値最大化を担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「製品販売にとどまらず、顧客の課題を起点としたソリューション提案や新規市場の開拓にも取り組みます」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「法人顧客（BtoB）向けエネルギー製品・高機能材などの営業および課題解決提案」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「顧客ニーズや市場動向の分析にもとづいた新製品・新サービスの企画・価値最大化」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「当社の調達に関する方針、ガイドラインのご紹介と、パートナーとなっていただける新規取引先の募集を行っています」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
-  - 「新規取引にあたっては「お取引先の登録」が必要です」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
 - 顧客の顧客が求めること（調達方針・要求）：
+  - 「【4兆円国家プロジェクトを主導】日本最大規模のエネルギー開発企業INPEXの正体／3本掘って3本当たったLNGプロジェクトの舞台裏／CCS･メタネーションで描く脱炭素の未来」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「【大阪ガスの電力事業が面白い】新電力トップ5 大阪ガスの電力事業が強い理由／電力×トレード×脱炭素／金融･コンサルのスキルが武器になる／エネルギー産業の最前線で働く30代のリアルなやりがい」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「脱炭素やエネルギー転換が進む中、今後のキャリアを考える就活生に必見の内容です」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「・エネルギー業界の今後：脱炭素・再エネ・SAF・水素のトレンド」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「エネルギー転換 / 脱炭素 採用 / SAF / 水素 / 再生可能エネルギー / 就活 業界研究」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「出光興産の新社長が脱炭素投資を「1兆円から8000億円」に軌道修正した理由を解説、次期中計での“非・化石事業”収益計画の見直しも示唆」（https://diamond.jp/articles/-/363538・3回目）
   - 「事業戦略では「GRIT：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「低／脱炭素事業への取り組み方針を変えることなく、CN社会の実現に向けた挑戦を続けていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「足元では脱炭素化の時間軸の変化など、CNを取り巻く環境は変化しており、社会実装までの道筋については、より現実的な見極めが必要になっています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「低／脱炭素事業は、短期間で成果が見える取り組みではありません」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「米国から輸入した高品質で安価な「アポロガソリン」を発売」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
   - 「「低／脱炭素事業への挑戦 CNX」をキーワードに、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「現場での判断と継続的な改善活動（オペレーション最適化）を通じ、安全・品質・生産性の向上を実現します」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「現場主導のオペレーション改善・省エネ活動を通じた品質・生産性の向上」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「定期修理（定修）工事の計画立案、施工管理および品質・安全管理」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「研究開発部門と連携した新技術（次世代燃料・機能性材料など）の量産化をはじめ、設備・プロセスの最適化によるコスト削減・品質向上に貢献」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「既存設備の改造・触媒選定によるコスト競争力強化および品質向上施策の推進」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「将来必要となる品質管理試験を先行検討し、現場で運用できる形へつなげる役割を担っています」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 顧客の競合：
+  - 「半導体材料シェア世界トップクラス！「レゾナック」髙橋社長が語るニッポンの強みとは【Bizスクエア】| TBS NEWS DIG」（https://www.youtube.com/watch?v=q2VDPaLxIAA・3回目）
+  - 「御社と競合の違い 273,961回視聴 10 か月前」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「「御社と競合の違い」と「プロの就活支援」を利用すれば、大手内定は可能です！（もちろん努力は必要ですが！）」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「背景には、単なる物理的な特性だけではなく、異なる土俵で価値を提案することで、他社との差別化を図りたいという狙いがありました」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「また、潤滑油分野の中でも強みを持つ冷凍機油等では、全世界で高いシェアを獲得しており、」（https://www.jpo.go.jp/news/koho/tizai_koro/document/h30_tizai_kourou/panel_208.pdf・3回目）
+  - 「国際競争力のある価格で安定的にSAFを供給できる体制を構築することを目的としている」（https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04827/?ST=msb・3回目）
   - 「燃料油を中心とする既存事業において、調達から製造、物流、販売までのバリューチェーン全体の競争力強化に向けた取り組みを粘り強くやり抜きます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「基礎化学品事業については、市況悪化により収益改善は遅れていますが、エチレン装置の集約など生産能力の最適化や誘導品事業の競争力強化などの構造改革を急ぎます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「この積み重ねこそが、当社の競争力の源泉の1つであると考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「既存設備の改造・触媒選定によるコスト競争力強化および品質向上施策の推進」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
   - 「当社グループは、石油製品価格を国内の市場価格に連動させることによりマージンを確保することに努めていますが、原油価格の変動が大きい場合や国内石油市場の激しい競争等により国内の市場価格が低迷した場合、財政状態及び経営成績は重大な影響を及ぼす可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
   - 「市場における激しい競争等の要因により、ナフサ価格の変動を製品価格への反映が限定的となる場合には、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「日本を含むアジアの基礎化学品市場は激しい競争状況にあり、需要の変動や供給の増加の影響を受けます」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「アジアでは経済成長に伴う需要の増加が見込まれますが、近年は中国を中心に基礎化学品を製造する大型プラントの新増設が急増しており、アジア市場における供給過多や、新興国の経済成長鈍化に伴う需要低迷の可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「このような市場における競争の激化や需要の低迷、政治経済情勢あるいは中東情勢等のその他の要因により、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「また、市場における激しい競争激化等により、原料価格の変動を製品価格に適切に転嫁できない場合、当社グループの財政状態及び経営成績に影響を及ぼす可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「今後も石油、石油化学、資源事業等、既存事業の競争力維持には投資を継続する予定です」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
-  - 「更に国内外における経済情勢や政治動向、市場拡大の遅れ、新素材を含む他社との開発競争等によりこれらの投資が計画どおりの収益をあげられない場合は固定資産の減損損失を計上する可能性もあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
 - 自社の競合（すでに入っている売り手）：
+  - 「BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結」（https://finance.logmi.jp/articles/384789・3回目）
+  - 「以前NHKとのコラボレーションが実現したのですが、普段の業務では接点が持てないような協業先との取り組みは、「いつものやり方ではこんなコラボはできないよね」「ちょっと変わったことをやっているやつがいるな」と成果や存在価値を認めてもらったと思います」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「このように、既存のネットワークを活かすことと、スタートアップとの協業による新しい価値創出という、二つの大きなアプローチで挑戦を続けています」（https://jp.ub-speeda.com/document/250930sr/・3回目）
   - 「同時に、CN社会の実現を見据え、多くのパートナー企業と連携しながらその実現に向けた取り組みを強化してきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「事業戦略では「GRIT：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「事業や技術、顧客接点を有機的につなぎ、パートナーとの共創を通じて事業化の確度とスピードを高めていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
@@ -352,10 +355,8 @@
   - 「そしてパートナー・お客様とともに、多くの可能性に目を向け、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
   - 「グループ全体の事業戦略策定、新規事業の企画立案、企業間協業の推進、官公庁・自治体対応などを担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
   - 「国内外のパートナー企業との企業間協業の推進およびジョイントベンチャー設立交渉」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「材料・触媒の設計・合成、分析・解析、物性評価から、製造プロセス開発・スケールアップまで、事業部門や生産技術、社外パートナーと連携して推進します」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「「人」を通じて成長に寄り添い、地域インフラを支えるパートナーの経営力強化に挑む」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
-  - 「当社は、工事・資材・サービスの調達において、相互に協力、切磋琢磨し、サプライチェーンにおける持続可能な社会を実現できるパートナーを広く求めています」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
 - 採用（足りない人・職種）：
+  - 「マイページ登録後に送付する「募集要項」のメッセージから確認できます」（https://unistyleinc.com/techniques/526・3回目）
   - 「※「求職者等」には、新卒・キャリア採用への応募者、インターンシップ等の参加者、内定者のほか、会社説明」（https://www.idemitsu.com/jp/recruit/career/pdf/harassmentprevention.pdf・2回目）
   - 「【リクルートコンサルタント／中途採用】シニア特化型の人材紹介サービス等を展開／内定まで最短2日／未経験可／第二新卒歓迎 ▼仕事内容 事業の成長に伴い、エージェント事業で働くリクルートコンサルタントを大募集！ 5年後の上場を目標にチームメンバー数と売上を2倍にすることを目指します」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「新卒採用・インターンシップ情報（高専生等対象）」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
@@ -367,8 +368,12 @@
   - 「新卒採用、採用戦略の策定、学生対象イベントの企画・運営を担当」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
   - 「「出光興産は石油業界ということから、新卒採用時に女性の応募数が少ないのが現状です」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
   - 「「採用の場合、どうしても採用人数といった目標値の達成に目が行きがちですが、学生には、内定を取ることに必死になって、自分を偽らないでほしいと思っているんです」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
-  - 「※「求職者等」には、新卒・キャリア採用への応募者、インターンシップ等の参加者、内定者のほか、会社説明」（https://www.idemitsu.com/jp/recruit/Harassment.pdf・2回目）
 - 発言（社長・役員）：
+  - 「半導体材料シェア世界トップクラス！「レゾナック」髙橋社長が語るニッポンの強みとは【Bizスクエア】| TBS NEWS DIG」（https://www.youtube.com/watch?v=q2VDPaLxIAA・3回目）
+  - 「パワーエックス伊藤正裕社長が語るエネルギーの新ビジネスモデル～国内最大級工場の建設で蓄電池を量産・活用へ～【Bizスクエア10月1日放送】｜TBS NEWS DIG」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「日本初のSAF量産化を実現したコスモエネルギーホールディングス 山田茂社長に今後のエネルギー戦略について聞く【Bizスクエア】」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
+  - 「出光興産の新社長、酒井則明氏 Photo by Masataka Tsuchimoto」（https://diamond.jp/articles/-/363538・3回目）
+  - 「業界2位の出光興産の新社長に4月に就任した酒井則明氏にインタビューを敢行した」（https://diamond.jp/articles/-/363538・3回目）
   - 「社長メッセージ | サステナビリティ | 出光興産」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「私は社長に就任して以来、こうした価値観を大切にしながら、「バランスを重視した経営」を基本姿勢としてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「人の想いに耳を傾け、デザインの力で価値を共創」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
@@ -376,12 +381,8 @@
   - 「国・地域社会、そこに暮らす人々を想い、考えぬき、働きぬいているか」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
   - 「*： 高度な専門性を有する社外有識者からの経営提言を受ける社長諮問機関」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
   - 「国・地域社会、そこに暮らす人々を想い、考えぬき、働きぬいているか」（https://www.idemitsu.com/jp/company/managementplan/2023_2025plan.pdf・2回目）
-  - 「国・地域社会、そこに暮らす人々を想い、」（https://www.idemitsu.com/jp/recruit/career/pdf/career-recruiting-pitch.pdf・2回目）
-  - 「AI時代にCEOに求められる最も重要なリーダーシップスキル」（https://www.youtube.com/watch?v=q2VDPaLxIAA・3回目）
-  - 「：出光興産株式会社代表取締役副社長の澤です」（https://finance.logmi.jp/articles/384789・3回目）
-  - 「代表取締役社長 社長執行役員CEO 酒井則明」（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
-  - 「代表取締役副社長 副社長執行役員COO 平野敦彦」（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 政治（法・補助・規制）：
+  - 「プレーヤーとしてもこの制度に新規事業を起案し、2年連続で事業化採択案に選出される」（https://jp.ub-speeda.com/document/250930sr/・3回目）
   - 「また、各国・地域で法改正や準法律的なルールの変更が相次ぐ中、必要な手続きや体制見直しを遺漏なく進めることも重要です」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「低ベンゼンガソリン「ゼアス」を発売（1996年 業界初のエコマーク認定）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
   - 「また、米国を始めとした世界各国の金融政策の動向、主要石油消費国における需要・環境規制・税制の動向、投機的な石油取引等により、今後も大きく変動することが懸念されます」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
@@ -393,7 +394,6 @@
   - 「また、日本や他の国の当局が新たな規制を行うこと、あるいは現在や将来の環境規制を遵守することにより多額の支出を伴う可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
   - 「プロジェクト・ファイナンスによる調達額について銀行団に対し行っている債務保証及びスポンサーによる出資・貸付のうち、NSRPへの当社グループ出資比率相当の35.1%については、ベトナムにおける政治経済情勢、法律や規制及び雇用環境の変化等からプロジェクトが計画どおりに進展しない場合、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
   - 「米国の火力発電規制撤廃と日本のCO2回収・貯留支援が問う「国民負担」、環境政策は国民生活の便益を生むのか」（https://diamond.jp/articles/-/363538・3回目）
-  - 「出光興産株式会社の補助金・交付金の採択実績｜10件|経営自走化ラボ」（https://media.keieishindan.co.jp/s/9010001011318・3回目）
 - 経済（売上・利益・投資額）：
   - 「なお、1バレル当たりのドバイ原油価格が1米ドル変動すると、当社の税引前利益は年間80億円増減する可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
   - 「なお、1米ドル当たり1円変動すると、当社の税引前利益は年間40億円増減する可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
@@ -421,24 +421,24 @@
   - 「Management strategy (Message from the Chairman and President)」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
   - 「Idemitsu Hokkaido “Drawing Contest”」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
 - 検索結果の抜粋：
+  - 「私の経営哲学（28） 出光興産 社長・木藤俊一氏 人の成長こそ ... — 私の経営哲学（28） 出光興産 社長・木藤俊一氏 人の成長こそ ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/00614651・3回目）
+  - 「三井化学・ 出光興産 の事例から学ぶ、技術起点の 新規事業 が ... — 三井化学・ 出光興産 の事例から学ぶ、技術起点の 新規事業 が ... Speeda https://jp.ub-speeda.com > ナレッジ・セミナーレポート」（https://jp.ub-speeda.com/document/250930sr/・3回目）
+  - 「中期経営計画 （2023～2025年度） - 出光興産 — 中期経営計画 （2023～2025年度） - 出光興産 出光興産 PDF https://www.idemitsu.com > managementplan」（https://www.idemitsu.com/jp/company/managementplan/2023_2025plan.pdf・3回目）
+  - 「出光興産 募集職種 キャリアの求人情報をすべて見る （10,726,114件） — 出光興産 募集職種 キャリアの求人情報をすべて見る （10,726,114件） スタンバイ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「社員インタビュー : Y.HANADA | 新卒採用情報 - 出光興産 — 社員インタビュー : Y.HANADA | 新卒採用情報 - 出光興産 出光興産 https://www.idemitsu.com > future > interview_y-hanada」（https://www.idemitsu.com/jp/recruit/future/work-people/interview_y-hanada.html・3回目）
+  - 「出光興産 【5019】の 大株主 - バフェット・コード — 出光興産 【5019】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/5019/mainshareholder・3回目）
+  - 「いでみつコネクト: ホーム — いでみつコネクト: ホーム いでみつコネクト https://idemitsu.premium-yutaiclub.jp」（https://idemitsu.premium-yutaiclub.jp/・3回目）
   - 「出光興産 【5019】の事業内容 - キタイシホン — 出光興産 【5019】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5019/business・3回目）
   - 「お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 — お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 出光興産 https://www.idemitsu.com > governance > prc_register」（https://www.idemitsu.com/jp/company/governance/prc_register/index.html・3回目）
   - 「各種 方針 ・コーポレートガバナンス | 会社情報 - 出光興産 — 各種 方針 ・コーポレートガバナンス | 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > governance > policy」（https://www.idemitsu.com/jp/company/governance/policy/index.html・3回目）
   - 「出光興産 の新 社長 が全国6000のガソリンスタンドは「なくし ... — 出光興産 の新 社長 が全国6000のガソリンスタンドは「なくし ... ダイヤモンド・オンライン https://diamond.jp > エネルギー > エネルギー動乱」（https://diamond.jp/articles/-/363538・3回目）
   - 「【 出光興産 】株価・日経最新ニュース[5019] | 日本経済 新聞 — 【 出光興産 】株価・日経最新ニュース[5019] | 日本経済 新聞 日本経済新聞 https://www.nikkei.com > nkd > company」（https://www.nikkei.com/nkd/company/?scode=5019・3回目）
-  - 「出光興産 の 設備投資 額2,236億円・推移12カ年 - The社史 — 出光興産 の 設備投資 額2,236億円・推移12カ年 - The社史 The社史 https://the-shashi.com > 出光興産の歴史」（https://the-shashi.com/tse/5019/financials/capex/・3回目）
-  - 「出光興産 募集職種 キャリアの求人情報をすべて見る （10,471,779件） — 出光興産 募集職種 キャリアの求人情報をすべて見る （10,471,779件） スタンバイ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
-  - 「採用 情報 | 出光興産 — 採用 情報 | 出光興産 出光興産 https://www.idemitsu.com > recruit」（https://www.idemitsu.com/jp/recruit/index.html・3回目）
-  - 「出光興産 株式会社の 特許出願 動向・競合比較 - Patent Integration — 出光興産 株式会社の 特許出願 動向・競合比較 - Patent Integration パテント・インテグレーション https://patent-i.com > report > applicant」（https://patent-i.com/report/jp/applicant/0000229/・3回目）
-  - 「出光興産 株式会社の 補助金 ・交付金の 採択 実績｜10件 — 出光興産 株式会社の 補助金 ・交付金の 採択 実績｜10件 media.keieishindan.co.jp https://media.keieishindan.co.jp > データベース > 東京都」（https://media.keieishindan.co.jp/s/9010001011318・3回目）
-  - 「出光興産 【5019】の 大株主 情報 - 株探 — 出光興産 【5019】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=5019・3回目）
-  - 「有価証券報告書 | IR情報 - 出光興産 — 有価証券報告書 | IR情報 - 出光興産 出光興産 https://www.idemitsu.com > library > security_reports」（https://www.idemitsu.com/jp/ir/library/security_reports/index.html・3回目）
-- 設立：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
-- 役員：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
-- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
-- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 株主：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 設立：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 役員：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
 
 ## 藤倉コンポジット
 - 公式URL：https://www.fujikuracomposites.jp/（search:yahoo_jp:藤倉コンポジット）
