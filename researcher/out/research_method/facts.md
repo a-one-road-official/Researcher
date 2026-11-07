@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・178品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・180品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -587,6 +587,7 @@
   - 「2025年3月期（2024年4月から2025年3月まで）は、増収減益という結果になりました」（https://kabu.com/kabuyomu/money/1191.html）
 - 検索結果の抜粋：
   - 「How to Read Financial Statements: A Beginner’s GuideAnnual report - WikipediaMcDonald’s Business Model (2026) | How McDonald’s Makes Money2025 ANNUAL REPORT - Marriott InternationalOur Annual Reports | Diageo — A balance sheetconveys the “book value” of a company. It allows you to see what resources it has available and how they were financed as of a specific date. It shows its assets, liabilities」（https://online.hbs.edu/blog/post/how-to-read-financial-statements）
+  - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: Investor Reading MapHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisMaster the Art of Reading Annual Reports - InvestopediaHow to Read an Annual Report Like an Equity Research AnalystHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a 」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
@@ -6262,7 +6263,7 @@
 - 実例：
   - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
   - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6417,6 +6418,7 @@
   - 「このうち電子公告には見落としやすい落とし穴があります」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 実例：
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6430,7 +6432,6 @@
   - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです」（https://blog.roborobo.co.jp/compliance/kanpo-where）
 - 検索結果の抜粋：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -9765,6 +9766,7 @@
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/koukou-data-list/）
   - 「数千件の個別照合や差分の自動取り込みはAPI向きです」（https://gomumari.com/knowledge/koukou-data-list/）
+  - 「最新情報と照合することで法人情報の確認を自動化し、取引のための審査を迅速化」（https://kamakurakanzeikai.net/images/info_hojinnum.pdf）
 - 一次情報の探し方：
   - 「設立登記法人への指定･･････････････････････････････ ５」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
   - 「設立登記のない法人と人格のない社団等への指定･･････ ６」（https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/houjinbangou/pdf/0022006-114.pdf）
@@ -10236,11 +10238,11 @@
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
@@ -10821,3 +10823,94 @@
 - 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ22頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+
+## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「統計表における機械判読可能なデータ作成に関する表記方法について」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「ただし、 各府省において、 必要に応じ、 本表示方法によらない表記方法のも」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「また、Python 等でデータを読み込む際は、１つの列は単⼀のデータの型（整数、⼩数、⽂字列と」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジング手順｜秘匿値・表記ゆれの実務対応」（https://data-viz-lab.com/census-data）
+  - 「本記事では、国勢調査データを分析可能な状態へ整える6つのSTEPを実務目線で解説します」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングを進める6つのSTEP」（https://data-viz-lab.com/census-data）
+  - 「STEP1 利用目的と必要な集計単位の確定」（https://data-viz-lab.com/census-data）
+  - 「STEP2 元データの構造把握とヘッダー・階層の整形」（https://data-viz-lab.com/census-data）
+  - 「STEP3 表記の標準化：全角半角・数値型・文字コード」（https://data-viz-lab.com/census-data）
+  - 「STEP4 欠測・秘匿値・不詳の処理方針の決定」（https://data-viz-lab.com/census-data）
+  - 「STEP5 地域コードによる名寄せと他データとの結合」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「統計表をExcelやCSVでダウンロードする方法、データベース形式の統計表から必要な項目だけを絞り込んで出力する方法、そしてAPIで直接取得する方法に分かれます」（https://data-viz-lab.com/census-data）
+  - 「更新のたびに取り込む仕組みを作るならAPI、一度きりの分析ならCSVというように、運用の継続期間を基準に選ぶ方法が確実です」（https://data-viz-lab.com/census-data）
+- 突き合わせ・推定：
+  - 「計算したい場合、修正前の場合、「（）」内の数字を分離してから、割り算を⾏う必要が⽣じる」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「国勢調査のデータは無償で公開されており、商圏分析や需要推計、行政計画の立案まで幅広い用途に使えます」（https://data-viz-lab.com/census-data）
+  - 「STEP6 総数との突合による検証と加工履歴の記録」（https://data-viz-lab.com/census-data）
+  - 「BtoB企業：市場規模推計での按分処理の設計」（https://data-viz-lab.com/census-data）
+  - 「分析者が値を作れば、その値は元の統計と切り離された独自の推計になるのです」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「記録がないまま比較表を提出すると、数字の妥当性を問われた際に再検証からやり直すことになります」（https://data-viz-lab.com/census-data）
+  - 「商圏を半径500メートル単位で見たいのか、市区町村単位の傾向がつかめれば足りるのかを、分析目的から逆算して決めてください」（https://data-viz-lab.com/census-data）
+  - 「加工が終わったデータは、必ず元の統計表の総数と突き合わせます」（https://data-viz-lab.com/census-data）
+  - 「検証と並んで欠かせないのが、加工履歴の記録です」（https://data-viz-lab.com/census-data）
+  - 「細かい側を粗い側へ合わせる方向であれば情報の欠落は起きませんが、逆方向の按分は推計値を作る行為になります」（https://data-viz-lab.com/census-data）
+  - 「按分を行う場合は、按分の根拠と手法を記録し、推計値であることを明示してください」（https://data-viz-lab.com/census-data）
+  - 「経年で比較する際は、公表資料の区分定義を調査年ごとに突き合わせ、一致する範囲でのみ比較する方針を立てます」（https://data-viz-lab.com/census-data）
+  - 「公表されている市町村合併の履歴や都道府県別の変更一覧を突き合わせ、旧コードと新コードの対応表を作る流れになります」（https://data-viz-lab.com/census-data）
+  - 「残差で埋めた値には推計であることを示すフラグを立て、元の値と区別できる状態を維持します」（https://data-viz-lab.com/census-data）
+- 一次情報の探し方：
+  - 「統計表における機械判読可能なデータ作成に関する表記方法について」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「本申合せは、 統計利用者の利便性を一層高める観点から、 各府省がインターネッ」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「ト上に公表する統計表における機械判読可能なデータの表記について、 標準的な方」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「本申合せは、 各府省が政府統計の総合窓口（e-Stat）に掲載している統計表（既」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「にデータベース形式として対応している統計表を除く」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「本申合せは、 令和３年１月１日以降に公表する統計表について適用するものとす」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「括官（統計基準担当）を中心に関係府省の協力を得て、適切に見直しを実施する」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「第１章 機械判読可能なデータの作成 〜 Excel 形式による統計表の作成〜 .................................... - 2 -」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「E x c e lファイルによる統計表のレイアウト ........................................................................ - 2 -」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「□チェック項⽬１-11 e-Stat の時間軸コードの表記、⻄暦表記⼜は和暦に⻄暦の併記が」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「第１章 機械判読可能なデータの作成 〜Excel 形式による統計表の作成〜」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「統計データのファイル形式は、仕様が公開 ・ 標準化されているもの⼜は国際的に標準化されているフ」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「また、統計表の解説や注釈、図が⼊った報道発表資料や報告書ベースのファイル（PDF や印刷する」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「本節では、 ファイル形式による統計表における留意点を以下に⽰す」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「統計データを作成する際に、 本節」（https://www.soumu.go.jp/main_content/000723697.pdf）
+- 失敗・落とし穴：
+  - 「少人数の地域で値が「X」と秘匿されていたり、市区町村合併で地域コードが年次ごとに変わっていたりと、統計制度そのものに由来する落とし穴が随所にあります」（https://data-viz-lab.com/census-data）
+  - 「国勢調査データのクレンジングでよくある失敗パターン」（https://data-viz-lab.com/census-data）
+  - 「自社の店舗マスタや顧客住所と国勢調査データを突き合わせる場面では、住所文字列そのものをキーにした結合が失敗しがちです」（https://data-viz-lab.com/census-data）
+  - 「順番には意味があり、標準化を終える前に名寄せへ進むと、後述する典型的な失敗を踏むことになってしまうでしょう」（https://data-viz-lab.com/census-data）
+  - 「カンマと空白を除去したうえで数値型へ変換し、変換に失敗した値は削除せず別列へ退避させます」（https://data-viz-lab.com/census-data）
+  - 「符号を一律に0へ置き換える処理は、最も頻度が高く、最も影響の大きい誤りになります」（https://data-viz-lab.com/census-data）
+  - 「許容できる差はゼロが原則で、1人でもずれていれば処理のどこかに誤りがあると考えてください」（https://data-viz-lab.com/census-data）
+  - 「判別作業は、数値変換に失敗した値の一覧を作るところから始めます」（https://data-viz-lab.com/census-data）
+  - 「「総数」「男」「女」が縦に並ぶ形式のまま合計すると、人口が実際の2倍になるという、発見が遅れがちな誤りが生まれるのです」（https://data-viz-lab.com/census-data）
+  - 「名称が同じであることを理由にそのまま比較へ進むと、解釈を誤ります」（https://data-viz-lab.com/census-data）
+  - 「結合時に注意したいのが、境界データと属性データの調査年をそろえる点です」（https://data-viz-lab.com/census-data）
+  - 「ここでは、実務の現場で繰り返し目にする失敗を5つ取り上げます」（https://data-viz-lab.com/census-data）
+  - 「いずれも作業中には気づきにくく、分析結果が出てから違和感として現れる種類の誤りです」（https://data-viz-lab.com/census-data）
+  - 「最も頻度が高い失敗が、伏せられた値を0として集計してしまうケースです」（https://data-viz-lab.com/census-data）
+  - 「順序を守るだけで、失敗パターンの大半は回避できます」（https://data-viz-lab.com/census-data）
+- 実例：
+  - 「売上⾦額と費⽤総額が１セルに⼊⼒されているため、例えば、売上⾦額に占める費⽤総額の割合を」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「集計した結果がゼロ、表章桁未満 0」（https://www.soumu.go.jp/main_content/000723697.pdf）
+  - 「国勢調査の集計結果は、総務省統計局が」（https://data-viz-lab.com/census-data）
+  - 「ダウンロードしたCSVは、文字コードがShift_JISになっているケースが多数です」（https://data-viz-lab.com/census-data）
+  - 「を、単なる空欄や0と同一視すると、集計結果は静かに壊れます」（https://data-viz-lab.com/census-data）
+  - 「業務データであれば平均値や中央値で埋める判断も許容されますが、公的統計では原データに存在しない値を分析者が作り出す行為そのものが、結果の解釈を難しくします」（https://data-viz-lab.com/census-data）
+  - 「Power Queryの「列のピボット解除」、pandasのmelt関数、Tableau Prepの「ピボット」ステップのいずれでも同じ結果を得られます」（https://data-viz-lab.com/census-data）
+  - 「点検結果はスプレッドシートへ調査年別で記録し、比較可能と判断した根拠まで残しておくと、レビュー時の説明が容易です」（https://data-viz-lab.com/census-data）
+  - 「担当者が異動した時点で、分析そのものが止まってしまう事例も少なくありません」（https://data-viz-lab.com/census-data）
+  - 「初回の実装には市区町村単位で3人日から5人日程度かかりますが、2回目以降の更新は1時間以内に短縮できるケースが大半です」（https://data-viz-lab.com/census-data）
+  - 「世帯数が少ない区分では該当する値が公表されないため、詳細な属性ほど空白が目立つ結果になるのです」（https://data-viz-lab.com/census-data）
+  - 「確認結果は表ごとにメモへ残し、読み込み処理の引数として外出ししておくと保守が楽になります」（https://data-viz-lab.com/census-data）
+  - 「分類の結果は符号ごとの件数として集計し、全体に占める割合を把握してから方針を決めてください」（https://data-viz-lab.com/census-data）
+  - 「記録の粒度は、担当者以外が同じ結果を再現できるかどうかを基準に決めてください」（https://data-viz-lab.com/census-data）
+  - 「再現できない加工は分析結果の信頼性を担保できないため、成果物としては未完成の状態です」（https://data-viz-lab.com/census-data）
+
+## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
