@@ -8,47 +8,125 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-07T14:17:25.312065+00:00",
+ "researched_at": "2026-11-07T19:41:35.313157+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [",
+    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ") was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.",
+    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from",
+    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": ". This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for",
+    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.",
+    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321",
+    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Four tips to avoid math mistakes",
+    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Methodology and Sources",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "19-step pre-pitch checklist",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Priya Anand edits the JournalistDB blog, covering media lists, press outreach and how to pitch reporters without wasting their time.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Build a Media List That Actually Gets Responses",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Pitch Journalists at Top Publications (Without Getting Ignored)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Poynter: How to Make Sense of Numbers in Science and Health Reports",
+    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Slides form NICAR 22 presentation on how to write with data, by Holly Hacker and Jen LaFleur.",
+    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "GIJN: Interpreting Data – How to Read the Numbers",
     "url": "https://journaliststoolbox.ai/writing-with-numbers/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -60,62 +138,424 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
+    "quote": "Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.",
     "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
+    "quote": "For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.",
     "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
+    "quote": "For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "300 words and an explanatory graphic to the methodology",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Conspiracy Beliefs and How to communicate uncertainty",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triage your fact-checking: a method (and board game)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Treating all official statistics as unimpeachably accurate — methodology notes exist for a reason.",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to read ONS and other official statistical bulletins.",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to write about numbers without misleading readers.",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ONS — statistical concepts and methodology",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
+    "quote": "Sometimes this is not a simple thing to do. It seems clear enough how to quantify the number of cars sold or the amount of grain exported, where counting has the feel of something objective and definite. But journalists are interested in many other things where the proper relationship between the words, the numbers, and the world is much less clear.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
+    "quote": "It’s not clear how census-takers were supposed to determine someone’s ancestry going back generations, or how they applied this rule in practice, or if they even read the instructions—meaning that we don’t know quite how to interpret the racial categories of the early twentieth-century census. If the collection method is obscure, so is the data.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
+    "quote": "Anyone working with friction has to choose how to quantify it.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
+    "quote": "Usually there is some end goal, some purpose to collecting data, and you can ask whether any particular quantification method serves that purpose. And you can ask about the end purpose, too, the frame of the entire thing. Different quantification methods serve different stories.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.",
+    "quote": "My goal is to give you the higher-level logic of the whole process of statistical analysis. For any particular problem you will need specific technical tools, but those choices must be guided by a larger framework.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step in data analysis is seeing the frame: the assumptions about how the data was collected and what it means.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Second, correlation. The decrease could be related to the earlier closing time without being caused by it. Perhaps the police stepped up patrols to enforce the new law, and it’s this increased presence that is reducing crime, not the new closing time itself.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "There is a completely general method of accounting for chance which forms the basis of modern statistical reasoning.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Instead I’m going to walk through a specific Bayesian method, a general way to answer multiple-choice questions when the answer is obscured by randomness. My purpose is to show the basic logic of the process, and to show that this logic is commonsensical and understandable. Don’t let statistics be mysterious to you!",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bayesian statistics is something remarkable, and I find its wide success incredible, unlikely, and almost shockingly too good to be true. You can always start from the general framework and work your way toward the details of your problem. This road demands more of the student, but it is the antidote to staring at equations and wondering if they apply.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Any claim of cause is implicitly a claim about data from a world we don’t ever get to see: a world where the cause never happened. it’s worth thinking about how to approximate this world through comparisons or modeling. Just looking for increases or decreases is not enough. As the Project Exile researchers put it:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fact-checking has two related meanings. Inside a newsroom, it is the editorial step in which every checkable detail in a story, such as names, dates, titles, numbers, and quotes, is confirmed against a reliable source. Outside the newsroom, it also refers to examining public claims made by politicians, companies, or viral posts and rating how accurate they are.",
     "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people",
+    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Watch for common traps: confusing percentages with percentage points, mixing totals with rates, ignoring population size, or presenting a short-term change as a long-term trend. When possible, go to the primary data from a statistics office, a research institution, or a published study, and read the methodology rather than only the headline.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DC, Servo or Stepper? How to Choose the Right Motor for Your Robot",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Handle an Angry Customer: A Practical Framework for Frontline Staff",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anger in customer service is almost never about you. Learn a five-step framework to calm the situation, solve the problem and protect yourself.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn what an emulsion is, why oil and water can be forced to mix, which ingredients act as emulsifiers, and how to fix a broken sauce in the kitchen.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Read a Floor Plan: A Beginner’s Guide to Construction Drawings",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn what the lines, symbols, scales and dimensions on a floor plan mean, and how to read construction drawings with confidence.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Master the basics of knife work: how to hold a knife safely, the essential cuts, and tips for faster, safer cooking.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Explore the most common smartphone problems, the tools technicians use, and the basic steps behind safe device repairs.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "deceiving ways. Stats can mislead — intentionally or unintentionally. It is important to know how to tell when the",
     "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
+    "quote": "be misleading. This is where the UK Statistics Authority steps in to promote good practice. Full Fact also independently checks",
     "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "As well as the underlying data, the methods chosen to analyse and present statistics are also important – as we cover",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "might not be sure how good our method of measurement is (eg an instrument to measure blood pressure). If we are using data",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10 Full Fact, How to communicate uncertainty, 2020",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "13 MRS Evidence Matters, What are opinion polls? MRS guidance on how to read opinion polls. 2020",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• Approach statistics and data with a ‘detective’ mindset – be prepared to interrogate the source, aim, methods and",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• Statistics How To, Misleading Graphs: Real Life Examples",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• Tim Harford, How to Make the World Add Up: Ten Rules for Thinking Differently about Numbers (book and",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• House of Commons Library, How to spot spin and inappropriate use of statistics, 2023",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (816.3 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(including bundled access), with the New York Times alone accounting for over 10 million. (Press Gazette, company filings)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The statistics in this article are compiled from publicly available reports, government data, and industry surveys. Primary sources include:",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDFs and printed copies of this report are available on the",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.",
+    "url": "https://fullfact.org/how-we-fact-check/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -208,6 +648,96 @@
    {
     "quote": "Cross-check selection agreement (%)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The U.S. newsroom workforce has declined roughly 60% since its 2008 peak, but digital-native outlets have added an estimated 15,000+ positions since 2020.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelance journalists now account for an estimated 30-35% of all bylined content in major U.S. publications.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The U.S. Bureau of Labor Statistics estimates approximately",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When editors, photojournalists, producers, and digital content roles are included, the broader newsroom workforce in the U.S. sits at an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital-native news organizations have created an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The average tenure of a journalist at a single outlet has dropped to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Despite enrollment growth, only an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hispanic and Latino journalists remain the most underrepresented group relative to population share, comprising an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "U.S. newspaper print advertising revenue has fallen to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital news subscriptions across all U.S. outlets are estimated at",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the U.S. earn at least a portion of their income from freelance journalism, including contributing writers, photojournalists, and video producers. (Freelancers Union estimates)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelancers produce an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Platforms connecting freelancers with editors (including JournalistDB, Contently, and nDash) have grown their user bases by an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "International freelance journalism has expanded significantly, with an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", collectively reaching an estimated 30-40 million subscribers.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
@@ -754,161 +1284,51 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf",
+    "quote": "]. People, however, may question the credibility of fact-checkers for different reasons, including the perception that fact-checkers are biased, concerns around disinformation, or a general distrust in the media or institutions. A crucial question is: How do we know the fact-checkers are accurate? The answer is to check and compare the fact-checkers [",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "PDF (816.3 KB)",
+    "quote": ") was low and the total number of reviewed statements was small as well, which would bias reliability calculations. Discrepancies were resolved after discussion and coders re-performing the fact-checks together.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDFs and printed copies of this report are available on the",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.",
-    "url": "https://fullfact.org/how-we-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review & editing",
+    "quote": "One concern with our analysis relates to the perceived liberal political bias that fact-checking organizations might have against a Republican president such as Donald Trump. To address this issue, all available fact-checks during President Biden’s first 100 days were extracted from",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Conceptualization, Methodology, Supervision, Writing – original draft, Writing – review & editing",
+    "quote": ". This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Conceptualization, Methodology, Writing – original draft, Writing – review & editing",
+    "quote": "because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Conceptualization, Methodology, Validation, Writing – original draft, Writing – review & editing",
+    "quote": "Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "database (116/513) (An exploratory thematic analysis using the Meaning Extraction Method [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "quote": "actively avoid the news at least some of the time, citing emotional fatigue and perceived bias as the top reasons. This is up from 38% in 2017. (Reuters Institute)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "and PolitiFact methods, we could not find a clear conceptual definition of deception as stated by the fact-checkers. However, each source’s operational definitions, in the form of deceptiveness ratings, offer some perspective into such conceptualizations. PolitiFact’s false statements range from omissions to ridiculous claims, while",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Although the results of this work described disagreement between two main fact-checkers, it is unclear why these patterns emerged. We offered two possible explanations based on methodological and theory-based evidence, though future work would benefit from interviewing fact-checkers to understand their process and decisions on what to check in difficult cases [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PolitiFact. The principles of the Truth-O-Meter: PolitiFact’s methodology for independent fact-checking. 2021. Available:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Poynter: How to Make Sense of Numbers in Science and Health Reports",
-    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Slides form NICAR 22 presentation on how to write with data, by Holly Hacker and Jen LaFleur.",
-    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GIJN: Interpreting Data – How to Read the Numbers",
+    "quote": "Four tips to avoid math mistakes",
     "url": "https://journaliststoolbox.ai/writing-with-numbers/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -920,343 +1340,61 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.",
+    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
     "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.",
+    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
     "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "300 words and an explanatory graphic to the methodology",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Conspiracy Beliefs and How to communicate uncertainty",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triage your fact-checking: a method (and board game)",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Treating all official statistics as unimpeachably accurate — methodology notes exist for a reason.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to read ONS and other official statistical bulletins.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to write about numbers without misleading readers.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ONS — statistical concepts and methodology",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to make a donation to The Journalist’s Resource",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”",
+    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Sometimes this is not a simple thing to do. It seems clear enough how to quantify the number of cars sold or the amount of grain exported, where counting has the feel of something objective and definite. But journalists are interested in many other things where the proper relationship between the words, the numbers, and the world is much less clear.",
+    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "It’s not clear how census-takers were supposed to determine someone’s ancestry going back generations, or how they applied this rule in practice, or if they even read the instructions—meaning that we don’t know quite how to interpret the racial categories of the early twentieth-century census. If the collection method is obscure, so is the data.",
+    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Anyone working with friction has to choose how to quantify it.",
+    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Usually there is some end goal, some purpose to collecting data, and you can ask whether any particular quantification method serves that purpose. And you can ask about the end purpose, too, the frame of the entire thing. Different quantification methods serve different stories.",
+    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "My goal is to give you the higher-level logic of the whole process of statistical analysis. For any particular problem you will need specific technical tools, but those choices must be guided by a larger framework.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The first step in data analysis is seeing the frame: the assumptions about how the data was collected and what it means.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Second, correlation. The decrease could be related to the earlier closing time without being caused by it. Perhaps the police stepped up patrols to enforce the new law, and it’s this increased presence that is reducing crime, not the new closing time itself.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a completely general method of accounting for chance which forms the basis of modern statistical reasoning.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Instead I’m going to walk through a specific Bayesian method, a general way to answer multiple-choice questions when the answer is obscured by randomness. My purpose is to show the basic logic of the process, and to show that this logic is commonsensical and understandable. Don’t let statistics be mysterious to you!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bayesian statistics is something remarkable, and I find its wide success incredible, unlikely, and almost shockingly too good to be true. You can always start from the general framework and work your way toward the details of your problem. This road demands more of the student, but it is the antidote to staring at equations and wondering if they apply.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Any claim of cause is implicitly a claim about data from a world we don’t ever get to see: a world where the cause never happened. it’s worth thinking about how to approximate this world through comparisons or modeling. Just looking for increases or decreases is not enough. As the Project Exile researchers put it:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking has two related meanings. Inside a newsroom, it is the editorial step in which every checkable detail in a story, such as names, dates, titles, numbers, and quotes, is confirmed against a reliable source. Outside the newsroom, it also refers to examining public claims made by politicians, companies, or viral posts and rating how accurate they are.",
+    "quote": "Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.",
     "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Watch for common traps: confusing percentages with percentage points, mixing totals with rates, ignoring population size, or presenting a short-term change as a long-term trend. When possible, go to the primary data from a statistics office, a research institution, or a published study, and read the methodology rather than only the headline.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DC, Servo or Stepper? How to Choose the Right Motor for Your Robot",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Handle an Angry Customer: A Practical Framework for Frontline Staff",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Anger in customer service is almost never about you. Learn a five-step framework to calm the situation, solve the problem and protect yourself.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn what an emulsion is, why oil and water can be forced to mix, which ingredients act as emulsifiers, and how to fix a broken sauce in the kitchen.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Read a Floor Plan: A Beginner’s Guide to Construction Drawings",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn what the lines, symbols, scales and dimensions on a floor plan mean, and how to read construction drawings with confidence.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Master the basics of knife work: how to hold a knife safely, the essential cuts, and tips for faster, safer cooking.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Explore the most common smartphone problems, the tools technicians use, and the basic steps behind safe device repairs.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "deceiving ways. Stats can mislead — intentionally or unintentionally. It is important to know how to tell when the",
+    "quote": "• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people",
     "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "be misleading. This is where the UK Statistics Authority steps in to promote good practice. Full Fact also independently checks",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As well as the underlying data, the methods chosen to analyse and present statistics are also important – as we cover",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "might not be sure how good our method of measurement is (eg an instrument to measure blood pressure). If we are using data",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "10 Full Fact, How to communicate uncertainty, 2020",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "13 MRS Evidence Matters, What are opinion polls? MRS guidance on how to read opinion polls. 2020",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Approach statistics and data with a ‘detective’ mindset – be prepared to interrogate the source, aim, methods and",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Statistics How To, Misleading Graphs: Real Life Examples",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Tim Harford, How to Make the World Add Up: Ten Rules for Thinking Differently about Numbers (book and",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• House of Commons Library, How to spot spin and inappropriate use of statistics, 2023",
+    "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
     "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1266,11 +1404,6 @@
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
     "status": "ok",
@@ -1282,12 +1415,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
+    "url": "https://note.com/mahaseg/n/n75990fd3b329",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "url": "https://note.com/juicy_flea4475/n/n2035a68af2b4",
     "status": "ok",
     "method": "http"
    },
@@ -1297,107 +1430,37 @@
     "method": "http"
    },
    {
-    "url": "https://www.altmetric.com/details/doi/10.1113/JP290572",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tsukuba.ac.jp/about/disclosure-statistics/",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://uketuke.eiken.or.jp/mis/M2A001",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/173_1.html",
+    "url": "https://www.reportingwithnumbers.com/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "url": "https://uploads-cdn.omnicalculator.com/images/JournalistGuide/Journalist+Guide+to+Numbers.pdf",
     "status": "http_404",
-    "method": "http"
-   },
-   {
-    "url": "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://thetijproject.ca/guide/introduction/",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fullfact.org/how-we-fact-check/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://maag.guides.ysu.edu/c.php?g=924469&p=6666810",
+    "url": "https://datainteractivej.com/data/numeracy-for-journalists/",
     "status": "ok",
     "method": "http"
    }
@@ -1407,174 +1470,297 @@
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） site:note.com",
    "results": [
-    "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
     "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
     "https://note.com/biostat_lab/n/na4d52855b4ad",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "https://note.com/mahaseg/n/n75990fd3b329",
+    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
     "https://note.com/biostat_lab/n/n2441861383b3",
-    "https://note.com/soudan_soyogi/n/ne4ee39b41f11",
-    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
-    "https://note.com/tims_pr/n/nec02d0ac8ba2",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
-   ]
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
+    "https://note.com/honest_poppy8830/n/nb919cc871b0e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note",
-   "results": [
-    "https://www.altmetric.com/details/doi/10.1113/JP290572",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
-    "https://uketuke.eiken.or.jp/mis/M2A001",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） やり方",
-   "results": [
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.zentsuken.net/journal/file/173_1.html",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf",
-    "https://ai.laiseclair.com/learn/ai-statistics-literacy/"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） 事例",
-   "results": [
-    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
    "results": [
-    "https://thetijproject.ca/guide/introduction/",
-    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
-    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "https://fullfact.org/how-we-fact-check/",
-    "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
-    "https://maag.guides.ysu.edu/c.php?g=924469&p=6666810",
-    "https://ksjfactcheck.org/fact-checking-101-module/when-and-how-to-fact-check/",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
-    "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
-    "https://journaliststoolbox.ai/writing-with-numbers/"
-   ]
+    "https://journaliststoolbox.ai/writing-with-numbers/",
+    "https://www.reportingwithnumbers.com/",
+    "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "https://uploads-cdn.omnicalculator.com/images/JournalistGuide/Journalist+Guide+to+Numbers.pdf",
+    "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "https://datainteractivej.com/data/numeracy-for-journalists/",
+    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
   },
   {
    "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
     "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
+    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
     "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
     "https://note.com/aimediaoperator/n/n54ea9e09e10c",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
-    "https://note.com/cat_eye/n/nd707824ea87f",
-    "https://note.com/mahaseg/n/n75990fd3b329",
-    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
-    "https://note.com/biostat_lab/n/na4d52855b4ad"
-   ]
+    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
+    "https://note.com/kind_rail6975/n/n2233faa496ec",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
     "https://x.com/st_data_science",
-    "https://x.com/kanautechjp/status/2113472984295862644",
     "https://x.com/biostat0718",
+    "https://x.com/kanautechjp/status/2113472984295862644",
     "https://x.com/zg1300z/status/2105924511195598926",
-    "https://x.com/randa_dev/status/2116434110675931368",
     "https://x.com/bg_takken/status/2100179516509638748",
-    "https://x.com/shiho_toushi/status/2091714724794945737",
-    "https://x.com/nuribaon/status/2056225194776400163"
-   ]
+    "https://x.com/nuribaon/status/2056225194776400163",
+    "https://x.com/shiho_toushi/status/2091714724794945737"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
-    "https://jp.linkedin.com/pulse/understanding-summary-statistics-mahsa-salimi-rbkvf?tl=ja",
     "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja",
     "https://jp.linkedin.com/pulse/essential-statistics-concepts-every-data-professional-samuel-oyedele-c9sef?tl=ja",
     "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
-    "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
     "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
+    "https://jp.linkedin.com/pulse/cenote-32-making-numbers-count-how-avoid-boring-yoga-samsugiharja?tl=ja",
     "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja"
-   ]
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
     "https://www.facebook.com/hashtag/媒體識讀/",
-    "https://www.facebook.com/diamondweekly/posts/株の重要指標perの正しい使い方年率平均27で稼ぐ個人投資家が伝授httpsdiamondjparticles-269181/4082059035149367/",
     "https://www.facebook.com/NumberWeb/posts/この時の読売新聞の記者は記事を書いてから俺の前から消えた顔を見たらぶん殴ってやろうかと今でも思っているがあれ以来一度も姿を現わさない/1502078081934405/",
+    "https://www.facebook.com/karen0v0no1/videos/999の真実今回はheaveneseアンバサダーとしてドラマ風のショート動画を制作してみました-テーマは-数字をどう受け取るか-ニュースやsnsで流れてくる情報/4257958724471356/",
     "https://www.facebook.com/裏首相官邸-402169233201221/photos/1946323588785770/",
+    "https://www.facebook.com/ueharafund/posts/昨日読売新聞の北浦記者がブックレットを読んだうえ上原さんの写真入りの記事を書いてくださいました/1999845913589473/",
     "https://www.facebook.com/personalbrains/photos/本日6月27日はメディアリテラシーの日ですtoppointではこれまでにニュースの数字をどう読むか-統計にだまされないための22章やナンバーセンス-ビッグデータ/756043043436748/",
-    "https://www.facebook.com/jointkaigo/posts/ケアプラン点検は本来教育であるべき指導という言葉の重圧ではなく質を高めるための助言提言へ全国標準を目指す新たな手引きがケアマネジャーの業務をどう変えるのか日本介/1371018954828406/",
-    "https://www.facebook.com/atsushi.takabe.3/videos/厚労省から最新の介護保険事務調査vol1545が発表されました現場の実務に関わる数字をぎゅっと整理しています自治体ごとのローカルルールの差や認定給付のリアル普段/2076592399636617/"
-   ]
+    "https://www.facebook.com/sophia.globalcitizen/videos/統計学をつかって身近なものの数字を読み解いてみませんか文系初心者の人にもわかりやすく進めていきますデータに対するまなざしを育てたいすべての方におすすめです公開講/1954136348774645/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note 社長",
-   "results": [
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
-    "https://uketuke.eiken.or.jp/mis/M2A001",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） X 投稿",
-   "results": [
-    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://uketuke.eiken.or.jp/mis/M2A001",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689"
-   ]
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS site:linkedin.com",
    "results": [
-    "https://in.linkedin.com/in/nalin-mehta-06068424",
-    "https://uk.linkedin.com/in/peteraven",
-    "https://www.linkedin.com/in/andymedici",
-    "https://uk.linkedin.com/in/alan-smith-obe-37385935",
-    "https://in.linkedin.com/in/shwkothari",
-    "https://in.linkedin.com/in/makepeace-sitlhou",
-    "https://www.linkedin.com/in/surbhi625",
-    "https://uk.linkedin.com/in/williamrjames",
-    "https://www.linkedin.com/in/christaswanson",
-    "https://in.linkedin.com/in/girish-khurana-0128b4183"
-   ]
+    "https://www.linkedin.com/posts/omnicalculator_making-it-count-the-journalists-guide-to-activity-6989181706452824064-OngX",
+    "https://www.linkedin.com/posts/reina-sagnip_the-journalists-guide-to-numbers-is-here-activity-6994245007498964992-IExZ",
+    "https://pe.linkedin.com/pulse/3-things-inflation-fact-checking-state-tax-rates-cupo-cfp-",
+    "https://www.linkedin.com/posts/robbin-dagle-9ab17a140_the-journalists-guide-to-numbers-is-here-activity-6988091186909519872-5juT",
+    "https://www.linkedin.com/advice/0/what-latest-fact-checking-investigative-reporting-techniques-ebhpc",
+    "https://www.linkedin.com/pulse/complete-fact-checking-process-modern-newsroom-guide-editors-singh-bxlwc",
+    "https://www.linkedin.com/posts/ereleases_prtips-datastorytelling-journalismbasics-activity-7434694381917507585-LvzJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 13,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "Methodology and Sources",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "19-step pre-pitch checklist",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Priya Anand edits the JournalistDB blog, covering media lists, press outreach and how to pitch reporters without wasting their time.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Build a Media List That Actually Gets Responses",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Pitch Journalists at Top Publications (Without Getting Ignored)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "(including bundled access), with the New York Times alone accounting for over 10 million. (Press Gazette, company filings)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The statistics in this article are compiled from publicly available reports, government data, and industry surveys. Primary sources include:",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The U.S. newsroom workforce has declined roughly 60% since its 2008 peak, but digital-native outlets have added an estimated 15,000+ positions since 2020.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelance journalists now account for an estimated 30-35% of all bylined content in major U.S. publications.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The U.S. Bureau of Labor Statistics estimates approximately",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When editors, photojournalists, producers, and digital content roles are included, the broader newsroom workforce in the U.S. sits at an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital-native news organizations have created an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The average tenure of a journalist at a single outlet has dropped to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Despite enrollment growth, only an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hispanic and Latino journalists remain the most underrepresented group relative to population share, comprising an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "U.S. newspaper print advertising revenue has fallen to an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digital news subscriptions across all U.S. outlets are estimated at",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the U.S. earn at least a portion of their income from freelance journalism, including contributing writers, photojournalists, and video producers. (Freelancers Union estimates)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Freelancers produce an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Platforms connecting freelancers with editors (including JournalistDB, Contently, and nDash) have grown their user bases by an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "International freelance journalism has expanded significantly, with an estimated",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", collectively reaching an estimated 30-40 million subscribers.",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "actively avoid the news at least some of the time, citing emotional fatigue and perceived bias as the top reasons. This is up from 38% in 2017. (Reuters Institute)",
+    "url": "https://journalistdb.com/journalism-industry-statistics-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 14,
  "first_researched_at": "2026-11-05T13:07:35.513856+00:00"
 }

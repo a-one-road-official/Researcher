@@ -3905,9 +3905,9 @@
   - 「Zacharia J, Grotto A. How to report responsibly on hacks and disinformation: 10 guidelines and a template for every newsroom. Stanford, CA: Stanford Cyber Policy Center; 2022.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Chung CK, Pennebaker JW. Revealing dimensions of thinking in open-ended self-descriptions: An automated meaning extraction method for natural language. Journal of Research in Personality. 2008;42: 96–132. doi: 10.1016/j.jrp.2007.04.006」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Markowitz DM. The meaning extraction method: An approach to evaluate content patterns from large-scale language data. Frontiers in Communication. 2021;6: 13–13. doi: 10.3389/fcomm.2021.588823」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
-  - 「Poynter: How to Make Sense of Numbers in Science and Health Reports」（https://journaliststoolbox.ai/writing-with-numbers/）
-  - 「Slides form NICAR 22 presentation on how to write with data, by Holly Hacker and Jen LaFleur.」（https://journaliststoolbox.ai/writing-with-numbers/）
-  - 「GIJN: Interpreting Data – How to Read the Numbers」（https://journaliststoolbox.ai/writing-with-numbers/）
+  - 「Methodology and Sources」（https://journalistdb.com/journalism-industry-statistics-2026/）
+  - 「19-step pre-pitch checklist」（https://journalistdb.com/journalism-industry-statistics-2026/）
+  - 「Priya Anand edits the JournalistDB blog, covering media lists, press outreach and how to pitch reporters without wasting their time.」（https://journalistdb.com/journalism-industry-statistics-2026/）
 - 突き合わせ・推定：
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -3927,6 +3927,8 @@
 - 一次情報の探し方：
   - 「http://www.americanpressinstitute.org/wp-content/uploads/2015/04/The-Growth-of-Fact-Checking.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「PDF (816.3 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「(including bundled access), with the New York Times alone accounting for over 10 million. (Press Gazette, company filings)」（https://journalistdb.com/journalism-industry-statistics-2026/）
+  - 「The statistics in this article are compiled from publicly available reports, government data, and industry surveys. Primary sources include:」（https://journalistdb.com/journalism-industry-statistics-2026/）
   - 「website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
   - 「PDFs and printed copies of this report are available on the」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
@@ -3943,6 +3945,7 @@
   - 「. This analysis helped to indicate if a subtle, yet unknown fact-checking bias existed for」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「because of a person’s unique Google history and what Google assumes the searcher would be interested in. Algorithmic bias in fact-checking and citizens’ experiences should be acknowledged.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「Luo M, Hancock JT, Markowitz DM. Credibility perceptions and detection accuracy of fake news headlines on social media: Effects of truth-bias and endorsement cues. Communication Research. 2022;49: 171–195. doi: 10.1177/0093650220921321」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
+  - 「actively avoid the news at least some of the time, citing emotional fatigue and perceived bias as the top reasons. This is up from 38% in 2017. (Reuters Institute)」（https://journalistdb.com/journalism-industry-statistics-2026/）
   - 「Four tips to avoid math mistakes」（https://journaliststoolbox.ai/writing-with-numbers/）
   - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
@@ -3951,7 +3954,6 @@
   - 「The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
-  - 「Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
 - 実例：
   - 「Relatedly, some fact-checkers scale the nature of false and misleading statements by providing a “grade” for their deceptiveness. PolitiFact, for example, rates false statements on their Truth-O-Meter from」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
   - 「for examples of five representative and successful cross-checks across」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/）
@@ -6496,22 +6498,25 @@
 ## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
 - 文脈：失敗
 - 手順・やり方：
-  - 「実践手順：独立に見積もってから参考値と照合する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「参考値を無視するのではなく、根拠の見える状態で比較する方法です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「公式問題の再現や、この方法だけでスコアが上がるという保証ではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「Lean User Research: How to Run Meaningful Research with No Time or Budget」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Switch Interviews: The JTBD Method for Understanding Why Customers Buy (and Leave)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Smoke Tests and Fake Door Tests: How to Validate Demand Before You Build」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Customer Needs Analysis: How to Uncover What Customers Actually Want」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Stratified Sampling: How to Get Precise, Representative Results (2026)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「How to Create a Customer Feedback Form (with Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「How to Conduct User Interviews: The Complete Step-by-Step Guide」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Power User Interviews: How to Learn from Your Best Customers to Drive Growth」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Perceptual Mapping: How to Visualize Brand Positioning」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「MVP Validation: 9 Proven Methods to Test Your Minimum Viable Product (2026 Guide)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Concept Testing: The Complete Methodology Guide」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「UX Research Methods: The Complete Toolkit for Researchers and Product Teams」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「アンカリング効果を実践するための5ステップ」（https://hrmos.co/trend/talent-management/10187/）
+  - 「本記事では、アンカリング効果の定義や仕組み、具体例やビジネスでの活用方法について詳しく解説します」（https://hrmos.co/trend/talent-management/10187/）
+  - 「1on1の進め方」（https://hrmos.co/trend/talent-management/10187/）
+  - 「・従業員の育成方法や、どこに配置すれば事業成長が加速するのかが分からない」（https://hrmos.co/trend/talent-management/10187/）
+  - 「先ほど紹介した「通常価格」と「割引後の価格」を併記する二重価格表示も、アンカリング効果を利用した価格設定の典型的な例です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド選考は、アンカリング効果を最小限に抑える効果的な方法です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「具体的には保有資格や職務経歴書を最初に見て、その後に履歴書を見る方法です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「【事例付き】タレントマネジメントとは？目的、システム導入や比較・活用方法」（https://hrmos.co/trend/talent-management/10187/）
+  - 「フレーミング効果は、同じ情報であっても提示方法によって判断や意思決定が変化する現象です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果が最初に提示された情報に影響されるのに対し、フレーミング効果は情報の「枠組み」（フレーム）によって受け取り方が変わることを指します」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果を効果的に活用するためには、適切なステップで実施することが重要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ通りに進めることで、アンカリング効果を最大限に引き出せます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップは以下の5つです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ1: 目的と対象の明確化」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ2: 情報収集と分析」（https://hrmos.co/trend/talent-management/10187/）
 - 突き合わせ・推定：
+  - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「研究では、その説を検証するため、以下の2つの条件でアンカリング効果の強さを比較しました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「Aグループには「術後1か月の生存率は90％である」と伝え、Bグループには「術後1か月の死亡率は10％である」と伝え、手術を選択する割合を検証した実験です」（https://hrmos.co/trend/talent-management/10187/）
   - 「実践手順：独立に見積もってから参考値と照合する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
   - 「確認例：納期10日という数字を検証する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
   - 「条件確認・独立した計算・他の根拠との照合を、繰り返し練習するための記事です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
@@ -6524,40 +6529,42 @@
   - 「Asking "How many hours per week do you spend on this — more or less than 20?" anchors the estimate near 20.」（https://www.koji.so/docs/anchoring-bias-research）
   - 「Drop "more or less than X" framings; ask for the estimate cold.」（https://www.koji.so/docs/anchoring-bias-research）
   - 「reference point that pulls quantitative estimates toward it.」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Order bias is about how earlier questions reshape the context for later ones; anchoring is about a specific value becoming the starting point a respondent adjusts from. A price shown in question two can anchor an estimate in question five.」（https://www.koji.so/docs/anchoring-bias-research）
+- 一次情報の探し方：
+  - 「アンカリング効果は、採用においても大きな影響を与えます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド選考を実施することで、公平な採用はもちろん、潜在能力の高い人材や異なる背景を持つ人材の採用ができ、新しいアイデアの創造にもつながります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド採用とは？メリットとデメリット、実行の際のポイントを徹底解説！」（https://hrmos.co/trend/talent-management/10187/）
 - 失敗・落とし穴：
-  - 「作業量から積み上げる独自ケースで、参考値と根拠を分け、確証バイアス・埋没費用との違いを図解します」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「ただし、過去の相場や実績を使うこと自体が誤りなのではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「販売価格には共通費の負担や利益などを考慮することもあるため、「5万円以外はすべて間違い」とは言えません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「確証バイアスは、すでに持つ考えを支持する情報へ偏りやすいことです」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「「100万円が正しいと考え、高い案件だけ集めた」は確証バイアスを点検する場面」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「Anchoring Bias in Research: How the First Number Skews Answers」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Interviewer Bias: How Moderators Distort Research (and How AI Removes the Variance)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Proxy Response Bias: Why the Question, Not the Person, Decides How Wrong a Proxy Is (2026)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Trust the Delta, Not the Level: Common-Mode Bias in Research (2026)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Slips vs Mistakes: How to Classify User Errors in Usability Testing (2026)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Sampling Bias: Types, Examples, and How to Avoid It」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Survivorship Bias in Customer Research: Why You're Only Hearing Half the Story」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Courtesy Bias: Why Respondents Tell You What You Want to Hear」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Self-Selection Bias: Why the People Who Answer Aren't the People You Need」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「企業がアンカリング効果を利用する際の注意点」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「そのため、リスクを過小評価しすぎたり、過度な期待を抱いてしまったりして失敗するケースがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「明確な基準を設けることにより、評価者は主観的な印象やバイアスに頼るのではなく、具体的な指標に基づいて評価を行うことができます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「明確な基準があることで、評価者は自身のバイアスに気づきやすくなり、それを意識的に排除する努力ができます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「評価者はアンカリング効果やその他の認知バイアスが評価に影響することを理解し、意識した上で評価を行う必要があります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「バイアスを意識的に避けるためのトレーニングの実施や、社外の講義やワークショップに参加してもらうのもよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
+  - 「トレーニングとフィードバックによって評価者のバイアスを改善することで、人事評価の精度を高められます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果を活用する際には、いくつかの注意点を理解しておくことで、効果を最大限に引き出しつつ、信用を失うといったリスクを避けられます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「以下の3つの注意点について詳しく見ていきましょう」（https://hrmos.co/trend/talent-management/10187/）
+  - 「もし、訴訟問題に発展すれば、法的罰則はもちろん、取引先からの信頼も失うなど企業へのダメージは避けられません」（https://hrmos.co/trend/talent-management/10187/）
+  - 「このような事態を避けるためには、適切な価格表示や正確な情報提供を心がけ、消費者を誤認させないように十分な注意が必要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果は、最初に提示された情報や数値に引きずられ、その後の判断や評価が影響を受ける認知バイアスのひとつです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果などのバイアスによる偏りを軽減することは人事評価において重要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「バイアスとは？種類と人事で起こる5つのバイアス対策」（https://hrmos.co/trend/talent-management/10187/）
 - 実例：
-  - 「独自ケース：先に提示された100万円をどう扱うか」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「作業量から積み上げる独自ケースで、参考値と根拠を分け、確証バイアス・埋没費用との違いを図解します」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「本記事は見積もり判断を練習する独自の架空ケースで、実験による効果の大きさを示したものではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「編集部独自のケースで、実験の測定結果ではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「前回100万円から10%引いた90万円は、提示額を調整した結果です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「積み上げた5万円は、このケースで定義した費用です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「この記事の図・数値・ケースは編集部独自の学習用です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
-  - 「How to Create a Customer Feedback Form (with Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Customer Feedback Questions: 60+ Examples by Lifecycle Stage」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Sampling Bias: Types, Examples, and How to Avoid It」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Negative Case Analysis: How to Use the Participants Who Don't Fit」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Nominal Group Technique: Steps, Examples and When to Use It」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Focus Group Questions: 50+ Examples and How to Write Them」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「How to Write Usability Test Tasks and Scenarios (With Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+  - 「実験の結果「10」と記録したグループは、国連加盟国のうちアフリカ諸国が占める割合は、平均で25%と回答しました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「その結果、数字を提示した場合に比べ、意味情報のみを提示した場合のアンカリング効果は非常に弱いことが分かりました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「例えば、待ち合わせに20分遅刻してしまうとします」（https://hrmos.co/trend/talent-management/10187/）
+  - 「事前に「20分くらい遅れそう」と伝えておく場合と「30分くらい遅れそう」と伝えておく場合では、どちらも結果としては同じ「20分の遅刻」にも関わらず、「30分くらい遅れそう」と伝えた場合の方が「30分」がアンカーとなり10分早く到着した事になり「30分遅れると言っていたのに、急いできてくれた」と印象が良くなることがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「たとえば、株式投資の銘柄を決める際に、過去の株価がアンカーになるケースです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「そのため、リスクを過小評価しすぎたり、過度な期待を抱いてしまったりして失敗するケースがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「商品ラインナップにアンカリング効果を活用するケースもあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「中間の「竹」をアンカーにすることで「松」と「梅」を比較しやすくなり、結果的に「竹」を購入してもらう心理操作です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「三菱重工業株式会社、川崎重工業株式会社、キリンホールディングス株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
+  - 「【事例付き】タレントマネジメントとは？目的、システム導入や比較・活用方法」（https://hrmos.co/trend/talent-management/10187/）
+  - 「キリンホールディングス株式会社、三菱重工業株式会社、川崎重工業株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
+  - 「この結果、AグループのほうがBグループよりも手術を選択する医師が多いという結果が出ました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「例えば「朝起きる」という行動を見た後に、その後の行動である「歯磨き」を無意識に認識するなどがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「具体的には「どのような結果を得たいのか」と「誰に対してアンカリング効果を働かせたいのか」を決めることが不可欠です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「結果を踏まえて戦略を見直し、必要に応じて適切なアンカーを見つけていくとよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7189,11 +7196,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -9418,6 +9425,8 @@
 - 一次情報の探し方：
   - 「Competitor Analysis and Profiling」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Competitor Analysis and Profiling」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
+  - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
   - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -9429,26 +9438,30 @@
   - 「www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「TR2005-01.pdf. Accessed June 6, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
   - 「ACH is especially valuable because it is designed to reduce confirmation bias. It does not promise certainty. It gives teams a disciplined way to compare alternative explanations, expose assumptions, and decide what they need to monitor next.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「Reduces confirmation bias.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「8. Common Pitfalls and How to Avoid Them」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「A key assumptions check is often a useful precursor to ACH. It surfaces the beliefs the team is taking for granted, which makes it easier to define better hypotheses and spot where bias may be shaping interpretation.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「Yes. It remains highly relevant for ambiguous decisions where multiple explanations are plausible and bias is a real risk. Most modern teams use it more selectively and more lightly than intelligence agencies once did, but the core logic is still very strong.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
+  - 「(1999). It is the most robust operational countermeasure against the cognitive biases — confirmation bias, anchoring, satisficing, mirror imaging — that produce the majority of analytical failures. Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「ACH is effective against specific cognitive biases:」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「— the bias taxonomy ACH is designed to mitigate」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「Reduces confirmation bias by simultaneously testing every plausible explanation.」（https://olivlaw.com/en/us/learning/methodology/ach）
+  - 「8. Common Pitfalls and How to Avoid Them」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
+  - 「Letting bias shape interpretation.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
   - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「tive biases in the intuitive analysis that occurs」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 実例：
   - 「Business Case Development」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
   - 「6. Example: Analysis of Competing Hypotheses in Action」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Example (2014 Crimea):」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「"70% probability" should actually happen in 70% of cases.」（https://olivlaw.com/en/us/learning/methodology/ach）
+  - 「Business Case Development」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
+  - 「A team usually starts with two to four scenarios or a handful of high-stakes assumptions. For each one, it identifies the developments that would distinguish that future from the alternatives. If management believes a regulation-led market shift is possible, for example, the signposts might include draft legislation, subsidy programs, enforcement patterns, or competitor capital commitments.」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
+  - 「6. Example: Signposts and Indicators Analysis in Action」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/signposts-and-indicators-analysis/）
   - 「ous foresight examples would be in monitoring」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
@@ -9457,11 +9470,6 @@
   - 「of the competing hypotheses. Should this be the case, the analyst would either need to collect」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「regarding the analysis. For example, if this analysis indicates that the economy has not stabi-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「main question. For example, the original question “Which industries and tribal groups are」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「example, given that the assumption check revealed that the evidence did, indeed, support the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「For example, imagine there are three main industries in country x, automotive, textile and min-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「enough information to answer a question. In the above example, it is entirely possible that data」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「SACH Case Study: Ghana Telecommunications」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 
 ## フェルミ推定の結果を既知の統計の総量と照らして仮定を直す手順（分解を終えてから数を入れる・クロス・マーケティング等の調査会社の解説）（Fermi estimation sanity check against known statistics revise assumptions market research firm）
 - 文脈：推定
@@ -9923,6 +9931,15 @@
   - 「It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://github.com/Quartz/bad-data-guide）
   - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don’t know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「Just as all investigations need a process that works for everyone, so do data investigations. Knowing the process can help editors ask the right questions and backstop reporters. It’s also important (and helpful to the overall story) for all team members to understand the methodology, regardless of whether they’ll be working with the data.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
+  - 「If you’re an editor who doesn’t use programming, you should still make sure scripts contain comments, explaining what the code does, so that another person could follow along and understand your reporter’s data and methodology.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
+  - 「Check with experts from different sides of the issue about your methods and your findings.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
+  - 「, but if you need to do a more complex analysis, here are some suggestions to help you figure out the best methodology:」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
+  - 「Find an expert to vet your methodology. Many are happy to help, especially once they realise you’re interested in doing a serious analysis. When the Dallas Morning News」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
+  - 「Show findings to the targets of the story. We’re not suggesting sharing your story, but you should put together a findings document or presentation that you can share with the targets of the story. This helps bulletproof your methodology by surfacing any problems that may exist (or variables you didn’t consider) before publication.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
 - 突き合わせ・推定：
   - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
   - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.」（https://github.com/Quartz/bad-data-guide）
@@ -9930,6 +9947,9 @@
   - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「Beware any data that purport to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
 - 一次情報の探し方：
   - 「A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got」（https://github.com/Quartz/bad-data-guide）
   - 「. However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://github.com/Quartz/bad-data-guide）
@@ -9937,6 +9957,10 @@
   - 「A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you’ve got」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「. However, if you have Adobe Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「<li><a href="https://github.com/Quartz/bad-data-guide#data-are-in-a-pdf">Data are in a PDF</a></li>」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
 - 失敗・落とし穴：
   - 「You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://github.com/Quartz/bad-data-guide）
   - 「is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://github.com/Quartz/bad-data-guide）
@@ -9946,6 +9970,12 @@
   - 「is one very common mistake.) If you find those, you can be pretty sure the data was compiled or edited by hand and that is always a reason to be skeptical of it. Data that has been edited by hand is the most likely to have mistakes. This doesn’t mean you shouldn’t use it but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn’t mean you shouldn’t use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「<li><a href="https://github.com/Quartz/bad-data-guide#sample-is-biased">Sample is biased</a></li>」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「jury strikes, one of the leading experts on bias in jury selection reviewed all of the reporting teams’ findings.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
 - 実例：
   - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
   - 「may be represented in another way. For example a false」（https://github.com/Quartz/bad-data-guide）
@@ -11245,6 +11275,7 @@
   - 「「回答内容はすべて統計的に処理され、個人が特定されることはない」といった点をはっきりと言葉にしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
 - 失敗・落とし穴：
   - 「「回答した人」と「回答しなかった人」のあいだに、属性や意識の違いが存在するという非回答バイアスが生じるリスクが高まります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「スクリーニング調査とは？注意点や設問例、メリット・デメリットを解説」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
 - 実例：
   - 「社会調査とは、社会における様々な現象や問題について、客観的なデータを集め、その分析結果から社会実態への理解を深める活動です」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「こうして得られた客観的な分析結果は、より適切な意思決定を行う「地図」のような役割を果たします」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
@@ -11799,16 +11830,16 @@
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
