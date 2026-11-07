@@ -3484,6 +3484,7 @@
   - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
+  - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3498,7 +3499,6 @@
   - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -8621,38 +8621,39 @@
 ## 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法（national statistics revisions analysis vintages methodological change period uncertainty）
 - 文脈：推定
 - 手順・やり方：
-  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
 - 突き合わせ・推定：
-  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「, annualized quarterly GDP growth is initially underreported by about half a percentage point. Ideally, this measurement error would be zero. Instead, these revisions suggest that the economy is typically stronger than it initially appears. For example, the initial estimate of second quarter GDP in 2025 came in at 3.0 percent and was revised upward in the final estimate to 3.8 percent.」（https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01）
-  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「However, the relative mean absolute revision (RMAR), which takes into account the revision to GDP in relation to the size of the initial estimate of growth, shows that the latest periods do not differ much from the pattern seen over the past three decades.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「As we first identified last year, there is some evidence that revisions are marginally statistically significant when looking at the final quarterly estimate of GDP across the entire time span from Quarter 2 1961 to Quarter 4 (Oct to Dec) 2024, compared with first estimates.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Revisions of estimates of UK gross domestic product (GDP)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「There is a trade-off between the timeliness and accuracy of estimates of gross domestic product (GDP). As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle can take up to three years and naturally leads to revisions in our estimates of GDP. Our article on」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP can be seen in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Figure 1 shows the revisions to estimates of the quarterly change in real gross domestic product (GDP) as part of implementing our annual national accounts.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「The x-axis refers to that Blue Book publication, reflecting the mean absolute revision (MAR) to quarterly volume estimates of GDP from Quarter 1 1997 onwards. Blue Book 2024 was an exception as there was not a fully open revisions period as part of this update of the UK National Accounts. The MAR only covers the period from Quarter 1 2020 to Quarter 2 2024.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「We can use our first estimate of quarterly GDP to compare with one that is published months later. Our focus is on those estimates published 3 months and 36 months after the first estimate of quarterly GDP, reflecting the three-year production cycle of UK GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Table 1 shows that the MR is a little higher when comparing the first published quarterly estimate with the estimate published three years later. This analysis continues to show that while initial revisions (t plus 3 months) are not」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 - 一次情報の探し方：
+  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
@@ -8667,8 +8668,13 @@
   - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
 - 失敗・落とし穴：
+  - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Some revisions correct mistakes. Many do not.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Bias in revisions can reveal a systematic early-estimate problem」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「scale changes are mistaken for economic change.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
   - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
@@ -8678,24 +8684,24 @@
   - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
 - 実例：
-  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
-  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「. The numerical examples below are illustrative, not claims about current economic data.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A second worked example: sign reversal」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Eurostat revision-policy, vintage and national-accounts materials were checked for this edition on 5 September 2026. Numerical examples are original and hypothetical.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Choose a familiar Primary Science example. Explain the evidence, the idea and the result without notes. Then change one condition and explain your prediction.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「from time series data. Finally, we illustrate with a detailed example」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「Examples of benchmark revisions in Swiss GDP」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「For example: \( y_1^t \) is the estimate available at time \( t \) of」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「examples using GDP revision data.」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「Example 1: Revisions Using an Interval」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「The most common use case is to analyze how reported values evolve」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「Example 2: Revisions Relative to a Fixed Reference Date」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+  - 「Example 3: Revisions to the Nth Release」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
+- 検索結果の抜粋：
+  - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 
 ## アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）（survey bias checklist by process mode effect sampling reach）
 - 文脈：裏取り
@@ -9223,11 +9229,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
