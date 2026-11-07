@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-07T17:56:27.439157+00:00",
+ "researched_at": "2026-11-07T23:26:25.721030+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -26,6 +26,256 @@
    {
     "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
     "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Frameworks for lasting change",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is a separate reporting surface and also needs its own dates and methodology understood.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Understand Tessera’s historical portfolio simulations: dated factor inputs, portfolio rules, price and dividend conventions, costs, and known methodological limits.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Research Methods & Statistics",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A comparative analysis of survivorship bias against other critical data and methodological flaws that distort backtesting performance metrics.",
+    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and tests them on a subsequent out-of-sample period to simulate live deployment. This method helps detect survivorship bias by forcing the strategy to adapt to changing market compositions. The process creates multiple",
+    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Static pool (cohort) method:",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and survival methods handle censoring properly. For experiments, analyse everyone assigned rather than everyone remaining, which is intent-to-treat and is the same discipline applied to a different exit.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.",
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "See real world examples",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 – Financial Systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 – Medical Research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 - Financial systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 - Medical research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The example endures because it isolates the mechanism so cleanly: the selection process (which planes return to be inspected) is correlated with the very outcome being studied (which parts of a plane can absorb damage), and the missing cases are not a random, ignorable subset — they are the most informative cases in the whole population, and they are the ones nobody gets to examine.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Ask what the full set of cases looked like before whatever filter (survival, success, continued participation, still being in business) was applied, rather than starting the analysis from the filtered set already in hand.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Even partial information about eliminated cases (cause of exit, timing, baseline characteristics) can reveal whether the elimination process was related to the outcome under study, similar to how a",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Run a sensitivity check on what the unobserved cases might look like.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Even without full data on the non-survivors, stating an explicit assumption about them (best case, worst case, and a plausible middle case) and checking whether the conclusion survives that range is more honest than treating the surviving sample as the whole story.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Historical mutual fund and hedge fund performance databases that include only currently-operating funds are a widely cited example: funds that closed or were liquidated, disproportionately the worst performers, are absent from the average return calculation, which overstates what an investor holding a random fund from that period could actually have expected to earn.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the longitudinal-dropout-specific case, and the",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -603,270 +853,20 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Frameworks for lasting change",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Another method to prevent survivorship bias, specifically in your work and research, is to be selective of the data sources used. By ensuring data sources are crafted to promote accuracy and do not omit critical observations that would change analysis results or decision-making, individuals can reduce the risk of survivorship bias.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Incorporating rich data sets and employing rigorous evaluation methods may mitigate the effects of survivorship bias on AI software. However, artificial intelligence is an ever-growing field and widespread use can cause multiple companies to pitch the next big advancement. While technological progress is exciting, pumping out software too quickly could lead to oversight.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This article explores the challenges faced by start-ups when they are venturing into new and unfamiliar territory. When it's time to consider a strategy shift, cognitive biases can creep in to promote fast and efficient decision-making. However, fast doesn’t always equate to better choices being made, sometimes failure to consider alternatives and “going with our gut” can lead to serious missteps.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias - Overview, Impact, and How to Prevent. (2020, May 15). Retrieved from https://corporatefinanceinstitute.com/resources/knowledge/other/survivorship-bias/",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is a separate reporting surface and also needs its own dates and methodology understood.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Understand Tessera’s historical portfolio simulations: dated factor inputs, portfolio rules, price and dividend conventions, costs, and known methodological limits.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Research Methods & Statistics",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A comparative analysis of survivorship bias against other critical data and methodological flaws that distort backtesting performance metrics.",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and tests them on a subsequent out-of-sample period to simulate live deployment. This method helps detect survivorship bias by forcing the strategy to adapt to changing market compositions. The process creates multiple",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Static pool (cohort) method:",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and survival methods handle censoring properly. For experiments, analyse everyone assigned rather than everyone remaining, which is intent-to-treat and is the same discipline applied to a different exit.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.",
-    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "See real world examples",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 – Financial Systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 – Medical Research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 - Financial systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 - Medical research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The example endures because it isolates the mechanism so cleanly: the selection process (which planes return to be inspected) is correlated with the very outcome being studied (which parts of a plane can absorb damage), and the missing cases are not a random, ignorable subset — they are the most informative cases in the whole population, and they are the ones nobody gets to examine.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Ask what the full set of cases looked like before whatever filter (survival, success, continued participation, still being in business) was applied, rather than starting the analysis from the filtered set already in hand.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even partial information about eliminated cases (cause of exit, timing, baseline characteristics) can reveal whether the elimination process was related to the outcome under study, similar to how a",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Run a sensitivity check on what the unobserved cases might look like.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even without full data on the non-survivors, stating an explicit assumption about them (best case, worst case, and a plausible middle case) and checking whether the conclusion survives that range is more honest than treating the surviving sample as the whole story.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Historical mutual fund and hedge fund performance databases that include only currently-operating funds are a widely cited example: funds that closed or were liquidated, disproportionately the worst performers, are absent from the average return calculation, which overstates what an investor holding a random fund from that period could actually have expected to earn.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", the longitudinal-dropout-specific case, and the",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/login",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://note.com/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://note.com/todd547/n/nf06d432f2d9b",
@@ -879,12 +879,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ore_ore/n/n44a250debaba",
+    "url": "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zz08/n/ne7f0598dcc83",
+    "url": "https://note.com/ore_ore/n/n44a250debaba",
     "status": "ok",
     "method": "http"
    },
@@ -954,13 +954,13 @@
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） site:note.com",
    "results": [
-    "https://note.com/",
     "https://note.com/login",
+    "https://note.com/",
     "https://note.com/todd547/n/nf06d432f2d9b",
     "https://note.com/fond_jacana2921/n/n731cabf0b781",
+    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
     "https://note.com/ore_ore/n/n44a250debaba",
-    "https://note.com/zz08/n/ne7f0598dcc83",
-    "https://note.com/k_abe_raxus/n/n9bfc1aabc922"
+    "https://note.com/zz08/n/ne7f0598dcc83"
    ],
    "engines": [
     "ddgs:google"
@@ -979,7 +979,7 @@
     "https://inet-sec.co.jp/column/20261029-95/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -995,7 +995,7 @@
     "https://inet-sec.co.jp/column/20261029-95/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1024,18 +1024,31 @@
     "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias",
     "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
     "https://rusakamarkets.com/resources/point-in-time-backtesting-research-paper",
-    "https://hessianresearch.com/notes/point-in-time-data-and-the-shapes-lookahead-takes/"
+    "https://hessianresearch.com/notes/point-in-time-data-and-the-shapes-lookahead-takes/",
+    "https://centralconcepts.org/en/concepts/survivorship-bias/",
+    "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/causal-inference-in-markets/survivorship-bias"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
+   "results": [
+    "https://note.com/",
+    "https://note.com/ore_ore/n/n44a250debaba",
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
+    "https://note.com/major_duck1729/n/n1425d76ac17b",
+    "https://note.com/tokushima_10940/n/n47a17e03aeea",
+    "https://note.com/magic_cosmos1054/n/nf65d16b74878"
    ],
    "engines": [
     "ddgs:bing"
    ],
    "n_hits": 7
-  },
-  {
-   "query": "site:note.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
   },
   {
    "query": "site:x.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
@@ -1049,7 +1062,7 @@
     "https://x.com/dcl_tt0323/status/2032014879788236814"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1081,7 +1094,7 @@
     "https://www.facebook.com/adobeacrobat/videos/まずはacrobatを無料体験/1673311500981047/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1094,12 +1107,14 @@
     "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
     "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
     "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://inet-sec.co.jp/column/20261029-95/"
+    "https://inet-sec.co.jp/column/20261029-95/",
+    "https://www.ibm.com/docs/ja/cognos-analytics/11.2.x?topic=metrics-how-metric-data-is-gathered"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） X 投稿",
@@ -1113,7 +1128,7 @@
     "https://www.ibm.com/docs/ja/cognos-analytics/11.2.x?topic=metrics-how-metric-data-is-gathered"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1135,284 +1150,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias: When Only the Winners Get Studied",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Beyond the Bomber: Where Survivorship Bias Shows Up in Research and Business",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A database of mutual funds or hedge funds that includes only currently-operating funds omits the funds that closed, merged, or were liquidated — disproportionately the worst performers. Average historical returns calculated from a survivorship-biased database overstate what an investor could actually have expected, because the losers have been quietly removed from the denominator.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How Survivorship Bias Differs From Attrition Bias",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How Survivorship Bias Differs From the Healthy Worker Effect",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How Survivorship Bias Differs From Non-Response Bias",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Detecting and Mitigating Survivorship Bias",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Is survivorship bias the same thing as selection bias?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is a specific type of",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How is survivorship bias different from attrition bias?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias in Backtesting: Definition & Mitigation | Inference Systems",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What Is Survivorship Bias?",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Core Characteristics of Survivorship Bias",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Index Composition Bias",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survivorship-biased sample",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is particularly pernicious in",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Quantifying the Bias Magnitude",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Academic research demonstrates that survivorship bias adds approximately",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "to backtested US equity returns, with larger effects in small-cap universes and emerging markets where delisting rates are higher. The bias is",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Addressing the most common questions about how survivorship bias distorts backtesting results and the engineering practices required to eliminate this silent portfolio killer from quantitative research pipelines.",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is survivorship bias in backtesting?",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is a",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "upwardly biased performance picture",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", often by 20-40% in equity strategies and even more dramatically in credit or distressed asset universes. The bias is particularly pernicious because it compounds over longer backtesting horizons, as the cumulative probability of failure increases with time.",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "How does survivorship bias affect Sharpe ratio calculations?",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Research Methods & Statistics",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A comparative analysis of survivorship bias against other critical data and methodological flaws that distort backtesting performance metrics.",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and tests them on a subsequent out-of-sample period to simulate live deployment. This method helps detect survivorship bias by forcing the strategy to adapt to changing market compositions. The process creates multiple",
-    "url": "https://inferensys.com/glossary/quantitative-finance-and-algorithmic-trading/backtesting-engine-architecture/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The example endures because it isolates the mechanism so cleanly: the selection process (which planes return to be inspected) is correlated with the very outcome being studied (which parts of a plane can absorb damage), and the missing cases are not a random, ignorable subset — they are the most informative cases in the whole population, and they are the ones nobody gets to examine.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Ask what the full set of cases looked like before whatever filter (survival, success, continued participation, still being in business) was applied, rather than starting the analysis from the filtered set already in hand.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even partial information about eliminated cases (cause of exit, timing, baseline characteristics) can reveal whether the elimination process was related to the outcome under study, similar to how a",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Run a sensitivity check on what the unobserved cases might look like.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even without full data on the non-survivors, stating an explicit assumption about them (best case, worst case, and a plausible middle case) and checking whether the conclusion survives that range is more honest than treating the surviving sample as the whole story.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Historical mutual fund and hedge fund performance databases that include only currently-operating funds are a widely cited example: funds that closed or were liquidated, disproportionately the worst performers, are absent from the average return calculation, which overstates what an investor holding a random fund from that period could actually have expected to earn.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", the longitudinal-dropout-specific case, and the",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-06T17:25:05.206776+00:00"
 }

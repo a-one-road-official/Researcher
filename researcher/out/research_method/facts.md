@@ -2223,12 +2223,12 @@
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の官報掲載ガイド｜費用・手順・申込みを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告の官報掲載を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -3435,7 +3435,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -6872,24 +6872,62 @@
 ## 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）（competitor revenue filed stated estimated two methods disagree factor of two customer count）
 - 文脈：手順・やり方
 - 手順・やり方：
-  - 「Revised language to clarify how to apply a taxpayer’s shared percentage of household income to standard expense allowances, revised example.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「If the vehicles are not owned jointly, the liable taxpayer would be allowed actual expenses paid for the vehicle they own. The percentage method can be applied if two vehicles are jointly owned, but the maximum expense allowed for the liable taxpayer will be the standard amount for one vehicle.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Revenue Officers may request FATCA data research on their assigned taxpayer case. To find out how to access FATCA data, see IRM 5.1.18.21 , FATCA Research.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「See IRM 5.1.18.22.1,Access to CKGE, for guidance on how to gain access to CKGE.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「To determine the value of closely held stock that is either not traded publicly or for which there is no established market, consider the following methods of valuing the company and assign a proportion of the company's value to the taxpayer's stock:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Credit cards are generally considered a method of payment, rather than a specific expense. A taxpayer may be paying for necessary living expenses using cash or a credit card, e.g. food, clothing, gas, etc. Consequently, payments for the portion of the credit card debt reflecting necessary living expenses are provided for as allowable expenses under the national and local standards.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「- Depreciation is a method to deduct the purchase price or basis of an asset over its useful life.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「When determining equity in real estate, FMV of the property must be established. FMV is defined as the price a willing buyer will pay for the property in an arm’s length transaction with full knowledge of the relevant facts based on the property's current condition and use. The following methods may be used to establish FMV:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
+  - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Sanity-check with a second method」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Run headcount times revenue per employee for the same company. If the two methods disagree by more than roughly a factor of two, one of your assumptions is wrong and it is usually the customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to verify a competitor revenue figure」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「how to find a competitor’s customers」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to keep competitor revenue figures current」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to automate competitor revenue tracking」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Build it bottom-up: a verified average price multiplied by an estimated customer count, both of which are obtainable from the public sources covered above. Then run a second, independent method and compare. Two rough methods that agree are far more trustworthy than one precise-looking number from a database, and when they disagree the gap tells you which assumption to attack first.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to Estimate a Shopify Competitor's Revenue in 2026: A Practical Guide」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
+  - 「Uncover the data-driven methods for estimating Shopify store earnings and validating market demand in the current e-commerce landscape.」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
 - 突き合わせ・推定：
-  - 「Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「When the taxpayer will liquidate the retirement plan, allow any penalty for early withdrawal and the current year tax consequence. Consider requiring the taxpayer to submit an estimated tax payment as applicable.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
+  - 「App store revenue estimates」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Mark each number Filed, Stated or Estimated. A report that mixes an audited figure with a model and prints both in the same font is worse than no report at all.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「A raise usually comes with a press release, and often with a growth claim attached. The raise amount itself is not revenue, but it bounds the burn they can sustain, and the valuation sometimes implies a revenue multiple if the round is discussed in the trade press. Useful as a cross-check, never as the figure.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「The two ways to build an estimate yourself」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Estimates somebody else already built」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Data provider estimates.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「App store revenue estimates.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「You already know something no database does: how often you meet them, and how often they win. If you compete in 200 deals a year and they take 60 of them, you can size their revenue in your segment directly from your own average contract value. It is the narrowest estimate on this list and frequently the most decision-useful, because it is scoped to the market you actually sell in.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Write Filed, Stated or Estimated next to every number, every time. This single habit does more for the credibility of a competitive report than any amount of extra research.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Do not publish an estimate in a way that implies it is audited. Stating a modelled figure as fact about a named company is a reputational and, in some jurisdictions, a legal risk.」（https://www.flares.tech/sources/competitor-revenue）
 - 一次情報の探し方：
-  - 「If appropriate consult with a Field Insolvency caseworker to review Schedules, Statement of Financial Affairs, Statement of Monthly Income and Means Test Calculation, and Other Court Documents such as motions, pleadings or filings from third parties.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Partnership Income is allocated to the partners based upon the percentages specified in the partnership agreement by filing Form 1065, U.S. Return of Partnership Income, with associated Schedule K-1s, Partner’s Share of Income, Deductions, Credits, etc. Schedule K-1 income is in turn reported on the partners’ income tax returns.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「An LLC is organized as a distinct legal entity under state law by filing articles of organization or a similar document with a designated state official.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Consider filing a notice of federal tax lien. See IRM 5.12, Federal Tax Liens.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Notice how the reliability column collapses toward the bottom. That is not a flaw in the research, it is the actual shape of the problem: outside a filing obligation, nobody knows a private company’s revenue except the company.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Re-check on their filing calendar」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filing obligations, thresholds and the level of detail vary by country and by company size, and small companies can often file abridged accounts that omit the profit and loss statement. But the accounts themselves are public, searchable, and free or nearly free in most jurisdictions.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filed accounts, free. Employee numbers are a mandatory disclosure even in abridged small-company filings.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Published annual financial statements for companies above the filing thresholds.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「A brand often trades through several legal entities, each filing separately. Search the register for the operating entity name from the footer of their website or their terms of service, and check whether a group parent files consolidated accounts. Using one national subsidiary’s revenue as the whole company is one of the most common errors in this work.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「publish varies enormously by jurisdiction, and so does how old a perfectly compliant filing is allowed to be.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filed accounts often cover a fiscal year ending mid-calendar, and a European filing is in euros or pounds. Converting at today’s rate rather than the period average quietly moves the number.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Company registers and regulatory filings exist precisely so that anyone can read them. Reading them, downloading them and republishing figures from them with attribution is entirely legitimate. The constraints are narrow and worth stating plainly.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Revenue data arrives on a schedule, which makes it one of the easier things to keep fresh: set the review for when the next accounts or quarterly report is actually due rather than an arbitrary date. Between filings, the things that move your estimate are」（https://www.flares.tech/sources/competitor-revenue）
+  - 「So the job to automate here is not the number but the events between filings. That is what a」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Flares watches funding news, filings and public claims, then tells you which ones change the picture.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「For a listed company, yes, exactly: audited revenue appears in its quarterly and annual filings. For a private company it depends entirely on where it is incorporated. In most of Europe private companies must file annual accounts that become public, so the answer is often yes there too. In the US, a private company has no general obligation to publish revenue, so anything you find is an estimate.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「SEC EDGAR for US-listed companies, the national business register for private European companies (Companies House in the UK, the Bundesanzeiger in Germany, and the equivalents reachable through the EU's business-registers portal), and the company's own investor page. All are free. The paid databases mostly resell and model on top of these same filings.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.」（https://www.flares.tech/sources/competitor-revenue）
+- 失敗・落とし穴：
+  - 「Estimating a Shopify competitor's revenue sounds like guesswork — and without the right signals, it usually is. But in 2026, the combination of traffic intelligence platforms, ad library data, and public financial disclosures makes a tight approximation genuinely achievable. The mistake most brands make is treating any single data source as ground truth.」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
 - 実例：
+  - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「competitor ad research use case」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
+  - 「use case covers how to frame these conversations productively.」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
+  - 「workflow to systematically observe publicly disclosed ad data is not just legal — it's the intended use case. The platforms built these tools for exactly this purpose.」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
+  - 「to observe and analyze this data is the intended use case. What is not legal: scraping checkout flows, using fake purchases for intelligence gathering, or accessing any system that requires credentials you don't own. Publicly visible ad data is always fair game.」（https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide）
   - 「Reformatted examples of expense verification to bullets.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Revised language to clarify how to apply a taxpayer’s shared percentage of household income to standard expense allowances, revised example.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Updated figures in examples.」（https://www.irs.gov/irm/part5/irm_05-015-001）
@@ -6899,13 +6937,6 @@
   - 「Form 433-F cannot be used for Offer-in-Compromise cases or for cases designated as Abusive Tax Avoidance Transactions (ATAT).」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Substantiation can consist of credible verbal communication or written documentation received from the taxpayer. Both types of substantiation should be thoroughly documented in the case history.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Taxpayer's income dropped significantly from the prior year and taxpayer explains that he went through a divorce and is no longer claiming two incomes. Verbal substantiation supporting the drop in income should be documented in the case history.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Document the case file accordingly. Examples of items that may be requested for substantiation of expenses over the standard or to verify other necessary expenses include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「If a Collection employee and taxpayer disagree about an economic hardship determination, the taxpayer should be referred to the Taxpayer Advocate Service. See IRM 13.1.7.2, Introduction to TAS Case Criteria.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Explain the Offer in Compromise provisions. In cases where an Offer in Compromise appears to be a viable solution to a tax delinquency, the IRS employee assigned the case will discuss the compromise alternative with the taxpayer and, when necessary, assist in preparing the required forms. See IRM 5.8.1, Offer In Compromise, Overview.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Identify assets which can be pledged as security (For example, equipment or accounts receivable that may be factored.)」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「In some cases, payments on expense items are not due in regular monthly increments. Average necessary living expense items with varying monthly payments over 12 months.」（https://www.irs.gov/irm/part5/irm_05-015-001）
-  - 「Examples of questions to ask business taxpayers include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方
@@ -11648,11 +11679,11 @@
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）（structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND）
 - 文脈：手法・偏り
@@ -11771,6 +11802,7 @@
   - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
   - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -11787,7 +11819,7 @@
   - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
 
 ## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
 - 文脈：手法・偏り

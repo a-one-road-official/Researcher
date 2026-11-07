@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-07T17:51:55.591921+00:00",
+ "researched_at": "2026-11-07T23:21:13.150784+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -32,104 +32,6 @@
    {
     "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
     "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "They mean \"no basis to judge yet\". E and 5 are the negative grades. Treating F6 as \"unreliable, false\" throws away leads; treating it as \"probably fine\" invites mistakes. It means: do the work.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Objectivity and Bias:",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "– how dependable the source is based on past performance, access to information, and known biases.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5. Consider the Source’s Motivation and Bias",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Can I identify any potential bias?",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. Beware of Confirmation Bias",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -473,6 +375,104 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "They mean \"no basis to judge yet\". E and 5 are the negative grades. Treating F6 as \"unreliable, false\" throws away leads; treating it as \"probably fine\" invites mistakes. It means: do the work.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Objectivity and Bias:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "– how dependable the source is based on past performance, access to information, and known biases.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Consider the Source’s Motivation and Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Can I identify any potential bias?",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Beware of Confirmation Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -514,17 +514,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.neco.navy.mil/necoattach/N0038326QLA56.pdf",
+    "url": "https://www.neco.navy.mil/necoattach/N0038327QMA20.pdf",
     "status": "network_error:SSLError",
     "method": "pdf"
    },
    {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
+    "url": "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -534,7 +529,17 @@
     "method": ""
    },
    {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "status": "http_403",
     "method": "http"
    },
@@ -542,11 +547,6 @@
     "url": "https://www.neco.navy.mil/necoattach/N0010426QYA110002.pdf",
     "status": "network_error:SSLError",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "status": "http_403",
-    "method": "http"
    },
    {
     "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
@@ -559,22 +559,17 @@
     "method": ""
    },
    {
-    "url": "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/13733661",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
+    "url": "https://trexlabel.com/ja/glossary/450/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
     "status": "ok",
     "method": "http"
    },
@@ -587,6 +582,16 @@
     "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
@@ -605,16 +610,16 @@
    },
    {
     "url": "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
     "status": "ok",
     "method": "http"
    }
@@ -641,14 +646,14 @@
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note",
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://www.neco.navy.mil/necoattach/N0038326QLA56.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
+    "https://www.neco.navy.mil/necoattach/N0038327QMA20.pdf",
+    "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
+    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8"
+    "https://www.worldoftest.com/ja/print/pdf/node/5638",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ],
    "engines": [
     "yahoo_jp"
@@ -659,14 +664,14 @@
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） やり方",
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://www.neco.navy.mil/necoattach/N0010426QYA110002.pdf",
     "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
+    "https://www.neco.navy.mil/necoattach/N0010426QYA110002.pdf",
+    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
     "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
     "https://mbgd.nibb.ac.jp/htbin/MBGD_funccat_html.pl?name=fsu:FISUC_RS08955",
-    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
-    "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
-    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/13733661"
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/13733661",
+    "https://trexlabel.com/ja/glossary/450/"
    ],
    "engines": [
     "yahoo_jp"
@@ -678,12 +683,12 @@
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
     "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
-    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
+    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
-    "https://www.nids.mod.go.jp/publication/commentary/commentary350.html"
+    "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -698,14 +703,14 @@
     "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
     "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
     "https://en.wikipedia.org/wiki/Admiralty_code",
-    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://kravensecurity.com/source-reliability-and-information-credibility/",
     "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -722,7 +727,7 @@
     "https://note.com/ibdginza/n/n3b7073d4cae7"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -735,12 +740,15 @@
     "https://x.com/Gonzale93184107/status/2104782468645527714",
     "https://x.com/JASDF_PAO/status/1158295719079366656",
     "https://x.com/grok/status/2098669509930267082",
-    "https://x.com/mutamana/status/2098031046625571167"
+    "https://x.com/mutamana/status/2098031046625571167",
+    "https://x.com/nakajimeeee/status/2072092109176484220",
+    "https://x.com/FLIGHTNZ/status/2035735523671802294"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:linkedin.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
@@ -770,7 +778,7 @@
     "https://www.facebook.com/trans.nation.tours/posts/ブラーヌカントナックメドック格付け2級マルゴーマルゴー地区にありメドック格付け2級のシャトーブラーヌカントナックはボルドーで最も有名なワインの造り手一族であるリ/368430722609525/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -778,13 +786,13 @@
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note 社長",
    "results": [
     "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.neco.navy.mil/necoattach/N0010426QAD13.pdf",
+    "https://www.neco.navy.mil/necoattach/N0038327QSA02.pdf",
     "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
     "https://sentry-magazine.com/ja/%E6%88%A6%E7%95%A5%E7%9A%84%E5%8D%94%E5%8A%9B%E9%96%A2%E4%BF%82-%E3%81%AE%E5%BC%B7%E5%8C%96/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
+    "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
     "https://www.youtube.com/watch?v=wemj_F_EtXI"
    ],
    "engines": [
@@ -795,15 +803,15 @@
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） X 投稿",
    "results": [
-    "https://www.se.com/articles/ja/Knowledge/FA53475?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
+    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://milterm.com/archives/4831",
     "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
-    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
     "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
+    "https://accuristech.com/ja/blog/defense-supply-chain-intelligence-trust/",
     "https://www.coinex.zone/ja/academy/2882/related-articles",
-    "https://jp.linkedin.com/pulse/brief-notes-nato-architecture-framework-naf-sergio-alvar%C3%A9-pel%C3%A1ez-kqnjf?tl=ja"
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://jpsec.ai/adversarial-attacks-and-defense-on-texts-a-survey03/"
    ],
    "engines": [
     "yahoo_jp"
@@ -825,16 +833,16 @@
     "https://pe.linkedin.com/pulse/trust-your-gpt-verify-how-osint-analysts-can-outwit-crowden-cco-ccpa-j3b0e"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T09:11:14.119716+00:00"
 }

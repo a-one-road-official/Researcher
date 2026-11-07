@@ -8,95 +8,95 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-07T17:28:13.579272+00:00",
+ "researched_at": "2026-11-07T23:19:41.489957+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "手順・やり方": [
    {
-    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "quote": "Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ただし、今回の実機検証はWindows版です",
+    "quote": "複数Botに仕事を分ける「Swarm」の引き継ぎ手順",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Bot作成から計算・修正・週次報告までの実行記録を掲載していますが、確認依頼の下書き作成そのものは今回の実機検証の対象外です",
+    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "いずれも教材用の演習と完成例で、Grok Botでの実機検証はまだ行っていません",
+    "quote": "Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実機検証済みなのは、2026年9月5日、記事制作者のWindows環境で、CodexのComputer UseによりGrok Botを操作した部分です",
+    "quote": "ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実際の返答を「実機検証」の章へ転記しています",
+    "quote": "これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "quote": "第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "画面が小さくても、数値や操作名は本文で照合できるようにしています",
+    "quote": "スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "解答と照合することで、読者自身が確認の観点を身に付けるためのものです",
+    "quote": "そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "人が元資料と照合できる成果になったかを基準にします",
+    "quote": "プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください",
+    "quote": "起動後の「Get started」からCursorアカウントで認証する（公式手順）",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "重要なのは量よりも、矛盾がないことです",
+    "quote": "保存方法はアプリ版の実画面で確認してください",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です",
+    "quote": "分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "推定が役立つ場面でも、確定情報とは分けて表示させる必要があります",
+    "quote": "Gmailへの接続と、5件だけ読ませる手順",
     "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -194,6 +194,172 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、今回の実機検証はWindows版です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bot作成から計算・修正・週次報告までの実行記録を掲載していますが、確認依頼の下書き作成そのものは今回の実機検証の対象外です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれも教材用の演習と完成例で、Grok Botでの実機検証はまだ行っていません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証済みなのは、2026年9月5日、記事制作者のWindows環境で、CodexのComputer UseによりGrok Botを操作した部分です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際の返答を「実機検証」の章へ転記しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "画面が小さくても、数値や操作名は本文で照合できるようにしています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "解答と照合することで、読者自身が確認の観点を身に付けるためのものです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が元資料と照合できる成果になったかを基準にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要なのは量よりも、矛盾がないことです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定が役立つ場面でも、確定情報とは分けて表示させる必要があります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクが返った段階と、変更が採用された段階は別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認が甘ければ採用率だけ高くなることもあります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "説明欄の禁止事項は作業方針であり、技術的なアクセス権を隔離する設定ではない点に注意してください",
@@ -285,172 +451,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンクが返った段階と、変更が採用された段階は別です",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確認が甘ければ採用率だけ高くなることもあります",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "複数Botに仕事を分ける「Swarm」の引き継ぎ手順",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "起動後の「Get started」からCursorアカウントで認証する（公式手順）",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "保存方法はアプリ版の実画面で確認してください",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Gmailへの接続と、5件だけ読ませる手順",
-    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -512,7 +512,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "url": "https://note.com/tag/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90",
     "status": "ok",
     "method": "http"
    },
@@ -523,8 +523,8 @@
    },
    {
     "url": "https://biz.moneyforward.com/accounting/basic/77802/",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://zenn.dev/datum_studio/articles/21ba0949af8156",
@@ -542,7 +542,7 @@
     "method": "http"
    },
    {
-    "url": "https://crexgroup.com/ja/data/column/market-research-basics/market-analysis-guide/",
+    "url": "https://corp.genialtech.io/ja/column/collation/",
     "status": "ok",
     "method": "http"
    },
@@ -567,14 +567,14 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/accounting/basic/77736/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://kuroco.team/blog-data-rei/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/77736/",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://doc.workday.com/admin-guide/en-us/financial-management/financial-accounting/period-and-year-close/period-close-management/account-reconciliation/check-reconciliation-definition-coverage.html",
@@ -620,14 +620,14 @@
     "https://note.com/black_edge_five/n/n9394bca81a47",
     "https://note.com/oh1ta/n/n6c244fa8d7f9",
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://note.com/yamagishiyuuki/n/n2674666d6251",
-    "https://note.com/ny_bird/n/nc4f2cdbc639e"
+    "https://note.com/ny_bird/n/nc4f2cdbc639e",
+    "https://note.com/yamagishiyuuki/n/n2674666d6251"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 17
   },
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） note",
@@ -637,17 +637,14 @@
     "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
     "https://note.com/opp_int/n/n10ce8c838d40",
     "https://data-viz-lab.com/large-scale-excel-data",
-    "https://note.com/rapid_canna9903/n/n0c7f0a9eab29",
+    "https://note.com/tag/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90",
     "https://note.com/shinu/n/n567c6705ec18",
-    "https://note.com/startup_now0708/n/n7cb89736664c",
-    "https://team-y5.com/fukugyo-sensei/sns-market-reserch-note/",
-    "https://note.com/moritomokyan/n/n8549d50bb719"
+    "https://note.com/startup_now0708/n/n7cb89736664c"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 8
   },
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） やり方",
@@ -657,14 +654,14 @@
     "https://biz.moneyforward.com/accounting/basic/77802/",
     "https://zenn.dev/datum_studio/articles/21ba0949af8156",
     "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://www.youtube.com/watch?v=M611GqFn6ZU",
     "https://developer.celf.biz/questions/16791/",
-    "https://crexgroup.com/ja/data/column/market-research-basics/market-analysis-guide/",
+    "https://corp.genialtech.io/ja/column/collation/",
     "https://xn--8pr380g.com/ja/blog/data-totsugou/",
-    "https://data-viz-lab.com/excel"
+    "https://data-viz-lab.com/excel",
+    "https://a-x.inc/blog/ai-data-matching-automation/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -677,11 +674,11 @@
     "https://xica.net/xicaron/how-does-data-driven-marketing-works/",
     "https://jinbay.co.jp/services/bpo",
     "https://catalog.monex.co.jp/article/?p=62129",
-    "https://biz.moneyforward.com/accounting/basic/77736/",
     "https://kuroco.team/blog-data-rei/",
+    "https://biz.moneyforward.com/accounting/basic/77736/",
     "https://www.giken.co.jp/column/multivariate-analysis-3/",
     "https://kashika-20mile.com/dpro/articles/case-mediaaid-mcp-data-merge/",
-    "https://crexgroup.com/ja/data/column/market-research-basics/market-research-success-cases/"
+    "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/"
    ],
    "engines": [
     "ddgs:google",
@@ -698,13 +695,13 @@
     "https://ofm.wa.gov/accounting/general-ledger-reconciliation/",
     "https://www.highradius.com/resources/Blog/general-ledger-reconciliation/",
     "https://safebooks.ai/gl-reconciliation/",
+    "https://policy.umn.edu/finance/reconciliation",
     "https://www.leapfin.com/blog/general-ledger-to-subledger-reconciliation",
     "https://www.ledge.co/content/how-to-do-general-ledger-reconciliation-with-examples",
-    "https://policy.umn.edu/finance/reconciliation",
     "https://cointab.net/resources/Ledger-Reconciliation-Checklist-Steps-and-Best-Practices"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -744,10 +741,9 @@
     "https://x.com/niramayo2096/status/2081266532001476988"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
@@ -757,9 +753,19 @@
   },
   {
    "query": "site:facebook.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.facebook.com/RaininBlues/",
+    "https://www.facebook.com/slingocasino/",
+    "https://www.facebook.com/matchdata/posts/マッチデータとは複数のデータを突き合わせて分析する手法であり経済学のフロンティアトピックのひとつですマッチデータプロジェクトではこの手法を人材マネジメントに含意/1480591158824132/",
+    "https://www.facebook.com/funnary/posts/データを突き合わせて確認する時にvlookupの次に使えるのがこのexact関数httpswwwpqnavicomreportsview1625/1971880409735752/",
+    "https://www.facebook.com/matchdata/posts/1480597945490120/",
+    "https://www.facebook.com/ootaniishinkara.igakubu.goukaku/posts/生徒とひざを突き合わせてセンターのデータを分析し合格するための/401311670416505/",
+    "https://www.facebook.com/팝켓-101027605528563/videos/popketnews_-持続的な仮想通貨変動性-展望が交錯-投資家は混乱-jp持続する仮想通貨の変動性年末の見通しは食い違うオミクロンの恐怖や中国ハンダグループ/441073874382175/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） note 社長",
@@ -768,15 +774,15 @@
     "https://note.com/shinu/n/n567c6705ec18",
     "https://note.com/taima_mign/n/n782c544314bf",
     "https://www.youtube.com/watch?v=uAkUmCBiuxA",
-    "https://note.com/guken/n/n826d63e4e9e0",
-    "https://agenda-note.com/retail/detail/id=5504",
     "https://note.com/makesira_co",
+    "https://agenda-note.com/retail/detail/id=5504",
+    "https://note.com/guken/n/n826d63e4e9e0",
     "https://www.youtube.com/watch?v=H6YAMk-zS-8",
     "https://note.com/toshiyukishiraki/n/n8b9cbf095ea0",
-    "https://www.fusion.co.jp/news/20251114"
+    "https://note.jp/n/ncc37a1d4aa0b"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -784,19 +790,19 @@
   {
    "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） X 投稿",
    "results": [
+    "https://www.macromill.com/service/words/twitter-to-x/",
     "https://www.mieruka-engine.com/media/twitter-ansys",
-    "https://x.com/marketdata_jp/status/2118607566012027217",
     "https://note.com/autoscript/n/n55ccdb1350d0",
+    "https://x.com/marketdata_jp/status/2118607566012027217/photo/1",
     "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
     "https://www.kolr.ai/jp/info/x-marketing-about/",
     "https://toyokeizai.net/articles/-/731844?display=b",
+    "https://www.youtube.com/watch?v=jQNZ6OSiCDY",
     "https://tatap.jp/knowledge/x-customer-acquisition-case-studies/",
-    "https://support.karte.io/post/6o76U1taJzke2qA9BCzyl3",
-    "https://agenda-note.com/about/id=7523&pno=1",
     "https://x.com/Laki_ideal_life/status/2097132974273962436"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -807,13 +813,13 @@
     "https://www.linkedin.com/pulse/building-golden-source-reduce-bank-reconciliation-efforts-zarikar-gleqf",
     "https://www.linkedin.com/posts/philipp-hellwing-0a9349b6_%F0%9D%97%95%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%AE-%F0%9D%97%98%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6-activity-7513499605385334784-0ayx",
     "https://www.linkedin.com/posts/strategic-digital-reserve-bank_sdrb-reservefi-ors-activity-7518666178018504704-z67_",
-    "https://www.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe",
     "https://www.linkedin.com/posts/drriteshjain_federal-reserve-board-requests-public-comment-activity-7509820570587332608-9LyL",
+    "https://www.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe",
     "https://www.linkedin.com/posts/jdcybertech_jdcybertech-itac-itapplicationcontrols-activity-7520166780842201088-fX5k",
-    "https://www.linkedin.com/pulse/9246m-came-back-week-only-three-companies-earned-leon-eisen-phd-6neke",
     "https://www.linkedin.com/pulse/enterprise-finance-accounting-automation-through-ai-rl-ramachandran-vyrxe",
+    "https://www.linkedin.com/pulse/9246m-came-back-week-only-three-companies-earned-leon-eisen-phd-6neke",
     "https://in.linkedin.com/in/uma-ayyalasomayajula-05930820",
-    "https://www.linkedin.com/posts/s-reddy-34517118a_sap-trm-legacy-data-migration-process-end-to-end-activity-7510639907980075008-JbA8"
+    "https://hk.linkedin.com/in/zap-cheng"
    ],
    "engines": [
     "ddgs:google",
@@ -824,6 +830,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T16:40:00.005343+00:00"
 }

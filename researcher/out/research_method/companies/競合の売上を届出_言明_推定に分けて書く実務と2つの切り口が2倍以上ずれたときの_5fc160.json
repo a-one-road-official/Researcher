@@ -8,55 +8,177 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-07T17:51:32.711428+00:00",
+ "researched_at": "2026-11-07T23:23:45.583717+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When the taxpayer will liquidate the retirement plan, allow any penalty for early withdrawal and the current year tax consequence. Consider requiring the taxpayer to submit an estimated tax payment as applicable.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "If appropriate consult with a Field Insolvency caseworker to review Schedules, Statement of Financial Affairs, Statement of Monthly Income and Means Test Calculation, and Other Court Documents such as motions, pleadings or filings from third parties.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Partnership Income is allocated to the partners based upon the percentages specified in the partnership agreement by filing Form 1065, U.S. Return of Partnership Income, with associated Schedule K-1s, Partner’s Share of Income, Deductions, Credits, etc. Schedule K-1 income is in turn reported on the partners’ income tax returns.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An LLC is organized as a distinct legal entity under state law by filing articles of organization or a similar document with a designated state official.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Consider filing a notice of federal tax lien. See IRM 5.12, Federal Tax Liens.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.",
-    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to find competitor revenue, step by step",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"Bigger or smaller than us\" needs a completely different method from \"what is their ARR to the nearest million\". Most real decisions need the first, and chasing the second is where weeks disappear.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sanity-check with a second method",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Run headcount times revenue per employee for the same company. If the two methods disagree by more than roughly a factor of two, one of your assumptions is wrong and it is usually the customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to verify a competitor revenue figure",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "how to find a competitor’s customers",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to keep competitor revenue figures current",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to automate competitor revenue tracking",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Build it bottom-up: a verified average price multiplied by an estimated customer count, both of which are obtainable from the public sources covered above. Then run a second, independent method and compare. Two rough methods that agree are far more trustworthy than one precise-looking number from a database, and when they disagree the gap tells you which assumption to attack first.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Estimate a Shopify Competitor's Revenue in 2026: A Practical Guide",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Uncover the data-driven methods for estimating Shopify store earnings and validating market demand in the current e-commerce landscape.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide walks through every publicly available signal, explains where each one lies, and shows how to stack them into a working estimate without crossing any ethical or legal lines.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "generates traffic estimates by combining ISP data partnerships, clickstream panels, and web crawls — then applies category-specific conversion benchmarks. That chain of inference introduces compounding error at each step. Understanding this keeps you from over-anchoring on any single number.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Traffic Intelligence Tools and How to Calibrate Them",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The strongest revenue estimates come from stacking three independent proxy methods, then triangulating. Each method has different error modes, so they partially cancel each other out.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 1: Traffic × CVR × AOV",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 2: Ad Spend × Implied ROAS",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the methodology overlaps closely with this step.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 3: Review Velocity × AOV",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When all three methods land in a similar range, your confidence is high. When they diverge significantly, one of your inputs is wrong — and the divergence itself points to which one. See the",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "framework for how to structure the full research session.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "how to spy on competitor ads",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "post covers how to cross-reference these disclosures against ad activity.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "use case covers how to frame these conversations productively.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Revised language to clarify how to apply a taxpayer’s shared percentage of household income to standard expense allowances, revised example.",
     "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
@@ -106,7 +228,245 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Estimating a Shopify competitor's revenue sounds like guesswork — and without the right signals, it usually is. But in 2026, the combination of traffic intelligence platforms, ad library data, and public financial disclosures makes a tight approximation genuinely achievable. The mistake most brands make is treating any single data source as ground truth.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "A defensible estimate whose assumptions you can show and defend",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data provider estimates",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "App store revenue estimates",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Mark each number Filed, Stated or Estimated. A report that mixes an audited figure with a model and prints both in the same font is worse than no report at all.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A raise usually comes with a press release, and often with a growth claim attached. The raise amount itself is not revenue, but it bounds the burn they can sustain, and the valuation sometimes implies a revenue multiple if the round is discussed in the trade press. Useful as a cross-check, never as the figure.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The two ways to build an estimate yourself",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates somebody else already built",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data provider estimates.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "App store revenue estimates.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You already know something no database does: how often you meet them, and how often they win. If you compete in 200 deals a year and they take 60 of them, you can size their revenue in your segment directly from your own average contract value. It is the narrowest estimate on this list and frequently the most decision-useful, because it is scoped to the market you actually sell in.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Write Filed, Stated or Estimated next to every number, every time. This single habit does more for the credibility of a competitive report than any amount of extra research.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Do not publish an estimate in a way that implies it is audited. Stating a modelled figure as fact about a named company is a reputational and, in some jurisdictions, a legal risk.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Estimate a Shopify Competitor's Revenue in 2026: A Practical Guide",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide walks through every publicly available signal, explains where each one lies, and shows how to stack them into a working estimate without crossing any ethical or legal lines.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "generates traffic estimates by combining ISP data partnerships, clickstream panels, and web crawls — then applies category-specific conversion benchmarks. That chain of inference introduces compounding error at each step. Understanding this keeps you from over-anchoring on any single number.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and see that a DTC skincare brand is running 87 active creatives across Meta and TikTok, that is a direct measurement. The number of active ads, the ratio of video to static, and how long individual ads have been running are all concrete facts — not estimates. That directness is why",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and heavier ad investment per creative; the latter is playing volume. When you look at a competitor's storefront, count active products in featured collections — it tells you which model you're dealing with before you build the revenue estimate.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Proxy-Metric Stack: Three Independent Estimates",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The strongest revenue estimates come from stacking three independent proxy methods, then triangulating. Each method has different error modes, so they partially cancel each other out.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the standard formula. Take your calibrated traffic estimate, apply an industry-benchmark",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", and multiply by estimated AOV. For a beauty brand with 150k monthly visitors, a 2.2% CVR (mid-range for the category), and a $74 AOV sourced from visible product prices:",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "$244,200 estimated monthly revenue",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AOV is easier to estimate than people assume. Browse the top 5 products, note their prices, then check if the store uses bundle offers or upsells (visible in product pages and cart flows). If they push \"buy 2, save 15%\", the real AOV is probably 30–40% above the base unit price.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you can estimate monthly",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When a DTC brand raises a Series A or B, the press release often includes either a specific ARR figure or a description like \"growing at 3× year-over-year from a $10M revenue base.\" Sites like Crunchbase and TechCrunch routinely publish these. A $10M ARR DTC brand in 2026 is running approximately $830k per month — and now you have a hard anchor point rather than an estimate.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Always check the disclosure route first. It takes five minutes and occasionally saves hours of estimation work. If a competitor has disclosed, verify rather than estimate — use your proxy metrics to confirm the disclosed figure is consistent with their current ad activity and traffic patterns.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Attempting to estimate revenue by initiating and abandoning fake purchases, scraping order confirmation numbers to infer sequence counts, or using bots to simulate customer behavior violates virtually every e-commerce platform's terms of service and potentially computer fraud statutes. It also produces poor data — order numbers are often non-sequential and can't be reliably mapped to revenue.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When the taxpayer will liquidate the retirement plan, allow any penalty for early withdrawal and the current year tax consequence. Consider requiring the taxpayer to submit an estimated tax payment as applicable.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
+   {
+    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "competitor ad research use case",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "use case covers how to frame these conversations productively.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "workflow to systematically observe publicly disclosed ad data is not just legal — it's the intended use case. The platforms built these tools for exactly this purpose.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to observe and analyze this data is the intended use case. What is not legal: scraping checkout flows, using fake purchases for intelligence gathering, or accessing any system that requires credentials you don't own. Publicly visible ad data is always fair game.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "Reformatted examples of expense verification to bullets.",
     "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
@@ -197,68 +557,178 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Notice how the reliability column collapses toward the bottom. That is not a flaw in the research, it is the actual shape of the problem: outside a filing obligation, nobody knows a private company’s revenue except the company.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Re-check on their filing calendar",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filing obligations, thresholds and the level of detail vary by country and by company size, and small companies can often file abridged accounts that omit the profit and loss statement. But the accounts themselves are public, searchable, and free or nearly free in most jurisdictions.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filed accounts, free. Employee numbers are a mandatory disclosure even in abridged small-company filings.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Published annual financial statements for companies above the filing thresholds.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A brand often trades through several legal entities, each filing separately. Search the register for the operating entity name from the footer of their website or their terms of service, and check whether a group parent files consolidated accounts. Using one national subsidiary’s revenue as the whole company is one of the most common errors in this work.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "publish varies enormously by jurisdiction, and so does how old a perfectly compliant filing is allowed to be.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filed accounts often cover a fiscal year ending mid-calendar, and a European filing is in euros or pounds. Converting at today’s rate rather than the period average quietly moves the number.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Company registers and regulatory filings exist precisely so that anyone can read them. Reading them, downloading them and republishing figures from them with attribution is entirely legitimate. The constraints are narrow and worth stating plainly.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Revenue data arrives on a schedule, which makes it one of the easier things to keep fresh: set the review for when the next accounts or quarterly report is actually due rather than an arbitrary date. Between filings, the things that move your estimate are",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "So the job to automate here is not the number but the events between filings. That is what a",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Flares watches funding news, filings and public claims, then tells you which ones change the picture.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For a listed company, yes, exactly: audited revenue appears in its quarterly and annual filings. For a private company it depends entirely on where it is incorporated. In most of Europe private companies must file annual accounts that become public, so the answer is often yes there too. In the US, a private company has no general obligation to publish revenue, so anything you find is an estimate.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SEC EDGAR for US-listed companies, the national business register for private European companies (Companies House in the UK, the Bundesanzeiger in Germany, and the equivalents reachable through the EU's business-registers portal), and the company's own investor page. All are free. The paid databases mostly resell and model on top of these same filings.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "S-1 filings and public revenue claims.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Brands that have gone public or filed to do so (Allbirds, Warby Parker, and dozens more have done this) have fully audited financials on SEC.gov. If your competitor is publicly traded, their quarterly 10-Q filings give you exact revenue. If they're private but have filed a bond prospectus or similar, those are also public. The",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are all free. BuiltWith offers basic app stack lookups for free. Review platforms like Trustpilot are public. Funding announcements on Crunchbase and SEC filings are free. Combining these free sources with the review-velocity method and ad count signals produces a usable estimate without any paid subscriptions — though paid traffic tools like Semrush add meaningful precision for larger stores.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If appropriate consult with a Field Insolvency caseworker to review Schedules, Statement of Financial Affairs, Statement of Monthly Income and Means Test Calculation, and Other Court Documents such as motions, pleadings or filings from third parties.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Partnership Income is allocated to the partners based upon the percentages specified in the partnership agreement by filing Form 1065, U.S. Return of Partnership Income, with associated Schedule K-1s, Partner’s Share of Income, Deductions, Credits, etc. Schedule K-1 income is in turn reported on the partners’ income tax returns.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "An LLC is organized as a distinct legal entity under state law by filing articles of organization or a similar document with a designated state official.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Consider filing a notice of federal tax lien. See IRM 5.12, Federal Tax Liens.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.",
+    "url": "https://www.irs.gov/irm/part5/irm_05-015-001",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://ferret-plus.com/62580",
+    "url": "https://note.com/ai_scout_jp/n/neb5b16ead5e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.sansan.com/media/competitive-research/",
+    "url": "https://note.com/chic_deer1160/n/n7f81c9ea2e7b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ipsos.com/ja-jp/competitive-research",
+    "url": "https://note.com/fond_bee7004/n/n79546e0d72ec",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
+    "url": "https://note.com/hasegawa_shohey/n/n6a3e3b5af228",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
+    "url": "https://note.com/marketing_ai_lab/n/nfc9b6c910730",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://norosi.press/competitive-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kwm.co.jp/blog/competitive-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gmo-research.ai/research-column/competitive-surveys",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://marketing.ipros.jp/contents/knowledge/saas_27/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nint.jp/blog/ec-competitor-analysis/",
+    "url": "https://note.com/tetsuya_cpa/n/n07ccab513492",
     "status": "ok",
     "method": "http"
    },
@@ -278,17 +748,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.msp-tax.jp/accounting/revenue-recognition/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://wheat-biz.com/fp/business-plan-uriage-yosoku-finance/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://taxnap.com/media/?p=1987",
     "status": "ok",
     "method": "http"
    },
@@ -298,34 +758,44 @@
     "method": "http"
    },
    {
-    "url": "https://quizlet.com/787282094/ch-8-flash-cards/",
+    "url": "https://www.msp-tax.jp/accounting/revenue-recognition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fumina-tax.com/blog/houjinnari-kakutei-shinkoku-kikan-anbun-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openmax.com/resources/blog/how-to-estimate-competitor-sales-on-amazon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fastercapital.com/content/Revenue-Estimation--How-to-Estimate-Your-Revenue-Using-Different-Methods-and-Approaches.html",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.chegg.com/homework-help/questions-and-answers/method-estimating-number-potential-customers-possible-profitability-customer-acquisition-m-q158747775",
+    "url": "https://beancount.io/blog/2026/05/11/customer-concentration-risk-10-percent-revenue-threshold-business-valuation-loan-capacity-negotiating-leverage-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.refolk.ai/guides/estimate-private-competitor-revenue.md",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://tami.ai/solutions/customer-competitor-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.quora.com/What-are-some-ways-to-be-able-to-estimate-my-competitors-total-sales-figure",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tax.ohio.gov/business/pass-through-entity-and-fiduciary-income-tax",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -333,110 +803,84 @@
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） site:note.com",
    "results": [
-    "https://ferret-plus.com/62580",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.ipsos.com/ja-jp/competitive-research",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://gmo-research.ai/research-column/competitive-surveys",
     "https://note.com/ai_scout_jp/n/neb5b16ead5e1",
-    "https://note.com/chic_deer1160/n/n7f81c9ea2e7b"
+    "https://note.com/chic_deer1160/n/n7f81c9ea2e7b",
+    "https://note.com/fond_bee7004/n/n79546e0d72ec",
+    "https://note.com/hasegawa_shohey/n/n6a3e3b5af228",
+    "https://note.com/marketing_ai_lab/n/nfc9b6c910730",
+    "https://note.com/tetsuya_cpa/n/n07ccab513492",
+    "https://note.com/shijochosa_labo/n/n2ddb4ff574a3"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） note",
-   "results": [
-    "https://ferret-plus.com/62580",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://norosi.press/competitive-analysis/",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.kwm.co.jp/blog/competitive-analysis/",
-    "https://www.ipsos.com/ja-jp/competitive-research"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） やり方",
    "results": [
-    "https://ferret-plus.com/62580",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.ipsos.com/ja-jp/competitive-research",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://gmo-research.ai/research-column/competitive-surveys",
-    "https://marketing.ipros.jp/contents/knowledge/saas_27/",
-    "https://www.nint.jp/blog/ec-competitor-analysis/"
+    "https://leon-strategy.com/uriage-yosoku",
+    "https://rmcbl.net/uriage-yosoku-konkyo/",
+    "https://www.bizly.ai/guide/business-plan/market-competition",
+    "https://wheat-biz.com/fp/business-plan-uriage-yosoku-finance/",
+    "https://bulkup.co.jp/bp/competitor-analysis-guide/",
+    "https://www.msp-tax.jp/accounting/revenue-recognition/",
+    "https://taxnap.com/media/?p=1987",
+    "https://translate.google.jp/"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 8
   },
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） 事例",
    "results": [
-    "https://ferret-plus.com/62580",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.ipsos.com/ja-jp/competitive-research",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://gmo-research.ai/research-column/competitive-surveys",
     "https://leon-strategy.com/uriage-yosoku",
-    "https://rmcbl.net/uriage-yosoku-konkyo/"
+    "https://rmcbl.net/uriage-yosoku-konkyo/",
+    "https://fumina-tax.com/blog/houjinnari-kakutei-shinkoku-kikan-anbun-2026/",
+    "https://wheat-biz.com/fp/business-plan-uriage-yosoku-finance/",
+    "https://www.bizly.ai/guide/business-plan/market-competition",
+    "https://bulkup.co.jp/bp/competitor-analysis-guide/",
+    "https://www.msp-tax.jp/accounting/revenue-recognition/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "competitor revenue filed stated estimated two methods disagree factor of two customer count",
    "results": [
-    "https://quizlet.com/787282094/ch-8-flash-cards/",
-    "https://www.chegg.com/homework-help/questions-and-answers/method-estimating-number-potential-customers-possible-profitability-customer-acquisition-m-q158747775",
-    "https://tami.ai/solutions/customer-competitor-analysis/",
-    "https://www.quora.com/What-are-some-ways-to-be-able-to-estimate-my-competitors-total-sales-figure",
-    "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes",
-    "https://tax.ohio.gov/business/pass-through-entity-and-fiduciary-income-tax",
-    "https://www.investopedia.com/terms/c/competitive_advantage.asp",
-    "https://dol.georgia.gov/faqs-individuals/individuals-faqs-unemployment-insurance",
-    "https://www.in.gov/dor/i-am-a/business-corp/business-faq/",
-    "https://www.flares.tech/sources/competitor-revenue"
+    "https://www.flares.tech/sources/competitor-revenue",
+    "https://openmax.com/resources/blog/how-to-estimate-competitor-sales-on-amazon",
+    "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "https://fastercapital.com/content/Revenue-Estimation--How-to-Estimate-Your-Revenue-Using-Different-Methods-and-Approaches.html",
+    "https://beancount.io/blog/2026/05/11/customer-concentration-risk-10-percent-revenue-threshold-business-valuation-loan-capacity-negotiating-leverage-guide",
+    "https://www.refolk.ai/guides/estimate-private-competitor-revenue.md",
+    "https://beancount.io/blog/2026/05/13/state-apportionment-formulas-multistate-businesses-single-sales-factor-market-based-sourcing-guide"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:note.com 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）",
    "results": [
     "https://note.com/hasegawa_shohey/n/n6a3e3b5af228",
     "https://note.com/marketing_ai_lab/n/nfc9b6c910730",
-    "https://note.com/seesaw_fit/n/na244fe0b4acf",
     "https://note.com/ys_nexus/n/n8ab65ecb32c2",
-    "https://note.com/aiyoroz/n/n1d43275dd5fb",
     "https://note.com/ai_scout_jp/n/neb5b16ead5e1",
+    "https://note.com/seesaw_fit/n/na244fe0b4acf",
+    "https://note.com/aiyoroz/n/n1d43275dd5fb",
     "https://note.com/shijochosa_labo/n/n2ddb4ff574a3"
    ],
    "engines": [
@@ -456,7 +900,7 @@
     "https://x.com/shomaruyamaOC/status/2116488100524253522"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -468,8 +912,8 @@
     "https://jp.linkedin.com/posts/知明-松尾-6a90b8287_教科書的には3c分析は顧客競合自社の順に実行するものと説明されるが実務上順番-activity-7509389149553033216-QSMI",
     "https://jp.linkedin.com/learning/making-a-new-business-plan-with-chatgpt/4259411",
     "https://jp.linkedin.com/pulse/how-create-competitor-analysis-report-excel-chartexpo-txyif?tl=ja",
-    "https://jp.linkedin.com/pulse/competitive-analysis-examples-excel-your-next-project-chartexpo-5icgf?tl=ja",
-    "https://jp.linkedin.com/pulse/売れている製品は本当に注力すべき柱か-自社売上構成と競争優位のズレに潜む戦略的盲点-michio-okazaki-agltc"
+    "https://jp.linkedin.com/pulse/売れている製品は本当に注力すべき柱か-自社売上構成と競争優位のズレに潜む戦略的盲点-michio-okazaki-agltc",
+    "https://jp.linkedin.com/pulse/competitive-analysis-examples-excel-your-next-project-chartexpo-5icgf?tl=ja"
    ],
    "engines": [
     "ddgs:bing"
@@ -479,82 +923,569 @@
   {
    "query": "site:facebook.com 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）",
    "results": [
+    "https://graph.facebook.com/v2.8/1743161985855118/picture/",
     "https://www.facebook.com/motokokuzei/posts/税務通信３８７７より国税庁ホームページで合同会社の役員に対する事前確定届出給与の適用が示されてから任期のない役員については事前確定届出給与が認められないというメ/890679223289433/",
     "https://www.facebook.com/kodatokaikei/photos/値下げ判断の成否を分けたたった1つの数字とは今回はある顧問先で実際にあった値下げによる利益圧迫の事例を共有させていただきます価格を下げれば売れるだろう競合が下げ/1461056065081720/",
     "https://www.facebook.com/promanagercoach/videos/競合店ができて売上ダウン倒産前に気づいて欲しいこと向かいに新しい店ができた最近うちのお客さんが減ったこのままやったらヤバいもし今そんなことを感じてるなら他人事や/1135449952376394/",
     "https://www.facebook.com/nori.sakai/videos/製品ごとに資料を作るだけでなく顧客ごとに購入理由を分けてください同じ製品でも施工会社と所有者では評価する価値が異なります顧客別の採算も売上だけでは見えません対応/1506715107959163/",
     "https://www.facebook.com/PRCA.jp/photos/マーケティングを実施していく上で最初のステップとなるのは自社を取り巻く世の中の動きを把握することですこのような環境分析にはおもに３ｃ分析とｓｗｏｔ分析を用いるこ/931132721008669/",
-    "https://www.facebook.com/PRCA.jp/posts/マーケティングを実施していく上で最初のステップとなるのは自社を取り巻く世の中の動きを把握することですこのような環境分析にはおもに３ｃ分析とｓｗｏｔ分析を用いるこ/931132757675332/",
     "https://www.facebook.com/MiltonMarkets.Japan/photos/ミルトン勝つための戦略口座ｓｗｏｔ分析ｓｗｏｔ分析とは企業やプロジェクトの状況を4つの要因に分けて分析する手法ですｓｔｒｅｎｇｔｈ強み内的プラス要因ｗｅａｋｎｅ/1685067458203422/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） note 社長",
-   "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://ferret-plus.com/62580",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://www.ipsos.com/ja-jp/competitive-research",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.kwm.co.jp/blog/competitive-analysis/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり） X 投稿",
    "results": [
-    "https://ferret-plus.com/62580",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-analysis-examples/",
-    "https://jp.sansan.com/media/competitive-research/",
-    "https://www.zenrin-datacom.net/solution/blog/competitor-analysis",
-    "https://www.solution.bell24.co.jp/ja/useful/column/00342_issue/",
-    "https://norosi.press/competitive-analysis/",
-    "https://www.nttcoms.com/service/nps/column/competitive-research/",
-    "https://www.kwm.co.jp/blog/competitive-analysis/",
-    "https://www.ipsos.com/ja-jp/competitive-research",
-    "https://leon-strategy.com/uriage-yosoku"
+    "https://leon-strategy.com/uriage-yosoku",
+    "https://rmcbl.net/uriage-yosoku-konkyo/",
+    "https://wheat-biz.com/fp/business-plan-uriage-yosoku-finance/",
+    "https://bulkup.co.jp/bp/competitor-analysis-guide/",
+    "https://www.bizly.ai/guide/business-plan/market-competition",
+    "https://www.msp-tax.jp/accounting/revenue-recognition/",
+    "https://yamanaka-bengoshi.jp/2026/10/02/director-competing-trade-approval-damages/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "competitor revenue filed stated estimated two methods disagree factor of two customer count site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/majavoje",
-    "https://www.linkedin.com/help/linkedin/answer/a1381088/turn-two-step-verification-on-and-off",
-    "https://www.linkedin.com/in/dantyre01",
-    "https://www.linkedin.com/company/two-sigma-investments",
-    "https://www.linkedin.com/help/linkedin/answer/a553615",
-    "https://www.linkedin.com/company/workday",
-    "https://www.linkedin.com/company/wearecircana",
-    "https://www.linkedin.com/in/cagan",
-    "https://ch.linkedin.com/company/two-circles",
-    "https://www.linkedin.com/in/yaminirangan"
+    "https://www.linkedin.com/posts/hannah-grace-p_dataquality-powerbi-snowflake-activity-7512857549172322304-WMzz",
+    "https://www.linkedin.com/posts/jason-c-rae_two-accurate-reports-can-still-disagree-activity-7506298757957857280-s6yt",
+    "https://www.linkedin.com/posts/core-delta_medtech-medicaldevices-valuation-activity-7508137658309820417-EZHx",
+    "https://www.linkedin.com/posts/venkatesh-venkat-balaji-9b0128242_if-your-reports-disagree-with-one-another-activity-7426414657348784128-uHeM",
+    "https://www.linkedin.com/posts/joseph-leavitt_if-two-dashboards-disagree-about-revenue-activity-7509232036159651842-Gva3",
+    "https://www.linkedin.com/top-content/business-strategy/competitor-benchmarking-methods/business-model-comparison/",
+    "https://www.linkedin.com/pulse/when-revenue-means-two-different-things-why-your-teams-nikesh-valji-h4ege"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
- "missing": {
-  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to find competitor revenue, step by step",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"Bigger or smaller than us\" needs a completely different method from \"what is their ARR to the nearest million\". Most real decisions need the first, and chasing the second is where weeks disappear.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sanity-check with a second method",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Run headcount times revenue per employee for the same company. If the two methods disagree by more than roughly a factor of two, one of your assumptions is wrong and it is usually the customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to verify a competitor revenue figure",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "how to find a competitor’s customers",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to keep competitor revenue figures current",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to automate competitor revenue tracking",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Build it bottom-up: a verified average price multiplied by an estimated customer count, both of which are obtainable from the public sources covered above. Then run a second, independent method and compare. Two rough methods that agree are far more trustworthy than one precise-looking number from a database, and when they disagree the gap tells you which assumption to attack first.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Estimate a Shopify Competitor's Revenue in 2026: A Practical Guide",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Uncover the data-driven methods for estimating Shopify store earnings and validating market demand in the current e-commerce landscape.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide walks through every publicly available signal, explains where each one lies, and shows how to stack them into a working estimate without crossing any ethical or legal lines.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "generates traffic estimates by combining ISP data partnerships, clickstream panels, and web crawls — then applies category-specific conversion benchmarks. That chain of inference introduces compounding error at each step. Understanding this keeps you from over-anchoring on any single number.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Traffic Intelligence Tools and How to Calibrate Them",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The strongest revenue estimates come from stacking three independent proxy methods, then triangulating. Each method has different error modes, so they partially cancel each other out.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 1: Traffic × CVR × AOV",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 2: Ad Spend × Implied ROAS",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the methodology overlaps closely with this step.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Method 3: Review Velocity × AOV",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When all three methods land in a similar range, your confidence is high. When they diverge significantly, one of your inputs is wrong — and the divergence itself points to which one. See the",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "framework for how to structure the full research session.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "how to spy on competitor ads",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "post covers how to cross-reference these disclosures against ad activity.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "use case covers how to frame these conversations productively.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Estimating a Shopify competitor's revenue sounds like guesswork — and without the right signals, it usually is. But in 2026, the combination of traffic intelligence platforms, ad library data, and public financial disclosures makes a tight approximation genuinely achievable. The mistake most brands make is treating any single data source as ground truth.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "A defensible estimate whose assumptions you can show and defend",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data provider estimates",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "App store revenue estimates",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Mark each number Filed, Stated or Estimated. A report that mixes an audited figure with a model and prints both in the same font is worse than no report at all.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A raise usually comes with a press release, and often with a growth claim attached. The raise amount itself is not revenue, but it bounds the burn they can sustain, and the valuation sometimes implies a revenue multiple if the round is discussed in the trade press. Useful as a cross-check, never as the figure.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The two ways to build an estimate yourself",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates somebody else already built",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Data provider estimates.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "App store revenue estimates.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "You already know something no database does: how often you meet them, and how often they win. If you compete in 200 deals a year and they take 60 of them, you can size their revenue in your segment directly from your own average contract value. It is the narrowest estimate on this list and frequently the most decision-useful, because it is scoped to the market you actually sell in.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Write Filed, Stated or Estimated next to every number, every time. This single habit does more for the credibility of a competitive report than any amount of extra research.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Do not publish an estimate in a way that implies it is audited. Stating a modelled figure as fact about a named company is a reputational and, in some jurisdictions, a legal risk.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "How to Estimate a Shopify Competitor's Revenue in 2026: A Practical Guide",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide walks through every publicly available signal, explains where each one lies, and shows how to stack them into a working estimate without crossing any ethical or legal lines.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "generates traffic estimates by combining ISP data partnerships, clickstream panels, and web crawls — then applies category-specific conversion benchmarks. That chain of inference introduces compounding error at each step. Understanding this keeps you from over-anchoring on any single number.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and see that a DTC skincare brand is running 87 active creatives across Meta and TikTok, that is a direct measurement. The number of active ads, the ratio of video to static, and how long individual ads have been running are all concrete facts — not estimates. That directness is why",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and heavier ad investment per creative; the latter is playing volume. When you look at a competitor's storefront, count active products in featured collections — it tells you which model you're dealing with before you build the revenue estimate.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The Proxy-Metric Stack: Three Independent Estimates",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The strongest revenue estimates come from stacking three independent proxy methods, then triangulating. Each method has different error modes, so they partially cancel each other out.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the standard formula. Take your calibrated traffic estimate, apply an industry-benchmark",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", and multiply by estimated AOV. For a beauty brand with 150k monthly visitors, a 2.2% CVR (mid-range for the category), and a $74 AOV sourced from visible product prices:",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "$244,200 estimated monthly revenue",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AOV is easier to estimate than people assume. Browse the top 5 products, note their prices, then check if the store uses bundle offers or upsells (visible in product pages and cart flows). If they push \"buy 2, save 15%\", the real AOV is probably 30–40% above the base unit price.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you can estimate monthly",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When a DTC brand raises a Series A or B, the press release often includes either a specific ARR figure or a description like \"growing at 3× year-over-year from a $10M revenue base.\" Sites like Crunchbase and TechCrunch routinely publish these. A $10M ARR DTC brand in 2026 is running approximately $830k per month — and now you have a hard anchor point rather than an estimate.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Always check the disclosure route first. It takes five minutes and occasionally saves hours of estimation work. If a competitor has disclosed, verify rather than estimate — use your proxy metrics to confirm the disclosed figure is consistent with their current ad activity and traffic patterns.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Attempting to estimate revenue by initiating and abandoning fake purchases, scraping order confirmation numbers to infer sequence counts, or using bots to simulate customer behavior violates virtually every e-commerce platform's terms of service and potentially computer fraud statutes. It also produces poor data — order numbers are often non-sequential and can't be reliably mapped to revenue.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "competitor ad research use case",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "use case covers how to frame these conversations productively.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "workflow to systematically observe publicly disclosed ad data is not just legal — it's the intended use case. The platforms built these tools for exactly this purpose.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "to observe and analyze this data is the intended use case. What is not legal: scraping checkout flows, using fake purchases for intelligence gathering, or accessing any system that requires credentials you don't own. Publicly visible ad data is always fair game.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Notice how the reliability column collapses toward the bottom. That is not a flaw in the research, it is the actual shape of the problem: outside a filing obligation, nobody knows a private company’s revenue except the company.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Re-check on their filing calendar",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filing obligations, thresholds and the level of detail vary by country and by company size, and small companies can often file abridged accounts that omit the profit and loss statement. But the accounts themselves are public, searchable, and free or nearly free in most jurisdictions.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filed accounts, free. Employee numbers are a mandatory disclosure even in abridged small-company filings.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Published annual financial statements for companies above the filing thresholds.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A brand often trades through several legal entities, each filing separately. Search the register for the operating entity name from the footer of their website or their terms of service, and check whether a group parent files consolidated accounts. Using one national subsidiary’s revenue as the whole company is one of the most common errors in this work.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "publish varies enormously by jurisdiction, and so does how old a perfectly compliant filing is allowed to be.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Filed accounts often cover a fiscal year ending mid-calendar, and a European filing is in euros or pounds. Converting at today’s rate rather than the period average quietly moves the number.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Company registers and regulatory filings exist precisely so that anyone can read them. Reading them, downloading them and republishing figures from them with attribution is entirely legitimate. The constraints are narrow and worth stating plainly.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Revenue data arrives on a schedule, which makes it one of the easier things to keep fresh: set the review for when the next accounts or quarterly report is actually due rather than an arbitrary date. Between filings, the things that move your estimate are",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "So the job to automate here is not the number but the events between filings. That is what a",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Flares watches funding news, filings and public claims, then tells you which ones change the picture.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For a listed company, yes, exactly: audited revenue appears in its quarterly and annual filings. For a private company it depends entirely on where it is incorporated. In most of Europe private companies must file annual accounts that become public, so the answer is often yes there too. In the US, a private company has no general obligation to publish revenue, so anything you find is an estimate.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SEC EDGAR for US-listed companies, the national business register for private European companies (Companies House in the UK, the Bundesanzeiger in Germany, and the equivalents reachable through the EU's business-registers portal), and the company's own investor page. All are free. The paid databases mostly resell and model on top of these same filings.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.",
+    "url": "https://www.flares.tech/sources/competitor-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "S-1 filings and public revenue claims.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Brands that have gone public or filed to do so (Allbirds, Warby Parker, and dozens more have done this) have fully audited financials on SEC.gov. If your competitor is publicly traded, their quarterly 10-Q filings give you exact revenue. If they're private but have filed a bond prospectus or similar, those are also public. The",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "are all free. BuiltWith offers basic app stack lookups for free. Review platforms like Trustpilot are public. Funding announcements on Crunchbase and SEC filings are free. Combining these free sources with the review-velocity method and ad count signals produces a usable estimate without any paid subscriptions — though paid traffic tools like Semrush add meaningful precision for larger stores.",
+    "url": "https://adlibrary.com/posts/shopify-competitor-revenue-analysis-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T08:01:25.803043+00:00"
 }
