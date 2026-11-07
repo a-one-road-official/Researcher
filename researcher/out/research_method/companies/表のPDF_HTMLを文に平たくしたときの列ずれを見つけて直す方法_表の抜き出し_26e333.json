@@ -8,8 +8,28 @@
  ],
  "context": "method",
  "kind": "market",
- "researched_at": "2026-11-07T07:59:38.807295+00:00",
+ "researched_at": "2026-11-07T12:45:22.723373+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rather than an isolated conversion step.",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.",
@@ -51,26 +71,6 @@
    },
    {
     "quote": "The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rather than an isolated conversion step.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
     "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -123,6 +123,11 @@
    {
     "url": "https://waic.jp/translations/WCAG-TECHS/PDF20",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.it-one.co.jp/blog/fukiyaocr/4839/",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -191,13 +196,13 @@
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://www.youtube.com/shorts/3_q98TmgtQ4",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852"
+    "https://www.it-one.co.jp/blog/fukiyaocr/4839/"
    ]
   },
   {
@@ -205,13 +210,13 @@
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://www.youtube.com/shorts/3_q98TmgtQ4",
+    "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
     "https://waic.jp/translations/WCAG-TECHS/PDF20",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852"
+    "https://www.it-one.co.jp/blog/fukiyaocr/4839/"
    ]
   },
   {
@@ -234,13 +239,13 @@
    "results": [
     "https://note.com/itso_/n/n020a3413f04c",
     "https://note.com/selvanakayama/n/nb98248d3483a",
-    "https://note.com/furucrm/n/nb1cc6c2f1e64",
     "https://note.com/ennodes/n/n60450941902d",
+    "https://note.com/furucrm/n/nb1cc6c2f1e64",
     "https://note.com/honda_crosscom/n/n65f076b18e76",
     "https://note.com/snake_dragon/n/n5229c48e9a57",
     "https://note.com/ilujapan/n/nabff7a5a4710",
-    "https://note.com/ryosi_sec_dog/n/n5906d6929908",
     "https://note.com/gtminami/n/nac7ff90798ca",
+    "https://note.com/ryosi_sec_dog/n/n5906d6929908",
     "https://note.com/snake_dragon/n/n526b5557773f"
    ]
   },
@@ -262,16 +267,16 @@
   {
    "query": "site:linkedin.com 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活",
    "results": [
-    "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
     "https://jp.linkedin.com/pulse/text-document-splitting-rag-why-matters-when-you-need-rajveer-gangwar-qrylc?tl=ja",
-    "https://www.linkedin.com/in/aravind-srinivas-16051987",
-    "https://tw.linkedin.com/in/yefthajoshua",
+    "https://jp.linkedin.com/pulse/rag-concepts-form-basis-intelligent-enterprise-satya-krishna-v3qvc?tl=ja",
+    "https://jp.linkedin.com/pulse/unlocking-future-intelligent-search-comprehensive-guide-rao-vrhdf?tl=ja",
+    "https://jp.linkedin.com/pulse/beyond-tokens-choosing-right-chunking-strategy-llm-success-agarwal-ou0fc?tl=ja",
     "https://jp.linkedin.com/pulse/from-raw-data-ai-ready-why-rag-ingestion-pipelines-matter-la-vigne-4cnte?tl=ja",
-    "https://tw.linkedin.com/in/daivalentineno-janitra-salim",
-    "https://www.linkedin.com/in/wei-quan-lai-46b0781b9",
-    "https://www.linkedin.com/in/-danieltseng",
-    "https://tw.linkedin.com/in/maryam-mahmoudi-data-scientist",
-    "https://jp.linkedin.com/pulse/beyond-tokens-choosing-right-chunking-strategy-llm-success-agarwal-ou0fc?tl=ja"
+    "https://jp.linkedin.com/pulse/mastering-chunking-strategies-practical-guide-your-rag-venkatesan-lqfqc?tl=ja",
+    "https://www.linkedin.com/in/aravind-srinivas-16051987",
+    "https://jp.linkedin.com/pulse/exhaustive-guide-chunking-mastering-core-rag-rohan-dua-fzvpf?tl=ja",
+    "https://jp.linkedin.com/pulse/rag-architecture-i-wish-knew-before-wasting-3-months-vamsi-thokala-4kq7c?tl=ja",
+    "https://jp.linkedin.com/pulse/mastering-ingestion-phase-retriever-augmented-rag-snigdha-kakkar-qip7c?tl=ja"
    ]
   },
   {
@@ -279,14 +284,14 @@
    "results": [
     "https://www.facebook.com/groups/miaigroup/posts/1854738928630704/",
     "https://www.facebook.com/groups/DeepNetGroup/posts/2099062597153278/",
-    "https://www.facebook.com/groups/1243250902386508/posts/24272952078989731/",
-    "https://www.facebook.com/PythonDvz/posts/master-langchain-retrieval-concepts/1516649397168425/",
     "https://www.facebook.com/groups/hacking101/posts/2690278371372064/",
-    "https://www.facebook.com/thanhhm/videos/introducing-context7-skills-search-across-24k-skills-install-skills-with-single-/737973489090387/",
-    "https://www.facebook.com/pythonclcoding/posts/50-ml-projects-to-understand-llms-investigate-transformer-mechanisms-through-dat/1391301589690722/",
+    "https://www.facebook.com/PythonDvz/posts/master-langchain-retrieval-concepts/1516649397168425/",
     "https://www.facebook.com/groups/aigctw/posts/3257157387801484/",
+    "https://www.facebook.com/thanhhm/videos/introducing-context7-skills-search-across-24k-skills-install-skills-with-single-/737973489090387/",
     "https://m.facebook.com/DoctorMixDotCom/videos/7-most-famous-piano-riffs-in-the-world/365276847563903/?locale=zh_CN&_rdr",
-    "https://www.facebook.com/javarevisited/posts/top-5-books-to-learn-llms-large-language-models-in-depth/1365757445553830/"
+    "https://www.facebook.com/groups/1243250902386508/posts/24272952078989731/",
+    "https://www.facebook.com/kake.yang/",
+    "https://www.facebook.com/groups/3140409282941485/posts/4042808996034838/"
    ]
   },
   {
@@ -308,13 +313,13 @@
    "results": [
     "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/?tl=ja",
     "https://www.reddit.com/r/Rag/comments/1kn4nrk/google_gemini_pdf_to_table_extraction_in_html/?tl=ja",
-    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://www.exa-corp.co.jp/column/generative-ai_column-8.html",
+    "https://note.com/fond_ivy2679/n/naa8dcc5aec41",
     "https://qiita.com/camcam/items/ae9ac4860968389804bd",
     "https://support.quest.com/ja-jp/migrator-for-notes-to-sharepoint/kb/4379285/pdf-%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AB%E8%A1%A8%E3%81%AE%E6%9E%A0%E7%B5%84%E3%81%BF%E3%82%84%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%8C%E5%B4%A9%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B",
-    "https://community.adobe.com/%E8%B3%AA%E5%95%8F-114/pdf%E3%81%8B%E3%82%89excel%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%81%A8%E5%88%97%E3%81%8C%E3%82%BA%E3%83%AC%E3%82%8B-335776?postid=6049852",
     "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q7-7.pdf",
-    "https://www.youtube.com/watch?v=6cUITZxZtw8"
+    "https://waic.jp/translations/WCAG-TECHS/PDF20",
+    "https://www.it-one.co.jp/blog/fukiyaocr/4839/"
    ]
   },
   {
@@ -328,83 +333,16 @@
     "https://pe.linkedin.com/pulse/challenge-6-post-extraction-validation-muhammad-azeem-rosli-3m8vc",
     "https://www.linkedin.com/pulse/extract-pdf-tables-perfect-spreadsheets-ai-3-proven-prompts-sareen-d2jrc",
     "https://www.linkedin.com/pulse/pdf-table-extraction-comprehensive-guide-2026-lidoapp-wbvmc/",
-    "https://www.linkedin.com/posts/bhavneetsingh025_documentai-pdfextraction-tableextraction-activity-7456048780023427072-qJsb",
-    "https://www.linkedin.com/pulse/table-extraction-production-what-nobody-tells-you-sáez-ibáñez-e0gne"
+    "https://www.linkedin.com/pulse/table-extraction-production-what-nobody-tells-you-sáez-ibáñez-e0gne",
+    "https://www.linkedin.com/posts/bhavneetsingh025_documentai-pdfextraction-tableextraction-activity-7456048780023427072-qJsb"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ16頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Why Extracting Tables from PDF Is Difficult",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Extracting Tables from PDF with LlamaParse",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "file = client.files.create(file=\"./bank_statement.pdf\", purpose=\"parse\")",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "file_obj = client.files.create(file=\"./bank_statement.pdf\", purpose=\"extract\")",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Extract Tables from PDF: Scale Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rather than an isolated conversion step.",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Income Verification API: How to Automate Document-Based Income Checks at Scale",
-    "url": "https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-07T07:59:38.807295+00:00"
 }

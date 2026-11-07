@@ -8,6 +8,10 @@
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「集団面接の完全対策|流れ・入退室マナーから頻出質問、受かるコツまで網羅」（https://unistyleinc.com/techniques/1459）
   - 「個人面接との違いや、回答が被った時の対処法など、通過するためのコツを紹介します」（https://unistyleinc.com/techniques/1459）
+  - 「フェルミ推定は訓練すればするほどスラスラ解けるようになる一方で、未経験者にはまるでやり方が思いつかない特殊な課題」（https://www.onecareer.jp/articles/1056）
+  - 「・面接官が非常に鋭く、算出方法に対して、すぐに質問をしてくるタイプだったので、負けずに返答することを意識した」（https://www.onecareer.jp/articles/1056）
+  - 「現役東大生が書いた 地頭を鍛えるフェルミ推定ノート――「6パターン・5ステップ」でどんな難問もスラスラ解ける!」（https://www.onecareer.jp/articles/1056）
+  - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
   - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
   - 「「WEB面接の特徴・必要な準備・場所や服装などのマナー・流れ・対策方法」を詳細に説明しています」（https://unistyleinc.com/techniques/1459）
@@ -16,30 +20,30 @@
   - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「デスクリサーチのやり方｜6ステップと新規事業に使える記入例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 突き合わせ・推定：
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「「日本にコンビニは何店舗？」正解を知らなくても概数を出せるフェルミ推定の考え方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【フェルミ推定】例題・出題例13選！考え方と解答例も紹介｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/1056）
+  - 「【フェルミ推定】例題・出題例13選！考え方と解答例も紹介」（https://www.onecareer.jp/articles/1056）
+  - 「外資系企業の選考が進むにつれ「フェルミ推定」という聞きなれない単語を耳にされた方も多いかと思います」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定は訓練すればするほどスラスラ解けるようになる一方で、未経験者にはまるでやり方が思いつかない特殊な課題」（https://www.onecareer.jp/articles/1056）
+  - 「にはフェルミ推定の利用を求められるため、対策せねば散ることとなります」（https://www.onecareer.jp/articles/1056）
+  - 「そこで今回はフェルミ推定って何？ という方でも解きやすい簡単な例題から実際の選考で出題された例題を用いて、フェルミ推定のノウハウをお伝えしたいと思います」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定の基本例題8選・解答例」（https://www.onecareer.jp/articles/1056）
   - 「フェルミ推定の人気・新着記事まとめ｜note」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「コンサルの面接対策や市場規模の算出、AIを活用した検証など、実務的な活用法に関する記事が集まっています」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です…」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「社員旅行は、辞めない理由にならないかもしれない｜生成AI研修の福利厚生をフェルミ推定した」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「シグナリング理論を応用するフェルミ推定面接:仮の数字の作り方から、考えを伝える説明まで【三つの例題・六つのワークシート付き】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「フェルミ推定？本を読んでもさっぱりわからん」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「「スターバックス1店舗の売上は？」フェルミ推定を1問だけ丁寧に解く」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「今回は「ベイズ推定」のわかりやすいお話♪と、その他♪」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「フェルミ推定の練習問題 10 問（無料）と、AI に面接官をさせる短い指示文」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「冬物コートは高いのに、なぜ傷む？「高く買って長く着る派」と「手頃に買い替える派」をフェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「〜通勤30秒でカラスにフンを落とされた男のフェルミ推定〜」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 一次情報の探し方：
   - 「【回答例付】面接で「あなたを採用するメリットは何か」と聞かれた際の答え方」（https://unistyleinc.com/techniques/1459）
   - 「面接では「あなたを採用するメリットは何か」と聞かれることがあります」（https://unistyleinc.com/techniques/1459）
   - 「本記事では面接で「あなたを採用するメリットは何か」を聞かれた際の答え方やポイントを解説します」（https://unistyleinc.com/techniques/1459）
+  - 「日常生活からビジネスまで幅広い場面で応用され、採用試験ではコンサルティングファームや投資銀行、総合商社などで多く出題されます」（https://www.onecareer.jp/articles/1056）
+  - 「下手をすれば国の統計データしか頼りになる情報がないかもしれません」（https://www.onecareer.jp/articles/1056）
+  - 「企業が採用試験でフェルミ推定を出題する目的は、限られた情報と時間の中で学生が最善の答えをいかに導き出せるかを見ることです」（https://www.onecareer.jp/articles/1056）
+  - 「書籍を使う際には、各問題の解法を単に学ぶだけでなく、「なぜそのアプローチが採用されているのか？」を考えながら読み進めることで、応用力が高まります」（https://www.onecareer.jp/articles/1056）
   - 「リヴァイ兵長を採用して、掃除だけ頼んでいませんか？AIが使えない会社の話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
   - 「「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります」（https://consul-data-bank.com/insight/5868/）
@@ -48,12 +52,9 @@
   - 「国内①：政府統計の総合窓口（e-Stat）｜総務省統計局」（https://consul-data-bank.com/insight/5868/）
   - 「さらに、数字を探すなら「統計」「実態調査」、企業の発表を探すなら「決算説明資料」など、資料の種類を追加します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「"発注" "飲食店" filetype:pdf」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「新しいサービス名には統計がなくても、そのサービスが置き換える業務には資料があるかもしれません」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「それでも広い統計しかない場合は、広い対象であることを明記して参考にとどめます」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「食品ロスの統計を、発注支援サービスの検討に使う整理例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「が仕事であり、そのような素養を持つ人材を採用したいと考えているからです」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
   - 「面接で「大学を選んだ理由」を答える際のポイント①正直に語る②専門外の人でも理解できるように言葉選びに注意する③自分の言葉で語る」（https://unistyleinc.com/techniques/1459）
+  - 「面接で希望勤務地の質問に対する考え方・答える際の注意点・回答例について解説します」（https://unistyleinc.com/techniques/1459）
   - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1459）
   - 「以下、フェルミ推定をする際の注意点をまとめておきます」（https://unistyleinc.com/techniques/1459）
@@ -67,23 +68,22 @@
   - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
-  - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
 - 実例：
   - 「フェルミ推定を「数字当て」で終わらせない分解のしかた｜ケース面接につながる例題3問・ツリー図つき」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「例えば「日本にある電柱の数」など一見予想がつかない数値を、国土面積や身近にある電柱の数などから論理的に推定します」（https://www.onecareer.jp/articles/1056）
+  - 「以上より、約9万8,000軒あるという結果になります」（https://www.onecareer.jp/articles/1056）
+  - 「その結果、6,000万 × 2 × 365日で、438億本程度使われていると推測可能です」（https://www.onecareer.jp/articles/1056）
+  - 「例えば、「自分の街にあるコンビニの数」や「一日に消費されるペットボトルの本数」などを推定してみると良いでしょう」（https://www.onecareer.jp/articles/1056）
+  - 「加えて、実際のケース問題と組み合わせることで、より実践的なスキルを身につけることができます」（https://www.onecareer.jp/articles/1056）
+  - 「例えば、企業が新市場に参入する際の売上予測をフェルミ推定の手法で試算してみることで、ビジネス視点も養うことが可能です」（https://www.onecareer.jp/articles/1056）
+  - 「例えば、戦略コンサルティングファームでは「ロジックの一貫性」が特に重視される一方、IT企業では「データ活用力」や「ビジネスモデルの理解」が求められることが多いです」（https://www.onecareer.jp/articles/1056）
+  - 「また、同じ企業でも年ごとに出題傾向が変わることがあるため、複数年分の事例に目を通し、出題傾向の変化も意識するとより深い準備ができます」（https://www.onecareer.jp/articles/1056）
+  - 「EYストラテジー・アンド・コンサルティング｜テクノロジーコンサルタント2025年卒本選考のケース面接」（https://www.onecareer.jp/articles/1056）
+  - 「ケース面接、人物面接ともに結論ファーストで答えることに気をつけました」（https://www.onecareer.jp/articles/1056）
+  - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定・ケース面接を対策！ポイントは「論理性・コミュ力・楽しむ姿勢」：外資戦略コンサル徹底解説Vol.2」（https://www.onecareer.jp/articles/1056）
+  - 「外資戦略系コンサルの選考などで出題されるフェルミ推定やケース面接」（https://www.onecareer.jp/articles/1056）
   - 「【2026年版】ナティクシス ケース面接対策100選｜株式デリバティブ・不動産ファイナンス・サステナブルファイナンスの回答プロセスとOK/NG回答を徹底解説」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「Nick | 戦コンManager（ケース・フェルミ解説）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「日本の数字、桁で言えますか？AIでケース面接用の「フェルミ数字ドリル」を作った」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「⑨最新AI（Fable5.1）はMBBに受かるか：元面接官がケース解答を採点・添削 【1題まるごと無料／3題は合格水準の添削解答つき】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【28卒】外資IT・AI企業のケース面接・フェルミ推定40問（営業・技術営業・カスタマーサクセス向け）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【デロイト トーマツ サイバー企業研究】ES・面接対策・聞かれることは？｜就職難易度・ケース面接・ハンズオン・インターン＋想定質問100問 内定直結」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
-  - 「参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「調べる問いが定まらない、顧客への確かめ方に迷う、調査結果を企画に落とし込めない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説」（https://unistyleinc.com/techniques/1459）
-  - 「ケース面接とは？フェルミ推定との違いや出題業界について解説」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -336,22 +336,24 @@
 - 文脈：統計
 - 手順・やり方：
   - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
-  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
-  - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】｜水無瀬あずさ＠複業ライター」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「Week4「公的データの使い方」のまとめと感想」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「それではWeek4「公的データの使い方」の講義を受けて、印象に残ったことや感想などをまとめてみたいと思います」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「実はあまり使い方を知らなかったのですが、これからは使いこなしてデータ分析もできるライターを目指したいです」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「え、統計に関する法律なんてあるの･･･誰得･･･？って思いませんか？私、「統計法」って勝手に「統計方法」のことと思っていたんですが、法律のことだったんですね」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「適切かつ合理的な方法により、かつ、中立性及び信頼性が確保されるように作成されなければならない」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「を持っていれば、次の方法で」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「のデータをExcelでダウンロードするための方法は、「」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「これらのサイトの使い方は、「」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「折角データベース方式を導入しながら、古い方法のほうが便利だという皮肉な結果になっている」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「経済データは普通は項目を選び、その後に期間を選ぶというのが普通の利用方法なので、」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「2. How to Request 2」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「This User Manual provides an overview of how to use the API. For important points to」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「2. How to Request」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「three methods. The API provides users with access to all available data, similar to the search」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「Data Retrieval Method Scope of Accessible Data Output File Format」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「Here are some examples of how to specify Layers:」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「(Example) How to Count the Specified Upper Limit.」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「(Example) How to Count the Search Upper Limit per Request.」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「[How to Specify Parameters for the Next Search]」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
 - 突き合わせ・推定：
   - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「「データベースから探す」の最初は「人口推計」」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「Major methods of statistics production include the method mainly based on statistical survey, method to tabulate materials held by government agencies, and method to estimate by processing and calculating other statistics and data. Statistical survey is produced in the SBJ basically following the flow as shown below.」（https://www.stat.go.jp/english/info/guide/2025pamphlet.html）
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -364,24 +366,22 @@
   - 「市町村別農業産出額（推計）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている」（https://note.com/keisemi/n/naf14ab3c9062）
-  - 「各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される」（https://note.com/keisemi/n/naf14ab3c9062）
-  - 「オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース」（https://note.com/keisemi/n/naf14ab3c9062）
 - 一次情報の探し方：
-  - 「経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「経済センサスの​統計表の​取り方と​活用法｜​業種の​事業所数・​企業等の​数・​売上の​規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「経済センサスは、事業所と企業を業種・地域・規模ごとに数えた国の統計で、e-Statから登録なしで統計表のExcelを取れます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「令和6年経済センサス‐基礎調査の統計表は、e-Statの画面から登録なしでExcelを取れ、2026年11月2日に取った6本は合わせて19,072,317バイトだった」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「取り方：e-Statの「ファイルから探す」で表番号を選んでExcelを落とす」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「経済センサス‐基礎調査とは、事業所と企業の産業・従業者規模などを、全国と地域別に明らかにする国の統計調査です」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「民営事業所の甲調査は令和6年6月に行われ、令和7年12月に確報が公表されました（総務省統計局の頁）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「統計表は業種・地域・規模ごとの数で、個々の会社の名前はありません」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「統計局は、調査の対象の範囲が違うため、令和3年の活動調査などとの比較には留意が必要としています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「取り方​：e-Statの​「ファイルから​探す」で​表番号を​選んで​Excelを​落とす」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「のメニューの「統計データを探す」の下の「ファイルから探す」に、政府統計ごとのファイルの一覧があります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「https://www.e-stat.go.jp/stat-search/files?toukei=00200552」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「弊社が開いたこの一覧の23表は、22表がExcel、1表がPDFで、CSVのボタンはありませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「30年くらい前まで、私の研究室は統計月報の類で埋め尽くされていた」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「EXCEL形式で提供されていれれば、すぐにさまざまな統計処理ができる」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「他の国と比べても、日本は統計先進国だ」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「は、日本政府の統計ポータルサイトだから、ここには、人口の統計があるに違いない」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「統計データは、「統計データを探す」からお探しください」という表示が出る」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「そこで「統計データ」を開くが、どこにあるか、すぐには」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「きわめて多数の統計表があり、どれを見たらよいかが分からないのだ」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「これは、人口統計に限った問題ではない」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「官庁によるデータ提供は、データがPDFでしか提供されていない場合がきわめて多い」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「予算や税に関するデータは、財務省の統計データは、似たような内容のものがホームページに雑然と掲載されており、非常に使いにくい」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「ここには、税収の推移や負担率など、税に関してしばしば用いる統計データがある」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「しかし、サイトの構成は分かりにくく、しかも、信じられないことに、データはPDFでしか提供されていない」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「・ウエブにあるpdfファイルをダウンロードする」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「「ファイルを選択」でダウンロードしたpdfファイルを選択」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「ウエブにあるpdfファイルのスクリーンショットを撮り、それを Excelファイルに貼り付ける」（https://note.com/yukionoguchi/n/n72456a1984f8）
 - 失敗・落とし穴：
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -406,14 +406,14 @@
   - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「採石業者の業務の状況に関する報告書の集計結果」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
-  - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「全国の民営事業所数は4,023,941、従業者数は56,285,043人で、統計局の結果の概要の数と同じでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「4,023,941は、そこから事業内容等不詳の事業所を除いた数です（結果の概要）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「これとは別に、統計局の令和6年経済センサス‐基礎調査の頁は、統計データを引用・転載する場合に、出典「経済センサス‐基礎調査結果」（総務省統計局）の表記をお願いしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「「経済センサス‐基礎調査結果」（総務省統計局）（」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「（例えば売上高、営業利益等々）があり、それを業種別、企業規模別等に知る必要があるので、データベース方式は大変有用だ」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「折角データベース方式を導入しながら、古い方法のほうが便利だという皮肉な結果になっている」（https://note.com/yukionoguchi/n/n72456a1984f8）
+  - 「1. Example of Parameters Specification and Output Files 24」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「2. Example of Parameter Specification 26」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「refers to the portion preceding "<Parameter>," is fixed and case-sensitive.」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「Both Parameter Names and their values are case-insensitive. Additionally, when specifying」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「represent any weekly frequency. In the case of the '/getDataLayer,' if "W" is specified as the」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
+  - 「frequencies cannot be mixed in a single request. For example, to retrieve codes for "W1" and "W4,"」（https://www.stat-search.boj.or.jp/info/api_manual_en.pdf）
 
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
@@ -2794,8 +2794,8 @@
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -9165,27 +9165,39 @@
   - 「は、題名や抄録の文字列そのものを引く方法です」（https://www.conolab.co.jp/lit-search/）
   - 「特にレビュー論文を書くつもりがあるなら、記録がないと方法の節が書けません」（https://www.conolab.co.jp/lit-search/）
   - 「そして、ここで作った記録が、そのままレビューの方法の節になり、緒言の「まだ検討されていない」の根拠になります」（https://www.conolab.co.jp/lit-search/）
-  - 「システマティックレビューとは？やり方を8ステップで解説」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
+  - 「文献調査とは？やり方を初心者向けに解説｜論文の探し方・進め方・コツ | Scholar Compass」（https://scholarcompass.net/columns/3）
 - 突き合わせ・推定：
+  - 「文献調査がうまくいくと、研究テーマの妥当性を確認できるだけでなく、研究背景、関連研究、仮説、方法の設計まで進めやすくなります」（https://scholarcompass.net/columns/3）
+  - 「たとえば「批判的思考力の介入研究において、授業設計の要因として〜と〜が繰り返し検討されており（〇〇, 2020；△△, 2021；□□, 2023）、効果量の推定には〜という課題が残っている（□□, 2023；◇◇, 2024）」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
+  - 「There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses?」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとし、フィルタは慎重に使うこと、そして開発の信頼性、報告された性能、頻繁に変わるインターフェースや索引付けを踏まえた現時点での正確さで評価することを求めています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとしていますが、CENTRALには使わないとしています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses? Lancet. 2000;356(9237):1228–1231. doi: 10.1016/S0140-6736(00)02786-0.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 一次情報の探し方：
+  - 「：国内学術誌の多くはJ-STAGEに掲載されており、オープンアクセスで本文PDFをダウンロードできる」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
+  - 「The PRISMA-S checklist is available for download in Word and portable document format (PDF) formats from the PRISMA Statement website [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「PDF (735.5 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「統計・検定の選び方（EZR・カイ二乗とFisher・回帰）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「医学統計解析サポート（¥79,800〜）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「統計監査（¥39,800）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「EZR（Easy R）は、統計ソフトRをマウス操作で使えるようにした無料のソフトウェアです」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「統計解析・統計チェック・メタアナリシスに対応します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「(142.2KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「PDF (720.0 KB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 失敗・落とし穴：
+  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Song F, Parekh-Bhurke S, Hooper L, Loke YK, Ryder JJ, Sutton AJ, Hing CB, Harvey I. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「MEDLINE/PubMedを使った137件の系統的レビューの検索式を調べた研究では、92.7%の検索式に何らかの誤りがあり、最も多かった誤りは自然言語・統制語の両方で用語が不足していることと、MeSHに関する誤りでした（Salvador-Oliván ら, 2019）」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「7. 検索式をチェックしてもらう：PRESSとよくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「著者らの系統的レビューでは、構造化されたPRESSが検索の誤りを見つけ、検索語の選択を改善できる可能性が示唆されました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
@@ -9194,28 +9206,22 @@
   - 「バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「Song F, Parekh-Bhurke S, Hooper L, et al. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009;9:79. doi: 10.1186/1471-2288-9-79.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 実例：
   - 「検索して件数が出たら、それは結果ではなく指示です」（https://www.conolab.co.jp/lit-search/）
   - 「図2 件数は結果ではなく、次の指示」（https://www.conolab.co.jp/lit-search/）
   - 「デザインで絞ると、質的研究や事例報告が一括で消えます」（https://www.conolab.co.jp/lit-search/）
   - 「この4つを順に踏むだけで、行き当たりばったりの検索とは違う結果になります」（https://www.conolab.co.jp/lit-search/）
-  - 「うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「フィルタ後の結果の30.9%」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「フィルタ後の結果の51.4%」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「5. 実例：9本の検索行と最終検索式」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「研究デザイン、結果の解釈、結論、投稿の判断は研究者に帰属します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「実例では、それぞれが相手の見つけなかった記録を見つけました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「実例では、自由語だけで見つかった記録が、各ORブロックの54.6%（うつ病）と52.9%（運動）を占めました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「: A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「: Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「: Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+  - 「検索結果を大量に集めるだけでは、先行研究の全体像はつかめません」（https://scholarcompass.net/columns/3）
+  - 「文献調査では、検索場所の選び方が結果を大きく左右します」（https://scholarcompass.net/columns/3）
+  - 「PubMed は生物医学・生命科学分野の大規模データベースで、検索タグやフィルタを使って結果を絞り込みやすく、Free full text や LinkOut から全文に進める導線もあります」（https://scholarcompass.net/columns/3）
+  - 「検索結果が出たら、いきなり全文を読み始めないのがコツです」（https://scholarcompass.net/columns/3）
+  - 「検索結果の詳細画面では、引用情報、関連文献、被引用、参考文献などが確認できるデータベースも多く、これらを活用すると整理効率が上がります」（https://scholarcompass.net/columns/3）
+  - 「Google Scholar のヘルプでも、結果が広すぎる場合は年で絞る、狭すぎる場合は参考文献や Cited by をたどるなど、検索結果から次の検索に進む考え方が案内されています」（https://scholarcompass.net/columns/3）
+  - 「文献マトリックス（比較表）に研究目的・方法・結果・限界を記録し、テーマ別に分類する」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
+  - 「例えば「海外では研究されているが日本では未検討」「成人を対象にした研究は多いが高校生対象は少ない」「量的研究は蓄積されているが質的な経験知は不足」といった観点で先行研究を見直すと、自分の研究が必要とされる理由が明確になります」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
+  - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
+  - 「A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
+  - 「Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycInfo.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
 - 文脈：裏取り
@@ -10214,11 +10220,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ8頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ8頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ8頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ8頁・検索12回）
+- 実例：記載なし（読んだ8頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
@@ -10295,6 +10301,8 @@
   - 「多くの解説記事では「電子公告」を一括りにしていますが、実は決算公告だけを電子公告にするケースと、合併公告や資本減少公告なども含めてすべてを電子公告にするケースでは、要件が大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
+  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
 
 ## 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活（detect column misalignment when flattening tables from PDF HTML table extraction validation）
 - 文脈：method
@@ -10311,8 +10319,8 @@
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ

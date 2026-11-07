@@ -5,7 +5,7 @@
   "PLEX JOB"
  ],
  "context": "物流・製造の求人と人材紹介",
- "researched_at": "2026-11-07T04:42:57.977829+00:00",
+ "researched_at": "2026-11-07T12:45:17.737097+00:00",
  "official_url": "https://plex.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -259,7 +259,803 @@
   ]
  },
  "evidence": {
+  "製造業の顧客": [
+   {
+    "quote": "多品種少量生産メーカー向けMES（製造実行システム）3選",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制御システムも含め、工場全体を",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従来の紙やExcelの運用から、デジタルへ移行するのを阻むさまざまな課題を解消するため、ITツールに不慣れでも使いやすい操作性を実現し、顧客の要望に応じて、スピーディーに機能のアップデートを繰り返してきたことが、サクミルが選ばれている理由の一つだと思います",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "セールスやカスタマーサクセスのメンバーが、クライアント企業との中長期的な信頼関係を築き、顧客の要望を集め、それを適宜社内に共有して連携を図っているため、ニーズに合った迅速な機能開発が可能です",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 傘下事業の連動 ── 同じ顧客に何度も売れる構造",
+    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プレックスのビジネス構造の核心は、SMSと同じく「同じ顧客プールに、性質の違う複数のサービスを連続して売り続けられる」という設計にあります",
+    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、1社の顧客との関係が、人材紹介→SaaS→M&Aと連続的に複数の収益機会を生み続ける構造になっています",
+    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "既存の人材事業や物流業界、製造業、建設業でのご経験が活きている部分もあるのでしょうか？",
+    "url": "https://remedy-tokyo.co.jp/media/3942/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この段階で自己研鑽しながら顧客に価値を提供したいという方には、経験豊富な社員の話を聞く機会があります",
+    "url": "https://remedy-tokyo.co.jp/media/3942/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に向き合いながら、提供価値を広げ、いまも急成長を続けています",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が本当に必要としている価値を深く理解し、考え抜く",
+    "url": "https://plex.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の成功を第一に考え、その価値が最大化されることで、",
+    "url": "https://plex.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の課題は「自分の課題」です",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "成果の源泉は、どれだけ本気で顧客の成功に向き合えるかにあります",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の成功＝提供価値こそが、すべての成果の源泉です",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の声とデータを元に徹底的に磨き込み、",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に向き合いながら提供価値を広げ、",
+    "url": "https://plex.co.jp/recruit/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスでは、顧客価値を徹底的に追求しながら、",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスのキャリアアドバイザーは、事業・顧客・組織を横断して向き合う経験を通じて、1つの役割や職種に閉じず、",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に向き合いながら提供価値を広げ、いまも急成長を続けています",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "顧問先・取引先の建設業者様のデジタル化を支援したいパートナー様は、ぜひお気軽にお問い合わせください",
+    "url": "https://plex.co.jp/news/sakumiru-4000/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/news/sakumiru-4000/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "AIとのやり取りで施工場所や工事内容を具体化し、必要な工事項目を整理して見積のたたき台を作成します",
+    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "サクミルは、リリース3年間で顧客数3000社を突破した、クラウド型の現場管理・工事管理・経営管理サービスです",
+    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/recruit/system/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の人材紹介サービス",
+    "url": "https://plex.co.jp/%3Ehttps:/plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客価値を追求する",
+    "url": "https://plex.co.jp/recruit/newgraduate/culture/",
+    "pass": 1
+   },
+   {
+    "quote": "学生時代の飲食アルバイトで、地方の運送業や製造業の経営者と接する中で、人材不足などエッセンシャルワーカー産業の課題を実感し、事業への納得感を持てたプレックスへの入社を決めました",
+    "url": "https://plex.co.jp/recruit/newgraduate/career/",
+    "pass": 1
+   },
+   {
+    "quote": "営業や顧客折衝未経験の方でも活躍",
+    "url": "https://plex.co.jp/recruit/careeradvisor/reasons/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・顧客・組織を横断して向き合う経験を通じて、1つの役割や職種に閉じず、",
+    "url": "https://plex.co.jp/recruit/careeradvisor/reasons/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との関係構築とチームでの情報連携を密におこない、成果を最大化",
+    "url": "https://plex.co.jp/recruit/careeradvisor/members/",
+    "pass": 1
+   },
+   {
+    "quote": "目先の数字を追うだけではなく、顧客にとって何がベストな選択肢なのか考え抜くことが求められます",
+    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "そうした顧客起点を徹底できている人が、結果として売上を立てて活躍しており、決して業界経験がある人ばかりが抜きん出ている訳ではありません",
+    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "どの領域を担当する場合でも、大切なのは「顧客に向き合い、プロとして介在価値を発揮しようとする姿勢」です",
+    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、プレックスが対象としているのは、我々の生活の根幹を支えているにも関わらず、深刻な人材不足に悩まされているエッセンシャルワーカー産業を対象としており、目先の数字で社会への貢献実感が持てない、本当に顧客のために働けているのかわからないという方にもおすすめできる環境です",
+    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "」の玩具企画・デザイン制作専従メーカーとして「株式会社ポピー企画室」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "需要拡大の裏で整備士不足に悩む自動車再生メーカーがベテラン・若手計5名の採用に成功",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "自動車再生メーカー",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "広く応募を「待つ」採用手法の限界と焦り弊社は、インフラや製造業を支える産業用熱交...",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "大型開口部機器製造業",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "応募ゼロだったメーカーが国家資格保有者含む技術職4名の採用に成功",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "プラント設備製造業",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "組織の高齢化に悩む地方メーカーが 導入1年未満で20~30代3名の採用に成功",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "若手人材の不足に直面していた地方製造業弊社は、上下水道や消火栓といった社会インフラに欠かせない「バル...",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "はん用機械器具製造業",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・メーカーの人材紹介サービス",
+    "url": "https://biz.plex-job.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "スモールスタートしたいおすすめメーカー向け",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外に多くの工場があるメーカー向け",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造分野別 MESシステム（製造実行システム）導入事例",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造分野別 MESシステム（製造実行システム）導入事例_TOP",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "機械メーカー",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "自律型MES（Autonomous MES）とは？AIエージェントで実現する次世代工場の構築",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の原価高騰対策とMES",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業全体におけるコンプライアンスや品質、効率性の確保を目指した製造業向けの包括的なソフトウェアです",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場全体のDXを推進し生産効率を最大化する",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "Plex-MESの導入事例",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ERPに接続して製造現場の制御を行い、品質の向上やリスク低減、顧客満足度の向上などの実現を目指すことができます",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "下記の「製造現場のニーズ別 MESシステム 3選」では、カスタマイズ性に優れたMESや、工場全体のDX化が図れるMES、グローバル規制に対応したMESを厳選してご紹介しています",
+    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1981年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "粗利96億の社長 創業1年目の役員報酬は月5万円 - YouTube",
+    "url": "https://www.youtube.com/shorts/kCtxs_mksOI",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "粗利96億の社長 創業1年目の役員報酬は月5万円",
+    "url": "https://www.youtube.com/shorts/kCtxs_mksOI",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エッセンシャルワーカー採用研究所は、物流・建設・製造・介護など基幹産業の採用課題に向き合うために、株式会社プレックスが2026年7月に設立した専門機関です",
+    "url": "https://plex.co.jp/news/ewri-report-5/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設立日 ：2018年4月9日",
+    "url": "https://plex.co.jp/news/ewri-report-5/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/news/ewri-report-5/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/newgraduate/contents/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プレックスは創業以来、常に黒字で増収を続けています",
+    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ノンエクイティベンチャー」の僕たちが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/story/new-graduate-engineering-recruitment/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業以来、黒字増収を実現してきました",
+    "url": "https://plex.co.jp/story/new-graduate-engineering-recruitment/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
+    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
+    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし創業初期は、まだお客さんの具体的な課題への理解も浅く、資金も少ないです",
+    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2020年、創業２年目のタイミングで",
+    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」の玩具企画・デザイン制作専従メーカーとして「株式会社ポピー企画室」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1981年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プレックスは創業以来、常に黒字増収を続け、創業8期目で売上96億円を達成しました",
+    "url": "https://job-draft.jp/scout/companies/1812/zakkubaran",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年に創業し、ドライバーの人材紹介事業からスタートした株式会社プレックスは、8期目にして売上高96億円へと成長した",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "――最初に、創業者である黒﨑様のご経歴をお聞かせください",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業以来、黒字増収を実現してきました",
+    "url": "https://plex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出",
+    "url": "https://plex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この姿勢は、創業当初から今に至るまで、",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスは創業以来、常に黒字増収を続けています",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来変わらない私たちの姿勢です",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を実現してきました",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その積み重ねが、創業以来の着実な成長と実績につながっています",
+    "url": "https://plex.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪オフィス設立",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "北海道オフィス設立",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋オフィス設立",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "新潟、京都、熊本の3拠点にオフィス設立",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "仙台、福岡の2拠点にオフィス設立",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
+    "url": "https://plex.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは創業以来、黒字増収を実現してきました",
+    "url": "https://plex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、創業以来、常に黒字で増収を続け、",
+    "url": "https://plex.co.jp/recruit/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、創業8期目で売上96億円を達成しました",
+    "url": "https://plex.co.jp/recruit/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、創業以来、常に黒字で増収を続け、",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、創業8期目で売上96億円を突破しました",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年、人口減少やデジタル化の遅れから生まれるエッセンシャルワーカー産業の課題を解決するため、株式会社プレックスを創業",
+    "url": "https://plex.co.jp/recruit/careeradvisor/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、常に黒字増収",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来一貫して黒字経営を続け、年々増収増益",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
+    "url": "https://plex.co.jp/recruit/biz-planning/",
+    "pass": 1
+   },
+   {
+    "quote": "創業事業はドライバー向けの人材紹介から始まり、プレックスジョブのサービス提供を開始",
+    "url": "https://plex.co.jp/news/sakumiru-4000/",
+    "pass": 1
+   },
+   {
+    "quote": "設立日 ：2018年4月9日",
+    "url": "https://plex.co.jp/news/sakumiru-4000/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/news/sakumiru-4000/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出 | 株式会社プレックス",
+    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出",
+    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "設立日 ：2018年4月9日",
+    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "設立日 ：2018年4月9日",
+    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を実現してきました",
+    "url": "https://plex.co.jp/recruit/system/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/system/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、黒字増収を継続できているのは、",
+    "url": "https://plex.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
+    "url": "https://plex.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/%3Ehttps:/plex.co.jp/about/ways-we-work/",
+    "pass": 1
+   },
+   {
+    "quote": "プレックスは創業以来、常に黒字で増収を続けています",
+    "url": "https://plex.co.jp/recruit/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "創業8期目には売上96億円を達成しましたが、まだまだ通過点",
+    "url": "https://plex.co.jp/recruit/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした挑戦ができるのは、創業からずっと黒字を続け、毎年しっかりと売上を伸ばしてきた「安定した経営の土台」があるからです",
+    "url": "https://plex.co.jp/recruit/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
+    "url": "https://plex.co.jp/recruit/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
+    "url": "https://plex.co.jp/recruit/newgraduate/culture/",
+    "pass": 1
+   },
+   {
+    "quote": "自分の手で事業を動かし、社会へ与える価値を大きくしたい想いから、創業1期目のプレックスに入社しました",
+    "url": "https://plex.co.jp/recruit/newgraduate/career/",
+    "pass": 1
+   }
+  ],
   "検索結果の抜粋": [
+   {
+    "quote": "Plex 製造実行システム(MES) | FactoryTalk — Plex 製造実行システム(MES) | FactoryTalk Rockwell Automation https://www.rockwellautomation.com > ... > MES",
+    "url": "https://www.rockwellautomation.com/ja-jp/products/software/factorytalk/operationsuite/mes/plex-mes.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "製造業 の品質管理革 新:IATF16949と PLEX の活用 — 製造業 の品質管理革 新:IATF16949と PLEX の活用 Rockwell Automation PDF https://www.rockwellautomation.com > sites > pdf",
+    "url": "https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/downloads/pdf/Business-Background-of-Quality-Management-in-the-Automotive-Industry-by-Yoshizaki.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Plex へようこそ! — Plex へようこそ! Plex https://watch.plex.tv > ...",
+    "url": "https://watch.plex.tv/ja",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "株式会社プレックス | 日本を動かす仕組みをつくる — 株式会社プレックス | 日本を動かす仕組みをつくる 株式会社プレックス https://plex.co.jp",
     "url": "https://plex.co.jp/",
@@ -1154,102 +1950,6 @@
     "pass": 1
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "Space Designer Noriko Baba -TDP Student Story Magazine ... Space Designer Noriko Baba -TDP Student Story Magazine ... note https://note.com > tokyo_designplex",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Plex HW Transcoding Not Working? A Troubleshooting Guide Plex HW Transcoding Not Working? A Troubleshooting Guide note https://note.com > ... > アプリケーション",
-    "url": "https://note.com/pc_article/n/nfd06194ef376?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Building a Business in 3 Days” PLEX Internship Report - note “Building a Business in 3 Days” PLEX Internship Report - note note https://note.com > ビジネス > スタートアップ・VC",
-    "url": "https://note.com/plex/n/n9824c7fd7fa3?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reporting on the 2026 First Half PLEX MEETUP! - note Reporting on the 2026 First Half PLEX MEETUP! - note note https://note.com > ビジネス > 戦略・組織論",
-    "url": "https://note.com/plex/n/nfeeadac56055?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Why I returned to Plex to 'keep challenging myself with ... - note Why I returned to Plex to 'keep challenging myself with ... - note note https://note.com > ... > その他人物インタビュー",
-    "url": "https://note.com/plex/n/n3e52c09abff3?hl=en",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社プレックス（ PLEX ）｜日本を動かす仕組みを作る 株式会社プレックス（ PLEX ）｜日本を動かす仕組みを作る note https://note.com > plex",
-    "url": "https://note.com/plex",
-    "pass": 3
-   },
-   {
-    "quote": "I was supporting their hiring, and then I joined the company ... I was supporting their hiring, and then I joined the company ... note https://note.com > plex",
-    "url": "https://note.com/plex/n/n96cff2a5aff1?hl=en",
-    "pass": 3
-   },
-   {
-    "quote": "Plex Employees Share Their Real-World Experiences｜株式 ... Plex Employees Share Their Real-World Experiences｜株式 ... note https://note.com > キャリア > キャリア全般",
-    "url": "https://note.com/plex/n/nd7e1717e3a62?hl=en",
-    "pass": 3
-   },
-   {
-    "quote": "黒﨑 俊 / プレックス代表取締役 - note 黒﨑 俊 / プレックス代表取締役 - note note https://note.com > shunkurosaki",
-    "url": "https://note.com/shunkurosaki",
-    "pass": 3
-   },
-   {
-    "quote": "プレックス代表 黒﨑の note ｜株式会社プレックス（ PLEX ） プレックス代表 黒﨑の note ｜株式会社プレックス（ PLEX ） note https://note.com > plex",
-    "url": "https://note.com/plex/m/m0459c5ac95d4",
-    "pass": 3
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Christa Foley - Vice President, People at Plex , Inc. - LinkedIn Christa Foley - Vice President, People at Plex , Inc. - LinkedIn LinkedIn https://www.linkedin.com > christafoley",
-    "url": "https://www.linkedin.com/in/christafoley",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PLEX Solutions, LLC - LinkedIn PLEX Solutions, LLC - LinkedIn LinkedIn https://www.linkedin.com > company",
-    "url": "https://www.linkedin.com/company/plex-solutions-llc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Install and Set Up Plex Media Server on Ubuntu How to Install and Set Up Plex Media Server on Ubuntu LinkedIn https://www.linkedin.com > pulse > h...",
-    "url": "https://www.linkedin.com/pulse/how-install-set-up-plex-media-server-ubuntu-ambu-vijayan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Plex , Inc. - LinkedIn Plex , Inc. - LinkedIn LinkedIn https://www.linkedin.com > plex-inc",
-    "url": "https://www.linkedin.com/company/plex-inc",
-    "pass": 3
-   },
-   {
-    "quote": "Plex , by Rockwell Automation - LinkedIn Plex , by Rockwell Automation - LinkedIn LinkedIn https://www.linkedin.com > company",
-    "url": "https://www.linkedin.com/company/plex-by-rockwell-automation",
-    "pass": 3
-   },
-   {
-    "quote": "Plex Research | LinkedIn Plex Research | LinkedIn LinkedIn https://www.linkedin.com > company",
-    "url": "https://www.linkedin.com/company/plex-research",
-    "pass": 3
-   },
-   {
-    "quote": "How to Fix Plex Movies Not Showing Up - LinkedIn How to Fix Plex Movies Not Showing Up - LinkedIn LinkedIn https://www.linkedin.com > pulse > h...",
-    "url": "https://www.linkedin.com/pulse/how-fix-plex-movies-showing-up-common-causes-solutions-lo0kc",
-    "pass": 3
-   }
-  ],
   "売上・規模": [
    {
     "quote": "M&A仲介事業立ち上げ2年目として、過去の上場記録を超える6.2億円の売上を突破",
@@ -1618,7 +2318,47 @@
     "pass": 1
    }
   ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Does anyone in this group run Plex on their box? I have a ... Does anyone in this group run Plex on their box? I have a ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/696911488315271/posts/1248807516458996/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is Plex really free to use? - Facebook Is Plex really free to use? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1822375414455870/posts/8638680449491965/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Why run a plex media server? - Facebook Why run a plex media server? - Facebook Facebook https://www.facebook.com > homeserversetups > posts",
+    "url": "https://www.facebook.com/groups/homeserversetups/posts/3303749523259869/",
+    "pass": 3
+   },
+   {
+    "quote": "Plex Pro | Campbell CA - Facebook Plex Pro | Campbell CA - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/plexapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I use IP TV subscription with Plex server? - Facebook Can I use IP TV subscription with Plex server? - Facebook Facebook https://www.facebook.com > homeserversetups > posts",
+    "url": "https://www.facebook.com/groups/homeserversetups/posts/3304279329873555/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve video quality, organize your library, turn Plex into a ... Improve video quality, organize your library, turn Plex into a ... Facebook https://www.facebook.com > lifehacker > posts > improve...",
+    "url": "https://www.facebook.com/lifehacker/posts/improve-video-quality-organize-your-library-turn-plex-into-a-cable-tv-guide-and-/1463176942341988/",
+    "pass": 3
+   }
+  ],
   "料金": [
+   {
+    "quote": "クレジットカードやサブスクリプション料金、また明示されていない手数料などもありません",
+    "url": "https://watch.plex.tv/ja",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "粗利96億の社長 創業1年目の役員報酬は月5万円 - YouTube",
     "url": "https://www.youtube.com/shorts/kCtxs_mksOI",
@@ -2000,6 +2740,40 @@
    {
     "quote": "20代前半で年収800万円になったら、それを見た仲間たちの士気が高まりますし、働く人たちのテンションが上がるかどうかを基準に仕組み化していくほうが、個々の能力や可能性が引き出されて、結果として会社全体の業績があがっていくと考えています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Plex Media Servers are being hijacked by unauthenticated ... Plex Media Servers are being hijacked by unauthenticated ... X https://x.com > @AGTPinsights",
+    "url": "https://x.com/AGTPinsights/status/2111919513877016670",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "黒﨑俊 / プレックス代表取締役 (@shunkurosaki) / X 黒﨑俊 / プレックス代表取締役 (@shunkurosaki) / X X https://x.com > shunkurosaki",
+    "url": "https://x.com/shunkurosaki",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Plex (@ plex ) / X Plex (@ plex ) / X X https://x.com > plex",
+    "url": "https://x.com/plex",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Plex (@ plex ) / X Replies by Plex (@ plex ) / X X https://x.com > plex > with_replies",
+    "url": "https://x.com/plex/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Newegg on X: \" Plex Server Week is here — exclusively at ... Newegg on X: \" Plex Server Week is here — exclusively at ... X https://x.com > @Newegg",
+    "url": "https://x.com/Newegg/status/2102548576509341765",
+    "pass": 3
+   },
+   {
+    "quote": "Hackers are exploiting four patched Plex Media Server flaws ... Hackers are exploiting four patched Plex Media Server flaws ... X https://x.com > @TheHackersNews",
+    "url": "https://x.com/TheHackersNews/status/2112391529126101243",
     "pass": 3
    }
   ],
@@ -2466,776 +3240,104 @@
     "pass": 3
    }
   ],
-  "製造業の顧客": [
+  "株主構成": [
    {
-    "quote": "多品種少量生産メーカー向けMES（製造実行システム）3選",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "制御システムも含め、工場全体を",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従来の紙やExcelの運用から、デジタルへ移行するのを阻むさまざまな課題を解消するため、ITツールに不慣れでも使いやすい操作性を実現し、顧客の要望に応じて、スピーディーに機能のアップデートを繰り返してきたことが、サクミルが選ばれている理由の一つだと思います",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "セールスやカスタマーサクセスのメンバーが、クライアント企業との中長期的な信頼関係を築き、顧客の要望を集め、それを適宜社内に共有して連携を図っているため、ニーズに合った迅速な機能開発が可能です",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "■ 傘下事業の連動 ── 同じ顧客に何度も売れる構造",
+    "quote": "SMSは医療・介護・ヘルスケア領域でインフラ的なプラットフォームを構築している東証プライム上場企業です",
     "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "プレックスのビジネス構造の核心は、SMSと同じく「同じ顧客プールに、性質の違う複数のサービスを連続して売り続けられる」という設計にあります",
+    "quote": "VCの出資を受けると、5〜7年でのEXIT(上場or売却)を求められます",
     "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "つまり、1社の顧客との関係が、人材紹介→SaaS→M&Aと連続的に複数の収益機会を生み続ける構造になっています",
-    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "quote": "ブラウ・ファーマセウティカ、PLEX子会社への最大200万米ドルの投資を承認",
+    "url": "https://www.webull.co.jp/news-detail/15839011757057024",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "既存の人材事業や物流業界、製造業、建設業でのご経験が活きている部分もあるのでしょうか？",
+    "quote": "ブラウ・ファーマセウティカの取締役会は2026年10月28日に会合を開き、米国子会社への投資を満場一致で支持しました",
+    "url": "https://www.webull.co.jp/news-detail/15839011757057024",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業・PEファンドによる国内外のM&Aに従事",
     "url": "https://remedy-tokyo.co.jp/media/3942/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この段階で自己研鑽しながら顧客に価値を提供したいという方には、経験豊富な社員の話を聞く機会があります",
-    "url": "https://remedy-tokyo.co.jp/media/3942/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客に向き合いながら、提供価値を広げ、いまも急成長を続けています",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客が本当に必要としている価値を深く理解し、考え抜く",
-    "url": "https://plex.co.jp/about/philosophy/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客の成功を第一に考え、その価値が最大化されることで、",
-    "url": "https://plex.co.jp/about/philosophy/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/about/philosophy/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客の課題は「自分の課題」です",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "成果の源泉は、どれだけ本気で顧客の成功に向き合えるかにあります",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客の成功＝提供価値こそが、すべての成果の源泉です",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客の声とデータを元に徹底的に磨き込み、",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/about/message/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/recruit/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客に向き合いながら提供価値を広げ、",
-    "url": "https://plex.co.jp/recruit/newgraduate/",
-    "pass": 1
-   },
-   {
-    "quote": "プレックスでは、顧客価値を徹底的に追求しながら、",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "プレックスのキャリアアドバイザーは、事業・顧客・組織を横断して向き合う経験を通じて、1つの役割や職種に閉じず、",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客に向き合いながら提供価値を広げ、いまも急成長を続けています",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/news/",
-    "pass": 1
-   },
-   {
-    "quote": "顧問先・取引先の建設業者様のデジタル化を支援したいパートナー様は、ぜひお気軽にお問い合わせください",
-    "url": "https://plex.co.jp/news/sakumiru-4000/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/news/sakumiru-4000/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
-    "pass": 1
-   },
-   {
-    "quote": "AIとのやり取りで施工場所や工事内容を具体化し、必要な工事項目を整理して見積のたたき台を作成します",
-    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
-    "pass": 1
-   },
-   {
-    "quote": "サクミルは、リリース3年間で顧客数3000社を突破した、クラウド型の現場管理・工事管理・経営管理サービスです",
-    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/recruit/system/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/recruit/message/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業の人材紹介サービス",
-    "url": "https://plex.co.jp/%3Ehttps:/plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客価値を追求する",
-    "url": "https://plex.co.jp/recruit/newgraduate/culture/",
-    "pass": 1
-   },
-   {
-    "quote": "学生時代の飲食アルバイトで、地方の運送業や製造業の経営者と接する中で、人材不足などエッセンシャルワーカー産業の課題を実感し、事業への納得感を持てたプレックスへの入社を決めました",
-    "url": "https://plex.co.jp/recruit/newgraduate/career/",
-    "pass": 1
-   },
-   {
-    "quote": "営業や顧客折衝未経験の方でも活躍",
-    "url": "https://plex.co.jp/recruit/careeradvisor/reasons/",
-    "pass": 1
-   },
-   {
-    "quote": "事業・顧客・組織を横断して向き合う経験を通じて、1つの役割や職種に閉じず、",
-    "url": "https://plex.co.jp/recruit/careeradvisor/reasons/",
-    "pass": 1
-   },
-   {
-    "quote": "顧客との関係構築とチームでの情報連携を密におこない、成果を最大化",
-    "url": "https://plex.co.jp/recruit/careeradvisor/members/",
-    "pass": 1
-   },
-   {
-    "quote": "目先の数字を追うだけではなく、顧客にとって何がベストな選択肢なのか考え抜くことが求められます",
-    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
-    "pass": 1
-   },
-   {
-    "quote": "そうした顧客起点を徹底できている人が、結果として売上を立てて活躍しており、決して業界経験がある人ばかりが抜きん出ている訳ではありません",
-    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
-    "pass": 1
-   },
-   {
-    "quote": "どの領域を担当する場合でも、大切なのは「顧客に向き合い、プロとして介在価値を発揮しようとする姿勢」です",
-    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
-    "pass": 1
-   },
-   {
-    "quote": "そして、プレックスが対象としているのは、我々の生活の根幹を支えているにも関わらず、深刻な人材不足に悩まされているエッセンシャルワーカー産業を対象としており、目先の数字で社会への貢献実感が持てない、本当に顧客のために働けているのかわからないという方にもおすすめできる環境です",
-    "url": "https://plex.co.jp/recruit/careeradvisor/faq/",
-    "pass": 1
-   },
-   {
-    "quote": "」の玩具企画・デザイン制作専従メーカーとして「株式会社ポピー企画室」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
-    "pass": 3
-   },
-   {
-    "quote": "需要拡大の裏で整備士不足に悩む自動車再生メーカーがベテラン・若手計5名の採用に成功",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "自動車再生メーカー",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "広く応募を「待つ」採用手法の限界と焦り弊社は、インフラや製造業を支える産業用熱交...",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "大型開口部機器製造業",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "応募ゼロだったメーカーが国家資格保有者含む技術職4名の採用に成功",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "プラント設備製造業",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "組織の高齢化に悩む地方メーカーが 導入1年未満で20~30代3名の採用に成功",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "若手人材の不足に直面していた地方製造業弊社は、上下水道や消火栓といった社会インフラに欠かせない「バル...",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "はん用機械器具製造業",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "製造業・メーカーの人材紹介サービス",
-    "url": "https://biz.plex-job.com/case",
-    "pass": 3
-   },
-   {
-    "quote": "スモールスタートしたいおすすめメーカー向け",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "海外に多くの工場があるメーカー向け",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "製造分野別 MESシステム（製造実行システム）導入事例",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "製造分野別 MESシステム（製造実行システム）導入事例_TOP",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "機械メーカー",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "自律型MES（Autonomous MES）とは？AIエージェントで実現する次世代工場の構築",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の原価高騰対策とMES",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "企業全体におけるコンプライアンスや品質、効率性の確保を目指した製造業向けの包括的なソフトウェアです",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "工場全体のDXを推進し生産効率を最大化する",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "Plex-MESの導入事例",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "さらに、ERPに接続して製造現場の制御を行い、品質の向上やリスク低減、顧客満足度の向上などの実現を目指すことができます",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   },
-   {
-    "quote": "下記の「製造現場のニーズ別 MESシステム 3選」では、カスタマイズ性に優れたMESや、工場全体のDX化が図れるMES、グローバル規制に対応したMESを厳選してご紹介しています",
-    "url": "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "pass": 3
-   }
-  ],
-  "創業年度": [
-   {
-    "quote": "粗利96億の社長 創業1年目の役員報酬は月5万円 - YouTube",
-    "url": "https://www.youtube.com/shorts/kCtxs_mksOI",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "粗利96億の社長 創業1年目の役員報酬は月5万円",
-    "url": "https://www.youtube.com/shorts/kCtxs_mksOI",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "エッセンシャルワーカー採用研究所は、物流・建設・製造・介護など基幹産業の採用課題に向き合うために、株式会社プレックスが2026年7月に設立した専門機関です",
-    "url": "https://plex.co.jp/news/ewri-report-5/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "設立日 ：2018年4月9日",
-    "url": "https://plex.co.jp/news/ewri-report-5/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/news/ewri-report-5/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/newgraduate/contents/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
-    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プレックスは創業以来、常に黒字で増収を続けています",
-    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ノンエクイティベンチャー」の僕たちが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/story/new-graduate-engineering-recruitment/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業以来、黒字増収を実現してきました",
-    "url": "https://plex.co.jp/story/new-graduate-engineering-recruitment/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
-    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
-    "url": "https://plex.co.jp/recruit/careeradvisor/company/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし創業初期は、まだお客さんの具体的な課題への理解も浅く、資金も少ないです",
+    "quote": "名前のとおり「上場企業のIR資料を約1000社ぶん読み込んで、分析してみよう！」というもの",
     "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2020年、創業２年目のタイミングで",
+    "quote": "上場企業を1000社も分析すれば",
     "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "」の玩具企画・デザイン制作専従メーカーとして「株式会社ポピー企画室」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
-    "pass": 3,
+    "quote": "まずは、上場企業約3900社のうち",
+    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
+    "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "1981年設立の企業",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プレックスは創業以来、常に黒字増収を続け、創業8期目で売上96億円を達成しました",
-    "url": "https://job-draft.jp/scout/companies/1812/zakkubaran",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2018年に創業し、ドライバーの人材紹介事業からスタートした株式会社プレックスは、8期目にして売上高96億円へと成長した",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "――最初に、創業者である黒﨑様のご経歴をお聞かせください",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業以来、黒字増収を実現してきました",
-    "url": "https://plex.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出",
-    "url": "https://plex.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "この姿勢は、創業当初から今に至るまで、",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "プレックスは創業以来、常に黒字増収を続けています",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来変わらない私たちの姿勢です",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を実現してきました",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/about/",
-    "pass": 1
-   },
-   {
-    "quote": "その積み重ねが、創業以来の着実な成長と実績につながっています",
-    "url": "https://plex.co.jp/about/philosophy/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/about/philosophy/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/about/ways-we-work/",
-    "pass": 1
-   },
-   {
-    "quote": "大阪オフィス設立",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "北海道オフィス設立",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "名古屋オフィス設立",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "新潟、京都、熊本の3拠点にオフィス設立",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "仙台、福岡の2拠点にオフィス設立",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/about/profile/",
-    "pass": 1
-   },
-   {
-    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
+    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
     "url": "https://plex.co.jp/about/message/",
     "pass": 1
    },
    {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/about/message/",
-    "pass": 1
-   },
-   {
-    "quote": "私たちは創業以来、黒字増収を実現してきました",
-    "url": "https://plex.co.jp/recruit/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/",
-    "pass": 1
-   },
-   {
-    "quote": "その結果、創業以来、常に黒字で増収を続け、",
-    "url": "https://plex.co.jp/recruit/newgraduate/",
-    "pass": 1
-   },
-   {
-    "quote": "2025年度は、創業8期目で売上96億円を達成しました",
-    "url": "https://plex.co.jp/recruit/newgraduate/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/newgraduate/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
     "url": "https://plex.co.jp/recruit/careeradvisor/",
     "pass": 1
    },
    {
-    "quote": "その結果、創業以来、常に黒字で増収を続け、",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "2025年度は、創業8期目で売上96億円を突破しました",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "2018年、人口減少やデジタル化の遅れから生まれるエッセンシャルワーカー産業の課題を解決するため、株式会社プレックスを創業",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/news/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を続ける急成長ベンチャー",
+    "quote": "M&A仲介事業立ち上げ2年目として、過去の上場記録を超える6.2億円の売上を突破",
     "url": "https://plex.co.jp/recruit/biz-planning/",
     "pass": 1
    },
    {
-    "quote": "創業以来、常に黒字増収",
+    "quote": "2022年に早稲田大学を卒業後、東証プライム上場ベンチャーでコーポレートブランディングや新規事業の立ち上げに従事",
     "url": "https://plex.co.jp/recruit/biz-planning/",
     "pass": 1
    },
    {
-    "quote": "創業8期目で売上96億円を達成しましたが、まだまだ通過点",
+    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
     "url": "https://plex.co.jp/recruit/biz-planning/",
     "pass": 1
    },
    {
-    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来一貫して黒字経営を続け、年々増収増益",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "創業事業はドライバー向けの人材紹介から始まり、プレックスジョブのサービス提供を開始",
-    "url": "https://plex.co.jp/news/sakumiru-4000/",
-    "pass": 1
-   },
-   {
-    "quote": "設立日 ：2018年4月9日",
-    "url": "https://plex.co.jp/news/sakumiru-4000/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/news/sakumiru-4000/",
-    "pass": 1
-   },
-   {
-    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出 | 株式会社プレックス",
-    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
-    "pass": 1
-   },
-   {
-    "quote": "創業8年で20事業、売上96億円まで成長したプレックス、新卒採用の強化に向けて都内各駅に採用広告を掲出",
-    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
-    "pass": 1
-   },
-   {
-    "quote": "設立日 ：2018年4月9日",
-    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/news/newgraduate-recruitment-ad-2026/",
-    "pass": 1
-   },
-   {
-    "quote": "設立日 ：2018年4月9日",
-    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/news/sakumiru-estimate-ai/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を実現してきました",
-    "url": "https://plex.co.jp/recruit/system/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/system/",
-    "pass": 1
-   },
-   {
-    "quote": "創業以来、黒字増収を継続できているのは、",
+    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
     "url": "https://plex.co.jp/recruit/message/",
     "pass": 1
    },
    {
-    "quote": "2018年、人口減少やデジタル化の遅れから生まれる日本を支える「基幹産業」の課題を解決するため、株式会社プレックスを創業",
-    "url": "https://plex.co.jp/recruit/message/",
-    "pass": 1
+    "quote": "の完全子会社で、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
    },
    {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/message/",
-    "pass": 1
+    "quote": "（昭和60年）6月 - 親会社の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
    },
    {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/%3Ehttps:/plex.co.jp/about/ways-we-work/",
-    "pass": 1
+    "quote": "私は、2015年に医療・介護領域の人材紹介を手がける株式会社エス・エム・エス（東証プライム上場）に新卒で入社し、2年目にウェブマーケティング、3年目に新規事業責任者を担当した後、18年に株式会社プレックスを創業し、ドライバーの人材紹介事業を始めました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3
    },
    {
-    "quote": "プレックスは創業以来、常に黒字で増収を続けています",
-    "url": "https://plex.co.jp/recruit/newgraduate/company/",
-    "pass": 1
-   },
-   {
-    "quote": "創業8期目には売上96億円を達成しましたが、まだまだ通過点",
-    "url": "https://plex.co.jp/recruit/newgraduate/company/",
-    "pass": 1
-   },
-   {
-    "quote": "こうした挑戦ができるのは、創業からずっと黒字を続け、毎年しっかりと売上を伸ばしてきた「安定した経営の土台」があるからです",
-    "url": "https://plex.co.jp/recruit/newgraduate/company/",
-    "pass": 1
-   },
-   {
-    "quote": "ノンエクイティベンチャーの僕らが、創業７年で700人まで急成長できた理由",
-    "url": "https://plex.co.jp/recruit/newgraduate/company/",
-    "pass": 1
-   },
-   {
-    "quote": "この姿勢は、創業当初から今に至るまで、私たちの文化として脈々と受け継がれています",
-    "url": "https://plex.co.jp/recruit/newgraduate/culture/",
-    "pass": 1
-   },
-   {
-    "quote": "自分の手で事業を動かし、社会へ与える価値を大きくしたい想いから、創業1期目のプレックスに入社しました",
-    "url": "https://plex.co.jp/recruit/newgraduate/career/",
-    "pass": 1
+    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス(東証プライム上場)へ入社",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "pass": 3
    }
   ],
   "採用・人数": [
@@ -3844,40 +3946,6 @@
     "quote": "中途・新卒 採用情報 | 株式会社プレックス",
     "url": "https://plex.co.jp/recruit/",
     "pass": 1
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "Does anyone in this group run Plex on their box? I have a ... Does anyone in this group run Plex on their box? I have a ... Facebook https://www.facebook.com > groups > posts",
-    "url": "https://www.facebook.com/groups/696911488315271/posts/1248807516458996/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is Plex really free to use? - Facebook Is Plex really free to use? - Facebook Facebook https://www.facebook.com > groups > posts",
-    "url": "https://www.facebook.com/groups/1822375414455870/posts/8638680449491965/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Why run a plex media server? - Facebook Why run a plex media server? - Facebook Facebook https://www.facebook.com > homeserversetups > posts",
-    "url": "https://www.facebook.com/groups/homeserversetups/posts/3303749523259869/",
-    "pass": 3
-   },
-   {
-    "quote": "Plex Pro | Campbell CA - Facebook Plex Pro | Campbell CA - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
-    "url": "https://www.facebook.com/plexapp/",
-    "pass": 3
-   },
-   {
-    "quote": "Can I use IP TV subscription with Plex server? - Facebook Can I use IP TV subscription with Plex server? - Facebook Facebook https://www.facebook.com > homeserversetups > posts",
-    "url": "https://www.facebook.com/groups/homeserversetups/posts/3304279329873555/",
-    "pass": 3
-   },
-   {
-    "quote": "Improve video quality, organize your library, turn Plex into a ... Improve video quality, organize your library, turn Plex into a ... Facebook https://www.facebook.com > lifehacker > posts > improve...",
-    "url": "https://www.facebook.com/lifehacker/posts/improve-video-quality-organize-your-library-turn-plex-into-a-cable-tv-guide-and-/1463176942341988/",
-    "pass": 3
    }
   ],
   "発言": [
@@ -4494,137 +4562,99 @@
     "pass": 1
    }
   ],
-  "株主構成": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "SMSは医療・介護・ヘルスケア領域でインフラ的なプラットフォームを構築している東証プライム上場企業です",
-    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "quote": "Space Designer Noriko Baba -TDP Student Story Magazine ... Space Designer Noriko Baba -TDP Student Story Magazine ... note https://note.com > tokyo_designplex",
+    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Plex HW Transcoding Not Working? A Troubleshooting Guide Plex HW Transcoding Not Working? A Troubleshooting Guide note https://note.com > ... > アプリケーション",
+    "url": "https://note.com/pc_article/n/nfd06194ef376?hl=en",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "VCの出資を受けると、5〜7年でのEXIT(上場or売却)を求められます",
-    "url": "https://note.com/lithe_poppy8924/n/nffa61061a049",
+    "quote": "“Building a Business in 3 Days” PLEX Internship Report - note “Building a Business in 3 Days” PLEX Internship Report - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/plex/n/n9824c7fd7fa3?hl=en",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ブラウ・ファーマセウティカ、PLEX子会社への最大200万米ドルの投資を承認",
-    "url": "https://www.webull.co.jp/news-detail/15839011757057024",
+    "quote": "Reporting on the 2026 First Half PLEX MEETUP! - note Reporting on the 2026 First Half PLEX MEETUP! - note note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/plex/n/nfeeadac56055?hl=en",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ブラウ・ファーマセウティカの取締役会は2026年10月28日に会合を開き、米国子会社への投資を満場一致で支持しました",
-    "url": "https://www.webull.co.jp/news-detail/15839011757057024",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業・PEファンドによる国内外のM&Aに従事",
-    "url": "https://remedy-tokyo.co.jp/media/3942/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名前のとおり「上場企業のIR資料を約1000社ぶん読み込んで、分析してみよう！」というもの",
-    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業を1000社も分析すれば",
-    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは、上場企業約3900社のうち",
-    "url": "https://note.com/shunkurosaki/n/n4c1e5a3e2c3e",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
-    "url": "https://plex.co.jp/about/message/",
-    "pass": 1
-   },
-   {
-    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
-    "url": "https://plex.co.jp/recruit/careeradvisor/",
-    "pass": 1
-   },
-   {
-    "quote": "M&A仲介事業立ち上げ2年目として、過去の上場記録を超える6.2億円の売上を突破",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "2022年に早稲田大学を卒業後、東証プライム上場ベンチャーでコーポレートブランディングや新規事業の立ち上げに従事",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
-    "url": "https://plex.co.jp/recruit/biz-planning/",
-    "pass": 1
-   },
-   {
-    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社",
-    "url": "https://plex.co.jp/recruit/message/",
-    "pass": 1
-   },
-   {
-    "quote": "の完全子会社で、",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "quote": "Why I returned to Plex to 'keep challenging myself with ... - note Why I returned to Plex to 'keep challenging myself with ... - note note https://note.com > ... > その他人物インタビュー",
+    "url": "https://note.com/plex/n/n3e52c09abff3?hl=en",
     "pass": 3
    },
    {
-    "quote": "（昭和60年）6月 - 親会社の",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+    "quote": "株式会社プレックス（ PLEX ）｜日本を動かす仕組みを作る 株式会社プレックス（ PLEX ）｜日本を動かす仕組みを作る note https://note.com > plex",
+    "url": "https://note.com/plex",
     "pass": 3
    },
    {
-    "quote": "私は、2015年に医療・介護領域の人材紹介を手がける株式会社エス・エム・エス（東証プライム上場）に新卒で入社し、2年目にウェブマーケティング、3年目に新規事業責任者を担当した後、18年に株式会社プレックスを創業し、ドライバーの人材紹介事業を始めました",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "quote": "I was supporting their hiring, and then I joined the company ... I was supporting their hiring, and then I joined the company ... note https://note.com > plex",
+    "url": "https://note.com/plex/n/n96cff2a5aff1?hl=en",
     "pass": 3
    },
    {
-    "quote": "上智大学卒業後、2015年に株式会社エス・エム・エス(東証プライム上場)へ入社",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "quote": "Plex Employees Share Their Real-World Experiences｜株式 ... Plex Employees Share Their Real-World Experiences｜株式 ... note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/plex/n/nd7e1717e3a62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "黒﨑 俊 / プレックス代表取締役 - note 黒﨑 俊 / プレックス代表取締役 - note note https://note.com > shunkurosaki",
+    "url": "https://note.com/shunkurosaki",
+    "pass": 3
+   },
+   {
+    "quote": "プレックス代表 黒﨑の note ｜株式会社プレックス（ PLEX ） プレックス代表 黒﨑の note ｜株式会社プレックス（ PLEX ） note https://note.com > plex",
+    "url": "https://note.com/plex/m/m0459c5ac95d4",
     "pass": 3
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "Plex Media Servers are being hijacked by unauthenticated ... Plex Media Servers are being hijacked by unauthenticated ... X https://x.com > @AGTPinsights",
-    "url": "https://x.com/AGTPinsights/status/2111919513877016670",
+    "quote": "Christa Foley - Vice President, People at Plex , Inc. - LinkedIn Christa Foley - Vice President, People at Plex , Inc. - LinkedIn LinkedIn https://www.linkedin.com > christafoley",
+    "url": "https://www.linkedin.com/in/christafoley",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PLEX Solutions, LLC - LinkedIn PLEX Solutions, LLC - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/plex-solutions-llc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "黒﨑俊 / プレックス代表取締役 (@shunkurosaki) / X 黒﨑俊 / プレックス代表取締役 (@shunkurosaki) / X X https://x.com > shunkurosaki",
-    "url": "https://x.com/shunkurosaki",
+    "quote": "How to Install and Set Up Plex Media Server on Ubuntu How to Install and Set Up Plex Media Server on Ubuntu LinkedIn https://www.linkedin.com > pulse > h...",
+    "url": "https://www.linkedin.com/pulse/how-install-set-up-plex-media-server-ubuntu-ambu-vijayan",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Plex (@ plex ) / X Plex (@ plex ) / X X https://x.com > plex",
-    "url": "https://x.com/plex",
+    "quote": "Plex , Inc. - LinkedIn Plex , Inc. - LinkedIn LinkedIn https://www.linkedin.com > plex-inc",
+    "url": "https://www.linkedin.com/company/plex-inc",
     "pass": 3
    },
    {
-    "quote": "Replies by Plex (@ plex ) / X Replies by Plex (@ plex ) / X X https://x.com > plex > with_replies",
-    "url": "https://x.com/plex/with_replies",
+    "quote": "Plex , by Rockwell Automation - LinkedIn Plex , by Rockwell Automation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/plex-by-rockwell-automation",
     "pass": 3
    },
    {
-    "quote": "Newegg on X: \" Plex Server Week is here — exclusively at ... Newegg on X: \" Plex Server Week is here — exclusively at ... X https://x.com > @Newegg",
-    "url": "https://x.com/Newegg/status/2102548576509341765",
+    "quote": "Plex Research | LinkedIn Plex Research | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/plex-research",
     "pass": 3
    },
    {
-    "quote": "Hackers are exploiting four patched Plex Media Server flaws ... Hackers are exploiting four patched Plex Media Server flaws ... X https://x.com > @TheHackersNews",
-    "url": "https://x.com/TheHackersNews/status/2112391529126101243",
+    "quote": "How to Fix Plex Movies Not Showing Up - LinkedIn How to Fix Plex Movies Not Showing Up - LinkedIn LinkedIn https://www.linkedin.com > pulse > h...",
+    "url": "https://www.linkedin.com/pulse/how-fix-plex-movies-showing-up-common-causes-solutions-lo0kc",
     "pass": 3
    }
   ]
@@ -4756,7 +4786,7 @@
    },
    {
     "url": "https://www.plex.tv/about/",
-    "status": "ok",
+    "status": "network_error:TooManyRedirects",
     "method": "http"
    },
    {
@@ -4805,7 +4835,12 @@
     "method": ""
    },
    {
-    "url": "https://www.plex.tv/ja/media-server-downloads/",
+    "url": "https://watch.plex.tv/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
     "status": "ok",
     "method": "http"
    },
@@ -4813,11 +4848,6 @@
     "url": "https://x.com/shunkurosaki",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1412",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://note.com/plex/n/n3e52c09abff3?hl=en",
@@ -4830,7 +4860,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "url": "https://note.com/plex/n/nd7e1717e3a62?hl=en",
     "status": "ok",
     "method": "http"
    },
@@ -4850,12 +4880,12 @@
     "method": ""
    },
    {
-    "url": "https://x.com/TheHackersNews/status/2112391529126101243",
+    "url": "https://x.com/Newegg/status/2102548576509341765",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://x.com/Newegg/status/2102548576509341765",
+    "url": "https://x.com/TheHackersNews/status/2112391529126101243",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4875,7 +4905,7 @@
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/in/christafoley",
+    "url": "https://www.linkedin.com/pulse/how-fix-plex-movies-showing-up-common-causes-solutions-lo0kc",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4926,14 +4956,14 @@
    "query": "PLEX 株主 OR 出資 OR 親会社",
    "results": [
     "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
-    "https://plex.co.jp/about/profile/",
     "https://www.plex.tv/about/",
-    "https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/",
+    "https://plex.co.jp/",
     "https://note.com/lithe_poppy8924/n/nffa61061a049",
-    "https://gamebiz.jp/news/296533",
+    "https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/",
     "https://www.webull.co.jp/news-detail/15839011757057024",
-    "https://www.wantedly.com/companies/plex/post_articles/890272",
+    "https://gamebiz.jp/news/296533",
     "https://www.obayashi.co.jp/news/detail/news20260618_3.html",
+    "https://www.wantedly.com/companies/plex/post_articles/890272",
     "https://ja.wikipedia.org/wiki/親会社"
    ]
   },
@@ -4943,13 +4973,13 @@
     "https://plex.co.jp/news/internship/",
     "https://www.plex.tv/ja/about/",
     "https://en.wikipedia.org/wiki/Plex",
+    "https://www.rockwellautomation.com/ja-jp/products/software/factorytalk/operationsuite/mes/plex-mes.html",
     "https://www.reddit.com/r/PleX/comments/x9saks/what_is_plex_please_explain_for_layman/?tl=ja",
     "https://note.com/plex/n/n04a639acd37b",
-    "https://www.rockwellautomation.com/ja-jp/products/software/factorytalk/operationsuite/mes/plex-mes.html",
     "https://www.wantedly.com/companies/plex/about",
     "https://www.youtube.com/shorts/SS1-4Np4a3I",
     "https://pitchbook.com/profiles/company/58842-64",
-    "https://ja.wikipedia.org/wiki/起業"
+    "https://ja.wikipedia.org/wiki/プレックス"
    ]
   },
   {
@@ -4973,10 +5003,10 @@
     "https://www.rockwellautomation.com/ja-jp/products/software/factorytalk/operationsuite/mes/plex-mes.html",
     "https://biz.plex-job.com/case",
     "https://www.mes-magazine.com/mes-system/plex-mes.html",
-    "https://dx.nsw.co.jp/solution/smart-factory/plex/",
+    "https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/downloads/pdf/Business-Background-of-Quality-Management-in-the-Automotive-Industry-by-Yoshizaki.pdf",
     "https://www.youtube.com/watch?v=VWv7Yftrivk",
-    "https://monoist.itmedia.co.jp/mn/articles/2607/15/news005.html",
-    "https://manufacture.it-trend.jp/mes/plex-mes/",
+    "https://dx.nsw.co.jp/solution/smart-factory/plex/",
+    "https://digitalpr.jp/r/145973",
     "https://www.industrialsolutionsnetwork.com/cespasco/resources/aug-articles/excel-is-not-an-mes---integrating-plex-into-your-operations?_gl=1*hdb1jy*_gcl_au*oty3nzkymtywlje3odcznduwnjg.*_ga*ndu2nzkwmdc5lje3odcznduwnjg.*_ga_zg1x0jvq9c*cze3odc4mzc1mzkkbzekzzekdde3odc4ndg0ndakaju3jgwwjggw",
     "https://www.nssol.nipponsteel.com/press/2026/20261015_110000.html",
     "https://plex.rockwellautomation.com/ja-jp/case-studies/jay-industries-achieves-major-yearly-savings-and-increases-overall-equipment.html"
@@ -4987,13 +5017,13 @@
    "results": [
     "https://www.plex.tv/ja/plans/",
     "https://www.reddit.com/r/PleX/comments/1jfkamt/plex_extra_cost/?tl=ja",
-    "https://www.plex.tv/ja/media-server-downloads/",
+    "https://watch.plex.tv/ja",
     "https://finance.biggo.jp/news/202605212126_Plex_Lifetime_Pass_Price_Triples_to_%24749",
     "https://www.rapidseedbox.com/ja/blog/plex-alternatives",
     "https://www.reddit.com/r/PleX/comments/1jf5hpm/plex_pass_price_increase_and_term_changes/?tl=ja",
-    "https://protonvpn.com/ja/blog/plex-streaming-app?srsltid=AYCX9vKJpPCP_MxDhZEjhLuvQ3FmmUKQXLLEXhXwoxJCBqIRqHfkU20k",
+    "https://www.plex.tv/ja/media-server-downloads/",
+    "https://protonvpn.com/ja/blog/plex-streaming-app?srsltid=AYCX9vLnzw-82DUz8Z2Cb5vZ3vsfAlMPn2BZU5Rrs9p04uqENHadvn3C",
     "https://www.plex.tv/ja/blog/new-lifetime-plex-pass-pricing/",
-    "https://www.plex.tv/ja/your-media/",
     "https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/"
    ]
   },
@@ -5001,14 +5031,14 @@
    "query": "PLEX 社長 インタビュー",
    "results": [
     "https://plex.co.jp/news/_0lqgywo/",
-    "https://x.com/shunkurosaki",
     "https://hrbc.porters.jp/magazine/special_detail/id=1412",
+    "https://x.com/shunkurosaki",
     "https://remedy-tokyo.co.jp/media/3942/",
     "https://words-inc.co.jp/client-voice/plex/",
     "https://www.youtube.com/watch?v=dPLmiFjRrAQ",
-    "https://unique-box.jp/corporate-research/plex-kurosaki/",
     "https://note.com/plex/m/mbc9cb09e3578",
-    "https://plex.co.jp/story/",
+    "https://unique-box.jp/corporate-research/plex-kurosaki/",
+    "https://www.youtube.com/@plex_official_contents",
     "https://www.youtube.com/watch?v=JBKMPOEsL7Y"
    ]
   },
@@ -5017,14 +5047,14 @@
    "results": [
     "https://note.com/plex/n/n3e52c09abff3?hl=en",
     "https://note.com/plex",
-    "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "https://note.com/pc_article/n/nfd06194ef376?hl=en",
-    "https://note.com/plex/n/n5f2f7092667f?hl=en",
-    "https://note.com/plex/n/na1b33c4db749",
     "https://note.com/plex/n/nd7e1717e3a62?hl=en",
+    "https://note.com/pc_article/n/nfd06194ef376?hl=en",
     "https://note.com/plex/n/nfeeadac56055?hl=en",
-    "https://note.com/tokyo_designplex/m/m61c885a862f0",
-    "https://note.com/tnnmyc1556/n/n630d10503d8c"
+    "https://note.com/snake_dragon/n/n6b7b6c111256",
+    "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "https://note.com/plex/n/na1b33c4db749",
+    "https://note.com/sam_will/n/nf8cd7d78b918",
+    "https://note.com/plex/m/mbc9cb09e3578"
    ]
   },
   {
@@ -5032,14 +5062,14 @@
    "results": [
     "https://x.com/plex",
     "https://x.com/plex/with_replies",
-    "https://x.com/TheHackersNews/status/2112391529126101243",
     "https://x.com/Newegg/status/2102548576509341765",
-    "https://x.com/ComplexSims",
-    "https://x.com/Solarplexuss_",
+    "https://x.com/TheHackersNews/status/2112391529126101243",
     "https://x.com/theo/status/2091123250076266601",
+    "https://x.com/ComplexSims",
     "https://x.com/IntCyberDigest/status/2111842662898688346",
     "https://x.com/plexapp",
-    "https://x.com/plex/status/2056799812830322916"
+    "https://x.com/Solarplexuss_",
+    "https://x.com/AGTPinsights/status/2111919513877016670"
    ]
   },
   {
@@ -5048,11 +5078,11 @@
     "https://www.linkedin.com/company/plex-inc",
     "https://www.linkedin.com/company/plex-by-rockwell-automation",
     "https://www.linkedin.com/company/plex-research",
-    "https://www.linkedin.com/in/christafoley",
     "https://www.linkedin.com/pulse/how-fix-plex-movies-showing-up-common-causes-solutions-lo0kc",
+    "https://www.linkedin.com/in/christafoley",
     "https://www.linkedin.com/company/plex-solutions-llc",
     "https://www.linkedin.com/posts/timothystewart6_plex-grafana-prometheus-activity-7375952026796683264-DxUn",
-    "https://www.linkedin.com/company/plex-international-logistics",
+    "https://www.linkedin.com/company/gotoplex",
     "https://www.linkedin.com/pulse/how-install-set-up-plex-media-server-ubuntu-ambu-vijayan",
     "https://in.linkedin.com/company/plex-by-rockwell-automation"
    ]
@@ -5065,10 +5095,10 @@
     "https://www.facebook.com/groups/1822375414455870/posts/8638680449491965/",
     "https://www.facebook.com/lifehacker/posts/improve-video-quality-organize-your-library-turn-plex-into-a-cable-tv-guide-and-/1463176942341988/",
     "https://www.facebook.com/howtogeek/posts/i-stopped-using-the-official-plex-client-after-trying-this-open-source-third-par/1435517725277897/",
-    "https://www.facebook.com/PCMag/posts/sick-of-streaming-service-price-hikes-plan-changes-and-password-sharing-crackdow/1371853901481072/",
     "https://www.facebook.com/groups/PcBuildersCommunity/posts/2586233524993346/",
-    "https://www.facebook.com/groups/ugreennas/posts/1400744894753383/",
-    "https://www.facebook.com/groups/homeserversetups/posts/2922995798001912/",
+    "https://www.facebook.com/PCMag/posts/sick-of-streaming-service-price-hikes-plan-changes-and-password-sharing-crackdow/1371853901481072/",
+    "https://www.facebook.com/groups/videostorebackrooms/posts/1868386313790936/",
+    "https://www.facebook.com/groups/ctmotorcycle/posts/27313999918239535/",
     "https://www.facebook.com/GoToPlex/"
    ]
   },
@@ -5083,7 +5113,7 @@
     "https://plex.co.jp/story/person/kurosaki/",
     "https://www.youtube.com/watch?v=dPLmiFjRrAQ",
     "https://unique-box.jp/corporate-research/plex-kurosaki/",
-    "https://note.com/plex/all",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
     "https://plex.co.jp/story/category/note/"
    ]
   },
@@ -5095,11 +5125,11 @@
     "https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/",
     "https://www.plex.tv/ja/sign-up/",
     "https://www.plex.tv/blog/plexbox-one-x-emplexening/",
+    "https://watch.plex.tv/ja",
     "https://x.com/plex/with_replies",
     "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
-    "https://www.plex.tv/ja/your-media/",
     "https://x.com/Junisonair/status/2114924161785274839",
-    "https://www.plex.tv/sign-in/"
+    "https://help.x.com/ja/using-x/edit-post"
    ]
   }
  ],
@@ -5109,65 +5139,43 @@
   "許認可": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部34頁・検索12回）"
  },
  "new_this_run": {
-  "SNS・note（note・検索結果の抜粋）": [
+  "創業年度": [
    {
-    "quote": "Space Designer Noriko Baba -TDP Student Story Magazine ... Space Designer Noriko Baba -TDP Student Story Magazine ... note https://note.com > tokyo_designplex",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "quote": "1981年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
-  "SNS・note（note・本文）": [
+  "検索結果の抜粋": [
    {
-    "quote": "Space Designer Noriko Baba -TDP Student Story Magazine com-plex vol.22-｜東京デザインプレックス研究所",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "quote": "Plex 製造実行システム(MES) | FactoryTalk — Plex 製造実行システム(MES) | FactoryTalk Rockwell Automation https://www.rockwellautomation.com > ... > MES",
+    "url": "https://www.rockwellautomation.com/ja-jp/products/software/factorytalk/operationsuite/mes/plex-mes.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Space Designer Noriko Baba -TDP Student Story Magazine com-plex vol.22-",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "quote": "製造業 の品質管理革 新:IATF16949と PLEX の活用 — 製造業 の品質管理革 新:IATF16949と PLEX の活用 Rockwell Automation PDF https://www.rockwellautomation.com > sites > pdf",
+    "url": "https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/downloads/pdf/Business-Background-of-Quality-Management-in-the-Automotive-Industry-by-Yoshizaki.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "It's not just about design; previous experience is put to good use. This is \"com-plex,\" a storytelling magazine that follows the graduates of the Tokyo Design Plex Institute.",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "quote": "Plex へようこそ! — Plex へようこそ! Plex https://watch.plex.tv > ...",
+    "url": "https://watch.plex.tv/ja",
     "pass": 3,
     "first_seen": "2026-11-07"
-   },
+   }
+  ],
+  "料金": [
    {
-    "quote": "This time, we are introducing Noriko Baba, who is active as a space designer. Ms. Baba works at WHATS Co., Ltd., where she is involved in the spatial planning and design of stores, primarily hair salons. We spoke with Ms. Baba about her career to date, the rewards of her work, and what she learned at TDP.",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A designer who watches over the process from start to finish, closer than anyone else",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "—Please tell us about your work, Ms. Baba.",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "At WHATS Co., Ltd. (hereinafter WHATS), I mainly work on interior design for stores, focusing on hair salons. I handle a wide range of tasks, from interviewing clients to proposing concepts, layout design, material selection, CG production, and creating presentation materials. I focus on creating stores that are not only beautiful in design but also practical and loved for a long time. It might be",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "—Please tell us about the projects you have handled and your commitment to your work.",
-    "url": "https://note.com/tokyo_designplex/n/n04c4364d7bfb?hl=en",
+    "quote": "クレジットカードやサブスクリプション料金、また明示されていない手数料などもありません",
+    "url": "https://watch.plex.tv/ja",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ]
  },
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-04T15:00:06.567857+00:00"
 }

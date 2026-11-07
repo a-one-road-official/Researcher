@@ -8,7 +8,7 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-07T07:42:16.520572+00:00",
+ "researched_at": "2026-11-07T12:48:09.333569+00:00",
  "evidence": {
   "実例": [
    {
@@ -253,12 +253,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.dir.co.jp/business/consulting/case/index.html",
+    "url": "https://www.fsa.go.jp/common/about/research/index.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.fsa.go.jp/common/about/research/index.html",
+    "url": "https://www.dir.co.jp/business/consulting/case/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -268,18 +268,18 @@
     "method": "http"
    },
    {
-    "url": "https://proffit.jp/column/1/cLrmKFcQ",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.daiwa-grp.jp/dfc/about/fd_jirei.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://teikoku-r.com/%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9/",
+    "url": "https://proffit.jp/column/1/cLrmKFcQ",
     "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -299,8 +299,8 @@
    },
    {
     "url": "https://medium.com/@gkunzile/10-common-ai-decision-log-mistakes-and-fixes-for-project-managers-0720d72fea5f",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://monday.com/blog/project-management/decision-log/",
@@ -364,14 +364,14 @@
    "query": "調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資） 事例",
    "results": [
     "https://www.nikkei-r.co.jp/service/analytics-consulting",
-    "https://www.dir.co.jp/business/consulting/case/index.html",
     "https://www.fsa.go.jp/common/about/research/index.html",
+    "https://www.dir.co.jp/business/consulting/case/index.html",
     "https://www.wiwiw.com/service/consulting/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://proffit.jp/column/1/cLrmKFcQ",
     "https://www.daiwa-grp.jp/dfc/about/fd_jirei.html",
-    "https://teikoku-r.com/%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9/",
+    "https://proffit.jp/column/1/cLrmKFcQ",
     "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "https://teikoku-r.com/%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9/",
     "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d"
    ]
   },
@@ -384,9 +384,9 @@
     "https://medium.com/@gkunzile/10-common-ai-decision-log-mistakes-and-fixes-for-project-managers-0720d72fea5f",
     "https://monday.com/blog/project-management/decision-log/",
     "https://raidlog.com/book-excerpts/decisions-log/",
-    "https://aviy.ai/blog/decision-log-template",
     "https://documentation.cochrane.org/revman-kb/decision-log-292749313.html",
-    "https://github.com/joelparkerhenderson/decision-record",
+    "https://aviy.ai/blog/decision-log-template",
+    "https://valiantceo.com/decision-log/",
     "https://ones.com/blog/engineering-decision-record-examples-document-assumptions-and-revisit-triggers/"
    ]
   },
@@ -446,13 +446,13 @@
    "results": [
     "https://note.com/kntn123/n/n6c5da3b8e68c",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/tafm/n/n58b43580a22d",
+    "https://note.com/chucon/n/n6d87843d2f04",
     "https://www.dir.co.jp/report/research/law-research/securities/20231012_023791.html",
     "https://www.nfrc.co.jp/evaluation/example.html",
     "https://www.fundnote.co.jp/news/2026/08/21/12611/",
     "https://ikenplus.cfa.go.jp/api/file/62BYA5YOP",
     "https://www.hiresteve.ai/ja/blog/win-loss-interviews-japan",
-    "https://note.com/chucon/n/n6d87843d2f04",
+    "https://longwave.co.jp/media/articles/lost-deal-analysis-howto.html",
     "https://note.com/jazzy_oxalis192/n/n6ae7f2fb902d"
    ]
   },
@@ -477,12 +477,12 @@
     "https://www.linkedin.com/posts/rameshchandranvadali_corporate-governance-is-a-resilience-investment-activity-7517238134619717632-Zln0",
     "https://www.linkedin.com/posts/rameshchandranvadali_calm-is-a-cros-risk-decision-advantage-activity-7513777798025691137-EJfX",
     "https://www.linkedin.com/top-content/productivity/techniques-for-better-decision-making/techniques-for-creating-a-decision-making-playbook/",
-    "https://www.linkedin.com/posts/paulbassat_ive-always-put-a-premium-on-optionality-activity-7506131036909572096-aq4t",
     "https://www.linkedin.com/pulse/decision-lifecycle-has-four-stages-most-enterprises-only-434pf",
+    "https://www.linkedin.com/pulse/loyal-dissent-how-real-leaders-give-away-authority-without-hardie-edqce",
+    "https://www.linkedin.com/posts/paulbassat_ive-always-put-a-premium-on-optionality-activity-7506131036909572096-aq4t",
     "https://www.linkedin.com/top-content/productivity/avoiding-decision-fatigue/creating-decision-protocols/",
     "https://www.linkedin.com/top-content/organizational-culture/inclusivity-in-decision-making/agile-decision-making-techniques/",
     "https://www.linkedin.com/posts/akio-simokomaki-913a25172_projectdiscovery-solutionarchitecture-activity-7508701806563201024-Z-hm",
-    "https://www.linkedin.com/posts/diwakarsinghbamentor_ba-solved-case-study-activity-7508024271575707648-je8b",
     "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf"
    ]
   }
@@ -493,6 +493,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-07T01:58:51.516255+00:00"
 }
