@@ -1,10 +1,11 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・151品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・154品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
 ## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
 - 文脈：推定
 - 手順・やり方：
+  - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
   - 「「WEB面接の特徴・必要な準備・場所や服装などのマナー・流れ・対策方法」を詳細に説明しています」（https://unistyleinc.com/techniques/1459）
@@ -19,8 +20,8 @@
   - 「やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「新規事業40フレームワーク実践集」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「デスクリサーチのやり方は6ステップ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「調査で避けたい4つのミスと修正方法」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 突き合わせ・推定：
+  - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定の人気・新着記事まとめ｜note」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「コンサルの面接対策や市場規模の算出、AIを活用した検証など、実務的な活用法に関する記事が集まっています」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
@@ -35,7 +36,6 @@
   - 「冬物コートは高いのに、なぜ傷む？「高く買って長く着る派」と「手頃に買い替える派」をフェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「〜通勤30秒でカラスにフンを落とされた男のフェルミ推定〜」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【文学フリマ】平均頒布数ってどのくらい！？ フェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「8人の当番表、12回対3回の差をフェルミ推定で見つけた情シス担当者の組み方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 一次情報の探し方：
   - 「リヴァイ兵長を採用して、掃除だけ頼んでいませんか？AIが使えない会社の話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
@@ -53,6 +53,7 @@
   - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1459）
   - 「企業の採用サイト就活サイトに載らない限定インターンシップや、早期募集がひっそり始まっていることもあります」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
+  - 「面接で「大学を選んだ理由」を答える際のポイント①正直に語る②専門外の人でも理解できるように言葉選びに注意する③自分の言葉で語る」（https://unistyleinc.com/techniques/1459）
   - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1459）
   - 「以下、フェルミ推定をする際の注意点をまとめておきます」（https://unistyleinc.com/techniques/1459）
@@ -67,7 +68,6 @@
   - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
-  - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1459）
 - 実例：
   - 「【2026年版】ナティクシス ケース面接対策100選｜株式デリバティブ・不動産ファイナンス・サステナブルファイナンスの回答プロセスとOK/NG回答を徹底解説」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
@@ -172,6 +172,7 @@
   - 「ここでは、そのうち、第一次元と第２次元の平面上に、評定者三名のそれぞれ三つずつあるケーススコアをプロットして、それらの類似度あるいは距離をみてみましょう」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「評定者ＲＥによるケーススコア軸に関わる対比的なラベルを取り出しておきます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
 - 検索結果の抜粋：
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【48時間の専門家化】Google検索は素人の所業。未知の業界の「急所」... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...」（https://note.com/kasano/n/n5300393c2f30）
@@ -186,7 +187,6 @@
   - 「Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research is the practice of using multiple data sources, methods, investigators or theories to study a single phenomenon, so that the findings rest on more than one line of evidence.」（https://www.researchprospect.com/triangulation/）
   - 「Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
   - 「(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.」（https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives）
-  - 「Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.」（https://www.scribbr.com/methodology/triangulation/）
 
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
@@ -3386,7 +3386,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -3699,8 +3699,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ11頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ11頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -6474,54 +6474,56 @@
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
 - 突き合わせ・推定：
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
 - 一次情報の探し方：
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
@@ -6535,24 +6537,22 @@
   - 「海外調査（グローバルリサーチ）とは？設計・実施・注意点を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「言語・文化的背景を踏まえた調査手法選択から注意点まで、ネットリサーチ・会場調査・定性調査…」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「本記事では、TAM・SAM・SOMの定義と計算方法（トップダウン・ボトムアップ・フェルミ推定）から、業界別の具体例、ピッチ資料での見せ方、よくある誤解と注意点まで実践的に解説します」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
-  - 「TAM・SAM・SOMについてよくある誤解と注意点」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
-  - 「SaaS・BtoBで注意すべきは、ARRベースの計算においてプランのグレード差を無視しないことです」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
 - 実例：
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
-  - 「筆者がこれまで支援してきた企業の多くは、市場規模を過大評価したまま参入し、事業計画が破綻する事例を繰り返してきました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
-  - 「筆者が支援したある消費財メーカーでは、市場機会分析を実施せずに新カテゴリーに参入した結果、想定市場規模の5分の1しか存在せず、3年で撤退を余儀なくされました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
 
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
@@ -7458,11 +7458,11 @@
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ13頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
@@ -8046,13 +8046,27 @@
 ## AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）（auditing AI chat output fabricated statistics verification）
 - 文脈：検証
 - 手順・やり方：
-  - 「生成AIの回答を信じて大丈夫？ハルシネーション（嘘）を見抜くファクトチェック手順」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「数字の直しが多ければ段階2で渡す資料を見直し、日付の直しが多ければ公式の発表を見る手順を先に固めます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「AI顧問・FDE型AI伴走支援・AIエージェント開発など、生成AIの相談から構築・現場定着までを一社で支援」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「数値なら「別の手順でもう一度計算して、2つが一致するか確かめて」と検算させると気づきやすくなります」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「外部から受け取る原稿にも、AI利用の有無と確認の方法を求める」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「導入前に整理しておきたい考え方、ルール設計、ツール選定、社内定着の進め方をまとめた資料です」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「2-1. 業務で特に警戒すべきは「事実型」と「創造型」」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「2-2. 「文脈型」「構造型」は長い会話・複雑な指示で起きやすい」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「しかし「事実型」「創造型」のハルシネーションは、文章として完璧に自然であるがゆえに、専門知識がないと誤りに気づけません」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「一方、「文脈型」「構造型」のハルシネーションは、やり取りが長くなったり、一度に複数の指示を出したりしたときに発生しやすい傾向があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「こうした複合型のハルシネーションは、個々の要素を見ると自然であるため、文章全体としての違和感にも気づきにくいという特徴があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「方法が、最も効果の高い対策のひとつです」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「どのツールを使うにしても、最も安全な使い方は」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「NotebookLMのような出典明示型のツールや、ClaudeのProjects機能のように資料を読み込ませて使う機能を積極的に活用しましょう」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「「事実型」「創造型」は特に見抜きにくく、業務での警戒度が高い」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「ここから先の進め方は、大きく2つあります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「でClaude Code／Codexの使い方から業務設計・社内定着まで伴走を受けながら、社内に仕組みを作る道があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「でこの記事のような定型業務を丸ごと預ける道があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「請求処理・データ入力・問い合わせ対応などの定型業務を、AI×人の品質管理体制で丸ごと代行」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「Q. ハルシネーションを完全に防ぐ方法はありますか？」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 - 突き合わせ・推定：
+  - 「社外提出資料・契約関連：必ず人間が原典と突き合わせて確認」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「配信管理画面の数値とAI生成レポートの数値を照合」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「A. 「数値・固有名詞は必ず元データと照合する」「社外に出る資料は人間が最終確認する」という2点だけでも、最低限のルールとして徹底する価値があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「完璧に見抜く必要はなく、「出典を聞く」「専門外の情報は別の情報源と照合する」「都合の良すぎる回答は疑う」という3つの視点を持つだけで、多くのケースに気づけるようになります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「印をつけた語を1語ずつ原典で突き合わせたか」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
@@ -8063,58 +8077,54 @@
   - 「裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「Chicago Sun-Times による検証記事、2025年5月29日」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「：脚注・参考文献を1件ずつ原典と照合する」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている」（https://panhouse.jp/insight/what-is-hallucination/）
 - 一次情報の探し方：
+  - 「単なる「分かりません」という回答ではなく、存在しない統計データや架空の文献、間違った固有名詞を、違和感のない自然な文章で提示してくる点が厄介なポイントです」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「引用元のない統計データを、公的な数値であるかのように提示してしまう」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「AIの回答を鵜呑みにせず、数値や事実については可能な限り一次情報（公式発表・契約書・元データ）に立ち返って確認することが、経営リスクを避けるうえで重要です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「この仕組みは「RAG（検索拡張生成）」と呼ばれ、NotebookLMのように渡した資料の中だけで回答するツールは、この考え方を採用しています」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「日報生成・採用選考・問い合わせ対応など、実際の企業で動いている自動化の中身を紹介」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「日報・採用・問い合わせ対応・経費精算・議事録・データ集計・営業リスト等の定型業務を、AIに代行させる体制を経営者と一緒に作り込む」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「【2026年11月最新】試用期間の延長はできる？能力不足のときの要件・手続き・本採用拒否の注意点と、社労士事務所が顧問先の試用期間管理をAIで自動化する方法」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「社会保険料・採用費・教育コストもかかりません」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「e-Gov法令検索、発行元のPDF」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「Webの記事、プレスリリース、採用ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「PDF・15ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「質問文と、社内の資料や原典のPDF」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「社内の資料や原典のPDFを渡し、「この資料に書かれている範囲で答える」「書かれていなければ、書かれていないと答える」と範囲を決めると、作り話の入る余地は小さくなります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「COMPANY PROFILE ／ PDF 全46ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「その外側——最新の出来事、社内だけの情報、ニッチな統計——を聞かれると、近そうな情報から推測で埋めてしまいます」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「判例・法令・統計数値の引用、契約条件、顧客への公式回答——正解が1つで、間違いが外に出る／法的な力を持つ」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「採用・人材育成の実務経験を活かし、企業向け「AI活用研修」の講師を担当」（https://panhouse.jp/insight/what-is-hallucination/）
 - 失敗・落とし穴：
-  - 「AIの誤りは、数字・固有名詞・日付・条文や引用の4種類の語に集まります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「ハルシネーションとは？AIの回答に誤りが混ざる仕組み」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「誤りが入りやすいのは、文章の言い回しよりも、事実を名指しする語です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「GoogleのAI回答にも「間違いが含まれている場合があります」と出る」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「Google検索のAIモードのヘルプには、AIの回答には間違いが含まれている場合があるという注意書きがあり、ウェブの内容を誤って解釈することがあるとも書かれています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「検索結果の上に出るAIの回答でも、提供する側が誤りを前提にしています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「AIの誤りは、どの書類に乗って社外に出るのか」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「AIの誤りが会社の問題になるのは、社外に出た時点です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「行き先ごとに、誤りが出たときの重さが違う」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「同じ誤りでも、乗った書類によって訂正の重さが変わります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「ファクトチェックは、作成者の注意力に任せる作業ではありません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「段階3では、作成者が自分の書いた文として読み返すので、大部分が正しい文の中にある1語の誤りが目に入りにくくなります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「質問の出し方で減らせる誤りと、減らせない誤り」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「質問の出し方を変えれば誤りは減りますが、無くなりはしません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「減らせる誤りと残る誤りを分けると、確認の手間をどこに残すかが決まります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「8-3. 視点3：「やけに都合がいい回答」には注意する」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「パターンを知っておくことで、どの場面で特に注意すべきかが見えてきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「数値の誤りや架空の文献引用は、一見するとまったく違和感のない形で出力されるため、知識がない人ほど見抜きにくいという特徴があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「しかし「事実型」「創造型」のハルシネーションは、文章として完璧に自然であるがゆえに、専門知識がないと誤りに気づけません」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「特に「社内規定」や「過去のやり取り」については要注意です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「最初の小さな誤りが、気づかれないまま複数の資料に転記され、組織全体に広がっていくことがあります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「AIの回答を鵜呑みにせず、数値や事実については可能な限り一次情報（公式発表・契約書・元データ）に立ち返って確認することが、経営リスクを避けるうえで重要です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「個人の注意力に頼るのではなく、」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「失敗を責めるのではなく、学びとして共有する雰囲気づくりが大切です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「AIの回答を鵜呑みにしないための3つの視点」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「皮肉なことに、自分が詳しくない分野の情報ほど、AIの誤りに気づきにくいものです」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「は、誤りが外部の信用やお金に直結する場面です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「個人の注意力だけに頼る体制は、担当者が変わったり忙しくなったりした瞬間に崩れてしまいます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「失敗を隠さず共有できる空気があるだけで、組織としてのAIリテラシーの伸び方がまったく変わってきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「経営リスクとして、信用の失墜・経営判断の誤り・法的リスクにつながり得る」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 - 実例：
-  - 「検索結果の上に出るAIの回答でも、提供する側が誤りを前提にしています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「今回は、なぜこれが起きるのか（実はこれまでの記事が、全部その伏線でした）、なぜ消せないのか、そしてどう付き合えばいいのかを、国内外の事故事例と、確認時にそのまま使えるチェックリストもまじえて整理します」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「上の図は、後で紹介する研修現場の実例をもとにしています」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「：検索やRAGを使っても、AIが検索結果を誤読してハルシネーションが残ることはあります」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「業務別ハルシネーション事例6選——「うちは関係ない」と思う前に」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「法務、カスタマーサポート、報道、調査報告、地域PR、出版と、すでにさまざまな業務で実害の出た事例があります」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「事例から逆算した、AIを使った成果物を社外に出す前の確認項目です」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「AIに「このデータベースで探して」と頼んだ結果も、データベース側で検索し直す」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「生成AI研修の会社が、AIに架空のパン屋にされる——笑い話のようですが、「本物と同じ自信度で、いくらでもそれらしい話を作れる」という、この記事の主張を体現した実例です」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「そして、原典を1回開くだけで防げるという点も、事例6選と同じです」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「以前は簡単に嘘を引き出せていたのが、最新モデルでは「その情報は確認できません」「実在するか分かりません」と、AIの側が先に音を上げるケースが増えています」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「ただしこれは、ユーザーが誤りを報告した会話など、誤りが起きやすい場面を集めて測った結果で、実際の利用時の誤り率そのものではありません（」（https://panhouse.jp/insight/what-is-hallucination/）
-  - 「ただし測り方で結果は大きく変わり、文書の要約に限った第三者の比較（Vectara、2026年9月22日更新版）では、OpenAI・Anthropic・Googleの最新モデルでも6〜13%程度のハルシネーションが残り、新しいモデルが必ずしも低いわけではありません（いずれも2026年9月27日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「海外では、AIが生成した架空の判例をそのまま裁判所に提出してしまった弁護士が懲戒処分を受けた事例や、航空会社のチャットボットが誤った割引案内をして企業側が責任を問われた事例も実際に起きています」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「と、実際に起きた国内外の事例」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「3-1. 架空の判例を法廷に提出してしまった弁護士の事例」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「3-2. 航空会社のチャットボットが誤った案内をした事例」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「3-3. 業務でよくある「地味だが危険」なケース」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「6-0. 「モデルの優劣」より「渡す情報の質」が結果を左右する」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「生成AIのハルシネーション（誤回答）とは何か、4つのパターンと実際の事例、経営リスク、現場でできる5つの対策、ツール別の傾向までをGENAIの実運用データとともに解説します」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「海外の訴訟事例から、業務でありがちなケースまで」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「ことが発覚し、懲戒処分を受けるという事例が報じられました」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「大きな訴訟に発展するケースだけでなく、日常業務でも次のようなハルシネーションは頻繁に起こり得ます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「システム障害のように明確に止まるわけではなく、間違った情報が自然な形で業務プロセスに紛れ込んでいくため、発覚するのはずっと後になってから、というケースが少なくありません」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「特に、複数人が関わる業務フローでは「誰かが確認しているだろう」という思い込みが生まれやすく、結果として誰も原典を確認しないまま誤情報が社内の「常識」として定着してしまうことがあります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「ハルシネーションに気づいた事例を、個人の中で終わらせず」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「「こういう聞き方をしたら誤情報が出た」という事例が蓄積されていくほど、組織全体のAIリテラシーが高まっていきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
+  - 「チャットツールに専用のチャンネルを作り、「AIの回答がおかしかった事例」を気軽に投稿できる文化を作るだけでも効果があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 
 ## 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）（Berkeley Protocol digital open source investigations search bias verification steps）
 - 文脈：検証
@@ -9295,3 +9305,61 @@
 - 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ17頁・検索12回）
 - 実例：記載なし（読んだ17頁・検索12回）
+
+## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
+- 文脈：手順
+- 手順・やり方：
+  - 「Step 1: Pull your revenue figure.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 2: Pull your employee count.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 3: Define who counts.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 4: Divide and interpret in context.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「How to use these figures:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「RPE calculated using month-end headcount differs from RPE using average headcount for the period. Neither is wrong, but switching between them creates false trends. Document which method applies every time the number is reported.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+- 実例：
+  - 「When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
+
+## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
+- 文脈：手順
+- 手順・やり方：
+  - 「, and how to create a practical decision log template for modern teams.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Decision quality improves when teams can review past outcomes. A decision log template enables teams to revisit earlier choices, compare expected impact with actual results, and refine their decision-making frameworks.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Engineering teams frequently evaluate architecture patterns, infrastructure setups, frameworks, and integration approaches. These decisions influence system performance, scalability, and maintenance effort over time.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「A decision log becomes useful when it captures enough context to understand the decision later without overwhelming teams with unnecessary fields. The structure should support clarity, traceability, and future review. Below is a practical framework that works across product, engineering, and operations.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Some decisions require implementation steps. Recording next actions ensures the decision translates into execution.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「How to create and maintain a decision log」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「The steps below help teams create a decision log that stays relevant and actively supports execution.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Step 1: Define which decisions to log」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Step 2: Choose a template and structure」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Step 3: Decide where the log will live」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Step 4: Define ownership and workflow」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Step 5: Review and update regularly」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Q2. How to write a decision log?」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「A decision log tracks the actual choices made and the reasoning behind them. It explains why a direction was chosen, which alternatives were evaluated, and who approved the final call. In short, action logs track execution steps, while decision logs track strategic and operational decisions.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「What is product positioning? Strategies and how to create one」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+- 実例：
+  - 「For example, a product team may log a prioritization decision based on customer feedback and projected impact. Months later, they can evaluate performance data against that original reasoning. This」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Some decisions affect multiple teams or have long-term operational impact. Examples include workflow changes, tooling adoption, pricing adjustments, or delivery model changes.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「A concise statement that clearly describes the decision. This makes the decision log searchable and easy to scan. For example, “Adopt feature-based release cycles” communicates intent immediately.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Example of a filled decision log entry」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Below is an example of how a completed entry may look inside a project decision log. This format keeps the entry easy to scan and works well within documentation pages or project workspaces.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Add optional fields like impact level or review date only if they support real use cases」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「A decision log serves a different purpose. It documents the decisions made in response to those risks, assumptions, or issues. For example, a risk entry may identify a potential vendor delay, while the decision log records the final decision to switch vendors or adjust timelines.」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「What is a bug life cycle? Stages, workflow, and examples」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+  - 「Every team, every use case,」（https://plane.so/blog/decision-log-what-it-is-why-teams-use-it-and-template）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・141品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・143品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6846,6 +6846,72 @@
 - 生産能力・設備：記載なし（読んだ16頁・検索18回）
 - 10年推移：記載なし（読んだ16頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ16頁・検索18回）
+
+## 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）（Japan Census of Manufacture 2019 processing fee revenue share by detailed industry）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「平成30年工業統計調査統計表第2表「事業所数」の脚注において、以下の誤りがありましたので訂正いたします」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・（訂正前） （注2）従業者数は、 →（訂正後） （注2）事業所数は、」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「第3表 従業者規模別産業中分類別結果表」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「第6表 従業者規模別市区町村別結果表」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 社員数・平均社員数：
+  - 「＜従業者4人以上の事業所＞」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・（訂正前） （注2）従業者数は、 →（訂正後） （注2）事業所数は、」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「は、84万6,075人で、前年に比べ1万7,998人（2.2％）増と」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「法人番号1000020230006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 受注金額・加工賃収入：
+  - 「・製造品出荷額等 （旧）319兆1,667億円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （新）319兆358億円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）319,166,725百万円 → （新）319,035,840百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・付加価値額 （旧）103兆5,346億円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （新）103兆4,083億円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）103,534,592百万円 → （新）103,408,282百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）10,171,291百万円（全国構成比 3.2％） → （新）10,040,407百万円（全国構成比 3.1％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）3,304,321百万円（全国構成比 3.2％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （新）3,178,011百万円（構全国成比 3.1％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・製造品出荷額等 （旧）17,686,707百万円 → （新）17,555,822百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（訂正前） 9億8,153万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （訂正後） 8,880万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「製造品出荷額等は46」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「兆9,681億円で、」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「は、46兆9,681億円で、前年に比べ2兆591億円（4.6％）増と」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 1人あたり・1社あたり金額：
+  - 「（旧）319,166,725百万円 → （新）319,035,840百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・付加価値額 （旧）103兆5,346億円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）103,534,592百万円 → （新）103,408,282百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）10,171,291百万円（全国構成比 3.2％） → （新）10,040,407百万円（全国構成比 3.1％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（旧）3,304,321百万円（全国構成比 3.2％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （新）3,178,011百万円（構全国成比 3.1％）」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「・製造品出荷額等 （旧）17,686,707百万円 → （新）17,555,822百万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「（訂正前） 9億8,153万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「→ （訂正後） 8,880万円」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 生産能力・設備：
+  - 「第7表 市区町村別有形固定資産結果表」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 10年推移：
+  - 「掲載日：2020年2月19日更新」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2019年6月3日（月曜日）公表」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2020年2月19日（水曜日）更新」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2019年11月29日（金曜日）訂正」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2019年6月7日（金曜日）訂正」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「前年比4.6％増加」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2年連続の減少」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「5年連続の増加」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「2年ぶりの増加」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「愛知県工業の位置及び推移、事業所数、従業者数、製造品出荷額等、付加価値額、現金給与総額、原材料使用額等、在庫額、有形固定資産投資額、工業用地、工業用水、市町村別の状況」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+  - 「法人番号1000020230006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html）
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 上場の受託加工会社の売上高と従業員数の同じ期の組（有報の従業員の状況・期末人数と平均臨時雇用者数を分けて・1人あたりの分子と分母の型・4-70）（listed Japanese contract metal processing companies revenue and employees same fiscal year）
+- 文脈：会社・開示
+- 痛み・損（深さの印）：記載なし（読んだ17頁・検索18回）
+- 事業所数・社数：記載なし（読んだ17頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ17頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ17頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ17頁・検索18回）
+- 生産能力・設備：記載なし（読んだ17頁・検索18回）
+- 10年推移：記載なし（読んだ17頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ17頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

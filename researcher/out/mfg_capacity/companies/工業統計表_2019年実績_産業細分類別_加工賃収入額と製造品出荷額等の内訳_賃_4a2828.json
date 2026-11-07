@@ -1,0 +1,576 @@
+{
+ "name": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+ "en": "Japan Census of Manufacture 2019 processing fee revenue share by detailed industry",
+ "aliases": [
+  "工業統計表 産業別統計表 加工賃収入額 製造品出荷額等 内訳 細分類",
+  "工業統計 賃加工 比率 細分類 2019",
+  "site:meti.go.jp 工業統計 産業別 加工賃収入額 xlsx"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T01:58:57.830514+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "平成30年工業統計調査統計表第2表「事業所数」の脚注において、以下の誤りがありましたので訂正いたします",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・（訂正前） （注2）従業者数は、 →（訂正後） （注2）事業所数は、",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 従業者規模別産業中分類別結果表",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6表 従業者規模別市区町村別結果表",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "＜従業者4人以上の事業所＞",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・（訂正前） （注2）従業者数は、 →（訂正後） （注2）事業所数は、",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、84万6,075人で、前年に比べ1万7,998人（2.2％）増と",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "・製造品出荷額等 （旧）319兆1,667億円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （新）319兆358億円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）319,166,725百万円 → （新）319,035,840百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・付加価値額 （旧）103兆5,346億円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （新）103兆4,083億円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）103,534,592百万円 → （新）103,408,282百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）10,171,291百万円（全国構成比 3.2％） → （新）10,040,407百万円（全国構成比 3.1％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）3,304,321百万円（全国構成比 3.2％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （新）3,178,011百万円（構全国成比 3.1％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等 （旧）17,686,707百万円 → （新）17,555,822百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（訂正前） 9億8,153万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （訂正後） 8,880万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は46",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "兆9,681億円で、",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、46兆9,681億円で、前年に比べ2兆591億円（4.6％）増と",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "が56.4％（26兆4,731億円）と最も大きく、次いで鉄鋼、生産用機械、電気機械、食料品の順になりました",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "（旧）319,166,725百万円 → （新）319,035,840百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・付加価値額 （旧）103兆5,346億円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）103,534,592百万円 → （新）103,408,282百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）10,171,291百万円（全国構成比 3.2％） → （新）10,040,407百万円（全国構成比 3.1％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧）3,304,321百万円（全国構成比 3.2％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （新）3,178,011百万円（構全国成比 3.1％）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等 （旧）17,686,707百万円 → （新）17,555,822百万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "（訂正前） 9億8,153万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "→ （訂正後） 8,880万円",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第7表 市区町村別有形固定資産結果表",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "掲載日：2020年2月19日更新",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年6月3日（月曜日）公表",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年2月19日（水曜日）更新",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年11月29日（金曜日）訂正",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年6月7日（金曜日）訂正",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "前年比4.6％増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2年連続の減少",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "5年連続の増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "2年ぶりの増加",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県工業の位置及び推移、事業所数、従業者数、製造品出荷額等、付加価値額、現金給与総額、原材料使用額等、在庫額、有形固定資産投資額、工業用地、工業用水、市町村別の状況",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mpa-apac.org/wp-content/uploads/2019/10/MRI-Japan-ECR2019_FinalReportEN_20191021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Retail%20Sector%202019_Tokyo%20ATO_Japan_7-19-2019",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 人手不足 受注 断る",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0003432898"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 受注残 人手不足",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 人手不足 損失 億円",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 推移",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 統計 PDF",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 従業者規模別",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 1人当たり 万円",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） 2015 2025",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufacture 2019 processing fee revenue share by detailed industry Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf",
+    "https://www.mpa-apac.org/wp-content/uploads/2019/10/MRI-Japan-ECR2019_FinalReportEN_20191021.pdf",
+    "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Retail%20Sector%202019_Tokyo%20ATO_Japan_7-19-2019",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "https://www.ibisworld.com/japan/industry/manufacturing-in-japan/jp-c/",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+   "results": [
+    "https://note.com/engawa_koushi/n/na0d18fdb9a80",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/resas_data/n/nbe8329992cb6",
+    "https://note.com/kiyotakasato/n/n93a13a008df9",
+    "https://note.com/kiyotakasato/n/n3fe9dbd2d046",
+    "https://note.com/innovationcity/n/n003840f893dd"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+   "results": [
+    "https://nl.linkedin.com/in/bob-santing-a43207a4",
+    "https://www.linkedin.com/company/www.pentagramresearch.org",
+    "https://www.linkedin.com/pulse/nailing-final-intern-presentation-jordan-byrd",
+    "https://jp.linkedin.com/jobs/view/＜下妻市＞フォークリフト使用の運搬作業、出荷準備、伝票作成-日払いok【さらにスキルup！経験者歓迎♪】高収入でしっかり稼ぐ！ちょこっと残業あり♪-at-株式会社綜合キャリアオプション-4398328542?position=52&pageNum=0",
+    "https://jp.linkedin.com/jobs/view/＜笛吹市＞自動車用プラ部品の出荷・伝票記入-日払いok【経験がなくても大丈夫☆】収入重視派さんに！残業20h以上！！-at-株式会社綜合キャリアオプション-4483360983",
+    "https://www.linkedin.com/jobs/view/即入寮ok／20～40代活躍中／未経験から高収入を目指せるお仕事！／月収例35-1万円／【1年間でmax、84万円相当あり】【バッテリーの出荷梱包・機械操作】（no-kg-10879-01-jp）-at-フジアルテ株式会社-4455219617",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／未経験から高収入◎／月収例32-7万円【鋼板や鉄鋼コイルの機械加工・梱包・出荷業務】（no-sd-19272-01-jp）-at-フジアルテ株式会社-4464388257"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70）",
+   "results": [
+    "https://www.facebook.com/5inchgauge/videos/facebookとyoutubeの広告収入にて右側2台目のバテロコバッテリーを新調する事になりました山田軽便鉄道農園線の主力輸送製品のかぼちゃの輸送力向上を目指/885998297896243/",
+    "https://www.facebook.com/mmri.japan/posts/2019年度-国内パソコン出荷概要2019年度実績調査結果と20年度予想を発表しました出荷台数-15304万台前年度比-293増出荷金額-1兆4181億円前年度/133318274998782/",
+    "https://www.facebook.com/nliresearch/posts/infocalendar-主なオーケストラの事業活動収入2019年度-３月31日は-オーケストラの日基礎研ｒｅｐｏｒｔ冊子版3月号vol300続きはこちらhtt/4388361571265974/",
+    "https://www.facebook.com/ibaraki.tokei/photos/茨城県統計課ホームページの市町村のデータを更新しました茨城県内の市町村のデータを更新しましたぜひご活用ください令和8年5月1日までに公表されているデータに更新茨/1416263453879676/",
+    "https://www.facebook.com/JAERA.office/posts/２０１９年４月１２日金駆動用ｈｖバッテリー共同出荷事業につきまして２０１８年度集荷分の集計結果が出ましたまた２０１９年度も本事業を継続して実施することが決定しま/2154496564629292/",
+    "https://www.facebook.com/nyankodoutaiyaki/videos/不要品の断捨離して臨時収入があったので何か欲しいなぁて思ってたらﾊﾟﾗﾘﾗﾟﾟﾊﾟﾗﾘﾗなスケスケ𝐏𝐈𝐍𝐊な3連ホーン明日はバンパーにあんどん入れてハドレーのヤ/1971514180295305/",
+    "https://www.facebook.com/urawacity.net/posts/現在の算定方式を取り入れた2019年度以降で最大の財源不足額とのことさいたま市来年度予算編成方針-財源不足345億円テレビ埼玉/1544351774380719/"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） note 社長",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2019年実績 産業細分類別 加工賃収入額と製造品出荷額等の内訳（賃加工の重さで受託の業種を選ぶ・製品の製造業を比べる母数から外す・4-70） X 投稿",
+   "results": [
+    "https://toukei.pref.gunma.jp/ise/ise2019.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2019-kakuhou/h30-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/328/tyousahyou-otu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufacture 2019 processing fee revenue share by detailed industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-haute-couture-suit-market-2026-growth-amhqe",
+    "https://www.linkedin.com/pulse/cream-hair-dye-market-size-trends-revenue-analysis-wyode",
+    "https://www.linkedin.com/pulse/south-korea-amazon-marketing-service-market-size-gqkbe",
+    "https://www.linkedin.com/in/elliotthillnike",
+    "https://www.linkedin.com/in/mattdowns",
+    "https://www.linkedin.com/pulse/anhydrous-aluminum-fluoride-market-size-trends-z3y4f",
+    "https://in.linkedin.com/in/ishansharma7390",
+    "https://www.linkedin.com/pulse/middle-east-africa-desulfurized-gypsum-market-size-share-c2elf",
+    "https://jp.linkedin.com/in/marcpinsard",
+    "https://www.linkedin.com/pulse/oxo-alcohol-market-business-opportunities-jpm7f"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}
