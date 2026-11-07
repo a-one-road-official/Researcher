@@ -805,8 +805,9 @@ def kougyo_size_section(topic):
 # その中に入る単位は「平均並み」として高い・低いと書かない）。kougyo_series.csv の最新の同じ年で、注目の細分類の
 # 従業者1人あたり製造品出荷額等の平均・標準誤差・95%の幅を出し、幅の外の細分類だけを高い・低いとして挙げる
 METHOD_DISC = re.compile(r"(n\s*[=＝]\s*\d|回答(数|者数|企業数|率)|有効回答|社を対象|名を対象|人を対象|調査方法|調査手法|調査概要|標本|サンプル(数|サイズ)|調査期間|調査対象|sample size|respondents|methodology)", re.I)
-def kougyo_callband(by):
-    fld = "従業者1人あたり製造品出荷額等"
+def kougyo_callband(by, fld="従業者1人あたり製造品出荷額等", unit="百万円"):
+    # 2026-11-07 47回目の走査から：出荷額等は材料費を含むので、材料を客が出す賃加工の業種（めっきなど・賃加工の重さ90%前後）は
+    # 構造的に低く出る。受託の業種どうしの比較は材料の入り方に左右されにくい付加価値額でも同じ幅を出し、2つで並べる（4-35 業態をそろえる）
     pts = {}
     # 2026-11-07 走査で見つかった失敗から（44回目）：この幅の母数「35業種」に、42回目に直した上下の数え上げと同じく
     # 小分類（末尾0の 2410・2440・2460 など）と、子が1つだけで値が同じ番号（2410＝2411、2480＝2481）が入っていた。
@@ -823,7 +824,7 @@ def kougyo_callband(by):
     hi = [f"{c} {nm} {v:,.1f}" for (c, nm), v in sorted(pts[y].items(), key=lambda kv: -kv[1]) if v > m + ci]
     lo = [f"{c} {nm} {v:,.1f}" for (c, nm), v in sorted(pts[y].items(), key=lambda kv: kv[1]) if v < m - ci]
     mid = n - len(hi) - len(lo)
-    return [f"- 平均並みの幅（4-68・{y}年・注目の細分類{n}業種・{fld}・百万円）：平均 {m:,.2f}・標準誤差 {se:,.3f}・95%の幅 {m - ci:,.2f}〜{m + ci:,.2f}。"
+    return [f"- 平均並みの幅（4-68・{y}年・注目の細分類{n}業種・{fld}・{unit}）：平均 {m:,.2f}・標準誤差 {se:,.3f}・95%の幅 {m - ci:,.2f}〜{m + ci:,.2f}。"
             f"幅の中の{mid}業種は「平均並み」として高い・低いと書かない。母数から受託でない製品の製造業（鋳鉄管・研磨材・溶接機・めっき板など）を外した（4-70）。"
             "この幅は平均の不確かさの幅で、業種1つ1つの散らばりの幅ではない（業種の多くが幅の外に出るのは普通）",
             "  - 幅より上：" + ("、".join(hi[:8]) or "なし"), "  - 幅より下：" + ("、".join(lo[:8]) or "なし")]
@@ -879,6 +880,7 @@ def kougyo_section(topic):
     if shown == 0: md.append("- （番号つきの行が年2点以上そろわない）")
     md += kougyo_segments(by)
     md += kougyo_callband(by)
+    md += kougyo_callband(by, "従業者1人あたり付加価値額_万円", "万円")
     md += kougyo_decompose(by)
     return md + [""]
 
@@ -1058,6 +1060,11 @@ def scan(topic):
     _hbs = [m for r in rows for m in HB.findall(re.sub(r"[\s\-]", "", r["引用"]))]
     _hbad = [m for m in _hbs if not _hb_ok(m)]
     if _hbs: md.append(f"  - 法人番号の形の点検（4-71）：13桁の数字 {len(_hbs)}件のうち検査用の数字が合わない {len(_hbad)}件。合わないものは法人番号として名寄せに使わない")
+    # 2026-11-07 4-72（知って得する研究所「AIの出典を検証する7つの方法」：料金などの数字は、会社のトップページを示すだけでは裏付けにならない。
+    # その数字が載った個別のページが要る）。出典URLがサイトの入口（パスが空・/・index）の数字を数え、個別のページで取り直す対象にする
+    _TOPP = re.compile(r"^/?(index\.(html?|php|aspx?))?$", re.I)
+    ntop = [r for r in rows if r["URL"] and _TOPP.match(urlparse(r["URL"]).path or "")]
+    if ntop: md.append(f"  - ⚠ 出典がサイトの入口（トップページ）の数字 {len(ntop)}件（例：{urlparse(ntop[0]['URL']).netloc}）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）")
     # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
     # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
     import hashlib as _hl
@@ -1346,6 +1353,9 @@ def scan(topic):
             hed = [r for r in g if HEDGE.search(r["引用"])]
             if hed and len(hed) < len(g): md.append(f"  - ⚠ 上限・留保つきの値 {len(hed)}件（最大・最高・理論上・ピーク時など）：端の値で典型ではない。採る値・中央値の根拠にせず、留保語を落として写していないかを本文で確かめる（4-53）")
             elif hed: md.append(f"  - ⚠ この欄は全件が上限・留保つきの値（{len(hed)}件）：「最大で」「理論上」を付けて書き、典型の値として書かない（4-53）")
+            # 2026-11-07 4-72（同上：「最大30%」と「平均30%」は別の主張）。同じ欄に平均・中央値の値と上限・下限の値が並んだら、別の主張として分けて読む
+            _avg = [r for r in g if re.search(r"(平均|中央値|一般的に|標準的)", r["引用"]) and not HEDGE.search(r["引用"])]
+            if hed and _avg: md.append(f"  - ⚠ 平均の値 {len(_avg)}件と上限・下限の値 {len(hed)}件が同じ欄に混在：別の主張として分け、上限の値で平均を裏付けない（4-72）")
             per = {}
             for r in g:
                 k0 = period_of(r["引用"])
