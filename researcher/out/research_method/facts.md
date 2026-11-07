@@ -6,6 +6,8 @@
 - 文脈：推定
 - 手順・やり方：
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「集団面接の完全対策|流れ・入退室マナーから頻出質問、受かるコツまで網羅」（https://unistyleinc.com/techniques/1459）
+  - 「個人面接との違いや、回答が被った時の対処法など、通過するためのコツを紹介します」（https://unistyleinc.com/techniques/1459）
   - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
   - 「「WEB面接の特徴・必要な準備・場所や服装などのマナー・流れ・対策方法」を詳細に説明しています」（https://unistyleinc.com/techniques/1459）
@@ -18,10 +20,9 @@
   - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「デスクリサーチのやり方｜6ステップと新規事業に使える記入例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「新規事業40フレームワーク実践集」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「デスクリサーチのやり方は6ステップ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 突き合わせ・推定：
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「「日本にコンビニは何店舗？」正解を知らなくても概数を出せるフェルミ推定の考え方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定の人気・新着記事まとめ｜note」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「コンサルの面接対策や市場規模の算出、AIを活用した検証など、実務的な活用法に関する記事が集まっています」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
@@ -35,8 +36,10 @@
   - 「フェルミ推定の練習問題 10 問（無料）と、AI に面接官をさせる短い指示文」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「冬物コートは高いのに、なぜ傷む？「高く買って長く着る派」と「手頃に買い替える派」をフェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「〜通勤30秒でカラスにフンを落とされた男のフェルミ推定〜」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【文学フリマ】平均頒布数ってどのくらい！？ フェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 一次情報の探し方：
+  - 「【回答例付】面接で「あなたを採用するメリットは何か」と聞かれた際の答え方」（https://unistyleinc.com/techniques/1459）
+  - 「面接では「あなたを採用するメリットは何か」と聞かれることがあります」（https://unistyleinc.com/techniques/1459）
+  - 「本記事では面接で「あなたを採用するメリットは何か」を聞かれた際の答え方やポイントを解説します」（https://unistyleinc.com/techniques/1459）
   - 「リヴァイ兵長を採用して、掃除だけ頼んでいませんか？AIが使えない会社の話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
   - 「「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります」（https://consul-data-bank.com/insight/5868/）
@@ -49,9 +52,6 @@
   - 「それでも広い統計しかない場合は、広い対象であることを明記して参考にとどめます」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「食品ロスの統計を、発注支援サービスの検討に使う整理例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「が仕事であり、そのような素養を持つ人材を採用したいと考えているからです」（https://unistyleinc.com/techniques/1459）
-  - 「フェルミ推定は問題解決能力を測るのには最適な試験であり、日々課題検証を行うコンサルティングファームにおいては、採用現場だけでなく、日々の業務においても論理的思考力などを測る基準の一つとして取り入れられています」（https://unistyleinc.com/techniques/1459）
-  - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1459）
-  - 「企業の採用サイト就活サイトに載らない限定インターンシップや、早期募集がひっそり始まっていることもあります」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
   - 「面接で「大学を選んだ理由」を答える際のポイント①正直に語る②専門外の人でも理解できるように言葉選びに注意する③自分の言葉で語る」（https://unistyleinc.com/techniques/1459）
   - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
@@ -69,6 +69,7 @@
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
 - 実例：
+  - 「フェルミ推定を「数字当て」で終わらせない分解のしかた｜ケース面接につながる例題3問・ツリー図つき」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【2026年版】ナティクシス ケース面接対策100選｜株式デリバティブ・不動産ファイナンス・サステナブルファイナンスの回答プロセスとOK/NG回答を徹底解説」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「Nick | 戦コンManager（ケース・フェルミ解説）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
@@ -83,7 +84,6 @@
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説」（https://unistyleinc.com/techniques/1459）
   - 「ケース面接とは？フェルミ推定との違いや出題業界について解説」（https://unistyleinc.com/techniques/1459）
-  - 「ケース面接の評価基準と対策まとめ【現役コンサルタントが解説】」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -335,6 +335,7 @@
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
 - 手順・やり方：
+  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -349,8 +350,8 @@
   - 「実はあまり使い方を知らなかったのですが、これからは使いこなしてデータ分析もできるライターを目指したいです」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「え、統計に関する法律なんてあるの･･･誰得･･･？って思いませんか？私、「統計法」って勝手に「統計方法」のことと思っていたんですが、法律のことだったんですね」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「適切かつ合理的な方法により、かつ、中立性及び信頼性が確保されるように作成されなければならない」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「子ども数・総数に対する割合，性、子どもの体型、１年間に医療機関などで診察を受けた（受けている）病気やけが（複数回答）別」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
 - 突き合わせ・推定：
+  - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -365,7 +366,6 @@
   - 「同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている」（https://note.com/keisemi/n/naf14ab3c9062）
   - 「各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される」（https://note.com/keisemi/n/naf14ab3c9062）
   - 「オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース」（https://note.com/keisemi/n/naf14ab3c9062）
-  - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 一次情報の探し方：
   - 「経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -383,6 +383,7 @@
   - 「https://www.e-stat.go.jp/stat-search/files?toukei=00200552」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「弊社が開いたこの一覧の23表は、22表がExcel、1表がPDFで、CSVのボタンはありませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
 - 失敗・落とし穴：
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「この記事は、業種の母数や営業先の数の当たりを付けたい担当者に向けて、取り方・表の形・落とし穴・規約を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「売上は2023年1年間の値で、税抜きの回答は税込みに直して集計しています（利用上の注意）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -397,8 +398,14 @@
   - 「相関と因果の区別・母集団と標本・バイアスの把握が統計リテラシーの三本柱」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「相関と因果・母集団と標本・バイアスの把握」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「バイアスの型を見抜く」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 実例：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「地方公共団体における人事評価結果の活用状況等調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「関税及び内国消費税脱税事件に係る犯則調査結果」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「採石業者の業務の状況に関する報告書の集計結果」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「全国の民営事業所数は4,023,941、従業者数は56,285,043人で、統計局の結果の概要の数と同じでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -407,13 +414,6 @@
   - 「「経済センサス‐基礎調査結果」（総務省統計局）（」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
-  - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
-  - 「地方公共団体における人事評価結果の活用状況等調査」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
-  - 「関税及び内国消費税脱税事件に係る犯則調査結果」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
-  - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
 
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
@@ -1209,6 +1209,7 @@
 ## 戦略コンサルのデスクリサーチと仮説検証の型（strategy consultant desk research hypothesis method）
 - 文脈：凄腕・型
 - 手順・やり方：
+  - 「JANコードのチェックデジット計算｜12桁から末尾1桁を求める手順」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「境界型防御とゼロトラストの違い｜認証・認可と移行・運用の確認点」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「DevExとは？DORAの5指標・DX Core 4で開発者体験を測定・改善する方法」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -1223,7 +1224,6 @@
   - 「中国拠点コンサルティング活用では、個人情報保護法（PIPL 2021年11月施行）・データセキュリティ法（2021年9月施行）・データ越境規制（2024年3月公布・施行の「促進和規範数据跨境流动规定」）・網信弁「生成式人工智能服务管理暂行办法」（2023年8月15日施行）の大模型備案要件・反外国制裁法・技術輸出管理条例が論点化します」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 - 突き合わせ・推定：
   - 「● 2. 仮説構築の「たたき台」」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -7493,11 +7493,35 @@
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
-- 手順・やり方：記載なし（読んだ13頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 手順・やり方：
+  - 「This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「, written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Log raw findings neutrally first and interpret them in a later step.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Put the method into practice」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+- 突き合わせ・推定：
+  - 「Anchoring is the pull of the first number, name or explanation you encounter. Later estimates drift towards it, even when it was arbitrary. A client who says "we think he moved about 200 thousand through those accounts" has given you an anchor. So has the first search result that names a suspect.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+- 一次情報の探し方：
+  - 「You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+- 失敗・落とし穴：
+  - 「Cognitive Biases That Derail Investigations | OSINT Blog」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Cognitive Biases That Derail Investigations」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Cognitive biases are systematic patterns in how people judge and decide. They are not character flaws and they do not go away with experience or intelligence. Experienced analysts are often more confident, which can make some biases worse. The practical response is not to try harder to be objective. It is to build checks into your process so the biases have fewer places to hide.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「OSINT work has features that invite bias. Clients often arrive with a theory and a deadline. Search tools return results ranked by relevance to your query, so a biased query returns biased results. Online information is abundant, so you can almost always find something that supports a hypothesis. And much of the work is done alone, with nobody to ask the awkward question.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「, written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Six biases that derail investigations」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Confirmation bias is the tendency to seek, notice and give weight to information that supports what you already believe, and to discount what contradicts it. In practice it shows up in the queries you write. If you suspect that a company is a shell, you search for "shell company" indicators and find some. You are less likely to search for evidence of real operations.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Limits and common mistakes」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「A competing hypotheses matrix filled in after the conclusion is written only decorates the bias. Use the tools before you commit.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Bias hunting in others only.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+- 実例：
+  - 「The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include "this account is controlled by the person named in its profile", "the photo was taken where the caption says" and "the company's registered address is where it operates".」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Devil's advocacy assigns someone to argue against the prevailing view as strongly as possible. The role works best when it is formal and rotated, so arguing the other side is a job rather than a personal challenge. If you work alone, write the opposing case yourself in a separate note, and try to make it convincing.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Assign devil's advocacy, or write the opposing case yourself.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
@@ -9017,10 +9041,10 @@
   - 「Allow others to assess or replicate your methods」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「Many journals (and assessors) expect full details of your search methods, including the databases used, search terms, limits applied, and the exact strategy as run. Providing this information is essential for transparency, reproducibility, and meeting publishing standards」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「), an extension of the PRISMA 2020 guidelines, focuses specifically on the transparent reporting of search strategies in systematic reviews. It helps ensure that the search methods are clear, detailed, and reproducible.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
+  - 「は、題名や抄録の文字列そのものを引く方法です」（https://www.conolab.co.jp/lit-search/）
+  - 「特にレビュー論文を書くつもりがあるなら、記録がないと方法の節が書けません」（https://www.conolab.co.jp/lit-search/）
+  - 「そして、ここで作った記録が、そのままレビューの方法の節になり、緒言の「まだ検討されていない」の根拠になります」（https://www.conolab.co.jp/lit-search/）
   - 「システマティックレビューとは？やり方を8ステップで解説」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Handbookは、ヒット件数が多いという理由だけで比較対照やアウトカムを加えたくなった場合は、先に同書が挙げる代替の方法を検討するよう述べています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「PubMedで概念を探す方法は2つあります」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「それぞれの方法がどれだけ寄与するかを、表1に示します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
 - 突き合わせ・推定：
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとし、フィルタは慎重に使うこと、そして開発の信頼性、報告された性能、頻繁に変わるインターフェースや索引付けを踏まえた現時点での正確さで評価することを求めています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「Handbookは、ヒトを対象にしたランダム化試験を探すときは検証済みのフィルタを使うべきだとしていますが、CENTRALには使わないとしています」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
@@ -9056,6 +9080,10 @@
   - 「Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997;350(9074):326–329. doi: 10.1016/S0140-6736(97)02419-7.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010;340:c365. doi: 10.1136/bmj.c365.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 実例：
+  - 「検索して件数が出たら、それは結果ではなく指示です」（https://www.conolab.co.jp/lit-search/）
+  - 「図2 件数は結果ではなく、次の指示」（https://www.conolab.co.jp/lit-search/）
+  - 「デザインで絞ると、質的研究や事例報告が一括で消えます」（https://www.conolab.co.jp/lit-search/）
+  - 「この4つを順に踏むだけで、行き当たりばったりの検索とは違う結果になります」（https://www.conolab.co.jp/lit-search/）
   - 「うつ病に関するレビューではどちらも候補になるため、実例では両方を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「実例では、Handbookの図4.4.aにあるPubMed形式の「Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE（感度最大化版、2008年改訂）」を使いました」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「フィルタ後の結果の30.9%」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
@@ -9067,10 +9095,6 @@
   - 「: A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「: Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycINFO.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「: Many database platforms offer more than one database on the same platform. Some platforms allow users to search these multiple databases at one time, for example using the Ovid platform to simultaneously search MEDLINE, Embase, and the Cochrane Database of Systematic Reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「: Many databases are available on multiple different systems, each of which have their own specifications for how a search strategy can be constructed. The location or host system of the database is the platform. Platform is sometimes referred to as the interface or vendor. Common examples include Ovid, EBSCOhost, ProQuest, and Web of Science.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「: Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「For an example of supplementary materials related to a systematic review search, see:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
-  - 「In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 
 ## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
 - 文脈：裏取り
@@ -10042,24 +10066,24 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）

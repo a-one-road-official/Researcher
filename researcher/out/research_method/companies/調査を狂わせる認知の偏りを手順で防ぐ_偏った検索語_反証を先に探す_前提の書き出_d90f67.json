@@ -8,8 +8,163 @@
  ],
  "context": "偏り",
  "kind": "market",
- "researched_at": "2026-11-07T02:07:12.180282+00:00",
- "evidence": {},
+ "researched_at": "2026-11-07T07:49:06.694925+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Log raw findings neutrally first and interpret them in a later step.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Put the method into practice",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Anchoring is the pull of the first number, name or explanation you encounter. Later estimates drift towards it, even when it was arbitrary. A client who says \"we think he moved about 200 thousand through those accounts\" has given you an anchor. So has the first search result that names a suspect.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Cognitive Biases That Derail Investigations | OSINT Blog",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cognitive Biases That Derail Investigations",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cognitive biases are systematic patterns in how people judge and decide. They are not character flaws and they do not go away with experience or intelligence. Experienced analysts are often more confident, which can make some biases worse. The practical response is not to try harder to be objective. It is to build checks into your process so the biases have fewer places to hide.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINT work has features that invite bias. Clients often arrive with a theory and a deadline. Search tools return results ranked by relevance to your query, so a biased query returns biased results. Online information is abundant, so you can almost always find something that supports a hypothesis. And much of the work is done alone, with nobody to ask the awkward question.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Six biases that derail investigations",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Confirmation bias is the tendency to seek, notice and give weight to information that supports what you already believe, and to discount what contradicts it. In practice it shows up in the queries you write. If you suspect that a company is a shell, you search for \"shell company\" indicators and find some. You are less likely to search for evidence of real operations.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Limits and common mistakes",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A competing hypotheses matrix filled in after the conclusion is written only decorates the bias. Use the tools before you commit.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias hunting in others only.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include \"this account is controlled by the person named in its profile\", \"the photo was taken where the caption says\" and \"the company's registered address is where it operates\".",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Devil's advocacy assigns someone to argue against the prevailing view as strongly as possible. The role works best when it is formal and rotated, so arguing the other side is a job rather than a personal challenge. If you work alone, write the opposing case yourself in a separate note, and try to make it convincing.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assign devil's advocacy, or write the opposing case yourself.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
@@ -34,12 +189,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
+    "url": "https://note.com/brisk_hosta7969/n/n43af06092a68",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/brisk_hosta7969/n/n43af06092a68",
+    "url": "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
     "status": "ok",
     "method": "http"
    },
@@ -69,12 +224,42 @@
     "method": "http"
    },
    {
+    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cognitivebiasindex.com/tools/disconfirming-evidence-prompt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theosintvault.io/blog/confirmation-bias-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liferaftlabs.com/blog/5-cognitive-biases-that-could-affect-your-osint-investigations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://christianbaghai.medium.com/investigating-investigation-bias-navigating-cognitive-biases-in-osint-27879085f3a0",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://theosintvault.io/osint-handbook",
     "status": "ok",
     "method": "http"
    }
@@ -88,9 +273,9 @@
     "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/mip_takapon/n/nfc1a1983ec22",
     "https://note.com/startday0/n/n0f0f98e158e4",
-    "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
     "https://note.com/brisk_hosta7969/n/n43af06092a68",
-    "https://note.com/mavelick333/n/nd0c830b925e3"
+    "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
+    "https://note.com/yuichy/n/n524d69d9e4f7"
    ]
   },
   {
@@ -110,11 +295,10 @@
    "results": [
     "https://note.com/iid_hirakawa/n/n9e4144aba441",
     "https://researto.com/column/market-research-bias/",
-    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
     "https://qiqumo.jp/contents/knowhow/7500",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
     "https://www.interviewz.io/blog/bias-questionnaire/",
     "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
-    "https://listeningmind.marketing-office.jp/contents/survey-bias-avoidance/",
     "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/"
    ]
   },
@@ -132,7 +316,15 @@
   },
   {
    "query": "cognitive bias investigation workflow disconfirming evidence osintblog",
-   "results": []
+   "results": [
+    "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "https://cognitivebiasindex.com/tools/disconfirming-evidence-prompt/",
+    "https://theosintvault.io/blog/confirmation-bias-osint",
+    "https://liferaftlabs.com/blog/5-cognitive-biases-that-could-affect-your-osint-investigations",
+    "https://christianbaghai.medium.com/investigating-investigation-bias-navigating-cognitive-biases-in-osint-27879085f3a0",
+    "https://theosintvault.io/osint-handbook",
+    "https://osintblog.com/blog/how-to-build-test-competing-hypotheses-osint"
+   ]
   },
   {
    "query": "site:note.com 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ",
@@ -140,11 +332,10 @@
     "https://note.com/iid_hirakawa/n/n9e4144aba441",
     "https://note.com/kenji_brainhack/n/n4e153d4fed4f",
     "https://note.com/mip_takapon/n/nfc1a1983ec22",
-    "https://note.com/hamaken777/n/n9eaa3e4b4061",
     "https://note.com/mavelick333/n/nd0c830b925e3",
-    "https://note.com/startday0/n/n0f0f98e158e4",
-    "https://note.com/haldog/n/n8dc996101185",
-    "https://note.com/brisk_hosta7969/n/n43af06092a68"
+    "https://note.com/hamaken777/n/n9eaa3e4b4061",
+    "https://note.com/brisk_hosta7969/n/n43af06092a68",
+    "https://note.com/haldog/n/n8dc996101185"
    ]
   },
   {
@@ -152,11 +343,11 @@
    "results": [
     "https://x.com/kuchiki_g/status/2044146208525168963",
     "https://x.com/pongpong2225/status/2089461162534641737",
-    "https://x.com/kogagami17/status/2032311336907260093",
     "https://x.com/akadama_akdm/status/2096070818556256647",
+    "https://x.com/kogagami17/status/2032311336907260093",
     "https://x.com/i/status/1765567325712101877",
     "https://x.com/Danbo_kun123/status/2103397109869527293",
-    "https://x.com/tetsukichi25/status/2098595490837467287"
+    "https://x.com/Toyokeizai/status/1770693580304355339"
    ]
   },
   {
@@ -185,7 +376,15 @@
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ note 社長",
-   "results": []
+   "results": [
+    "https://note.com/iid_hirakawa/n/n9e4144aba441",
+    "https://researto.com/column/market-research-bias/",
+    "https://blog.adobe.com/jp/publish/2023/06/05/cc-web-how-to-overcome-cognitive-bias-in-ux-research",
+    "https://qiqumo.jp/contents/knowhow/7500",
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
+    "https://magazine.fancrew.jp/what-is-survey-bias"
+   ]
   },
   {
    "query": "調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ X 投稿",
@@ -212,14 +411,163 @@
    ]
   }
  ],
- "missing": {
-  "手順・やり方": "記載なし（読んだ13頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ13頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ13頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ13頁・検索12回）",
-  "実例": "記載なし（読んだ13頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Log raw findings neutrally first and interpret them in a later step.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Put the method into practice",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Anchoring is the pull of the first number, name or explanation you encounter. Later estimates drift towards it, even when it was arbitrary. A client who says \"we think he moved about 200 thousand through those accounts\" has given you an anchor. So has the first search result that names a suspect.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Cognitive Biases That Derail Investigations | OSINT Blog",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cognitive Biases That Derail Investigations",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cognitive biases are systematic patterns in how people judge and decide. They are not character flaws and they do not go away with experience or intelligence. Experienced analysts are often more confident, which can make some biases worse. The practical response is not to try harder to be objective. It is to build checks into your process so the biases have fewer places to hide.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINT work has features that invite bias. Clients often arrive with a theory and a deadline. Search tools return results ranked by relevance to your query, so a biased query returns biased results. Online information is abundant, so you can almost always find something that supports a hypothesis. And much of the work is done alone, with nobody to ask the awkward question.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Six biases that derail investigations",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Confirmation bias is the tendency to seek, notice and give weight to information that supports what you already believe, and to discount what contradicts it. In practice it shows up in the queries you write. If you suspect that a company is a shell, you search for \"shell company\" indicators and find some. You are less likely to search for evidence of real operations.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Limits and common mistakes",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A competing hypotheses matrix filled in after the conclusion is written only decorates the bias. Use the tools before you commit.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias hunting in others only.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include \"this account is controlled by the person named in its profile\", \"the photo was taken where the caption says\" and \"the company's registered address is where it operates\".",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Devil's advocacy assigns someone to argue against the prevailing view as strongly as possible. The role works best when it is formal and rotated, so arguing the other side is a job rather than a personal challenge. If you work alone, write the opposing case yourself in a separate note, and try to make it convincing.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "On a small case these steps might add an hour. On a case where a wrong answer could damage a person's reputation or a client's decision, that hour is cheap.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Assign devil's advocacy, or write the opposing case yourself.",
+    "url": "https://www.osintblog.com/blog/cognitive-biases-investigations",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-06T13:20:55.228704+00:00"
 }
