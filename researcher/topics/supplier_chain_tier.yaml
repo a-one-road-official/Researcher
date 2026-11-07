@@ -1,0 +1,38 @@
+# 第2段（2026-11-07 本人指示）：supplier_chain で名前が出た顧客ごとに、その下請け（1次・2次・3次）を公開情報で辿る。
+# 入力は第1段の結果から inputs/supplier_chain_tier.csv に足す（文脈に「誰の何次請けか」を書く）。日本の会社を優先。事実だけ。
+title: 供給元の顧客の下請け（1次〜3次）：誰が誰に何を納めているか
+input: researcher/inputs/supplier_chain_tier.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [Founded, Established, founded in, 設立, 創業]
+  株主: [Shareholders, Ownership, Owner, Investors, backed by, major shareholders, 株主]
+  従業員数: [Employees, employees, 従業員]
+  所在地: [Headquarters, HQ, Location]
+  売上高: [Revenue, Net sales, Turnover, 売上]
+  代表者: [CEO, Founder, 代表]
+
+evidence:
+  取引先・下請け: [主要取引先, 主な取引先, 取引先, 販売先, 仕入先, 協力会社, 協力工場, 協力企業, 外注先, 下請, サプライヤー, 調達先, 納入先, supplier, suppliers, subcontractor, tier 1, tier 2, Tier1, Tier2, customer, customers, client, installed at, installation, delivered to, order from, received an order, purchase order, signed, contract with, agreement with, selected by, partnered with, partnership, collaboration, joint development, case study, success story, user, 導入, 納入, 受注, 顧客, 採用]
+  用途・分野: [fusion, tungsten, plasma-facing, medical, implant, orthopedic, defense, defence, military, aerospace, space, rocket, engine, turbine, aircraft carrier, navy, naval, submarine, nuclear, semiconductor, energy, oil and gas, maritime, shipbuilding, 核融合, 医療, 防衛, 航空, 宇宙, 船]
+  政府・研究機関の契約: [Department of Defense, DoD, US Navy, Air Force, Army, DARPA, AFRL, ONR, NAVAIR, DLA, ITER, EUROfusion, UKAEA, Fusion for Energy, ESA, NASA, Horizon Europe, grant, funding, SBIR, contract award, 契約, 助成]
+  日本との接点: [Japan, Japanese, Tokyo, Osaka, distributor in Japan, Japanese partner, 日本, 代理店, 販売店, 総代理店, reseller, distributor, sales partner, agent]
+  販売の仕組み: [distributor, reseller, sales partner, channel partner, agent, exclusive, non-exclusive, representation, 代理店, 独占]
+  規模・受注残: [order backlog, order intake, net sales, revenue, units sold, installed base, machines sold, systems delivered, 受注残, 台数]
+  株主構成: [shareholders, ownership, largest shareholders, major shareholders, owned by, parent company, investors, backed by, stake]
+  創業年度: [founded in, established in, was founded, since 20, since 19]
+  黒字・資金: [EBITDA, operating loss, net loss, profit, cash, funding round, raised, Series, rights issue, private placement, 赤字, 黒字]
+
+subpage_keywords: [customers, case, case-studies, applications, industries, news, press, media, investors, ir, reports, annual, partners, distributors, resellers, about, company, fusion, medical, defense, defence, aerospace, japan]
+image_keywords: [customer, case, partner, logo]
+
+external_queries:
+  - "{name} 主要取引先 OR 主な取引先"
+  - "{name} 協力会社 OR 協力工場 OR 協力企業"
+  - "{name} サプライヤー OR 調達先 OR 仕入先"
+  - "{name} 下請け OR 外注 OR 発注先"
+  - "{name} suppliers OR \"supply chain\" OR subcontractor"
+  - "{name} 納入 OR 受注 OR 採用 部品"
+  - "{name} 防衛 OR 航空 OR 宇宙 OR 核融合 部品 取引先"
+
+limits: {pages: 40, subpages: 30, pdfs: 12, images: 6, external_per_query: 6}

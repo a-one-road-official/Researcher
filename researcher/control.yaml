@@ -60,6 +60,9 @@ topics:
   am_policy_trend: {run: true, shards: 6, per_run: 2}  # 2026-11-07 AMに関わる施策・需要（防衛の認定・研究制度・国プロ予算・公設試・受託市場・素材内訳）の集計開始〜2026年の推移（増加率の材料）
   am_bigplayer_why: {run: true, shards: 6, per_run: 2}  # 2026-11-07 日本のAMに大手は入っているか・出たか・なぜか（参入・撤退の時期と理由の発言）24社
   am_media_comm: {run: true, shards: 6, per_run: 2}  # 2026-11-07 AMのメディア・コミュニティ（日本・海外）20件：運営母体・規模・稼ぎ方・読者と会員・創業年度・株主
+  media_funnel: {run: true, shards: 6, per_run: 3}  # 2026-11-07 AI系・戦略分野系メディア・船井総研型・送客型18社：人がどこから来て、誰が払い、何が積み上がって後発を阻むか（規模の経済か需要の独占か）・立ち上げ時の打ち手・創業年度・株主
+  supplier_chain: {run: true, shards: 3, per_run: 1}  # 2026-11-07 第1段：Freemelt・6K Additive・MX3Dの顧客・導入先・代理店（日本含む）。取材依頼先の元リスト
+  supplier_chain_tier: {run: false, shards: 6, per_run: 2}  # 2026-11-07 第2段：第1段の顧客ごとの1次〜3次請け。第1段の結果を inputs/supplier_chain_tier.csv に入れてからオン
 
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
