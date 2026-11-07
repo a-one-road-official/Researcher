@@ -33,6 +33,7 @@ def main():
         rp = os.path.join(d, "retries.json")
         retries = json.load(open(rp)) if os.path.exists(rp) else {}
         empty, gave_up, errs, normal_absent, layers = [], [], {}, [], {}
+        stale = []
         for f in js:
             try:
                 x = json.load(open(f, encoding="utf-8"))
@@ -43,6 +44,11 @@ def main():
             if any(ev.values()) and not err:
                 continue
             name = x.get("name") or os.path.basename(f)
+            # 2026-11-07 57回目：瀬戸内の一覧から外したブース番号（「106」など数字だけの名・4-80）の古い結果が、
+            # 「3回やっても空（要修正）」に残り続けていた。数字だけの名は社名でも品目でもないので、要修正に数えず別の行に出す
+            if re.fullmatch(r"[0-9０-９]+", str(name).strip()):
+                stale.append(name)
+                continue
             if err:
                 errs[name] = str(err)[:80]
             n = int(retries.get(name, 0))
@@ -62,6 +68,8 @@ def main():
         problems = []
         if c and c.get("run") and not js and not os.path.exists(os.path.join(d, "BUILD_DONE")) and not glob.glob(os.path.join(d, "*.csv")):
             problems.append("run: true なのに結果が0件")
+        if stale:
+            problems.append(f"仕様から外れた古い結果（数字だけの名・要修正に数えない・4-80）{len(stale)}件：" + "、".join(stale[:5]))
         if empty:
             problems.append(f"空・エラーで自動やり直し {len(empty)}件")
         if gave_up:

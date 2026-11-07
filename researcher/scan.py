@@ -1968,6 +1968,37 @@ def scan(topic):
            f"- 円の系列が消費税率の変わった年をまたぐ品目：{len(_taxcross)}件（税込みの出荷額は税率の段差を含む。向きを書く前に込み・抜きを確かめる）", *(f"  - {n}" for n in _taxcross[:20]),
            f"- 抽出・推計（上位9割など）の調査に触れた引用のある品目：{len(_samp)}件（2022年以降の推計値と全数の工業統計を同じ線につながない）", *(f"  - {n}" for n in _samp[:10]),
            f"- 従業上の地位・雇用区分の変更に触れた引用のある品目：{len(_emp)}件（分母の数え方が変わる。変更の前後で1人あたりの向きを書かない・4-70）", *(f"  - {n}" for n in _emp[:10]), ""]
+    # 2026-11-07 4-82（lifexrees「AIでPDFの表が読めない・数字が違う？」：注記の番号が金額に混ざる・小数点やマイナスが抜ける・文字認識の誤りと
+    # 行列・単位・注記の取り違えを別に確かめる。TIMEWELL「市場規模の算出方法 TAM・SAM・SOM」：二重計上・桁違い・頻度の掛け忘れ。
+    # PLOS ONE 2023 の論文「Cross-checking journalistic fact-checkers」：2つの確かめ手が同じ主張を選んで確かめた割合（選択の一致）を、
+    # 判定の一致より先に測る。選ばれ方が違えば、判定の食い違いは比べられない）。
+    # ①注記の記号（※・注・＊）の直後に数字がある引用 ②延べ・二重計上・重複の語の引用 ③選択の重なり：独立のホスト2か所以上が同じ品目に数字を持つ割合と、
+    # 品目数の多いホストどうしの品目の重なり
+    _FN = re.compile(r"([※＊*†]\s*\d|[（(]\s*注\s*\d|注\s*\d\s*[)）:：]|\d[※＊†])")
+    _DUP = re.compile(r"(延べ|延人数|二重(計上|カウント)|重複(計上|して計上|を含)|ダブルカウント)")
+    _fn = sorted({r["品目"] for r in rows if _FN.search(r.get("引用", ""))})
+    _dup = sorted({r["品目"] for r in rows if _DUP.search(r.get("引用", ""))})
+    _ih = {}
+    for r in rows:
+        if r.get("予測"): continue
+        _ih.setdefault(r["品目"], set()).add(src_key(r))
+    _multi = sorted(n for n, hs in _ih.items() if len(hs) >= 2)
+    _hi = {}
+    for n, hs in _ih.items():
+        for h in hs: _hi.setdefault(h, set()).add(n)
+    _top = sorted(_hi, key=lambda h: -len(_hi[h]))[:5]
+    _pairs = []
+    for i, a in enumerate(_top):
+        for b in _top[i + 1:]:
+            _u = _hi[a] | _hi[b]
+            if _u: _pairs.append((len(_hi[a] & _hi[b]) / len(_u), a, b, len(_hi[a] & _hi[b]), len(_u)))
+    _pairs.sort(reverse=True)
+    md += ["## 注記の混入・二重計上・選択の重なり（4-82）",
+           f"- 注記の記号（※・注・＊）の直後に数字がある引用のある品目：{len(_fn)}件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）", *(f"  - {n}" for n in _fn[:10]),
+           f"- 延べ・二重計上・重複に触れた引用のある品目：{len(_dup)}件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）", *(f"  - {n}" for n in _dup[:10]),
+           f"- 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：{len(_multi)}件／数字のある品目 {len(_ih)}件"
+           + (f"（{len(_multi) / len(_ih):.0%}）" if _ih else "") + "。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）",
+           *(f"  - {a} と {b}：品目の重なり {k}/{u}（{s:.0%}）" for s, a, b, k, u in _pairs[:5]), ""]
     md += kougyo_section(topic)
     md += kougyo_size_section(topic)
     md += kougyo_contract_section(topic)
