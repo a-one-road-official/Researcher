@@ -774,6 +774,7 @@
 - 文脈：型
 - 手順・やり方：
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
+  - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「プロフェッショナル／ハンズオン型経営コンサルティング会社/年収：～1600万円/東京都」（https://www.kotora.jp/c/77700-2/）
   - 「CONSULTANT'S APPROACH TO THE RESEARCH METHODOLOGY」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「inquiry, I will first review some of these major steps, and」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
@@ -787,11 +788,13 @@
   - 「→ 複雑な情報をシンプルに可視化するフレームワーク思考」（https://note.com/hiradairaheipei/n/na29c20d99741）
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
-  - 「本稿ではこの10要素に沿って、あなたがコンサル業界に向いているか判断するためのポイントや、必要とされる能力を磨く方法を解説します」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
 - 突き合わせ・推定：
   - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
+  - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
   - 「自分の仮説を検証するための“逆算設計”をしてみる」（https://note.com/hiradairaheipei/n/na29c20d99741）
   - 「仮説に基づいて情報を選び、意味ある答えを導き出す技法」（https://note.com/hiradairaheipei/n/na29c20d99741）
@@ -801,13 +804,13 @@
   - 「フェルミ推定は必要？コンサル面接で差をつける準備のコツ」（https://www.kotora.jp/c/50381/）
   - 「フェルミ推定とは何か？ フェルミ推定の基本概念 フェルミ推定とは、限られた情報やデータをもとに短時間でおおよその数値を見積もる方法です」（https://www.kotora.jp/c/50381/）
   - 「そのため、複数の仮説と解決策が交錯するプロジェクトを統括し、成果物の全体像を常に意識した論点整理・チームマネジメントが求められる」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
-  - 「コンサルタントは、問題解決に向けた仮説構築、分析設計、資料作成、インタビュー実施などを担当、」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
-  - 「仮説構築、分析設計、資料構成、クライアントとの議論準備など、「思考の設計者」としての職責が前面に出てくる」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
-  - 「ITRは現状分析をもとにビジネス仮説を設定し、実現するための施策と優先順位、制約条件を加味した上で、組織ロードマップを策定しました」（https://www.itr.co.jp/service/consulting）
 - 一次情報の探し方：
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
+  - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
@@ -817,9 +820,6 @@
   - 「① 一次情報 → 二次情報 → Web の順に見る」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「2. 省庁資料・クレディブルな統計データ」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「3. 企業資料（IR・決算・プレスリリース）」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「つまり、コンサルは 「一次情報に近いほど優先度が高い」 と考えます」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「1. 公的統計（最強）」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「3. 企業決算・公式資料」（https://note.com/gomaengineer/n/nf0782f7d7838）
 - 失敗・落とし穴：
   - 「【心理学×社会心理学的バイアス】人はなぜ不合理な行動をとるのか？」（https://biz-con.plus/skillup-researchprocess/）
   - 「心理学において、偏見や思い込み、誤解などを指す言葉として『 バイアス 』が様々なシーンで使われます」（https://biz-con.plus/skillup-researchprocess/）
@@ -840,20 +840,22 @@
   - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
   - 「【診断士2次試験・事例IV】設備投資評価ではNPV計算を極めよう」（https://biz-con.plus/skillup-researchprocess/）
+  - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=6485e273784a2f0508874cc3eee3c51c）
+  - 「【診断士2次試験・事例IV】収益・効率・安全3指標で制す経営分析」（https://biz-con.plus/skillup-researchprocess/）
+  - 「そのため、事例IVを得意にすることは、そのまま診断士2次試験の突破に直結します」（https://biz-con.plus/skillup-researchprocess/）
+  - 「本記事では、事例IVの中でも毎年出題される経営分析について、おさえておくべきポイント、解答プロセスを紹介します」（https://biz-con.plus/skillup-researchprocess/）
+  - 「戦略コンサルタントを目指すみなさんにケース面接でに出題される問題ををご紹介」（https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/）
+  - 「コンサルティングファームへの転職対策に欠かせないケース面接問題の例題を「良問」ばかり集めました」（https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/）
+  - 「コンサルティングファームでは、マネージャーやパートナーが数多くのケースを抱える中、現場で一つ一つを直接確認する時間は限られています」（https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/）
   - 「transportation, and let me use highways as an example,」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「Study design (randomised controlled trial, cohort, case-control, scoping, systematic, mixed methods)」（https://researchgold.org/services/research-consultant）
   - 「Case studies, articles」（https://veridatainsights.com/business-consultant-research-process-guide/）
   - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
-  - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
-  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
-  - 「リサーチは販売戦略やサービス開発戦略を検討する際に市場の声を集めたり、システム導入のベンダー選定時に各社の情報を収集する際など、多様なケースで欠かせないものとなっています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
-  - 「本記事では物流ITコンサルティングのサービス内容や、価格の相場観、物流ITコンサルの選び方などについて、過去多数の物流DX案件を担当してきたコンサルタントがコンサルティングの実例も交え詳しくご紹介しています！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
-  - 「【診断士2次試験・事例IV】キャッシュフローは作成と分析を極めよ」（https://biz-con.plus/skillup-researchprocess/）
-  - 「掲載した昇進スピード・給与よりも上振れ/下振れしている事例は多数存在している」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
-  - 「市場レポートの検索）・エキスパートインタビュー・アンケート・現地調査などがありますが、今回は主にデスクリサーチに主軸にして、その基本的な考え方を実例交えて紹介します」（https://www.arts-crafts.co.jp/post-16243/）
-  - 「例えば、「中国の飲食店市場を調べて欲しい」というリサーチ依頼があった場合、中国市場に参入したい・中国市場にて新規取引先を見つけたい・中国市場における先進事例を知りたい等の意図が想定され、これらの目的によって調査項目が大きく変動します」（https://www.arts-crafts.co.jp/post-16243/）
 - 検索結果の抜粋：
   - 「コンサル - Rally Note〜激しい環境変化を乗り越えるためのビジネスマ... — コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ リサーチは販売戦略やサービス開発戦略を検討する際に市場の声を集めたり、システム導入のベンダー選定時に各社の情報を収集する際など、多様なケースで欠かせないものとなっています。その中でコンサルタントは ...」（https://note.rallygrowth.co.jp/tag/コンサル/）
+  - 「【3分で読める】外資系コンサルのリサーチ技法｜事象を観察し本質を見... — May 9, 2025 · 書名：外資系コンサルのリサーチ技法 著者：アクセンチュア製造・流通本部 一般消費財業界グループ（宮尾大志 編著） 出版年：2015年（東洋経済新報社） ネットで簡単に情報が拾える時代。 だからこそ「検索」ではなく「リサーチ」が求められる。」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「コンサルタントになるには？必須スキル・リサーチデザイン・成功事例... — Sep 22, 2025 · コンサルタントになるには？必須スキル・リサーチデザイン・成功事例まで徹底解説 コピーURL OK Err 口コミ・評判で厳選 ★★★★★利用者の満足度で比較 広告や公式サイトでは分からない、 コンサル転職エージェントの「リアルな評判」 評判・クチコミランキングを見る スキル・マインド」（https://consultant.reinforz.co.jp/3803）
   - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · その中でコンサルタントはアサインされる案件の目的・課題にあわせてリサーチ手法を使い分けています。 この記事ではコンサルタントに必要なリサーチについて詳しく解説しています。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルだけでなく、すべての知的生産に携わる人にとって必読の一冊。 「やるべきことを絞る」「意味のある問いから始める」という本記事の要点と完全に一致しています。 ⸻ まとめ：リサーチ力は「探す力」ではなく「絞る力」」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -866,8 +868,6 @@
   - 「外資系コンサル流リサーチ術｜情報の海から『本質』を抽出する思考法... — Feb 12, 2026 · その意思決定を支える土台となるのが、正確かつ深い洞察に基づいたリサーチスキルです 。 特に外資系コンサルティングファームにおけるリサーチは、単なる情報収集の枠を超え、戦略構築の基盤として機能しています 。」（https://note.kotora.jp/n/nc550a05c2c32）
   - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ...外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU...コンサル流リサーチ業務から資料への落とし方｜O-LLC【コンサル流】情報収集/リサーチを極める方法---アソシエイトがコン...アクセンチュア『外資系コンサルのリサーチ技法』の著者が徹底解説！1... — リサーチを行う際は、冒頭に紹介したように、フォアキャスティングではなく、バックキャスティング（最初に目標を描き、それを実現するためのプロセスを未来から現在へさかのぼるシナリオ手法）の考え方が重要です。 実際には、下記の3ステップでリサーチを行うことになりますが、『実行』前の『定義』や『設計』がリサーチ成功のカギとなります。 以下、それぞれのフェーズにおけるポイントを紹介します。 See full list on biz-con.plu」（https://biz-con.plus/skillup-researchprocess/）
   - 「外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU... — Jan 2, 2024 · 効率的なデータ分析のアプローチ 第3章 外資系コンサルが使うリサーチテクニック 便利サイトとツールを駆使する Google検索を最大限活用するテクニック インタビュー調査で深掘りするコツ 抽象化思考：ピンポイントな洞察を導く方法」（https://www.kotora.jp/c/50381/）
-  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · 1. コンサルが実務で使っている「リサーチの型」を理解できる 2. “思考の枠組みを先に作る”ことで調査のムダが消える理由が分かる 3. 明日から使えるインタビュー・デスクリサーチの具体手法を獲得できる ⸻ 第1章：コンサ」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサル流リサーチ業務から資料への落とし方｜O-LLC — Jan 3, 2025 · はじめに: リサーチの重要性 コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は ...」（https://note.com/mngt46/n/na1c988382e73）
 
 ## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
 - 文脈：凄腕・OSINT
@@ -7762,6 +7762,7 @@
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「中堅企業でも増資を重ねた結果、5億円を超えるケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「個別の明細（例えば売上原価の内訳である期首棚卸高・当期仕入高・期末棚卸高など）は、要旨では省略可能です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7773,7 +7774,6 @@
   - 「決算公告が不要となるケースは、以下の通りです」（https://www.keihi.com/column/45390/）
   - 「しかし、損益計算書を公告しない場合にも「当期純損益の付記」という見落としやすいルールがあり、これを知らずに手続きを進めてしまうケースが少なくありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小」（https://www.kigyou-houmu.com/secret-4/）
 
@@ -10350,6 +10350,8 @@
   - 「訪問看護ステーションでは、この方法で看護職員を2.5人以上配置し、そのうち1人以上を常勤とすることが人員基準として定められています」（https://zest.jp/column/personnel-standards）
   - 「本記事では、2.5人という基準を自事業所で正しく数えられるよう、常勤換算の計算方法を計算例とともに解説します」（https://zest.jp/column/personnel-standards）
   - 「ここでは、常勤の定義から計算式と具体例、自事業所で計算する手順までを解説します」（https://zest.jp/column/personnel-standards）
+- 突き合わせ・推定：
+  - 「常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します」（https://shiftta.com/blog/jokin-kanzan-calculation/）
 - 一次情報の探し方：
   - 「「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう」（https://zest.jp/column/personnel-standards）
   - 「また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう」（https://zest.jp/column/personnel-standards）
@@ -10357,6 +10359,8 @@
   - 「採用や定着に向けた取り組みの全体像は、以下の記事で解説しています」（https://zest.jp/column/personnel-standards）
   - 「希望に合った求人”だけ”を厳選してお届け！」（https://www.co-medical.com/knowledge/article543/）
   - 「主にクリニックを中心に医療介護向け求人メディア「コメディカルドットコム」の採用課題のサポートを行う」（https://www.co-medical.com/knowledge/article543/）
+  - 「https://www.mhlw.go.jp/content/12401000/001204019.pdf」（https://note.com/yuwa_office/n/n2b5ac9c7e2be）
+  - 「https://www.mhlw.go.jp/bunya/shougaihoken/service/dl/qa08.pdf」（https://note.com/yuwa_office/n/n2b5ac9c7e2be）
 - 失敗・落とし穴：
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
   - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
@@ -10389,7 +10393,6 @@
   - 「非常にシンプルな式ですが、実務では「誰の時間を分子に含めるか」「分母を何時間にするか」で迷うケースが多くあります」（https://gura-office.com/joukin/）
   - 「「うちは週30時間を常勤にしているから…」というケース」（https://gura-office.com/joukin/）
   - 「ため、結果として常勤換算の分母が大きくなり、人員不足と判定されるリスクがあります」（https://gura-office.com/joukin/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
 - 文脈：突き合わせ
@@ -10475,6 +10478,8 @@
   - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
 - 検索結果の抜粋：
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 
 ## 会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対）（company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors）
 - 文脈：推定
