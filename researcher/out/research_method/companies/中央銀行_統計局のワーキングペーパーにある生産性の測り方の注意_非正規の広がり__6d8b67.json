@@ -8,23 +8,95 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T01:25:24.664742+00:00",
+ "researched_at": "2026-11-07T06:28:39.093381+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "ただし、残された誤りは筆者らに帰する",
+    "quote": "年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
+    "quote": "具体的には、 次式についてパネル推計を",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
+    "quote": "推計にあたっては、 各国固有の要因をコントロールするために、 国別の固",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計期間は 1995～2017 年であ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本推計は、 無形",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表 1 推計結果：無形資産投資が労働生産性に与える影響",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）TFPは、日本銀行スタッフによる推計値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）カーネル密度推定値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）折れ線は、カーネル密度推定値",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -122,98 +194,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、 法人企業統計ベースの労働生",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
@@ -306,93 +286,113 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証",
+    "quote": "ただし、残された誤りは筆者らに帰する",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "具体的には、 次式についてパネル推計を",
+    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "推計にあたっては、 各国固有の要因をコントロールするために、 国別の固",
+    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "推計期間は 1995～2017 年であ",
+    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）",
+    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと",
+    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本推計は、 無形",
+    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ",
+    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな",
+    "quote": "なお、 法人企業統計ベースの労働生",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科",
+    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "表 1 推計結果：無形資産投資が労働生産性に与える影響",
+    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（注 2）TFPは、日本銀行スタッフによる推計値",
+    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値",
+    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（注 2）カーネル密度推定値",
+    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（注）折れ線は、カーネル密度推定値",
+    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -468,14 +468,14 @@
     "method": "http"
    },
    {
-    "url": "https://rmc-oden.com/blog/archives/140347",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.univcoop.jp/hosei/ebook01/9.html",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://rmc-oden.com/blog/archives/140347",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.zentsuken.net/journal/file/144_5.html",
@@ -483,14 +483,14 @@
     "method": "browser"
    },
    {
-    "url": "https://release.nikkei.co.jp/attach_file/0502202_04.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0502202_04.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
@@ -508,7 +508,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1407.pdf",
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -566,8 +566,7 @@
     "https://note.com/kens_reading1/n/n09f86965e019",
     "https://note.com/chic_deer1160/n/n6c90181b6a4f",
     "https://note.com/serene_chives592/n/n1d7d276f777e",
-    "https://note.com/ogawa_tech/n/nac3afbb88c71",
-    "https://note.com/andyfp_2025/n/nb4b88cb89453"
+    "https://note.com/ogawa_tech/n/nac3afbb88c71"
    ]
   },
   {
@@ -591,12 +590,13 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
     "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
-    "https://rmc-oden.com/blog/archives/140347",
     "https://www.univcoop.jp/hosei/ebook01/9.html",
+    "https://rmc-oden.com/blog/archives/140347",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
     "https://release.nikkei.co.jp/attach_file/0502202_04.pdf",
-    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf"
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
@@ -610,7 +610,7 @@
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
     "https://www.jftc.go.jp/cprc/reports/index_files/cr-0411.pdf",
     "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1407.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
     "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
@@ -684,13 +684,13 @@
    "results": [
     "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://lab.ludashi.com/evaluation/article/59",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
     "https://recog.works/ja/news/detail/584",
     "https://lab.jinjib.co.jp/archives/category/personnelcolumn/page/3?postID=2708",
-    "https://release.nikkei.co.jp/attach_file/0525558_03.pdf",
     "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
@@ -703,9 +703,10 @@
     "https://hosei.ecats-library.jp/da/repository/00009642/32sugimoto.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93301",
+    "https://www.nri-social.co.jp/rengo/faq/index.php?action=attachment&id=2",
     "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "https://www.recog.works/ja/news/detail/156",
-    "https://www.nri-social.co.jp/rengo/faq/index.php?action=attachment&id=2"
+    "https://contents.xj-storage.jp/xcontents/AS71093/72ae4889/3712/490d/aa4c/266ef31c7d1e/140120230510562986.pdf",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
@@ -726,6 +727,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T17:51:10.008965+00:00"
 }

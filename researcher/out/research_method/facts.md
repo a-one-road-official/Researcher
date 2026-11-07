@@ -418,22 +418,24 @@
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
 - 手順・やり方：
-  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「【最新版】業界研究のやり方やポイントをわかりやすく徹底解説」（https://unistyleinc.com/techniques/1404）
-  - 「業界研究ノートの作り方は以下のステップで行ってみてください」（https://unistyleinc.com/techniques/1404）
-  - 「【step1】市場規模を把握する」（https://unistyleinc.com/techniques/1404）
-  - 「【step2】業界のビジネスモデルを理解する」（https://unistyleinc.com/techniques/1404）
-  - 「【step3】業界1位の企業を調べる」（https://unistyleinc.com/techniques/1404）
-  - 「【step4】新規参入企業を調べる」（https://unistyleinc.com/techniques/1404）
-  - 「【step5】自分の企業選びの軸に合っている企業を選ぶ」（https://unistyleinc.com/techniques/1404）
-  - 「【step6】興味ある業界の志望動機と自己PRを考える」（https://unistyleinc.com/techniques/1404）
-  - 「step1：市場規模を把握する」（https://unistyleinc.com/techniques/1404）
-  - 「step2：業界のビジネスモデルを理解する」（https://unistyleinc.com/techniques/1404）
-  - 「【最新版】業界研究のやり方やポイントをわかりやすく徹...」（https://unistyleinc.com/techniques/1404）
-  - 「step3：業界1位の企業を調べる」（https://unistyleinc.com/techniques/1404）
-  - 「step4：新規参入企業を調べる」（https://unistyleinc.com/techniques/1404）
+  - 「1.以下の手順で該当企業を検索して、noteにあるか調べる」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「▼ご依頼方法の詳細については以下noteから」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「このnoteでは、NotebookLMを使って企業研究を引用付きで整理し、面接深掘りに耐える材料を作る手順をプロンプト付きで解説しています」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「【6】ウォーターフォール型開発 — SIer特有の開発手法」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「: 「要件定義→設計→開発→テスト→運用という工程を、上から順に一気に進める方法」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「【10】SES（客先常駐型ビジネス）— 下層業者のモデル」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「: SIer業界は「垂直統合型」の重層的下請構造で支えられています」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「1. 受託開発費（主にウォーターフォール型）」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「- 金融機関（最高単価、大型案件）」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「: 下請構造、従来型ウォーターフォール開発、SES事業」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「これらに対応できるSIer（特にコンサル機能を持つ大手）は生き残り、従来型の下請構造に依存するSIerは淘汰される傾向が強まっています」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「2.2.2 指定業界とこれら類似業界の比較フレームワーク」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「短期的には「COBOLシステムからJavaやPythonへの移行支援」という大型案件がSIer業界に流入する可能性」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「：SIer業界は「プロジェクト駆動型」であり、繁忙期・閑散期が大きく異なります」（https://note.com/aruaruteitei/n/n5a56033bc157）
 - 突き合わせ・推定：
+  - 「【3】テスト・品質保証（QA）— 検証担当」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「その後、『納期を守れ』と言われる矛盾」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「経営方針や事業内容、社風など企業により様々な特徴がありますが、企業選びの軸を明確にすることでブレや矛盾がなく説得力のある志望動機を書くことができます」（https://unistyleinc.com/techniques/1404）
   - 「論理矛盾が起こらない志望動機を書くためには、必ず大枠の論理、志望動機で言えば「どんな仕事をしたいのか」という大きな枠から整理して、徐々に「この業界・この企業で働きたい」という小さな枠に落とし込むことが重要になります」（https://unistyleinc.com/techniques/1404）
   - 「多くの創業者が、事業アイデアを思いついた段階で「自分のサービスを誰が買うか」を十分に検証しないまま走り始めてしまいます」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -447,25 +449,24 @@
   - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「㉚ もうけの仕組み ビジネスモデル大図鑑 404社を徹底検証!｜会社四季報業界地図編集部 編／井上達彦 監修」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「もうけの仕組み: ビジネスモデル大図鑑 404社を徹底検証!」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「就職四季報の数字と、業界地図のシェア情報、業界別の本の記述を突き合わせると、この1行が書けるようになります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「例えば、「企業概要」「事業ポートフォリオ」「財務」「採用情報」だけしか調べない計画になっていたら、「競合比較をもっと厚くしてください」「投資先や具体的プロジェクトも見てください」「人材戦略と採用サイトを照合してください」「若手社員の仕事内容を追加してください」と変更する」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
 - 一次情報の探し方：
-  - 「採用担当が『この学生は業界をちゃんと理解している』と判定する業界研究の質」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
-  - 「①採用担当が見抜く『浅い業界研究 vs 深い業界研究』の 5 つの違い、② 5 ステップ業界研究法（マクロ → 業界構造 → 主要企業 → ビジネスモデル → 自分との接点）、③ 30 業界（IT・コンサル・メーカー・金融・商社・小売・サービス・公務員・物流・医療・教育・不動産・建設・広告・マスコミ・人材・エネルギー・化学・自動車・電機・食品・運輸・通信・保険・証券・銀行・流通・農業・観光・スタートアップ）の調べ方早見表、④ ES・面接で『業界理解』を語る型と例文、⑤『時間がない人向け』5 時間版・15 時間版・30 時間版の業界研究プラン、⑥『業界研究ですぐ詰まる』時の対処法」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
-  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「このnoteは、決算短信・有価証券報告書・適時開示などの一次情報から、日本企業の強み・成長余地・リスクを整理する企業研究メディアです」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「決算の読み方を学びたい初心者から、分析を深めたい中級者まで、個別銘柄・業界比較・値動きの背景を毎日発信しています」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「ニュースや株価の「動き」だけでなく、一次情報に何が書かれ、何がまだ確認できないかを分けることを重視しています」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「・決算短信や有価証券報告書の注目点に迷う方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「・テーマ株や成長株を一次情報ベースで整理したい方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「業績は調べられるのに、好決算後の下落や出来高の急増で迷う」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「チャート、売り時、決算、TOB、配当、仕事のAI活用、世界史の学び直しまで」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「内容が合いそうならフォローして、次回の一次情報ベースの記事をお受け取りください」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
-  - 「志望動機は志望度をアピールするものであるため、理解が浅いと「この就活生は本当にうちを志望しているのかな？」と採用担当に不信感を持たれてしまう可能性があります」（https://unistyleinc.com/techniques/1404）
-  - 「他にも、同社の求める人材やビジネスモデル、採用数等、本選考対策に関する情報をまとめました」（https://unistyleinc.com/techniques/1404）
-  - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1404）
+  - 「今回のような業界分析noteは今後も出していく予定ですが、その都度このnoteには業界分析のPDFを追記するため、それをそのままNotebookLMに入れると、このnote自体をソースとして活用できます」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「対比としてWeb系企業は「アジャイル型」（短期間で試行錯誤）を採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「: SIerの中でも特に下請け企業や小規模企業が採用」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「【ニュース4】大手SIer各社の営業利益率が改善（2024年度決算）」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「新卒採用は継続されるが、キャリア形成の難度が上昇」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「新卒採用後の配置先が「レガシーシステム改修」に偏る可能性がある」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「4.1 新卒採用における「募集職種」の完全解説」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「大手企業の決算期（3月）に合わせたシステム更新案件が増加 → 前年12月-2月が激務」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「有価証券報告書、新聞の経営ニュース、業界レポート等で、企業の経営状況を確認」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「https://www.meti.go.jp/meti_lib/report/H28FY/000804.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「https://dspace.jaist.ac.jp/dspace/bitstream/10119/19147/1/kouen38_141.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「http://www.ipsj.or.jp/event/sj/sj2012/sj2012_official_guide.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「https://www.pmi-japan.org/wp-content/uploads/2023/01/NL51_FullScreen.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「https://www.apda.jp/pdf/p03_kousei/2005_JapanandChina_J.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「https://www.jil.go.jp/institute/siryo/2022/documents/0257.pdf」（https://note.com/aruaruteitei/n/n5a56033bc157）
 - 失敗・落とし穴：
+  - 「「プロジェクト成功時のボーナスはほぼなく、失敗時のみ給与が下がる」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1404）
   - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1404）
   - 「オンラインインターンシップの対策オンラインのインターンシップへの参加にあたっての対策や注意点を紹介しています」（https://unistyleinc.com/techniques/1404）
@@ -480,8 +481,13 @@
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1404）
   - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1404）
   - 「経験に根差していれば何でもいいわけではないので注意が必要です」（https://unistyleinc.com/techniques/1404）
-  - 「(4)他に受けている業界および他の業界ではダメな理由志望動機のフレームワークに基づき、成し遂げたいこと・企業選びのポイント及びそのきっかけとなる経験を書いた上で次に他の業界ではなく志望業界の理由について話しましょう」（https://unistyleinc.com/techniques/1404）
 - 実例：
+  - 「記事の内容やAIの分析結果・推論に対するご意見・ご指摘・ご要望はお受けしておりません」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「面接日程の調整術・ES締切後の対処法・X就活垢の活用法・時短の志望動機作成術など、時間がない中で納得のいく結果を出すための実践集です」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「：テストケース作成→ テスト実施→ バグ報告・追跡」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「：SIer初年度は「開発・テストフェーズで初めて激務を経験する」ケースが多く、メンタルヘルス不調の報告例が少なくありません」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「：1年～1.5年ごとに異なる客先に配置替えされるケースが多い」（https://note.com/aruaruteitei/n/n5a56033bc157）
+  - 「結果として「食べられるが、成長できない」という停滞状況に」（https://note.com/aruaruteitei/n/n5a56033bc157）
   - 「例えば、自動車業界であれば「自動車業界」という広い括りではなく、「自動車部品メーカー」「完成車メーカー」「自動車販売会社」などと、業界の中でも細かく分類してノートを作成するというものが挙げられます」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1404）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかという、」（https://unistyleinc.com/techniques/1404）
@@ -491,12 +497,6 @@
   - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1404）
   - 「一方で、実務型や選考直結型のインターンは3年生以上を対象としているケースが多く、応募条件は事前に必ず確認しましょう」（https://unistyleinc.com/techniques/1404）
   - 「例えば、苦手意識を持つ生徒には、テキストの説明に加え、イラストや例え話を用いて説明する等、伝え方を工夫しました」（https://unistyleinc.com/techniques/1404）
-  - 「このように子どもたち一人一人に寄り添った指導をした結果、担当していた生徒から積極的な発言が増え、より良好な学習環境を築くことができました」（https://unistyleinc.com/techniques/1404）
-  - 「この経験を通じて、個々の異なるニーズを把握し、柔軟に対応することで、より良い結果を生み出すことができるということを実感しました」（https://unistyleinc.com/techniques/1404）
-  - 「例えば、カナダ人は積極的に会話を広げる接客を好んだのに対し、韓国人は素早い提供を重視していた」（https://unistyleinc.com/techniques/1404）
-  - 「チームで試行錯誤を重ねて取り組んだ結果、3か月で売り上げを20％向上させることに成功した」（https://unistyleinc.com/techniques/1404）
-  - 「インターンシップに応募した理由は人それぞれだと思いますが、特にその企業のインターンシップに魅力を感じるのは、その企業の何かがあなたの中に響いたからではありませんか?例えば、インターンシップを通じて成長したいと考え志望している人は「なぜその企業でなら成長できると思うのか」「その根拠となる自分自身の経験」を答えると良いでしょう」（https://unistyleinc.com/techniques/1404）
-  - 「例えば、「○○（名前）と申します」（https://unistyleinc.com/techniques/1404）
 - 検索結果の抜粋：
   - 「業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass — この記事でわかること 1 業界研究と企業研究は、見ている距離が違う 2 何のために業界研究をするのか 3 業界研究の手順 — 俯瞰してから、一つに潜る 4 業界研究ノートの項目 早見表 5 情報源の選び方 — 一次情報から確かめる 6 調べたことを、比較できる ...」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
   - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · 市場調査をAIで効率化する具体的な方法を、中小企業診断士が解説します。ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある ...」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
@@ -736,6 +736,9 @@
   - 「倫理的考察と注意点」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 実例：
+  - 「GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of tools, scripts, and projects for open-source intelligence (OSINT). This repository includes automation scripts, data collection tools, visualization dashboards, and practical examples for OSINT research and analysis. · GitHub」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「- Help find real world examples of functions, API's and libraries across 10+ sources.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
+  - 「- Free. Nationwide search of 400 million+ United States court cases.」（https://github.com/jwbizz08/OSINT-Projects-and-Tools）
   - 「ネットで「消費税 軽減税率」と検索するのが「本を1冊だけ引っ張ってくる」行為なら、OSINTは「関連する通達・Q&A・他自治体の運用事例・国会答弁を横断的に集めて、自庁の規則と照らし合わせる」行為です」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「【ケース①：消費税の経過措置、あなたの自治体は正しく運用できていますか？】」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「しかし現場では、「昨年の担当者がまとめた資料」や「ベンダーから届いた説明資料」だけを頼りに運用しているケースが少なくありません」（https://note.com/solo_style/n/n985b3c636ab6）
@@ -748,10 +751,9 @@
   - 「例えば、まとめサイト、検索エンジンなどを利用することで、容易に情報を収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
   - 「例えば、採用ターゲットとなる個人や競合する企業の情報、日本に帰化した外国出身の方の名前などを収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
   - 「ただし、ユーザ情報をもとにしたカスタマイズをした検索結果が表示されるということも考慮した方がいいです」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「例えば、nslookup、dig、whoisなどがあります」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「これによってフェイク情報による分析をしてしまい、分析結果が好ましくないものになる可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「さらにその結果を公開した場合、偽情報と共に広がってしまう可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
 - 検索結果の抜粋：
+  - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — ユーザー名調査 Username 19件 公開されているユーザー名情報を調べるためのOSINTツールをまとめています。 Webでユーザー名を横断検索。 ユーザー名を複数サイトで横断検索（要ローカル導入）。 ユーザー名を複数サイトで横断検索（要ローカル導入）。」（https://mikiya-webdesign.com/osint-tools/）
+  - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (OSINT) - Global Strategic Business ...GitHub - jwbizz08/OSINT-Projects-and-Tools: A collection of ...OSINT Methodology: How Open Source Intelligence WorksTop 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights B」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — OSINT Frameworkを日本語で利用できる公開情報調査ツール一覧。1168件のOSINTツールを33カテゴリに整理し、ユーザー名・SNS・メール・ドメイン・IP・位置情報など目的別に検索できます。初心者向けQ&Aも掲載。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Open-Source Intelligence (Osint) Market Size, Share | Growth ...Top 15 OSINT Tools for Business Intelligence - salesfuel.com — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Open-Source Intelligence (Osint) Market Size, Share | Growth ...Top 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
@@ -765,8 +767,6 @@
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
   - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence） とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく 「公開されている情報源」 を意味する。 もともとは軍 ...」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。」（https://shiraberu-note.com/osint-basic-tools-guide/）
-  - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく「公開されている情報源」を意味する。 もともとは軍や ...」（https://note.com/red_structure/n/na2c79b00d217）
 
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
@@ -8772,25 +8772,26 @@
   - 「Example 3: Revisions to the Nth Release」（https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html）
 - 検索結果の抜粋：
   - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · The T plus 3-month revision is actually more negative than the T plus 36-month vintage, but this is influenced by a couple of important periods during the pandemic period, when there were some large negative revisions in the early estimates, which were subsequently revised up when the more detailed data became available b」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
 
 ## アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）（survey bias checklist by process mode effect sampling reach）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「― 調査プロセス別のチェックポイントで“歪みの芽”を摘み取る手順 ―」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「バイアスは「気づけば混入している」ことが多いため、本章では典型的な発生パターンを工程別に分解し、どこで何を見れば“歪みの芽”を早期に発見できるかを示します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「選択／カバレッジバイアスは、母集団定義、対象者条件（スクリーニング）、サンプル設計、回収方法といった「誰に聞くか／どう到達するか」を決める局面で起きます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「モード効果（Mode Effect）──同じ質問でも聞く方法で答えが変わる」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「モード効果は、調査の実施方法（Web／紙／電話／会場／郵送）や、回収方法（混合モードを含む）の選定に起因して発生します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「特に複数の調査方法を併用する場合、その差が「回答者属性の違い」なのか「モードの違い」なのかが混ざり、差分の解釈を誤りやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「前章「3.実践ステップ」では、「調査設計」「設問設計」「分析・報告」の各プロセスで発生するバイアスについて解説しましたが、この3つのプロセスのなかで、多くの種類のバイアスが存在するのが「設問設計」に関するバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「時系列で追うKPIは、設問文・導入文・尺度・選択肢・対象条件（スクリーニング/割付）・回収方法（モード/チャネル）を原則同一に固定する」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「誘導質問や選択肢の偏り、サンプリング方法、集計時の選択的報告などが典型例です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「QiQUMOのセルフ型調査なら設問設計をスピーディに修正できます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
-  - 「These possibilities are central to survey methodology. Administration mode can influence both the composition of the responding sample and the measurement process itself.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
-  - 「The methodological concern is that interviewer presence becomes a potential source of measurement variation.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies - Enghouse Insights」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies for More Accurate Research」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「The good news is that you can reduce many common sources of survey bias through better questionnaire design, thoughtful sampling, appropriate data collection methods, and careful quality control.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For a detailed explanation of different bias mechanisms, see our guide to Survey Bias: 7 Common Types, Examples & Prevention Methods.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Two particularly useful methods are cognitive interviews and pilot surveys.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For tracking studies, confirm that important questions, response scales, and collection methods remained sufficiently consistent across waves.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「How to reduce bias in multi-mode survey research」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Avoiding survey bias requires sound methodology, careful questionnaire design, and disciplined fieldwork management.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Define the target population clearly, use an appropriate sampling method, consider coverage gaps, and monitor sample composition. When feasible, probability sampling provides stronger support for population inference, while other approaches require careful evaluation of their limitations.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Leading Questions: Definition, Examples & How to Avoid Them」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Double-Barreled Questions: Definition, Examples & How to Avoid Them」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「What are the best practical steps for identifying and minimizing survey bias before results are used to make decisions?」（https://ericae.net/avoiding-bias-in-survey-design/）
+  - 「Educational Research Methods」（https://ericae.net/avoiding-bias-in-survey-design/）
+  - 「Sampling Methods for Survey Research」（https://ericae.net/avoiding-bias-in-survey-design/）
 - 突き合わせ・推定：
   - 「判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます」（https://qiqumo.jp/contents/knowhow/7500）
@@ -8823,37 +8824,39 @@
   - 「4. Table 2 appears in such way, because the manuscript is converted to a PDF format. I think I sticks to the formatting guidelines; if not, I will discuss this topic with the editor. For the reviewers, I previously attached table 2 as a separate file and it is still available as an attachment.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
   - 「PDF (1.1 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
 - 失敗・落とし穴：
-  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「バイアスとは偏りや歪み、傾きなどを表す言葉です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ヒューリスティクス（代表性、利用可能性など）、確証バイアス」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「プロスペクト理論（損失回避、参照点依存）、現状維持バイアス」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「グループシンク、同調、内集団バイアス、権威の影響」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「構造的不平等、制度バイアス、排除のメカニズム」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「選択バイアス、測定バイアス、p-hacking、サンプリング偏向」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies - Enghouse Insights」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「How to Avoid Survey Bias: 10 Practical Strategies for More Accurate Research」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Because bias often enters the research process long before anyone starts analyzing the data.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Survey bias is a systematic error. If your research process consistently pushes results in one direction, a larger sample may simply make the wrong answer look more convincing.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「The good news is that you can reduce many common sources of survey bias through better questionnaire design, thoughtful sampling, appropriate data collection methods, and careful quality control.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「This guide provides 10 practical strategies for avoiding survey bias, from writing the first question to reviewing the final dataset.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「What does avoiding survey bias mean?」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Avoiding survey bias means designing and conducting research to minimize systematic influences on respondents’ answers and who the results represent.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Survey bias occurs when the research process causes findings to differ systematically from the attitudes, behaviors, or characteristics researchers intend to measure.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「No survey is completely free from potential bias.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For a detailed explanation of different bias mechanisms, see our guide to Survey Bias: 7 Common Types, Examples & Prevention Methods.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「10 practical ways to avoid survey bias」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Check data quality, evaluate potential bias, and report limitations.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Write neutral, unbiased survey questions」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
 - 実例：
+  - 「For a detailed explanation of different bias mechanisms, see our guide to Survey Bias: 7 Common Types, Examples & Prevention Methods.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Example: “How much did you enjoy our excellent service?”」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Example: “Why did you stop trusting our company?”」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Example: “How satisfied are you with our pricing and customer support?”」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For detailed examples, explore our guides to Leading Questions, Loaded Questions, Double-Barreled Questions, and Neutral Question Wording.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, age categories should not overlap, and a list of reasons for purchasing a product should not exclude common alternatives without explanation.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, asking several questions about negative customer experiences immediately before an overall satisfaction question may make those negative experiences more prominent.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, online surveys allow respondents to answer privately and at their own pace. However, online-only recruitment may underrepresent groups with less digital access.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, a study might receive many responses from older participants while younger respondents remain underrepresented.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, straightlining does not always mean a respondent was inattentive. Someone may genuinely give the same rating to several related items.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「For example, a research team might use online surveys for digitally engaged participants, live telephone interviews for groups that are less responsive online, and IVR for appropriate self-administered telephone questions.」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Leading Questions: Definition, Examples & How to Avoid Them」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Double-Barreled Questions: Definition, Examples & How to Avoid Them」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
+  - 「Neutral Question Wording: Examples & Best Practices」（https://www.enghouseinsights.com/blog/survey-design-how-to-avoid-survey-bias/）
   - 「調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
+- 検索結果の抜粋：
+  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアス... — Feb 2, 2026 · アンケート調査に潜むバイアスを調査設計・設問設計・分析報告の工程別に解説します。 確証バイアスや誘導質問など具体的な対策チェックポイントを紹介。 QiQUMOで精度の高いデータ収集を実現しましょう。」（https://qiqumo.jp/contents/knowhow/7500）
 
 ## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
 - 文脈：会社の数字
@@ -9984,8 +9987,8 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ13頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）

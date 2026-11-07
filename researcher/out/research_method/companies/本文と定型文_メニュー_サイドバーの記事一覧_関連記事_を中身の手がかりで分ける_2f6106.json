@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-07T00:56:00.884808+00:00",
+ "researched_at": "2026-11-07T06:20:08.594689+00:00",
  "evidence": {
   "実例": [
    {
@@ -100,17 +100,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hckn_3104/n/n5d93ee59ab4f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsunobuchi/n/n17982922130d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kiyo_ai_note/n/n428a4366476e",
+    "url": "https://note.com/misaki_ai_work/n/ncf3719c7972c",
     "status": "ok",
     "method": "http"
    },
@@ -120,7 +110,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "url": "https://note.com/tsunobuchi/n/n17982922130d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hckn_3104/n/n5d93ee59ab4f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mir4545/n/n84e34b6c7747",
     "status": "ok",
     "method": "http"
    },
@@ -140,7 +140,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fumika_pen7/n/n7085c30ba50f",
+    "url": "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
     "status": "ok",
     "method": "http"
    },
@@ -155,12 +155,12 @@
     "method": "http"
    },
    {
-    "url": "https://article-pro.com/column/article-writing/how-to-organize/",
+    "url": "https://xinobix.jp/blog/article-structure/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://xinobix.jp/blog/article-structure/",
+    "url": "https://article-pro.com/column/article-writing/how-to-organize/",
     "status": "ok",
     "method": "http"
    },
@@ -175,12 +175,12 @@
     "method": "http"
    },
    {
-    "url": "https://ferret-one.com/blog/article-structure",
+    "url": "https://hebochans.xsrv.jp/blog-structure/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hebochans.xsrv.jp/blog-structure/",
+    "url": "https://ferret-one.com/blog/article-structure",
     "status": "ok",
     "method": "http"
    },
@@ -195,7 +195,12 @@
     "method": "http"
    },
    {
-    "url": "https://leosophia.co.jp/marketing/seo-article/",
+    "url": "https://cone-c-slide.com/see-sla/blog/seo-structure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bakuyasu.techsuite.co.jp/12250/",
     "status": "ok",
     "method": "http"
    },
@@ -206,11 +211,6 @@
    },
    {
     "url": "https://blog.minimal-green.com/entry/hatenablog-custom",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kida_lw/n/nb6a199831026",
     "status": "ok",
     "method": "http"
    },
@@ -230,19 +230,19 @@
     "method": "http"
    },
    {
-    "url": "https://murroughfoley.com/rs-trafilatura-rust-web-content-extraction/",
+    "url": "https://thunderbit.com/blog/trafilatura",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stackoverflow.com/questions/3652657/what-algorithm-does-readability-use-for-extracting-text-from-urls",
+    "url": "https://medium.com/aimonks/web-content-extraction-with-heuristics-nlp-8e901875c8ed",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://central.yourtext.guru/main-content-extraction-from-web-pages/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1t203ai/i_made_the_most_accurate_html_content_extraction/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -251,15 +251,15 @@
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 site:note.com",
    "results": [
     "https://note.com/matrixflow/n/n74ef0b04c485",
-    "https://note.com/hckn_3104/n/n5d93ee59ab4f",
-    "https://note.com/tsunobuchi/n/n17982922130d",
-    "https://note.com/kiyo_ai_note/n/n428a4366476e",
-    "https://note.com/711704/n/n2f3277dd3846",
     "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "https://note.com/711704/n/n2f3277dd3846",
+    "https://note.com/tsunobuchi/n/n17982922130d",
+    "https://note.com/hckn_3104/n/n5d93ee59ab4f",
     "https://note.com/mir4545/n/n84e34b6c7747",
-    "https://note.com/it_aibiz/n/nb7344f729add",
-    "https://note.com/_creative_wolf_/n/n8e4cb7448f22",
-    "https://note.com/vast_gnu572/n/n1c73fd3e17f9"
+    "https://note.com/kiyo_ai_note/n/n428a4366476e",
+    "https://note.com/suzukiyuto/n/nf8d732e9dbe0?hl=en",
+    "https://note.com/vast_gnu572/n/n1c73fd3e17f9",
+    "https://note.com/riko_sachikawa/n/n7a411ade7b7a"
    ]
   },
   {
@@ -269,11 +269,11 @@
     "https://note.com/ai_hukugyo260916/n/n562f7cdebc63",
     "https://note.com/zerosta_web/n/n876259c7e6c1",
     "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://note.com/fumika_pen7/n/n7085c30ba50f",
+    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
     "https://japan.zdnet.com/article/35254356/p/2/",
     "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
-    "https://ama-town.note.jp/n/n0ce0ef7fe17c",
+    "https://note.com/promptdesign/n/necc90c520601",
+    "https://www.postype.com/ja/@junsu0902/post/14106703",
     "https://note.com/kida_lw/n/nb6a199831026"
    ]
   },
@@ -281,14 +281,14 @@
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 やり方",
    "results": [
     "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://article-pro.com/column/article-writing/how-to-organize/",
     "https://xinobix.jp/blog/article-structure/",
+    "https://article-pro.com/column/article-writing/how-to-organize/",
     "https://www.xserver.ne.jp/blog/blog-template/",
     "https://cro-co.co.jp/media/contents-marketing/article-structure/",
     "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "https://ferret-one.com/blog/article-structure",
     "https://hebochans.xsrv.jp/blog-structure/",
-    "https://japan.zdnet.com/article/35254356/p/2/",
+    "https://ferret-one.com/blog/article-structure",
+    "https://fungry.co.jp/cnaps/blog/column-composition/",
     "https://help.hatenablog.com/entry/sidebarmodules/advanced"
    ]
   },
@@ -296,14 +296,14 @@
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 事例",
    "results": [
     "https://search-engine-pirates.co.jp/column/content-seo/seo-article/",
-    "https://xinobix.jp/blog/article-structure/",
     "https://www.centered.co.jp/blog/seo-friendly-articles/",
-    "https://leosophia.co.jp/marketing/seo-article/",
+    "https://xinobix.jp/blog/article-structure/",
     "https://cro-co.co.jp/media/contents-marketing/article-structure/",
-    "https://ferret-one.com/blog/article-structure",
     "https://article-pro.com/column/article-writing/how-to-organize/",
-    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
+    "https://cone-c-slide.com/see-sla/blog/seo-structure/",
+    "https://ferret-one.com/blog/article-structure",
     "https://www.youtube.com/watch?v=v7lIAoEt6d8",
+    "https://bakuyasu.techsuite.co.jp/12250/",
     "https://help.hatenablog.com/entry/sidebarmodules/advanced"
    ]
   },
@@ -313,27 +313,27 @@
     "https://www.osti.gov/servlets/purl/2429881",
     "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
     "https://chuniversiteit.nl/blog/science/comparison-of-web-content-extraction-algorithms",
-    "https://murroughfoley.com/rs-trafilatura-rust-web-content-extraction/",
-    "https://stackoverflow.com/questions/3652657/what-algorithm-does-readability-use-for-extracting-text-from-urls",
-    "https://central.yourtext.guru/main-content-extraction-from-web-pages/",
     "https://thunderbit.com/blog/trafilatura",
+    "https://medium.com/aimonks/web-content-extraction-with-heuristics-nlp-8e901875c8ed",
     "https://www.reddit.com/r/LLMDevs/comments/1t203ai/i_made_the_most_accurate_html_content_extraction/",
-    "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "https://medium.com/aimonks/web-content-extraction-with-heuristics-nlp-8e901875c8ed"
+    "https://murroughfoley.com/rs-trafilatura-rust-web-content-extraction/",
+    "https://central.yourtext.guru/main-content-extraction-from-web-pages/",
+    "https://stackoverflow.com/questions/3652657/what-algorithm-does-readability-use-for-extracting-text-from-urls",
+    "https://github.com/adbar/trafilatura/issues/25"
    ]
   },
   {
    "query": "site:note.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
    "results": [
     "https://note.com/matrixflow/n/n74ef0b04c485",
+    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "https://note.com/711704/n/n2f3277dd3846",
     "https://note.com/hckn_3104/n/n5d93ee59ab4f",
     "https://note.com/tsunobuchi/n/n17982922130d",
     "https://note.com/suzukiyuto/n/nf8d732e9dbe0?hl=en",
     "https://note.com/kiyo_ai_note/n/n428a4366476e",
-    "https://note.com/711704/n/n2f3277dd3846",
-    "https://note.com/it_aibiz/n/nb7344f729add",
-    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
     "https://note.com/mir4545/n/n84e34b6c7747",
+    "https://note.com/timee_product/n/n037784ccd24f",
     "https://note.com/vast_gnu572/n/n1c73fd3e17f9"
    ]
   },
@@ -342,14 +342,14 @@
    "results": [
     "https://x.com/nobel_824/article/2036953599729950862",
     "https://x.com/shota7180/article/2088098521430073500",
-    "https://x.com/tetumemo/status/2027690209790599243",
     "https://x.com/i/article/2040383976855175520",
-    "https://x.com/mikami01_ai/article/2045843013273014450",
-    "https://x.com/claudecode_lab/article/2078299319661137987",
+    "https://x.com/tatsuki_nowave/article/2050212561438769378",
+    "https://x.com/forguncy",
+    "https://x.com/tetumemo/status/2027690209790599243",
     "https://x.com/keitowebai/article/2061222002921517346",
-    "https://x.com/wancoro_xx/status/2042801142670004471",
+    "https://x.com/claudecode_lab/article/2078299319661137987",
     "https://x.com/swarm_japan/article/2060287955533738127",
-    "https://x.com/forguncy"
+    "https://x.com/mikami01_ai/article/2045843013273014450"
    ]
   },
   {
@@ -372,25 +372,25 @@
    "results": [
     "https://www.facebook.com/yapparisteak/posts/人気ランキング大公開サイドメニュー編-best3昨年-たくさんの方に食べていただいた人気サイドメニューランキングをご紹介します️ステーキの相棒的な存在のサイドメ/1148131477315771/",
     "https://www.facebook.com/tokyobaysidegc/posts/下記urlからランチメニューをご覧いただけますhttpspgm-imagess3amazonawscomimagespdfrestaurantrestauran/984747963654122/",
-    "https://www.facebook.com/formzu/posts/ユーザー数の多いgmailですが受信メールの一覧と本文を行き来するのが少し面倒そんな時はメールリストと本文を分割表示でさくさくメール管理しましょうgmail-ラ/3533884489972882/",
-    "https://www.facebook.com/higanji/posts/お坊さんあるある_17手紙の定型句に仏のあいさつ〆は合掌私たちがビジネスレターを書くときに使う時候のあいさつの定型句お坊さんの世界では仏のあいさつとも言うべき定/293524857345621/",
+    "https://www.facebook.com/shukan.bunshun.official/",
+    "https://www.facebook.com/IHSiim1/posts/outlookpowershellで定型メールをたった数秒で作成出勤してpcを開くとまずは定例メールの作成毎回同じ挨拶文や社内案内を送る作業に面倒くささを感じて/1339514011409710/",
     "https://www.facebook.com/faymermail/photos/メール本文一覧画面で下書きのメールにもタイトルが表示されるようになりました対象機能以下の機能のメール一覧画面メールマガジンステップメールダイレクトメールメール本/451543153194904/",
-    "https://www.facebook.com/holinicbasketball/posts/第109回記事サイドステップとサイドスキップの違いサイドステップとサイドスキップを簡単に見分けるには最初にどちらの足から動くのかその足の動く順序を見ますサイドス/714635275916402/",
-    "https://www.facebook.com/stockapp.jp/videos/会議でstockを画面共有したいけどフォルダ名は隠したい-stockでは-特定のノートを全画面表示できますフォルダ一覧を見せずノート本文を画面全体に表示できます/939039228982288/"
+    "https://www.facebook.com/kazuaki.arai/videos/過去のnote記事を動画にしてみましたもうひとりaiエージェントを作ってみたい鯛約61秒名前決めで敗れたはずのおちゃが招待コード0och4uの中から出てきました/1005803655144992/",
+    "https://www.facebook.com/renluck.fan/posts/4回目は出欠確認メールの回答編ですweb版で回答される場合は表示されている出席欠席保留より一つ選択いただき回答ボタンをクリックタップしてください回答を変更する場/2722900424621067/"
    ]
   },
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 note 社長",
    "results": [
     "https://note.com/_soutao/n/nc726c582ffd8",
-    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
     "https://note.com/ai_hukugyo260916/n/n562f7cdebc63",
     "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://note.com/oyakusho/n/nf24710f4c57f",
-    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
+    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
     "https://japan.zdnet.com/article/35254356/p/2/",
-    "https://note.com/dobostorta/n/n0e134c9973bf",
+    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
+    "https://note.com/fumika_pen7/n/na85094bd7c2c",
     "https://www.postype.com/ja/@forrewrite/post/5171955",
+    "https://note.com/oyakusho/n/nf24710f4c57f",
     "https://note.com/kida_lw/n/nb6a199831026"
    ]
   },
@@ -400,12 +400,12 @@
     "https://help.x.com/ja/using-x/articles",
     "https://qiita.com/sunstripe2011/items/e1c880fb4fe7f57e7a73",
     "https://forbesjapan.com/articles/detail/66505",
-    "https://www.xserver.ne.jp/blog/blog-template/",
     "https://www.youtube.com/watch?v=Sc3ewp_bN-0",
-    "https://webtan.impress.co.jp/e/2021/04/01/39517",
+    "https://www.xserver.ne.jp/blog/blog-template/",
     "https://www.siteengine.co.jp/",
     "https://find-model.jp/insta-lab/twitter-moment/",
-    "https://japan.zdnet.com/article/35254356/p/2/",
+    "https://webtan.impress.co.jp/e/2021/04/01/39517",
+    "https://note.com/niiko_design/n/n97716e0eea19",
     "https://help.hatenablog.com/entry/sidebarmodules/advanced"
    ]
   },
@@ -417,8 +417,8 @@
     "https://www.linkedin.com/posts/noureddine-ramdi_every-time-you-try-to-feed-web-content-into-activity-7484660011827290112-7A6s",
     "https://www.linkedin.com/posts/nataliamak_ai-llm-machinelearning-activity-7444068293264568320-CQCK",
     "https://uk.linkedin.com/in/m-foley-seo",
-    "https://www.linkedin.com/posts/liaichi-mustapha_aiengineering-llmsystems-machinelearning-activity-7441272768815513601-Myr4",
-    "https://www.linkedin.com/posts/rahulbot_weekend-read-for-media-researchers-recently-activity-7270889857504182276-mxdd"
+    "https://gq.linkedin.com/posts/pavithra-rajendran-ph-d-1094a675_github-brucewleelftk-text-analysis-through-activity-7068888408349122560-IN6V",
+    "https://www.linkedin.com/posts/liaichi-mustapha_aiengineering-llmsystems-machinelearning-activity-7441272768815513601-Myr4"
    ]
   }
  ],
@@ -426,6 +426,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-06T15:55:02.475695+00:00"
 }
