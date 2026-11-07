@@ -1,0 +1,242 @@
+{
+ "name": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
+ "en": "find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT",
+ "aliases": [
+  "OSINT 相手国の言語 政府ドメイン filetype 検索",
+  "調査報道 専門家の見つけ方 推薦リスト",
+  "GIJN how to find experts and hidden documents"
+ ],
+ "context": "一次情報の探し方",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:57:40.920719+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://repository.nii.ac.jp/records/2001728",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://repository.ninjal.ac.jp/records/3510",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.osint-japan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/read0182568/misc/40047636",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.digitaldigging.org/p/how-to-find-experts-and-hidden-documents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shadowdragon.io/resources/osint-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 site:note.com",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
+   ]
+  },
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 note",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
+   ]
+  },
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 やり方",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://researchmap.jp/read0182568/misc/40047636",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/"
+   ]
+  },
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 事例",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
+   ]
+  },
+  {
+   "query": "find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT",
+   "results": [
+    "https://www.digitaldigging.org/p/how-to-find-experts-and-hidden-documents",
+    "https://shadowdragon.io/resources/osint-techniques/",
+    "https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools",
+    "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
+    "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
+    "https://www.youtube.com/watch?v=QFkdmbi2Hv0",
+    "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf",
+    "https://www.facebook.com/Cyberkid1987/posts/-the-ultimate-osint-guide-learn-how-information-is-found-online-osint-open-sourc/1776596583684815/",
+    "https://www.debunk.org/osint-investigation-techniques",
+    "https://gijn.org/resource/henk-van-ess-international-research-guide-online/"
+   ]
+  },
+  {
+   "query": "site:note.com 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
+   "results": [
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/ai_medical/n/n0f3c53ddf741",
+    "https://note.com/ichi_twnovel/n/nab936bb5caf5"
+   ]
+  },
+  {
+   "query": "site:x.com 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 note 社長",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
+   ]
+  },
+  {
+   "query": "相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活 X 投稿",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-find-country-information-using-osint-arno-reuser-d8xfe?tl=ja",
+    "https://www.mediatechnology.jp/entry/AllofOSINT",
+    "https://www.nhk.or.jp/info/pr/toptalk/assets/pdf/soukyoku/2021/10/007.pdf",
+    "https://opac002.libcloud.jp/tomisato_library/search-by-subject",
+    "https://doi.org/10.20736/0002001728",
+    "https://www.tulips.tsukuba.ac.jp/pub/tojo/archive/Choken/1996/choken6_1.html",
+    "https://repository.ninjal.ac.jp/records/3510",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://www.osint-japan.jp/"
+   ]
+  },
+  {
+   "query": "find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/margo-smit-55501611_international-research-guide-how-to-find-activity-7516090444032868352-segl",
+    "https://www.linkedin.com/posts/searchbistro_osint-research-verification-activity-7508602027946442752-zk_D",
+    "https://www.linkedin.com/posts/davidbombal_googledorks-search-filetype-activity-7419800958253219840-hdxA",
+    "https://www.linkedin.com/advice/1/what-best-strategies-finding-hidden-information-stgrc",
+    "https://www.linkedin.com/pulse/osint-techniques-can-reveal-more-than-youthink-nazrul-islam-rana-xogfc",
+    "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf",
+    "https://www.linkedin.com/pulse/interviews-leading-osint-experts-vijay-gupta--phbfc"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ16頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ16頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ16頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）",
+  "実例": "記載なし（読んだ16頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T07:57:40.920719+00:00"
+}

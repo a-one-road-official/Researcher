@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・152品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・154品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7967,6 +7967,104 @@
   - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費および転売し」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
   - 「（５）製造等に関連する外注費」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
   - 「れるソフトウェアの開発など、 事業所収入に直接関連する外注費用をいい、 派遣、 委託生」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+
+## 工業統計表 2019年実績 シート1200 金属熱処理2465・金属製品塗装2461 の加工賃収入額と製造品出荷額（賃加工の重さの欄が表の節に出ない2業種・取り出しの層・4-71・4-76）（Japan Census of Manufacture 2019 heat treatment metal coating processing fee revenue shipments by industry detail）
+- 文脈：熱処理・塗装・統計
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 10年推移：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
+
+## 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）（Japan metal stamping subcontractor material supply paid supply free supply share survey）
+- 文脈：プレス・下請・統計
+- 痛み・損（深さの印）：
+  - 「者の責めに帰すべき理由がないのに、その変更に伴って納期遅れや不良品が生」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「更に対応しようとしたが納期に間に合わず、委託事業者が納期遅れを」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「生じた納期遅れ等を中小受託事業者の責任によるものとして 製造委託」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「未確定事項を先方担当に確認しすぎて失注しないだろうか・・・【印刷物制作】」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 社員数・平均社員数：
+  - 「人口は、全就業人口の８．２％に達する1」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「1 一般社団法人日本自動車工業会「日本の自動車工業２０２５」」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「する従業員の数が３００人を超える法人たる事業者」であって「常時使用する」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「従業員の数が３００人以下の個人又は法人たる事業者に対し製造委託等をする」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「特に人手不足や最低賃金（家内労働法（昭和 45 年法律」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「したがって、 第１章では、 平成18 年度に財団法人中小企業総合研究機構が社団法人日」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「4 下請法の規定は、資本金（出資金）が３億円超の事業者が個人又は３億円以下の事業者に製造委託等を行った場合及び資」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「本金（出資金）が３億円以下かつ１千万円超の事業者が個人又は１千万円以下の事業者に製造委託等を行った場合に適用」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「2. 取引先規模が大きい場合や、取引先担当の人事異動等が頻繁であるなど直接の把握が難しいあるいは時間を要する場合、」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「従来の資本金基準に加え、従業員基準（300人、100人）が追加され、規制及び保護の対象が拡充されます」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「2. 経営リソースに限りのある小規模事業者や個人事業主の多い業界や地域では、取引先と個別交渉にあたる前に、特に業界団」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 受注金額・加工賃収入：
+  - 「資本金3億円超」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金3億円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金1千万円超3億円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金1千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金5千万円超」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金5千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金1千万円超5千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「関連産業の出荷額は約７２兆」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「円と我が国製造業の出荷額における１９．２％を占め、関連産業を含めた就業」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「保管費用は半数の企業が年間100 万円以上を負担しており、300 万円以上は約２割と」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「500万円以上」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「500万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「300万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「33.3% 100万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「50万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+- 1人あたり・1社あたり金額：
+  - 「資本金1千万円超3億円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金1千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金5千万円超」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金5千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「資本金1千万円超5千万円以下」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「保管費用は半数の企業が年間100 万円以上を負担しており、300 万円以上は約２割と」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「500万円以上」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「500万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「300万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「33.3% 100万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「50万円未満」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「本金（出資金）が３億円以下かつ１千万円超の事業者が個人又は１千万円以下の事業者に製造委託等を行った場合に適用」（https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf）
+  - 「価格 100万円 70万円 30万円」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「基本設計 3万円 サイト構成,SEO,操作説明」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option1 ２万円/頁 ウエブサイトの独自デザイン」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 生産能力・設備：
+  - 「1. 取引先の経営方針、業績や設備投資の動向などを把握しておくことは、」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 10年推移：
+  - 「※本記事は2025年6月時点の情報に基づいて作成されています」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「https://www.meti.go.jp/press/2019/12/20191211002/20191211002-2.pdf」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「て、配送コストの増加を」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「書、材料費の推移表など）」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「対応コスト等） の増加が委託事業者に認められず、 一方的に従来の価格での納入」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「の増加分を製品単価へ反映するよう委託事業者に求めたにもかかわらず、委託」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「対応コスト等） の増加に対応するため、 今後の経費動向などを踏まえた明確な算」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「また、 労務費、 原材料費、 エネルギー価格等のコストが増加した場合には、 委」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「騰があった場合には、適切なコスト増加分の全額転嫁を目指すものとする」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「気料金全体の増加を踏まえて価格設定を行う必要がある」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「また、 合意がない事項については、 外的要因によるコスト増加が経営努力の範」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「ガイドライン、 業界で策定した要望書、 原材料価格の推移表の３点セットを」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「さらに、 コスト増加等の費用の変動が生じた場合に、 中小受託事業者が協議を」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「また、 外的要因等によるコスト増加については、 それが経営努力の範囲内で対」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「受注量の増加がコストダウンに寄与すると試算し、 ユーザーに発注量の引上」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+- 人手と仕事の差：
+  - 「サプライヤー側に材料購入の資金負担がないため、資金力に限りがある外注先とも取引しやすくなります」（https://up-cycle.jp/blog/supplied-materials/）
+  - 「相互、部品メーカーと素形材メーカー等）は、単なる外注関係にあるのではな」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「スを背景に、コスト、品質、納期といった面において、自動車メーカーと部品」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「低減余力が生じたと判断し、更なる価格低減要請を行った」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「・ 購買、外注担当者等受託取引に影響を及ぼすこととなる者が中小受託事業」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「委託事業者は、 やむを得ず、 短納期又は追加の発注、 急な仕様」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「加の作業や当初の納期に間に合わせるための人件費増加などが生じることがあ」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「者の責めに帰すべき理由がないのに、その変更に伴って納期遅れや不良品が生」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「れ、中小受託事業者は当初の納期に間に合わないことを説明したが、」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「更に対応しようとしたが納期に間に合わず、委託事業者が納期遅れを」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「・ 委託事業者からの原材料等の支給の遅れ又は無理な納期指定によって」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「生じた納期遅れ等を中小受託事業者の責任によるものとして 製造委託」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「） 、 納期の長短、代金の支払方」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「分に引き当てる等）、並びに労務費、外注費その他の諸経費等の増加分を支」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+  - 「○設計・仕様の変更による価格及び納期の見直し」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

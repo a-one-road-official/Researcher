@@ -8,66 +8,8 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-07T02:07:05.323452+00:00",
+ "researched_at": "2026-11-07T07:59:29.420327+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "Centrica accounts (PDF)",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "how to find stories in company accounts",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Empathy as an investigative tool: how to map systems to come up with story ideas",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt | Online Journalism Blog",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt – Totally news",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to reduce the environmental impact of using AI",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"Journey prompts\" and \"destination prompts\": how to avoid becoming deskilled when using AI",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to: fix spreadsheet dates that are in both US and UK formats",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "Here, for example, is the Chairman of a football club criticising “so called fans” [sic] — as well as the local newspaper",
@@ -129,13 +71,81 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "how to find stories in company accounts",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Empathy as an investigative tool: how to map systems to come up with story ideas",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt | Online Journalism Blog",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt – Totally news",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to reduce the environmental impact of using AI",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"Journey prompts\" and \"destination prompts\": how to avoid becoming deskilled when using AI",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to: fix spreadsheet dates that are in both US and UK formats",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Centrica accounts (PDF)",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "url": "https://note.com/paguinu/n/n668cc7419453",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pure_accountant/n/n01a0f6d7715b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaburobo/n/n3234f1af464a",
     "status": "ok",
     "method": "http"
    },
@@ -145,22 +155,92 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/ledge_globe/n/ne5fc5b799c01",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/finance_clinic/n/n1b223f531d59",
+    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
+    "url": "https://www.tsr-net.co.jp/data/detail/1190711_1527.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/us_kabu_journal/n/n2f470d9b11ec",
+    "url": "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-larc.jp/terminology/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kan_ren0720_2_s_20220701.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mjs.co.jp/outline/zeikei/activities/works/assets/pdf/monthlyreport24.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lab.pasona.co.jp/accounting/word/302/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profession-net.com/professionjournal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prime-partners.co.jp/%E9%96%A2%E9%80%A3%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%A8%E3%81%AF%EF%BC%9F%E7%AF%84%E5%9B%B2%E3%82%84%E5%8F%96%E5%BC%95%E3%81%AE%E9%96%8B%E7%A4%BA%E7%BE%A9%E5%8B%99%E3%82%92%E4%BC%9A%E8%A8%88%E5%9F%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/75547/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202922_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/terms/japan/ke/keizokukigyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeiken.co.jp/kaijidb/article/cat/1751.html",
     "status": "ok",
     "method": "http"
    },
@@ -175,33 +255,18 @@
     "method": "http"
    },
    {
-    "url": "https://incomeup.co.jp/media/guides/sec-beginners-guide-income-statement/",
+    "url": "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://keiriplus.jp/tips/kessansyo-chuki/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fedlaws.org/going-concern-disclosure-examples-gaap-rules-and-consequences/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2025/going-concern.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2024/handbook-going-concern.pdf",
-    "status": "ok",
+    "url": "https://tcij.org/wp-content/uploads/2019/07/Guide-to-Company-Accounts.pdf",
+    "status": "http_403",
     "method": "pdf"
    },
    {
@@ -210,13 +275,13 @@
     "method": "http"
    },
    {
-    "url": "https://businessjournalism.org/2mintip/going-concern/",
-    "status": "ok",
+    "url": "https://pcaobus.org/oversight/standards/archived-standards/details/AU341A",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://fastercapital.com/content/Note-Disclosure--The-Fine-Print--Note-Disclosure-and-the-Going-Concern-Implications.html",
-    "status": "http_403",
+    "url": "https://www.thecaq.org/going-concern-management-and-auditor-responsibilities",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -225,53 +290,74 @@
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） site:note.com",
    "results": [
-    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://note.com/pure_accountant/n/n01a0f6d7715b",
+    "https://note.com/kaburobo/n/n3234f1af464a",
     "https://note.com/super_shisetucho/n/n973f90730c06",
+    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
     "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "https://note.com/finance_clinic/n/n1b223f531d59",
     "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
-    "https://note.com/us_kabu_journal/n/n2f470d9b11ec",
-    "https://note.com/toru1960/n/n24b98aede2ef"
+    "https://note.com/haru2006ppe/n/n6ab886dbb003"
    ]
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） note",
    "results": [
-    "https://www.youtube.com/watch?v=0g9pm0h3T_I",
-    "https://note.com/super_shisetucho/n/n973f90730c06",
-    "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "https://zeimu.online/dai51-financial-notes/",
-    "https://www.ir-tracker.com/ja/columns/basic-metrics/financial-statement-notes",
-    "https://incomeup.co.jp/media/guides/sec-beginners-guide-income-statement/",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/"
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
+    "https://www.tsr-net.co.jp/data/detail/1190711_1527.html",
+    "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
+    "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "https://ipo-method.com/accounting/4011/",
+    "https://shikiho.toyokeizai.net/news/0/637641",
+    "https://www.youtube.com/watch?v=k4d5ELPEGGg",
+    "https://prime-partners.co.jp/related-party-note-example/"
    ]
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） やり方",
-   "results": []
+   "results": [
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kan_ren0720_2_s_20220701.pdf",
+    "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
+    "https://www.youtube.com/watch?v=DBV1D4GuMXk",
+    "https://www.mjs.co.jp/outline/zeikei/activities/works/assets/pdf/monthlyreport24.pdf",
+    "https://lab.pasona.co.jp/accounting/word/302/",
+    "https://profession-net.com/professionjournal/",
+    "https://prime-partners.co.jp/%E9%96%A2%E9%80%A3%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%A8%E3%81%AF%EF%BC%9F%E7%AF%84%E5%9B%B2%E3%82%84%E5%8F%96%E5%BC%95%E3%81%AE%E9%96%8B%E7%A4%BA%E7%BE%A9%E5%8B%99%E3%82%92%E4%BC%9A%E8%A8%88%E5%9F%BA/",
+    "https://biz.moneyforward.com/accounting/basic/75547/",
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
+   ]
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） 事例",
    "results": [
-    "https://www.youtube.com/watch?v=0g9pm0h3T_I",
-    "https://note.com/super_shisetucho/n/n973f90730c06",
-    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
-    "https://www.ir-tracker.com/ja/columns/basic-metrics/financial-statement-notes",
-    "https://zeimu.online/dai51-financial-notes/",
-    "https://incomeup.co.jp/media/guides/sec-beginners-guide-income-statement/",
-    "https://keiriplus.jp/tips/kessansyo-chuki/"
+    "https://www.tsr-net.co.jp/data/detail/1202922_1527.html",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
+    "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
+    "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.nomura.co.jp/terms/japan/ke/keizokukigyou.html",
+    "https://www.zeiken.co.jp/kaijidb/article/cat/1751.php",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
    "query": "how journalists read company accounts notes related party going concern",
    "results": [
-    "https://fedlaws.org/going-concern-disclosure-examples-gaap-rules-and-consequences/",
-    "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2025/going-concern.pdf",
-    "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2024/handbook-going-concern.pdf",
+    "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
+    "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "https://tcij.org/wp-content/uploads/2019/07/Guide-to-Company-Accounts.pdf",
     "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_24_risks_and_US/245_going_concern_US.html",
-    "https://businessjournalism.org/2mintip/going-concern/",
-    "https://fastercapital.com/content/Note-Disclosure--The-Fine-Print--Note-Disclosure-and-the-Going-Concern-Implications.html",
-    "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2415"
+    "https://pcaobus.org/oversight/standards/archived-standards/details/AU341A",
+    "https://www.thecaq.org/going-concern-management-and-auditor-responsibilities",
+    "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2024/handbook-going-concern.pdf",
+    "https://arch.bdo.com/going-concern-assessments",
+    "https://publications.aaahq.org/ajpt/article/43/4/143/12198/How-Management-Disclosure-and-Auditor-Disclosure",
+    "https://fedlaws.org/going-concern-disclosure-examples-gaap-rules-and-consequences/"
    ]
   },
   {
@@ -279,8 +365,8 @@
    "results": [
     "https://note.com/kessansho_soto/m/m2b6b6096065d",
     "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
     "https://note.com/finance_clinic/n/n1b223f531d59",
     "https://note.com/haru2006ppe/n/n6ab886dbb003"
@@ -290,11 +376,11 @@
    "query": "site:x.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
    "results": [
     "https://x.com/NessaAof4/status/2117537058868846658",
-    "https://x.com/Yf2JBeb3O918862/status/2049479423196582236",
     "https://x.com/100sha_knock",
     "https://x.com/nkinvestigation",
-    "https://x.com/boki_accounting/status/2115370753822781748",
+    "https://x.com/Yf2JBeb3O918862/status/2049479423196582236",
     "https://x.com/shachou_k_ai/status/2091003090820644867",
+    "https://x.com/boki_accounting/status/2115370753822781748",
     "https://x.com/kaisha_cfo"
    ]
   },
@@ -302,9 +388,9 @@
    "query": "site:linkedin.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
    "results": [
     "https://jp.linkedin.com/in/naoki-asanuma-a2ba82264",
+    "https://jp.linkedin.com/in/正行-鈴木-810a1a17b",
     "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
     "https://jp.linkedin.com/in/龍二-神澤-122902205",
-    "https://jp.linkedin.com/in/菜月-徳田-001176382",
     "https://www.linkedin.com/posts/rokkakuakio_決算書の数字は１００真実ではない六角明雄中小企業診断士経営コンサルタントビジネス-activity-7220050424140058626-inER",
     "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
     "https://jp.linkedin.com/posts/海地-杉田-053ab0348_aiで決算書の分析ができる時代になりましたが自分で数字を読めない経営者はむしろ-activity-7456998580684369921-0FLa"
@@ -312,50 +398,59 @@
   },
   {
    "query": "site:facebook.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
-   "results": [
-    "https://www.facebook.com/tsrnet/posts/データを読むgc注記重要事象の記載は87社コロナ禍で高止まり続く2021年9月中間決算を発表した上場企業約2380社のうち決算短信で継続企業の前提に関する注記ゴ/4501844329883654/",
-    "https://www.facebook.com/tsrnet/posts/データを読む3月期上場企業-92社が経営悪化のサインを記載2022年3月期決算-上場企業継続企業の前提に関する注記調査2022年3月期決算を発表した上場企業約2/5045304362204312/",
-    "https://www.facebook.com/smrj.tokyokou/photos/数字に強い管理者へ苦手意識を解消しマネジメントの視座を変える数字の話になるとつい苦手意識が自社の決算書実は読み方がよくわからないそんなモヤモヤを抱えている管理者/1312460440941978/",
-    "https://www.facebook.com/teruo.fujima/photos/モデル決算書で学ぶ財務入門決算書の仕組みや用語の意味数字の流れなどを理解したうえで決算書から経営体質や今後の課題などを読み取る視点について学びます加えてモデル決/27268630302779561/",
-    "https://www.facebook.com/smrjchubu/photos/決算書を読み解く力をつける基本講座のご案内経営活動の成果を表した決算書を的確に読み解く事は財務面から企業経営業務を行う為に重要な第一歩ですこの研修では決算書の仕/1357154476446440/",
-    "https://www.facebook.com/tsrnet/posts/データを読む9月中間決算-上場企業継続企業の前提に関する注記調査gc注記-重要事象-付記企業合計59社-前年度から5社減少上場企業の倒産はリーマンショック時の2/1522637507804366/",
-    "https://www.facebook.com/kodatokaikei/posts/中小企業経営者必見決算書の読み方パーフェクトガイドpl損益計算書編決算書を読むスキルは会社の財務状況を理解し将来の戦略を立てる上で非常に重要です特にpl損益計算/1239281907259138/"
-   ]
+   "results": []
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） note 社長",
    "results": [
-    "https://www.youtube.com/watch?v=0g9pm0h3T_I",
-    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
-    "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "https://zeimu.online/dai51-financial-notes/",
-    "https://www.ir-tracker.com/ja/columns/basic-metrics/financial-statement-notes",
-    "https://incomeup.co.jp/media/guides/sec-beginners-guide-income-statement/",
-    "https://keiriplus.jp/tips/kessansyo-chuki/"
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1202922_1527.html",
+    "https://jicpa.or.jp/specialized_field/2-24-570-2-20230112.pdf",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
+    "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "https://www.youtube.com/watch?v=k4d5ELPEGGg",
+    "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
+    "https://moriyama-acc.com/blog/archives/7328",
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=0g9pm0h3T_I",
-    "https://note.com/super_shisetucho/n/n973f90730c06",
-    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
-    "https://zeimu.online/dai51-financial-notes/",
-    "https://www.ir-tracker.com/ja/columns/basic-metrics/financial-statement-notes",
-    "https://incomeup.co.jp/media/guides/sec-beginners-guide-income-statement/",
-    "https://keiriplus.jp/tips/kessansyo-chuki/"
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
+    "https://jicpa.or.jp/specialized_field/2-24-570-2-20191009.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
+    "https://prime-partners.co.jp/related-party-note-example/",
+    "https://kpmg.com/jp/ja/insights/2024/05/accounting-ppa.html",
+    "https://www.ey.com/ja_jp/technical/library/info-sensor/2021/info-sensor-2021-12-11",
+    "https://biz.moneyforward.com/accounting/basic/48476/",
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
    "query": "how journalists read company accounts notes related party going concern site:linkedin.com",
-   "results": []
+   "results": [
+    "https://zm.linkedin.com/in/michael-chanda-3b404987",
+    "https://ca.linkedin.com/company/thomson-reuters",
+    "https://www.linkedin.com/in/marc-pentacoff-bb4645a8",
+    "https://news.linkedin.com/media-resources/linkedin-for-journalists",
+    "https://www.linkedin.com/in/mariana-van-zeller-4aa89774",
+    "https://www.linkedin.com/in/catherineclabby",
+    "https://www.linkedin.com/in/francinemckenna",
+    "https://ca.linkedin.com/in/craigjsilverman",
+    "https://www.linkedin.com/in/vindugoel",
+    "https://www.linkedin.com/in/carlacorrea"
+   ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T10:44:49.352522+00:00"
 }

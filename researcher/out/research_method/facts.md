@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・166品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・168品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -586,6 +586,7 @@
   - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
   - 「2025年3月期（2024年4月から2025年3月まで）は、増収減益という結果になりました」（https://kabu.com/kabuyomu/money/1191.html）
 - 検索結果の抜粋：
+  - 「How to Read Financial Statements: A Beginner’s GuideAnnual report - WikipediaMcDonald’s Business Model (2026) | How McDonald’s Makes Money2025 ANNUAL REPORT - Marriott InternationalOur Annual Reports | Diageo — A balance sheetconveys the “book value” of a company. It allows you to see what resources it has available and how they were financed as of a specific date. It shows its assets, liabilities」（https://online.hbs.edu/blog/post/how-to-read-financial-statements）
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
@@ -2793,8 +2794,8 @@
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -3707,8 +3708,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -9562,6 +9563,7 @@
   - 「検索だけで解決しようとせず、計算や照合は専用の処理へ任せるほうが安定することがあります」（https://note.com/ai__worker/n/n139e4f11e738）
   - 「古い文書と新しい文書が矛盾する場合は、更新日を優先する」（https://arpable.com/artificial-intelligence/rag/rag-performance-improvement-strategies/）
   - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「まず5〜8件に増やして回答の変化を見るのが手早い検証です」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
 - 一次情報の探し方：
   - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「よくあるのは、共有フォルダの一部だけを取り込んだ、PDFは入っているが社内Wikiは対象外、添付資料を取得していない、といった状態です」（https://note.com/ai__worker/n/n139e4f11e738）
@@ -9575,6 +9577,7 @@
   - 「PDFから抽出したテキストには、ゴミが混じっていることが多い」（https://note.com/rally_ai/n/n91367ab099aa）
   - 「PDFからのテキスト抽出には、精度の高いライブラリ（pymupdf、pdfplumber）を使う」（https://note.com/rally_ai/n/n91367ab099aa）
   - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
+  - 「スキャンした画像だけのPDF、図版に文字が埋め込まれた資料、複雑な結合セルを含む表は、取り込めてもチャンクの中身が空に近くなります」（https://ai-tool-lab.info/dify-knowledge-accuracy-not-improving-fix/）
 - 失敗・落とし穴：
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
@@ -10066,11 +10069,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
@@ -10082,8 +10085,86 @@
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
+
+## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
+- 文脈：method
+- 手順・やり方：
+  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記 | じぶんでできる公益法人」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人を設立・運営するにあたり、避けて通れないのが「公告方法」の決定です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人及び一般財団法人に関する法律（以下、一般法人法）では、すべての一般社団法人に対して決算公告を義務付けており、どの方法で公告を行うかを定款で定める必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「公告方法の選択は、設立時に定款で一度決めれば済むように見えて、費用の多寡と決算公告の開示範囲、事務所の掲示環境が絡み合う、判断の難しい論点です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般法人法が定める4つの公告方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人が採用できる公告方法は、一般法人法第331条第1項において次の4つが規定されています」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「電子公告を選ぶ場合に限り、事故その他やむを得ない事由によって電子公告ができないときの方法として、官報または日刊新聞紙を定めることができます（同条第2項）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「1. 官報に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「国の機関紙である「官報」に公告を掲載する方法です（一般法人法第331条第1項第1号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「国が発行する媒体に掲載され、掲載後の記録を確認しやすい方法です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「2. 日刊新聞紙に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「時事に関する事項を掲載する日刊新聞紙（全国紙や地方紙など）に掲載する方法です（一般法人法第331条第1項第2号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「法人のウェブサイト（ホームページ）や、専用の電子公告掲載サービス上に公告用のデータをアップロードし、インターネットを通じて閲覧できるようにする方法です（一般法人法第331条第1項第3号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「4. 主たる事務所の公衆の見やすい場所に掲示する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+- 突き合わせ・推定：
+  - 「合併や解散の手続きに入る前に、総勘定元帳、買掛金・未払金の補助簿、借入金一覧、契約台帳、係争案件などを照合し、債権者名、住所、債権の内容および金額を一覧にしておく必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+- 一次情報の探し方：
+  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記 | じぶんでできる公益法人」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人の公告方法｜官報・日刊新聞紙・電子公告・掲示の選び方と定款・登記」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「公告とは、法人の決算状況や合併・解散といった重要事項を、会員（社員）や取引先、債権者などの不特定多数に向けて広く知らせる手続きを指します」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人及び一般財団法人に関する法律（以下、一般法人法）では、すべての一般社団法人に対して決算公告を義務付けており、どの方法で公告を行うかを定款で定める必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「公告方法の選択は、設立時に定款で一度決めれば済むように見えて、費用の多寡と決算公告の開示範囲、事務所の掲示環境が絡み合う、判断の難しい論点です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「一般社団法人が採用できる公告方法は、一般法人法第331条第1項において次の4つが規定されています」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「電子公告を選ぶ場合に限り、事故その他やむを得ない事由によって電子公告ができないときの方法として、官報または日刊新聞紙を定めることができます（同条第2項）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「1. 官報に掲載する方法」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「国の機関紙である「官報」に公告を掲載する方法です（一般法人法第331条第1項第1号）」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「決算公告を行う場合、貸借対照表（大規模一般社団法人では貸借対照表および損益計算書）の「要旨」のみを掲載すれば足ります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「2026年7月時点の枠付公告の料金は、普通1枠が税込40,882円、一般社団法人の決算公告で示されている2枠の掲載例が税込81,765円です（」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「東京都・官報サービスセンター「官報の掲載料金」」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「申込み前に官報サービスセンターまたは官報公告等取次店へ原稿を示し、枠数と料金の見積りを確認するのが確実です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「官報と同様に決算公告は「要旨」の掲載で足りますが、掲載料は新聞社、掲載する版、原稿サイズによって異なります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「地方紙の地域版では、原稿が小さく収まれば官報より安くなる場合もあります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+- 失敗・落とし穴：
+  - 「掲載の中断防止と財務情報の開示範囲に注意する」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「この記事では、決算公告を電子公告で実施するための具体的な手続き・費用・注意点を網羅的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「電子公告で決算公告を行うデメリット・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「Q6: 掲載する貸借対照表は「要旨」ではダメですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「メリットが多い電子公告ですが、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「実際にこの制度を利用している企業の担当者からは「サーバーのメンテナンスや移転の際にURLが変わらないよう注意が必要」「年度ごとにページが増えていくので整理が大変」といった声が聞かれます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「注意点は「全文掲載」「5年間継続」「URL登記（3万円）」の3つ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「なお、決算公告以外の法定公告は電子公告調査を受ける必要がありますが、この調査にかかる費用は10万～20万円かかり、それも含めると官報に掲載する費用の3万～20万円より多くなる場合もあるため、注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「電子公告を利用する場合にも注意点があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+  - 「定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+- 実例：
+  - 「例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「例えば、借入先の金融機関、代金をまだ支払っていない仕入先や業務委託先、未払賃金がある従業員などが該当します」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
+  - 「多くの解説記事では「電子公告」を一括りにしていますが、実は決算公告だけを電子公告にするケースと、合併公告や資本減少公告なども含めてすべてを電子公告にするケースでは、要件が大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
+  - 「掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
+
+## 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活（detect column misalignment when flattening tables from PDF HTML table extraction validation）
+- 文脈：method
+- 手順・やり方：
+  - 「How to Extract Tables from PDF: Scale Structured Data Extraction」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「rather than an isolated conversion step.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「Income Verification API: How to Automate Document-Based Income Checks at Scale」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+- 一次情報の探し方：
+  - 「How to Extract Tables from PDF: Scale Structured Data Extraction」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「Why Extracting Tables from PDF Is Difficult」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「Extracting Tables from PDF with LlamaParse」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「file = client.files.create(file="./bank_statement.pdf", purpose="parse")」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「file_obj = client.files.create(file="./bank_statement.pdf", purpose="extract")」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+  - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+- 実例：
+  - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）

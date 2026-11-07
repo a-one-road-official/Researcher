@@ -1,0 +1,1221 @@
+{
+ "name": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+ "en": "Japan metal stamping subcontractor material supply paid supply free supply share survey",
+ "aliases": [
+  "金属プレス 下請 材料支給 割合 調査",
+  "有償支給 無償支給 中小製造業 割合 調査",
+  "下請取引 材料 支給 実態調査 中小企業庁",
+  "日本金属プレス工業協会 調査 材料支給"
+ ],
+ "context": "プレス・下請・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:57:46.884455+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "資本金3億円超",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円超3億円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円超",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円超5千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "関連産業の出荷額は約７２兆",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円と我が国製造業の出荷額における１９．２％を占め、関連産業を含めた就業",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保管費用は半数の企業が年間100 万円以上を負担しており、300 万円以上は約２割と",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "33.3% 100万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 下請法の規定は、資本金（出資金）が３億円超の事業者が個人又は３億円以下の事業者に製造委託等を行った場合及び資",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金（出資金）が３億円以下かつ１千万円超の事業者が個人又は１千万円以下の事業者に製造委託等を行った場合に適用",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格 100万円 70万円 30万円",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本設計 3万円 サイト構成,SEO,操作説明",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option1 ２万円/頁 ウエブサイトの独自デザイン",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option2 7万円 トップ／下層コーディング",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option3 10万円 ウエブサイトからのメール送信",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option4 12万円 レスポンシブ機能",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "資本金1千万円超3億円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円超",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円超5千万円以下",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "保管費用は半数の企業が年間100 万円以上を負担しており、300 万円以上は約２割と",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "33.3% 100万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円未満",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金（出資金）が３億円以下かつ１千万円超の事業者が個人又は１千万円以下の事業者に製造委託等を行った場合に適用",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格 100万円 70万円 30万円",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本設計 3万円 サイト構成,SEO,操作説明",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option1 ２万円/頁 ウエブサイトの独自デザイン",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option2 7万円 トップ／下層コーディング",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option3 10万円 ウエブサイトからのメール送信",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Option4 12万円 レスポンシブ機能",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "※本記事は2025年6月時点の情報に基づいて作成されています",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/press/2019/12/20191211002/20191211002-2.pdf",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、配送コストの増加を",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "書、材料費の推移表など）",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対応コスト等） の増加が委託事業者に認められず、 一方的に従来の価格での納入",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の増加分を製品単価へ反映するよう委託事業者に求めたにもかかわらず、委託",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対応コスト等） の増加に対応するため、 今後の経費動向などを踏まえた明確な算",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 労務費、 原材料費、 エネルギー価格等のコストが増加した場合には、 委",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "騰があった場合には、適切なコスト増加分の全額転嫁を目指すものとする",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "気料金全体の増加を踏まえて価格設定を行う必要がある",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 合意がない事項については、 外的要因によるコスト増加が経営努力の範",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ガイドライン、 業界で策定した要望書、 原材料価格の推移表の３点セットを",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、 コスト増加等の費用の変動が生じた場合に、 中小受託事業者が協議を",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 外的要因等によるコスト増加については、 それが経営努力の範囲内で対",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注量の増加がコストダウンに寄与すると試算し、 ユーザーに発注量の引上",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした活動により原価を低減させ、 コスト減少の成果を委託",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加、 技術的難易度等を発注企業に説明し、 受注事業者と発注事業者が協議の上",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るが、納入数量の減少や",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加の作業や当初の納期に間に合わせるための人件費増加などが生じることがあ",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業側からの廃棄要請も多くの場合は拒否され、保管期間の長期化や保管金型数の増加を招",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型保管の長期化・保管金型数の増加は、保管・メンテナンス費の増大や本来であれば",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・月産数が大幅に減少しても、 量産時の単価にて納入させられている",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "協議に真摯に応じるとともに、 転嫁の仕組みを明確にするよう努め、 原価の増加をサプラ",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発注数量が見積数量を大幅に減少するなど単位原価が上昇する場合には単価を再設定",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《図表 顧客提示グラフの例 ～非鉄金属の推移～》",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《図表 顧客提示グラフの例 ～労務費（最低賃金）の推移～》",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆主要な原材料価格(1,422品目)の推移を示す資料を簡易に",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注） 原材料等の価格推移には「国内企業物価指数」(807品目)「輸入物価指数」(375品目)「企業",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1品目)の推移には「毎月勤労統計調査」（厚生労働省）を使用",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "サプライヤー側に材料購入の資金負担がないため、資金力に限りがある外注先とも取引しやすくなります",
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "相互、部品メーカーと素形材メーカー等）は、単なる外注関係にあるのではな",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スを背景に、コスト、品質、納期といった面において、自動車メーカーと部品",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "低減余力が生じたと判断し、更なる価格低減要請を行った",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 購買、外注担当者等受託取引に影響を及ぼすこととなる者が中小受託事業",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委託事業者は、 やむを得ず、 短納期又は追加の発注、 急な仕様",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加の作業や当初の納期に間に合わせるための人件費増加などが生じることがあ",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者の責めに帰すべき理由がないのに、その変更に伴って納期遅れや不良品が生",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れ、中小受託事業者は当初の納期に間に合わないことを説明したが、",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "更に対応しようとしたが納期に間に合わず、委託事業者が納期遅れを",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 委託事業者からの原材料等の支給の遅れ又は無理な納期指定によって",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生じた納期遅れ等を中小受託事業者の責任によるものとして 製造委託",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "） 、 納期の長短、代金の支払方",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "分に引き当てる等）、並びに労務費、外注費その他の諸経費等の増加分を支",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○設計・仕様の変更による価格及び納期の見直し",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に人手不足や最低賃金（家内労働法（昭和 45 年法律",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受託事業者が納期の延長なしで設計変更に対応してくれたため、そのため",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の残業費、休日出勤手当、外注費特急料金等の費用を増額して支払った",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小受託事業者に対して委託した給付の目的物について、指定された納期に中小",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約の長期化、②発注の安定化等、③納期、納入頻度の適正化等、発注の手続事務の円滑化等、⑤設計・仕様書等の明確",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行うことが一般的だが、 受発注毎に単価 ・ 数量 ・ 納期等の記載漏れがないよう注意してほ",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイムを短縮するために価格未妥結のまま製造を開始して納期になってから見",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決定期日を一律に「納期日」とすることも認められない",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たりする場合があるが、 分割納品や検収の有無に関わらず、 最初の納期から60 日以内に",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発注や契約の時点で最初の納期と支払期日の間隔を確認するよう留意されたい",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料を確保して納期を守るために材料メーカーが提示する価格を受け入らざ",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 1. 納期（深夜・休日対応）",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要する費用や納期の違いの説明に効果を発揮します",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期までの在庫管理費も見積書に計上出来ていない",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "差別化要素の例として、コミュニケーション・高い品質・希少価値・柔軟な納期対応・豊富な品揃えなどがあげられています",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫一貫対応により、納期短縮のほか、納品物のデザイ",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫自社の労務費の上昇だけでなく、外注先の単価に関",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "者の責めに帰すべき理由がないのに、その変更に伴って納期遅れや不良品が生",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "更に対応しようとしたが納期に間に合わず、委託事業者が納期遅れを",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生じた納期遅れ等を中小受託事業者の責任によるものとして 製造委託",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "未確定事項を先方担当に確認しすぎて失注しないだろうか・・・【印刷物制作】",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人口は、全就業人口の８．２％に達する1",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 一般社団法人日本自動車工業会「日本の自動車工業２０２５」",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する従業員の数が３００人を超える法人たる事業者」であって「常時使用する",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の数が３００人以下の個人又は法人たる事業者に対し製造委託等をする",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に人手不足や最低賃金（家内労働法（昭和 45 年法律",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、 第１章では、 平成18 年度に財団法人中小企業総合研究機構が社団法人日",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 下請法の規定は、資本金（出資金）が３億円超の事業者が個人又は３億円以下の事業者に製造委託等を行った場合及び資",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金（出資金）が３億円以下かつ１千万円超の事業者が個人又は１千万円以下の事業者に製造委託等を行った場合に適用",
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 取引先規模が大きい場合や、取引先担当の人事異動等が頻繁であるなど直接の把握が難しいあるいは時間を要する場合、",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来の資本金基準に加え、従業員基準（300人、100人）が追加され、規制及び保護の対象が拡充されます",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 経営リソースに限りのある小規模事業者や個人事業主の多い業界や地域では、取引先と個別交渉にあたる前に、特に業界団",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "1. 取引先の経営方針、業績や設備投資の動向などを把握しておくことは、",
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://up-cycle.jp/blog/supplied-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%B8%8B%E8%AB%8B%E6%B3%95%E7%8B%AC%E5%8D%A0%E7%A6%81%E6%AD%A2%E6%B3%95%E5%84%AA%E8%B6%8A%E7%9A%84%E5%9C%B0%E4%BD%8D/%E4%B8%8B%E8%AB%8B%E6%B3%95%E3%81%AE%E7%A6%81%E6%AD%A2%E8%A1%8C%E7%82%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newji.ai/procurement-purchasing/dispute-case-due-to-unclear-liability-for-supplied-material-damage-in-contracts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newji.ai/procurement-purchasing/liability-for-loss-due-to-inadequate-management-of-supplied-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/supplied-materials-defect-agreement2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93192/revisions/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/secure/451339/H22go32.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://kyu-go-go.cocolog-nifty.com/blog/files/1811koushuu_text.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/regional_office/chubu/chubu_tidbits/no0010.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nichizei-journal.com/one04/%E5%85%83%E8%AB%8B%E6%A5%AD%E8%80%85%E3%81%8C%E5%B7%A5%E4%BA%8B%E3%81%AE%E6%9D%90%E6%96%99%E3%82%92%E6%94%AF%E7%B5%A6%E3%80%80%E6%9C%89%E5%84%9For%E7%84%A1%E5%84%9F%E3%81%A7%E4%BA%8B%E6%A5%AD%E5%8C%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/car/sikyuu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeiken.co.jp/hourei/HHSHI000030/5-2-16.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kensetsu_keiri/n/n138ea189b980",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ameblo.jp/osato-kaikei/entry-12407430870.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/panfu_files/shitauketextbook.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://money2.daishin.com/e5/Pagelet/Board/Research/filedownload.aspx?gubun=0&rowid=55WA6LVwxpCTTT99MtV04zEHAa1huK7a1626uIPkdcd0cc884e63XHZ6RF0vJc1dJ1smQ4E45aLsw0VF78m8d3DJ7XEfIT21APLK10",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shizuoka-yorozu.go.jp/seminar/kakaku-tenka-seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r5_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/about/organization/tokyo/bunshokaito/shohi/181207/01.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/qa/yuusyousikyuu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshida-kensetsugyou.com/column/10685",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwato-office.com/column-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machikoba-note.jp/articles/yushou-mushou-shikyuzai-mitsumori/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.walight.jp/2023/12/15/%E8%A3%BD%E9%80%A0%E5%A7%94%E8%A8%97-%E5%8E%9F%E6%9D%90%E6%96%99%E3%81%AE%E6%9C%89%E5%84%9F%E6%94%AF%E7%B5%A6%E3%81%AB%E3%81%AF%E8%A6%81%E6%B3%A8%E6%84%8F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasso.go.jp/notfound.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/120_r7_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb25_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-12/MISUMI_Integrated_Report_2025_Japansese_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cf.pfdata.fisco.jp/data/report/20260916/6680070020260916005.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/metal-recycling-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 人手不足 受注 断る",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%B8%8B%E8%AB%8B%E6%B3%95%E7%8B%AC%E5%8D%A0%E7%A6%81%E6%AD%A2%E6%B3%95%E5%84%AA%E8%B6%8A%E7%9A%84%E5%9C%B0%E4%BD%8D/%E4%B8%8B%E8%AB%8B%E6%B3%95%E3%81%AE%E7%A6%81%E6%AD%A2%E8%A1%8C%E7%82%BA/",
+    "https://newji.ai/procurement-purchasing/dispute-case-due-to-unclear-liability-for-supplied-material-damage-in-contracts/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://cs-lawyer.tokyo/column/2021/06/01.html",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/",
+    "https://machikoba-note.jp/articles/yushou-mushou-shikyuzai-mitsumori/",
+    "https://jp.dongwangask.com/ask/1757649364994731"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 受注残 人手不足",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://newji.ai/procurement-purchasing/liability-for-loss-due-to-inadequate-management-of-supplied-materials/",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://lefixea.jp/mfg/articles/supplied-materials-defect-agreement2",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 人手不足 損失 億円",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93192/revisions",
+    "https://www.pref.tottori.lg.jp/secure/451339/H22go32.pdf",
+    "http://kyu-go-go.cocolog-nifty.com/blog/files/1811koushuu_text.pdf",
+    "https://www.pacific-ind.co.jp/investor/library/securities/file/20250613150202.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://www.jftc.go.jp/regional_office/chubu/chubu_tidbits/no0010.html",
+    "https://nichizei-journal.com/one04/%E5%85%83%E8%AB%8B%E6%A5%AD%E8%80%85%E3%81%8C%E5%B7%A5%E4%BA%8B%E3%81%AE%E6%9D%90%E6%96%99%E3%82%92%E6%94%AF%E7%B5%A6%E3%80%80%E6%9C%89%E5%84%9For%E7%84%A1%E5%84%9F%E3%81%A7%E4%BA%8B%E6%A5%AD%E5%8C%BA/",
+    "https://www.toishi.info/car/sikyuu.html",
+    "https://www.zeiken.co.jp/hourei/HHSHI000030/5-2-16.html",
+    "https://note.com/kensetsu_keiri/n/n138ea189b980",
+    "https://ameblo.jp/osato-kaikei/entry-12407430870.html",
+    "https://sogyotecho.jp/qa/yuusyousikyuu/",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/",
+    "https://machikoba-note.jp/articles/yushou-mushou-shikyuzai-mitsumori/"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 推移",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://www.jftc.go.jp/houdou/panfu_files/shitauketextbook.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://money2.daishin.com/e5/Pagelet/Board/Research/filedownload.aspx?gubun=0&rowid=55WA6LVwxpCTTT99MtV04zEHAa1huK7a1626uIPkdcd0cc884e63XHZ6RF0vJc1dJ1smQ4E45aLsw0VF78m8d3DJ7XEfIT21APLK10",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://shizuoka-yorozu.go.jp/seminar/kakaku-tenka-seminar/"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 統計 PDF",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.npo-homepage.go.jp/npoportal/document/014003453/hokoku/201970/2019%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://www.tmso.or.jp/contents/storage/images/performance/2023/3737/2/Yc7Nn889vnwJJ59e0fplNVKKspfIdZRPWOywFnz9.pdf",
+    "http://kyu-go-go.cocolog-nifty.com/blog/files/1811koushuu_text.pdf",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jftc.go.jp/houdou/panfu_files/shitauketextbook.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r5_06.pdf",
+    "https://jmsa1964.com/wp-content/uploads/2025/07/apr2-1_kakoguideline.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.kkj.go.jp/d/?D=c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDJfNzk4MjIK&L=ja",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 従業者規模別",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/toriteki_text_r7.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.pref.shiga.lg.jp/documents/11034/5289658.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 1人当たり 万円",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://nichizei-journal.com/one04/%E5%85%83%E8%AB%8B%E6%A5%AD%E8%80%85%E3%81%8C%E5%B7%A5%E4%BA%8B%E3%81%AE%E6%9D%90%E6%96%99%E3%82%92%E6%94%AF%E7%B5%A6%E3%80%80%E6%9C%89%E5%84%9For%E7%84%A1%E5%84%9F%E3%81%A7%E4%BA%8B%E6%A5%AD%E5%8C%BA/",
+    "https://www.jftc.go.jp/regional_office/chubu/chubu_tidbits/no0010.html",
+    "https://www.nta.go.jp/about/organization/tokyo/bunshokaito/shohi/181207/01.htm",
+    "https://sogyotecho.jp/qa/yuusyousikyuu/",
+    "https://www.toishi.info/car/sikyuu.html",
+    "https://yoshida-kensetsugyou.com/column/10685",
+    "https://www.iwato-office.com/column-7/",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/",
+    "https://machikoba-note.jp/articles/yushou-mushou-shikyuzai-mitsumori/"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） 2015 2025",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf",
+    "https://www.jasso.go.jp/sp/about/procurement/kouhyou/__icsFiles/afieldfile/2016/01/22/h27_09_kyousou_koukyou.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/120_r7_03.pdf",
+    "https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb25_jp.pdf",
+    "https://www.misumi.co.jp/sites/default/files/2025-12/MISUMI_Integrated_Report_2025_Japansese_all.pdf",
+    "https://cf.pfdata.fisco.jp/data/report/20260916/6680070020260916005.pdf",
+    "https://www.mazda.com/content/dam/mazda/corporate/mazda-com/ja/pdf/sustainability/report/2025j_all.pdf",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/",
+    "https://machikoba-note.jp/articles/yushou-mushou-shikyuzai-mitsumori/"
+   ]
+  },
+  {
+   "query": "Japan metal stamping subcontractor material supply paid supply free supply share survey Japan statistics",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/metal-recycling-market/Japan",
+    "https://www.mri.co.jp/en/knowledge/article/202512_2.html",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://www.trade.gov/country-commercial-guides/japan-semiconductors",
+    "https://www.marketsandata.com/industry-reports/japan-fabricated-metal-products-market",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.statista.com/topics/10105/construction-materials-in-japan/?srsltid=AYCX9vK84rJ5y_3zdXbrzDSPINxNAvkLEmJgbaAS7ugLd2UJ9cg3PCMN",
+    "https://www.e-stat.go.jp/en/statistics/00600050",
+    "https://www.grandviewresearch.com/industry-analysis/metal-stamping-market",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+   "results": [
+    "https://note.com/eigo3030/n/n0586d63adc43",
+    "https://note.com/enpowerment/n/ned6e64891d75",
+    "https://note.com/liberaize/n/n5d0337d6169b",
+    "https://note.com/ndsystems_jp/n/n85fa202857d7",
+    "https://note.com/kensetsu_keiri/n/n138ea189b980",
+    "https://note.com/nora_fas/n/n074e9d663259",
+    "https://note.com/oasis_mfg_map/n/nb007dcd34320",
+    "https://note.com/horibee55/n/nb3085b170fed"
+   ]
+  },
+  {
+   "query": "site:x.com 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+   "results": [
+    "https://x.com/jmat2022/status/2034771178603389379",
+    "https://x.com/jftc/status/2024734637541773411",
+    "https://x.com/jftc/status/2077643036058955800",
+    "https://x.com/jftc/status/2075107607585706220",
+    "https://x.com/jftc/status/2038505557649408134",
+    "https://x.com/jftc/status/2033794272055767094",
+    "https://x.com/jftc/status/2108447123012476966"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+   "results": [
+    "https://jp.linkedin.com/posts/uehara-co-consultant_sap有償支給外注について-有償支給は日本特有の商習慣に対応したsapソリューション-activity-7474452265098010624-yjRT",
+    "https://jp.linkedin.com/pulse/有償支給-敏敬-冨田-dv6hc",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7415911955690868736/",
+    "https://jp.linkedin.com/company/sakaikinzoku",
+    "https://jp.linkedin.com/pulse/売ったはずの部品が倉庫に戻ってくる原価に嘘を一滴だけ混ぜた有償支給-kohei-yoshioka-ppiec",
+    "https://jp.linkedin.com/posts/元氣-犬飼-1412aa431_建設業における消費税完成引渡し出来高外注費材料支給jvインボイス対応-activity-7502183339131555840-RvWQ",
+    "https://www.linkedin.com/posts/yuko-ito-ba773a41_saneiが下請法違反金型無償保管や代金不当減額-日本経済新聞-activity-7245247642979500033--gI5"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）",
+   "results": [
+    "https://www.facebook.com/JapanFTC/posts/自動車ディーラーの下請法違反日産東京販売は自社が顧客から請け負う自動車の板金塗装等を委託していた事業者に対し自動車の引取り又は引渡しに係る運送等を無償で行わせて/1381989093971761/",
+    "https://www.facebook.com/JapanFTC/photos/下請法の初心者必見購入利用強制報復措置有償支給原材料等の対価の早期決済はやめましょうたとえ下請事業者の了解を得ていても親事業者に違法性の意識がなくてもこれらの行/994583156045692/",
+    "https://www.facebook.com/JapanFTC/photos/自動車ディーラーの下請法違反日産東京販売は自社が顧客から請け負う自動車の板金塗装等を委託していた事業者に対し自動車の引取り又は引渡しに係る運送等を無償で行わせて/1381988477305156/",
+    "https://www.facebook.com/JapanFTC/posts/金型等の無償保管要請で下請法違反利益提供要請矢崎部品は自動車用部品の製造に必要な金型等を製造委託先に無償で保管させるなどしていたため同社に対し下請法に基づく勧告/1415779317259405/",
+    "https://www.facebook.com/61578637641882/posts/金型の無償保管は下請法違反かトヨタ事案から学ぶ2025年10月公正取引委員会がトヨタ自動車東日本宮城県大衡村に対して下請法違反の勧告を出しました完成車メーカーが/122133494870954588/",
+    "https://www.facebook.com/JapanFTC/posts/金型等の無償保管要請等で下請法違反利益提供要請タダノが製造委託先に対し建設用クレーン等の部品の製造に必要な同社所有の金型等を無償で保管させまた金型等の棚卸作業を/1509397407897595/",
+    "https://www.facebook.com/JapanFTC/posts/金型等の無償保管要請で下請法違反利益提供要請いづみ工業は自動車用部品の製造に必要な金型等を下請事業者に無償で保管させていましたこのため同社に対し下請法に基づく勧/1187397543430918/"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） note 社長",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://note.com/kensetsu_keiri/n/n138ea189b980",
+    "https://nichizei-journal.com/one04/%E5%85%83%E8%AB%8B%E6%A5%AD%E8%80%85%E3%81%8C%E5%B7%A5%E4%BA%8B%E3%81%AE%E6%9D%90%E6%96%99%E3%82%92%E6%94%AF%E7%B5%A6%E3%80%80%E6%9C%89%E5%84%9For%E7%84%A1%E5%84%9F%E3%81%A7%E4%BA%8B%E6%A5%AD%E5%8C%BA/",
+    "https://www.toishi.info/car/sikyuu.html",
+    "https://sogyotecho.jp/qa/yuusyousikyuu/",
+    "https://www.jftc.go.jp/regional_office/chubu/chubu_tidbits/no0010.html",
+    "https://www.swisteria.com/posts/outsourced-supplies/",
+    "https://www.nta.go.jp/about/organization/tokyo/bunshokaito/shohi/181207/01.htm",
+    "https://sugiyama-kaikei.or.jp/09/4789/",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/"
+   ]
+  },
+  {
+   "query": "金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70） X 投稿",
+   "results": [
+    "https://up-cycle.jp/blog/supplied-materials/",
+    "https://www.jftc.go.jp/regional_office/chubu/chubu_tidbits/no0010.html",
+    "https://www.zeiken.co.jp/hourei/HHSHI000030/5-2-16.html",
+    "https://www.toishi.info/car/sikyuu.html",
+    "https://newji.ai/procurement-purchasing/dispute-case-due-to-unclear-liability-for-supplied-material-damage-in-contracts/",
+    "https://sogyotecho.jp/qa/yuusyousikyuu/",
+    "https://www.nta.go.jp/about/organization/tokyo/bunshokaito/shohi/181207/01.htm",
+    "https://atsoho.com/blog/paid-supplied-material-offset-ban",
+    "https://cs-lawyer.tokyo/column/2021/06/01.html",
+    "https://genba-base.jp/article/supplied-materials-equipment-rules-2026/"
+   ]
+  },
+  {
+   "query": "Japan metal stamping subcontractor material supply paid supply free supply share survey site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/harpreet-iqbal-singh-a4ab8818",
+    "https://www.linkedin.com/in/dan-universal-1a009820",
+    "https://www.linkedin.com/in/sai-kiran-hanumakonda",
+    "https://in.linkedin.com/in/ajay-arora-6069a86",
+    "https://www.linkedin.com/in/sabihsarowar",
+    "https://www.linkedin.com/in/marekw",
+    "https://www.linkedin.com/in/prayash2496",
+    "https://www.linkedin.com/in/nikolas-praschma",
+    "https://www.linkedin.com/in/cuylermonahan",
+    "https://www.linkedin.com/in/jamesgmayer"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）"
+ }
+}

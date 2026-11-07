@@ -1,0 +1,248 @@
+{
+ "name": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
+ "en": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity",
+ "aliases": [
+  "名寄せ 異体字 機種依存文字 正規化 手順",
+  "法人番号 事業所 拠点 区別できない 名寄せ",
+  "標準化 前に名寄せ 誤統合 失敗"
+ ],
+ "context": "名寄せ",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:57:46.885376+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invox.jp/storage/spelling-adjust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/accounting-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stande.jp/blog/3points-data-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itea.or.jp/topics/20250813.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://senzing.com/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdp.com/glossary/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nhimg.org/glossary/normalized-entity-resolution/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://flur.ee/solutions/entity-resolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 site:note.com",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://invox.jp/storage/spelling-adjust",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 note",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://data-viz-lab.com/accounting-data",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061900003/",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 やり方",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://invox.jp/storage/spelling-adjust",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 事例",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://invox.jp/storage/spelling-adjust",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity",
+   "results": [
+    "https://senzing.com/what-is-entity-resolution/",
+    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "https://cdp.com/glossary/entity-resolution/",
+    "https://nhimg.org/glossary/normalized-entity-resolution/",
+    "https://flur.ee/solutions/entity-resolution",
+    "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "https://www.youtube.com/watch?v=nN91HuSWOJA&vl=ja",
+    "https://www.tamr.com/entity-resolution",
+    "https://recordlinker.com/entity-resolution-ml-data-standardization/",
+    "https://idp-software.com/guides/document-enrichment-entity-resolution/"
+   ]
+  },
+  {
+   "query": "site:note.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
+   "results": [
+    "https://note.com/inventor_ricky/n/ncde9a3e2d6f5",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/z9hg4bk/n/n656f7c990510"
+   ]
+  },
+  {
+   "query": "site:x.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活",
+   "results": [
+    "https://www.facebook.com/groups/1666630253598530/"
+   ]
+  },
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 note 社長",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://invox.jp/storage/spelling-adjust",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活 X 投稿",
+   "results": [
+    "https://note.com/k2naka/n/n46d8b0b24ecd",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/4748d2a4-45c7-45de-a55f-dfac4cb04a70/d4c85d5f/20260318_policies_local_governments_specification_outline_01.pdf",
+    "https://www.zenrin-ms.co.jp/blog/articles/what-is-address-discrepancy/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://invox.jp/storage/spelling-adjust",
+    "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/?P=2",
+    "https://www.itea.or.jp/topics/20250813.pdf",
+    "https://www.stande.jp/blog/3points-data-management"
+   ]
+  },
+  {
+   "query": "entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac",
+    "https://www.linkedin.com/pulse/entity-establishment-l1-layer-ai-processes-before-retrieves-haynes-6jsyc",
+    "https://pl.linkedin.com/pulse/case-study-entity-name-normalization-sanctions-screening-bykmf",
+    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://www.linkedin.com/posts/collins-nasongo_dataengineering-entityresolution-activity-7404853615816835072-rspO",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7512438776879554560/",
+    "https://www.linkedin.com/posts/joshikav_github-ashmitha-polamarasettiamazonmlchallenge-activity-7510172940735512576-fPtw"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ17頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）",
+  "実例": "記載なし（読んだ17頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T07:57:46.885376+00:00"
+}

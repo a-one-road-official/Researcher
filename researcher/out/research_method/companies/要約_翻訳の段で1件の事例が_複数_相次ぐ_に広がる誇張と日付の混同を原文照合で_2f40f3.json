@@ -1,0 +1,252 @@
+{
+ "name": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活",
+ "en": "detect overgeneralization single case to multiple in summaries date confusion verify against original text",
+ "aliases": [
+  "要約 誇張 一般化 原文 照合 ファクトチェック",
+  "1件の事例 相次ぐ 誇張 見抜き方",
+  "翻訳 要約 日付 混同 検証"
+ ],
+ "context": "検証",
+ "kind": "market",
+ "researched_at": "2026-11-07T07:57:45.424481+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coplus-one.jp/chatgpt-honyaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://languise.com/column/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.science.co.jp/nmt/blog/42991/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crystal-method.com/blog/chatgpt-translation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2949719126000361",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eugeneyan.com/writing/abstractive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askdecode.ai/resources/blog-articles/detect-hallucinations-in-ai-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s10579-026-09938-4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://arxiv.org/abs/2310.10627",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40495/44456",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 site:note.com",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization"
+   ]
+  },
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 note",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization"
+   ]
+  },
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 やり方",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization"
+   ]
+  },
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 事例",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization"
+   ]
+  },
+  {
+   "query": "detect overgeneralization single case to multiple in summaries date confusion verify against original text",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2949719126000361",
+    "https://eugeneyan.com/writing/abstractive/",
+    "https://www.entropik.io/resources/blog-articles/detect-hallucinations-in-ai-research",
+    "https://link.springer.com/article/10.1007/s10579-026-09938-4",
+    "https://arxiv.org/abs/2310.10627",
+    "https://ojs.aaai.org/index.php/AAAI/article/view/40495/44456",
+    "https://aclanthology.org/2025.findings-acl.1305.pdf",
+    "https://openreview.net/forum?id=DcEuBwrWnB",
+    "https://searchatlas.com/blog/what-is-ai-hallucination/",
+    "https://iamvera.ai/blog/ai-summaries-long-documents-verification/"
+   ]
+  },
+  {
+   "query": "site:note.com 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活",
+   "results": [
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/neconen/n/n0b2bdee9e492",
+    "https://note.com/editan/n/n16175eff1768",
+    "https://note.com/sute_aca/n/n7b9fe27ae4b2",
+    "https://note.com/the_ai_times/n/n9e55d8b19a2f",
+    "https://note.com/ken76a3/n/n5b2a647af94c",
+    "https://note.com/honepoo/n/n9f65b4679ec6",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/ichi_twnovel/n/nc49098104ba2",
+    "https://note.com/makoto03/n/n0fd6f33019ac"
+   ]
+  },
+  {
+   "query": "site:x.com 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活",
+   "results": [
+    "https://x.com/iidatetsunari/status/2095768343340855372",
+    "https://x.com/hz2on",
+    "https://x.com/VFXcreat"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活",
+   "results": [
+    "https://jp.linkedin.com/in/yoshidayasuhiro/en"
+   ]
+  },
+  {
+   "query": "site:facebook.com 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活",
+   "results": []
+  },
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 note 社長",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://japan-ai.co.jp/media/852/",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/"
+   ]
+  },
+  {
+   "query": "要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活 X 投稿",
+   "results": [
+    "https://proofreaderpro.ai/ja/blog/translate-abstract-multiple-languages",
+    "https://coplus-one.jp/chatgpt-honyaku/",
+    "https://languise.com/column/ai",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://exawizards.com/column/article/ai-article/chatgpt-translation/",
+    "https://www.science.co.jp/nmt/blog/42991/",
+    "https://crystal-method.com/blog/chatgpt-translation/",
+    "https://backlog.com/ja/blog/backlog-ai-assistant-usage-8/",
+    "https://actionbridge.io/ja-JP/llmtutorial/p/llm-translation-summarization"
+   ]
+  },
+  {
+   "query": "detect overgeneralization single case to multiple in summaries date confusion verify against original text site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-genai-hallucination-rates-in-business/",
+    "https://www.linkedin.com/posts/filippocademartiri_evidencebasedmedicine-clinicaltrials-bayesianstatistics-activity-7514665099157176321-8Tv3",
+    "https://www.linkedin.com/in/amoghchaturvedi",
+    "https://www.linkedin.com/pulse/where-human-possibility-becomes-practice-from-minds-ali-alizadeh-cwiwf",
+    "https://www.linkedin.com/in/homehealthleader",
+    "https://www.linkedin.com/pulse/ai-over-generalizes-why-matters-mario-dibenedetto-nwcye",
+    "https://www.linkedin.com/pulse/always-trap-why-your-ai-ignores-nuance-how-fix-ysquare-technology-odh9c",
+    "https://www.linkedin.com/pulse/demystifying-ai-hallucinations-detection-mitigation-strategies-rnoic",
+    "https://www.linkedin.com/pulse/rouge-score-key-metric-evaluating-text-summarisation-models-qirwc",
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/understanding-ai-limitations-in-research/"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
+  "実例": "記載なし（読んだ15頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-07T07:57:45.424481+00:00"
+}
