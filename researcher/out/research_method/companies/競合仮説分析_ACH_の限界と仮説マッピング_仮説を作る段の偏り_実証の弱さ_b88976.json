@@ -1,0 +1,3890 @@
+{
+ "name": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ",
+ "en": "analysis of competing hypotheses limitations hypothesis mapping empirical evidence",
+ "aliases": [
+  "競合仮説分析 限界 実証",
+  "ACH 批判 仮説 生成 バイアス",
+  "仮説マッピング 情報分析"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-07T08:57:29.974911+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーによるとこのステップが最も重要になります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "髙橋(2013)によると、井上の方法論は三つの側面から成り立っています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは「代表性ヒューリスティック」や「アンカリング」の典型例です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "良い研究を構築するためには，分析方法までを見通しながら研究を計画・ 実施することが求められると思われる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Active Inference型──Verses.aiのAXIOM",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "予測型JEPA──LeCunのLeJEPA/VL-JEPA",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成型トランスフォーマー──DeepMindのGenie 3",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "空間表現型──World LabsのMarble",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "五つ目のアプローチは、ニューラルネットワークと記号的推論を組み合わせるハイブリッド型である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "世界モデル型アーキテクチャ、特にActive InferenceとJEPAが共有する方向性は、この問題に対して原理的な解決策を提示する",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の競合仮説空間を構築する世界モデル型アーキテクチャが実現するまでには、いくつかの本質的な困難が横たわっている",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、内部モデルと外部現実の対応関係を体系的に検証する方法論は、まだ確立されていない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMの内部に暗黙的な世界モデルが形成されているとHintonらが主張するとき、その主張を検証する体系的な方法はまだない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の競合仮説空間を構築する世界モデル型アーキテクチャは、この限界を克服するための、現時点でもっとも有望な方向性である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関連資料：トレンド分析で顧客のリアルな声を収集！実施手順や注意点を解説",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、「なんとなく」や「経験則」だけに頼るのではなく、客観的なデータと明確な検証手順に基づいて判断を行うという点です",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説の立案は、検証プロセス全体の土台となる重要なステップです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「商品ページにユーザーレビューを掲載すれば、購入率が向上するはずだ」といった明確な仮説があれば、次の検証ステップに進みやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を立てたら、次は具体的な検証方法を設計します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各検証プロセスの終了後には、「仮説の立て方は適切だったか」「データの収集方法に問題はなかったか」「分析の視点に偏りはなかったか」など、プロセス自体の振り返りを行います",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実践的な仮説検証を進めるために、現場で活用できる代表的なフレームワークを紹介します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDCAサイクルは、仮説検証を継続的に改善していくための基本的なフレームワークです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDCAサイクルは以下の4つのステップで構成されています",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ロジックツリーは、課題や目標を細分化して整理するためのフレームワークです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最も典型的なのが「仮説が曖昧なまま検証を始めてしまう」というケースです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "基本プロセスである「仮説の立案」「検証の設計」「データ収集と分析」「結果の分析とフィードバック」の各ステップを効率的に進めるために、今では様々な分析ツールが活用できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回のシリーズでは、その基本的な考え方と手順を示しました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Problem structuring methods",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH was a step forward in",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "intelligence analysis methodology",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It consists of the following steps:",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hypothesis – The first step of the process is to identify all potential hypotheses, preferably using a group of analysts with different perspectives to",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One method, by Valtorta and colleagues uses probabilistic methods, adds",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Other work focuses less on probabilistic methods and more on cognitive and visualization extensions to ACH, as discussed by Madsen and Hicks.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", a formal mathematical methodology that explicitly deals with uncertainty.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This methodology forms the basis of the Sheba technology that is used in Veriluma's intelligence assessment software.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sheet that implements the scoring and weighting methodology of ACH, more specifically the weighted inconsistency counting algorithm.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"Structured Analysis of Competing Hypotheses: Improving a Tested Intelligence Methodology\"",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Analysis of competing hypotheses (ACH): A Powerful Tool for ... LinkedIn https://www.linkedin.com > pulse > a...",
+    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-dami%C3%A1n",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "John Pyrik - ChatGPT ACH Analysis Assistant: A Great Tool John Pyrik - ChatGPT ACH Analysis Assistant: A Great Tool LinkedIn https://www.linkedin.com > posts > jo...",
+    "url": "https://www.linkedin.com/posts/john-pyrik-6a589062_chatgpt-ach-analysis-assistant-activity-7323830755984379904-muAr",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アメリカの情報機関CIAで開発されたACHは、国家レベルの判断ミスを防ぐために編み出された分析手法です。そして驚くべきことに、戦前の日本海軍にもこれに匹敵する分析思想が存在していました。教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報分析に限らず、職場や家庭、SNSなど日常生活にも応用できる内容です。認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あなたは、こんな場面に出くわしたことはないでしょうか。たとえば職場の会議で、誰もが「それはおかしいのでは？」と内心思っているのに、なぜかそのまま進んでしまうプロジェクト。あるいは、自分でも「少し違うかもしれない」と感じつつ、周囲の空気に押されて決断してしまった経験。こうした判断のズレは、決して特別な人にだけ起こるものではありません。むしろ、知的で経験豊富な人ほど、自分の判断が正しいと信じやすくなるという傾向もあるのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つ",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "によって1970年代に開発されたといわれています。ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。これにより、アナリストは達成することが非常に難しい高度な情報分析を実現する認知上の制限を克服したり、少なくとも最小化したりすることができます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした。不確実なデータから最良の情報を見出すことは、産業界や学会、政府における研究者や開発者、アナリストの目的でした。その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ちなみにアブダクティブな推論というのは、ACHに類似した早期の概念です。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーは『情報分析の心理学』の中でACHプロセスについてかなり詳しく説明しています。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "というものです。より具体的に見ていきましょう。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです。できれば、異なる視点を持つアナリストのグループを使って、可能性についてブレインストーミングを行います。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは感度分析を使用して結果をテストします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. ACH結果",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は身近な題材を使ってCopilotによるACHの結果を観察してみた",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHの分析内容も、概ね意図したとおりの結果だった",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "テキストや画像の入力から、インタラクティブな三次元環境を生成し、その環境内でエージェントが行動し、結果を観察できる",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ある実験結果が得られたとき、その結果を説明しうる複数の仮説を立て、各仮説からの予測を導き、追加実験によって仮説を選別する──このプロセスは、まさに複数の仮説空間の動的な構築と更新である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証結果の蓄積は、組織全体のマーケティングナレッジとしても有効活用できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「商品の購入率が低い」「サイトの直帰率が高い」といった具体的な問題点を特定します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、A/Bテストを実施する場合、テスト期間、対象ユーザー数、測定する指標（コンバージョン率、滞在時間など）を具体的に決定していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SNSや口コミといったユーザーの声、コールセンターに蓄積されているコールログ、アンケート結果などの定性的なデータも併せて収集して分析することで、より深い洞察を得られるでしょう",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. 結果の分析とフィードバック",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最後に、分析結果を評価し、仮説の正否を判断します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、仮説が誤っていた場合は、なぜその結果となったのかを深掘りし、新たな仮説を導き出していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、検証結果を単なる成功・失敗で終わらせないことです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、検証結果についても、成功・失敗に関わらず、チーム内で率直に共有し議論することで、次の施策につながる新たな発見が生まれやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜその結果になったのかを深く分析し、次の仮説検証に活かすことで、組織全体の検証スキルが段階的に向上していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「自社の商品は市場で最も優れている」という思い込みや、「前回成功した施策だから今回も同じように成功するはずだ」という過去の成功体験によるバイアスがよく見られます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、Webサイトのコンバージョン改善では、「商品詳細ページに動画を追加すれば、購入率が向上するはずだ」という仮説を立て、A/Bテストで効果を検証します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、予想以上の効果が確認できれば本格導入を行い、効果が限定的であれば別のアプローチを検討できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、検証結果のデータが蓄積されることで、「どのような施策が効果的で、どのような施策が非効率か」という知見が組織内に蓄積されていきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Act（改善）：分析結果をもとに、次のアクションプランを策定する",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、本来であれば、個々の手法は事例とともに説明する必要があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTは分析した結果をもとに次のアクションに繋げるためのものなので、誤解にもとづく意思決定をするということは意思決定者にとって喜ばしくない結果を引き起こすことになります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "精査の結果、新しい仮説や証拠があれば追加",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最終的に意思決定者にこれらの分析結果を報告する必要があるので、レポーティングをする必要があります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を用いて報告することです（あくまでもこの分析結果はfactではなく、一番確からしい仮説なため）",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ous foresight examples would be in monitoring",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "main question. For example, the original question “Which industries and tribal groups are",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SACH Case Study: Ghana Telecommunications",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Note: The following case study conducted for a private client using SACH has been modified",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ment based on the limited evidence available. For purposes of this case study, the analysts",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Tools, Tutorials, Critiques and Case Studies",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This was a very brief introduction of ACH, and in my next diary I will apply ACH to a practical recent case. But I definitely encourage those interested to go through Heuer’s book for a deeper explanation of such model.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの前提を採用し、どの前提を排除するかという判断が、モデルの訓練データと目標関数に暗黙的に委ねられている",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMにおいて、どの前提が採用されるかは暗黙的な過程である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、「明治維新の原因は何か」という問いに対して、LLMは一連の整合的な回答を生成するが、その回答が暗黙的に採用している分析枠組み──たとえば西洋近代化論、内発的発展論、世界システム論など──のうちどれに依拠しているかは明示されず、他の枠組みからの回答は体系的に抑圧される",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同様に、Active InferenceやJEPAが「本当に世界を理解しているのか」、それとも「理解しているように見える統計的パターンを学習しているだけか」を区別する明確な基準は存在しない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、認識論的に重要な仮説──支配的なナラティブとは異なる解釈、少数派の科学的仮説、反直観的だが検証可能な理論──は、まさに統計的に低確率であるがゆえに、効率性の名のもとに排除されやすい",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "利用者が、どの前提を採用し、どの前提を修正し、どの前提を棄却するかを、情報に基づいて判断できるインターフェースを設計すること",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMは、この営為の一部──言語的な表現と統計的なパターンの活用──において、人類が到達しえなかった水準に達した",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "S--3800--SE.pdf. Accessed June 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The-Five-Habits-Article.pdf. Accessed June 6, 2018",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TR2005-01.pdf. Accessed June 6, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Competitor Analysis and Profiling",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Competitor Profiling Framework",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (1.3 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「インテリジェンスの歴史は、失敗の歴史でもある」と言われることがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうした失敗が繰り返される背景には、構造的な問題だけでなく、人間の「認知のクセ」、すなわち認知バイアスの影響があることが指摘されています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それは誤りではないかもしれないが、他の解釈可能性を体系的に排除している",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認識論的転換としての意義──注意の政治を超えて",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この限定は、モデルの訓練データに埋め込まれた文化的・言語的・制度的バイアスによって規定されるが、限定が行われていること自体が出力からは不可視である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説空間の複数化は、それ自体では「注意の政治」を解消しない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関連資料：トレンド分析で顧客のリアルな声を収集！実施手順や注意点を解説",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、検証結果を単なる成功・失敗で終わらせないことです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、検証結果についても、成功・失敗に関わらず、チーム内で率直に共有し議論することで、次の施策につながる新たな発見が生まれやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証は、一度の成功や失敗で終わらせない継続的な取り組みです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. バイアスの排除",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証において、最も注意すべき点の一つがバイアスの存在です",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「自社の商品は市場で最も優れている」という思い込みや、「前回成功した施策だから今回も同じように成功するはずだ」という過去の成功体験によるバイアスがよく見られます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうしたバイアスを完全になくすことは難しいものの、常に客観的なデータに基づいて判断を行い、チーム内で異なる意見も積極的に取り入れることで、より信頼性の高い検証が実現できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1. 初心者が陥りやすい失敗",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証を始めたばかりのチームや担当者がよく陥る失敗について見ていきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、9・11同時多発テロやイラク戦争で分析の誤りが問題となり、この手法が改めて注目されました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTにおける認知バイアスのよくある例",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスを取り除くための手法：競合仮説分析",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、脅威インテリジェンス業務のみならず使えるOSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析の際問題になりがちな認知バイアスへの付き合い方について言及します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次に、その偏りを引き起こす「認知バイアス」とは何かについて見ていきましょう",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスとは、人間の思考や判断に影響を与える心理的な傾向や偏りのことを指します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者は自身の認知バイアスを理解し、それを意識的に制御することが重要です",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報を収集している中で、よく直面しがちな認知バイアスの例について、いくつか紹介します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自分の仮説に合致する情報だけを集めてしまうバイアスのこと",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの認知バイアスを放置して分析を進めることは、インテリジェンスの正確性が信用できなくなり、誤解にもとづく意思決定の可能性が生まれてしまうことにつながります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前述した認知バイアスの影響をなるべく最小限に抑え、複数の可能性を体系的に評価するためのメソッドとして、",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単一の結論に急いで飛びつくのではなくあらゆる可能性を慎重に検討することで、認知バイアスを除去し特定の仮説へ偏った結論に至るリスクを軽減します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説の列挙は個人で実施するとこの時点でバイアスに呑まれてしまう可能性が存在するので、本来は色々な人の意見を募って実施するべきとされています",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このフェーズを踏むことにより、分析の段階で混入した主観的なバイアスを取り除くきっかけが生まれます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "notably confirmation bias which compels people to seek evidence confirming their",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "biases when dealing with complex issues. The",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tive biases in the intuitive analysis that occurs",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "an optical illusion, no matter how much an analyst consciously tries to see past these biases,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このプロセスではアナリストが「可能性が高い」と思われる仮説を一つ選択し、その正確性を証明するための証拠を使うことを阻止します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次にアナリストは賛否のある証拠と（仮定と論理的推論を含む）仮説をリストアップします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マトリックス（行列）を使って、アナリストは可能な限り多くの理論を反証するために、各仮説に対して証拠を適用します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それは対立する仮説の相対的な可能性を判断するのに役立つ証拠があるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは一つの仮説とすべての証拠を見るのではなく、一回ごとに一つの証拠を検討し、考えられるすべての仮説に対してそれを調べることをが奨励されています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次にアナリストは各仮説の相対的な可能性について暫定的な結論を導き出そうとします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マトリックスは各仮説について明確な数学的合計を生み出しますが、アナリストは最終的な結論を出すために自らの判断を用いる必要があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHはアナリストにマトリックスを構築するよう要求するため、証拠と仮説を逆追跡することができます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "社会構造主義者の批判によると、ACHはグリッドを生み出すために使われる仮説の初期形成の問題の性質を十分に強調することができません",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法は、複数の仮説を並列して検討し、それぞれに対して反証的な証拠をあてはめていくという、非常に構造的で理性的なアプローチを取ります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ある国家が攻撃してくるという仮説を一度信じると、その仮説を支持する証拠ばかりに注目してしまい、逆の証拠に対しては「特殊な事情による例外」として処理してしまう",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析は、軍事や外交における戦略的判断の場面だけでなく、ビジネスや医療など、判断の正確性が求められるあらゆる分野で活用可能なアプローチです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これはまさに、現代の構造的分析手法における仮説と証拠の対応関係を明示するプロセスと重なります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料に込められた意味を兵術的知識をもとに読み解き、仮説を立て、さまざまな組み合わせを試みる",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "直観に頼ることと、それを検証する手続きを持つことのバランス",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【研究手法】仮説の形式とモデル図を体系的に整理している必読の文献！（林・内藤, 2023）｜Takahito Sasaki（佐々木孝仁）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【研究手法】仮説の形式とモデル図を体系的に整理している必読の文献！（林・内藤, 2023）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本論文で取り上げている4つの仮説形式は、",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、2つの変数の間にどのような関係があるかを調べる仮説です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、媒介効果が他の変数によってどのように変わるかを考える仮説です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "４つの仮説形式をもっとわかりやすく",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本論文がわかりやすいのが、簡単な数式や図も使いながら、各仮説の形式を説明している点です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "媒介効果（間接効果）は一定ではなく，文脈，個人差，Xの値によって異なるという仮説も興味深い検証課題となりうる（Preacher, Rucker, & Hayes, 2007）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これまでいくつか定量研究に携わってきているので、それなりにこうした仮説の形式には理解があると思っていましたが、「なんとなく」理解した気になっていたかも、とハッとさせられました",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "説明を検証し、仮説を選択する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アメリカとイギリスの刑事司法制度は、当事者対抗手続きにおいて検察側と弁護側、それぞれが示す事実に関する別の説明がないかを法廷で検証する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説が正しいと認められるには、そうしたすべての仮定を満たさなければならないからだ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "進行中の事態について考えるときには、ほかの仮説が正しいという相対的な確率を意識することが重要だ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "6が多く出るようサイコロに細工がされていると疑うなら、サイコロを何度も振ってみれば検証できる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "でも触れるベイズ推定の手法を用いて考えるといい",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは「競合仮説分析」（ACH）と呼ばれる手法だ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHでは、仮説（対立仮説）をすべて挙げ、どれを選択するかについてすべての証拠・推論・仮定の重要性を検証し（これは「情報報告の識別」という不快な名で呼ばれている）、反証が最も少ない説明を有力とする",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "残念ながら、日々出合う状況の多くは、繰り返し試して検証することができない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それでも仮説を立てれば、観察する行動と照らし合わせて、上司の偏見を合理的に立証できる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関係する人たちの動機を評価し、証拠に対して別の説明がないかを検証によって判断し、仮説を識別する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/science_summary/n/n5cd076fea400",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mikiok/n/nd435efef29b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/analyticslab/n/n78c39c2f26a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/290369",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freeasy24.research-plus.net/blog/c264",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jimmy_choo/n/n14def212737c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/researchercolumn/hypothesis_research_design_quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xica.net/xicaron/introduction-to-hypothesis-thinking-in-marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaaan.jp/note/hypothesis-verification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsunaweb.book.mynavi.jp/tsunaweb/tsuna/detail/id=6394",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vectorinc.co.jp/groupservice/marketing-picks/marketing/term_framework/1125315",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://atsumori.shop/archives/2346",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.missiondrivenbrand.jp/entry/thinking_abduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://isc.sans.edu/diary/22460",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-dami%C3%A1n",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/john-pyrik-6a589062_chatgpt-ach-analysis-assistant-activity-7323830755984379904-muAr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ site:note.com",
+   "results": [
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://note.com/haurix/n/ncc5a33f069f9",
+    "https://note.com/science_summary/n/n5cd076fea400",
+    "https://note.com/mikiok/n/nd435efef29b4",
+    "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "https://note.com/analyticslab/n/n78c39c2f26a2",
+    "https://note.com/saekimasao/n/n356ba9670e1a",
+    "https://note.com/masao_n/n/n230addb7a7f2",
+    "https://note.com/yutokuwaki/n/n6124cfe04de1",
+    "https://note.com/kininarukasetu/n/n9cafd66dbd77"
+   ]
+  },
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ note",
+   "results": [
+    "https://note.com/analyticslab/n/n78c39c2f26a2",
+    "https://diamond.jp/articles/-/290369",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://note.com/finalvent/n/n265e0b3c3c31",
+    "https://note.com/haurix/n/ncc5a33f069f9",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://note.com/jimmy_choo/n/n14def212737c"
+   ]
+  },
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ やり方",
+   "results": [
+    "https://diamond.jp/articles/-/290369",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://www.cross-m.co.jp/column/marketing/mkc20260717",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://www.asmarq.co.jp/column/column-cat/researchercolumn/hypothesis_research_design_quality/",
+    "https://www.mieruka-engine.com/media/hypothesis",
+    "https://xica.net/xicaron/introduction-to-hypothesis-thinking-in-marketing/",
+    "https://kaaan.jp/note/hypothesis-verification",
+    "https://tsunaweb.book.mynavi.jp/tsunaweb/tsuna/detail/id=6394",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf"
+   ]
+  },
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ 事例",
+   "results": [
+    "https://diamond.jp/articles/-/290369",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://vectorinc.co.jp/groupservice/marketing-picks/marketing/term_framework/1125315",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://atsumori.shop/archives/2346",
+    "https://www.missiondrivenbrand.jp/entry/thinking_abduction",
+    "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry"
+   ]
+  },
+  {
+   "query": "analysis of competing hypotheses limitations hypothesis mapping empirical evidence",
+   "results": [
+    "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis",
+    "https://isc.sans.edu/diary/22460",
+    "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "https://www.mn.uio.no/ifi/english/people/aca/josang/publications/pj2005-iccrts.pdf",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses"
+   ]
+  },
+  {
+   "query": "site:note.com 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ",
+   "results": [
+    "https://note.com/haurix/n/ncc5a33f069f9",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://note.com/mikiok/n/nd435efef29b4",
+    "https://note.com/science_summary/n/n5cd076fea400",
+    "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "https://note.com/analyticslab/n/n78c39c2f26a2",
+    "https://note.com/masao_n/n/n230addb7a7f2"
+   ]
+  },
+  {
+   "query": "site:x.com 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ",
+   "results": [
+    "https://x.com/tumada/status/1870356437257338906",
+    "https://x.com/kanawakakasuga/status/2101280150524436850",
+    "https://x.com/KUROKAWA_KKk/status/2089663057127719167",
+    "https://x.com/kamokita1/status/2116864890413687117",
+    "https://x.com/Unknown__Lab/status/2088929448980807899",
+    "https://x.com/Saka_i_JPN/status/2054320762324942952",
+    "https://x.com/L_go_mrk/status/2029513000076574968"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ",
+   "results": [
+    "https://ca.linkedin.com/in/celia-groisman-9a7509321",
+    "https://au.linkedin.com/company/linkedin",
+    "https://no.linkedin.com/in/jan-erik-klinkenberg-4708077a",
+    "https://jp.linkedin.com/pulse/学びの窓-64-仮説と想定-誠一郎-眞部-blw1c",
+    "https://jp.linkedin.com/posts/takeshi-kiribuchi-ph-d-a08a73187_実験には仮説に取り込めていない事実がある-仮説は更新できない-仮説を立てる-activity-7449942110033678336-vvMG",
+    "https://www.linkedin.com/posts/一博-下簗-b5b44a236_仮説実証参入のステップを踏む-これをイントレプレナーの強みと掛け-activity-7165164786308108288-o38F",
+    "https://www.linkedin.com/posts/卓也-兒玉-856040259_営業組織のスキルの言語化と成果起点の分析が完了した後は仮説のもと成果インパクト-activity-7071999211931635712-d1dt"
+   ]
+  },
+  {
+   "query": "site:facebook.com 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ",
+   "results": [
+    "https://www.facebook.com/kasetu.fes/",
+    "https://graph.facebook.com/v2.8/423314329439428/picture/",
+    "https://www.facebook.com/groups/247816822664827/",
+    "https://www.facebook.com/j.jitsugaku/photos/そもそも問題とは何か-仮説とは3月のテーマは課題解決力を上げるための構造思考スキル90分のセミナーではこんなことを学びますそもそも問題とは何か仮説の立て方解決の/488891986246641/",
+    "https://www.facebook.com/groups/poctalk/",
+    "https://www.facebook.com/groups/247816822664827/posts/1558427394937090/",
+    "https://www.facebook.com/groups/247816822664827/posts/1924208388358987/"
+   ]
+  },
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/290369",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://note.com/haurix/n/ncc5a33f069f9",
+    "https://note.com/jimmy_choo/n/n14def212737c",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://note.com/data_teller/n/n2302ed5c9ae2",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/293"
+   ]
+  },
+  {
+   "query": "競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ X 投稿",
+   "results": [
+    "https://diamond.jp/articles/-/290369",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://note.com/finalvent/n/n265e0b3c3c31",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://koubo.jp/article/list?t=1123",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220407-00010000-wmap-soci&lang=ja",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry"
+   ]
+  },
+  {
+   "query": "analysis of competing hypotheses limitations hypothesis mapping empirical evidence site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-dami%C3%A1n",
+    "https://www.linkedin.com/posts/jckelleher_im-always-looking-for-non-obvious-reading-activity-7390425110421286912-MPte",
+    "https://www.linkedin.com/pulse/intelligence-methodologies-nicolae-sfetcu-bvduf",
+    "https://www.linkedin.com/posts/john-pyrik-6a589062_chatgpt-ach-analysis-assistant-activity-7323830755984379904-muAr",
+    "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
+    "https://www.linkedin.com/pulse/navigate-uncertainty-strategy-execution-through-matthias-patzak-pimaf",
+    "https://www.linkedin.com/posts/nelia-shyshak-360218255_marketresearch-faircompetition-interstellar-activity-7516902613477621763-Q4-P",
+    "https://www.linkedin.com/posts/lavinia-c-woodward_labofthefuture-lotf-aidrugdiscovery-activity-7508169524039512065-ITQx",
+    "https://www.linkedin.com/posts/dae-woong-ham-37aa001a9_human-ai-powered-hypothesis-testing-cost-aware-activity-7508693290943266816-GiTu",
+    "https://www.linkedin.com/pulse/three-techniques-weighing-evidence-short-guide-tom-coyne"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーによるとこのステップが最も重要になります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "以上が情報分析の一つの方法である競合する仮説の分析ACHです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "髙橋(2013)によると、井上の方法論は三つの側面から成り立っています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは「代表性ヒューリスティック」や「アンカリング」の典型例です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "良い研究を構築するためには，分析方法までを見通しながら研究を計画・ 実施することが求められると思われる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Active Inference型──Verses.aiのAXIOM",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "予測型JEPA──LeCunのLeJEPA/VL-JEPA",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成型トランスフォーマー──DeepMindのGenie 3",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "空間表現型──World LabsのMarble",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "五つ目のアプローチは、ニューラルネットワークと記号的推論を組み合わせるハイブリッド型である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "世界モデル型アーキテクチャ、特にActive InferenceとJEPAが共有する方向性は、この問題に対して原理的な解決策を提示する",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の競合仮説空間を構築する世界モデル型アーキテクチャが実現するまでには、いくつかの本質的な困難が横たわっている",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、内部モデルと外部現実の対応関係を体系的に検証する方法論は、まだ確立されていない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMの内部に暗黙的な世界モデルが形成されているとHintonらが主張するとき、その主張を検証する体系的な方法はまだない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "複数の競合仮説空間を構築する世界モデル型アーキテクチャは、この限界を克服するための、現時点でもっとも有望な方向性である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関連資料：トレンド分析で顧客のリアルな声を収集！実施手順や注意点を解説",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、「なんとなく」や「経験則」だけに頼るのではなく、客観的なデータと明確な検証手順に基づいて判断を行うという点です",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説の立案は、検証プロセス全体の土台となる重要なステップです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「商品ページにユーザーレビューを掲載すれば、購入率が向上するはずだ」といった明確な仮説があれば、次の検証ステップに進みやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を立てたら、次は具体的な検証方法を設計します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各検証プロセスの終了後には、「仮説の立て方は適切だったか」「データの収集方法に問題はなかったか」「分析の視点に偏りはなかったか」など、プロセス自体の振り返りを行います",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実践的な仮説検証を進めるために、現場で活用できる代表的なフレームワークを紹介します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDCAサイクルは、仮説検証を継続的に改善していくための基本的なフレームワークです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDCAサイクルは以下の4つのステップで構成されています",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ロジックツリーは、課題や目標を細分化して整理するためのフレームワークです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最も典型的なのが「仮説が曖昧なまま検証を始めてしまう」というケースです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "基本プロセスである「仮説の立案」「検証の設計」「データ収集と分析」「結果の分析とフィードバック」の各ステップを効率的に進めるために、今では様々な分析ツールが活用できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回のシリーズでは、その基本的な考え方と手順を示しました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Problem structuring methods",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH was a step forward in",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "intelligence analysis methodology",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It consists of the following steps:",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Hypothesis – The first step of the process is to identify all potential hypotheses, preferably using a group of analysts with different perspectives to",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One method, by Valtorta and colleagues uses probabilistic methods, adds",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Other work focuses less on probabilistic methods and more on cognitive and visualization extensions to ACH, as discussed by Madsen and Hicks.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", a formal mathematical methodology that explicitly deals with uncertainty.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This methodology forms the basis of the Sheba technology that is used in Veriluma's intelligence assessment software.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "sheet that implements the scoring and weighting methodology of ACH, more specifically the weighted inconsistency counting algorithm.",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"Structured Analysis of Competing Hypotheses: Improving a Tested Intelligence Methodology\"",
+    "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Analysis of competing hypotheses (ACH): A Powerful Tool for ... Analysis of competing hypotheses (ACH): A Powerful Tool for ... LinkedIn https://www.linkedin.com > pulse > a...",
+    "url": "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-dami%C3%A1n",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "John Pyrik - ChatGPT ACH Analysis Assistant: A Great Tool John Pyrik - ChatGPT ACH Analysis Assistant: A Great Tool LinkedIn https://www.linkedin.com > posts > jo...",
+    "url": "https://www.linkedin.com/posts/john-pyrik-6a589062_chatgpt-ach-analysis-assistant-activity-7323830755984379904-muAr",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アメリカの情報機関CIAで開発されたACHは、国家レベルの判断ミスを防ぐために編み出された分析手法です。そして驚くべきことに、戦前の日本海軍にもこれに匹敵する分析思想が存在していました。教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報分析に限らず、職場や家庭、SNSなど日常生活にも応用できる内容です。認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "あなたは、こんな場面に出くわしたことはないでしょうか。たとえば職場の会議で、誰もが「それはおかしいのでは？」と内心思っているのに、なぜかそのまま進んでしまうプロジェクト。あるいは、自分でも「少し違うかもしれない」と感じつつ、周囲の空気に押されて決断してしまった経験。こうした判断のズレは、決して特別な人にだけ起こるものではありません。むしろ、知的で経験豊富な人ほど、自分の判断が正しいと信じやすくなるという傾向もあるのです。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つ",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "によって1970年代に開発されたといわれています。ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます。これにより、アナリストは達成することが非常に難しい高度な情報分析を実現する認知上の制限を克服したり、少なくとも最小化したりすることができます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした。不確実なデータから最良の情報を見出すことは、産業界や学会、政府における研究者や開発者、アナリストの目的でした。その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ちなみにアブダクティブな推論というのは、ACHに類似した早期の概念です。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ホイヤーは『情報分析の心理学』の中でACHプロセスについてかなり詳しく説明しています。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "というものです。より具体的に見ていきましょう。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです。できれば、異なる視点を持つアナリストのグループを使って、可能性についてブレインストーミングを行います。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは感度分析を使用して結果をテストします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. ACH結果",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今回は身近な題材を使ってCopilotによるACHの結果を観察してみた",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHの分析内容も、概ね意図したとおりの結果だった",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "テキストや画像の入力から、インタラクティブな三次元環境を生成し、その環境内でエージェントが行動し、結果を観察できる",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ある実験結果が得られたとき、その結果を説明しうる複数の仮説を立て、各仮説からの予測を導き、追加実験によって仮説を選別する──このプロセスは、まさに複数の仮説空間の動的な構築と更新である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証結果の蓄積は、組織全体のマーケティングナレッジとしても有効活用できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「商品の購入率が低い」「サイトの直帰率が高い」といった具体的な問題点を特定します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、A/Bテストを実施する場合、テスト期間、対象ユーザー数、測定する指標（コンバージョン率、滞在時間など）を具体的に決定していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SNSや口コミといったユーザーの声、コールセンターに蓄積されているコールログ、アンケート結果などの定性的なデータも併せて収集して分析することで、より深い洞察を得られるでしょう",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. 結果の分析とフィードバック",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最後に、分析結果を評価し、仮説の正否を判断します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、仮説が誤っていた場合は、なぜその結果となったのかを深掘りし、新たな仮説を導き出していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、検証結果を単なる成功・失敗で終わらせないことです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、検証結果についても、成功・失敗に関わらず、チーム内で率直に共有し議論することで、次の施策につながる新たな発見が生まれやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜその結果になったのかを深く分析し、次の仮説検証に活かすことで、組織全体の検証スキルが段階的に向上していきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「自社の商品は市場で最も優れている」という思い込みや、「前回成功した施策だから今回も同じように成功するはずだ」という過去の成功体験によるバイアスがよく見られます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、Webサイトのコンバージョン改善では、「商品詳細ページに動画を追加すれば、購入率が向上するはずだ」という仮説を立て、A/Bテストで効果を検証します",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その結果、予想以上の効果が確認できれば本格導入を行い、効果が限定的であれば別のアプローチを検討できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、検証結果のデータが蓄積されることで、「どのような施策が効果的で、どのような施策が非効率か」という知見が組織内に蓄積されていきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Act（改善）：分析結果をもとに、次のアクションプランを策定する",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、本来であれば、個々の手法は事例とともに説明する必要があります",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTは分析した結果をもとに次のアクションに繋げるためのものなので、誤解にもとづく意思決定をするということは意思決定者にとって喜ばしくない結果を引き起こすことになります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "精査の結果、新しい仮説や証拠があれば追加",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最終的に意思決定者にこれらの分析結果を報告する必要があるので、レポーティングをする必要があります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を用いて報告することです（あくまでもこの分析結果はfactではなく、一番確からしい仮説なため）",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ous foresight examples would be in monitoring",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "main question. For example, the original question “Which industries and tribal groups are",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SACH Case Study: Ghana Telecommunications",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Note: The following case study conducted for a private client using SACH has been modified",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ment based on the limited evidence available. For purposes of this case study, the analysts",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Tools, Tutorials, Critiques and Case Studies",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This was a very brief introduction of ACH, and in my next diary I will apply ACH to a practical recent case. But I definitely encourage those interested to go through Heuer’s book for a deeper explanation of such model.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どの前提を採用し、どの前提を排除するかという判断が、モデルの訓練データと目標関数に暗黙的に委ねられている",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMにおいて、どの前提が採用されるかは暗黙的な過程である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、「明治維新の原因は何か」という問いに対して、LLMは一連の整合的な回答を生成するが、その回答が暗黙的に採用している分析枠組み──たとえば西洋近代化論、内発的発展論、世界システム論など──のうちどれに依拠しているかは明示されず、他の枠組みからの回答は体系的に抑圧される",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "同様に、Active InferenceやJEPAが「本当に世界を理解しているのか」、それとも「理解しているように見える統計的パターンを学習しているだけか」を区別する明確な基準は存在しない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、認識論的に重要な仮説──支配的なナラティブとは異なる解釈、少数派の科学的仮説、反直観的だが検証可能な理論──は、まさに統計的に低確率であるがゆえに、効率性の名のもとに排除されやすい",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "利用者が、どの前提を採用し、どの前提を修正し、どの前提を棄却するかを、情報に基づいて判断できるインターフェースを設計すること",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LLMは、この営為の一部──言語的な表現と統計的なパターンの活用──において、人類が到達しえなかった水準に達した",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "S--3800--SE.pdf. Accessed June 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The-Five-Habits-Article.pdf. Accessed June 6, 2018",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "TR2005-01.pdf. Accessed June 6, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Competitor Analysis and Profiling",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Competitor Profiling Framework",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (1.3 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「インテリジェンスの歴史は、失敗の歴史でもある」と言われることがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうした失敗が繰り返される背景には、構造的な問題だけでなく、人間の「認知のクセ」、すなわち認知バイアスの影響があることが指摘されています",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それは誤りではないかもしれないが、他の解釈可能性を体系的に排除している",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認識論的転換としての意義──注意の政治を超えて",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この限定は、モデルの訓練データに埋め込まれた文化的・言語的・制度的バイアスによって規定されるが、限定が行われていること自体が出力からは不可視である",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説空間の複数化は、それ自体では「注意の政治」を解消しない",
+    "url": "https://note.com/finalvent/n/n265e0b3c3c31",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関連資料：トレンド分析で顧客のリアルな声を収集！実施手順や注意点を解説",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重要なのは、検証結果を単なる成功・失敗で終わらせないことです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、検証結果についても、成功・失敗に関わらず、チーム内で率直に共有し議論することで、次の施策につながる新たな発見が生まれやすくなります",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証は、一度の成功や失敗で終わらせない継続的な取り組みです",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "4. バイアスの排除",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証において、最も注意すべき点の一つがバイアスの存在です",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「自社の商品は市場で最も優れている」という思い込みや、「前回成功した施策だから今回も同じように成功するはずだ」という過去の成功体験によるバイアスがよく見られます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうしたバイアスを完全になくすことは難しいものの、常に客観的なデータに基づいて判断を行い、チーム内で異なる意見も積極的に取り入れることで、より信頼性の高い検証が実現できます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1. 初心者が陥りやすい失敗",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証を始めたばかりのチームや担当者がよく陥る失敗について見ていきます",
+    "url": "https://www.mieruka-engine.com/media/hypothesis",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、9・11同時多発テロやイラク戦争で分析の誤りが問題となり、この手法が改めて注目されました",
+    "url": "https://atsumori.shop/archives/2346",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、OSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "OSINTにおける認知バイアスのよくある例",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスを取り除くための手法：競合仮説分析",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、脅威インテリジェンス業務のみならず使えるOSINT（Open Source Intelligence）の基本的な考え方と、分析の際に重要となる認知バイアスへの対処方法について解説していきます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析の際問題になりがちな認知バイアスへの付き合い方について言及します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次に、その偏りを引き起こす「認知バイアス」とは何かについて見ていきましょう",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知バイアスとは、人間の思考や判断に影響を与える心理的な傾向や偏りのことを指します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "分析者は自身の認知バイアスを理解し、それを意識的に制御することが重要です",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報を収集している中で、よく直面しがちな認知バイアスの例について、いくつか紹介します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自分の仮説に合致する情報だけを集めてしまうバイアスのこと",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらの認知バイアスを放置して分析を進めることは、インテリジェンスの正確性が信用できなくなり、誤解にもとづく意思決定の可能性が生まれてしまうことにつながります",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前述した認知バイアスの影響をなるべく最小限に抑え、複数の可能性を体系的に評価するためのメソッドとして、",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "単一の結論に急いで飛びつくのではなくあらゆる可能性を慎重に検討することで、認知バイアスを除去し特定の仮説へ偏った結論に至るリスクを軽減します",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説の列挙は個人で実施するとこの時点でバイアスに呑まれてしまう可能性が存在するので、本来は色々な人の意見を募って実施するべきとされています",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このフェーズを踏むことにより、分析の段階で混入した主観的なバイアスを取り除くきっかけが生まれます",
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "notably confirmation bias which compels people to seek evidence confirming their",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "biases when dealing with complex issues. The",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tive biases in the intuitive analysis that occurs",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "an optical illusion, no matter how much an analyst consciously tries to see past these biases,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "プロセスの最初のステップは可能性のあるすべての仮説を特定することです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このプロセスではアナリストが「可能性が高い」と思われる仮説を一つ選択し、その正確性を証明するための証拠を使うことを阻止します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次にアナリストは賛否のある証拠と（仮定と論理的推論を含む）仮説をリストアップします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マトリックス（行列）を使って、アナリストは可能な限り多くの理論を反証するために、各仮説に対して証拠を適用します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それは対立する仮説の相対的な可能性を判断するのに役立つ証拠があるからです",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは一つの仮説とすべての証拠を見るのではなく、一回ごとに一つの証拠を検討し、考えられるすべての仮説に対してそれを調べることをが奨励されています",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "次にアナリストは各仮説の相対的な可能性について暫定的な結論を導き出そうとします",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マトリックスは各仮説について明確な数学的合計を生み出しますが、アナリストは最終的な結論を出すために自らの判断を用いる必要があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHはアナリストにマトリックスを構築するよう要求するため、証拠と仮説を逆追跡することができます",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "社会構造主義者の批判によると、ACHはグリッドを生み出すために使われる仮説の初期形成の問題の性質を十分に強調することができません",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法は、複数の仮説を並列して検討し、それぞれに対して反証的な証拠をあてはめていくという、非常に構造的で理性的なアプローチを取ります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ある国家が攻撃してくるという仮説を一度信じると、その仮説を支持する証拠ばかりに注目してしまい、逆の証拠に対しては「特殊な事情による例外」として処理してしまう",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合仮説分析は、軍事や外交における戦略的判断の場面だけでなく、ビジネスや医療など、判断の正確性が求められるあらゆる分野で活用可能なアプローチです",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これはまさに、現代の構造的分析手法における仮説と証拠の対応関係を明示するプロセスと重なります",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "資料に込められた意味を兵術的知識をもとに読み解き、仮説を立て、さまざまな組み合わせを試みる",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "直観に頼ることと、それを検証する手続きを持つことのバランス",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【研究手法】仮説の形式とモデル図を体系的に整理している必読の文献！（林・内藤, 2023）｜Takahito Sasaki（佐々木孝仁）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【研究手法】仮説の形式とモデル図を体系的に整理している必読の文献！（林・内藤, 2023）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これほど網羅的に、仮説の形式や型を体系化した資料はあまり見たことがありません",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "林洋一郎, & 内藤知加恵. (2023). 仮説検証型研究における仮説の形式―主効果, 調整, 媒介, 調整媒介についてのチュートリアル―. 産業・組織心理学研究, 36(2), 189-211.",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、仮説検証型研究におけるパターンを、4つの仮説の形式に分けてそれぞれ解説した展望論文です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説検証型研究とは、ある仮説を立てて、その仮説が正しいかどうかをデータを使って確認する研究方法です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本論文で取り上げている4つの仮説形式は、",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、2つの変数の間にどのような関係があるかを調べる仮説です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "は、媒介効果が他の変数によってどのように変わるかを考える仮説です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "４つの仮説形式をもっとわかりやすく",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本論文がわかりやすいのが、簡単な数式や図も使いながら、各仮説の形式を説明している点です",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "媒介効果（間接効果）は一定ではなく，文脈，個人差，Xの値によって異なるという仮説も興味深い検証課題となりうる（Preacher, Rucker, & Hayes, 2007）",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの研究者が「経験的に」理解している仮説の形式や型を体系化することで，仮説の導出とその妥当性の検証が理にかなったものになるだけでなく， 仮説と分析方法に間に齟齬が生じるといった弊害が無くなることが期待される",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これまでいくつか定量研究に携わってきているので、それなりにこうした仮説の形式には理解があると思っていましたが、「なんとなく」理解した気になっていたかも、とハッとさせられました",
+    "url": "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "説明を検証し、仮説を選択する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "アメリカとイギリスの刑事司法制度は、当事者対抗手続きにおいて検察側と弁護側、それぞれが示す事実に関する別の説明がないかを法廷で検証する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説が正しいと認められるには、そうしたすべての仮定を満たさなければならないからだ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "進行中の事態について考えるときには、ほかの仮説が正しいという相対的な確率を意識することが重要だ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "6が多く出るようサイコロに細工がされていると疑うなら、サイコロを何度も振ってみれば検証できる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "でも触れるベイズ推定の手法を用いて考えるといい",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これは「競合仮説分析」（ACH）と呼ばれる手法だ",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ACHでは、仮説（対立仮説）をすべて挙げ、どれを選択するかについてすべての証拠・推論・仮定の重要性を検証し（これは「情報報告の識別」という不快な名で呼ばれている）、反証が最も少ない説明を有力とする",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "残念ながら、日々出合う状況の多くは、繰り返し試して検証することができない",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それでも仮説を立てれば、観察する行動と照らし合わせて、上司の偏見を合理的に立証できる",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "関係する人たちの動機を評価し、証拠に対して別の説明がないかを検証によって判断し、仮説を識別する",
+    "url": "https://diamond.jp/articles/-/290369",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "合理的に判断できない理由──バイアスと競合仮説分析の心理学 Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。",
+    "url": "https://note.com/haurix/n/ncc5a33f069f9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "競合する仮説の分析｜幻想の近現代 May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-07T08:57:29.974911+00:00"
+}

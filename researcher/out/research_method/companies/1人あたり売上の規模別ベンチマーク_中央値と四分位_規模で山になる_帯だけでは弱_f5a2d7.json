@@ -7,30 +7,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T03:52:28.153185+00:00",
+ "researched_at": "2026-11-07T09:00:37.151565+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric",
-    "url": "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
@@ -256,6 +234,28 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric",
+    "url": "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
+    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -342,12 +342,12 @@
     "method": "http"
    },
    {
-    "url": "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
+    "url": "https://w3e.kanazawa-it.ac.jp/math/category/kakuritu/ds/henkan-tex.cgi?target=/math/category/kakuritu/ds/quartile.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nobuakimichihata/n/ndf3b592ee4f5",
+    "url": "https://www.kousotu.com/lect_math/d02.php",
     "status": "ok",
     "method": "http"
    },
@@ -367,17 +367,17 @@
     "method": "http"
    },
    {
-    "url": "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.bi.ksc.co.jp/tips/data-utilization/sales-analysis",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?yqv%2FgzaLEeT0U0t3MLI%2BmUNnmKaPu%2FzxFeIHOHaaUAd4kQQ89SRK6u70K5I6CcAEmiVMdCTMGd%2B7%0D%0Aj3Ql7Sve0g%2Bep04R2oPbjKB5oEsuzz8%3D",
     "status": "ok",
     "method": "http"
    },
@@ -451,11 +451,11 @@
     "https://www.stat.go.jp/naruhodo/4_graph/shokyu/hakohige.html",
     "https://bellcurve.jp/statistics/course/19277.html",
     "https://data-viz-lab.com/iqr",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://datamix.co.jp/media/datascience/blog-datascience-bs/",
-    "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
-    "https://note.com/nobuakimichihata/n/ndf3b592ee4f5",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://w3e.kanazawa-it.ac.jp/math/category/kakuritu/ds/henkan-tex.cgi?target=/math/category/kakuritu/ds/quartile.html",
     "https://www.kousotu.com/lect_math/d02.php",
+    "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
     "https://ta5k.com/tools/industry/sme-financial"
    ]
   },
@@ -467,10 +467,10 @@
     "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
     "https://note.com/ishikawa_dx/n/n38bacf108174",
     "https://www.nakajima-designlab.com/%E5%A3%B2%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%AE%E4%B8%AD%E5%A4%AE%E5%80%A4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
     "https://www.bi.ksc.co.jp/tips/data-utilization/sales-analysis",
     "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
+    "https://researchmap.jp/ychinuki/misc/34168455",
     "https://ta5k.com/tools/industry/sme-financial"
    ]
   },
@@ -498,8 +498,8 @@
     "https://note.com/ichi_twnovel/n/nc49098104ba2",
     "https://note.com/natty_impala4797/n/nb2b19fd0d595",
     "https://note.com/ocaml/n/n8b838ecd894f",
-    "https://note.com/ocaml/n/n43eae8cc0bec",
     "https://note.com/ocaml/n/n25a2c177afc3",
+    "https://note.com/ocaml/n/n43eae8cc0bec",
     "https://note.com/ocaml/n/n505db5d67548",
     "https://note.com/ezuremanagement/n/n62ac85c83529"
    ]
@@ -507,14 +507,13 @@
   {
    "query": "site:x.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
    "results": [
-    "https://x.com/nikkei/status/2110087359676956856",
-    "https://x.com/nikkeinagoya/status/2110132723436171637",
+    "https://x.com/five_mindset/status/2084902615591301387",
+    "https://x.com/shiho_aga/status/2109113003924926946",
     "https://x.com/maru_DTJ/status/2110134517109596310",
     "https://x.com/nikkei_business/status/2110099584727109886",
-    "https://x.com/shiho_aga/status/2109113003924926946",
     "https://x.com/gagarot200/status/2041103628799483905",
-    "https://x.com/100en_shop/status/2116722045102993501",
-    "https://x.com/five_mindset/status/2084902615591301387"
+    "https://x.com/CoCoLabo3/status/2110863526625788228",
+    "https://x.com/nikkei/status/2110087359676956856"
    ]
   },
   {
@@ -537,8 +536,8 @@
     "https://www.facebook.com/itscobuy/photos/情勢混乱の現状下他社比較で進む方向を測るに有効なベンチマーク指標を連ねた資料cpoハンドブックを発表-ベロア-cobuy-httpswwwberoeinccom/4775549409142932/",
     "https://www.facebook.com/nawoki.ikegami/videos/5社規模ランキング1位餃子の王将店舗数約730店舗売上額約1110億円2位バーミヤン店舗数約360店舗売上額約400億円規模3位山岡家店舗数約190店舗売上額約/1193139079568789/",
     "https://www.facebook.com/groups/970784596300476/posts/25714853758133550/",
-    "https://www.facebook.com/jadma.official.account/photos/2024年度通販ec市場売上高調査-公表-通販ec市場14兆円規模へ-前年比73増-伸び率上昇で堅調に推移2024年度2024年4月2025年3月の通信販売ec/1379120757546519/",
-    "https://www.facebook.com/allstarsaas/videos/この会社いろいろ数字がズバ抜けてる-ae1人で45社を回し月3500万件の通話の95をaiだけで完結させる商談の最中にその連携はまだありませんと言えば裏でコーデ/1756902858814902/"
+    "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/"
    ]
   },
   {
@@ -548,27 +547,27 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/s_toyama/n/n0ba00c87a87f",
     "https://note.com/ai_hitsujisan/n/n5120ec0fc157",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
     "https://www.youtube.com/watch?v=RzWOOUDzKSQ&vl=ja",
+    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
     "https://www.business-standard.com/jp/tsunapoe",
-    "https://note.com/shintaku0707/n/naa8fa2a261e7",
-    "https://note.com/bizgem_1220/n/n09441131d3fe"
+    "https://note.com/gtminami/n/n3dd8800a7e3b",
+    "https://mercart.jp/contents/detail/259/"
    ]
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） X 投稿",
    "results": [
     "https://wakara.co.jp/mathlog/20251114",
-    "https://bellcurve.jp/statistics/course/5220.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://bellcurve.jp/statistics/course/5220.html",
     "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
+    "https://note.com/s_toyama/n/n002c062ac803",
     "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://x.com/masahirochaen/article/2087098827375628628",
-    "https://note.com/s_toyama/n/n002c062ac803",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
-    "https://www.gixo.jp/blog/3941/",
-    "https://ta5k.com/tools/industry/sme-financial"
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://hrview.jp/ranking/revenue-per-employee"
    ]
   },
   {
@@ -578,11 +577,11 @@
     "https://www.linkedin.com/pulse/5-interesting-learnings-from-revenue-per-engineer-data-abi-noda-2o3cc",
     "https://www.linkedin.com/pulse/whats-truly-great-now-b2b-ai-per-iconiq-115-growth-100m-lemkin-rdpgc",
     "https://www.linkedin.com/pulse/2026-saas-benchmarks-report-ryan-allis-14kbf",
+    "https://www.linkedin.com/pulse/bar-get-funded-far-higher-than-most-founders-realize-900-lemkin-nt45c",
     "https://www.linkedin.com/posts/kyle-poyar_saas-ai-benchmarks-activity-7394373156460838913-oX4f",
     "https://www.linkedin.com/pulse/most-efficient-finance-functions-benchmarks-best-andrew-rudchuk-fwvsf",
     "https://www.linkedin.com/posts/saastr_a16z-just-released-data-showing-arr-per-employee-activity-7420155254870142976-1lRT",
     "https://www.linkedin.com/posts/khaledazar_saas-grossmargin-valuation-activity-7398345707092385793-wjgq",
-    "https://www.linkedin.com/company/growth-revenue-optimization",
     "https://www.linkedin.com/posts/kevincmosley_the-median-5-20m-b2b-saas-company-is-no-activity-7507792320889581568-tslP"
    ]
   }
@@ -592,6 +591,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T16:50:46.037848+00:00"
 }

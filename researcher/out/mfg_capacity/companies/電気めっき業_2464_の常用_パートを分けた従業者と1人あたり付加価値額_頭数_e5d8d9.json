@@ -1,0 +1,2042 @@
+{
+ "name": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+ "en": "Japan electroplating industry part-time share employees value added per employee",
+ "aliases": [
+  "工業統計 電気めっき業 常用労働者 パート 臨時",
+  "経済構造実態調査 電気めっき 従業者 内訳",
+  "全国鍍金工業組合連合会 パート 比率 従業員"
+ ],
+ "context": "めっき・統計",
+ "kind": "market",
+ "researched_at": "2026-11-07T09:02:31.214979+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "2 事業所数（従業者４人以上の事業所） 12",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表-1 事業所数（従業者４人以上の事業所従業者規模別 26",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第14表-3 総合統計表（従業者４人以上の事業所）産業中分類別、従業者規模別 74",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第14表-4 総合統計表（従業者４人以上の事業所）市町別、従業者規模別 80",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第16表-1 工業用地に関する統計表（従業者30人以上の事業所）産業別、従業者規模別 86",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第17表-1 工業用水に関する統計表（従業者30人以上の事業所）産業別、従業者規模別 88",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第18表 産業中分類別、従業者規模別、市町別その他収入額内訳表(従業者４人以上の事業所） 90",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参考表3 市町別、産業中分類別事業所数（個人経営以外）（全事業所） 108",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市町別、産業中分類別事業所数（個人経営以外）（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数・従業者数（個人経営以外）（従業者４人以上の事業所)",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、28 年活動調査においては、 事業所数及び従業者数については、 調査対象のうち、",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 19 年については、事業所の捕捉を行ったため、事業所数及び従業者数の前年比に",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は平成26年比11.6％の増で４回ぶりの増加、従業者数は同0.4％の増で４回連続の増加と",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3：事業所数及び従業者数については、24年（12年）は平成24年2月1日現在、28年（16年）は平成28年6月1日現在、その他の",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3：事業所数及び従業者数については、 24年は平成24年2月1日現在、28年は平成28年6月1日現在、その他の年次は同じ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図2 事業所数、従業者数、現金給与総額の指数の推移",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数 ·········································································· 9",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査結果のうち、 事業所数、 産出事業所数、 従業者数については、令和 6 年（2024 年）6",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・事業所数は2,553事業所、従業者数は75,549人",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は 2,553事業所 、従業者数は 75,549人、 製造品出荷額等は 2兆6497億円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：令和 3 年の事業所数および従業者数、令和 2 年実績の製造品出荷額等については、個人経営調査票による調査",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4：平成 28 年の事業所数および従業者数、平成 27 年実績の製造品出荷額等における（ ）内は、個人経営調査票",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5：事業所数および従業者数については、平成 28 年以降はそれぞれの表示年次の 6 月 1 日現在、平成 24 年活動調",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 事業所数、従業者数、製造品出荷額等の推移（全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 中分類別事業所数 （全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 事業所数は 2,553 事業所で、産業中分類別にみると、 「繊維工業」の 612 事業所（構",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 1：事業所数については、個人経営を含まない",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数の調査時点は、表示年次の 6 月 1 日現在である",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 事業所数の中分類別構成比 （全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別事業所数、従業者数、事業に従事する者の人件費および派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等および付加価値額（全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 従業者規模別事業所数、従業者数、事業に従事する者の人件費および派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等および付加価値額（全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額および有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数 ･･････････････････････････････････････････････････････････････････････････8",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 従業者規模別統計表（従業者30人以上の事業所） ･･･････････････････････････47",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業所数，敷地面積，1日当たり水源別用水量〕",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成27年は「平成 28年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成23年は「平成 24年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年の従業者４人以上の事業所数は 1944 事業所（前回比▲4.1％），従業者数は６万 9563",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数 ･･････････････････････････････････････････････････････････････････････････8",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 従業者規模別統計表（従業者30人以上の事業所） ･･･････････････････････････47",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業所数，敷地面積，1日当たり水源別用水量〕",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成27年は「平成 28年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 平成23年は「平成 24年経済センサス -活動調査」の数値であり ，事業所数及び従 業",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 30年の従業者４人以上の事業所数は2027事業所（前回比▲0.4％），従業者数は７万1413",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "2 事業所数（従業者４人以上の事業所） 12",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 従業者数（従業者４人以上の事業所） 13",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 現金給与総額（従業者４人以上の事業所） 14",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 原材料使用額等（従業者４人以上の事業所） 15",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 製造品出荷額等（従業者４人以上の事業所） 16",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 生産額（従業者10人以上の事業所） 19",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 付加価値額（従業者４人以上の事業所） 20",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 製造品在庫額・在庫率（従業者30人以上の事業所） 21",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 有形固定資産の投資総額（従業者30人以上の事業所） 22",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 敷地面積（従業者30人以上の事業所） 23",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 工業用水量（従業者30人以上の事業所） 24",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表-1 事業所数（従業者４人以上の事業所従業者規模別 26",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 原材料率、付加価値率、現金給与率（従業者４人以上の事業所） 28",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 従業者１人当たりの製造品出荷額等、付加価値額、現金給与額(従業者30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人以上の事業所） 32",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 市町別生産額（従業者10人以上の事業所） 34",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（常用労働者１人平均月額、調査産業計）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模５人以上 事業所規模30人以上",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（円） 繊維工業（5人以上） 電子・デバイス（5人以上）電気機械器具（5人以上） 小売業（5人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業（30人以上） 電子・デバイス（30人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電気機械器具（30人以上） 小売業（30人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（常用労働者１人平均月間所定内労働時間、調査産業計）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模５人以上 事業所規模３０人以上",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業（5人以上） 電子・デバイス（5人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電気機械器具（5人以上） 小売業（5人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（％） 繊維工業（30人以上） 電子・デバイス（30人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業（5人以上） 電子・デバイス（5人以上） 電気機械器具（5人以上） 小売業（5人以上） 繊維工業（30人以上） 電子・デバイス（30人以上） 電気機械器具（30人以上） 小売業（30人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（％） 繊維工業（5人以上） 電子・デバイス（5人以上）電気機械器具（5人以上） 小売業（5人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（％） 繊維工業（30人以上） 電子・デバイス（30人以上）電気機械器具（30人以上） 小売業（30人以上）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業者数 ········································································· 10",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 事業に従事する者の人件費および派遣受入者に係る人材派遣会社への支払額 ············· 13",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 概 況（従業者４人以上の事業所） ･･････････････････････････････････････････････････････････････････････････7",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業者数 ･･････････････････････････････････････････････････････････････････････････12",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ １事業所当たり及び従業者１人当たりの状況（従業者30人以上の事業所） ･･･････26",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 収支状況（従業者30人以上の事業所） ･･････････････････････････････････････････････････29",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 投資状況（従業者30人以上の事業所） ･･････････････････････････････････････････32",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 工業用地（従業者30人以上の事業所） ･･･････････････････････････････････････35",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 工業用水（従業者30人以上の事業所） ････････････････････････････････････37",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別総括統計表（従業者４人以上の事業所） ････････････････････････39",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者30人以上の事業所） ･･･････････････････････････････43",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別統計表（従業者30人以上の事業所） ･･････････････････････44",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業中分類別統計表（従業者30人以上の事業所） ････････････････････････････45",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業中分類別統計表（従業者30人以上の事業所） ････････････････････････46",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 従業者規模別統計表（従業者30人以上の事業所） ･･･････････････････････････47",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 概 況（従業者４人以上の事業所） ･･････････････････････････････････････････････････････････････････････････7",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業者数 ･･････････････････････････････････････････････････････････････････････････12",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ １事業所当たり及び従業者１人当たりの状況（従業者30人以上の事業所） ･･･････26",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 収支状況（従業者30人以上の事業所） ･･････････････････････････････････････････････････29",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 投資状況（従業者30人以上の事業所） ･･････････････････････････････････････････32",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 工業用地（従業者30人以上の事業所） ･･･････････････････････････････････････35",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 工業用水（従業者30人以上の事業所） ････････････････････････････････････37",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別総括統計表（従業者４人以上の事業所） ････････････････････････39",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類・従業者規模別統計表（従業者４人以上の事業所） ･･････････････････････････････41",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者30人以上の事業所） ･･･････････････････････････････43",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別統計表（従業者30人以上の事業所） ･･････････････････････44",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業中分類別統計表（従業者30人以上の事業所） ････････････････････････････45",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業中分類別統計表（従業者30人以上の事業所） ････････････････････････46",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "6 製造品出荷額等（従業者４人以上の事業所） 16",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 生産額（従業者10人以上の事業所） 19",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 従業者１人当たりの製造品出荷額等、付加価値額、現金給与額(従業者30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 市町別生産額（従業者10人以上の事業所） 34",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 製造品出荷額等などの経理事項については、原則消費税込みで把握しているが、一部",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、平成19 年調査から、製造以外の活動を把握する目的で、製造品出荷額等に「そ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 27 年1 年間における次の①～③及びくず・廃物の出荷額の合計をいう",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 加工賃収入とは、平成 27 年中に他企業の所有に属する主要原材料によって製造し、",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等 ··································································· 11",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象と",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月 1 日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額については、 令和 5",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中分類ごとに 製造品出荷額等を合計すると、【24】1,000 万円、【26】1,600 万",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円、【29】1,500 万円で、【26】＞【29】＞【24】となり、この事業所の 中分類",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・小分類ごとに 製造品出荷額等を合計すると、【263】700 万円、【266】900 万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・細分類ごとに 製造品出荷額等を合計すると、【2661】500 万円、【2662】400 万",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【品目番号】 製造品目名 製造品出荷額等 ①中分類番号 (上2桁)ごとの合計 ②小分類番号 (上3桁)ごとの合計 ③細分類番号 (上4桁)ごとの合計",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【244614】 コンテナ 1,000万円 【24】1,000万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等 ･･････････････････････････････････････････････････････････16",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等 ･･････････････････････････････････････････････････････････16",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "8 付加価値額（従業者４人以上の事業所） 20",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 従業者１人当たりの製造品出荷額等、付加価値額、現金給与額(従業者30",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 従業者数、付加価値額の項目は、工業統計の集計における定義に合わせた形で再集計",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 付加価値額（従業者29 人以下は粗付加価値額）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２年連続の増加、付加価値額は同6.3％の増で６年連続の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注5：平成19年調査において、調査項目を変更したことから原材料使用額等、製造品出荷額等及び付加価値額については平",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注4：現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値額及び有形固定資産の投資総額については、そ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3：製造品出荷額等（実数）、原材料使用額等（実数）、及び付加価値額（指数）については、それぞれの年次における",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等及び付加価値額では４つの産業部門で前年より増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：平成27年の製造品出荷額等及び付加価値額については、【01】個人経営調査票で把握した事業所分を含まない",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注4：製造品出荷額等及び付加価値額については、それぞれの年次における1年間の数値である",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 付加価値額（従業者４人以上の事業所）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 平成27年中の付加価値額は1兆465億円となり、前年に比べ622億円(6.3％)の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 付加価値額 ······································································· 12",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月 1 日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額については、 令和 5",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中分類ごとに 製造品出荷額等を合計すると、【24】1,000 万円、【26】1,600 万",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円、【29】1,500 万円で、【26】＞【29】＞【24】となり、この事業所の 中分類",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・小分類ごとに 製造品出荷額等を合計すると、【263】700 万円、【266】900 万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・細分類ごとに 製造品出荷額等を合計すると、【2661】500 万円、【2662】400 万",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【244614】 コンテナ 1,000万円 【24】1,000万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【263512】 工業用ミシン 700万円 【263】700万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【266111】 数値制御旋盤 500万円 【2661】500万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【266212】 精整仕上装置 400万円 【2662】400万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【292111】 アーク溶接機 1,500万円 【29】1,500万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【266】900万円【26】1,600万円",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は2兆6497億円、付加価値額は8927億円、",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表５ 中分類別付加価値額 （全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 付加価値額",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 付加価値額 （粗付加価値額 ）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ １事業所当た り及び従業 者１人当たり 付加価値額 は，前計算式のそれぞれの分 子",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用雇用者給 与④ 常用雇用 者1人当たり 現金給与額 ＝ 常用雇 用者数",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人（同▲2.6％），製造品出荷額等は１兆9939億6739 万円（同▲3.7％)となった",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指数：平成27年＝100 （単位：人，万円，％）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は１兆9939億6739万円で，平成30年に比べ759億1053万円（前回比▲3.7％）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "べると，非鉄 39 億 3425 万円増（前回比＋",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11.0％)，紙 16 億 4182 万円増（同＋3.3",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円減（同▲18.8％），窯業 193 億 4746 万円",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 34.5％（6875億 3744 万円）で最も高く，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次いで飲料 19.6％（3899 億 3801 万円），",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子14.7％（2922億 9033万円），窯業8.5",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９ 付加価値額 （粗付加価値額 ）",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ １事業所当た り及び従業 者１人当たり 付加価値額 は，前計算式のそれぞれの分 子",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用雇用者給 与④ 常用雇用 者1人当たり 現金給与額 ＝ 常用雇 用者数",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人（同＋1.4％），製造品出荷額等は２兆698 億7792万円（同＋0.1％)となった",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指数：平成 27年＝100 （単位：人，万円，％ ）",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は2 兆698億 7792万円で，平成29年に比べ 22億 3513万円（前回比＋0.1％）",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "べると,飲料 140 億 6923 万円増（前回比＋",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.7％)，窯業 41 億 8380 万円増（同＋2.3",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円減（同▲4.0％），電気 56 億 1106 万円",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 33.7％（6981億 5315 万円）で最も高く，",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次いで飲料19.3％（3985億 4036万円）,電",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "子 14.7％（3041億3420万円）,窯業 9.1％",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "10 有形固定資産の投資総額（従業者30人以上の事業所） 22",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8表 有形固定資産の増加額（従業者30人以上の事業所） 40",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第9表 有形固定資産（従業者30人以上の事業所） 42",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(9) 有形固定資産（従業者30 人以上の事業所）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産の投資総額（従業者30人以上） 1,162億円 （平成26年比 ＋ 0.6％）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、有形固定資産の投資総額は同0.6％の増で２年連続の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：27年の現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値、有形固定資産の投資総額については、",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注4：現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値額及び有形固定資産の投資総額については、そ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 有形固定資産の投資総額（従業者３０人以上の事業所）",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 平成27年中の有形固定資産の投資総額は1,162億円となり、前年に比べ7億円( 0.6％)の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3：有形固定資産の投資総額については、それぞれの年次における1年間の数値である",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 有形固定資産の",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 有形固定資産",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 有形固定資産額（従業者30 人以上の事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）有形固定資産額の取得額等には、次の区分がある",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）有形固定資産の除却・売却による減少額",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）有形固定資産額の算式は以下のとおり",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別事業所数、在庫額および有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 有形固定資産投資総額は 970億 7520 万円で，平成 30 年に比べ 90 億8189万円（前回比▲",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額の業種別前回比をみると，業務（前回比＋196.6％），化学（同＋",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 従業者１人当たりの有形固定資産額の県平均は 1092 万円で，平成 30年に比べ 49万円（前",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１５ 有形固定資産投資総額推移 図１６ 年末在庫額推移",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２４ 有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 有形固定資産投資総額は 1061 億5709万円で，平成 29 年に比べ 362億6332 万円（前回比",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額の業種別前回比をみると，印刷（前回比＋874.7％），木材（同＋",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 従業者１人当たりの有形固定資産額の県平均は1043万円で，平成29年に比べ329万円（前",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１５ 有形固定資産投資総額推移 図１６ 年末在庫額推移",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２４ 有形固定資産額（従業者３０人以上の事業所）",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "第8表 有形固定資産の増加額（従業者30人以上の事業所） 40",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 時系列比較に用いた工業統計については、以下の点に留意されたい",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 19 年については、事業所の捕捉を行ったため、事業所数及び従業者数の前年比に",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては時系列を考慮し、当該捕捉事業所を除いたもので計算している",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 建設仮勘定の増加額とは、この勘定の借方に加えられた額であり、減少額とは、こ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は平成26年比11.6％の増で４回ぶりの増加、従業者数は同0.4％の増で４回連続の増加と",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額は前年比3.7％の増で３年連続の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２年連続の増加、付加価値額は同6.3％の増で６年連続の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 主要調査項目対前年（回）比の推移",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、有形固定資産の投資総額は同0.6％の増で２年連続の増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(％) 指 数 （人） 前年(回)比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図3 製造品出荷額等、原材料使用額等の推移",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図2 事業所数、従業者数、現金給与総額の指数の推移",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業部門別に平成26年と比較すると、事業所数では「木材・木製品」を除くすべての産業部門で増加、",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数では「繊維」、「機械」、「窯業･土石」が増加し、「食料品」、「木材・木製品」、「その他」",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等及び付加価値額では４つの産業部門で前年より増加となった",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 平成28年6月1日現在の事業所数は 3,270事業所となり、平成26年に比べ 339事業所(11.6％)の増加となっ",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 特定最低賃金全国加重平均の推移【事務局作成資料】 99",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 福井県の「所定内給与額」の推移（特賃業種）【事務局作成資料】 100",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 福井県の「所定内労働時間」の推移（特賃業種）【事務局作成資料】 101",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 福井県のパート労働者の雇用比率の推移（特賃業種）【事務局作成資料】 102",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井県の工業（令和６年（2024年）経済構造実態調査 製造業に関する",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定最低賃金の全国加重平均額等の推移（各年度）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和６年（2024年）経済構造実態調査",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6 年（2024 年）6 月1 日現在とする",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年（2023 年）１月から12 月までの１年間を対象とする",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 「〇」は令和 5 年（2023 年）の年初（１月１日現在） 、 「◎」は年末（12 月31 日",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 「福井県の工業（令和 6 年（2024 年）経済構造実態調査製造業に関する結果報告書）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、総務省・経済産業省が実施した 「令和 6 年（2024 年）経済構造実態調査製造業事業",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査結果のうち、 事業所数、 産出事業所数、 従業者数については、令和 6 年（2024 年）6",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年（2023 年）1 年間の数値 である",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年（2021 年）活動調査は、 個人経営を除く全ての事業所を調査し",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "集計しているが、 平成 28 年（2016 年）活動調査は 、全ての事業所を調査し、 事業",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 6 年（2024 年）経済構造実態調査 製造業事業所調査は、日本標準産業分類ごとに売",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 事業所数、従業者数、製造品出荷額等の推移（全事業所）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査結果",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2019年実績）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2020年工業統計調査について ････････････････････････････････････････････････････････････1",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2020年工業統計調査について",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本書は ，経済産業省 「2020年工業 統計調査」 の調査票情報 をもとに鹿 児島県が独 自",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時系列 表中の「平成 23年」及び「平成 27年」の数値 は，「経済セン サス-活動調 査",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 建設仮勘定の増加額とは，この勘定 の借方に加え られた額を いい，減少額 とは，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の 年間増減額＝増加 額－減少 額",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 主要項目の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 主要項目の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は 1944事業所で，平成 30年に比べ 83事業所（前回比▲4.1％）減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所増（同＋5.0％）と３業種が増加し，食料",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▲3.5％）など 15業種が減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％）と１区分が増加し，4 人～9 人規模 56 事",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所減（同▲7.5％）など６区分が減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％ )と１地域が増加し，鹿児島地域27事業",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（同▲6.4％ ）など５地域が減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は６万 9563 人で，平成30年に比べ 1850 人（前回比▲2.6％）減少した",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査結果",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2018年実績）",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2019年工業統計調査について ････････････････････････････････････････････････････････････1",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 2019年工業統計調査について",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本書は ，経済産業省 「2019年工業 統計調査」 の調査票情報 をもとに鹿 児島県が独 自",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時系列 表中の「平成 23年」及び「平成 27年」の数値 は，「経済セン サス-活動調 査",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "の他収入額」 、原材料使用額等に「製造等に関連する外注費」 、 「転売した商品の仕入額」",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費用",
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費および転売し",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）製造等に関連する外注費",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れるソフトウェアの開発など、 事業所収入に直接関連する外注費用をいい、 派遣、 委託生",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造等関連外注費 1,168,136 955,754 ▲ 212,382 138,407 153,669 106,061 33,882 523,735",
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造等関連外注費 1,107,273 1,168,136 60,863 143,222 255,624 162,895 41,819 564,576",
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "安定所が離職による被保険者資格を喪失した者に交付した離職票の枚数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "失業給付を受けようとする者が安定所に出頭して離職票を提出した件数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安定所が受け付けた離職票を審査し、求職者給付を受ける資格があると決定した件数をいう",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）事業主都合離職者の状況（雇用保険の資格喪失データによる）",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業主都合による離職者は１６６人で、前年同月比４８．２％の増加となった",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、 建設業３０人、製造業４２人、卸売業・小売業４４人、などで離職者が発生した",
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hrpro.co.jp/bc.php?id=21503",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0539177_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/250314-80164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/shueisha_258652/?tpgnr=busi-econ",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scgr.co.jp/report/column/?_page=11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b2_1_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n1efb66f946fe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://public-connect.jp/employer/news/**",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=cWZFmLj%2BIQI%3D&tabid=100&mid=859",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2017/documents/166.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motivation-cloud.com/hr2048/c489",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b1_3_1_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/sangyo/pdf/h21-k3-riyou-j.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002768103.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/detail/007803.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n2013377c1e66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_201710_04b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou23_d/fil/00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://library.fes.de/libalt/journals/swetsfulltext/14488074.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ilo.org/media/348776/download",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://swopec.hhs.se/hastef/papers/hastef0624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0889158321000290",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 人手不足 受注 断る",
+   "results": [
+    "https://ats-entry.hito-link.jp/sites/ir-inc/matter/matters/100238",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://release.nikkei.co.jp/attach_file/0539177_01.pdf",
+    "https://www.jacom.or.jp/column/2025/03/250314-80164.php",
+    "https://news.infoseek.co.jp/article/shueisha_258652/?tpgnr=busi-econ",
+    "https://www.scgr.co.jp/report/column/?_page=11",
+    "https://openjicareport.jica.go.jp/pdf/1000007424.pdf",
+    "https://www.nishikigoi.co.jp/news/P7180003.html",
+    "https://ats-entry.hito-link.jp/sites/persol-hrpartners/matter/matters/100973"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 受注残 人手不足",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b2_1_1.html",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://note.com/ogawa_tech/n/n1efb66f946fe",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://public-connect.jp/employer/news/**",
+    "https://rmc-oden.com/blog/archives/184844",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://studying.jp/shindanshi/studyqa/id/11242.html"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 人手不足 損失 億円",
+   "results": [
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=cWZFmLj%2BIQI%3D&tabid=100&mid=859",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jil.go.jp/institute/research/2017/documents/166.pdf",
+    "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/R3_handout_tetsu_3rd.pdf",
+    "http://www.hkd.mlit.go.jp/ky/ki/keikaku/ud49g700000068yc-att/k5m5qg0000003kvi.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.motivation-cloud.com/hr2048/c489",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b1_3_1_1.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
+    "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
+    "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
+    "https://note.com/ogawa_tech/n/n2013377c1e66",
+    "https://hajime-i.com/2016/07/11/blog193added-value-per-man/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 推移",
+   "results": [
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf",
+    "https://www.city.sanjo.niigata.jp/material/files/group/6/0-2020kougyou-ikkatu.pdf",
+    "https://tokei.pref.nagano.lg.jp/statistics-info/statistics_download?pid=18721&type=pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/sangyo/pdf/h21-k3-riyou-j.pdf",
+    "http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=5&toukei=00200555&result_page=1&statdisp_id=0004048575",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002768103.pdf",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003121550/index.html"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b1_3_1_1.html",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000120.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "https://www.jpc-net.jp/research/detail/007803.html",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "https://www.jpc-net.jp/research/detail/007803.html",
+    "https://note.com/ogawa_tech/n/n2013377c1e66",
+    "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_201710_04b.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou23_d/fil/00.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry part-time share employees value added per employee Japan statistics",
+   "results": [
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://library.fes.de/libalt/journals/swetsfulltext/14488074.pdf",
+    "https://www.ilo.org/media/348776/download",
+    "https://swopec.hhs.se/hastef/papers/hastef0624.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0889158321000290",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/10p007.pdf",
+    "https://www.statista.com/topics/7451/employment-in-japan/?srsltid=AYCX9vI2gaf9t7rj0kuWjwDWNgyfssP4omZiKUxM6E_tmFEvxjcHcYty",
+    "https://www.giiresearch.com/report/imarc1956231-japan-electroplating-market-size-share-trends.html"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+   "results": [
+    "https://note.com/lainworks_jp/n/n9a4d2e2d27f5",
+    "https://note.com/notetokutoquick/n/nb66755d1b1af",
+    "https://note.com/0101_engineer/n/n17b9dd7711a7",
+    "https://note.com/towariken/n/n3a40a4708756",
+    "https://note.com/chokuzen_note/n/nb2ec4a87be85",
+    "https://note.com/shikaku_tokyo/n/n9295c12e0fdc",
+    "https://note.com/kensetsu_keiri/n/n53061eac3ab0"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2105210905126649904",
+    "https://jf.x.com/images/media-preview/2109503275922071748",
+    "https://x.com/NEWMAN_DAI/status/2033460439045091626",
+    "https://x.com/classygyosei/status/2030775317628137672",
+    "https://x.com/junjun_zz_/status/2041258907084230715",
+    "https://x.com/sugawara11/status/2051972491162075318",
+    "https://x.com/tokyoroudouMHLW/status/2092502525748670760"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+   "results": [
+    "https://jp.linkedin.com/in/務-業-246a5631a",
+    "https://jp.linkedin.com/in/futoshiyokota",
+    "https://www.linkedin.com/jobs/open-roles-at-a-specific-company-jobs",
+    "https://jp.linkedin.com/in/泰雄-二宮-0342631b0",
+    "https://jp.linkedin.com/in/kenji-kobayashi-2960521b4",
+    "https://jp.linkedin.com/in/元-日方-2a011421a",
+    "https://www.linkedin.com/pulse/塗料暴騰を乗り越える今あえて亜鉛めっきどぶづけを選ぶべき3つの戦略的理由-広樹-川戸-zeqec/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）",
+   "results": [
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/denkimekki/posts/2024年度総会ならびに講演会のご案内加飾めっき技術と新たなめっき技術-下記のとおり2024年度総会講演会を講演会を開催いたしますので万障繰り合わせ上ご参加くだ/922117589615656/",
+    "https://www.facebook.com/denkimekki/posts/5410904435632443/",
+    "https://www.facebook.com/denkimekki/posts/6月研究例会のご案内工業用クロムめっきの動向と将来展開-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますようご案内申し上げます当会会/1194593502368062/",
+    "https://www.facebook.com/denkimekki/posts/10月例会のご案内-めっきと表面処理に関する観察分析技術の最近の進歩-下記のとおり研究例会を開催しますのでご出席くださいますようご案内申し上げます-事前登録が必/816209790206437/",
+    "https://www.facebook.com/denkimekki/posts/9月例会のご案内-めっきと表面処理に関する観察分析技術の最近の進歩-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますようご案内申し上/794357692391647/"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） note 社長",
+   "results": [
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://ats-entry.hito-link.jp/sites/persol-hrpartners/matter/matters/100973",
+    "https://e-saikaku.co.jp/president_blog/?p=36777",
+    "https://news.infoseek.co.jp/article/manekatsu_0000003660/?l-id=money_MainCarouselArticle_2",
+    "https://career-tasu.nikkeihr.co.jp/now_news/digest/DGXZQOGM0208P002112026000000/",
+    "https://note.com/tomato5zaitaku/n/ncf26e2b67936",
+    "https://ha.athuman.com/tokyo/blog/assets_c/2015/11/pe-per-36257.html"
+   ]
+  },
+  {
+   "query": "電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77） X 投稿",
+   "results": [
+    "https://note.com/ogawa_tech/n/n2013377c1e66",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b2_1_1.html",
+    "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
+    "https://x.com/OgawaSeisakusho/status/2114827037588537754",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://studying.jp/shindanshi/studyqa/id/5178.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.hrpro.co.jp/bc.php?id=21503",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry part-time share employees value added per employee site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/electroplating-market-growth-surface-finishing-industry-ashish-kumar-nbb7c",
+    "https://www.linkedin.com/pulse/nickel-plated-steel-strip-market-us-japan-korea-6el4f",
+    "https://www.linkedin.com/pulse/report-offers-thorough-study-metal-electroplating-kit-market-d2x5e",
+    "https://www.linkedin.com/company/kinrei-of-america",
+    "https://in.linkedin.com/company/kaynes-technology-india-limited",
+    "https://jp.linkedin.com/company/codetots",
+    "https://ca.linkedin.com/company/kuntz",
+    "https://uk.linkedin.com/company/bep-surface-technologies",
+    "https://uk.linkedin.com/in/russ-burke-43327a96",
+    "https://zw.linkedin.com/company/okuno-auromex"
+   ]
+  }
+ ],
+ "missing": {}
+}

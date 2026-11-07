@@ -8,198 +8,8 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-07T03:31:07.129935+00:00",
+ "researched_at": "2026-11-07T09:06:41.020547+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "実践手順：独立に見積もってから参考値と照合する",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "参考値を無視するのではなく、根拠の見える状態で比較する方法です",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公式問題の再現や、この方法だけでスコアが上がるという保証ではありません",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Lean User Research: How to Run Meaningful Research with No Time or Budget",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Switch Interviews: The JTBD Method for Understanding Why Customers Buy (and Leave)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Smoke Tests and Fake Door Tests: How to Validate Demand Before You Build",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Customer Needs Analysis: How to Uncover What Customers Actually Want",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Stratified Sampling: How to Get Precise, Representative Results (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Create a Customer Feedback Form (with Examples)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Conduct User Interviews: The Complete Step-by-Step Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Power User Interviews: How to Learn from Your Best Customers to Drive Growth",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Perceptual Mapping: How to Visualize Brand Positioning",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "MVP Validation: 9 Proven Methods to Test Your Minimum Viable Product (2026 Guide)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Concept Testing: The Complete Methodology Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "UX Research Methods: The Complete Toolkit for Researchers and Product Teams",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Logo Testing: How to Test a Logo With Real People Before You Commit",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Qualitative Data Collection Methods: The Complete Guide",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Good-Better-Best Pricing: How to Research Your Tiers Before You Launch Them",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "実践手順：独立に見積もってから参考値と照合する",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確認例：納期10日という数字を検証する",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "条件確認・独立した計算・他の根拠との照合を、繰り返し練習するための記事です",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Liederほか：アンカリングと数値推定の研究概要（本文は購読制）",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "無料6問では能力判定・推定スコア・ランクは表示しません",
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation in Research: Combining Methods for Stronger, More Credible Insights (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Propensity Score Matching and the Pruning Paradox: When Better Balance Makes Your Estimate Worse (2026)",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". In the classic experiment, participants spun a wheel of fortune that landed on a number between 0 and 100, then estimated the percentage of African nations in the United Nations. The wheel was rigged. Participants who saw 10 gave a median estimate of 25%; those who saw 65 gave a median estimate of 45% (",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The number was visibly random and had nothing to do with Africa or the UN — yet it pulled estimates toward it. We anchor on whatever number is in front of us and adjust insufficiently from there.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Asking \"How many hours per week do you spend on this — more or less than 20?\" anchors the estimate near 20.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Drop \"more or less than X\" framings; ask for the estimate cold.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "reference point that pulls quantitative estimates toward it.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Order bias is about how earlier questions reshape the context for later ones; anchoring is about a specific value becoming the starting point a respondent adjusts from. A price shown in question two can anchor an estimate in question five.",
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "作業量から積み上げる独自ケースで、参考値と根拠を分け、確証バイアス・埋没費用との違いを図解します",
@@ -455,38 +265,283 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "実践手順：独立に見積もってから参考値と照合する",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認例：納期10日という数字を検証する",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "条件確認・独立した計算・他の根拠との照合を、繰り返し練習するための記事です",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Liederほか：アンカリングと数値推定の研究概要（本文は購読制）",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無料6問では能力判定・推定スコア・ランクは表示しません",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation in Research: Combining Methods for Stronger, More Credible Insights (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Propensity Score Matching and the Pruning Paradox: When Better Balance Makes Your Estimate Worse (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". In the classic experiment, participants spun a wheel of fortune that landed on a number between 0 and 100, then estimated the percentage of African nations in the United Nations. The wheel was rigged. Participants who saw 10 gave a median estimate of 25%; those who saw 65 gave a median estimate of 45% (",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The number was visibly random and had nothing to do with Africa or the UN — yet it pulled estimates toward it. We anchor on whatever number is in front of us and adjust insufficiently from there.",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Asking \"How many hours per week do you spend on this — more or less than 20?\" anchors the estimate near 20.",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Drop \"more or less than X\" framings; ask for the estimate cold.",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reference point that pulls quantitative estimates toward it.",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Order bias is about how earlier questions reshape the context for later ones; anchoring is about a specific value becoming the starting point a respondent adjusts from. A price shown in question two can anchor an estimate in question five.",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "実践手順：独立に見積もってから参考値と照合する",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参考値を無視するのではなく、根拠の見える状態で比較する方法です",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公式問題の再現や、この方法だけでスコアが上がるという保証ではありません",
+    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Lean User Research: How to Run Meaningful Research with No Time or Budget",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Switch Interviews: The JTBD Method for Understanding Why Customers Buy (and Leave)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Smoke Tests and Fake Door Tests: How to Validate Demand Before You Build",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Customer Needs Analysis: How to Uncover What Customers Actually Want",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stratified Sampling: How to Get Precise, Representative Results (2026)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Create a Customer Feedback Form (with Examples)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Conduct User Interviews: The Complete Step-by-Step Guide",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Power User Interviews: How to Learn from Your Best Customers to Drive Growth",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Perceptual Mapping: How to Visualize Brand Positioning",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "MVP Validation: 9 Proven Methods to Test Your Minimum Viable Product (2026 Guide)",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Concept Testing: The Complete Methodology Guide",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "UX Research Methods: The Complete Toolkit for Researchers and Product Teams",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Logo Testing: How to Test a Logo With Real People Before You Commit",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Qualitative Data Collection Methods: The Complete Guide",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Good-Better-Best Pricing: How to Research Your Tiers Before You Launch Them",
+    "url": "https://www.koji.so/docs/anchoring-bias-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ore_ore/n/n8a4b10cc8582",
+    "url": "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tad_shimizu/n/n36afd517589f",
+    "url": "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yurudoku_ryu/n/n3969738e4b0d",
+    "url": "https://note.com/structuring_labo/n/nd0ecd5d822b7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sekamoto_home615/n/n0020396a4d9e",
+    "url": "https://note.com/time_mach_effect/n/na610dbaaf05e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/magic_cosmos1054/n/n0534080bcddb",
+    "url": "https://note.com/sharalyn/n/n34ea9a77514f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
+    "url": "https://note.com/nakanoam/n/nff7e26d46191",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nifty_badger319/n/na479e3873c9d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrmos.co/trend/talent-management/10187/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.miidas.jp/assessment/16044/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blog.bizboost.co.jp/anchoring-in-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaonavi.jp/dictionary/anchoring-koka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ferret-one.com/blog/anchoring-effect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/5458/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dym.asia/media/anchoring-effect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1053561",
     "status": "ok",
     "method": "http"
    },
@@ -496,17 +551,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
+    "url": "https://smbiz.asahi.com/article/15043967",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tob-research.com/bias-anchoring/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.consulnote.com/articles/communication/anchoring-effect-negotiation/",
+    "url": "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
     "status": "ok",
     "method": "http"
    },
@@ -516,7 +566,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rina_nomura/n/n321891c8bbac",
+    "url": "https://tob-research.com/bias-anchoring/",
     "status": "ok",
     "method": "http"
    },
@@ -526,47 +576,37 @@
     "method": "http"
    },
    {
-    "url": "https://keiei-kanpe.com/posts/anchoring/",
+    "url": "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html",
+    "url": "https://thedecisionlab.com/biases/anchoring-bias",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.swing.waku-works.com/articles/anchoring",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/12460125.2020.1840705",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/illumination/anchoring-bias-how-your-mind-tricks-you-into-wrong-decisions-c60b1ef8728e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.koji.so/docs/anchoring-bias-research",
-    "status": "ok",
+    "url": "https://www.stlouisfed.org/publications/page-one-economics/2021/04/01/the-anchoring-effect",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
-    "url": "https://expectedvalue.co.uk/blog/anchoring-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://unitlane.net/articles/estimation-anti-patterns-anchoring/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://thedarkbrain.com/knowledge/mind-psychology/cognition-perception/cognitive-biases-decision-errors/anchoring-bias-why-the-first-number-changes-the-decision/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.statology.org/anchoring-in-statistical-thinking-are-your-estimates-biased-from-the-start/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ipsychology.net/anchoring-bias/",
+    "url": "https://www.cmbinfo.com/insights/the-anchoring-effect-avoiding-bias-in-market-research/",
     "status": "ok",
     "method": "http"
    }
@@ -576,139 +616,187 @@
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） site:note.com",
    "results": [
-    "https://note.com/ore_ore/n/n8a4b10cc8582",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://note.com/yurudoku_ryu/n/n3969738e4b0d",
-    "https://note.com/sekamoto_home615/n/n0020396a4d9e",
-    "https://note.com/magic_cosmos1054/n/n0534080bcddb",
-    "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
-    "https://note.com/rina_nomura/n/n321891c8bbac"
+    "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
+    "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
+    "https://note.com/structuring_labo/n/nd0ecd5d822b7",
+    "https://note.com/time_mach_effect/n/na610dbaaf05e",
+    "https://note.com/sharalyn/n/n34ea9a77514f",
+    "https://note.com/nakanoam/n/nff7e26d46191",
+    "https://note.com/takachaneru/n/nf39b25291052",
+    "https://note.com/tatsuya_sabato/n/n46e098e008b4",
+    "https://note.com/tatsuya_sabato/n/n2ad977e15a8c",
+    "https://note.com/tatsuya_sabato/n/n76f31a5c36fe"
    ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） note",
    "results": [
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
-    "https://tob-research.com/bias-anchoring/",
-    "https://www.consulnote.com/articles/communication/anchoring-effect-negotiation/",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect",
-    "https://note.com/rina_nomura/n/n321891c8bbac"
+    "https://note.com/nifty_badger319/n/na479e3873c9d",
+    "https://hrmos.co/trend/talent-management/10187/",
+    "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
+    "https://corp.miidas.jp/assessment/16044/",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://blog.bizboost.co.jp/anchoring-in-marketing",
+    "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
+    "https://baike.baidu.com/ja/item/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%AA%E3%83%B3%E3%82%B0%E5%8A%B9%E6%9E%9C/1190063",
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） やり方",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect",
-    "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://tob-research.com/bias-anchoring/",
-    "https://keiei-kanpe.com/posts/anchoring/",
-    "https://gmap-taisaku.org/blog/gmap-ct-anchoring.html"
+    "https://hrmos.co/trend/talent-management/10187/",
+    "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
+    "https://corp.miidas.jp/assessment/16044/",
+    "https://blog.bizboost.co.jp/anchoring-in-marketing",
+    "https://www.kaonavi.jp/dictionary/anchoring-koka/",
+    "https://ferret-one.com/blog/anchoring-effect",
+    "https://www.issoh.co.jp/column/details/5458/",
+    "https://dym.asia/media/anchoring-effect/",
+    "https://diamond.jp/zai/articles/-/1053561",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） 事例",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://tob-research.com/bias-anchoring/",
-    "https://senkohome.com/cognitive-bias-anchoring/",
-    "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
-    "https://keiei-kanpe.com/posts/anchoring/",
-    "https://www.swing.waku-works.com/articles/anchoring",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect"
+    "https://hrmos.co/trend/talent-management/10187/",
+    "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
+    "https://blog.bizboost.co.jp/anchoring-in-marketing",
+    "https://corp.miidas.jp/assessment/16044/",
+    "https://smbiz.asahi.com/article/15043967",
+    "https://ferret-one.com/blog/anchoring-effect",
+    "https://dym.asia/media/anchoring-effect/",
+    "https://www.kaonavi.jp/dictionary/anchoring-koka/",
+    "https://www.diamondv.jp/article/mzryVPW41rCynhAAq8qWKF",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
   {
    "query": "anchoring bias analyst research first number prevention",
    "results": [
-    "https://www.koji.so/docs/anchoring-bias-research",
-    "https://expectedvalue.co.uk/blog/anchoring-bias/",
-    "https://unitlane.net/articles/estimation-anti-patterns-anchoring/",
-    "https://thedarkbrain.com/knowledge/mind-psychology/cognition-perception/cognitive-biases-decision-errors/anchoring-bias-why-the-first-number-changes-the-decision/",
-    "https://www.statology.org/anchoring-in-statistical-thinking-are-your-estimates-biased-from-the-start/",
-    "https://ipsychology.net/anchoring-bias/",
-    "https://www.linkedin.com/pulse/anchoring-bias-first-number-quietly-wrecks-projects-kevin-zu1uf"
+    "https://thedecisionlab.com/biases/anchoring-bias",
+    "https://www.tandfonline.com/doi/full/10.1080/12460125.2020.1840705",
+    "https://medium.com/illumination/anchoring-bias-how-your-mind-tricks-you-into-wrong-decisions-c60b1ef8728e",
+    "https://barnumfinancialgroup.com/5-practical-tips-to-mitigate-the-effects-of-anchoring-bias/",
+    "https://www.stlouisfed.org/publications/page-one-economics/2021/04/01/the-anchoring-effect",
+    "https://www.cmbinfo.com/insights/the-anchoring-effect-avoiding-bias-in-market-research/",
+    "https://www.youtube.com/watch?v=JLeyIdWv2Q8",
+    "https://drpress.org/ojs/index.php/HBEM/article/download/29238/28691/42400",
+    "https://www.ebsco.com/research-starters/social-sciences-and-humanities/anchoring-cognitive-bias/",
+    "https://www.koji.so/docs/anchoring-bias-research"
    ]
   },
   {
    "query": "site:note.com アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）",
    "results": [
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://note.com/ore_ore/n/n8a4b10cc8582",
-    "https://note.com/takoyaki_kamo3/n/n7dfca02b8bd1",
-    "https://note.com/sekamoto_home615/n/n0020396a4d9e",
-    "https://note.com/lifeoraclejp/n/n2fe8cce3a546",
-    "https://note.com/t2x/n/n915f927d2009",
-    "https://note.com/rina_nomura/n/n321891c8bbac",
-    "https://note.com/yurudoku_ryu/n/n3969738e4b0d",
-    "https://note.com/kansyasy/n/n2c4f42f8f6a8"
+    "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
+    "https://note.com/sharalyn/n/n34ea9a77514f",
+    "https://note.com/structuring_labo/n/nd0ecd5d822b7",
+    "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
+    "https://note.com/time_mach_effect/n/na610dbaaf05e",
+    "https://note.com/nakanoam/n/nff7e26d46191",
+    "https://note.com/takachaneru/n/nf39b25291052",
+    "https://note.com/tatsuya_sabato/n/n46e098e008b4",
+    "https://note.com/tatsuya_sabato/n/n2ad977e15a8c",
+    "https://note.com/tatsuya_sabato/n/n55f04dd536d3"
    ]
   },
   {
    "query": "site:x.com アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）",
    "results": [
-    "https://x.com/kaiaikaiaikai/status/2048386604360937776",
+    "https://x.com/uehara_sato4",
+    "https://x.com/tomohirorumlime?lang=bg",
+    "https://x.com/coinspace_/status/2085320731370381317",
+    "https://x.com/kenjiotsuka1",
+    "https://x.com/happygrace82",
+    "https://x.com/KatsuFurukawa",
     "https://x.com/h_nakatsugawa/status/2065020008544325726",
-    "https://x.com/takua_scientist/status/2048158268036669469",
-    "https://x.com/spcdaisuke/status/2088561405872230883",
     "https://x.com/misty_blog/status/2091085068034838606",
-    "https://x.com/akashi0106/status/2060969691485749699",
-    "https://x.com/kawai_design/status/2062051658973237706"
+    "https://x.com/spcdaisuke/status/2088561405872230883",
+    "https://x.com/kaiaikaiaikai/status/2048386604360937776"
    ]
   },
   {
    "query": "site:linkedin.com アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）",
-   "results": []
+   "results": [
+    "https://jp.linkedin.com/pulse/anchoring-trap-victor-wanyama--ybgvf?tl=ja",
+    "https://jp.linkedin.com/pulse/cognitive-bias-data-driven-decision-making-mu-sigma-hx3xc?tl=ja",
+    "https://jp.linkedin.com/pulse/biases-data-science-analytics-behavioral-perspective-maringa-ph-d--v4o2c?tl=ja",
+    "https://jp.linkedin.com/pulse/thinking-fast-slow-what-every-modern-marketer-should-know-singh-tkkwe?tl=ja",
+    "https://jp.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec?tl=ja",
+    "https://jp.linkedin.com/pulse/why-brilliant-executives-can-make-terrible-decisions-melissa-r4u3f?tl=ja",
+    "https://jp.linkedin.com/pulse/paper-made-me-rethink-what-reasoning-means-our-sarvex-jatasra-tg11c?tl=ja",
+    "https://jp.linkedin.com/pulse/how-do-you-tell-when-leader-crossing-line-matt-strain-knkbc?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-kill-bi-bruno-masek-14fyc?tl=ja",
+    "https://jp.linkedin.com/pulse/most-pms-dont-have-strategy-problem-prompting-swarnim-sandeep-4uutc?tl=ja"
+   ]
   },
   {
    "query": "site:facebook.com アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）",
    "results": [
+    "https://www.facebook.com/100063770730801?locale=ru_RU",
+    "https://www.facebook.com/fxpedia.mag/",
+    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/fxpedia.mag/photos/156798677096134/",
+    "https://www.facebook.com/fxpedia.mag/posts/fxpediamag-%EF%B8%8E%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8fx%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%AE%E3%81%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A1%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%82%92%E7%9F%A5%E3%82%8B%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%81%A8%E3%81%AF%E6%80%9D%E8%80%83%E3%81%AE%E3%82%AF%E3%82%BB%E3%82%84%E6%80%9D%E3%81%84%E8%BE%BC%E3%81%BF%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A7fx%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E3%81%8B%E3%81%8B/158767026899299/",
     "https://www.facebook.com/reel/565565396632457/",
     "https://www.facebook.com/188634327823098/posts/アンカリング効果例えば大特価️️5000円️500円10分の1の値段になんて言われたら安と思いますよねその前になぜそんな値下がりしたのかという疑問が来る気はする/3499167410103090/",
     "https://www.facebook.com/groups/590385594369328/posts/36289225694058532/",
     "https://www.facebook.com/sho.yokota2/videos/店舗集客の方法無料チケットやサンプリング施策を成功に導くアンカリング効果と返報性の原理を解説していますマーケティング-行動経済学-アンカリング-返報性の原理-横/1793223132040280/",
-    "https://www.facebook.com/kaoruozawa.icingcookies/videos/マーケティングや行動経済学でいうフレーミング効果見せ方によって印象が変わるアンカリング効果比較対象によって価値の感じ方が変わるっていうんだって絶対覚えらんないわ/1597650841715807/",
-    "https://www.facebook.com/sakaei.tanimura/posts/こらアサヒ世論調査は民意じゃない数字で国民を黙らせる工作だみなさんもう黙っていられないテレビが新聞が毎月のように世論調査を振りかざしてくるあれを民意だと思うなあ/27587320237598137/",
-    "https://www.facebook.com/yui.sugano.101/posts/暗算ですぐ分かりそうですが数字のつながりをもう一度確認最初に浮かんだ答えは何でしたか/1410887567800622/"
+    "https://www.facebook.com/kaoruozawa.icingcookies/videos/マーケティングや行動経済学でいうフレーミング効果見せ方によって印象が変わるアンカリング効果比較対象によって価値の感じ方が変わるっていうんだって絶対覚えらんないわ/1597650841715807/"
    ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） note 社長",
-   "results": []
+   "results": [
+    "https://note.com/nifty_badger319/n/na479e3873c9d",
+    "https://hrmos.co/trend/talent-management/10187/",
+    "https://note.com/tatsuya_sabato/n/n397b409ff5eb",
+    "https://www.consulnote.com/articles/communication/anchoring-effect-negotiation/",
+    "https://www.gklibrarykor.com/ja/article/7116/",
+    "https://www.toshibatec.co.jp/useful/rt/202404-topics03.html",
+    "https://corp.miidas.jp/assessment/16044/",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://since2020.jp/media/anker/"
+   ]
   },
   {
    "query": "アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析） X 投稿",
    "results": [
-    "https://shinji.design/anchoring-effect-negotiation/",
-    "https://note.com/tad_shimizu/n/n36afd517589f",
-    "https://tob-research.com/bias-anchoring/",
-    "https://www.nilcode.com/howto/how-to-avoid-anchoring-in-estimates/",
-    "https://keiei-kanpe.com/posts/anchoring/",
-    "https://lcm-blog.com/アンカリング効果とは？投資で最初に見た数字に/",
-    "https://note.com/rina_nomura/n/n321891c8bbac",
-    "https://software-skills-wiki.vercel.app/business/anchoring-effect"
+    "https://www.sprocket.bz/blog/20220809-anchoring_effect.html",
+    "https://anagrams.jp/blog/anchoring-effect/",
+    "https://hrmos.co/trend/talent-management/10187/",
+    "https://corp.miidas.jp/assessment/16044/",
+    "https://blog.bizboost.co.jp/anchoring-in-marketing",
+    "https://cir.nii.ac.jp/crid/1390001205676631808",
+    "https://ferret-one.com/blog/anchoring-effect",
+    "https://clover-goodliv.com/%E6%9C%80%E5%88%9D%E3%81%AE%E6%83%85%E5%A0%B1%E3%81%8C%E5%BF%83%E3%81%AB%E3%81%84%E3%81%8B%E3%82%8A%E3%82%92%E4%B8%8B%E3%82%8D%E3%81%99%E3%81%A8%E3%81%8D/",
+    "https://www.jcss.gr.jp/meetings/jcss2016/proceedings/pdf/JCSS2016_OS06-4.pdf",
+    "https://shinji.design/anchoring-effect-negotiation/"
    ]
   },
   {
    "query": "anchoring bias analyst research first number prevention site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/anchoring-bias-first-number-quietly-wrecks-projects-kevin-zu1uf",
-    "https://www.linkedin.com/pulse/number-hijacks-your-brain-how-anchoring-bias-business-nicolas-pokorny-qftoe",
-    "https://id.linkedin.com/pulse/anchoring-effect-digital-marketing-how-first-number-shapes-seo-dm-frzcf?tl=id",
-    "https://pe.linkedin.com/pulse/anchoring-negotiation-making-first-move-count-alignednegotiation",
-    "https://www.linkedin.com/pulse/first-number-wins-anchoring-bias-quietly-distorting-tatiana-ctu1f",
-    "https://www.linkedin.com/pulse/bias-5-anchoring-miguel-martínez-carballal-ovnsc",
-    "https://www.linkedin.com/pulse/anchoring-first-number-wins-scott-seiler-zhaqc/"
+    "https://www.linkedin.com/posts/silvana-laith-md_your-brain-believes-the-first-thing-it-is-activity-7516861493804716033-1bWU",
+    "https://www.linkedin.com/posts/nick-lechnir-acb-cpd-a770ba10_criticalthinking-cognitivebias-leadershipdevelopment-activity-7384305875483774976-YieQ",
+    "https://www.linkedin.com/in/canez-gabrielle",
+    "https://www.linkedin.com/top-content/technology/data-analysis-and-decision-making/how-data-driven-decisions-can-mislead/",
+    "https://www.linkedin.com/top-content/science/science-based-decision-making/cognitive-bias-mitigation-strategies/",
+    "https://www.linkedin.com/in/valerie-mok-md-48a243bb",
+    "https://www.linkedin.com/in/omar-fareedi-45120432",
+    "https://www.linkedin.com/in/leonie-dupuis",
+    "https://www.linkedin.com/in/jesse-itzkowitz",
+    "https://www.linkedin.com/in/julie-berk-38a98256"
    ]
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-06T06:10:30.417367+00:00"
 }

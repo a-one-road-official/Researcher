@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・154品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・157品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7970,14 +7970,49 @@
 
 ## 工業統計表 2019年実績 シート1200 金属熱処理2465・金属製品塗装2461 の加工賃収入額と製造品出荷額（賃加工の重さの欄が表の節に出ない2業種・取り出しの層・4-71・4-76）（Japan Census of Manufacture 2019 heat treatment metal coating processing fee revenue shipments by industry detail）
 - 文脈：熱処理・塗装・統計
-- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
-- 事業所数・社数：記載なし（読んだ31頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
-- 生産能力・設備：記載なし（読んだ31頁・検索18回）
-- 10年推移：記載なし（読んだ31頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「従業者数合計（6－5－7＋8）［合計］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「従業者数合計（6－5－7＋8）［男］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「従業者数合計（6－5－7＋8）［女］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「1 個人事業主及び無給家族従業者［男］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「1 個人事業主及び無給家族従業者［女］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「2 有給役員（無給役員を除く）［男］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「2 有給役員（無給役員を除く）［女］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「3 常用雇用者［正社員・正職員］【男】（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「3 常用雇用者［正社員・正職員］【女】（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「4 常用雇用者［パート・アルバイトなど］【男】（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「4 常用雇用者［パート・アルバイトなど］【女】（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「5 臨時雇用者［男］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「5 臨時雇用者［女］（人）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 生産能力・設備：
+  - 「工業統計調査 確報 ２０１９年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 10年推移：
+  - 「2020-08-27 00:00」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「有形固定資産額［建設仮勘定］【C 増加額】（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「有形固定資産額［建設仮勘定］【D 減少額】（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「有形固定資産額［E 除却・売却による減少額］【土地】（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「有形固定資産額［E 除却・売却による減少額］【土地以外のもの】（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【0000】製造業計(2015年)」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【0000】製造業計(2016年)」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【0000】製造業計(2017年)」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【0000】製造業計(2018年)」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 人手と仕事の差：
+  - 「原材料使用額等［製造等に関連する外注費］（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003432898）
+- 痛み・損（深さの印）：記載なし（読んだ37頁・検索18回）
 
 ## 金属プレス・板金の下請の材料支給（有償支給・無償支給）の割合（材料を客が出すか自分で買うか・賃加工の重さが低くても下請である分の切り分け・4-70）（Japan metal stamping subcontractor material supply paid supply free supply share survey）
 - 文脈：プレス・下請・統計
@@ -8065,6 +8100,181 @@
   - 「分に引き当てる等）、並びに労務費、外注費その他の諸経費等の増加分を支」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
   - 「○設計・仕様の変更による価格及び納期の見直し」（https://www.chusho.meti.go.jp/keiei/torihiki/guideline/02_automobile.pdf）
 - 事業所数・社数：記載なし（読んだ55頁・検索18回）
+
+## 中小企業庁 取引条件改善状況調査・下請取引等実態調査の材料の有償支給・無償支給の割合の表（%・業種別・原表のPDFかExcel・単位を%で・4-77の常勤換算と同じく分母の定義を確かめる）（Japan SME Agency subcontract transaction survey paid material supply percentage table）
+- 文脈：プレス・下請・統計
+- 痛み・損（深さの印）：記載なし（読んだ50頁・検索18回）
+- 事業所数・社数：記載なし（読んだ50頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ50頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ50頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ50頁・検索18回）
+- 生産能力・設備：記載なし（読んだ50頁・検索18回）
+- 10年推移：記載なし（読んだ50頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ50頁・検索18回）
+
+## 工業統計表 2019年 産業小分類2460と細分類2465 金属熱処理業の加工賃収入額と製造品出荷額を分けて（小分類の重さ81%に熱処理がどれだけ入るか・4-77の再投影の点検）（Japan Census of Manufacture 2019 industry group 246 vs 2465 heat treatment processing fee revenue）
+- 文脈：熱処理・統計
+- 事業所数・社数：
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 社員数・平均社員数：
+  - 「1122_絹・人絹織物業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1142_絹・人絹織物機械染色業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2183_人工骨材製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3251_娯楽用具・がん具製造業（人形を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3252_人形製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「ただし、従業者3人以下の事業所を除く」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 受注金額・加工賃収入：
+  - 「製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 10年推移：
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「公開日 2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「最終更新日 2023年1月6日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2021_工業用革製品製造業（手袋を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「調査対象数＝192,047事業所（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「回収率＝95.1％（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2005年 – 2020年」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2005年 – 2020年 月日の部分へすべて1月1日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
+
+## 電気めっき業（2464）の常用・パートを分けた従業者と1人あたり付加価値額（頭数か常勤換算か・受託の業種で最下位の理由の切り分け・4-70・4-77）（Japan electroplating industry part-time share employees value added per employee）
+- 文脈：めっき・統計
+- 痛み・損（深さの印）：
+  - 「安定所が離職による被保険者資格を喪失した者に交付した離職票の枚数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「失業給付を受けようとする者が安定所に出頭して離職票を提出した件数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「安定所が受け付けた離職票を審査し、求職者給付を受ける資格があると決定した件数をいう」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「（５）事業主都合離職者の状況（雇用保険の資格喪失データによる）」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「事業主都合による離職者は１６６人で、前年同月比４８．２％の増加となった」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「産業別では、 建設業３０人、製造業４２人、卸売業・小売業４４人、などで離職者が発生した」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+- 事業所数・社数：
+  - 「2 事業所数（従業者４人以上の事業所） 12」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第1表-1 事業所数（従業者４人以上の事業所従業者規模別 26」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第14表-3 総合統計表（従業者４人以上の事業所）産業中分類別、従業者規模別 74」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第14表-4 総合統計表（従業者４人以上の事業所）市町別、従業者規模別 80」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第16表-1 工業用地に関する統計表（従業者30人以上の事業所）産業別、従業者規模別 86」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第17表-1 工業用水に関する統計表（従業者30人以上の事業所）産業別、従業者規模別 88」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第18表 産業中分類別、従業者規模別、市町別その他収入額内訳表(従業者４人以上の事業所） 90」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「参考表3 市町別、産業中分類別事業所数（個人経営以外）（全事業所） 108」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「市町別、産業中分類別事業所数（個人経営以外）（従業者４人以上の事業所）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「産業細分類別事業所数・従業者数（個人経営以外）（従業者４人以上の事業所)」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「また、28 年活動調査においては、 事業所数及び従業者数については、 調査対象のうち、」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「平成 19 年については、事業所の捕捉を行ったため、事業所数及び従業者数の前年比に」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「事業所数は平成26年比11.6％の増で４回ぶりの増加、従業者数は同0.4％の増で４回連続の増加と」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+- 社員数・平均社員数：
+  - 「2 事業所数（従業者４人以上の事業所） 12」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「3 従業者数（従業者４人以上の事業所） 13」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「4 現金給与総額（従業者４人以上の事業所） 14」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「5 原材料使用額等（従業者４人以上の事業所） 15」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「6 製造品出荷額等（従業者４人以上の事業所） 16」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「7 生産額（従業者10人以上の事業所） 19」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「8 付加価値額（従業者４人以上の事業所） 20」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「9 製造品在庫額・在庫率（従業者30人以上の事業所） 21」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「10 有形固定資産の投資総額（従業者30人以上の事業所） 22」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「11 敷地面積（従業者30人以上の事業所） 23」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「12 工業用水量（従業者30人以上の事業所） 24」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第1表-1 事業所数（従業者４人以上の事業所従業者規模別 26」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第2表 原材料率、付加価値率、現金給与率（従業者４人以上の事業所） 28」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+- 受注金額・加工賃収入：
+  - 「6 製造品出荷額等（従業者４人以上の事業所） 16」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「7 生産額（従業者10人以上の事業所） 19」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第1表-2 事業所数（従業者４人以上の事業所）製造形態別、製造品出荷額等規模別 27」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第4表 従業者１人当たりの製造品出荷額等、付加価値額、現金給与額(従業者30」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第5表 市町別生産額（従業者10人以上の事業所） 34」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(4) 製造品出荷額等などの経理事項については、原則消費税込みで把握しているが、一部」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「また、平成19 年調査から、製造以外の活動を把握する目的で、製造品出荷額等に「そ」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(5) 製造品出荷額等」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「平成 27 年1 年間における次の①～③及びくず・廃物の出荷額の合計をいう」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「② 加工賃収入とは、平成 27 年中に他企業の所有に属する主要原材料によって製造し、」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「４ 製造品出荷額等 ··································································· 11」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「る売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象と」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「月 1 日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額については、 令和 5」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「４ 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「・中分類ごとに 製造品出荷額等を合計すると、【24】1,000 万円、【26】1,600 万」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+- 1人あたり・1社あたり金額：
+  - 「8 付加価値額（従業者４人以上の事業所） 20」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第3表 従業者規模別１事業所当たりの付加価値額（従業者４人以上の事業所） 30」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第4表 従業者１人当たりの製造品出荷額等、付加価値額、現金給与額(従業者30」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(3) 従業者数、付加価値額の項目は、工業統計の集計における定義に合わせた形で再集計」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(7) 付加価値額（従業者29 人以下は粗付加価値額）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「２年連続の増加、付加価値額は同6.3％の増で６年連続の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注5：平成19年調査において、調査項目を変更したことから原材料使用額等、製造品出荷額等及び付加価値額については平」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注4：現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値額及び有形固定資産の投資総額については、そ」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注3：製造品出荷額等（実数）、原材料使用額等（実数）、及び付加価値額（指数）については、それぞれの年次における」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「製造品出荷額等及び付加価値額では４つの産業部門で前年より増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注2：平成27年の製造品出荷額等及び付加価値額については、【01】個人経営調査票で把握した事業所分を含まない」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注4：製造品出荷額等及び付加価値額については、それぞれの年次における1年間の数値である」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「８ 付加価値額（従業者４人以上の事業所）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(1) 平成27年中の付加価値額は1兆465億円となり、前年に比べ622億円(6.3％)の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「５ 付加価値額 ······································································· 12」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+- 生産能力・設備：
+  - 「10 有形固定資産の投資総額（従業者30人以上の事業所） 22」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第8表 有形固定資産の増加額（従業者30人以上の事業所） 40」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第9表 有形固定資産（従業者30人以上の事業所） 42」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(9) 有形固定資産（従業者30 人以上の事業所）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「有形固定資産の投資総額（従業者30人以上） 1,162億円 （平成26年比 ＋ 0.6％）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「また、有形固定資産の投資総額は同0.6％の増で２年連続の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注2：27年の現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値、有形固定資産の投資総額については、」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注4：現金給与総額、原材料使用額等、製造品出荷額等、生産額、付加価値額及び有形固定資産の投資総額については、そ」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「10 有形固定資産の投資総額（従業者３０人以上の事業所）」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(1) 平成27年中の有形固定資産の投資総額は1,162億円となり、前年に比べ7億円( 0.6％)の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「注3：有形固定資産の投資総額については、それぞれの年次における1年間の数値である」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第８表 有形固定資産の」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「第９表 有形固定資産」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「５ 有形固定資産額（従業者30 人以上の事業所）」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「（１）有形固定資産額の取得額等には、次の区分がある」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+- 10年推移：
+  - 「第8表 有形固定資産の増加額（従業者30人以上の事業所） 40」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(6) 時系列比較に用いた工業統計については、以下の点に留意されたい」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「平成 19 年については、事業所の捕捉を行ったため、事業所数及び従業者数の前年比に」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「ついては時系列を考慮し、当該捕捉事業所を除いたもので計算している」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「② 建設仮勘定の増加額とは、この勘定の借方に加えられた額であり、減少額とは、こ」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「事業所数は平成26年比11.6％の増で４回ぶりの増加、従業者数は同0.4％の増で４回連続の増加と」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「現金給与総額は前年比3.7％の増で３年連続の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「２年連続の増加、付加価値額は同6.3％の増で６年連続の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「図１ 主要調査項目対前年（回）比の推移」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「また、有形固定資産の投資総額は同0.6％の増で２年連続の増加となった」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(％) 指 数 （人） 前年(回)比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「(億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数 (億円) 前年比(％) 指 数」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「図3 製造品出荷額等、原材料使用額等の推移」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「図2 事業所数、従業者数、現金給与総額の指数の推移」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「産業部門別に平成26年と比較すると、事業所数では「木材・木製品」を除くすべての産業部門で増加、」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+- 人手と仕事の差：
+  - 「の他収入額」 、原材料使用額等に「製造等に関連する外注費」 、 「転売した商品の仕入額」」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「⑤ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費用」（https://toukei.pref.ishikawa.lg.jp/dl/3474/28kogyo.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費および転売し」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「（５）製造等に関連する外注費」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「れるソフトウェアの開発など、 事業所収入に直接関連する外注費用をいい、 派遣、 委託生」（https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002805078.pdf）
+  - 「連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「製造等関連外注費 1,168,136 955,754 ▲ 212,382 138,407 153,669 106,061 33,882 523,735」（https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/91716_20211224112914-1.pdf）
+  - 「連する外注費及び転売した商品の仕入額の合計であり ，消費税額 を含んだ額で ある」（http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf）
+  - 「⑤ 製造等に関連する外注費とは，生産設備の 保守・点検 ・修理，機械 ・装置の操 作，」（http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf）
+  - 「業種 総 額 製造品出荷額 加工賃収入額 くず・廃物 その他収入額 総 額 原材料使用額 燃料使用額 電力使用額 委託生産費 製造等関連外注費 転売商品仕入額」（http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf）
+  - 「製造等関連外注費 1,107,273 1,168,136 60,863 143,222 255,624 162,895 41,819 564,576」（http://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/85072_20201217094939-1.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

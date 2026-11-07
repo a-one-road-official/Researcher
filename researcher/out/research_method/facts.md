@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・168品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・171品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1669,22 +1669,24 @@
 ## 調査会社の市場規模推計の食い違いと見分け方（market research report estimates discrepancy how to evaluate）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「These steps are also sometimes referred to as data processing」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「is often incorrect and the first step in analyzing data is often to correct these errors. Where there are a substantial amount of errors in metadata it is often the case that the best solution is to try and get a better data file. This page lists the most common problems and their remedies.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How to Combine Variables into Multiple Response Questions and Grids」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How to Split Questions Into Separate Variables」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How to Change Variable Type and Question Type」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How to Change the Name of a Question or Variable」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How To Remove a Category and Re-Base a Table」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「for information on how to re-base tables in different programs.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「How To Show Missing Values on a Table」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Many multivariate analysis methods, such as」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「, special-purpose analysis methods exist to manipulate date variables (e.g., to automatically create moving averages, aggregate date periods, etc).」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
   - 「市場規模の調べ方｜国内の無料データソースと推計手順 | ネクストイノベーションベース」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の調べ方｜国内の無料データソースと推計手順」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の算定方法は、大きな統計から対象分を絞るトップダウンと、顧客数・購入頻度・単価を積み上げるボトムアップの2系統です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「年齢、世帯類型、地域など統計表ごと」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「調査会社や業界メディアの数字は、無料公開部分で定義・推計方法・基準年・地域を確認できなければ計算根拠に置きません」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「7工程は、国内の公的統計を初期推計へつなぎ、第三者が同じ計算をたどれる状態にするための手順です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「数字が更新されても、同じ手順で差し替えられる状態が目的です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「複数の市場規模が食い違うときは、正誤を急いで決めず、対象、地域、時点、取引段階、単位、推計方法を横並びにします」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「比較表には、資料名と作成機関、対象年、商品・顧客・地域の定義、取引段階、税と表示単位、集計・推計方法、採否の理由を並べます」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「一点推計を避けるには、根拠が最も強い値で基準シナリオを作り、結果を大きく動かす変数を一つずつ振る方法が有効です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「Navigating Conflicting Market Research Results: How to Identify the Most Accurate Analysis – HR Fraternity」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「Navigating Conflicting Market Research Results: How to Identify the Most Accurate Analysis」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「how to identify accurate market research analysis」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「Understanding Market Research Methodologies」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「? Understanding Market Research Methodologies」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
 - 突き合わせ・推定：
+  - 「We can improve our estimate by weighting. A weight is computed for every respondent in a sample, and it is computed by dividing the correct proportion by the observed proportion. The correct proportion of males in our population is 50% and the observed proportion is 20%, so the weight for each male is 50%/20%=2.5 and the weight for each female is 50%/80%=0.625. Thus, our data becomes:」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「We now compute our estimate of the proportion of people to have Brad Pitt as their favorite celebrity by summing up the weights of each of the respondents to prefer Brad Pitt and dividing this by the sum of all of the respondents’ weights:」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
   - 「市場規模の調べ方｜国内の無料データソースと推計手順 | ネクストイノベーションベース」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の調べ方｜国内の無料データソースと推計手順」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「第三者が再計算できる経路を残すことが、細かな一点推計より重要です」（https://media.spready.co.jp/how-to-estimate-market-size/）
@@ -1698,8 +1700,6 @@
   - 「公開統計で埋まらない導入率、利用頻度、支払意思は、顧客候補への聞き取りや販売検証へ渡します」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模調査は、定義、変数分解、分類照合、原典取得、正規化、2系統の計算、差分検証の7工程で進めます」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「7工程は、国内の公的統計を初期推計へつなぎ、第三者が同じ計算をたどれる状態にするための手順です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「7工程では、推計レンジと、定義・原典・式・未確認事項がつながった計算経路を一組で残します」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 一次情報の探し方：
   - 「次に、公的統計から母集団、支出、販売額を取り、同じ年次・単位・範囲へそろえます」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「この記事では、市場規模の推計に必要な基礎数値を無料の公的統計からどう探し、どうそろえ、2つの経路で計算して差を検証するところまでを追います」（https://media.spready.co.jp/how-to-estimate-market-size/）
@@ -1717,6 +1717,11 @@
   - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の調べ方｜公的統計を式へつなぐ7工程」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 失敗・落とし穴：
+  - 「顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「questions. This is generally caused by the data collection software exporting the data incorrectly (unfortunately, most data collection programs make this mistake). Some programs, such as Q and Displayr, attempt to automatically correct this problem by looking for patterns in the data (e.g., if there are 10 variables, each of which has the same prefix of」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「The data needs to be weighted or otherwise any analyses will be misleading (as they will be biased by the misrepresentation of gender).」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
   - 「定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「セグメンテーションとは？重要なポイントや失敗事例を紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります」（https://media.spready.co.jp/how-to-estimate-market-size/）
@@ -1727,27 +1732,22 @@
   - 「Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「これは、数字を誤りと断ずるものではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
   - 「では、総説の予測は誤りだったのか」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「注記がないことと、誤りであることは、別の話である」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「もう一つ、注意がある」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「年をまたぐ比較には、もう一つ落とし穴がある」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「注意したいのは、数えた範囲である」（https://note.com/sun_r_lab/n/n46a73223c4d4）
 - 実例：
-  - 「架空ケース｜2経路の差から次の検証項目を決める」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「以下は計算経路を示すための、法人向け研修予約サービスの架空ケースです」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「このケースでは36億〜48億円を初期の仮説レンジとし、対象用途の比率、導入割合、実際の年間契約額を次の検証変数にします」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「一点推計を避けるには、根拠が最も強い値で基準シナリオを作り、結果を大きく動かす変数を一つずつ振る方法が有効です」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「判断要約には、対象市場の定義、推計レンジ、トップダウンとボトムアップの結果、差の主因、投資判断への影響を書きます」（https://media.spready.co.jp/how-to-estimate-market-size/）
-  - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「人材紹介大手3社転職実績集計結果」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「Data tidying involves manipulating the way that data is set up to make it easier to interpret. For example, changing birth dates into age categories, or removing ‘don’t know’ categories.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「is called the raw data. The table below shows raw data for ten households (from a larger data file). Each row in a table of raw data represents the data from an individual respondent, and there are no blank rows. In this case, each respondent was a household. Each column is referred to as a variable. Each variable is a measure of some characteristic of the respondents.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「. For example, note that the last three variables, Q1a, Q1b and Q1c are related and form a part of a single question (which asked people which of the companies they had heard of); a good data file will contain metadata showing that these are linked together.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Versioning. For example, changes to question wording that occurred during the data collection process and different translations.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Many of the important features of the survey will not be evident in the data file. For example, if you have asked a question getting people to give ratings from 0 to 10, when you create a table in a text file they will be ordered as: 0, 1, 10, 2, 3, …. Similarly,」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「This is generally the best of the text file formats (although this is very much a case of being the tallest dwarf). It uses a comma to separate each variable.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Obtaining a good data file is not just a case of specifying the desired format. In particular, in the case of the SPSS」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「The term ‘data file’ is a bit misleading, as files are only useful if they contain data in the appropriate format. For example, the data shown below is largely useless. Yes, it shows some results from the survey. However, it is impossible to use this data to compute many useful things. For example, this data cannot be used to work out if males were more likely to be satisfied than females.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「is often incorrect and the first step in analyzing data is often to correct these errors. Where there are a substantial amount of errors in metadata it is often the case that the best solution is to try and get a better data file. This page lists the most common problems and their remedies.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Each category of the question appears as a separate summary table, with two categories (hence the term ‘binary’). For example, the following shows a part of a MarketSight Summary Report, which reveals that a question titled」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Most of the more modern survey analysis programs (e.g., R, Q, Displayr and MarketSight) use metadata to automate how they produce summary tables. For example, in the following output from MarketSight, the average is shown for」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「In addition to allowing the user to change from numeric to categorical and back, Q and Displayr also allow the user to change between different question types. Consider the table from Displayr below on the left. The metadata in this example has treated this table as a」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「Commonly data files will either refer to questions by their question number (for example, a question showing age data may be referred to as」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「(which in this case is a total) is 100% and that this corresponds to 718 respondents (」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
+  - 「) by the total sample size. For example, the 5% for Manager/administrator is computed as 33 / 718. The first row on this table shows that 54% (389) of the respondents have missing data, which in this case was because they were students, retired, unemployed or home-makers.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
 
 ## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
 - 文脈：同一性
@@ -4906,6 +4906,9 @@
   - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告で売上高を確認する方法｜大会社と中小企業の違いを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
   - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
   - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
@@ -4914,9 +4917,6 @@
   - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
   - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
   - 「How to verify a competitor revenue figure」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「how to find a competitor’s customers」（https://www.flares.tech/sources/competitor-revenue）
-  - 「How to keep competitor revenue figures current」（https://www.flares.tech/sources/competitor-revenue）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -4966,6 +4966,7 @@
   - 「Most failures come from process, not from missing information. These mistakes show up most often:」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
 - 実例：
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
   - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
   - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
@@ -4979,7 +4980,6 @@
   - 「実在企業の調査結果やDSSの実績ではありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
@@ -6491,7 +6491,7 @@
   - 「Focus Group Questions: 50+ Examples and How to Write Them」（https://www.koji.so/docs/anchoring-bias-research）
   - 「The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)」（https://www.koji.so/docs/anchoring-bias-research）
   - 「How to Write Usability Test Tasks and Scenarios (With Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7090,11 +7090,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -9696,19 +9696,31 @@
   - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://github.com/Quartz/bad-data-guide）
   - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
   - 「It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://github.com/Quartz/bad-data-guide）
+  - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「It’s very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it’s important that methods used be transparent. It’s rare that you’ll know exactly how a dataset was gathered, but indications of a problem can include numbers that」（https://qz.com/572338/the-quartz-guide-to-bad-data）
 - 突き合わせ・推定：
   - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
   - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.」（https://github.com/Quartz/bad-data-guide）
   - 「Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.」（https://github.com/Quartz/bad-data-guide）
+  - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
 - 一次情報の探し方：
   - 「A tremendous amount of data—especially government data—are only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting them. (If you've got」（https://github.com/Quartz/bad-data-guide）
   - 「. However, if you have Adobe Creative Cloud then you also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://github.com/Quartz/bad-data-guide）
   - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://github.com/Quartz/bad-data-guide）
+  - 「A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Creative Cloud then also have access to Acrobat Pro, which has an excellent feature for exporting tables in PDFs to Excel. Either solution should be able to extract most tabular data from a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don’t want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
 - 失敗・落とし穴：
   - 「You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://github.com/Quartz/bad-data-guide）
   - 「is one very common mistake.) If you find those, you can be pretty sure the data were compiled or edited by hand and that is always a reason to be skeptical of it. Data that have been edited by hand are the most likely to have mistakes. This doesn't mean you shouldn't use them but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://github.com/Quartz/bad-data-guide）
   - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://github.com/Quartz/bad-data-guide）
   - 「This problem tends to crop up in subjects where people have a strong confirmation bias. ("Just as I thought, crime is up!") Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://github.com/Quartz/bad-data-guide）
+  - 「You can not possibly review every dataset you encounter with for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「is one very common mistake.) If you find those, you can be pretty sure the data was compiled or edited by hand and that is always a reason to be skeptical of it. Data that has been edited by hand is the most likely to have mistakes. This doesn’t mean you shouldn’t use it but you may need to manually correct those mistakes or otherwise account for them in your reporting.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「are, however, a valid FIPS code: for North Carolina. Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset. Watch out for data where this has happened before it was given to you.」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+  - 「This problem tends to crop up in subjects where people have a strong confirmation bias. (“Just as I thought, crime is up!”) Whenever possible try comparing rates from several different starting points to see how the numbers shift. And whatever you do,」（https://qz.com/572338/the-quartz-guide-to-bad-data）
 - 実例：
   - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
   - 「may be represented in another way. For example a false」（https://github.com/Quartz/bad-data-guide）
@@ -9725,6 +9737,9 @@
   - 「seconds. This is a major red flag that something has gone wrong in the production of the data. In this particular case an error in the code I wrote caused some failures to continue counting while all other messages were being sent and received.」（https://github.com/Quartz/bad-data-guide）
   - 「For example, the United Nations」（https://github.com/Quartz/bad-data-guide）
   - 「P-hacking is intentionally altering the data, changing the statistical analysis, or selectively reporting results in order to have statistically significant findings. Examples of this include: stop collecting data once you have a significant result, remove observations to get a significant result, or perform many analyses and only report the few that are significant. There has been some」（https://github.com/Quartz/bad-data-guide）
+- 検索結果の抜粋：
+  - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who also found it helpful, so we’re republishing it here for the benefit of all Quartz readers. The most up-to-date version of this guide can always be found on Gi」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「The Quartz guide to bad data — Jul 21, 2022 · As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and possible solutions to many of the kinds of problems that you will ...」（https://qz.com/572338/the-quartz-guide-to-bad-data）
 
 ## AIや他者が示した出典の確かめ方（一致・一部一致・未確認・不一致の振り分け・発表日と開始日・トップページを出典にしない）（verifying cited sources claim support partial support unverified contradicted）
 - 文脈：検証
@@ -10187,3 +10202,155 @@
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+
+## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
+- 文脈：推定
+- 手順・やり方：
+  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算とは、医療・介護・福祉施設や事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「給与計算や給与明細発行をカンタンに行う方法」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算とは、医療・介護・福祉施設および事業所において、実際に勤務している職員の労働時間を基に、常勤職員の人数に換算する方法のことです」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「わかりやすいように、以下の手順で常勤換算の計算を進めていきましょう」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「具体的な換算方法は、各事業所の規定や状況によります」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「そのため、正確な人員配置や法的な基準を満たすには効率的な常勤換算の方法を採らなければなりません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算は、施設で働く全職員の勤務時間をフルタイム換算で表す方法で、介護保険法に基づく人員配置基準を遵守するために不可欠です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「処遇改善加算って何？刷新後の制度で介護職員がもらえる金額の計算方法や取得方法について解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算とは？計算方法と具体例｜訪問看護の人員基準2.5人 ｜ZEST」（https://zest.jp/column/personnel-standards）
+  - 「常勤換算とは？計算方法と具体例｜訪問看護の人員基準2.5人」（https://zest.jp/column/personnel-standards）
+  - 「訪問看護ステーションでは、この方法で看護職員を2.5人以上配置し、そのうち1人以上を常勤とすることが人員基準として定められています」（https://zest.jp/column/personnel-standards）
+  - 「本記事では、2.5人という基準を自事業所で正しく数えられるよう、常勤換算の計算方法を計算例とともに解説します」（https://zest.jp/column/personnel-standards）
+  - 「ここでは、常勤の定義から計算式と具体例、自事業所で計算する手順までを解説します」（https://zest.jp/column/personnel-standards）
+- 一次情報の探し方：
+  - 「「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう」（https://zest.jp/column/personnel-standards）
+  - 「また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう」（https://zest.jp/column/personnel-standards）
+  - 「基準を下回らないよう、日ごろから看護職員の採用や定着に取り組んでおくことも大切です」（https://zest.jp/column/personnel-standards）
+  - 「採用や定着に向けた取り組みの全体像は、以下の記事で解説しています」（https://zest.jp/column/personnel-standards）
+  - 「希望に合った求人”だけ”を厳選してお届け！」（https://www.co-medical.com/knowledge/article543/）
+  - 「主にクリニックを中心に医療介護向け求人メディア「コメディカルドットコム」の採用課題のサポートを行う」（https://www.co-medical.com/knowledge/article543/）
+- 失敗・落とし穴：
+  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算とは？人員配置基準などの確認に必要な指標の計算方法や注意事項をわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算する際の3つの注意点もまとめているので、参考にしてください」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算するときの3つの注意点」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「常勤換算を計算するときは、以下3つの注意点を考慮しなければなりません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「さらに、常勤社員でも1ヶ月以上の長期出張や休暇がある場合、その期間は勤務時間の計算から除かれるので注意が必要です」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「社会保険料とは？改定のタイミングや注意点などをわかりやすく解説」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「育児や介護で時短勤務を行っている常勤職員がいる場合、常勤換算数の計算に注意が必要です」（https://zest.jp/column/personnel-standards）
+  - 「計算の際、リハビリ専門職は換算できないため、誤って含めてしまわないよう注意をしましょう」（https://zest.jp/column/personnel-standards）
+  - 「が行われる可能性がありますので注意が必要です」（https://zest.jp/column/personnel-standards）
+  - 「5. 常勤換算でよくある間違い・注意点」（https://gura-office.com/joukin/）
+  - 「間違い①：就業規則の常勤時間を低く設定しすぎている」（https://gura-office.com/joukin/）
+  - 「間違い②：兼務職員の勤務時間を二重カウント」（https://gura-office.com/joukin/）
+  - 「間違い⑤：放デイで「月間トータル」だけ見ている」（https://gura-office.com/joukin/）
+  - 「月間トータルの常勤換算だけ満たしていても、「ある日の午後は1人しか配置していなかった」では基準違反となるため要注意です」（https://gura-office.com/joukin/）
+- 実例：
+  - 「このケースに該当する従業員も常勤として扱われます」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「介護職員が複数の施設や業種で働いているケースは珍しくありません」（https://www.freee.co.jp/kb/kb-payroll/conversion-full-time/）
+  - 「スケジュール管理の負担を減らし業務の偏りを可視化した事例」（https://zest.jp/column/personnel-standards）
+  - 「計算結果に端数が出た場合の扱いは、指定権者に確認しておきましょう」（https://zest.jp/column/personnel-standards）
+  - 「ここでは、計算時に迷いやすいケースの扱いを、介護保険と医療保険の違いとあわせて解説します」（https://zest.jp/column/personnel-standards）
+  - 「例えば常勤の看護師が育児休業に入った月でも、非常勤の看護師2人の勤務時間を合わせて常勤1人分の時間に達していれば、常勤の要件を満たしたものとして扱えます」（https://zest.jp/column/personnel-standards）
+  - 「ここでは、当社の訪問スケジュール・訪問ルートの自動作成クラウド『ZEST』を導入いただいた訪問看護事業者の事例をご紹介します」（https://zest.jp/column/personnel-standards）
+  - 「株式会社SORUKKAは、和歌山市・海南市・有田市の3拠点で訪問看護を展開し、スタッフ40名でご利用者様270〜280名を支えています（事例公開時点）」（https://zest.jp/column/personnel-standards）
+  - 「月間の訪問件数が500件ほどになった時期に『ZEST』を導入した結果、スケジュール管理にかかる時間は」（https://zest.jp/column/personnel-standards）
+  - 「※掲載している導入効果（業務時間の削減等）は、特定の事業者様における実際の運用に基づく事例であり、すべての事業所様での効果を保証するものではありません」（https://zest.jp/column/personnel-standards）
+  - 「求め、休暇や時短勤務、兼務の扱いによって結果が変わります」（https://zest.jp/column/personnel-standards）
+  - 「このページでは、放課後等デイサービス・就労継続支援B型・生活介護など、各サービス種別の事例を交えながら、行政書士が常勤換算の計算方法を分かりやすく解説します」（https://gura-office.com/joukin/）
+  - 「非常にシンプルな式ですが、実務では「誰の時間を分子に含めるか」「分母を何時間にするか」で迷うケースが多くあります」（https://gura-office.com/joukin/）
+  - 「「うちは週30時間を常勤にしているから…」というケース」（https://gura-office.com/joukin/）
+  - 「ため、結果として常勤換算の分母が大きくなり、人員不足と判定されるリスクがあります」（https://gura-office.com/joukin/）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+
+## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ホイヤーによるとこのステップが最も重要になります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「髙橋(2013)によると、井上の方法論は三つの側面から成り立っています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません」（https://note.com/haurix/n/ncc5a33f069f9）
+- 突き合わせ・推定：
+  - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「このプロセスではアナリストが「可能性が高い」と思われる仮説を一つ選択し、その正確性を証明するための証拠を使うことを阻止します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「次にアナリストは賛否のある証拠と（仮定と論理的推論を含む）仮説をリストアップします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「マトリックス（行列）を使って、アナリストは可能な限り多くの理論を反証するために、各仮説に対して証拠を適用します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「それは対立する仮説の相対的な可能性を判断するのに役立つ証拠があるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「アナリストは一つの仮説とすべての証拠を見るのではなく、一回ごとに一つの証拠を検討し、考えられるすべての仮説に対してそれを調べることをが奨励されています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「次にアナリストは各仮説の相対的な可能性について暫定的な結論を導き出そうとします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「マトリックスは各仮説について明確な数学的合計を生み出しますが、アナリストは最終的な結論を出すために自らの判断を用いる必要があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ACHはアナリストにマトリックスを構築するよう要求するため、証拠と仮説を逆追跡することができます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「社会構造主義者の批判によると、ACHはグリッドを生み出すために使われる仮説の初期形成の問題の性質を十分に強調することができません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+- 一次情報の探し方：
+  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「どの前提を採用し、どの前提を排除するかという判断が、モデルの訓練データと目標関数に暗黙的に委ねられている」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「LLMにおいて、どの前提が採用されるかは暗黙的な過程である」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「たとえば、「明治維新の原因は何か」という問いに対して、LLMは一連の整合的な回答を生成するが、その回答が暗黙的に採用している分析枠組み──たとえば西洋近代化論、内発的発展論、世界システム論など──のうちどれに依拠しているかは明示されず、他の枠組みからの回答は体系的に抑圧される」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「同様に、Active InferenceやJEPAが「本当に世界を理解しているのか」、それとも「理解しているように見える統計的パターンを学習しているだけか」を区別する明確な基準は存在しない」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「しかし、認識論的に重要な仮説──支配的なナラティブとは異なる解釈、少数派の科学的仮説、反直観的だが検証可能な理論──は、まさに統計的に低確率であるがゆえに、効率性の名のもとに排除されやすい」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「利用者が、どの前提を採用し、どの前提を修正し、どの前提を棄却するかを、情報に基づいて判断できるインターフェースを設計すること」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「LLMは、この営為の一部──言語的な表現と統計的なパターンの活用──において、人類が到達しえなかった水準に達した」（https://note.com/finalvent/n/n265e0b3c3c31）
+  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 失敗・落とし穴：
+  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは」（https://note.com/haurix/n/ncc5a33f069f9）
+- 実例：
+  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「アナリストは感度分析を使用して結果をテストします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
+  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
+  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
+  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
+- 検索結果の抜粋：
+  - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）

@@ -8,192 +8,8 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-07T03:58:11.874542+00:00",
+ "researched_at": "2026-11-07T09:04:54.067773+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
@@ -378,6 +194,190 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
@@ -495,12 +495,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kaizen_makoto/n/nca0be5bc783a",
+    "url": "https://note.com/z_lab/n/nc92c12d60ee6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/z_lab/n/nc92c12d60ee6",
+    "url": "https://note.com/hamichamp/n/n87e95386f145",
     "status": "ok",
     "method": "http"
    },
@@ -510,12 +510,12 @@
     "method": "http"
    },
    {
-    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
+    "url": "https://research.smeai.org/ai-hypothesis-generation-science-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://research.smeai.org/ai-hypothesis-generation-science-research/",
+    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "status": "ok",
     "method": "http"
    },
@@ -525,27 +525,12 @@
     "method": "http"
    },
    {
-    "url": "https://media.deskrex.ai/glossary-competitive-analysis-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jst.go.jp/moonshot/program/goal3/appeal/36_ushiku_ap01.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://linnk.ai/ja/research/forming-smarter-hypotheses/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jst.go.jp/moonshot/program/goal3/appeal/files/36_ushiku_ap01.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://koiyal.com/blog/hypothesis-testing-ai",
+    "url": "https://media.deskrex.ai/glossary-competitive-analysis-2026/",
     "status": "ok",
     "method": "http"
    },
@@ -553,6 +538,16 @@
     "url": "https://aitsushin.com/posts/generative-ai-product-planning-use-cases/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://qiita.com/s_horikoshi/items/0a11f6bb0a5c264b735e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/moonshot/program/goal3/appeal/files/36_ushiku_ap01.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
@@ -594,9 +589,9 @@
     "https://note.com/nonoonenono/n/n81384b25eaa8",
     "https://note.com/kzi_workshop/n/nb2e3b7d6ac73",
     "https://note.com/dear_rat4207/n/nca6faaa7ae68",
-    "https://note.com/kaizen_makoto/n/nca0be5bc783a",
     "https://note.com/z_lab/n/nc92c12d60ee6",
-    "https://note.com/hamichamp/n/n87e95386f145"
+    "https://note.com/hamichamp/n/n87e95386f145",
+    "https://note.com/kaizen_makoto/n/nca0be5bc783a"
    ]
   },
   {
@@ -605,35 +600,34 @@
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
     "https://note.com/aieconlab/n/n464fb20118a9",
     "https://note.com/nonoonenono/n/n81384b25eaa8",
-    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "https://research.smeai.org/ai-hypothesis-generation-science-research/",
+    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "https://uravation.com/media/ai-competitive-market-research-2026/",
-    "https://media.deskrex.ai/glossary-competitive-analysis-2026/"
+    "https://linnk.ai/ja/research/forming-smarter-hypotheses/"
    ]
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） やり方",
    "results": [
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://note.com/aieconlab/n/n464fb20118a9",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://www.jst.go.jp/moonshot/program/goal3/appeal/36_ushiku_ap01.html",
-    "https://linnk.ai/ja/research/forming-smarter-hypotheses/",
     "https://research.smeai.org/ai-hypothesis-generation-science-research/",
-    "https://media.deskrex.ai/glossary-competitive-analysis-2026/"
+    "https://media.deskrex.ai/glossary-competitive-analysis-2026/",
+    "https://linnk.ai/ja/research/forming-smarter-hypotheses/",
+    "https://aitsushin.com/posts/generative-ai-product-planning-use-cases/",
+    "https://qiita.com/s_horikoshi/items/0a11f6bb0a5c264b735e"
    ]
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） 事例",
    "results": [
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://note.com/aieconlab/n/n464fb20118a9",
+    "https://uravation.com/media/ai-competitive-market-research-2026/",
     "https://www.jst.go.jp/moonshot/program/goal3/appeal/files/36_ushiku_ap01.pdf",
-    "https://koiyal.com/blog/hypothesis-testing-ai",
-    "https://note.com/nonoonenono/n/n81384b25eaa8",
     "https://research.smeai.org/ai-hypothesis-generation-science-research/",
-    "https://aitsushin.com/posts/generative-ai-product-planning-use-cases/",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://media.deskrex.ai/glossary-competitive-analysis-2026/"
+    "https://aitsushin.com/posts/generative-ai-product-planning-use-cases/"
    ]
   },
   {
@@ -645,7 +639,7 @@
     "https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/",
     "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
     "https://kravensecurity.com/analysis-of-competing-hypotheses/",
-    "https://liberty91.com/blog/cti-trenches-analyst-tradecraft"
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques"
    ]
   },
   {
@@ -664,12 +658,12 @@
    "query": "site:x.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
     "https://x.com/deskrex/status/2099755099178631512",
-    "https://x.com/718t1iN64q11420/status/2031191902473826632",
-    "https://x.com/kokuzeikakekomi/status/2074648337698242646",
     "https://x.com/MacopeninSUTABA/status/2080066861593436202",
+    "https://x.com/718t1iN64q11420/status/2031191902473826632",
+    "https://x.com/connect24h/status/2101276445817663748",
+    "https://x.com/piske_cc/status/2078982991397945400",
     "https://x.com/MacopeninSUTABA/status/2097883259686318238",
-    "https://x.com/divergent_codex/status/2108531399116681388",
-    "https://x.com/connect24h/status/2101276445817663748"
+    "https://x.com/kokuzeikakekomi/status/2074648337698242646"
    ]
   },
   {
@@ -679,16 +673,16 @@
     "https://jp.linkedin.com/posts/敏勝-鎌仲-5b54852b1_ビジネス激変aiが仮説検証を100倍加速自動化された社会科学スライド公開-activity-7507241576105107456-5bWL",
     "https://www.linkedin.com/posts/neuromagic-experience-agency_生成aiで仮説検証を効率化ユーザーに響くプロダクトデザインの新戦略-activity-7294520676466536448-9XdO",
     "https://www.linkedin.com/posts/sakana-ai_sakana-aiは読売新聞社と共同でsns空間での中国による対日批判を分析しました-activity-7441649463477301248-Ww6g/?skipRedirect=true",
-    "https://jp.linkedin.com/posts/atsushi-nozaki_情報分析手法-生成ai-分析設計-activity-7498280383147335680-oTHy",
+    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
     "https://jp.linkedin.com/pulse/aiを活用したデータ分析の最前線日本と世界の実例で学ぶ成果が出る設計と運用-hide-fukano-i1hwc",
-    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT"
+    "https://jp.linkedin.com/posts/atsushi-nozaki_情報分析手法-生成ai-分析設計-activity-7498280383147335680-oTHy"
    ]
   },
   {
    "query": "site:facebook.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
-    "https://www.facebook.com/100057639182191/posts/令和8年20262月3日本学の業務運営dx作業部会および生成ai活用検証イニシアチブgauti主催で生成-ai-と共創に向けた学びの場を開催しました-事務職員を/1422587116339248/",
     "https://www.facebook.com/kddibusiness/photos/生成aiで業務効率プロセスを変革-kddi社内コンテスト厳選アイデア事例をご紹介kddiでは実務における生成ai活用を推進していますその一環として今年で第2回目/1251943700067809/",
+    "https://www.facebook.com/100057639182191/posts/令和8年20262月3日本学の業務運営dx作業部会および生成ai活用検証イニシアチブgauti主催で生成-ai-と共創に向けた学びの場を開催しました-事務職員を/1422587116339248/",
     "https://www.facebook.com/seminarbase/videos/新規事業で失敗する会社の共通点/2196483481132725/",
     "https://www.facebook.com/nikkeib2b/videos/財務競合環境分析の効率化脱属人化を無料トライアルで体感/1341003764229601/",
     "https://www.facebook.com/anozaki/posts/先日参加した-知財dxユーザー祭り2026-の振り返りをnoteにアップしました生成aiを組織に実装する前に考えるべきこと知財dxユーザー祭り2026に参加して/28602977205986785/",
@@ -702,23 +696,21 @@
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
     "https://note.com/aieconlab/n/n464fb20118a9",
     "https://note.com/nonoonenono/n/n81384b25eaa8",
-    "https://www.jst.go.jp/moonshot/program/goal3/appeal/36_ushiku_ap01.html",
-    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "https://media.deskrex.ai/glossary-competitive-analysis-2026/",
+    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "https://uravation.com/media/ai-competitive-market-research-2026/",
-    "https://research.smeai.org/ai-hypothesis-generation-science-research/"
+    "https://linnk.ai/ja/research/forming-smarter-hypotheses/"
    ]
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） X 投稿",
    "results": [
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
-    "https://www.jst.go.jp/moonshot/program/goal3/appeal/36_ushiku_ap01.html",
     "https://note.com/aieconlab/n/n464fb20118a9",
-    "https://www.jst.go.jp/moonshot/program/goal3/appeal/files/36_ushiku_ap01.pdf",
-    "https://research.smeai.org/ai-hypothesis-generation-science-research/",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
+    "https://www.jst.go.jp/moonshot/program/goal3/appeal/files/36_ushiku_ap01.pdf",
     "https://linnk.ai/ja/research/forming-smarter-hypotheses/",
+    "https://research.smeai.org/ai-hypothesis-generation-science-research/",
     "https://media.deskrex.ai/glossary-competitive-analysis-2026/"
    ]
   },
@@ -730,13 +722,13 @@
     "https://in.linkedin.com/posts/ole-donner_analysis-of-competing-hypotheses-for-digital-activity-7025432512029970433-Zwcj",
     "https://uk.linkedin.com/posts/ole-donner_psychology-of-intelligence-analysis-richards-activity-7023923723569135616-5dds",
     "https://pe.linkedin.com/posts/dr-avner-barnea-90055_analysis-of-competing-hypotheses-an-overview-activity-7127649525468397570-tUll",
-    "https://dk.linkedin.com/posts/ole-donner_ach-sach-activity-7024680138243993603-RJRa",
-    "https://nl.linkedin.com/posts/ole-donner_how-to-perform-an-analysis-of-competing-hypotheses-activity-7041687135061438464-l44Z"
+    "https://nl.linkedin.com/posts/ole-donner_how-to-perform-an-analysis-of-competing-hypotheses-activity-7041687135061438464-l44Z",
+    "https://dk.linkedin.com/posts/ole-donner_ach-sach-activity-7024680138243993603-RJRa"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T04:36:16.255544+00:00"
 }
