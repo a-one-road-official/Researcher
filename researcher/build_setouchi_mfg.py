@@ -88,6 +88,9 @@ PORTALS = set(MEDIA.values()) | {
     "nta.go.jp", "e-stat", "monotaro.com", "aperza.jp", "metoree.com", "emidas", "ncnet", "nc-net.or.jp", "mono.ipros.com",
     "buffett-code.com", "irbank.net", "kaisha-hyouban", "careerjet", "glassdoor", "jobcatalog", "arubaito-ex", "gakujo.ne.jp",
     "career-tasu.jp", "offerbox.jp", "onecareer.jp", "unistyle.jp", "shukatsu", "rikeinavi", "kosen", "jobway", "hellowork.careers",
+    # 2026-11-07 走査の失敗から（inputs/setouchi_mfg.csv で複数社の「公式URL」に同じ求人・DB・まとめのホストが入っていた）
+    "mynavi-agent", "mynavi", "cybo.com", "freehire", "mindcity", "pitact", "atengineer", "tenshoku-ex", "goo.to", "data-link-plus",
+    "job-net", "job-select", "informer.com", "b2bportal", "kensetumap", "jimo-navi", "kigyo-zukan", "vercel.app", "aqsh.co.jp",
 }
 # 大手のグループ会社（社名に親の名前が入る）。中小の一覧に入れない
 BIG_GROUP = re.compile(r"^(マツダ|トヨタ|デンソー|三菱|日立|東芝|パナソニック|川崎重工|住友|三井|JFE|ＪＦＥ|日本製鉄|神戸製鋼|コベルコ|IHI|ＩＨＩ|"
@@ -167,6 +170,9 @@ def cmp_key(name: str) -> str:
 def valid_name(core: str) -> bool:
     """社名として通すか。求人サイトの文言・見出し・業種名・大手のグループ会社は通さない（METHOD.md 2章・4-8）。"""
     if core in TRADES or core in MFG_WORDS or core.endswith(("業", "業界")) and len(core) <= 4:
+        return False
+    # 2026-11-07 走査の失敗：説明会のブース番号（「106」「146」など）が社名に入った。数字・記号だけの名は社名にしない
+    if re.fullmatch(r"[0-9\-\s]+", unicodedata.normalize("NFKC", core)):
         return False
     if len(core) < 2 or NOT_COMPANY.search(core) or re.fullmatch(r"[0-9A-Za-z\-]+", core) and len(core) < 3:
         return False
@@ -452,6 +458,12 @@ def write_outputs(finished: bool = True) -> None:
         if not cur or int(src.get((r["name"], r["pref"]), {}).get("mentions", 0)) > int(src.get((cur["name"], cur["pref"]), {}).get("mentions", 0)):
             best[k] = r
     ok = list(best.values())
+    # 2026-11-07 4-8・走査の失敗：違う社名の2社以上が同じホストを「公式URL」に持つなら、そのホストは求人・DB・まとめの型。どの社の公式にもしない
+    owners = defaultdict(set)
+    for r in ok:
+        owners[_host(r["official_url"]).removeprefix("www.")].add(cmp_key(r["name"]))
+    shared = {h for h, ks in owners.items() if len(ks) >= 2}
+    ok = [r for r in ok if _host(r["official_url"]).removeprefix("www.") not in shared]
 
     with open(ROOT / "inputs" / "setouchi_mfg.csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)

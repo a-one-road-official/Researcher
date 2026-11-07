@@ -4,6 +4,7 @@ Runs on GitHub Actions, so no Claude session allowlist applies. No AI.
 """
 from __future__ import annotations
 
+import os
 import io
 import re
 import subprocess
@@ -98,6 +99,38 @@ def _pdf_child(data: bytes, q) -> None:
 
 
 def pdf_text(data: bytes, timeout: int = 60) -> str:
+    """文字の層がある PDF は pypdf で読み、文字がほとんど取れない（スキャン画像の）PDF は先頭のページを画像にして OCR する。
+    2026-11-07 METHOD.md 4-80（Tabula はテキストの PDF しか読めない）：HEALTH.md の「検索は当たったが本文から取れない」の層の一部は画像の PDF。"""
+    t = _pdf_text_parse(data, timeout)
+    if len(re.sub(r"\s", "", t)) >= 200:
+        return t
+    o = _pdf_ocr(data)
+    if o:
+        return (t + "\n[OCR] " + o).strip()  # OCR の文字は印を付けて、走査で【OCR】として扱える形にする
+    return t
+
+
+def _pdf_ocr(data: bytes, pages: int = 5) -> str:
+    import shutil
+    if not shutil.which("pdftoppm") or not shutil.which("tesseract"):
+        return ""
+    try:
+        with tempfile.TemporaryDirectory() as d:
+            src = os.path.join(d, "in.pdf")
+            with open(src, "wb") as f:
+                f.write(data)
+            subprocess.run(["pdftoppm", "-r", "200", "-l", str(pages), "-png", src, os.path.join(d, "p")], capture_output=True, timeout=120)
+            outs = []
+            for fn in sorted(os.listdir(d)):
+                if fn.endswith(".png"):
+                    with open(os.path.join(d, fn), "rb") as g:
+                        outs.append(ocr_bytes(g.read()))
+            return "\n".join(o for o in outs if o)
+    except Exception:
+        return ""
+
+
+def _pdf_text_parse(data: bytes, timeout: int = 60) -> str:
     """Parse in a child process with a memory cap and a time limit: one broken or huge
     PDF (e.g. Japanese CMap fonts) must cost only that PDF, never the whole shard."""
     import multiprocessing as mp

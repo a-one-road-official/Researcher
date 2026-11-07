@@ -87,7 +87,7 @@ jobs:
         run: |
           python -m pip install -q -r researcher/requirements.txt
           python -m playwright install --with-deps chromium
-          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-jpn
+          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-jpn poppler-utils
       - name: Research one shard
         run: python -m researcher.run --topic "${{ matrix.topic }}" --shard ${{ matrix.shard }} --shards ${{ matrix.shards }} --limit ${{ matrix.limit }} --out "shard_out/${{ matrix.topic }}/companies"
       - uses: actions/upload-artifact@v4
