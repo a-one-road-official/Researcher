@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-07T11:48:16.646782+00:00",
+ "researched_at": "2026-11-07T17:13:43.772540+00:00",
  "evidence": {
   "実例": [
    {
@@ -372,18 +372,626 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "検索結果の抜粋": [
+  "失敗・落とし穴": [
    {
-    "quote": "GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...",
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · The T plus 3-month revision is actually more negative than the T plus 36-month vintage, but this is influenced by a couple of important periods during the pandemic period, when there were some large negative revisions in the early estimates, which were subsequently revised up when the more detailed data became available b",
+    "quote": "Some revisions correct mistakes. Many do not.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A fictional worked example of revision bias",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "scale changes are mistaken for economic change.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GDP quality and methodology information (QMI)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For reproducible work, record the dataset identifier, access or extraction date, release vintage where available, transformation steps and any local copy used for the analysis.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A transparent policy explains which products are provisional, when routine revisions occur, what can trigger major revisions, how unexpected errors are corrected and where users can find methodological notes.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A single field called “updated” is too weak for a serious revision system. Readers need to know whether the data matured, the method changed or an error was repaired.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Eurostat documentation for national accounts describes routine revision windows and coordinated benchmark revisions that can generate long historical series under updated methods.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "methodological updates, newly available data, and technical adjustments.",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Structural changes in methodology",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor Changes in Estimation Methods",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Integration of new data sources or methods",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "unless there is a major methodological update.",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Benchmark revisions (methodological changes)",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Concepts and methodologies used in national accounts",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor changes in estimation methods",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "survey weighting methods",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "time series dataset. It supports three primary methods:",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "analyze revisions using different methods. Below are some practical",
+    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "as a foundational structure for analyzing revisions. Then, it illustrates how to use the function",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "after their initial publication. These revisions occur due to a variety of reasons, including methodological updates, newly available data, and technical adjustments. Understanding why revisions happen is crucial for properly interpreting economic indicators and assessing data reliability.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "| Structural changes in methodology |",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor Changes in Estimation Methods",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "| Integration of new data sources or methods |",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", while older data remains unchanged unless there is a major methodological update.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Benchmark revisions (methodological changes)",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Concepts and methodologies used in national accounts",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor changes in estimation methods",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "their estimation methods:",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "survey weighting methods",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can lead to revisions as agencies shift to more sophisticated data integration methods.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the next step is to",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The function allows users to compute revisions by comparing different vintages of a time series dataset. It supports three primary methods:",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "function to analyze revisions using different methods. Below are some practical examples using GDP revision data.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "as a foundational structure for analyzing revisions. Then, it illustrates how to use the function",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "after their initial publication. These revisions occur due to a variety of reasons, including methodological updates, newly available data, and technical adjustments. Understanding why revisions happen is crucial for properly interpreting economic indicators and assessing data reliability.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "| Structural changes in methodology |",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor Changes in Estimation Methods",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "| Integration of new data sources or methods |",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", while older data remains unchanged unless there is a major methodological update.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Benchmark revisions (methodological changes)",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Concepts and methodologies used in national accounts",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Minor changes in estimation methods",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "their estimation methods:",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "survey weighting methods",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can lead to revisions as agencies shift to more sophisticated data integration methods.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the next step is to",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". The function allows users to compute revisions by comparing different vintages of a time series dataset. It supports three primary methods:",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "function to analyze revisions using different methods. Below are some practical examples using GDP revision data.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The focus should be on improving access to data. During periods of significant economic change, there is a greater need to estimate GDP more precisely, using signals from different parts of the economy. The aim is to think about what data sources and methods can be used to reduce reliance on the more traditional assumptions of the production approach.",
+    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Undoubtably the most important characteristic for a statistics producer is transparency: transparency about the data sources; transparency about the methods; and transparency about what the data does and doesn’t mean. The ONS already publishes information on the revision performance of early estimates of GDP but could do more to enhance transparency.”",
+    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Johnny Runge (@JohnnyRunge) is a Senior Research Fellow at the Policy Institute at King’s College London. He has particular strong expertise in qualitative methods, including interviews, focus groups, surveys, and content analysis.",
+    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "performed in a second step.",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Producers use revision studies to identify particul ar methods that could be improved or",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "because of the introduction of new methodologies, concepts, classifications, etc.;",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This general policy will also describe reasons for data revisions, how to manage scheduled",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "simultaneously in a single revision (current revision policy). This method tries to avoid unsettling",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "accounts. A consistent and coherent framework for a ll statistics, which produces data always in",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological improvements. This should be conside red as good practice as it avoids revisions",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on the total revisions of the time series and infor m the users. However, a change in the method",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "elements: the pre-announcing strategy, how to commu nicate in advance information on causes",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological change is of major relevance for a c ountry, leading to more accurate figures, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "country could introduce the methodological change a s soon as possible provided that the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "announced and synchronised. Methodological revisions, which foster accuracy of important",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "coordinated. Methodological revisions, which foster accuracy of important indicators mentioned",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "between different domains. Methodological revisions at a country level, which foster accuracy of",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How To Think About Real-Time Policymaking When Data Are Mismeasured",
+    "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "this document for other sophisticated / specific user methods.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "aware of changes to compilation methods that may have occurred over time to the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "突き合わせ・推定": [
@@ -958,6 +1566,20 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a...",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GDP revisions in Blue Book - Office for National Statistics — Oct 31, 2025 · The T plus 3-month revision is actually more negative than the T plus 36-month vintage, but this is influenced by a couple of important periods during the pandemic period, when there were some large negative revisions in the early estimates, which were subsequently revised up when the more detailed data became available b",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
@@ -1055,628 +1677,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GDP quality and methodology information (QMI)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For reproducible work, record the dataset identifier, access or extraction date, release vintage where available, transformation steps and any local copy used for the analysis.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A transparent policy explains which products are provisional, when routine revisions occur, what can trigger major revisions, how unexpected errors are corrected and where users can find methodological notes.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A single field called “updated” is too weak for a serious revision system. Readers need to know whether the data matured, the method changed or an error was repaired.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Eurostat documentation for national accounts describes routine revision windows and coordinated benchmark revisions that can generate long historical series under updated methods.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methodological updates, newly available data, and technical adjustments.",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Structural changes in methodology",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor Changes in Estimation Methods",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Integration of new data sources or methods",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "unless there is a major methodological update.",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Benchmark revisions (methodological changes)",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Concepts and methodologies used in national accounts",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor changes in estimation methods",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey weighting methods",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "time series dataset. It supports three primary methods:",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "analyze revisions using different methods. Below are some practical",
-    "url": "https://nationalcouncil.artsci.wustl.edu/web/packages/reviser/vignettes/understanding-revisions.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "as a foundational structure for analyzing revisions. Then, it illustrates how to use the function",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "after their initial publication. These revisions occur due to a variety of reasons, including methodological updates, newly available data, and technical adjustments. Understanding why revisions happen is crucial for properly interpreting economic indicators and assessing data reliability.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "| Structural changes in methodology |",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor Changes in Estimation Methods",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "| Integration of new data sources or methods |",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", while older data remains unchanged unless there is a major methodological update.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Benchmark revisions (methodological changes)",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Concepts and methodologies used in national accounts",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor changes in estimation methods",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "their estimation methods:",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey weighting methods",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "can lead to revisions as agencies shift to more sophisticated data integration methods.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", the next step is to",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The function allows users to compute revisions by comparing different vintages of a time series dataset. It supports three primary methods:",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "function to analyze revisions using different methods. Below are some practical examples using GDP revision data.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "as a foundational structure for analyzing revisions. Then, it illustrates how to use the function",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "after their initial publication. These revisions occur due to a variety of reasons, including methodological updates, newly available data, and technical adjustments. Understanding why revisions happen is crucial for properly interpreting economic indicators and assessing data reliability.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "| Structural changes in methodology |",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor Changes in Estimation Methods",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "| Integration of new data sources or methods |",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", while older data remains unchanged unless there is a major methodological update.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Benchmark revisions (methodological changes)",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Concepts and methodologies used in national accounts",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Minor changes in estimation methods",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "their estimation methods:",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "survey weighting methods",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "can lead to revisions as agencies shift to more sophisticated data integration methods.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", the next step is to",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". The function allows users to compute revisions by comparing different vintages of a time series dataset. It supports three primary methods:",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "function to analyze revisions using different methods. Below are some practical examples using GDP revision data.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/understanding-revisions.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The focus should be on improving access to data. During periods of significant economic change, there is a greater need to estimate GDP more precisely, using signals from different parts of the economy. The aim is to think about what data sources and methods can be used to reduce reliance on the more traditional assumptions of the production approach.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Undoubtably the most important characteristic for a statistics producer is transparency: transparency about the data sources; transparency about the methods; and transparency about what the data does and doesn’t mean. The ONS already publishes information on the revision performance of early estimates of GDP but could do more to enhance transparency.”",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Johnny Runge (@JohnnyRunge) is a Senior Research Fellow at the Policy Institute at King’s College London. He has particular strong expertise in qualitative methods, including interviews, focus groups, surveys, and content analysis.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "performed in a second step.",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• Producers use revision studies to identify particul ar methods that could be improved or",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "because of the introduction of new methodologies, concepts, classifications, etc.;",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This general policy will also describe reasons for data revisions, how to manage scheduled",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "simultaneously in a single revision (current revision policy). This method tries to avoid unsettling",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "accounts. A consistent and coherent framework for a ll statistics, which produces data always in",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological improvements. This should be conside red as good practice as it avoids revisions",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on the total revisions of the time series and infor m the users. However, a change in the method",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "elements: the pre-announcing strategy, how to commu nicate in advance information on causes",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological change is of major relevance for a c ountry, leading to more accurate figures, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "country could introduce the methodological change a s soon as possible provided that the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "announced and synchronised. Methodological revisions, which foster accuracy of important",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "coordinated. Methodological revisions, which foster accuracy of important indicators mentioned",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "between different domains. Methodological revisions at a country level, which foster accuracy of",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How To Think About Real-Time Policymaking When Data Are Mismeasured",
-    "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "this document for other sophisticated / specific user methods.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "aware of changes to compilation methods that may have occurred over time to the",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Some revisions correct mistakes. Many do not.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A fictional worked example of revision bias",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "scale changes are mistaken for economic change.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be of limited use (also called “average bias”).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -1713,12 +1713,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1728,19 +1738,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun207/bun207a.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
@@ -1748,14 +1748,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.ism.ac.jp/ism_info_j/labo/column/116.html",
@@ -1768,7 +1763,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.soumu.go.jp/main_content/000900563.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1778,7 +1783,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna//data/reference1/h12/pdf/honbun.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1788,19 +1793,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/esri/about/statistical_reform/main.html",
+    "url": "https://it-trend.jp/process_management/article/464-0007",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2016/0425/shiryo_04-5.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/esri/about/statistical_reform/main.html",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000259623",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
@@ -1828,9 +1828,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
+    "url": "https://cepr.org/voxeu/columns/facing-uncertainty-official-economic-statistics",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    }
   ]
  },
@@ -1846,24 +1846,34 @@
     "https://note.com/arima_planning/n/n896976d43a52",
     "https://note.com/hirokimiyano/n/nd59c76298f07",
     "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "https://note.com/tatsuya_sabato/n/n505816df3672",
-    "https://note.com/akiyoshitakumori/n/n2bd93f5cd750"
-   ]
+    "https://note.com/akiyama924/n/n16b7eb13017a",
+    "https://note.com/tatsuya_sabato/n/n505816df3672"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法 note",
    "results": [
-    "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
     "https://note.com/satoruhiguchi/n/nef38cf36c558",
     "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
-    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://nira.or.jp/paper/report0810.pdf",
-    "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun207/bun207a.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "https://www.soumu.go.jp/main_content/000900563.pdf"
-   ]
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.soumu.go.jp/main_content/000739273.pdf",
+    "https://www.soumu.go.jp/main_content/000949198.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法 やり方",
@@ -1878,7 +1888,12 @@
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
     "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
-   ]
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法 事例",
@@ -1889,11 +1904,16 @@
     "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/hitokoto_kako/20211126hitokoto.html",
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.esri.cao.go.jp/jp/sna//data/reference1/h12/pdf/honbun.pdf",
     "https://www3.boj.or.jp/josa/past_release/chosa199605e.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://www.soumu.go.jp/main_content/000900563.pdf"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "national statistics revisions analysis vintages methodological change period uncertainty",
@@ -1903,27 +1923,37 @@
     "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
     "https://stats.je/revisions-policy/",
     "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/revisions-to-official-data-on-u.s.-gnp-a-multivariate-assessment-of-different-vintages.pdf",
+    "https://cepr.org/voxeu/columns/facing-uncertainty-official-economic-statistics",
     "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
     "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "https://www.sciencedirect.com/science/article/abs/pii/S0169207001001455",
-    "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/edition-8/chapter-24-quality-national-accounts/revisions",
-    "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd"
-   ]
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6475410/",
+    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "site:note.com 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法",
    "results": [
     "https://note.com/satoruhiguchi/n/nef38cf36c558",
     "https://note.com/shigen_kanri/n/nc4bd67c4f537",
-    "https://note.com/kagawatomo/n/n687d06146be1",
     "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "https://note.com/pogohopper8/n/n36397cef54a9",
-    "https://note.com/shigen_kanri/n/nfc32e998c42a",
+    "https://note.com/kagawatomo/n/n687d06146be1",
     "https://note.com/aa30192/n/nd7d497b0ebe7",
     "https://note.com/brave_dietes50/n/n9f8aebd89d27",
-    "https://note.com/shigen_kanri/n/n8a81e7867b10",
+    "https://note.com/shigen_kanri/n/nfc32e998c42a",
+    "https://note.com/pogohopper8/n/n36397cef54a9",
+    "https://note.com/kagawatomo/n/n5cbaf70a8af2",
     "https://note.com/reading_monkey/n/nb4f7a87c0dc0"
-   ]
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:x.com 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法",
@@ -1933,12 +1963,18 @@
     "https://x.com/KagawaTomo/article/2077913764050190547",
     "https://x.com/iidatetsunari/status/2095768343340855372",
     "https://x.com/africanist_jp/article/2072969842462720392",
-    "https://jf.x.com/images/media-preview/2116176273227784458",
-    "https://jf.x.com/images/media-preview/2116107399316820071",
+    "https://jf.x.com/images/media-preview/2104511511498719565",
+    "https://jf.x.com/images/media-preview/2095541171330400481",
+    "https://x.com/tweet_taiki/status/2107065764557824203",
     "https://x.com/smo_yutohisano/status/2075165578747342927",
-    "https://x.com/h_picnic/status/2101099746471375196",
-    "https://x.com/oasis_mfg_map/status/2085565342483624428"
-   ]
+    "https://x.com/toukei_kentei/status/2073937196181295453"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "site:linkedin.com 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法",
@@ -1947,40 +1983,54 @@
     "https://jp.linkedin.com/in/%E5%B0%9A%E5%8F%B2-%E5%A2%97%E6%B0%B8-164925156",
     "https://jp.linkedin.com/pulse/%E3%81%AA%E3%81%9C%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC%E5%81%9C%E9%9B%BB%E8%87%AA%E5%8B%95%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-market%E3%81%AF2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB43%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%82%92%E7%B6%9A%E3%81%91%E6%B3%A8%E7%9B%AE%E3%81%99%E3%81%B9%E3%81%8D%E4%B8%BB%E8%A6%81%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF-gnrbe",
     "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B164-toru-%E4%BA%A8-hara-%E5%8E%9F-s4bxc",
-    "https://www.linkedin.com/in/swrzesien",
+    "https://www.linkedin.com/jobs/dialamerica-jobs",
     "https://jp.linkedin.com/pulse/how-improve-production-planning-scheduling-better-output-amit-mittal-eyopf?tl=ja",
     "https://jp.linkedin.com/pulse/iso-90012026-what-new-revision-really-means-dr-kamran-moosa-jypdf?tl=ja",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7336587669252055040/",
-    "https://tw.linkedin.com/pulse/品質工程統計製程管制statistical-process-control-spc的架構與使用-jeff-lee-asq-cqe",
-    "https://jp.linkedin.com/in/shoji-nomoto-2624892b6"
-   ]
+    "https://www.linkedin.com/posts/masayuki-i-b951649a_イシューからはじめよ改訂版知的生産のシンプルな本質-activity-7299229730157838336-7JoG",
+    "https://jp.linkedin.com/in/shoji-nomoto-2624892b6",
+    "https://jp.linkedin.com/pulse/how-measure-employee-productivity-step-by-step-guide-leaders-brown-bvr8c?tl=ja"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
   },
   {
    "query": "site:facebook.com 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法",
    "results": [
-    "https://www.facebook.com/people/四国生産性本部/100064911660563/",
     "https://www.facebook.com/NARO.go.jp/photos/中山間地域の水田転換畑で課題となる排水不良に対応した排水対策技術sop改訂版を公開生産者が設計図を基に自ら排水性を改善できる技術です改訂版では小麦の収量約10向/1764455148301825/",
+    "https://www.facebook.com/alicjapan/photos/野菜ブック改訂版オンデマンド販売開始しました-野菜ブックはわが国の野菜生産の現状や特性などについて理解を深め健全な食生活を実践いただくための参考書として平成１６/702328712075502/",
     "https://www.facebook.com/maffjapan/posts/統計情報令和７年の漁業養殖業生産統計を公表しましたので概要を紹介します-令和７年の漁業養殖業の生産量は357万7400ｔで前年に比べて５万8800ｔ16減少しま/1468530048646536/",
-    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に関する議論学校では学習指導要領をもとに学習の目標や内容を定めています現在約10年に一度行われる学習指導要領の改訂に向けた審議が進んでいますこ/1279969417499536/",
+    "https://www.facebook.com/YamaguchiUniversityOfficial/photos/山口大学大学院医学系研究科医学専攻-医学系研究科医学部附属病院aiシステム医学医療研究教育センターの安部武志助教大学院医学系研究科医学専攻システムバイオインフォ/1164532201410623/",
     "https://www.facebook.com/maffjapan/posts/統計情報令和6年農業産出額等を公表しましたので概要を紹介します1農業総産出額及び生産農業所得全国令和6年の農業総産出額は米や野菜の価格が上昇したこと等から前年に/1325893002910242/",
-    "https://www.facebook.com/bijicari/posts/705454554919469/",
-    "https://www.facebook.com/YamaguchiUniversityOfficial/photos/山口大学大学院医学系研究科医学専攻-医学系研究科医学部附属病院aiシステム医学医療研究教育センターの安部武志助教大学院医学系研究科医学専攻システムバイオインフォ/1164532201410623/"
-   ]
+    "https://www.facebook.com/bijicari/videos/３級生産管理テキスト順次発刊/969656380719553/",
+    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に関する議論学校では学習指導要領をもとに学習の目標や内容を定めています現在約10年に一度行われる学習指導要領の改訂に向けた審議が進んでいますこ/1279969417499536/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法 note 社長",
    "results": [
     "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://www.rieti.go.jp/jp/papers/contribution/yasashii22/06.html",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.ism.ac.jp/ism_info_j/labo/column/116.html",
     "https://www.meti.go.jp/statistics/toppage/report/minikaisetsu/hitokoto_kako/20211126hitokoto.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.rieti.go.jp/jp/papers/contribution/yasashii22/06.html",
     "https://www.tkfd.or.jp/research/detail.php?id=4396",
-    "https://www.soumu.go.jp/main_content/000900563.pdf"
-   ]
+    "https://www.ism.ac.jp/ism_info_j/labo/column/116.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.soumu.go.jp/main_content/000949198.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法 X 投稿",
@@ -1994,116 +2044,37 @@
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://www.tkfd.or.jp/research/detail.php?id=4396",
     "https://www.ism.ac.jp/ism_info_j/labo/column/116.html",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
-   ]
+    "https://www.soumu.go.jp/main_content/000900563.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "national statistics revisions analysis vintages methodological change period uncertainty site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/review-of-finance_reviewoffinance-finance-activity-7510594196383182849-7OCu",
     "https://www.linkedin.com/in/jinfei-sheng-99954294",
-    "https://www.linkedin.com/in/samuele-centorrino/fr",
-    "https://www.linkedin.com/in/cristianhomescu",
     "https://www.linkedin.com/in/dpettenuzzo",
+    "https://www.linkedin.com/in/cristianhomescu",
+    "https://www.linkedin.com/in/samuele-centorrino/fr",
+    "https://www.linkedin.com/in/lisalines",
     "https://ch.linkedin.com/in/daniel-hopp-94683369",
+    "https://www.linkedin.com/in/sebastian-krantz-phd-91a08aa9",
     "https://www.linkedin.com/pulse/2026-mid-year-investment-perspectives-ken-caplan-rli9e",
-    "https://www.linkedin.com/in/arto-kovanen-1a425a22",
-    "https://www.linkedin.com/in/cecl-alll",
-    "https://www.linkedin.com/in/sebastian-krantz-phd-91a08aa9"
-   ]
+    "https://www.linkedin.com/in/cecl-alll"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "Most important statistics are actually an “estimate” – a statistical judgement that is subject to some degree of uncertainty. So how can we best communicate that uncertainty while still maintaining trust in the statistics themselves?",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GDP is a continuously evolving estimate, updated as new data become available. Revisions are normal, unavoidable and an inherent part of measuring the complexity of contemporary economies. They should not be seen as errors or corrections, much less as blunders or failures.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1. “How do we communicate the uncertainty of GDP estimates as they evolve?”",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The aim is to use sufficient qualitative and quantitative analysis to enhance public understanding of uncertainty, without reducing the trust in these estimates.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "During times of significant cyclical and structural changes, there is greater interest in these high-profile statistics. The aim is to develop a deeper understanding of the wide and diverse user base for both early and mature GDP estimates. It is also important to improve access to, and usability of, explanatory information on GDP revisions.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The focus should be on improving access to data. During periods of significant economic change, there is a greater need to estimate GDP more precisely, using signals from different parts of the economy. The aim is to think about what data sources and methods can be used to reduce reliance on the more traditional assumptions of the production approach.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A common factor in this uncertainty is the trade-off between timeliness and accuracy. Timely estimates of GDP are based on incomplete data; more accurate estimates are possible once more data is available, but they are not as timely. In essence, this is the conceptual problem that leads to revisions.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While this conceptual problem is well-recognised, there are barriers to public understanding. The first is that the idea of an early estimate of GDP, which is iterative and updated over time. This may clash with people’s perception of GDP as a fixed measurement of the economy.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Undoubtably the most important characteristic for a statistics producer is transparency: transparency about the data sources; transparency about the methods; and transparency about what the data does and doesn’t mean. The ONS already publishes information on the revision performance of early estimates of GDP but could do more to enhance transparency.”",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "On one hand, I can see some clear potential advantages to communication of uncertainty. There is support from online experiments on communicating data uncertainty when publishing economic estimates, including papers by David Spiegelhalter (on unemployment), Galvao and Mitchell (",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Second, statistics producers must ensure that the inherent uncertainty of GDP estimates is always conveyed, recognising that revisions may occur. This may require ongoing experimentation to identify the best communications approaches.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The focus should be on improving access to data. During periods of significant economic change, there is a greater need to estimate GDP more precisely, using signals from different parts of the economy. The aim is to think about what data sources and methods can be used to reduce reliance on the more traditional assumptions of the production approach.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Undoubtably the most important characteristic for a statistics producer is transparency: transparency about the data sources; transparency about the methods; and transparency about what the data does and doesn’t mean. The ONS already publishes information on the revision performance of early estimates of GDP but could do more to enhance transparency.”",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Johnny Runge (@JohnnyRunge) is a Senior Research Fellow at the Policy Institute at King’s College London. He has particular strong expertise in qualitative methods, including interviews, focus groups, surveys, and content analysis.",
-    "url": "https://www.escoe.ac.uk/revising-gdp-the-challenge-of-uncertainty/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ]
- },
- "runs": 4,
+ "new_this_run": {},
+ "runs": 5,
  "first_researched_at": "2026-11-06T20:45:08.333390+00:00"
 }

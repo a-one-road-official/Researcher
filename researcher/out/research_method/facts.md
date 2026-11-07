@@ -6140,9 +6140,9 @@
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -6320,22 +6320,24 @@
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
-  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Stephen Artner, Richard S. Girven, and James B. Bruce」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「* One promising method of assessing these techniques」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「One primarily qualitative method of evaluating these」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「their use, and the need for additional analytic methodologies.」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「SATs are methods of organizing and stimulating thinking」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「about intelligence problems. These methods aim to make the」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「SATs provide analysts with clear, often step-by-step, guid-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「also provide step-by-step guidance for designing analysis to」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「We interviewed analytic managers and analytic methodologists」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「tional analytic methodologies. We also held an analyst focus」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「IC to reinforce analytic methods that challenge long-standing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「complex problems." One critique of the ACH method argues」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「managers, analysts, and methodologists in 2014 indicate that」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「STEPS TOWARD SYSTEMATIC」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「tion to a single method. The RAND pilot project documented」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
 - 突き合わせ・推定：
+  - 「techniques that estimate (see Fig. 10).」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「C. S. Fleisher list the following reasons why analytic techniques are underestimated」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
@@ -6344,6 +6346,10 @@
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
   - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 一次情報の探し方：
+  - 「FINAL1.pdf, accessed 20.10.2016.」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「wp-content/uploads/2013/06/03.-Taxonomy-of-Structured-Analytic-Techniques_FINAL.pdf, accessed」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「uploads/2014/05/Paper_1_2014_FINAL1.pdf, accessed 20.10.2016.」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「pdf, accessed 11.10. 2016.」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -6355,42 +6361,38 @@
   - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
-  - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「the probability of errors caused by numerous cognitive biases」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「tive bias and reducing it. Chief among such biases often seen in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「* confirmation bias—a tendency to search for or interpret」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「In addition to their significant debiasing capabilities, SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「ficult problems and, in the process, help reduce potential biasing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「larity in part because they specifically address cognitive pitfalls」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「most important SATs—reduced confirmation bias only」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「mitigating the cognitive pitfalls they are designed to address,」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「・ What are the most important best practices and pitfalls in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「・ To what extent do SATs help overcome mindset bias, satis-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「ficing, and other cognitive pitfalls that plague analysis?」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「avoiding cognitive biases and fallacies. This does not mean the accuracy of predictions and assessments」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
 - 実例：
+  - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「can be misapplied in individual cases. Proponents of SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「reexamination of assumptions and, in some cases, height-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「have otherwise been the case. In some cases, this may be」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「on factors other than its analytic quality. For example, whether」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「such cases, the analyst should not hesitate to give suggestions to the supervisor and」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「methods, which, among others, include methods such as evidentiary reasoning, case」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「Trade Centre, for example) to explore new methods of analysis and training analysts,」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
+  - 「Cycle, such as: orientation, in the case of scenario evaluation techniques (Backcasting)」（https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283）
   - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
 
 ## DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）（diffusion index percentage points misread statistics journalism）
 - 文脈：失敗
